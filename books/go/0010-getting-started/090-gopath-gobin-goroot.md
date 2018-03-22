@@ -19,7 +19,7 @@ Go tools expect a certain layout of the source code.
 * `bin` — location of executables built by Go
 
 Like the system `PATH` environment variable, Go path is a `:` (`;` on Windows) delimited list of directories where Go will look for packages. The `go get` tool will also download packages to the first directory in this list.
-'
+
 Since Go 1.8, the `GOPATH` environment variable will have a default value if it is unset. It defaults to `$HOME/go` on Unix/Linux and `%USERPROFILE%/go` on Windows.
 
 Some tools assume that `GOPATH` only consists of a single directory.

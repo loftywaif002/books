@@ -11,6 +11,7 @@ Go has fixed-size signed and unsigned integers:
 * `byte` is an alias for `uint8`
 * `int16`, `uint16`
 * `int32`, `uint32`
+* `rune` is an alias for `int32`
 * `int64`, `uint64`
 
 It also has architecture-dependent integers:

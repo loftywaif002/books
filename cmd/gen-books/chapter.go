@@ -10,7 +10,7 @@ import (
 
 // Chapter represents a book chapter
 type Chapter struct {
-	*Doc
+	*MarkdownFile
 
 	Book       *Book
 	ChapterDir string

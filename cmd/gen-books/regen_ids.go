@@ -35,7 +35,7 @@ func regenIDSAndExit() {
 				continue
 			}
 
-			path := chapter.sourceMdFilePath
+			path := chapter.Path
 			doc, err := kvstore.ParseKVFile(path)
 			u.PanicIfErr(err)
 
@@ -46,7 +46,7 @@ func regenIDSAndExit() {
 			docs = append(docs, mdoc)
 
 			for _, article := range chapter.Articles {
-				path := article.sourceMdFilePath
+				path := article.Path
 				doc, err := kvstore.ParseKVFile(path)
 				u.PanicIfErr(err)
 

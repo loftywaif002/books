@@ -230,18 +230,21 @@ func markdownToUnsafeHTML(md []byte, defaultLang string, book *Book) []byte {
 	return markdown.ToHTML(md, parser, renderer)
 }
 
-func markdownToHTML(d []byte, defaultLang string, book *Book) string {
-	unsafe := markdownToUnsafeHTML(d, defaultLang, book)
+func sanitizeHTML(d []byte) []byte {
 	policy := bluemonday.UGCPolicy()
 	policy.AllowStyling()
 	policy.RequireNoFollowOnFullyQualifiedLinks(false)
 	policy.RequireNoFollowOnLinks(false)
 	policy.AllowAttrs("target").OnElements("a")
-	res := policy.SanitizeBytes(unsafe)
-	return string(res)
+	return policy.SanitizeBytes(d)
 }
 
-func getTextRecur(node ast.Node) string {
+func markdownToHTML(d []byte, defaultLang string, book *Book) string {
+	unsafe := markdownToUnsafeHTML(d, defaultLang, book)
+	return string(sanitizeHTML(unsafe))
+}
+
+func getNodeTextRecur(node ast.Node) string {
 	if text, ok := node.(*ast.Text); ok {
 		return string(text.Literal)
 	}
@@ -250,7 +253,7 @@ func getTextRecur(node ast.Node) string {
 	}
 	s := ""
 	for _, child := range node.GetChildren() {
-		s += getTextRecur(child)
+		s += getNodeTextRecur(child)
 	}
 	return s
 }
@@ -267,21 +270,25 @@ func parseHeadingsFromMarkdown(d []byte) []HeadingInfo {
 		parser.AutoHeadingIDs
 	parser := parser.NewWithExtensions(extensions)
 	astRoot := markdown.Parse(d, parser)
-	ast.WalkFunc(astRoot, func(node ast.Node, entering bool) ast.WalkStatus {
-		if entering {
-			if heading, ok := node.(*ast.Heading); ok {
-				s := getTextRecur(heading)
-				s = strings.TrimSpace(s)
-				if len(s) > 0 {
-					h := HeadingInfo{
-						Text: s,
-						ID:   heading.HeadingID,
-					}
-					res = append(res, h)
-				}
+	walkFunc := func(node ast.Node, entering bool) ast.WalkStatus {
+		if !entering {
+			return ast.GoToNext
+		}
+		heading, ok := node.(*ast.Heading)
+		if !ok {
+			return ast.GoToNext
+		}
+		s := getNodeTextRecur(heading)
+		s = strings.TrimSpace(s)
+		if len(s) > 0 {
+			h := HeadingInfo{
+				Text: s,
+				ID:   heading.HeadingID,
 			}
+			res = append(res, h)
 		}
 		return ast.GoToNext
-	})
+	}
+	ast.WalkFunc(astRoot, walkFunc)
 	return res
 }

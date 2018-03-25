@@ -34,16 +34,20 @@ func dumpKV(doc kvstore.Doc) {
 }
 
 func parseArticle(path string) (*Article, error) {
-	doc, err := parseKVFileWithIncludes(path)
+	kvdoc, err := parseKVFileWithIncludes(path)
 	if err != nil {
 		fmt.Printf("Error parsing KV file: '%s'\n", path)
 		maybePanicIfErr(err)
 		return nil, err
 	}
-	article := &Article{
-		sourceFilePath: path,
+
+	doc := &Doc{
+		sourceMdFilePath: path,
 	}
-	article.ID, err = doc.Get("Id")
+	article := &Article{
+		Doc: doc,
+	}
+	article.ID, err = kvdoc.Get("Id")
 	if err != nil {
 		return nil, fmt.Errorf("parseArticle('%s'), err: '%s'", path, err)
 	}
@@ -51,14 +55,14 @@ func parseArticle(path string) (*Article, error) {
 		return nil, fmt.Errorf("parseArticle('%s'), res.ID = '%s' has space in it", path, article.ID)
 	}
 
-	article.Title = doc.GetSilent("Title", defTitle)
+	article.Title = kvdoc.GetSilent("Title", defTitle)
 	if article.Title == defTitle {
 		fmt.Printf("parseArticle: no title for %s\n", path)
 	}
 	titleSafe := common.MakeURLSafe(article.Title)
 
 	// handle search synonyms
-	synonyms := doc.GetSilent("Search", "")
+	synonyms := kvdoc.GetSilent("Search", "")
 	synonyms = strings.TrimSpace(synonyms)
 	if len(synonyms) > 0 {
 		parts := strings.Split(synonyms, ",")
@@ -71,14 +75,14 @@ func parseArticle(path string) (*Article, error) {
 	}
 
 	article.FileNameBase = fmt.Sprintf("%s-%s", article.ID, titleSafe)
-	article.BodyMarkdown, err = doc.Get("Body")
+	article.BodyMarkdown, err = kvdoc.Get("Body")
 	if err == nil {
 		return article, nil
 	}
-	s, err := doc.Get("BodyHtml")
+	s, err := kvdoc.Get("BodyHtml")
 	article.BodyHTML = template.HTML(s)
 	if err != nil {
-		dumpKV(doc)
+		dumpKV(kvdoc)
 		return nil, fmt.Errorf("parseArticle('%s'), err: '%s'", path, err)
 	}
 	return article, nil
@@ -139,7 +143,7 @@ func parseKVFileWithIncludes(path string) (kvstore.Doc, error) {
 func parseChapter(chapter *Chapter) error {
 	dir := filepath.Join(chapter.Book.sourceDir, chapter.ChapterDir)
 	path := filepath.Join(dir, "000-index.md")
-	chapter.indexFilePath = path
+	chapter.sourceMdFilePath = path
 	doc, err := parseKVFileWithIncludes(path)
 	if err != nil {
 		fmt.Printf("Error parsing KV file: '%s'\n", path)
@@ -252,18 +256,21 @@ func genContributorsMarkdown(contributors []SoContributor) string {
 
 func genContributorsChapter(book *Book) *Chapter {
 	md := genContributorsMarkdown(book.SoContributors)
-	var doc kvstore.Doc
+	var kvdoc kvstore.Doc
 	kv := kvstore.KeyValue{
 		Key:   "Body",
 		Value: md,
 	}
-	doc = append(doc, kv)
-	ch := &Chapter{
-		Book:         book,
-		indexDoc:     doc,
+	kvdoc = append(kvdoc, kv)
+	doc := &Doc{
+		No:           999,
 		Title:        "Contributors",
 		FileNameBase: "contributors",
-		No:           999,
+	}
+	ch := &Chapter{
+		Doc:      doc,
+		Book:     book,
+		indexDoc: kvdoc,
 	}
 	return ch
 }
@@ -278,15 +285,15 @@ func ensureUniqueIds(book *Book) {
 	for _, c := range book.Chapters {
 		if chap, ok := chapterIds[c.ID]; ok {
 			fmt.Printf("Duplicate chapter id '%s' in:\n", c.ID)
-			fmt.Printf("Chapter '%s', file: '%s'\n", c.Title, c.indexFilePath)
-			fmt.Printf("Chapter '%s', file: '%s'\n", chap.Title, chap.indexFilePath)
+			fmt.Printf("Chapter '%s', file: '%s'\n", c.Title, c.sourceMdFilePath)
+			fmt.Printf("Chapter '%s', file: '%s'\n", chap.Title, chap.sourceMdFilePath)
 			os.Exit(1)
 		}
 		chapterIds[c.ID] = c
 		urls = append(urls, c.FileNameBase)
 		for _, a := range c.Articles {
 			if a2, ok := articleIds[a.ID]; ok {
-				err := fmt.Errorf("Duplicate article id: '%s', in: %s and %s", a.ID, a.sourceFilePath, a2.sourceFilePath)
+				err := fmt.Errorf("Duplicate article id: '%s', in: %s and %s", a.ID, a.sourceMdFilePath, a2.sourceMdFilePath)
 				maybePanicIfErr(err)
 			} else {
 				articleIds[a.ID] = a

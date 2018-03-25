@@ -56,39 +56,6 @@ func htmlHighlight(w io.Writer, source, lang string) error {
 	return htmlFormatter.Format(w, highlightStyle, it)
 }
 
-var didPrint = false
-
-func printKnownURLS(a []string) {
-	if didPrint {
-		return
-	}
-	didPrint = true
-	fmt.Printf("%d known urls\n", len(a))
-	for _, s := range a {
-		fmt.Printf("%s\n", s)
-	}
-}
-
-// turn partial url like "20381" into a full url like "20381-installing"
-func fixupURL(uri string, knownURLS []string) string {
-	// skip uris that are not article/chapter uris
-	if strings.Contains(uri, "/") {
-		return uri
-	}
-	for _, known := range knownURLS {
-		if uri == known {
-			return uri
-		}
-		if strings.HasPrefix(known, uri) {
-			//fmt.Printf("fixupURL: %s => %s\n", uri, known)
-			return known
-		}
-	}
-	fmt.Printf("fixupURL: didn't fix up: %s\n", uri)
-	//printKnownURLS(knownURLS)
-	return uri
-}
-
 // CodeBlockInfo represents parsed lang line in
 // markdown code block:
 // ${lang}|githbu|${uri}|playground|${uri}
@@ -180,7 +147,7 @@ func fixupHTMLCodeBlock(htmlCode string, info *CodeBlockInfo) string {
 }
 
 // knownUrls is a list of chapter/article urls in the form "20381-installing"
-func makeRenderHookCodeBlock(defaultLang string, knownUrls []string) mdhtml.RenderNodeFunc {
+func makeRenderHookCodeBlock(defaultLang string, fixupURL func(string) string) mdhtml.RenderNodeFunc {
 	return func(w io.Writer, node ast.Node, entering bool) (ast.WalkStatus, bool) {
 
 		if codeBlock, ok := node.(*ast.CodeBlock); ok {
@@ -199,7 +166,7 @@ func makeRenderHookCodeBlock(defaultLang string, knownUrls []string) mdhtml.Rend
 		} else if link, ok := node.(*ast.Link); ok {
 			// fix up the url if it's a prefix of known url and let original code to render it
 			dest := string(link.Destination)
-			link.Destination = []byte(fixupURL(dest, knownUrls))
+			link.Destination = []byte(fixupURL(dest))
 			return ast.GoToNext, false
 		} else {
 			return ast.GoToNext, false
@@ -207,7 +174,7 @@ func makeRenderHookCodeBlock(defaultLang string, knownUrls []string) mdhtml.Rend
 	}
 }
 
-func markdownToUnsafeHTML(md []byte, defaultLang string, knownUrls []string) []byte {
+func markdownToUnsafeHTML(md []byte, defaultLang string, fixupURL func(string) string) []byte {
 	extensions := parser.NoIntraEmphasis |
 		parser.Tables |
 		parser.FencedCode |
@@ -224,7 +191,7 @@ func markdownToUnsafeHTML(md []byte, defaultLang string, knownUrls []string) []b
 		mdhtml.SmartypantsLatexDashes
 	htmlOpts := mdhtml.RendererOptions{
 		Flags:          htmlFlags,
-		RenderNodeHook: makeRenderHookCodeBlock(defaultLang, knownUrls),
+		RenderNodeHook: makeRenderHookCodeBlock(defaultLang, fixupURL),
 	}
 	renderer := mdhtml.NewRenderer(htmlOpts)
 	return markdown.ToHTML(md, parser, renderer)
@@ -239,9 +206,8 @@ func sanitizeHTML(d []byte) []byte {
 	return policy.SanitizeBytes(d)
 }
 
-// TODO: passing fixupURL() function would be better than knownUrls
-func markdownToHTML(d []byte, defaultLang string, knownUrls []string) string {
-	unsafe := markdownToUnsafeHTML(d, defaultLang, knownUrls)
+func markdownToHTML(d []byte, defaultLang string, fixupURL func(string) string) string {
+	unsafe := markdownToUnsafeHTML(d, defaultLang, fixupURL)
 	return string(sanitizeHTML(unsafe))
 }
 

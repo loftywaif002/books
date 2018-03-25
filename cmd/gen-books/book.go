@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"path/filepath"
+	"strings"
 	"sync"
 
 	"github.com/kjk/u"
@@ -148,4 +149,43 @@ func updateBookAppJS(book *Book) {
 	}
 	book.AppJSURL = "/s/" + name
 	fmt.Printf("Created %s\n", dst)
+}
+
+var didPrint = false
+
+func printKnownURLS(a []string) {
+	if didPrint {
+		return
+	}
+	didPrint = true
+	fmt.Printf("%d known urls\n", len(a))
+	for _, s := range a {
+		fmt.Printf("%s\n", s)
+	}
+}
+
+// turn partial url like "20381" into a full url like "20381-installing"
+func (b *Book) fixupURL(uri string) string {
+	// skip uris that are not article/chapter uris
+	if strings.Contains(uri, "/") {
+		return uri
+	}
+	for _, known := range b.knownUrls {
+		if uri == known {
+			return uri
+		}
+		if strings.HasPrefix(known, uri) {
+			//fmt.Printf("fixupURL: %s => %s\n", uri, known)
+			return known
+		}
+	}
+	fmt.Printf("fixupURL: didn't fix up: %s\n", uri)
+	//printKnownURLS(knownURLS)
+	return uri
+}
+
+func (b *Book) makeFixupURL() func(uri string) string {
+	return func(uri string) string {
+		return b.fixupURL(uri)
+	}
 }

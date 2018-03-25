@@ -79,7 +79,7 @@ func (c *Chapter) HTML() template.HTML {
 	if err != nil {
 		return template.HTML("")
 	}
-	html := markdownToHTML([]byte(s), "", c.Book.knownUrls)
+	html := markdownToHTML([]byte(s), "", c.Book.makeFixupURL())
 	c.cachedHTML = template.HTML(html)
 	return c.cachedHTML
 }
@@ -115,7 +115,7 @@ func (c *Chapter) IntroductionHTML() template.HTML {
 	if err != nil {
 		return template.HTML("")
 	}
-	html := markdownToHTML([]byte(s), "", c.Book.knownUrls)
+	html := markdownToHTML([]byte(s), "", c.Book.makeFixupURL())
 	return template.HTML(html)
 }
 
@@ -125,7 +125,7 @@ func (c *Chapter) SyntaxHTML() template.HTML {
 	if err != nil {
 		return template.HTML("")
 	}
-	html := markdownToHTML([]byte(s), "", c.Book.knownUrls)
+	html := markdownToHTML([]byte(s), "", c.Book.makeFixupURL())
 	return template.HTML(html)
 }
 
@@ -135,7 +135,7 @@ func (c *Chapter) RemarksHTML() template.HTML {
 	if err != nil {
 		return template.HTML("")
 	}
-	html := markdownToHTML([]byte(s), "", c.Book.knownUrls)
+	html := markdownToHTML([]byte(s), "", c.Book.makeFixupURL())
 	return template.HTML(html)
 }
 
@@ -145,6 +145,6 @@ func (c *Chapter) ContributorsHTML() template.HTML {
 	if err != nil {
 		return template.HTML("")
 	}
-	html := markdownToHTML([]byte(s), "", c.Book.knownUrls)
+	html := markdownToHTML([]byte(s), "", c.Book.makeFixupURL())
 	return template.HTML(html)
 }

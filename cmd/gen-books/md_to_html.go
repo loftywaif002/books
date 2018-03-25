@@ -180,7 +180,7 @@ func fixupHTMLCodeBlock(htmlCode string, info *CodeBlockInfo) string {
 }
 
 // knownUrls is a list of chapter/article urls in the form "20381-installing"
-func makeRenderHookCodeBlock(defaultLang string, book *Book) mdhtml.RenderNodeFunc {
+func makeRenderHookCodeBlock(defaultLang string, knownUrls []string) mdhtml.RenderNodeFunc {
 	return func(w io.Writer, node ast.Node, entering bool) (ast.WalkStatus, bool) {
 
 		if codeBlock, ok := node.(*ast.CodeBlock); ok {
@@ -199,7 +199,7 @@ func makeRenderHookCodeBlock(defaultLang string, book *Book) mdhtml.RenderNodeFu
 		} else if link, ok := node.(*ast.Link); ok {
 			// fix up the url if it's a prefix of known url and let original code to render it
 			dest := string(link.Destination)
-			link.Destination = []byte(fixupURL(dest, book.knownUrls))
+			link.Destination = []byte(fixupURL(dest, knownUrls))
 			return ast.GoToNext, false
 		} else {
 			return ast.GoToNext, false
@@ -207,7 +207,7 @@ func makeRenderHookCodeBlock(defaultLang string, book *Book) mdhtml.RenderNodeFu
 	}
 }
 
-func markdownToUnsafeHTML(md []byte, defaultLang string, book *Book) []byte {
+func markdownToUnsafeHTML(md []byte, defaultLang string, knownUrls []string) []byte {
 	extensions := parser.NoIntraEmphasis |
 		parser.Tables |
 		parser.FencedCode |
@@ -224,7 +224,7 @@ func markdownToUnsafeHTML(md []byte, defaultLang string, book *Book) []byte {
 		mdhtml.SmartypantsLatexDashes
 	htmlOpts := mdhtml.RendererOptions{
 		Flags:          htmlFlags,
-		RenderNodeHook: makeRenderHookCodeBlock(defaultLang, book),
+		RenderNodeHook: makeRenderHookCodeBlock(defaultLang, knownUrls),
 	}
 	renderer := mdhtml.NewRenderer(htmlOpts)
 	return markdown.ToHTML(md, parser, renderer)
@@ -239,8 +239,9 @@ func sanitizeHTML(d []byte) []byte {
 	return policy.SanitizeBytes(d)
 }
 
-func markdownToHTML(d []byte, defaultLang string, book *Book) string {
-	unsafe := markdownToUnsafeHTML(d, defaultLang, book)
+// TODO: passing fixupURL() function would be better than knownUrls
+func markdownToHTML(d []byte, defaultLang string, knownUrls []string) string {
+	unsafe := markdownToUnsafeHTML(d, defaultLang, knownUrls)
 	return string(sanitizeHTML(unsafe))
 }
 

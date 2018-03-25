@@ -42,7 +42,7 @@ func (a *Article) Book() *Book {
 func (a *Article) HTML() template.HTML {
 	if a.BodyHTML == "" {
 		defLang := getDefaultLangForBook(a.Book().Title)
-		html := markdownToHTML([]byte(a.BodyMarkdown), defLang, a.Book())
+		html := markdownToHTML([]byte(a.BodyMarkdown), defLang, a.Book().knownUrls)
 		a.BodyHTML = template.HTML(html)
 	}
 	return a.BodyHTML

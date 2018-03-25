@@ -335,9 +335,11 @@ func parseBook(bookDir string) (*Book, error) {
 
 	for _, fi := range fileInfos {
 		if fi.IsDir() {
+			mdfile := &MarkdownFile{}
 			ch := &Chapter{
-				Book:       book,
-				ChapterDir: fi.Name(),
+				MarkdownFile: mdfile,
+				Book:         book,
+				ChapterDir:   fi.Name(),
 			}
 			chapters = append(chapters, ch)
 			sem <- true

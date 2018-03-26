@@ -16,14 +16,14 @@ var (
 	str    string = "str" // assigning
 
 	// functions are first-class values so can be assigned to variables
-	// f is variable of type func(a int) string
+	// fn is variable of type func(a int) string
 	// it's uninitialized so is nil (zero-value for function variables)
 	fn func(a int) string
 )
 
 func f() {
 	// shorthand using local type inference
-	// type of `i` is int and is infered from the value
+	// type of `i` is int and is inferred from the value
 	// note: this is not allowed at top-level
 	i := 4
 

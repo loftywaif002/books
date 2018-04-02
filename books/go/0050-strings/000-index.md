@@ -27,4 +27,4 @@ Important standard library packages for working on strings:
 * [regexp](https://golang.org/pkg/regexp/) implements regular expressions
 * [text/scanner](https://golang.org/pkg/text/scanner/) for scanning and tokenizing UTF-8-encoded text
 * [text/template](https://golang.org/pkg/text/template/) for generating larger strings from templates
-* [html/template](https://golang.org/pkg/html/template/) has all the functionaliy of `text/template` but understands the structure of HTML for generation of HTML that is safe from code injection attacks
+* [html/template](https://golang.org/pkg/html/template/) has all the functionality of `text/template` but understands the structure of HTML for generation of HTML that is safe from code injection attacks

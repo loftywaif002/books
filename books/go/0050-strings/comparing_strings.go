@@ -30,7 +30,7 @@ func main() {
 	if s1 < s2 {
 		fmt.Printf("s1 is < than s2\n")
 	} else {
-		fmt.Printf("s1 is not <> than s2\n")
+		fmt.Printf("s1 is not < than s2\n")
 	}
 	// :show end
 }

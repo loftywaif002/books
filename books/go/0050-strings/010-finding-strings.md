@@ -17,7 +17,7 @@ Above we searched from the beginning of the string. We can also search from the 
 
 @file finding_strings2.go output sha1:9fa45203c4ae55075c6b726b2692c813240971e9 goplayground:iyxoEzHw4p7
 
-## Find all occurences of a substring
+## Find all occurrences of a substring
 
 Above, we only found the first occurrence of the substring. Here's how to find all occurrences:
 

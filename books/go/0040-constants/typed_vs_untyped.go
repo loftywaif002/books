@@ -17,6 +17,6 @@ func main() {
 
 	// :show end
 
-	// silence compiler error about unused varialbes
+	// silence compiler error about unused variables
 	_, _, _, _ = i, u16, f, b
 }

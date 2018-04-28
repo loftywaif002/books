@@ -89,6 +89,17 @@ exit status 2
 5 + 5 = 10
 
 |======|
+0e7ae2f99d56855d83e97c5285759f6e47cef5c2:
+http.Get() returned content of type 'text/html; charset=utf-8' and size 3741 bytes.
+Status code: 200
+
+http.Get() returned content of type 'text/html' and size 3741 bytes.
+Status code: 404
+
+http.Get() failed with: 'Get http://website.not-exists.as/index.html: dial tcp: lookup website.not-exists.as: no such host'
+resp: <nil>
+
+|======|
 0eb59d7fcb7a0e57751071ae8cfa281441e03dc2:
 src: []int{1, 2, 3}
 dst: []int{1, 2, 3}
@@ -631,6 +642,13 @@ strconv.Atoi() failed with: 'strconv.Atoi: parsing "not a number": invalid synta
 strconv.ParseInt('234', 64): 234
 strconv.ParseFloat('-3.234', 64): -3.234
 fmt.Sscanf(): -3.234
+
+|======|
+6b83876610c972e6d26ef5ed265e804e5f90e729:
+s1 is not equal to s2
+s1 is equal to s1
+s1 is not > than s2
+s1 is < than s2
 
 |======|
 6c02445110a9eab889149819fd3722f5a0d4feb6:

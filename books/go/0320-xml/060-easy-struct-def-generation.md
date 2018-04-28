@@ -9,11 +9,9 @@ You can use [chidley](https://github.com/gnewton/chidley) to automatically gener
 
 Install the tool with `go get -u github.com/gnewton/chidley`.
 
-Run: `chidley sample.xml`.
+`chidley sample.xml` will print Go struct definitions deduced from `sample.xml` to standard out.
 
-This will print Go struct definitions to standard out.
-
-List all options with `chidley`.
+Run `chidley` to list all cmd-line options.
 
 Options that I find useful:
 

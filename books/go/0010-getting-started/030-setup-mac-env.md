@@ -29,14 +29,12 @@ Adding `$GOPATH/bin` to `PATH` is a matter of convenience. When you install Go p
 
 **More configuration**
 
-I often write Go libraries, so I like to add the following shortcut to `~/.bash_profile`:
+To quickly cd to a directory with Go source code I add bash alias to `~/.bash_profile`:
 
 ```sh
 alias cdgo="cd $GOPATH/src/github.com/kjk"
 ```
 
-That way a `cdgo` will cd to a directory with my Go source code is.
-
-You need to change `github.com/kjk` for your github account.
+You need to change `github.com/kjk` for your GitHub account.
 
 You should understand the [effect of GOPATH](10).

@@ -11,7 +11,8 @@ Go supports all the basic types that you would expect from a statically typed la
 * floating-point numbers
 * characters
 * strings
-* constants
-* arrays (and slices)
+* slices (variable-sized arrays)
+* arrays (fixed size)
 * maps (known as dictionaries or hash tables in other languages)
 * structures
+* constants

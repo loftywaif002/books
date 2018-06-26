@@ -5,7 +5,7 @@ Id: 171
 SOId: 4023
 ---
 
-Pacakge [`flag`](https://golang.org/pkg/flag/) in standard library is for parsing cmd-line arguments:
+Package [`flag`](https://golang.org/pkg/flag/) in standard library is for parsing cmd-line arguments:
 
 @file index.go output noplayground
 

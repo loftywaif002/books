@@ -1,6 +1,6 @@
 ---
 Title: Enums
-Search: enumarations
+Search: enumerations
 Id: 19
 SOId: 801000rd
 ---

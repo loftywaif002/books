@@ -12,4 +12,5 @@ Playground has some limitations:
 * networking, file i/o is not available
 * time is simulated
 
-By using the 'Share' button in the playground you can get a permanent link to the code snippet and share it with others.
+'Share' button in the playground gives you a permanent link to the code snippet.
+Helpful for sharing with others.

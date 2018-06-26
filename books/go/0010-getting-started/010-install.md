@@ -13,9 +13,9 @@ This article describes installing gc compiler.
 
 ## Install on Windows
 
-Download `.msi` installer from [https://golang.org/dl/](https://golang.org/dl/) and run it.
+Run `.msi` installer downloaded from [https://golang.org/dl/](https://golang.org/dl/).
 
-Read [setting up Windows environment](3).
+Read [setting up Windows environment](3-windows-setup).
 
 ## Install on Mac OS
 
@@ -28,11 +28,11 @@ Download `.pkg` installer from [https://golang.org/dl/](https://golang.org/dl/) 
 * if you don't have Homebrew installed, install it following the [instructions](https://brew.sh/)
 * `brew install go`
 
-Read [setting up Mac environment](4).
+Read [setting up Mac environment](4-mac-os-setup).
 
 ## Install on Ubuntu
 
-### Using Ubuntu provided pacakge
+### Using Ubuntu provided package
 
 ```sh
 $ sudo apt-get update

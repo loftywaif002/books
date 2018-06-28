@@ -4,9 +4,11 @@ Id: 128
 SOId: 2795
 ---
 
-In a complicated function, it's easy to miss releasing a resource (e.g. file handle) or to forgot to unlock a mutex.
+In a complicated function, it's easy to forgot to release a resource (e.g. to close a file handle or to unlock a mutex).
 
-In C++ you would use RAII technique. In Go you use `defer` statement.
+In C++ you would use RAII to ensure a resource is always released.
+
+In Go you use `defer` statement.
 
 ```go
 func foo() {
@@ -20,9 +22,11 @@ func foo() {
 }
 ```
 
-In the above example, `defer f.Close()` ensures that `f.Close()` will be called before we exit `foo`, even in the presence of a [panic](131).
+In the above example, `defer f.Close()` ensures that `f.Close()` will be called before we exit `foo`, even if a [panic](131) happens.
 
-Placing `f.Close()` right after `os.Open()` makes it easier to audit the code and ensure `Close` is always called, even if there are multiple exit points in the function.
+Placing `defer f.Close()` right after `os.Open()` makes it easy to audit the code to verify `Close` is always called.
+
+This is especially useful for large functions with multiple exit points.
 
 If deferred code is more complicated, you can use a function literal:
 
@@ -40,4 +44,4 @@ func foo() {
 }
 ```
 
-You can have multiple `defer` statements. They'll be called in reverse order.
+You can use multiple `defer` statements. They'll be called in reverse order.

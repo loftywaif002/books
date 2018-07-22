@@ -1,0 +1,319 @@
+{
+  "ID": "a09f2d8c-9bba-44e0-acd0-a9206e8f733f",
+  "Page": {
+    "alive": true,
+    "content": [
+      "fa960b61-72e1-4221-8310-c597a12876d6",
+      "ebd7ce9f-686a-410d-b533-5c5a4317346c",
+      "cbd787fd-9055-4b02-a20e-a4e4761c9f96",
+      "b6f20962-cdb4-47b5-9c30-8156d943dd26",
+      "502ebd5d-1eb7-4885-9dc4-e172eebf1f43",
+      "ea4c3bd0-e066-4326-8517-4c0da9f47b07",
+      "e36bda19-af74-45bd-b64f-648b76ed66bf",
+      "ff53ce6b-5f33-4920-b0ae-36f7ab5d59c9",
+      "92a11cd1-d920-48da-8b6f-497dab1289a2",
+      "fd7efce1-9b9e-4227-a84f-bc47d0aff15f"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156224141,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "a09f2d8c-9bba-44e0-acd0-a9206e8f733f",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213343577,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "gob"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 27,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213316411,
+        "id": "fa960b61-72e1-4221-8310-c597a12876d6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213319147,
+        "parent_id": "a09f2d8c-9bba-44e0-acd0-a9206e8f733f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 276"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 276"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213319147,
+        "id": "ebd7ce9f-686a-410d-b533-5c5a4317346c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213320986,
+        "parent_id": "a09f2d8c-9bba-44e0-acd0-a9206e8f733f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 8820"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 8820"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213320986,
+        "id": "cbd787fd-9055-4b02-a20e-a4e4761c9f96",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213327570,
+        "parent_id": "a09f2d8c-9bba-44e0-acd0-a9206e8f733f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Introduction "
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 29,
+        "inline_content": [
+          {
+            "Text": "Introduction "
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213327570,
+        "id": "b6f20962-cdb4-47b5-9c30-8156d943dd26",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213335801,
+        "parent_id": "a09f2d8c-9bba-44e0-acd0-a9206e8f733f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Gob is a Go specific serialization method. it has support for all Go data types except for channels and functions. Gob also encodes the type information into the serialized form, what makes it different from say XML is that it is much more efficient."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "Gob is a Go specific serialization method. it has support for all Go data types except for channels and functions. Gob also encodes the type information into the serialized form, what makes it different from say XML is that it is much more efficient."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156224141,
+        "id": "502ebd5d-1eb7-4885-9dc4-e172eebf1f43",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156224141,
+        "parent_id": "a09f2d8c-9bba-44e0-acd0-a9206e8f733f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The inclusion of type information makes encoding and decoding fairly robust to differences between encoder and decoder."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The inclusion of type information makes encoding and decoding fairly robust to differences between encoder and decoder."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213264781,
+        "id": "ea4c3bd0-e066-4326-8517-4c0da9f47b07",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213264781,
+        "parent_id": "a09f2d8c-9bba-44e0-acd0-a9206e8f733f",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156225133,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "e36bda19-af74-45bd-b64f-648b76ed66bf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213427017,
+        "parent_id": "a09f2d8c-9bba-44e0-acd0-a9206e8f733f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "How to encode data and write to file with gob?"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "How to encode data and write to file with gob?",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156226108,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "ff53ce6b-5f33-4920-b0ae-36f7ab5d59c9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213459208,
+        "parent_id": "a09f2d8c-9bba-44e0-acd0-a9206e8f733f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "How to read data from file and decode with go?"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "How to read data from file and decode with go?",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156227244,
+        "id": "92a11cd1-d920-48da-8b6f-497dab1289a2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213494687,
+        "parent_id": "a09f2d8c-9bba-44e0-acd0-a9206e8f733f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "How to encode an interface with gob?"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 19,
+        "title": "How to encode an interface with gob?"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156228252,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "fd7efce1-9b9e-4227-a84f-bc47d0aff15f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213554047,
+        "parent_id": "a09f2d8c-9bba-44e0-acd0-a9206e8f733f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "How to decode an interface with gob?"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "How to decode an interface with gob?",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "gob",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

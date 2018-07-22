@@ -1,0 +1,370 @@
+{
+  "ID": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
+  "Page": {
+    "alive": true,
+    "content": [
+      "c82c0258-103d-471a-8fbb-43c0cbd70354",
+      "b6fefdf8-60a3-46bc-8636-4e6cba70e006",
+      "8a67f349-9430-4d00-956e-3f07c649b3f6",
+      "65f29d55-541e-47d7-9fb3-55d72f000733",
+      "d6116221-ebd7-4d8e-95ef-4c52337216a2",
+      "a08deac5-37f1-480e-b606-913f5f971909",
+      "8e4a7f89-f7f1-48ee-807c-032ec433935d",
+      "665bcf9b-938f-4a31-9298-2b434c28fb21",
+      "46803b78-c85d-415c-a043-c19c76d6d1aa"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155995912,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235163486,
+    "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Zero value of a map"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196601201,
+        "id": "c82c0258-103d-471a-8fbb-43c0cbd70354",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235160834,
+        "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 73"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 73"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196603556,
+        "id": "b6fefdf8-60a3-46bc-8636-4e6cba70e006",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235161697,
+        "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2485"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2485"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196607199,
+        "id": "8a67f349-9430-4d00-956e-3f07c649b3f6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196607199,
+        "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196605808,
+        "id": "65f29d55-541e-47d7-9fb3-55d72f000733",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235157165,
+        "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The "
+            ],
+            [
+              "zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of a "
+            ],
+            [
+              "map",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and has a length of "
+            ],
+            [
+              "0",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "The "
+          },
+          {
+            "Text": "zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of a "
+          },
+          {
+            "Text": "map",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and has a length of "
+          },
+          {
+            "Text": "0",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155995912,
+        "id": "d6116221-ebd7-4d8e-95ef-4c52337216a2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155995912,
+        "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file zero_value.go output sha1:2fdb095b28d8b58ad0bde153735ecec4c4201ea4 goplayground:MfIwOym0yKy"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file zero_value.go output sha1:2fdb095b28d8b58ad0bde153735ecec4c4201ea4 goplayground:MfIwOym0yKy"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155995912,
+        "id": "a08deac5-37f1-480e-b606-913f5f971909",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155995912,
+        "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " map has no keys nor can keys be added. A "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " map behaves like an empty map if read from, but causes a runtime panic if written to."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " map has no keys nor can keys be added. A "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " map behaves like an empty map if read from, but causes a runtime panic if written to."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155995912,
+        "id": "8e4a7f89-f7f1-48ee-807c-032ec433935d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155995912,
+        "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file zero_value2.go output allow_error sha1:e57d417eae9ce61d41605f144137d25a3fe3c0b0 goplayground:ALhSLNlHunv"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file zero_value2.go output allow_error sha1:e57d417eae9ce61d41605f144137d25a3fe3c0b0 goplayground:ALhSLNlHunv"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155995912,
+        "id": "665bcf9b-938f-4a31-9298-2b434c28fb21",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155995912,
+        "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You should not read from or write to a zero value map."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You should not read from or write to a zero value map."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532235163486,
+        "id": "46803b78-c85d-415c-a043-c19c76d6d1aa",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235163486,
+        "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Zero value of a map",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

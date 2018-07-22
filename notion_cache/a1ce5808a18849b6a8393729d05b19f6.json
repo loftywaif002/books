@@ -1,0 +1,533 @@
+{
+  "ID": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+  "Page": {
+    "alive": true,
+    "content": [
+      "c3cebc50-9e9d-4bb1-a2d4-7e6d5d37a732",
+      "5260c001-a9b9-46e2-bff9-b7eaf9fc0db6",
+      "b1ee3253-68a8-468c-844c-69c5f1bb1ac7",
+      "d730a8b9-d092-4306-8899-f0bf0647e1cc",
+      "9f4a7991-0cee-4116-bd8f-2b616f24f351",
+      "a26f1131-6f5c-4b5e-9910-b6d224d58b91",
+      "c208cf7b-0325-4285-bb8d-e7343297a13b",
+      "902f2a7f-2504-4551-9dd4-a50aab2a61c4",
+      "ebfc74ea-a026-452e-b521-4d098a7f679d",
+      "3b919519-5657-431e-b6f3-9fbc9cc59399",
+      "f9897d77-520b-47ed-8bd9-6e7da240e346",
+      "5bc470df-7019-4a4b-8864-dd3ddc513e87",
+      "552b0742-6364-45de-ab5b-dc17d2290d49",
+      "40fb9c07-d458-4001-a43b-3e0b5cf82e7a",
+      "8b1895d9-3014-4389-b96f-339ea8186c8e"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156148160,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532209137204,
+    "parent_id": "96e61372-84ae-4460-a282-7f456b4cf62c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Using a handler function"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209123260,
+        "id": "c3cebc50-9e9d-4bb1-a2d4-7e6d5d37a732",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209131343,
+        "parent_id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 212"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 212"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209124654,
+        "id": "5260c001-a9b9-46e2-bff9-b7eaf9fc0db6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209130751,
+        "parent_id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209125919,
+        "id": "b1ee3253-68a8-468c-844c-69c5f1bb1ac7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209130057,
+        "parent_id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2704"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2704"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209128941,
+        "id": "d730a8b9-d092-4306-8899-f0bf0647e1cc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209128941,
+        "parent_id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209127454,
+        "id": "9f4a7991-0cee-4116-bd8f-2b616f24f351",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209128743,
+        "parent_id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "HandleFunc",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/net/http/#ListenAndServe"
+                ]
+              ]
+            ],
+            [
+              " registers the handler function for the given pattern in the server mux (router)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "HandleFunc",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/net/http/#ListenAndServe"
+          },
+          {
+            "Text": " registers the handler function for the given pattern in the server mux (router)."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156148158,
+        "id": "a26f1131-6f5c-4b5e-9910-b6d224d58b91",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156148158,
+        "parent_id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can pass define an anonymous function, as we have seen in the basic "
+            ],
+            [
+              "Hello World",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " example:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can pass define an anonymous function, as we have seen in the basic "
+          },
+          {
+            "Text": "Hello World",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " example:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156148158,
+        "id": "c208cf7b-0325-4285-bb8d-e7343297a13b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209140885,
+        "parent_id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "http.HandleFunc(\"/\", func(w http.ResponseWriter, r *http.Request) {\n    fmt.Fprintln(w, \"Hello, world!\")\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "http.HandleFunc(\"/\", func(w http.ResponseWriter, r *http.Request) {\n    fmt.Fprintln(w, \"Hello, world!\")\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156148159,
+        "id": "902f2a7f-2504-4551-9dd4-a50aab2a61c4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156148159,
+        "parent_id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "But we can also pass a "
+            ],
+            [
+              "HandlerFunc",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/net/http/#HandlerFunc"
+                ]
+              ]
+            ],
+            [
+              " type. In other words, we can pass any function that respects the following signature:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "But we can also pass a "
+          },
+          {
+            "Text": "HandlerFunc",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/net/http/#HandlerFunc"
+          },
+          {
+            "Text": " type. In other words, we can pass any function that respects the following signature:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156148159,
+        "id": "ebfc74ea-a026-452e-b521-4d098a7f679d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209143050,
+        "parent_id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func FunctionName(w http.ResponseWriter, req *http.Request)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func FunctionName(w http.ResponseWriter, req *http.Request)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156148159,
+        "id": "3b919519-5657-431e-b6f3-9fbc9cc59399",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156148159,
+        "parent_id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can rewrite the previous example passing the reference to a previously defined "
+            ],
+            [
+              "HandlerFunc",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". Here’s the full example:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can rewrite the previous example passing the reference to a previously defined "
+          },
+          {
+            "Text": "HandlerFunc",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". Here’s the full example:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156148159,
+        "id": "f9897d77-520b-47ed-8bd9-6e7da240e346",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209146692,
+        "parent_id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"fmt\"\n    \"net/http\"\n)\n\n// A HandlerFunc function\n// Notice the signature of the function\nfunc RootHandler(w http.ResponseWriter, req *http.Request) {\n    fmt.Fprintln(w, \"Hello, world!\")\n}\n\nfunc main() {\n    // Here we pass the reference to the `RootHandler` handler function\n    http.HandleFunc(\"/\", RootHandler)\n    panic(http.ListenAndServe(\":8080\", nil))\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"fmt\"\n    \"net/http\"\n)\n\n// A HandlerFunc function\n// Notice the signature of the function\nfunc RootHandler(w http.ResponseWriter, req *http.Request) {\n    fmt.Fprintln(w, \"Hello, world!\")\n}\n\nfunc main() {\n    // Here we pass the reference to the `RootHandler` handler function\n    http.HandleFunc(\"/\", RootHandler)\n    panic(http.ListenAndServe(\":8080\", nil))\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156148159,
+        "id": "5bc470df-7019-4a4b-8864-dd3ddc513e87",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156148159,
+        "parent_id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Of course, you can define several function handlers for different paths."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Of course, you can define several function handlers for different paths."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156148159,
+        "id": "552b0742-6364-45de-ab5b-dc17d2290d49",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209149619,
+        "parent_id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"fmt\"\n    \"log\"\n    \"net/http\"\n)\n\nfunc FooHandler(w http.ResponseWriter, req *http.Request) {\n    fmt.Fprintln(w, \"Hello from foo!\")\n}\n\nfunc BarHandler(w http.ResponseWriter, req *http.Request) {\n    fmt.Fprintln(w, \"Hello from bar!\")\n}\n\nfunc main() {\n    http.HandleFunc(\"/foo\", FooHandler)\n    http.HandleFunc(\"/bar\", BarHandler)\n\n    log.Fatal(http.ListenAndServe(\":8080\", nil))\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"fmt\"\n    \"log\"\n    \"net/http\"\n)\n\nfunc FooHandler(w http.ResponseWriter, req *http.Request) {\n    fmt.Fprintln(w, \"Hello from foo!\")\n}\n\nfunc BarHandler(w http.ResponseWriter, req *http.Request) {\n    fmt.Fprintln(w, \"Hello from bar!\")\n}\n\nfunc main() {\n    http.HandleFunc(\"/foo\", FooHandler)\n    http.HandleFunc(\"/bar\", BarHandler)\n\n    log.Fatal(http.ListenAndServe(\":8080\", nil))\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156148160,
+        "id": "40fb9c07-d458-4001-a43b-3e0b5cf82e7a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156148160,
+        "parent_id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here’s the output using "
+            ],
+            [
+              "cURL",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Here’s the output using "
+          },
+          {
+            "Text": "cURL",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156148160,
+        "id": "8b1895d9-3014-4389-b96f-339ea8186c8e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209171440,
+        "parent_id": "a1ce5808-a188-49b6-a839-3729d05b19f6",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "$ curl -i localhost:8080/foo\nHTTP/1.1 200 OK\nDate: Wed, 20 Jul 2016 18:23:08 GMT\nContent-Length: 16\nContent-Type: text/plain; charset=utf-8\n\nHello from foo!\n\n$ curl -i localhost:8080/bar\nHTTP/1.1 200 OK\nDate: Wed, 20 Jul 2016 18:23:10 GMT\nContent-Length: 16\nContent-Type: text/plain; charset=utf-8\n\nHello from bar!\n\n$ curl -i localhost:8080/\nHTTP/1.1 404 Not Found\nContent-Type: text/plain; charset=utf-8\nX-Content-Type-Options: nosniff\nDate: Wed, 20 Jul 2016 18:23:13 GMT\nContent-Length: 19\n\n404 page not found"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 41,
+        "code": "$ curl -i localhost:8080/foo\nHTTP/1.1 200 OK\nDate: Wed, 20 Jul 2016 18:23:08 GMT\nContent-Length: 16\nContent-Type: text/plain; charset=utf-8\n\nHello from foo!\n\n$ curl -i localhost:8080/bar\nHTTP/1.1 200 OK\nDate: Wed, 20 Jul 2016 18:23:10 GMT\nContent-Length: 16\nContent-Type: text/plain; charset=utf-8\n\nHello from bar!\n\n$ curl -i localhost:8080/\nHTTP/1.1 404 Not Found\nContent-Type: text/plain; charset=utf-8\nX-Content-Type-Options: nosniff\nDate: Wed, 20 Jul 2016 18:23:13 GMT\nContent-Length: 19\n\n404 page not found",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Using a handler function",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,240 @@
+{
+  "ID": "f5daa999-f513-4b9b-a9f2-d69916df292a",
+  "Page": {
+    "alive": true,
+    "content": [
+      "983d3bdd-65fc-4dca-9821-01b4153a568a",
+      "7ea512e6-e6c7-4f1a-acc7-09080e5657ac",
+      "447e80dc-047f-48e1-b8d0-f897036ca16c",
+      "44502060-be92-4241-90eb-22f8a780baf3",
+      "b0e7cdfc-5835-45fa-9308-0b1509acbd43",
+      "256bc9d7-bb02-46a2-92d9-4d50bbe1e569",
+      "91ed5205-0c77-49b8-acd0-0952033d8a2d"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156072108,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "f5daa999-f513-4b9b-a9f2-d69916df292a",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532205940598,
+    "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Signaling channel with chan struct{}"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205926704,
+        "id": "983d3bdd-65fc-4dca-9821-01b4153a568a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236597869,
+        "parent_id": "f5daa999-f513-4b9b-a9f2-d69916df292a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 147"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 147"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205928229,
+        "id": "7ea512e6-e6c7-4f1a-acc7-09080e5657ac",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236599668,
+        "parent_id": "f5daa999-f513-4b9b-a9f2-d69916df292a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 801000u5"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 801000u5"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205930980,
+        "id": "447e80dc-047f-48e1-b8d0-f897036ca16c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205930980,
+        "parent_id": "f5daa999-f513-4b9b-a9f2-d69916df292a",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205929917,
+        "id": "44502060-be92-4241-90eb-22f8a780baf3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205930838,
+        "parent_id": "f5daa999-f513-4b9b-a9f2-d69916df292a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sometimes you don’t want to send a value over a channel but use it only as a way to signal an event."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Sometimes you don’t want to send a value over a channel but use it only as a way to signal an event."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156072108,
+        "id": "b0e7cdfc-5835-45fa-9308-0b1509acbd43",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156072108,
+        "parent_id": "f5daa999-f513-4b9b-a9f2-d69916df292a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In those cases use "
+            ],
+            [
+              "chan struct{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to document the fact that the value sent over a channel has no meaning."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In those cases use "
+          },
+          {
+            "Text": "chan struct{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to document the fact that the value sent over a channel has no meaning."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156072108,
+        "id": "256bc9d7-bb02-46a2-92d9-4d50bbe1e569",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156072108,
+        "parent_id": "f5daa999-f513-4b9b-a9f2-d69916df292a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Signaling channel is often used as a way to tell goroutines to finish."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Signaling channel is often used as a way to tell goroutines to finish."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156072108,
+        "id": "91ed5205-0c77-49b8-acd0-0952033d8a2d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156072108,
+        "parent_id": "f5daa999-f513-4b9b-a9f2-d69916df292a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file signaling.go output sha1:7f7da2bbadcc59979a3e25cb68e673371d544b75 goplayground:hfnNu-JX1uc"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file signaling.go output sha1:7f7da2bbadcc59979a3e25cb68e673371d544b75 goplayground:hfnNu-JX1uc"
+          }
+        ]
+      }
+    ],
+    "title": "Signaling channel with chan struct{}",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

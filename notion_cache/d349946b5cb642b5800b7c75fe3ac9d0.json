@@ -1,0 +1,329 @@
+{
+  "ID": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
+  "Page": {
+    "alive": true,
+    "content": [
+      "2ab7c2ff-b0b4-41dc-b9d0-37fecd35f9c7",
+      "957ead7a-b176-4c29-a94c-f6ec4342b0e9",
+      "d560be09-b358-49f3-ad4f-47a8f288740e",
+      "dc903045-52a6-4960-8d61-bd4c3a99a9be",
+      "fb017f5d-9b0d-402a-97d4-2e813b7ea3e8",
+      "a24054df-bbfc-4170-b8a1-573778e3b7bc",
+      "262584b6-042c-44df-936c-0357f2d79088",
+      "ca44af08-7d6b-4b58-a747-a95a3d4bbb1e",
+      "7061c5b6-9a3f-4cd4-ad38-721f081b6358"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156112223,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207639254,
+    "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Decoding JSON from a file"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207628841,
+        "id": "2ab7c2ff-b0b4-41dc-b9d0-37fecd35f9c7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207631062,
+        "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 185"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 185"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207631062,
+        "id": "957ead7a-b176-4c29-a94c-f6ec4342b0e9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207633244,
+        "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 6628"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 6628"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207633244,
+        "id": "d560be09-b358-49f3-ad4f-47a8f288740e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207633685,
+        "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156112222,
+        "id": "dc903045-52a6-4960-8d61-bd4c3a99a9be",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156112222,
+        "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can decode JSON data from a file on disk or, more broadly, any "
+            ],
+            [
+              "io.Reader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", like a network connection."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can decode JSON data from a file on disk or, more broadly, any "
+          },
+          {
+            "Text": "io.Reader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", like a network connection."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156112222,
+        "id": "fb017f5d-9b0d-402a-97d4-2e813b7ea3e8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156112222,
+        "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Let’s assume we have a file called "
+            ],
+            [
+              "data.json",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " with the following content:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Let’s assume we have a file called "
+          },
+          {
+            "Text": "data.json",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " with the following content:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156112223,
+        "id": "a24054df-bbfc-4170-b8a1-573778e3b7bc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156112223,
+        "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file data.json"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file data.json"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156112223,
+        "id": "262584b6-042c-44df-936c-0357f2d79088",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156112223,
+        "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The following example reads the file and decodes the content:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The following example reads the file and decodes the content:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156112223,
+        "id": "ca44af08-7d6b-4b58-a747-a95a3d4bbb1e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156112223,
+        "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file decode_from_file.go output sha1:70fdf7f5a15715cf0a99c6805b505b8ac484cd4b goplayground:GmNPErWszVh"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file decode_from_file.go output sha1:70fdf7f5a15715cf0a99c6805b505b8ac484cd4b goplayground:GmNPErWszVh"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156112223,
+        "id": "7061c5b6-9a3f-4cd4-ad38-721f081b6358",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156112223,
+        "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "By writing a helper function "
+            ],
+            [
+              "decodeFromReader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", we can easily write wrappers that will work on files, strings or network connections."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "By writing a helper function "
+          },
+          {
+            "Text": "decodeFromReader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", we can easily write wrappers that will work on files, strings or network connections."
+          }
+        ]
+      }
+    ],
+    "title": "Decoding JSON from a file",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,724 @@
+{
+  "ID": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+  "Page": {
+    "alive": true,
+    "content": [
+      "ac4f0be2-b49c-43fd-90eb-b3a893ce923b",
+      "082430b6-8328-4277-85dd-b04307d58965",
+      "bcf18800-d400-4af7-99b1-c850bcf1cf06",
+      "3f1f792b-f0f3-4a73-99f4-94326f822b30",
+      "b64116ee-a7c9-4774-8e8d-98986e94b644",
+      "4385ed9d-6a17-4663-9bff-913a23e46f54",
+      "4ac42383-967b-42d4-9d67-a387a0aab92c",
+      "420429cd-c601-4995-b3f2-2559bf662681",
+      "ed3ae711-f971-4c1c-9df9-b8c5efdfe56f",
+      "ac80c16a-419f-4d4a-994d-d6bd9b9e53ce",
+      "5f769813-5ae4-4e4a-aaaa-c32505e5800c",
+      "2e1278dc-883d-461a-9e5d-f7525739b4bc",
+      "52c71820-f4d2-4b9b-ae20-a4e05c8828b3",
+      "97fcf8bb-b166-4bba-876e-32983d40c650",
+      "15e147a3-30dc-4624-8a82-57a3610a584e",
+      "a123b4e6-9663-47f9-a537-713507cd3df8",
+      "b89ab3f7-6db2-43ec-9f7f-5d3a4a21a861",
+      "c91f8ebb-9a43-4e02-8c2e-7d7c95367caa"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156280289,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532215252250,
+    "parent_id": "c84a4530-4ec3-4980-81c6-7aa1ea0d9c49",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Convert color image to grayscale"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 28,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215237607,
+        "id": "ac4f0be2-b49c-43fd-90eb-b3a893ce923b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215253179,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 319"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 319"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215239290,
+        "id": "082430b6-8328-4277-85dd-b04307d58965",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215254138,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215240729,
+        "id": "bcf18800-d400-4af7-99b1-c850bcf1cf06",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215255081,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 31693"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 31693"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215244201,
+        "id": "3f1f792b-f0f3-4a73-99f4-94326f822b30",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215244201,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215243033,
+        "id": "b64116ee-a7c9-4774-8e8d-98986e94b644",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215243954,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Some digital image processing algorithm such as edge detection, information carried by the image intensity (i.e. grayscale value) is sufficient. Using color information ("
+            ],
+            [
+              "R, G, B",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " channel) may provides slightly better result, but the algorithm complexity will be increased. Thus, in this case, we need to convert the color image to grayscale image prior to applying such algorithm."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Some digital image processing algorithm such as edge detection, information carried by the image intensity (i.e. grayscale value) is sufficient. Using color information ("
+          },
+          {
+            "Text": "R, G, B",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " channel) may provides slightly better result, but the algorithm complexity will be increased. Thus, in this case, we need to convert the color image to grayscale image prior to applying such algorithm."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156280282,
+        "id": "4385ed9d-6a17-4663-9bff-913a23e46f54",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156280282,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The following code is an example of converting arbitrary image to 8-bit grayscale image. The image is retrieved from remote location using "
+            ],
+            [
+              "net/http",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package, converted to grayscale, and finally saved as PNG image."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The following code is an example of converting arbitrary image to 8-bit grayscale image. The image is retrieved from remote location using "
+          },
+          {
+            "Text": "net/http",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package, converted to grayscale, and finally saved as PNG image."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156280283,
+        "id": "4ac42383-967b-42d4-9d67-a387a0aab92c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215262753,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"image\"\n    \"log\"\n    \"net/http\"\n    \"os\"\n\n    _ \"image/jpeg\"\n    \"image/png\"\n)\n\nfunc main() {\n    // Load image from remote through http\n    // The Go gopher was designed by Renee French. (http://reneefrench.blogspot.com/)\n    // Images are available under the Creative Commons 3.0 Attributions license.\n    resp, err := http.Get(\"http://golang.org/doc/gopher/fiveyears.jpg\")\n    if err != nil {\n        log.Fatal(err)\n    }\n    defer resp.Body.Close()\n\n    // Decode image to JPEG\n    img, _, err := image.Decode(resp.Body)\n    if err != nil {\n        log.Fatal(err)\n    }\n    log.Printf(\"Image type: %T\", img)\n\n    // Convert image to grayscale\n    grayImg := image.NewGray(img.Bounds())\n    for y := img.Bounds().Min.Y; y \u003c img.Bounds().Max.Y; y++ {\n        for x := img.Bounds().Min.X; x \u003c img.Bounds().Max.X; x++ {\n            grayImg.Set(x, y, img.At(x, y))\n        }\n    }\n\n    // Working with grayscale image, e.g. convert to png\n    f, err := os.Create(\"fiveyears_gray.png\")\n    if err != nil {\n        log.Fatal(err)\n    }\n    defer f.Close()\n\n    if err := png.Encode(f, grayImg); err != nil {\n        log.Fatal(err)\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"image\"\n    \"log\"\n    \"net/http\"\n    \"os\"\n\n    _ \"image/jpeg\"\n    \"image/png\"\n)\n\nfunc main() {\n    // Load image from remote through http\n    // The Go gopher was designed by Renee French. (http://reneefrench.blogspot.com/)\n    // Images are available under the Creative Commons 3.0 Attributions license.\n    resp, err := http.Get(\"http://golang.org/doc/gopher/fiveyears.jpg\")\n    if err != nil {\n        log.Fatal(err)\n    }\n    defer resp.Body.Close()\n\n    // Decode image to JPEG\n    img, _, err := image.Decode(resp.Body)\n    if err != nil {\n        log.Fatal(err)\n    }\n    log.Printf(\"Image type: %T\", img)\n\n    // Convert image to grayscale\n    grayImg := image.NewGray(img.Bounds())\n    for y := img.Bounds().Min.Y; y \u003c img.Bounds().Max.Y; y++ {\n        for x := img.Bounds().Min.X; x \u003c img.Bounds().Max.X; x++ {\n            grayImg.Set(x, y, img.At(x, y))\n        }\n    }\n\n    // Working with grayscale image, e.g. convert to png\n    f, err := os.Create(\"fiveyears_gray.png\")\n    if err != nil {\n        log.Fatal(err)\n    }\n    defer f.Close()\n\n    if err := png.Encode(f, grayImg); err != nil {\n        log.Fatal(err)\n    }\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156280284,
+        "id": "420429cd-c601-4995-b3f2-2559bf662681",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156280284,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Color conversion occurs when assigning pixel through "
+            ],
+            [
+              "Set(x, y int, c color.Color)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " which is implemented in "
+            ],
+            [
+              "image.go",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/src/image/image.go?s=19292:19335#L691"
+                ]
+              ]
+            ],
+            [
+              " as"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Color conversion occurs when assigning pixel through "
+          },
+          {
+            "Text": "Set(x, y int, c color.Color)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " which is implemented in "
+          },
+          {
+            "Text": "image.go",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/src/image/image.go?s=19292:19335#L691"
+          },
+          {
+            "Text": " as"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156280285,
+        "id": "ed3ae711-f971-4c1c-9df9-b8c5efdfe56f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215265939,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func (p *Gray) Set(x, y int, c color.Color) {\n    if !(Point{x, y}.In(p.Rect)) {\n        return\n    }\n\n    i := p.PixOffset(x, y)\n    p.Pix[i] = color.GrayModel.Convert(c).(color.Gray).Y\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func (p *Gray) Set(x, y int, c color.Color) {\n    if !(Point{x, y}.In(p.Rect)) {\n        return\n    }\n\n    i := p.PixOffset(x, y)\n    p.Pix[i] = color.GrayModel.Convert(c).(color.Gray).Y\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156280286,
+        "id": "ac80c16a-419f-4d4a-994d-d6bd9b9e53ce",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156280286,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "in which, "
+            ],
+            [
+              "color.GrayModel",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is defined in "
+            ],
+            [
+              "color.go",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/src/image/color/color.go?s=2699:2728#L110"
+                ]
+              ]
+            ],
+            [
+              " as"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "in which, "
+          },
+          {
+            "Text": "color.GrayModel",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is defined in "
+          },
+          {
+            "Text": "color.go",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/src/image/color/color.go?s=2699:2728#L110"
+          },
+          {
+            "Text": " as"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156280286,
+        "id": "5f769813-5ae4-4e4a-aaaa-c32505e5800c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215268692,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func grayModel(c Color) Color {\n    if _, ok := c.(Gray); ok {\n        return c\n    }\n    r, g, b, _ := c.RGBA()\n\n    // These coefficients (the fractions 0.299, 0.587 and 0.114) are the same\n    // as those given by the JFIF specification and used by func RGBToYCbCr in\n    // ycbcr.go.\n    //\n    // Note that 19595 + 38470 + 7471 equals 65536.\n    //\n    // The 24 is 16 + 8. The 16 is the same as used in RGBToYCbCr. The 8 is\n    // because the return value is 8 bit color, not 16 bit color.\n    y := (19595*r + 38470*g + 7471*b + 1\u003c\u003c15) \u003e\u003e 24\n\n    return Gray{uint8(y)}\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func grayModel(c Color) Color {\n    if _, ok := c.(Gray); ok {\n        return c\n    }\n    r, g, b, _ := c.RGBA()\n\n    // These coefficients (the fractions 0.299, 0.587 and 0.114) are the same\n    // as those given by the JFIF specification and used by func RGBToYCbCr in\n    // ycbcr.go.\n    //\n    // Note that 19595 + 38470 + 7471 equals 65536.\n    //\n    // The 24 is 16 + 8. The 16 is the same as used in RGBToYCbCr. The 8 is\n    // because the return value is 8 bit color, not 16 bit color.\n    y := (19595*r + 38470*g + 7471*b + 1\u003c\u003c15) \u003e\u003e 24\n\n    return Gray{uint8(y)}\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156280286,
+        "id": "2e1278dc-883d-461a-9e5d-f7525739b4bc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156280286,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Based on the above facts, the intensity "
+            ],
+            [
+              "Y",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is calculated with the following formula:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Based on the above facts, the intensity "
+          },
+          {
+            "Text": "Y",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is calculated with the following formula:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156280286,
+        "id": "52c71820-f4d2-4b9b-ae20-a4e05c8828b3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156280286,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Luminance: Y = 0.299R + 0.587G + 0.114B"
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Luminance: Y = 0.299R + 0.587G + 0.114B"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156280288,
+        "id": "97fcf8bb-b166-4bba-876e-32983d40c650",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156280288,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If we want to apply different "
+            ],
+            [
+              "formula/algorithms",
+              [
+                [
+                  "a",
+                  "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029740"
+                ]
+              ]
+            ],
+            [
+              " to convert a color into an intesity, e.g."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If we want to apply different "
+          },
+          {
+            "Text": "formula/algorithms",
+            "Link": "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029740"
+          },
+          {
+            "Text": " to convert a color into an intesity, e.g."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156280288,
+        "id": "15e147a3-30dc-4624-8a82-57a3610a584e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156280288,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Mean: Y = (R + G + B) / 3 Luma: Y = 0.2126R + 0.7152G + 0.0722B Luster: Y = (min(R, G, B) + max(R, G, B))/2"
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Mean: Y = (R + G + B) / 3 Luma: Y = 0.2126R + 0.7152G + 0.0722B Luster: Y = (min(R, G, B) + max(R, G, B))/2"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156280288,
+        "id": "a123b4e6-9663-47f9-a537-713507cd3df8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156280288,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "then, the following snippets can be used."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "then, the following snippets can be used."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156280288,
+        "id": "b89ab3f7-6db2-43ec-9f7f-5d3a4a21a861",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215272359,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// Convert image to grayscale\ngrayImg := image.NewGray(img.Bounds())\nfor y := img.Bounds().Min.Y; y \u003c img.Bounds().Max.Y; y++ {\n    for x := img.Bounds().Min.X; x \u003c img.Bounds().Max.X; x++ {\n        R, G, B, _ := img.At(x, y).RGBA()\n        //Luma: Y = 0.2126*R + 0.7152*G + 0.0722*B\n        Y := (0.2126*float64(R) + 0.7152*float64(G) + 0.0722*float64(B)) * (255.0 / 65535)\n        grayPix := color.Gray{uint8(Y)}\n        grayImg.Set(x, y, grayPix)\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// Convert image to grayscale\ngrayImg := image.NewGray(img.Bounds())\nfor y := img.Bounds().Min.Y; y \u003c img.Bounds().Max.Y; y++ {\n    for x := img.Bounds().Min.X; x \u003c img.Bounds().Max.X; x++ {\n        R, G, B, _ := img.At(x, y).RGBA()\n        //Luma: Y = 0.2126*R + 0.7152*G + 0.0722*B\n        Y := (0.2126*float64(R) + 0.7152*float64(G) + 0.0722*float64(B)) * (255.0 / 65535)\n        grayPix := color.Gray{uint8(Y)}\n        grayImg.Set(x, y, grayPix)\n    }\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156280289,
+        "id": "c91f8ebb-9a43-4e02-8c2e-7d7c95367caa",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156280289,
+        "parent_id": "deec25d3-3ac2-4a3f-9137-e974a1d7c100",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The above calculation is done by floating point multiplication, and certainly is not the most efficient one, but it’s enough for demonstrating the idea. The other point is, when calling "
+            ],
+            [
+              "Set(x, y int, c color.Color)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " with "
+            ],
+            [
+              "color.Gray",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " as third argument, the color model will not perform color conversion as can be seen in the previous "
+            ],
+            [
+              "grayModel",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The above calculation is done by floating point multiplication, and certainly is not the most efficient one, but it’s enough for demonstrating the idea. The other point is, when calling "
+          },
+          {
+            "Text": "Set(x, y int, c color.Color)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " with "
+          },
+          {
+            "Text": "color.Gray",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " as third argument, the color model will not perform color conversion as can be seen in the previous "
+          },
+          {
+            "Text": "grayModel",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function."
+          }
+        ]
+      }
+    ],
+    "title": "Convert color image to grayscale",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

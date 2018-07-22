@@ -1,0 +1,476 @@
+{
+  "ID": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
+  "Page": {
+    "alive": true,
+    "content": [
+      "4332491b-0595-4860-b31d-edf1b5005024",
+      "e548e6b4-9606-4e19-8a19-af9da2b27c9c",
+      "a4835c50-a37c-4a03-8947-cb3e6c7fabfc",
+      "a69d3e58-98f6-469e-a00b-035d85f7bc02",
+      "37f6bc8b-641d-452d-91bc-fe9afba19aef",
+      "05c27301-41ca-4a7c-8622-47f28fdcae48",
+      "abe09f95-f050-4dcc-9bc4-22fe2a03bcde",
+      "d477fcc0-026f-4d90-a6cd-633f78ae2e3b",
+      "f0e8b85f-75d5-45d3-9dbc-3e15f2894d37",
+      "76ef4bd4-e355-4cdf-879d-046e248c7737",
+      "33857e9e-49f3-44f0-8ef9-45c30f23550c"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155992232,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235116425,
+    "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Get value by key"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196471028,
+        "id": "4332491b-0595-4860-b31d-edf1b5005024",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235117450,
+        "parent_id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 71"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 71"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196472792,
+        "id": "e548e6b4-9606-4e19-8a19-af9da2b27c9c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235118194,
+        "parent_id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4650"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4650"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196475551,
+        "id": "a4835c50-a37c-4a03-8947-cb3e6c7fabfc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196475551,
+        "parent_id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196474300,
+        "id": "a69d3e58-98f6-469e-a00b-035d85f7bc02",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196475245,
+        "parent_id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To get a value from the map, you just have to do something like:00"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "To get a value from the map, you just have to do something like:00"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155992230,
+        "id": "37f6bc8b-641d-452d-91bc-fe9afba19aef",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196462134,
+        "parent_id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "value := mapName[ key ]"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "value := mapName[ key ]",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155992231,
+        "id": "05c27301-41ca-4a7c-8622-47f28fdcae48",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155992231,
+        "parent_id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If the map contains the key, it returns the corresponding value. If not, it returns zero-value of the map’s value type ("
+            ],
+            [
+              "0",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " if map of "
+            ],
+            [
+              "int",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " values, "
+            ],
+            [
+              "\"\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " if map of "
+            ],
+            [
+              "string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " values…)"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If the map contains the key, it returns the corresponding value. If not, it returns zero-value of the map’s value type ("
+          },
+          {
+            "Text": "0",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " if map of "
+          },
+          {
+            "Text": "int",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " values, "
+          },
+          {
+            "Text": "\"\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " if map of "
+          },
+          {
+            "Text": "string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " values…)"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155992231,
+        "id": "abe09f95-f050-4dcc-9bc4-22fe2a03bcde",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196464529,
+        "parent_id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "m  := map[string]string{\"foo\": \"foo_value\", \"bar\": \"\"}\nk  := m[\"foo\"]  // returns \"foo_value\" since that is the value stored in the map\nk2 := m[\"bar\"]  // returns \"\" since that is the value stored in the map\nk3 := m[\"nop\"]  // returns \"\" since the key does not exist, and \"\" is the string type's zero value"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "m  := map[string]string{\"foo\": \"foo_value\", \"bar\": \"\"}\nk  := m[\"foo\"]  // returns \"foo_value\" since that is the value stored in the map\nk2 := m[\"bar\"]  // returns \"\" since that is the value stored in the map\nk3 := m[\"nop\"]  // returns \"\" since the key does not exist, and \"\" is the string type's zero value",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155992231,
+        "id": "d477fcc0-026f-4d90-a6cd-633f78ae2e3b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155992231,
+        "parent_id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To differentiate between empty values and non-existent keys, you can use the second returned value of the map access (for example "
+            ],
+            [
+              "value, hasKey := map[\"key\"]",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ")."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To differentiate between empty values and non-existent keys, you can use the second returned value of the map access (for example "
+          },
+          {
+            "Text": "value, hasKey := map[\"key\"]",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ")."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155992232,
+        "id": "f0e8b85f-75d5-45d3-9dbc-3e15f2894d37",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155992232,
+        "parent_id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This second value is "
+            ],
+            [
+              "boolean",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " typed, and will be: - "
+            ],
+            [
+              "true",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " when the value exists in the map, - "
+            ],
+            [
+              "false",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " when the map does not contains the given key."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This second value is "
+          },
+          {
+            "Text": "boolean",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " typed, and will be: - "
+          },
+          {
+            "Text": "true",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " when the value exists in the map, - "
+          },
+          {
+            "Text": "false",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " when the map does not contains the given key."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155992232,
+        "id": "76ef4bd4-e355-4cdf-879d-046e248c7737",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155992232,
+        "parent_id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Look at the following example:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Look at the following example:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155992232,
+        "id": "33857e9e-49f3-44f0-8ef9-45c30f23550c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196466519,
+        "parent_id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "value, hasKey = m[ key ]\nif hasKey {\n    // the map contains the given key, so we can safely use the value\n    // If value is zero-value, it's because the zero-value was pushed to the map\n} else {\n    // The map does not have the given key\n    // the value will be the zero-value of the map's type\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "value, hasKey = m[ key ]\nif hasKey {\n    // the map contains the given key, so we can safely use the value\n    // If value is zero-value, it's because the zero-value was pushed to the map\n} else {\n    // The map does not have the given key\n    // the value will be the zero-value of the map's type\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Get value by key",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,332 @@
+{
+  "ID": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
+  "Page": {
+    "alive": true,
+    "content": [
+      "220596ce-557b-426e-8aef-04403c7f6e8e",
+      "30246cb0-3932-4910-8593-cdf99cfd2953",
+      "d49c4a20-9da3-4de6-9636-c69e0e19f0a4",
+      "e48a1a69-9aa5-4b1f-bb56-5873ae1dbd5d",
+      "5b9f1723-54cc-4a0a-9d54-50b70fa7ef78",
+      "73aaf3c7-dec0-426a-a80b-82ff23e08d68",
+      "44dcdb1c-c83b-4d12-92ee-2c48b2d104c9",
+      "42e1b4d3-019a-4f03-b26f-55f9899f9802",
+      "dfeeb38b-7c4f-485c-82c2-2fda582c434c"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155940156,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532233835762,
+    "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Interfaces"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194652166,
+        "id": "220596ce-557b-426e-8aef-04403c7f6e8e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233836636,
+        "parent_id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 24"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 24"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194654041,
+        "id": "30246cb0-3932-4910-8593-cdf99cfd2953",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233837401,
+        "parent_id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 9010008c"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 9010008c"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194656581,
+        "id": "d49c4a20-9da3-4de6-9636-c69e0e19f0a4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194656594,
+        "parent_id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155940150,
+        "id": "e48a1a69-9aa5-4b1f-bb56-5873ae1dbd5d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155940150,
+        "parent_id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "An interface defines a set of methods on a struct."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "An interface defines a set of methods on a struct."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155940154,
+        "id": "5b9f1723-54cc-4a0a-9d54-50b70fa7ef78",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194673155,
+        "parent_id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here’s the definition of the "
+            ],
+            [
+              "io.Reader",
+              [
+                [
+                  "a",
+                  "https://golang.org/pkg/io/#Reader"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " interface from the standard library:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 9,
+        "inline_content": [
+          {
+            "Text": "Here’s the definition of the "
+          },
+          {
+            "Text": "io.Reader",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/io/#Reader"
+          },
+          {
+            "Text": " interface from the standard library:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155940155,
+        "id": "73aaf3c7-dec0-426a-a80b-82ff23e08d68",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194659639,
+        "parent_id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Reader interface {\n    Read(p []byte) (n int, err error)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Reader interface {\n    Read(p []byte) (n int, err error)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155940155,
+        "id": "44dcdb1c-c83b-4d12-92ee-2c48b2d104c9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155940155,
+        "parent_id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The smaller the interface, the better."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The smaller the interface, the better."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155940156,
+        "id": "42e1b4d3-019a-4f03-b26f-55f9899f9802",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233832034,
+        "parent_id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of interface is nil."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 8,
+        "inline_content": [
+          {
+            "Text": "Zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of interface is nil."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155940156,
+        "id": "dfeeb38b-7c4f-485c-82c2-2fda582c434c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233861756,
+        "parent_id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Learn more about "
+            ],
+            [
+              "interfaces",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Interfaces-4f5f2959e72c431e995527b51ad7fd8e"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Learn more about "
+          },
+          {
+            "Text": "interfaces",
+            "Link": "https://www.notion.so/kjkpublic/Interfaces-4f5f2959e72c431e995527b51ad7fd8e"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      }
+    ],
+    "title": "Interfaces",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

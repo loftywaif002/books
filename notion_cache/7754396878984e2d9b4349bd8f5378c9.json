@@ -1,0 +1,360 @@
+{
+  "ID": "77543968-7898-4e2d-9b43-49bd8f5378c9",
+  "Page": {
+    "alive": true,
+    "content": [
+      "5a495ba0-c6d0-4065-b075-ec718866dd1c",
+      "62143b06-7626-4542-8aaf-9259a27fa857",
+      "b09e5f7c-137b-459b-bb0d-49bb380e6089",
+      "26e66ee2-d53a-4d3c-9ca7-787bd2e368fa",
+      "46074008-0240-44c1-8109-10292a182d61",
+      "8329c8b3-10ed-4898-bae5-0fc0c503c844",
+      "65813421-4728-4285-a2b5-9713f31508d0",
+      "6f5c4399-d755-493c-bc90-48e6cbc71ec9",
+      "92f24e0c-af16-46e1-8e07-4a5693eab4e0",
+      "92f2667a-dc4d-432a-a828-2336e4d82e0f"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156009202,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "77543968-7898-4e2d-9b43-49bd8f5378c9",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235381692,
+    "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Exported vs. unexported fields (private vs public)"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196939221,
+        "id": "5a495ba0-c6d0-4065-b075-ec718866dd1c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235383379,
+        "parent_id": "77543968-7898-4e2d-9b43-49bd8f5378c9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 85"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$Id: 85"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196942046,
+        "id": "62143b06-7626-4542-8aaf-9259a27fa857",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235384337,
+        "parent_id": "77543968-7898-4e2d-9b43-49bd8f5378c9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1255"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1255"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196944806,
+        "id": "b09e5f7c-137b-459b-bb0d-49bb380e6089",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196944806,
+        "parent_id": "77543968-7898-4e2d-9b43-49bd8f5378c9",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196943674,
+        "id": "26e66ee2-d53a-4d3c-9ca7-787bd2e368fa",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196944518,
+        "parent_id": "77543968-7898-4e2d-9b43-49bd8f5378c9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Struct fields whose names begin with an uppercase letter are exported. All other names are unexported."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Struct fields whose names begin with an uppercase letter are exported. All other names are unexported."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156009200,
+        "id": "46074008-0240-44c1-8109-10292a182d61",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196955074,
+        "parent_id": "77543968-7898-4e2d-9b43-49bd8f5378c9",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Account struct {\n    UserID      int    // exported\n    accessToken string // unexported\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Account struct {\n    UserID      int    // exported\n    accessToken string // unexported\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156009201,
+        "id": "8329c8b3-10ed-4898-bae5-0fc0c503c844",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156009201,
+        "parent_id": "77543968-7898-4e2d-9b43-49bd8f5378c9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Unexported fields can only be accessed by code within the same package. As such, if you are ever accessing a field from a "
+            ],
+            [
+              "different",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " package, its name needs to start with an uppercase letter."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Unexported fields can only be accessed by code within the same package. As such, if you are ever accessing a field from a "
+          },
+          {
+            "Text": "different",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " package, its name needs to start with an uppercase letter."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156009201,
+        "id": "65813421-4728-4285-a2b5-9713f31508d0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196957006,
+        "parent_id": "77543968-7898-4e2d-9b43-49bd8f5378c9",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport \"bank\"\n\nfunc main() {\n    var x = \u0026bank.Account{\n        UserID: 1,          // this works fine\n        accessToken: \"one\", // this does not work, since accessToken is unexported\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport \"bank\"\n\nfunc main() {\n    var x = \u0026bank.Account{\n        UserID: 1,          // this works fine\n        accessToken: \"one\", // this does not work, since accessToken is unexported\n    }\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156009201,
+        "id": "6f5c4399-d755-493c-bc90-48e6cbc71ec9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156009201,
+        "parent_id": "77543968-7898-4e2d-9b43-49bd8f5378c9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "However, from within the "
+            ],
+            [
+              "bank",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package, you can access both UserId and accessToken without issue."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "However, from within the "
+          },
+          {
+            "Text": "bank",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package, you can access both UserId and accessToken without issue."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156009201,
+        "id": "92f24e0c-af16-46e1-8e07-4a5693eab4e0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156009201,
+        "parent_id": "77543968-7898-4e2d-9b43-49bd8f5378c9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The package "
+            ],
+            [
+              "bank",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " could be implemented like this:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The package "
+          },
+          {
+            "Text": "bank",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " could be implemented like this:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156009201,
+        "id": "92f2667a-dc4d-432a-a828-2336e4d82e0f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235428136,
+        "parent_id": "77543968-7898-4e2d-9b43-49bd8f5378c9",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package bank\n\ntype Account struct {\n\tUserID int\n  accessToken string\n}\n\nfunc ProcessUser(u *Account) {\n\t// ProcessUser() can access u.accessToken because\n\t// it's defined in the same package\n  u.accessToken = doSomething(u) \n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 120,
+        "code": "package bank\n\ntype Account struct {\n\tUserID int\n  accessToken string\n}\n\nfunc ProcessUser(u *Account) {\n\t// ProcessUser() can access u.accessToken because\n\t// it's defined in the same package\n  u.accessToken = doSomething(u) \n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Exported vs. unexported fields (private vs public)",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

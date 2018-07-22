@@ -1,0 +1,352 @@
+{
+  "ID": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
+  "Page": {
+    "alive": true,
+    "content": [
+      "7e4170a1-391d-4585-bdc3-671775a29442",
+      "66284625-f65a-421f-a92e-b572ff471617",
+      "dffa8e19-311e-4e32-847c-91092fbcd585",
+      "b04a0acf-00d8-4a91-b1d7-9b16bf10011d",
+      "cdccde3b-61c6-4deb-82b0-06665ea31c65",
+      "f435102c-0077-4df9-a25d-1d65f82dcb20",
+      "e372ab36-d658-4acf-8392-fda6bfc8f5ac",
+      "04409185-e5d3-44c8-a6e7-e2f4084981ab",
+      "b77138d6-96ec-40d9-a8c8-a46c4e08d928",
+      "53b1ad9a-8d81-47c7-b49b-68ec3c909ace",
+      "6732d7b2-d64e-41c0-ba48-9b981f100ddd",
+      "88a4c932-73ea-4ad1-9dff-1cc2e8cc256c"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156070181,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236584981,
+    "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Buffered vs. unbuffered channels"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205878356,
+        "id": "7e4170a1-391d-4585-bdc3-671775a29442",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236585674,
+        "parent_id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 145"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 145"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205880679,
+        "id": "66284625-f65a-421f-a92e-b572ff471617",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236586399,
+        "parent_id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 20762"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 20762"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205883973,
+        "id": "dffa8e19-311e-4e32-847c-91092fbcd585",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205883973,
+        "parent_id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205882430,
+        "id": "b04a0acf-00d8-4a91-b1d7-9b16bf10011d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205883736,
+        "parent_id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "By default channels are unbuffered."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "By default channels are unbuffered."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156070180,
+        "id": "cdccde3b-61c6-4deb-82b0-06665ea31c65",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156070180,
+        "parent_id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sending and receiving goroutines block unless sending goroutine has a value to send and receiving goroutine is ready to receive."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Sending and receiving goroutines block unless sending goroutine has a value to send and receiving goroutine is ready to receive."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156070180,
+        "id": "f435102c-0077-4df9-a25d-1d65f82dcb20",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156070180,
+        "parent_id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Insisting on synchronization for every receive/send operation might introduce unnecessary slowdowns."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Insisting on synchronization for every receive/send operation might introduce unnecessary slowdowns."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156070181,
+        "id": "e372ab36-d658-4acf-8392-fda6bfc8f5ac",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156070181,
+        "parent_id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Imagine a scenario where one worker produces values and another worker consumes it."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Imagine a scenario where one worker produces values and another worker consumes it."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156070181,
+        "id": "04409185-e5d3-44c8-a6e7-e2f4084981ab",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156070181,
+        "parent_id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If it takes a second to produce a value and a second to consume it, it takes 2 * N seconds to produce and consume all values."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If it takes a second to produce a value and a second to consume it, it takes 2 * N seconds to produce and consume all values."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156070181,
+        "id": "b77138d6-96ec-40d9-a8c8-a46c4e08d928",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156070181,
+        "parent_id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If producer can queue up multiple values in the channel, producer doesn’t have to wait for consumer to be ready for each value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If producer can queue up multiple values in the channel, producer doesn’t have to wait for consumer to be ready for each value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156070181,
+        "id": "53b1ad9a-8d81-47c7-b49b-68ec3c909ace",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156070181,
+        "parent_id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is a job for bufferred channels."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is a job for bufferred channels."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156070181,
+        "id": "6732d7b2-d64e-41c0-ba48-9b981f100ddd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156070181,
+        "parent_id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "By allowing producer to proceed independently of the consumer we can speed up some scenarios."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "By allowing producer to proceed independently of the consumer we can speed up some scenarios."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156070181,
+        "id": "88a4c932-73ea-4ad1-9dff-1cc2e8cc256c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156070181,
+        "parent_id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file buffered.go output sha1:5b8c9ab73348e82432090937388cb2ab02a36ecd goplayground:D_dv_uhNYBR"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file buffered.go output sha1:5b8c9ab73348e82432090937388cb2ab02a36ecd goplayground:D_dv_uhNYBR"
+          }
+        ]
+      }
+    ],
+    "title": "Buffered vs. unbuffered channels",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

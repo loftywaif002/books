@@ -1,0 +1,973 @@
+{
+  "ID": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+  "Page": {
+    "alive": true,
+    "content": [
+      "70cf1d03-7c34-4304-8850-1c0277dcda90",
+      "c9124de5-e966-4dfb-a7bf-045b46bc7065",
+      "c2eb0451-edc2-4451-a1cb-aca1937ae110",
+      "f50d81fd-15d4-4578-9cb1-fe45a7ff1bb9",
+      "18cba3db-dced-4815-b4e9-f42b4b560fc9",
+      "72afcebb-ca7f-4cca-a02c-94187223f596",
+      "aa8b82c7-40a7-4e59-bcf9-9d45b834eebf",
+      "770359b1-562e-447f-abc0-d163a3bb968d",
+      "14bbcfae-e875-4f33-8eb1-30e76c94ab35",
+      "bd96f10f-7104-4367-8985-cd7fc43df822",
+      "d553b738-055a-4fa3-8e84-b767baa98a2f",
+      "5adad313-b6a9-4f99-8009-8eb28048b2bc",
+      "10e83a0a-d120-4213-8405-e0da509da428",
+      "74c2c6fe-a2b6-407c-8df3-9f70b12467f1",
+      "a8551daf-ec01-402c-9902-e1c6ccdf8836",
+      "bed183a1-d786-4355-a519-4534301c4149",
+      "1f9a0506-5315-481a-a713-d1e146b00433",
+      "abc74906-6538-4816-9c7f-5028216c6e15",
+      "cb304785-1ea1-4400-a6a2-ae8f36c0af81",
+      "811a48f2-5321-4229-a4b4-9f276b660366",
+      "2d2be6e6-b2f8-427f-99c4-f61eee1b619e",
+      "76be3792-95b8-49ed-9c8a-93c1e36f4414",
+      "f5af5fd7-36cd-453a-872a-eecc92fd3b10",
+      "c3174e19-8cc7-46bf-b6c3-8d9acaa8aa47"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156080150,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236713191,
+    "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Importing packages"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 28,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206225055,
+        "id": "70cf1d03-7c34-4304-8850-1c0277dcda90",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236714560,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 155"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Id: 155"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206227986,
+        "id": "c9124de5-e966-4dfb-a7bf-045b46bc7065",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236715391,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 22421"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 22421"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206229715,
+        "id": "c2eb0451-edc2-4451-a1cb-aca1937ae110",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206230659,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080144,
+        "id": "f50d81fd-15d4-4578-9cb1-fe45a7ff1bb9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156080144,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can import a single package with the statement:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can import a single package with the statement:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080144,
+        "id": "18cba3db-dced-4815-b4e9-f42b4b560fc9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206233487,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "import \"path/to/package\""
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "import \"path/to/package\"",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080145,
+        "id": "72afcebb-ca7f-4cca-a02c-94187223f596",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156080145,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "or group multiple imports together:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "or group multiple imports together:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080145,
+        "id": "aa8b82c7-40a7-4e59-bcf9-9d45b834eebf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206235514,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "import (\n    \"path/to/package1\"\n    \"path/to/package2\"\n)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "import (\n    \"path/to/package1\"\n    \"path/to/package2\"\n)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080145,
+        "id": "770359b1-562e-447f-abc0-d163a3bb968d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156080145,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This will look in the corresponding "
+            ],
+            [
+              "import",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " paths inside of the "
+            ],
+            [
+              "$GOPATH",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " for "
+            ],
+            [
+              ".go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " files and lets you access exported names through "
+            ],
+            [
+              "packagename.AnyExportedName",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This will look in the corresponding "
+          },
+          {
+            "Text": "import",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " paths inside of the "
+          },
+          {
+            "Text": "$GOPATH",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " for "
+          },
+          {
+            "Text": ".go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " files and lets you access exported names through "
+          },
+          {
+            "Text": "packagename.AnyExportedName",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080146,
+        "id": "14bbcfae-e875-4f33-8eb1-30e76c94ab35",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156080146,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can also access local packages inside of the current folder by prefacing packages with "
+            ],
+            [
+              "./",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". In a project with a structure like this:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can also access local packages inside of the current folder by prefacing packages with "
+          },
+          {
+            "Text": "./",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". In a project with a structure like this:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080147,
+        "id": "bd96f10f-7104-4367-8985-cd7fc43df822",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156080147,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "project\n├── src\n│   ├── package1\n│   │   └── file1.go\n│   └── package2\n│       └── file2.go\n└── main.go"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "project\n├── src\n│   ├── package1\n│   │   └── file1.go\n│   └── package2\n│       └── file2.go\n└── main.go",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080147,
+        "id": "d553b738-055a-4fa3-8e84-b767baa98a2f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156080147,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You could call this in "
+            ],
+            [
+              "main.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in order to import the code in "
+            ],
+            [
+              "file1.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "file2.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You could call this in "
+          },
+          {
+            "Text": "main.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in order to import the code in "
+          },
+          {
+            "Text": "file1.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "file2.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080147,
+        "id": "5adad313-b6a9-4f99-8009-8eb28048b2bc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206239836,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "import (\n    \"./src/package1\"\n    \"./src/package2\"\n)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "import (\n    \"./src/package1\"\n    \"./src/package2\"\n)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080147,
+        "id": "10e83a0a-d120-4213-8405-e0da509da428",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156080147,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Since package-names can collide in different libraries you may want to alias one package to a new name. You can do this by prefixing your import-statement with the name you want to use."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Since package-names can collide in different libraries you may want to alias one package to a new name. You can do this by prefixing your import-statement with the name you want to use."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080148,
+        "id": "74c2c6fe-a2b6-407c-8df3-9f70b12467f1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206242381,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "import (\n    \"fmt\" //fmt from the standardlibrary\n    tfmt \"some/thirdparty/fmt\" //fmt from some other library\n)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "import (\n    \"fmt\" //fmt from the standardlibrary\n    tfmt \"some/thirdparty/fmt\" //fmt from some other library\n)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080148,
+        "id": "a8551daf-ec01-402c-9902-e1c6ccdf8836",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156080148,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This allows you to access the former "
+            ],
+            [
+              "fmt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package using "
+            ],
+            [
+              "fmt.*",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and the latter "
+            ],
+            [
+              "fmt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package using "
+            ],
+            [
+              "tfmt.*",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This allows you to access the former "
+          },
+          {
+            "Text": "fmt",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package using "
+          },
+          {
+            "Text": "fmt.*",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and the latter "
+          },
+          {
+            "Text": "fmt",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package using "
+          },
+          {
+            "Text": "tfmt.*",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080148,
+        "id": "bed183a1-d786-4355-a519-4534301c4149",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156080148,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can also import the package into the own namespace, so that you can refer to the exported names without the "
+            ],
+            [
+              "package.",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " prefix using a single dot as alias:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can also import the package into the own namespace, so that you can refer to the exported names without the "
+          },
+          {
+            "Text": "package.",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " prefix using a single dot as alias:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080149,
+        "id": "1f9a0506-5315-481a-a713-d1e146b00433",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206245768,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "import (\n    . \"fmt\"\n)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "import (\n    . \"fmt\"\n)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080149,
+        "id": "abc74906-6538-4816-9c7f-5028216c6e15",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156080149,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Above example imports "
+            ],
+            [
+              "fmt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " into the global namespace and lets you call, for example, "
+            ],
+            [
+              "Printf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Above example imports "
+          },
+          {
+            "Text": "fmt",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " into the global namespace and lets you call, for example, "
+          },
+          {
+            "Text": "Printf",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080149,
+        "id": "cb304785-1ea1-4400-a6a2-ae8f36c0af81",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156080149,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you import a package but don’t use any of it’s exported names, the Go compiler will print an error-message. To circumvent this, you can set the alias to the underscore:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you import a package but don’t use any of it’s exported names, the Go compiler will print an error-message. To circumvent this, you can set the alias to the underscore:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080149,
+        "id": "811a48f2-5321-4229-a4b4-9f276b660366",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206248364,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "import (\n    _ \"fmt\"\n)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "import (\n    _ \"fmt\"\n)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080150,
+        "id": "2d2be6e6-b2f8-427f-99c4-f61eee1b619e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156080150,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This can be useful if you don’t access this package directly but need it’s "
+            ],
+            [
+              "init",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " functions to run."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This can be useful if you don’t access this package directly but need it’s "
+          },
+          {
+            "Text": "init",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " functions to run."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080150,
+        "id": "76be3792-95b8-49ed-9c8a-93c1e36f4414",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156080150,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Note:",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Note:",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080150,
+        "id": "f5af5fd7-36cd-453a-872a-eecc92fd3b10",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156080150,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "As the package names are based on the folder structure, any changes in the folder names \u0026 import references (including case sensitivity) will cause a compile time error “case-insensitive import collision” in Linux \u0026 OS-X, which is difficult to trace and fix (the error message is kinda cryptic for mere mortals as it tries to convey the opposite - that, the comparison failed due to case sensitivity)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "As the package names are based on the folder structure, any changes in the folder names \u0026 import references (including case sensitivity) will cause a compile time error “case-insensitive import collision” in Linux \u0026 OS-X, which is difficult to trace and fix (the error message is kinda cryptic for mere mortals as it tries to convey the opposite - that, the comparison failed due to case sensitivity)."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080150,
+        "id": "c3174e19-8cc7-46bf-b6c3-8d9acaa8aa47",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156080150,
+        "parent_id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "ex: “path/to/Package1” vs “path/to/package1”"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "ex: “path/to/Package1” vs “path/to/package1”"
+          }
+        ]
+      }
+    ],
+    "title": "Importing packages",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

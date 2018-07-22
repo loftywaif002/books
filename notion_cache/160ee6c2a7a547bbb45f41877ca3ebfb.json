@@ -1,0 +1,251 @@
+{
+  "ID": "160ee6c2-a7a5-47bb-b45f-41877ca3ebfb",
+  "Page": {
+    "alive": true,
+    "content": [
+      "e48b115a-a9f2-4b22-b852-3d5963ab1ad6",
+      "6709a9b4-0fbd-4989-8aa1-603e4c3f7c06",
+      "791fa492-8a8e-40ae-bb63-e3ad80317f5a",
+      "1ef633fc-07e7-47da-aaae-8b675a9c620e",
+      "861207e1-ccdb-4004-a03e-f350bdcddff5",
+      "5d9acff6-e09a-4cdd-8f7c-3b71f3b65b0b",
+      "c3673666-6db5-42c6-8489-106893d3574a",
+      "b8cb173c-f867-45bf-bb38-9d4f76946cb3"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156199189,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "160ee6c2-a7a5-47bb-b45f-41877ca3ebfb",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532212242853,
+    "parent_id": "e9a96445-11c4-47f9-8808-19e7cd837540",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Sending Email with smtp.SendMail()"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212226371,
+        "id": "e48b115a-a9f2-4b22-b852-3d5963ab1ad6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212237675,
+        "parent_id": "160ee6c2-a7a5-47bb-b45f-41877ca3ebfb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 253"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$Id: 253"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212229965,
+        "id": "6709a9b4-0fbd-4989-8aa1-603e4c3f7c06",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212236742,
+        "parent_id": "160ee6c2-a7a5-47bb-b45f-41877ca3ebfb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 2"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 2"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212232077,
+        "id": "791fa492-8a8e-40ae-bb63-e3ad80317f5a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212234341,
+        "parent_id": "160ee6c2-a7a5-47bb-b45f-41877ca3ebfb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 20761"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 20761"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212235885,
+        "id": "1ef633fc-07e7-47da-aaae-8b675a9c620e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212235885,
+        "parent_id": "160ee6c2-a7a5-47bb-b45f-41877ca3ebfb",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212234341,
+        "id": "861207e1-ccdb-4004-a03e-f350bdcddff5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212235494,
+        "parent_id": "160ee6c2-a7a5-47bb-b45f-41877ca3ebfb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sending email is pretty simple in Go. It helps to understand the RFC 822, which specifies the style an email need to be in, the code below sends a RFC 822 compliant email."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Sending email is pretty simple in Go. It helps to understand the RFC 822, which specifies the style an email need to be in, the code below sends a RFC 822 compliant email."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156199188,
+        "id": "5d9acff6-e09a-4cdd-8f7c-3b71f3b65b0b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212247373,
+        "parent_id": "160ee6c2-a7a5-47bb-b45f-41877ca3ebfb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"fmt\"\n    \"net/smtp\"\n)\n\nfunc main() {\n    // user we are authorizing as\n    from := \"someuser@example.com\"\n\n    // use we are sending email to\n    to := \"otheruser@example.com\"\n\n    // server we are authorized to send email through\n    host := \"mail.example.com\"\n\n    // Create the authentication for the SendMail()\n    // using PlainText, but other authentication methods are encouraged\n    auth := smtp.PlainAuth(\"\", from, \"password\", host)\n\n    // NOTE: Using the backtick here ` works like a heredoc, which is why all the\n    // rest of the lines are forced to the beginning of the line, otherwise the\n    // formatting is wrong for the RFC 822 style\n    message := `To: \"Some User\" \u003csomeuser@example.com\u003e\nFrom: \"Other User\" \u003cotheruser@example.com\u003e\nSubject: Testing Email From Go!!\n\nThis is the message we are sending. That's it!\n`\n\n    if err := smtp.SendMail(host+\":25\", auth, from, []string{to}, []byte(message)); err != nil {\n        fmt.Println(\"Error SendMail: \", err)\n        os.Exit(1)\n    }\n    fmt.Println(\"Email Sent!\")\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"fmt\"\n    \"net/smtp\"\n)\n\nfunc main() {\n    // user we are authorizing as\n    from := \"someuser@example.com\"\n\n    // use we are sending email to\n    to := \"otheruser@example.com\"\n\n    // server we are authorized to send email through\n    host := \"mail.example.com\"\n\n    // Create the authentication for the SendMail()\n    // using PlainText, but other authentication methods are encouraged\n    auth := smtp.PlainAuth(\"\", from, \"password\", host)\n\n    // NOTE: Using the backtick here ` works like a heredoc, which is why all the\n    // rest of the lines are forced to the beginning of the line, otherwise the\n    // formatting is wrong for the RFC 822 style\n    message := `To: \"Some User\" \u003csomeuser@example.com\u003e\nFrom: \"Other User\" \u003cotheruser@example.com\u003e\nSubject: Testing Email From Go!!\n\nThis is the message we are sending. That's it!\n`\n\n    if err := smtp.SendMail(host+\":25\", auth, from, []string{to}, []byte(message)); err != nil {\n        fmt.Println(\"Error SendMail: \", err)\n        os.Exit(1)\n    }\n    fmt.Println(\"Email Sent!\")\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156199189,
+        "id": "c3673666-6db5-42c6-8489-106893d3574a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156199189,
+        "parent_id": "160ee6c2-a7a5-47bb-b45f-41877ca3ebfb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The above will send a message like the following:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The above will send a message like the following:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156199189,
+        "id": "b8cb173c-f867-45bf-bb38-9d4f76946cb3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156199189,
+        "parent_id": "160ee6c2-a7a5-47bb-b45f-41877ca3ebfb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "To: \"Other User\" \u003cotheruser@example.com\u003e\nFrom: \"Some User\" \u003csomeuser@example.com\u003e\nSubject: Testing Email From Go!!\n\nThis is the message we are sending. That's it!"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "To: \"Other User\" \u003cotheruser@example.com\u003e\nFrom: \"Some User\" \u003csomeuser@example.com\u003e\nSubject: Testing Email From Go!!\n\nThis is the message we are sending. That's it!",
+        "code_language": "Plain Text"
+      }
+    ],
+    "title": "Sending Email with smtp.SendMail()",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

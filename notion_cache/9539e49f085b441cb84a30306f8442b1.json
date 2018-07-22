@@ -1,0 +1,400 @@
+{
+  "ID": "9539e49f-085b-441c-b84a-30306f8442b1",
+  "Page": {
+    "alive": true,
+    "content": [
+      "5f44b653-6080-4c96-ac37-e87685857b35",
+      "06326f00-eee9-48f1-9260-888666de1880",
+      "e9092c8b-842d-4a5c-92d7-c3266827b7f7",
+      "f3dd1b12-1df0-4f88-b15f-6f1aa234e533",
+      "384e1999-53f4-467a-81f1-4cf09614f171",
+      "78990ede-b392-4bd7-905b-87368510f4fd",
+      "88313276-7b2d-4321-bfa1-425ff980ffe1",
+      "084432db-3e0b-43d0-b4e7-e2a139cab1f6",
+      "7a6d60a9-8612-4596-91be-a6fd17d4db76",
+      "88355284-a390-4382-b9bf-a7adaf2e2224"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156288243,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "9539e49f-085b-441c-b84a-30306f8442b1",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532215488067,
+    "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "go run"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215472303,
+        "id": "5f44b653-6080-4c96-ac37-e87685857b35",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215488843,
+        "parent_id": "9539e49f-085b-441c-b84a-30306f8442b1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 324"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 324"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215475899,
+        "id": "06326f00-eee9-48f1-9260-888666de1880",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215489490,
+        "parent_id": "9539e49f-085b-441c-b84a-30306f8442b1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 17005"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 17005"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215480113,
+        "id": "e9092c8b-842d-4a5c-92d7-c3266827b7f7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215480113,
+        "parent_id": "9539e49f-085b-441c-b84a-30306f8442b1",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215477531,
+        "id": "f3dd1b12-1df0-4f88-b15f-6f1aa234e533",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215478945,
+        "parent_id": "9539e49f-085b-441c-b84a-30306f8442b1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "go run",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " will run a program without creating an executable file. Mostly useful for development. "
+            ],
+            [
+              "run",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " will only execute packages whose "
+            ],
+            [
+              "package name",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " is "
+            ],
+            [
+              "main",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "go run",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " will run a program without creating an executable file. Mostly useful for development. "
+          },
+          {
+            "Text": "run",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " will only execute packages whose "
+          },
+          {
+            "Text": "package name",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " is "
+          },
+          {
+            "Text": "main",
+            "AttrFlags": 1
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156288242,
+        "id": "384e1999-53f4-467a-81f1-4cf09614f171",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156288242,
+        "parent_id": "9539e49f-085b-441c-b84a-30306f8442b1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To demonstrate, we will use a simple Hello World example "
+            ],
+            [
+              "main.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To demonstrate, we will use a simple Hello World example "
+          },
+          {
+            "Text": "main.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156288242,
+        "id": "78990ede-b392-4bd7-905b-87368510f4fd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215496257,
+        "parent_id": "9539e49f-085b-441c-b84a-30306f8442b1",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport fmt\n\nfunc main() {\n    fmt.Println(\"Hello, World!\")\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport fmt\n\nfunc main() {\n    fmt.Println(\"Hello, World!\")\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156288242,
+        "id": "88313276-7b2d-4321-bfa1-425ff980ffe1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156288242,
+        "parent_id": "9539e49f-085b-441c-b84a-30306f8442b1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Execute without compiling to a file: "
+            ],
+            [
+              "go run main.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Execute without compiling to a file: "
+          },
+          {
+            "Text": "go run main.go",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156288243,
+        "id": "084432db-3e0b-43d0-b4e7-e2a139cab1f6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156288243,
+        "parent_id": "9539e49f-085b-441c-b84a-30306f8442b1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Run multiple files in package"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Run multiple files in package"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156288243,
+        "id": "7a6d60a9-8612-4596-91be-a6fd17d4db76",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156288243,
+        "parent_id": "9539e49f-085b-441c-b84a-30306f8442b1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If program is split into multiple files, you must provide all files:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If program is split into multiple files, you must provide all files:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156288243,
+        "id": "88355284-a390-4382-b9bf-a7adaf2e2224",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215502622,
+        "parent_id": "9539e49f-085b-441c-b84a-30306f8442b1",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ go run main.go assets.go"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "$ go run main.go assets.go",
+        "code_language": "Shell"
+      }
+    ],
+    "title": "go run",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

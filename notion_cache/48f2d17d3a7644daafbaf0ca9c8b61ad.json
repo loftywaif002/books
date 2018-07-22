@@ -1,0 +1,344 @@
+{
+  "ID": "48f2d17d-3a76-44da-afba-f0ca9c8b61ad",
+  "Page": {
+    "alive": true,
+    "content": [
+      "90942a9b-c551-43fa-b9e5-8e68bc237216",
+      "12c1ffa0-e345-44cd-87fe-b295ffe1622b",
+      "04cb7643-3970-4824-a454-6c080d97675d",
+      "1ffdad96-20a5-438b-b1f8-14fbd6007e8f",
+      "29592645-820c-47b6-823d-3fa2d8eab5f3",
+      "0e514602-0034-4268-a7f6-8499f7c35fc2",
+      "1b8ad3f9-dffe-48d4-95eb-39b67cbd4463"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156179228,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "48f2d17d-3a76-44da-afba-f0ca9c8b61ad",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532211269030,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "OS Signals"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 22,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211252441,
+        "id": "90942a9b-c551-43fa-b9e5-8e68bc237216",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211254969,
+        "parent_id": "48f2d17d-3a76-44da-afba-f0ca9c8b61ad",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 239"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 239"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211254969,
+        "id": "12c1ffa0-e345-44cd-87fe-b295ffe1622b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211256888,
+        "parent_id": "48f2d17d-3a76-44da-afba-f0ca9c8b61ad",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4497"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4497"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211256888,
+        "id": "04cb7643-3970-4824-a454-6c080d97675d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211259596,
+        "parent_id": "48f2d17d-3a76-44da-afba-f0ca9c8b61ad",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Syntax - func Notify(c chan\u003c- os.Signal, sig …os.Signal)"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 27,
+        "inline_content": [
+          {
+            "Text": "Syntax - func Notify(c chan\u003c- os.Signal, sig …os.Signal)"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156179226,
+        "id": "1ffdad96-20a5-438b-b1f8-14fbd6007e8f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156179226,
+        "parent_id": "48f2d17d-3a76-44da-afba-f0ca9c8b61ad",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Parameters"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Parameters"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156179228,
+        "id": "29592645-820c-47b6-823d-3fa2d8eab5f3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156179228,
+        "parent_id": "48f2d17d-3a76-44da-afba-f0ca9c8b61ad",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Parameter"
+            ],
+            [
+              "Details"
+            ],
+            [
+              "c chan\u003c- os.Signal"
+            ],
+            [
+              "Receiving "
+            ],
+            [
+              "channel",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " specifically of type "
+            ],
+            [
+              "os.Signal",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "; easily created with "
+            ],
+            [
+              "sigChan := make(chan os.Signal)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "sig …os.Signal"
+            ],
+            [
+              "List of "
+            ],
+            [
+              "os.Signal",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " types to catch and send down this "
+            ],
+            [
+              "channel",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". See https://golang.org/pkg/syscall/#pkg-constants for more options."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Parameter"
+          },
+          {
+            "Text": "Details"
+          },
+          {
+            "Text": "c chan\u003c- os.Signal"
+          },
+          {
+            "Text": "Receiving "
+          },
+          {
+            "Text": "channel",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " specifically of type "
+          },
+          {
+            "Text": "os.Signal",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "; easily created with "
+          },
+          {
+            "Text": "sigChan := make(chan os.Signal)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "sig …os.Signal"
+          },
+          {
+            "Text": "List of "
+          },
+          {
+            "Text": "os.Signal",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " types to catch and send down this "
+          },
+          {
+            "Text": "channel",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". See https://golang.org/pkg/syscall/#pkg-constants for more options."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211269030,
+        "id": "0e514602-0034-4268-a7f6-8499f7c35fc2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211269030,
+        "parent_id": "48f2d17d-3a76-44da-afba-f0ca9c8b61ad",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156183947,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "1b8ad3f9-dffe-48d4-95eb-39b67cbd4463",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211301353,
+        "parent_id": "48f2d17d-3a76-44da-afba-f0ca9c8b61ad",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Assigning signals to a channel"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Assigning signals to a channel",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "OS Signals",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

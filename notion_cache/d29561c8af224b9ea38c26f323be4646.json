@@ -1,0 +1,325 @@
+{
+  "ID": "d29561c8-af22-4b9e-a38c-26f323be4646",
+  "Page": {
+    "alive": true,
+    "content": [
+      "501e91e8-9033-46b6-a8d9-871b4d0eb3df",
+      "6c23cabc-223c-4bf2-801e-86fd09398c3d",
+      "8f2b564f-5698-44be-9e61-0425cfd54137",
+      "f635c825-5700-4a98-97bf-453451a04d18",
+      "fa05838a-27db-4119-816c-d8d9ac51848d",
+      "59bb586a-38c9-430b-ba10-528c0588cc26",
+      "2ff3adf0-20fa-454f-b94e-96105fa959dd",
+      "08751c17-ae48-4164-8423-e3c31c588d2c",
+      "178a0731-2b65-4cf0-b76f-e24f183b5e53",
+      "90af3a56-1143-40de-80a0-de6a4b9b0bb7"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155924138,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "d29561c8-af22-4b9e-a38c-26f323be4646",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532217198838,
+    "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Run Go in online playground"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 27,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532160047427,
+        "id": "501e91e8-9033-46b6-a8d9-871b4d0eb3df",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217119802,
+        "parent_id": "d29561c8-af22-4b9e-a38c-26f323be4646",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 9"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 9"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532160049690,
+        "id": "6c23cabc-223c-4bf2-801e-86fd09398c3d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217120514,
+        "parent_id": "d29561c8-af22-4b9e-a38c-26f323be4646",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 27470"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 27470"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532160051258,
+        "id": "8f2b564f-5698-44be-9e61-0425cfd54137",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532160051272,
+        "parent_id": "d29561c8-af22-4b9e-a38c-26f323be4646",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155924135,
+        "id": "f635c825-5700-4a98-97bf-453451a04d18",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217136865,
+        "parent_id": "d29561c8-af22-4b9e-a38c-26f323be4646",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To test small snippets of Go code, you can use "
+            ],
+            [
+              "The Go Playground",
+              [
+                [
+                  "a",
+                  "https://play.golang.org/"
+                ]
+              ]
+            ],
+            [
+              " or slightly nicer "
+            ],
+            [
+              "The Go Play Space",
+              [
+                [
+                  "a",
+                  "https://goplay.space/"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 19,
+        "inline_content": [
+          {
+            "Text": "To test small snippets of Go code, you can use "
+          },
+          {
+            "Text": "The Go Playground",
+            "Link": "https://play.golang.org/"
+          },
+          {
+            "Text": " or slightly nicer "
+          },
+          {
+            "Text": "The Go Play Space",
+            "Link": "https://goplay.space/"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155924135,
+        "id": "fa05838a-27db-4119-816c-d8d9ac51848d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155924135,
+        "parent_id": "d29561c8-af22-4b9e-a38c-26f323be4646",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Playground has some limitations:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Playground has some limitations:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155924137,
+        "id": "59bb586a-38c9-430b-ba10-528c0588cc26",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217222070,
+        "parent_id": "d29561c8-af22-4b9e-a38c-26f323be4646",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "it only supports the standard library; you can’t use third party libraries"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 17,
+        "inline_content": [
+          {
+            "Text": "it only supports the standard library; you can’t use third party libraries"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155924137,
+        "id": "2ff3adf0-20fa-454f-b94e-96105fa959dd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155924137,
+        "parent_id": "d29561c8-af22-4b9e-a38c-26f323be4646",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "networking, file i/o is not available"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "networking, file i/o is not available"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155924137,
+        "id": "08751c17-ae48-4164-8423-e3c31c588d2c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217147833,
+        "parent_id": "d29561c8-af22-4b9e-a38c-26f323be4646",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "time is fixed"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 29,
+        "inline_content": [
+          {
+            "Text": "time is fixed"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532217161199,
+        "id": "178a0731-2b65-4cf0-b76f-e24f183b5e53",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217208798,
+        "parent_id": "d29561c8-af22-4b9e-a38c-26f323be4646",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Playground gives you a permanent link to the code snippet for sharing with others."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 152,
+        "inline_content": [
+          {
+            "Text": "Playground gives you a permanent link to the code snippet for sharing with others."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532217198838,
+        "id": "90af3a56-1143-40de-80a0-de6a4b9b0bb7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217198838,
+        "parent_id": "d29561c8-af22-4b9e-a38c-26f323be4646",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      }
+    ],
+    "title": "Run Go in online playground",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

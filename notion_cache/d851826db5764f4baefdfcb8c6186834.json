@@ -1,0 +1,775 @@
+{
+  "ID": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+  "Page": {
+    "alive": true,
+    "content": [
+      "70773359-f44d-4fcb-85f0-ce6863f4a24c",
+      "29e437c5-ca09-40c5-afbb-ef75e579415a",
+      "f66cf8a1-5927-446b-a265-81175d9b9510",
+      "ba602421-e12c-45f6-a68a-babaf66ac561",
+      "14eb279a-bdee-44f4-9fdd-283c7a499ba0",
+      "a9155425-0352-4829-9e87-fb364685c6d6",
+      "4b4f0e80-a277-4d81-86a5-ebcaa5011b0c",
+      "cb51571d-a62a-48b6-876e-e516fc454cfb",
+      "d72470a9-da64-4ad0-9587-1270c3e6cb9f",
+      "54ca63e6-810d-4c05-b4ee-e7d892e0093b",
+      "b818b9dd-e7a7-46ca-b471-9bc40dbcd054",
+      "b4f189aa-1232-46bc-81eb-76ef957b6fe3",
+      "61abd876-2b69-4922-a84c-e5c81a1179c1",
+      "dd5dcb89-cec5-4274-a426-bbfb7b4c0730",
+      "744d218b-8e6d-411f-85ac-91a231e85e9b",
+      "f4cbb14a-25b3-4cea-88a1-0e2f635c61de",
+      "fc2583ac-62aa-44c1-89c6-b877e3913eee",
+      "9a755c49-ca9a-4749-a9ea-c965a0dfd28b",
+      "d6ed68b6-88a4-4be4-857f-86bf39cfa225",
+      "6a582f94-dad2-41fa-b0b5-cf394899eeb3",
+      "c7f1ec37-8d5e-4ecb-9d44-8548e26de7d5",
+      "7138313c-7b53-4974-a479-956a9370d30f"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156178151,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532211188395,
+    "parent_id": "6ccd64ac-7a17-4e1e-a353-66e014d9972a",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Basic fmt"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211163850,
+        "id": "70773359-f44d-4fcb-85f0-ce6863f4a24c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211167647,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 238"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 238"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211167647,
+        "id": "29e437c5-ca09-40c5-afbb-ef75e579415a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211169604,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211169604,
+        "id": "f66cf8a1-5927-446b-a265-81175d9b9510",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211176978,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 23178"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 18,
+        "inline_content": [
+          {
+            "Text": "$SOId: 23178"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211178678,
+        "id": "ba602421-e12c-45f6-a68a-babaf66ac561",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211178678,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211175290,
+        "id": "14eb279a-bdee-44f4-9fdd-283c7a499ba0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211177820,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Package fmt implements formatted I/O using format "
+            ],
+            [
+              "verbs",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "Package fmt implements formatted I/O using format "
+          },
+          {
+            "Text": "verbs",
+            "AttrFlags": 4
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178148,
+        "id": "a9155425-0352-4829-9e87-fb364685c6d6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156178148,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "%v    // the value in a default format\n%T    // a Go-syntax representation of the type of the value\n%s    // the uninterpreted bytes of the string or slice"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "%v    // the value in a default format\n%T    // a Go-syntax representation of the type of the value\n%s    // the uninterpreted bytes of the string or slice",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178148,
+        "id": "4b4f0e80-a277-4d81-86a5-ebcaa5011b0c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156178148,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Format Functions"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Format Functions"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178149,
+        "id": "cb51571d-a62a-48b6-876e-e516fc454cfb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156178149,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "There are "
+            ],
+            [
+              "4",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " main function types in "
+            ],
+            [
+              "fmt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and several variations within."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "There are "
+          },
+          {
+            "Text": "4",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " main function types in "
+          },
+          {
+            "Text": "fmt",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and several variations within."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178149,
+        "id": "d72470a9-da64-4ad0-9587-1270c3e6cb9f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156178149,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Print"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Print"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178149,
+        "id": "54ca63e6-810d-4c05-b4ee-e7d892e0093b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211194092,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "fmt.Print(\"Hello World\")        // prints: Hello World\nfmt.Println(\"Hello World\")      // prints: Hello World\\n\nfmt.Printf(\"Hello %s\", \"World\") // prints: Hello World"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "fmt.Print(\"Hello World\")        // prints: Hello World\nfmt.Println(\"Hello World\")      // prints: Hello World\\n\nfmt.Printf(\"Hello %s\", \"World\") // prints: Hello World",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178149,
+        "id": "b818b9dd-e7a7-46ca-b471-9bc40dbcd054",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156178149,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sprint"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Sprint"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178149,
+        "id": "b4f189aa-1232-46bc-81eb-76ef957b6fe3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211196701,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "formattedString := fmt.Sprintf(\"%v %s\", 2, \"words\") // returns string \"2 words\""
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "formattedString := fmt.Sprintf(\"%v %s\", 2, \"words\") // returns string \"2 words\"",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178149,
+        "id": "61abd876-2b69-4922-a84c-e5c81a1179c1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156178149,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Fprint"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Fprint"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178149,
+        "id": "dd5dcb89-cec5-4274-a426-bbfb7b4c0730",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211201726,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "byteCount, err := fmt.Fprint(w, \"Hello World\") // writes to io.Writer w"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "byteCount, err := fmt.Fprint(w, \"Hello World\") // writes to io.Writer w",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178150,
+        "id": "744d218b-8e6d-411f-85ac-91a231e85e9b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156178150,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Fprint",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " can be used, inside "
+            ],
+            [
+              "http",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " handlers:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Fprint",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " can be used, inside "
+          },
+          {
+            "Text": "http",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " handlers:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178150,
+        "id": "f4cbb14a-25b3-4cea-88a1-0e2f635c61de",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211204319,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func handler(w http.ResponseWriter, r *http.Request) {\n    fmt.Fprintf(w, \"Hello %s!\", \"Browser\")\n}   // Writes: \"Hello Browser!\" onto http response"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func handler(w http.ResponseWriter, r *http.Request) {\n    fmt.Fprintf(w, \"Hello %s!\", \"Browser\")\n}   // Writes: \"Hello Browser!\" onto http response",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178150,
+        "id": "fc2583ac-62aa-44c1-89c6-b877e3913eee",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156178150,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Scan"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Scan"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178150,
+        "id": "9a755c49-ca9a-4749-a9ea-c965a0dfd28b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156178150,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Scan scans text read from standard input."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Scan scans text read from standard input."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178150,
+        "id": "d6ed68b6-88a4-4be4-857f-86bf39cfa225",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211207253,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var s string\nfmt.Scanln(\u0026s) // pass pointer to buffer\n// Scanln is similar to fmt.Scan(), but it stops scanning at new line.\nfmt.Println(s) // whatever was inputted"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var s string\nfmt.Scanln(\u0026s) // pass pointer to buffer\n// Scanln is similar to fmt.Scan(), but it stops scanning at new line.\nfmt.Println(s) // whatever was inputted",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178150,
+        "id": "6a582f94-dad2-41fa-b0b5-cf394899eeb3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156178150,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Stringer Interface"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Stringer Interface"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178151,
+        "id": "c7f1ec37-8d5e-4ecb-9d44-8548e26de7d5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156178151,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Any value which has a "
+            ],
+            [
+              "String()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " method implements the "
+            ],
+            [
+              "fmt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " "
+            ],
+            [
+              "inteface",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " "
+            ],
+            [
+              "Stringer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Any value which has a "
+          },
+          {
+            "Text": "String()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " method implements the "
+          },
+          {
+            "Text": "fmt",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " "
+          },
+          {
+            "Text": "inteface",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " "
+          },
+          {
+            "Text": "Stringer",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156178151,
+        "id": "7138313c-7b53-4974-a479-956a9370d30f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211210299,
+        "parent_id": "d851826d-b576-4f4b-aefd-fcb8c6186834",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Stringer interface {\n        String() string\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Stringer interface {\n        String() string\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Basic fmt",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

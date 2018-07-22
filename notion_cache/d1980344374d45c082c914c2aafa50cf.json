@@ -1,0 +1,341 @@
+{
+  "ID": "d1980344-374d-45c0-82c9-14c2aafa50cf",
+  "Page": {
+    "alive": true,
+    "content": [
+      "876a0028-54ea-4327-a357-d28942768b5d",
+      "2ba205e0-7d3d-4d7e-8441-3aabfa4d343f",
+      "86df5aab-a6b3-4e4a-8378-1fa3529e6a92",
+      "84049c5b-5dab-47a1-b50c-b69ce872aa9c",
+      "f75cad54-dadd-4b16-9f0d-6baa9b017b96",
+      "2cdd6f7b-8bc5-4d2d-b6d2-49efd549bf4e",
+      "d4492adc-2845-48a3-aeca-3f925b0e3bed",
+      "ba6a5342-dd87-454a-8f09-28e8f11d3d2e",
+      "94d471ce-b063-49c3-99a7-e5c3387086fe",
+      "e87a5c85-8718-4181-8bdb-00f2bcdb7c94",
+      "11b418b3-8f3d-4b98-be1c-e87a3cc5188b"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156221163,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "d1980344-374d-45c0-82c9-14c2aafa50cf",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213156077,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Build Constraints"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213128317,
+        "id": "876a0028-54ea-4327-a357-d28942768b5d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213131301,
+        "parent_id": "d1980344-374d-45c0-82c9-14c2aafa50cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 273"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 273"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213131301,
+        "id": "2ba205e0-7d3d-4d7e-8441-3aabfa4d343f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213134054,
+        "parent_id": "d1980344-374d-45c0-82c9-14c2aafa50cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2595"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2595"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213135580,
+        "id": "86df5aab-a6b3-4e4a-8378-1fa3529e6a92",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213135580,
+        "parent_id": "d1980344-374d-45c0-82c9-14c2aafa50cf",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213134054,
+        "id": "84049c5b-5dab-47a1-b50c-b69ce872aa9c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213142481,
+        "parent_id": "d1980344-374d-45c0-82c9-14c2aafa50cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Syntax: "
+            ],
+            [
+              "// +build tags",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 32,
+        "inline_content": [
+          {
+            "Text": "Syntax: "
+          },
+          {
+            "Text": "// +build tags",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156221162,
+        "id": "f75cad54-dadd-4b16-9f0d-6baa9b017b96",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156221162,
+        "parent_id": "d1980344-374d-45c0-82c9-14c2aafa50cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Remarks"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Remarks"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156221163,
+        "id": "2cdd6f7b-8bc5-4d2d-b6d2-49efd549bf4e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156221163,
+        "parent_id": "d1980344-374d-45c0-82c9-14c2aafa50cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Build tags are used for conditionally building certain files in your code. Build tags may ignore files that you don’t want build unless explicitly included, or some predefined build tags may be used to have a file only be built on a particular architecture or operating system."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Build tags are used for conditionally building certain files in your code. Build tags may ignore files that you don’t want build unless explicitly included, or some predefined build tags may be used to have a file only be built on a particular architecture or operating system."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156221163,
+        "id": "d4492adc-2845-48a3-aeca-3f925b0e3bed",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156221163,
+        "parent_id": "d1980344-374d-45c0-82c9-14c2aafa50cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Build tags may appear in any kind of source file (not just Go), but they must appear near the top of the file, preceded only by blank lines and other line comments. These rules mean that in Go files a build constraint must appear before the package clause."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Build tags may appear in any kind of source file (not just Go), but they must appear near the top of the file, preceded only by blank lines and other line comments. These rules mean that in Go files a build constraint must appear before the package clause."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156221163,
+        "id": "ba6a5342-dd87-454a-8f09-28e8f11d3d2e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156221163,
+        "parent_id": "d1980344-374d-45c0-82c9-14c2aafa50cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A series of build tags must be followed by a blank line."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A series of build tags must be followed by a blank line."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213156077,
+        "id": "94d471ce-b063-49c3-99a7-e5c3387086fe",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213156077,
+        "parent_id": "d1980344-374d-45c0-82c9-14c2aafa50cf",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156222145,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "e87a5c85-8718-4181-8bdb-00f2bcdb7c94",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213187340,
+        "parent_id": "d1980344-374d-45c0-82c9-14c2aafa50cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Separate integration tests"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Separate integration tests",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156223114,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "11b418b3-8f3d-4b98-be1c-e87a3cc5188b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213251664,
+        "parent_id": "d1980344-374d-45c0-82c9-14c2aafa50cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Optimize implementations based on architecture"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Optimize implementations based on architecture",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Build Constraints",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

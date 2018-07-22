@@ -1,0 +1,1050 @@
+{
+  "ID": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+  "Page": {
+    "alive": true,
+    "content": [
+      "0e9834a6-c1c9-47e2-90e9-a6e3dbde4435",
+      "5a636cff-bc3c-484e-8a8d-9d2f94a313d2",
+      "a53a99ca-8ef7-4373-9924-441ec8b1529e",
+      "2c82380b-3bac-4ba9-b924-73320c0fc4cb",
+      "76742429-7868-46c6-9ab9-91664eaf4f40",
+      "8838cc41-1777-4d89-ad4d-62716a68ecdf",
+      "c1c4d0b5-f0f6-40f9-9ac7-9438b976498a",
+      "71ab0459-7be5-477a-895a-216e3c73aa06",
+      "739324fe-a079-4593-a8b4-c3b97c117015",
+      "56f4f273-252a-47bc-8aad-df3944d40d35",
+      "fa685304-ac40-4231-b793-4452b3373b61",
+      "6a008ba2-a76f-4b09-8ac2-3e69d723aafd",
+      "76303db1-1f57-46ef-9dac-4a7c373b5bf0",
+      "f13b8110-8774-4895-800e-bbf9ad9fcc7a",
+      "bdcf25b3-601d-44a6-9f9f-fdd65406579c",
+      "ce7a1a7c-7819-429c-a99e-62d010602d69",
+      "70762431-3a07-4e80-8ae2-53dab1f5e41b",
+      "1792fb2e-c40b-4615-a304-1ce865f03232",
+      "0dcb2c4e-98a9-4e29-ba22-86120170460f",
+      "1ed47a22-e93d-4eea-8bfd-5e8cadec33ee",
+      "10de77c9-ddf9-4349-b8a8-fe4ccc7e0edf",
+      "e4339293-4186-4a91-8afd-610d508f1a3d",
+      "189556c9-1093-4c41-88d2-1a8e5072f0f9",
+      "4c3a02e5-cc21-475b-ad26-e7f2dc5f3803",
+      "ae5fd315-7980-4ee1-95cb-b111397aa981"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155919196,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532232886642,
+    "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Mac OS install and setup"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 61,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532158830571,
+        "id": "0e9834a6-c1c9-47e2-90e9-a6e3dbde4435",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215761646,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 4"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 4"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532158833251,
+        "id": "5a636cff-bc3c-484e-8a8d-9d2f94a313d2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232858038,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: rd600058"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: rd600058"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232855068,
+        "id": "a53a99ca-8ef7-4373-9924-441ec8b1529e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232862958,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Install on Mac OS"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 7,
+        "inline_content": [
+          {
+            "Text": "Install on Mac OS"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232855095,
+        "id": "2c82380b-3bac-4ba9-b924-73320c0fc4cb",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232868910,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using official binaries"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 7,
+        "inline_content": [
+          {
+            "Text": "Using official binaries"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232855065,
+        "id": "76742429-7868-46c6-9ab9-91664eaf4f40",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232855065,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Download "
+            ],
+            [
+              ".pkg",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " installer from "
+            ],
+            [
+              "https://golang.org/dl/",
+              [
+                [
+                  "a",
+                  "https://golang.org/dl/"
+                ]
+              ]
+            ],
+            [
+              " and run it."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "Download "
+          },
+          {
+            "Text": ".pkg",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " installer from "
+          },
+          {
+            "Text": "https://golang.org/dl/",
+            "Link": "https://golang.org/dl/"
+          },
+          {
+            "Text": " and run it."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232855074,
+        "id": "8838cc41-1777-4d89-ad4d-62716a68ecdf",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232874120,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using Homebrew"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 7,
+        "inline_content": [
+          {
+            "Text": "Using Homebrew"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232855092,
+        "id": "c1c4d0b5-f0f6-40f9-9ac7-9438b976498a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232855092,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "if you don’t have Homebrew installed, install it following the "
+            ],
+            [
+              "instructions",
+              [
+                [
+                  "a",
+                  "https://brew.sh/"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "if you don’t have Homebrew installed, install it following the "
+          },
+          {
+            "Text": "instructions",
+            "Link": "https://brew.sh/"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232855088,
+        "id": "71ab0459-7be5-477a-895a-216e3c73aa06",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232886642,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "brew install go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 7,
+        "inline_content": [
+          {
+            "Text": "brew install go",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232855094,
+        "id": "739324fe-a079-4593-a8b4-c3b97c117015",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232884770,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Setup on Mac OS"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 44,
+        "inline_content": [
+          {
+            "Text": "Setup on Mac OS"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919192,
+        "id": "56f4f273-252a-47bc-8aad-df3944d40d35",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155919192,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "After installing the compiler you need to configure "
+            ],
+            [
+              "GOPATH",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "10"
+                ]
+              ]
+            ],
+            [
+              " environment variable."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "After installing the compiler you need to configure "
+          },
+          {
+            "Text": "GOPATH",
+            "AttrFlags": 2,
+            "Link": "10"
+          },
+          {
+            "Text": " environment variable."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919192,
+        "id": "fa685304-ac40-4231-b793-4452b3373b61",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155919192,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Since Go 1.8, the "
+            ],
+            [
+              "GOPATH",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " environment variable has the default value of "
+            ],
+            [
+              "$HOME/go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", so you can skip setting it."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Since Go 1.8, the "
+          },
+          {
+            "Text": "GOPATH",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " environment variable has the default value of "
+          },
+          {
+            "Text": "$HOME/go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", so you can skip setting it."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919193,
+        "id": "6a008ba2-a76f-4b09-8ac2-3e69d723aafd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155919193,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Create the go directory with "
+            ],
+            [
+              "mkdir $HOME/go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Create the go directory with "
+          },
+          {
+            "Text": "mkdir $HOME/go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919193,
+        "id": "76303db1-1f57-46ef-9dac-4a7c373b5bf0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155919193,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Add the following to your "
+            ],
+            [
+              "~/.bash_profile",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " file:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Add the following to your "
+          },
+          {
+            "Text": "~/.bash_profile",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " file:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919194,
+        "id": "f13b8110-8774-4895-800e-bbf9ad9fcc7a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532158849634,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "export GOPATH=$HOME/go\nexport PATH=$PATH:$GOPATH/bin"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "export GOPATH=$HOME/go\nexport PATH=$PATH:$GOPATH/bin",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919194,
+        "id": "bdcf25b3-601d-44a6-9f9f-fdd65406579c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155919194,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Load the changes with "
+            ],
+            [
+              "source ~/.bash_profile",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or launch a new terminal for the changes to take effect."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Load the changes with "
+          },
+          {
+            "Text": "source ~/.bash_profile",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or launch a new terminal for the changes to take effect."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919194,
+        "id": "ce7a1a7c-7819-429c-a99e-62d010602d69",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155919194,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Explanation",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Explanation",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919195,
+        "id": "70762431-3a07-4e80-8ae2-53dab1f5e41b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155919195,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "File "
+            ],
+            [
+              "~/.bash_profile",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is executed at startup by the default "
+            ],
+            [
+              "bash",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " shell."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "File "
+          },
+          {
+            "Text": "~/.bash_profile",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is executed at startup by the default "
+          },
+          {
+            "Text": "bash",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " shell."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919195,
+        "id": "1792fb2e-c40b-4615-a304-1ce865f03232",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155919195,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "By adding commands there we make them available inside every shell session."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "By adding commands there we make them available inside every shell session."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919195,
+        "id": "0dcb2c4e-98a9-4e29-ba22-86120170460f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155919195,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Adding "
+            ],
+            [
+              "$GOPATH/bin",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to "
+            ],
+            [
+              "PATH",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a matter of convenience. When you install Go programs with "
+            ],
+            [
+              "go get ...",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", you will be able to invoke them without typing the full path. For example, you would run "
+            ],
+            [
+              "gotest1",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " rather than "
+            ],
+            [
+              "$HOME/go/bin/gotest1",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Adding "
+          },
+          {
+            "Text": "$GOPATH/bin",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to "
+          },
+          {
+            "Text": "PATH",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a matter of convenience. When you install Go programs with "
+          },
+          {
+            "Text": "go get ...",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", you will be able to invoke them without typing the full path. For example, you would run "
+          },
+          {
+            "Text": "gotest1",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " rather than "
+          },
+          {
+            "Text": "$HOME/go/bin/gotest1",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919196,
+        "id": "1ed47a22-e93d-4eea-8bfd-5e8cadec33ee",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155919196,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "More configuration",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "More configuration",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919196,
+        "id": "10de77c9-ddf9-4349-b8a8-fe4ccc7e0edf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155919196,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To quickly cd to a directory with Go source code I add bash alias to "
+            ],
+            [
+              "~/.bash_profile",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To quickly cd to a directory with Go source code I add bash alias to "
+          },
+          {
+            "Text": "~/.bash_profile",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919196,
+        "id": "e4339293-4186-4a91-8afd-610d508f1a3d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532158852762,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "alias cdgo=\"cd $GOPATH/src/github.com/kjk\""
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "alias cdgo=\"cd $GOPATH/src/github.com/kjk\"",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919196,
+        "id": "189556c9-1093-4c41-88d2-1a8e5072f0f9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155919196,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You need to change "
+            ],
+            [
+              "github.com/kjk",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " for your GitHub account."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You need to change "
+          },
+          {
+            "Text": "github.com/kjk",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " for your GitHub account."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919196,
+        "id": "4c3a02e5-cc21-475b-ad26-e7f2dc5f3803",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232839249,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You should understand the "
+            ],
+            [
+              "effect of GOPATH",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/GOPATH-GOROOT-GOBIN-d6da4b8481f94757bae43be1fdfa9e73"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "You should understand the "
+          },
+          {
+            "Text": "effect of GOPATH",
+            "Link": "https://www.notion.so/kjkpublic/GOPATH-GOROOT-GOBIN-d6da4b8481f94757bae43be1fdfa9e73"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232839691,
+        "id": "ae5fd315-7980-4ee1-95cb-b111397aa981",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232839691,
+        "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Mac OS install and setup",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

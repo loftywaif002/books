@@ -1,0 +1,606 @@
+{
+  "ID": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+  "Page": {
+    "alive": true,
+    "content": [
+      "9e055659-8eae-4426-b31d-2ec1956e4514",
+      "943e518d-3b70-499f-952e-5297ade4f7d4",
+      "c536f89b-4cf4-408e-a74c-dd61b74a057f",
+      "c75627d4-f25b-492f-9fb3-3475043a6b02",
+      "538152f3-a460-4673-954d-e36e166d58b2",
+      "494fa481-958d-4a83-af44-1b57baa0e387",
+      "d686fdfc-3462-423a-bf41-8cc4cc5e54e8",
+      "b4baf706-b911-4c31-8c71-0b7fc6be9c76",
+      "a7b9cc6e-edd0-43c1-93df-d5545cfe34df",
+      "496a1c02-d739-4c0c-826d-6f1f1834e5ca",
+      "b23c5322-632e-4800-8382-05c2c7d3dc3e",
+      "f95ee200-0145-45a6-a9f6-917cd6051e84",
+      "986222c0-d46f-4a93-b05a-f5dd32a04646"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156107236,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207417066,
+    "parent_id": "b6e9fbb3-165c-4bcb-907e-469d86783aab",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "hex"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207390688,
+        "id": "9e055659-8eae-4426-b31d-2ec1956e4514",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207393014,
+        "parent_id": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 180"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 180"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207393014,
+        "id": "943e518d-3b70-499f-952e-5297ade4f7d4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207396997,
+        "parent_id": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 15704"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 15704"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207396997,
+        "id": "c536f89b-4cf4-408e-a74c-dd61b74a057f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207400929,
+        "parent_id": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Hex encode and decode"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 27,
+        "inline_content": [
+          {
+            "Text": "Hex encode and decode"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156107234,
+        "id": "c75627d4-f25b-492f-9fb3-3475043a6b02",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156107234,
+        "parent_id": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can encode a "
+            ],
+            [
+              "[]byte",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " into a "
+            ],
+            [
+              "string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and decode from "
+            ],
+            [
+              "string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " into "
+            ],
+            [
+              "[]byte",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can encode a "
+          },
+          {
+            "Text": "[]byte",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " into a "
+          },
+          {
+            "Text": "string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and decode from "
+          },
+          {
+            "Text": "string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " into "
+          },
+          {
+            "Text": "[]byte",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156107234,
+        "id": "538152f3-a460-4673-954d-e36e166d58b2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156107234,
+        "parent_id": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file hex.go output sha1:63d4832a60c7bfde329af4e9a236c2c6b606722e goplayground:wqzJOwDxmHv"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file hex.go output sha1:63d4832a60c7bfde329af4e9a236c2c6b606722e goplayground:wqzJOwDxmHv"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156107235,
+        "id": "494fa481-958d-4a83-af44-1b57baa0e387",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156107235,
+        "parent_id": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Hex encoding with "
+            ],
+            [
+              "fmt.Sprintf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Hex encoding with "
+          },
+          {
+            "Text": "fmt.Sprintf",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156107235,
+        "id": "d686fdfc-3462-423a-bf41-8cc4cc5e54e8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156107235,
+        "parent_id": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can encode to string using "
+            ],
+            [
+              "fmt.Sprintf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "%x",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " directive. Similarly, we can decode using "
+            ],
+            [
+              "fmt.Sscanf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "%x",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can encode to string using "
+          },
+          {
+            "Text": "fmt.Sprintf",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "%x",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " directive. Similarly, we can decode using "
+          },
+          {
+            "Text": "fmt.Sscanf",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "%x",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156107235,
+        "id": "b4baf706-b911-4c31-8c71-0b7fc6be9c76",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156107235,
+        "parent_id": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Directive "
+            ],
+            [
+              "%x",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " supports integers in addtion to "
+            ],
+            [
+              "[]byte",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Directive "
+          },
+          {
+            "Text": "%x",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " supports integers in addtion to "
+          },
+          {
+            "Text": "[]byte",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156107235,
+        "id": "a7b9cc6e-edd0-43c1-93df-d5545cfe34df",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156107235,
+        "parent_id": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file hex_sprintf.go output sha1:9b8e558beb458829bccb99fe6cedf2c69e9bda7a goplayground:mmQtGk6npqa"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file hex_sprintf.go output sha1:9b8e558beb458829bccb99fe6cedf2c69e9bda7a goplayground:mmQtGk6npqa"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156107236,
+        "id": "496a1c02-d739-4c0c-826d-6f1f1834e5ca",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156107236,
+        "parent_id": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Hex encoding to writer, decoding from reader"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Hex encoding to writer, decoding from reader"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156107236,
+        "id": "b23c5322-632e-4800-8382-05c2c7d3dc3e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156107236,
+        "parent_id": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For encoding and decoding larger values in streaming mode, we can encode to a "
+            ],
+            [
+              "io.Writer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and decode from "
+            ],
+            [
+              "io.Reader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For encoding and decoding larger values in streaming mode, we can encode to a "
+          },
+          {
+            "Text": "io.Writer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and decode from "
+          },
+          {
+            "Text": "io.Reader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156107236,
+        "id": "f95ee200-0145-45a6-a9f6-917cd6051e84",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156107236,
+        "parent_id": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file hex_streaming.go output sha1:c1098fc85ad3ba51541001d88142f8b07742f55d goplayground:VzEp8o7FW6V"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file hex_streaming.go output sha1:c1098fc85ad3ba51541001d88142f8b07742f55d goplayground:VzEp8o7FW6V"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207417066,
+        "id": "986222c0-d46f-4a93-b05a-f5dd32a04646",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207417066,
+        "parent_id": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "hex",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

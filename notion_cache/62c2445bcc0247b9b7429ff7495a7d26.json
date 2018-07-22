@@ -1,0 +1,661 @@
+{
+  "ID": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+  "Page": {
+    "alive": true,
+    "content": [
+      "50fbd634-8ae8-452f-ad6a-ca61983796af",
+      "09353742-307b-484c-894b-c28d8b710f18",
+      "b66030ba-1810-4137-80f4-d368e8f83eff",
+      "2dfb7ea9-abea-40b0-a457-bcd8f75202d2",
+      "20deabf9-8fbc-4b4c-b1be-bb6dcb509307",
+      "5697a8e6-7f6d-4084-adba-0e479aa2903b",
+      "a8e81228-2acf-4649-8ab2-a7e4d5b9382c",
+      "86b1291c-ea86-4137-a22d-0fa64f5fc087",
+      "5d07ffdd-3413-4674-b73e-a07b39285fd4",
+      "4699e70a-c8e6-4903-a0c2-cac069f0f795",
+      "65b6a74e-2c46-4fe6-822f-ea3a97784717",
+      "f844aa2b-7a37-46bc-a9f9-aa813401a64a",
+      "6714c240-bd55-4851-a4a0-7b77b3b9f219",
+      "0fc916f7-b074-4c17-946f-eeb039e3e6fa",
+      "3c666cd9-803c-45c1-ab54-3bf304eda196",
+      "94b0c090-0719-46a1-a81b-fa7bf549c00d",
+      "1850cdee-c49d-40f1-ad10-d4f400dd41be",
+      "ecc4e23b-4355-473c-acae-901bb72d9917",
+      "e6e62e46-5d61-4f70-82e2-5e03d535e17c"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156168188,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532210909029,
+    "parent_id": "b58d1314-5f92-4c11-afcf-00aa10d71364",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Context with value"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210894944,
+        "id": "50fbd634-8ae8-452f-ad6a-ca61983796af",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210897956,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 232"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Id: 232"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210897956,
+        "id": "09353742-307b-484c-894b-c28d8b710f18",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210899841,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 9010008e"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 9010008e"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210900291,
+        "id": "b66030ba-1810-4137-80f4-d368e8f83eff",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210900306,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168184,
+        "id": "2dfb7ea9-abea-40b0-a457-bcd8f75202d2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168184,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In HTTP server each request is served by a handler function running in its own goroutine."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In HTTP server each request is served by a handler function running in its own goroutine."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168184,
+        "id": "20deabf9-8fbc-4b4c-b1be-bb6dcb509307",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168184,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We often want to have common per-requested information available in a convenient way."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We often want to have common per-requested information available in a convenient way."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168184,
+        "id": "5697a8e6-7f6d-4084-adba-0e479aa2903b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168184,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For example, at the beginning of handling a request we might check a cookie to see if a request is made by a logged in user and we want to have user info available everywhere."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For example, at the beginning of handling a request we might check a cookie to see if a request is made by a logged in user and we want to have user info available everywhere."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168185,
+        "id": "a8e81228-2acf-4649-8ab2-a7e4d5b9382c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168185,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can do that by using context with value:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can do that by using context with value:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168185,
+        "id": "86b1291c-ea86-4137-a22d-0fa64f5fc087",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168185,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file context_with_value.go output sha1:8d8a6526a597b72b6dd29e4b1700245eb6f26b9d goplayground:EkdcW_DuUNf"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file context_with_value.go output sha1:8d8a6526a597b72b6dd29e4b1700245eb6f26b9d goplayground:EkdcW_DuUNf"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168185,
+        "id": "5d07ffdd-3413-4674-b73e-a07b39285fd4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168185,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For clarity of the example we only show creating a context with value and retrieving value from context."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For clarity of the example we only show creating a context with value and retrieving value from context."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168185,
+        "id": "4699e70a-c8e6-4903-a0c2-cac069f0f795",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168185,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Because context value is an "
+            ],
+            [
+              "interface{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", it’s a good practice to write type-safe wrapper functions for setting and retrieving values."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Because context value is an "
+          },
+          {
+            "Text": "interface{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", it’s a good practice to write type-safe wrapper functions for setting and retrieving values."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168185,
+        "id": "65b6a74e-2c46-4fe6-822f-ea3a97784717",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168185,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The key used to set / get value is also an "
+            ],
+            [
+              "interface{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". Because context can be passed to functions in code you didn’t write, you want to ensure that the value used for key is unique."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The key used to set / get value is also an "
+          },
+          {
+            "Text": "interface{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". Because context can be passed to functions in code you didn’t write, you want to ensure that the value used for key is unique."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168185,
+        "id": "f844aa2b-7a37-46bc-a9f9-aa813401a64a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168185,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "That’s why we defined a non-exported type "
+            ],
+            [
+              "userKeyType",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and used a non-exported global variable "
+            ],
+            [
+              "userKey",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " of that type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "That’s why we defined a non-exported type "
+          },
+          {
+            "Text": "userKeyType",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and used a non-exported global variable "
+          },
+          {
+            "Text": "userKey",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " of that type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168186,
+        "id": "6714c240-bd55-4851-a4a0-7b77b3b9f219",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168186,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This ensures that code outside of our package can’t possibly use this key."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This ensures that code outside of our package can’t possibly use this key."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168186,
+        "id": "0fc916f7-b074-4c17-946f-eeb039e3e6fa",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168186,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This wouldn’t be true if the key was e.g. a string (or any type available to multiple packages)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This wouldn’t be true if the key was e.g. a string (or any type available to multiple packages)."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168186,
+        "id": "3c666cd9-803c-45c1-ab54-3bf304eda196",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168186,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We wrote two functions for retrieving the value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We wrote two functions for retrieving the value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168187,
+        "id": "94b0c090-0719-46a1-a81b-fa7bf549c00d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168187,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "One panics when value is not set, another one returns "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "One panics when value is not set, another one returns "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168187,
+        "id": "1850cdee-c49d-40f1-ad10-d4f400dd41be",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168187,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Which one to use is a policy decision for your code."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Which one to use is a policy decision for your code."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168187,
+        "id": "ecc4e23b-4355-473c-acae-901bb72d9917",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168187,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sometimes missing a variable on context means a bug in your program and you should use "
+            ],
+            [
+              "mustGetUserFromContext",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " variant which panics in that case."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Sometimes missing a variable on context means a bug in your program and you should use "
+          },
+          {
+            "Text": "mustGetUserFromContext",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " variant which panics in that case."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156168188,
+        "id": "e6e62e46-5d61-4f70-82e2-5e03d535e17c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156168188,
+        "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sometimes missing a variable is expected and you can use "
+            ],
+            [
+              "getUserFromContext",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " variant."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Sometimes missing a variable is expected and you can use "
+          },
+          {
+            "Text": "getUserFromContext",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " variant."
+          }
+        ]
+      }
+    ],
+    "title": "Context with value",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

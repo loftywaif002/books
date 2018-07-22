@@ -1,0 +1,369 @@
+{
+  "ID": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+  "Page": {
+    "alive": true,
+    "content": [
+      "180250dc-6a99-412f-b0d5-6ac88a39c749",
+      "4c590537-6653-4968-a784-1b4021089070",
+      "ff3f321f-7c61-4a80-bf1f-683041d124bd",
+      "fcb91573-1365-4174-922b-9009004f6cf0",
+      "6a6f0a0d-8886-4b83-9d88-d9ec6d3ce54b",
+      "6dc5c793-4183-40fc-9775-fc16e41daa3d",
+      "f1550039-f494-4833-91a7-881923e80b88",
+      "698adf30-b5e5-4d2d-8e28-2053c556682a",
+      "d6d0eae1-063d-4fde-a20b-ae4382dd20cb",
+      "41455e5f-57fc-4e65-9994-7e73a63140d9"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156230826,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213596716,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Object oriented programming"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 32,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213571549,
+        "id": "180250dc-6a99-412f-b0d5-6ac88a39c749",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213598445,
+        "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 281"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 281"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213574917,
+        "id": "4c590537-6653-4968-a784-1b4021089070",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213599340,
+        "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 8801"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 8801"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213576333,
+        "id": "ff3f321f-7c61-4a80-bf1f-683041d124bd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213584694,
+        "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Remarks"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 29,
+        "inline_content": [
+          {
+            "Text": "Remarks"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213581613,
+        "id": "fcb91573-1365-4174-922b-9009004f6cf0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213581940,
+        "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Interface can’t be implemented with pointer receivers because "
+            ],
+            [
+              "*User",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is not "
+            ],
+            [
+              "User",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 8,
+        "inline_content": [
+          {
+            "Text": "Interface can’t be implemented with pointer receivers because "
+          },
+          {
+            "Text": "*User",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is not "
+          },
+          {
+            "Text": "User",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213565165,
+        "id": "6a6f0a0d-8886-4b83-9d88-d9ec6d3ce54b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213565165,
+        "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156232157,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "6dc5c793-4183-40fc-9775-fc16e41daa3d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213647293,
+        "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Structs"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 27,
+        "title": "Structs",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156233147,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "f1550039-f494-4833-91a7-881923e80b88",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213681020,
+        "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Methods"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Methods",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156234149,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "698adf30-b5e5-4d2d-8e28-2053c556682a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213749755,
+        "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Interface \u0026 polymorphism"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 27,
+        "title": "Interface \u0026 polymorphism",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156235112,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "d6d0eae1-063d-4fde-a20b-ae4382dd20cb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213779387,
+        "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Embedded structs"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Embedded structs",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156236154,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "41455e5f-57fc-4e65-9994-7e73a63140d9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213809041,
+        "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Pointer Vs Value receiver"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Pointer Vs Value receiver",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Object oriented programming",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,215 @@
+{
+  "ID": "9f153202-4848-4a19-8d3f-9bc5ecc49f74",
+  "Page": {
+    "alive": true,
+    "content": [
+      "24ed835a-69a2-4cc7-9019-74aa2aad09e5",
+      "40b83579-6086-4ed5-be9b-9f095f9734f5",
+      "2124f1c0-54c5-4802-995c-ea5eb0945472",
+      "61e82a52-b2f1-45ff-99d9-ddfc01c981c1",
+      "c014c029-0917-4c28-9536-8faa7d3bea8e",
+      "029c780e-9df1-4d2b-b448-fc9c83efcb04"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156128164,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "9f153202-4848-4a19-8d3f-9bc5ecc49f74",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532208330557,
+    "parent_id": "fc416b38-f6f3-41bf-a311-bf6c575c73a1",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Querying"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208315424,
+        "id": "24ed835a-69a2-4cc7-9019-74aa2aad09e5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208324390,
+        "parent_id": "9f153202-4848-4a19-8d3f-9bc5ecc49f74",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 195"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 195"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208316981,
+        "id": "40b83579-6086-4ed5-be9b-9f095f9734f5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208323741,
+        "parent_id": "9f153202-4848-4a19-8d3f-9bc5ecc49f74",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208318357,
+        "id": "2124f1c0-54c5-4802-995c-ea5eb0945472",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208322710,
+        "parent_id": "9f153202-4848-4a19-8d3f-9bc5ecc49f74",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4169"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4169"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208321470,
+        "id": "61e82a52-b2f1-45ff-99d9-ddfc01c981c1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208321470,
+        "parent_id": "9f153202-4848-4a19-8d3f-9bc5ecc49f74",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208319982,
+        "id": "c014c029-0917-4c28-9536-8faa7d3bea8e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208321182,
+        "parent_id": "9f153202-4848-4a19-8d3f-9bc5ecc49f74",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This example is showing how to query a database with "
+            ],
+            [
+              "database/sql",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", taking as example a MySql database."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "This example is showing how to query a database with "
+          },
+          {
+            "Text": "database/sql",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", taking as example a MySql database."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156128163,
+        "id": "029c780e-9df1-4d2b-b448-fc9c83efcb04",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208312390,
+        "parent_id": "9f153202-4848-4a19-8d3f-9bc5ecc49f74",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"log\"\n    \"fmt\"\n    \"database/sql\"\n    _ \"github.com/go-sql-driver/mysql\"\n)\n\nfunc main() {\n    dsn := \"mysql_username:CHANGEME@tcp(localhost:3306)/dbname\"\n\n    db, err := sql.Open(\"mysql\", dsn)\n    if err != nil {\n        log.Fatal(err)\n    }\n    defer sql.Close()\n\n    rows, err := db.Query(\"select id, first_name from user limit 10\")\n    if err != nil {\n        log.Fatal(err)\n    }\n    defer rows.Close()\n\n    for rows.Next() {\n        var id int\n        var username string\n        if err := rows.Scan(\u0026id, \u0026username); err != nil {\n            log.Fatal(err)\n        }\n        fmt.Printf(\"%d-%s\\n\", id, username)\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"log\"\n    \"fmt\"\n    \"database/sql\"\n    _ \"github.com/go-sql-driver/mysql\"\n)\n\nfunc main() {\n    dsn := \"mysql_username:CHANGEME@tcp(localhost:3306)/dbname\"\n\n    db, err := sql.Open(\"mysql\", dsn)\n    if err != nil {\n        log.Fatal(err)\n    }\n    defer sql.Close()\n\n    rows, err := db.Query(\"select id, first_name from user limit 10\")\n    if err != nil {\n        log.Fatal(err)\n    }\n    defer rows.Close()\n\n    for rows.Next() {\n        var id int\n        var username string\n        if err := rows.Scan(\u0026id, \u0026username); err != nil {\n            log.Fatal(err)\n        }\n        fmt.Printf(\"%d-%s\\n\", id, username)\n    }\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Querying",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

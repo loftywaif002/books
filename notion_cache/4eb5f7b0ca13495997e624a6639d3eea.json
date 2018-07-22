@@ -1,0 +1,196 @@
+{
+  "ID": "4eb5f7b0-ca13-4959-97e6-24a6639d3eea",
+  "Page": {
+    "alive": true,
+    "content": [
+      "58f187f1-e8e2-4544-84b9-31df45963044",
+      "5c25e0df-32ae-47da-aba7-a729d2da1e83",
+      "2ee7ffd9-e0f7-4382-ba15-936fa3d8b253",
+      "ba26d2b5-c823-4241-b839-cfc8686dc34e",
+      "54e51147-5203-4270-ace4-07a22bbe8fad",
+      "a43732cb-bd2c-48d5-995a-3ed8f4fee7e7"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156006154,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "4eb5f7b0-ca13-4959-97e6-24a6639d3eea",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235358665,
+    "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Anonymous structs"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196875736,
+        "id": "58f187f1-e8e2-4544-84b9-31df45963044",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235359591,
+        "parent_id": "4eb5f7b0-ca13-4959-97e6-24a6639d3eea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 83"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 83"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196877093,
+        "id": "5c25e0df-32ae-47da-aba7-a729d2da1e83",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235360328,
+        "parent_id": "4eb5f7b0-ca13-4959-97e6-24a6639d3eea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1299"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1299"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196880503,
+        "id": "2ee7ffd9-e0f7-4382-ba15-936fa3d8b253",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196880503,
+        "parent_id": "4eb5f7b0-ca13-4959-97e6-24a6639d3eea",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196878640,
+        "id": "ba26d2b5-c823-4241-b839-cfc8686dc34e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196879877,
+        "parent_id": "4eb5f7b0-ca13-4959-97e6-24a6639d3eea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can create anonymous structs:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "You can create anonymous structs:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156006154,
+        "id": "54e51147-5203-4270-ace4-07a22bbe8fad",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156006154,
+        "parent_id": "4eb5f7b0-ca13-4959-97e6-24a6639d3eea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file anonymous_structs.go output sha1:c8b21ddc04c420bb9950fa31b53ef3e34e504229 goplayground:jVIX1n0WHhP"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file anonymous_structs.go output sha1:c8b21ddc04c420bb9950fa31b53ef3e34e504229 goplayground:jVIX1n0WHhP"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156006154,
+        "id": "a43732cb-bd2c-48d5-995a-3ed8f4fee7e7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156006154,
+        "parent_id": "4eb5f7b0-ca13-4959-97e6-24a6639d3eea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Anonymous structs are often used in test suites."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Anonymous structs are often used in test suites."
+          }
+        ]
+      }
+    ],
+    "title": "Anonymous structs",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

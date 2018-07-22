@@ -1,0 +1,345 @@
+{
+  "ID": "67151757-92a2-445d-b26d-03d366c233b8",
+  "Page": {
+    "alive": true,
+    "content": [
+      "69832a5c-ac0e-4d14-8fb9-24de0a773625",
+      "2f33a2dc-0135-419f-aff3-9cd305ecfb49",
+      "62209a14-2fa5-430a-9e0f-7c1a79bc4cc3",
+      "24d9761c-54ff-4120-a997-284624687f6a",
+      "a620ac36-a947-4cdb-a245-fb03ed6f9f4a",
+      "e0618fe4-e3ab-4acf-adb3-a472be83e23e",
+      "9b578a1e-bac7-49e1-879e-b26cdf273719",
+      "cb608c6c-f6e9-41fa-a857-adf5f81c250e",
+      "2aebe644-d3ae-4e05-9eab-80eb69e56a56",
+      "d4c3f4b5-7a62-498c-bf3d-5087cb34acf3",
+      "ecbb0c95-e9db-4aff-bb63-602bb9f2825a"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155936150,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "67151757-92a2-445d-b26d-03d366c233b8",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532233750434,
+    "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Maps"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194548419,
+        "id": "69832a5c-ac0e-4d14-8fb9-24de0a773625",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233726532,
+        "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Search: dictionary, dictionaries, hash table, hash tables"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$Search: dictionary, dictionaries, hash table, hash tables"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194552187,
+        "id": "2f33a2dc-0135-419f-aff3-9cd305ecfb49",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233727563,
+        "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 22"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 22"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194555292,
+        "id": "62209a14-2fa5-430a-9e0f-7c1a79bc4cc3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233728683,
+        "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: rd600050"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: rd600050"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194557519,
+        "id": "24d9761c-54ff-4120-a997-284624687f6a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194557532,
+        "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155936148,
+        "id": "a620ac36-a947-4cdb-a245-fb03ed6f9f4a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155936148,
+        "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A map is a mapping from a value of one type to a value of another type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A map is a mapping from a value of one type to a value of another type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155936148,
+        "id": "e0618fe4-e3ab-4acf-adb3-a472be83e23e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155936148,
+        "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Other languages call them dictionaries (Python) or hash tables (C++)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Other languages call them dictionaries (Python) or hash tables (C++)."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155936148,
+        "id": "9b578a1e-bac7-49e1-879e-b26cdf273719",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155936148,
+        "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Map basics:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Map basics:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155936149,
+        "id": "cb608c6c-f6e9-41fa-a857-adf5f81c250e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155936149,
+        "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file maps.go output sha1:d856c54b8ee856e6d63c797206d3daa74267fb9d goplayground:3M18bUT8XvP"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file maps.go output sha1:d856c54b8ee856e6d63c797206d3daa74267fb9d goplayground:3M18bUT8XvP"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155936150,
+        "id": "2aebe644-d3ae-4e05-9eab-80eb69e56a56",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233722930,
+        "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of map is nil."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of map is nil."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155936150,
+        "id": "d4c3f4b5-7a62-498c-bf3d-5087cb34acf3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233749345,
+        "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Learn more about "
+            ],
+            [
+              "maps",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Maps-80fb91dd63d445e28010b9f5e261da81"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Learn more about "
+          },
+          {
+            "Text": "maps",
+            "Link": "https://www.notion.so/kjkpublic/Maps-80fb91dd63d445e28010b9f5e261da81"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532233750434,
+        "id": "ecbb0c95-e9db-4aff-bb63-602bb9f2825a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233750434,
+        "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Maps",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,227 @@
+{
+  "ID": "1bd528bb-f5dc-4155-9460-b2f9a11d6164",
+  "Page": {
+    "alive": true,
+    "content": [
+      "684973ec-3aad-4455-84ee-156dd993389e",
+      "4a91823b-1950-47e6-8592-3ed33eb1c3fd",
+      "b9efc71c-2f0c-4112-bb28-bcb5800057fa",
+      "d66e78c5-0415-403a-8110-f4bfb56fb926",
+      "c72cdff3-47d0-4d65-9464-16a55b29eca5",
+      "77b6f7e8-fbbc-40b8-bb5a-20e0d1730c87",
+      "000324d1-d2c1-445e-8a16-a555f9e891f2"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156063188,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "1bd528bb-f5dc-4155-9460-b2f9a11d6164",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236364038,
+    "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Create goroutines"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205664677,
+        "id": "684973ec-3aad-4455-84ee-156dd993389e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236365427,
+        "parent_id": "1bd528bb-f5dc-4155-9460-b2f9a11d6164",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 138"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Id: 138"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205668769,
+        "id": "4a91823b-1950-47e6-8592-3ed33eb1c3fd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236366489,
+        "parent_id": "1bd528bb-f5dc-4155-9460-b2f9a11d6164",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1258"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1258"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205672586,
+        "id": "b9efc71c-2f0c-4112-bb28-bcb5800057fa",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205672586,
+        "parent_id": "1bd528bb-f5dc-4155-9460-b2f9a11d6164",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205670290,
+        "id": "d66e78c5-0415-403a-8110-f4bfb56fb926",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205671706,
+        "parent_id": "1bd528bb-f5dc-4155-9460-b2f9a11d6164",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Any function can be invoked as a goroutine by prefixing its invocation with the keyword "
+            ],
+            [
+              "go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Any function can be invoked as a goroutine by prefixing its invocation with the keyword "
+          },
+          {
+            "Text": "go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156063188,
+        "id": "c72cdff3-47d0-4d65-9464-16a55b29eca5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156063188,
+        "parent_id": "1bd528bb-f5dc-4155-9460-b2f9a11d6164",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file create_goroutines.go output sha1:5cea1fef5578e7afcdf98a8fad0f9c4a8350c512 goplayground:xTEc5lVGvcQ"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file create_goroutines.go output sha1:5cea1fef5578e7afcdf98a8fad0f9c4a8350c512 goplayground:xTEc5lVGvcQ"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156063188,
+        "id": "77b6f7e8-fbbc-40b8-bb5a-20e0d1730c87",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156063188,
+        "parent_id": "1bd528bb-f5dc-4155-9460-b2f9a11d6164",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Note that the return value of the function is ignored."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Note that the return value of the function is ignored."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205688357,
+        "id": "000324d1-d2c1-445e-8a16-a555f9e891f2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205688357,
+        "parent_id": "1bd528bb-f5dc-4155-9460-b2f9a11d6164",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Create goroutines",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

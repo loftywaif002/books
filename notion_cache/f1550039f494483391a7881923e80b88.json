@@ -1,0 +1,495 @@
+{
+  "ID": "f1550039-f494-4833-91a7-881923e80b88",
+  "Page": {
+    "alive": true,
+    "content": [
+      "3bb7f3d7-4c57-4ef9-8792-11be17ed168d",
+      "6720d000-ca49-42f7-9a01-9f327f4bdebc",
+      "1c61e92f-fe79-43e8-9b14-e951d17842c2",
+      "b4e3d7e7-87c3-42d1-bd14-1bd8cce67b11",
+      "839bc2b0-1e34-4ff2-ae16-d50bd46c14a0",
+      "e4c38b0c-fe03-4692-8292-79cf8c92f387",
+      "e2a9ad0e-ea67-4d9c-bf87-03eee8bd16d7",
+      "a148abec-2fed-489c-b4a8-df9469805a97",
+      "5c224f4b-c928-4d33-a702-a34dca7c0e20",
+      "dfca5968-2127-4222-8f5f-cb4e83a383fc",
+      "1bfc8157-d4dc-470a-9dca-c26e84b4ce03"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156233147,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "f1550039-f494-4833-91a7-881923e80b88",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213681020,
+    "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Methods"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213665036,
+        "id": "3bb7f3d7-4c57-4ef9-8792-11be17ed168d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213667883,
+        "parent_id": "f1550039-f494-4833-91a7-881923e80b88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 283"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 283"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213667883,
+        "id": "6720d000-ca49-42f7-9a01-9f327f4bdebc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213670531,
+        "parent_id": "f1550039-f494-4833-91a7-881923e80b88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213670531,
+        "id": "1c61e92f-fe79-43e8-9b14-e951d17842c2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213673473,
+        "parent_id": "f1550039-f494-4833-91a7-881923e80b88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 27427"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 27427"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213675250,
+        "id": "b4e3d7e7-87c3-42d1-bd14-1bd8cce67b11",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213675250,
+        "parent_id": "f1550039-f494-4833-91a7-881923e80b88",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213673473,
+        "id": "839bc2b0-1e34-4ff2-ae16-d50bd46c14a0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213674835,
+        "parent_id": "f1550039-f494-4833-91a7-881923e80b88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go a method is"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "In Go a method is"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156233144,
+        "id": "e4c38b0c-fe03-4692-8292-79cf8c92f387",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156233144,
+        "parent_id": "f1550039-f494-4833-91a7-881923e80b88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "a function that acts on a variable of a certain type, called the receiver"
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "a function that acts on a variable of a certain type, called the receiver"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156233145,
+        "id": "e2a9ad0e-ea67-4d9c-bf87-03eee8bd16d7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156233145,
+        "parent_id": "f1550039-f494-4833-91a7-881923e80b88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "the receiver can be anything, not only "
+            ],
+            [
+              "structs",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " but even a "
+            ],
+            [
+              "function",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", alias types for built in types such as "
+            ],
+            [
+              "int",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "bool",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " can have a method, an exception to this rule is that "
+            ],
+            [
+              "interfaces",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "(discussed later) cannot have methods, since an interface is an abstract definition and a method is an implementation, trying it generate a compile error."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "the receiver can be anything, not only "
+          },
+          {
+            "Text": "structs",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " but even a "
+          },
+          {
+            "Text": "function",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", alias types for built in types such as "
+          },
+          {
+            "Text": "int",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "bool",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " can have a method, an exception to this rule is that "
+          },
+          {
+            "Text": "interfaces",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "(discussed later) cannot have methods, since an interface is an abstract definition and a method is an implementation, trying it generate a compile error."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156233147,
+        "id": "a148abec-2fed-489c-b4a8-df9469805a97",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156233147,
+        "parent_id": "f1550039-f494-4833-91a7-881923e80b88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "combining "
+            ],
+            [
+              "structs",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "methods",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " you can get a close eqivalent of a "
+            ],
+            [
+              "class",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in Object Oriented programming."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "combining "
+          },
+          {
+            "Text": "structs",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "methods",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " you can get a close eqivalent of a "
+          },
+          {
+            "Text": "class",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in Object Oriented programming."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156233147,
+        "id": "5c224f4b-c928-4d33-a702-a34dca7c0e20",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156233147,
+        "parent_id": "f1550039-f494-4833-91a7-881923e80b88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "a method in Go has the following signature"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "a method in Go has the following signature"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156233147,
+        "id": "dfca5968-2127-4222-8f5f-cb4e83a383fc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156233147,
+        "parent_id": "f1550039-f494-4833-91a7-881923e80b88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "func (name receiverType) methodName(paramterList) (returnList) {}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "func (name receiverType) methodName(paramterList) (returnList) {}",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156233147,
+        "id": "1bfc8157-d4dc-470a-9dca-c26e84b4ce03",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213686362,
+        "parent_id": "f1550039-f494-4833-91a7-881923e80b88",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\ntype Admin struct {\n    Username, Password string\n}\n\nfunc (admin Admin) Delete() {\n    fmt.Println(\"Admin Deleted\")\n}\n\ntype User struct {\n    ID uint64\n    FullName, Email string\n    Admin\n}\n\nfunc (user User) SendEmail(email string) {\n    fmt.Printf(\"Email sent to: %s\\n\", user.Email)\n}\n\nfunc main() {\n    admin := Admin{\n        \"zola\",\n        \"supersecretpassword\",\n    }\n\n    user := User{\n        1,\n        \"Zelalem Mekonen\",\n        \"zola.mk.27@gmail.com\",\n        admin,\n    }\n\n    user.SendEmail(\"Hello\") // Email sent to: zola.mk.27@gmail.com\n\n    admin.Delete() // Admin Deleted\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\ntype Admin struct {\n    Username, Password string\n}\n\nfunc (admin Admin) Delete() {\n    fmt.Println(\"Admin Deleted\")\n}\n\ntype User struct {\n    ID uint64\n    FullName, Email string\n    Admin\n}\n\nfunc (user User) SendEmail(email string) {\n    fmt.Printf(\"Email sent to: %s\\n\", user.Email)\n}\n\nfunc main() {\n    admin := Admin{\n        \"zola\",\n        \"supersecretpassword\",\n    }\n\n    user := User{\n        1,\n        \"Zelalem Mekonen\",\n        \"zola.mk.27@gmail.com\",\n        admin,\n    }\n\n    user.SendEmail(\"Hello\") // Email sent to: zola.mk.27@gmail.com\n\n    admin.Delete() // Admin Deleted\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Methods",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

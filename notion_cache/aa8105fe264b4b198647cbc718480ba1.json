@@ -1,0 +1,627 @@
+{
+  "ID": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+  "Page": {
+    "alive": true,
+    "content": [
+      "ae73ea7c-79bc-46d7-92cc-5fcc8b944103",
+      "9a899e1a-7334-4487-b1cc-97f2c77850fe",
+      "f19d97eb-1523-42a5-823c-cd834775c188",
+      "63a33020-0e43-4905-8bd5-2fb99efb0767",
+      "94ae08be-8eb6-4021-839e-e97c41963a9e",
+      "097c5566-7ba2-425b-b613-a9d52148f082",
+      "e36cf55f-5c66-484a-a931-0f9504a3033d",
+      "588124e3-bed7-4094-8562-d2177d65890c",
+      "080df4a5-c39b-4669-a4b0-50102af5b012",
+      "f1a99525-fdb6-4b26-8123-fe56ecc9e02c",
+      "0f8f8273-bd13-44e6-af21-3d2914e7cfd0",
+      "698ee01a-e65c-4d50-8a4f-5fee68dce166",
+      "1f111672-6d67-459e-b713-ced6100f69a1",
+      "72f32176-9021-4f90-9d94-b893a1392c10",
+      "80e2ca38-eb38-4500-971f-d2eb411c1334",
+      "1e8f7071-7251-4bae-9341-70c36375bca6"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156122214,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532208071472,
+    "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Custom XML marshaling"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208059964,
+        "id": "ae73ea7c-79bc-46d7-92cc-5fcc8b944103",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208065603,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 335"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Id: 335"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156122209,
+        "id": "9a899e1a-7334-4487-b1cc-97f2c77850fe",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156122209,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Writing custom XML marshalling"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Writing custom XML marshalling"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156122209,
+        "id": "f19d97eb-1523-42a5-823c-cd834775c188",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156122209,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sometimes a type doesn’t have an obvious mapping to JSON."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Sometimes a type doesn’t have an obvious mapping to JSON."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156122210,
+        "id": "63a33020-0e43-4905-8bd5-2fb99efb0767",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156122210,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "How would you serialize "
+            ],
+            [
+              "time.Time",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "? There are so many possibilities."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "How would you serialize "
+          },
+          {
+            "Text": "time.Time",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "? There are so many possibilities."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156122210,
+        "id": "94ae08be-8eb6-4021-839e-e97c41963a9e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156122210,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go provides a default XML mapping for "
+            ],
+            [
+              "time.Time",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". We can implement custom marshaller for user-defined types like structs."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go provides a default XML mapping for "
+          },
+          {
+            "Text": "time.Time",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". We can implement custom marshaller for user-defined types like structs."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156122210,
+        "id": "097c5566-7ba2-425b-b613-a9d52148f082",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156122210,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For existing types we can define a new (but compatible) type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For existing types we can define a new (but compatible) type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156122210,
+        "id": "e36cf55f-5c66-484a-a931-0f9504a3033d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156122210,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here’s a custom marshalling and unmarshaling for "
+            ],
+            [
+              "time.Time",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " that only serializes year/month/date part:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Here’s a custom marshalling and unmarshaling for "
+          },
+          {
+            "Text": "time.Time",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " that only serializes year/month/date part:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156122210,
+        "id": "588124e3-bed7-4094-8562-d2177d65890c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156122210,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file custom_marshal.go output sha1:5cb8ceb6932fda1a702750ce8b2511aa1a308042 goplayground:_eobj4Tx_vS"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file custom_marshal.go output sha1:5cb8ceb6932fda1a702750ce8b2511aa1a308042 goplayground:_eobj4Tx_vS"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156122210,
+        "id": "080df4a5-c39b-4669-a4b0-50102af5b012",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156122210,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Notice that receiver type of "
+            ],
+            [
+              "UnmashalXML",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a pointer to the type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Notice that receiver type of "
+          },
+          {
+            "Text": "UnmashalXML",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a pointer to the type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156122211,
+        "id": "f1a99525-fdb6-4b26-8123-fe56ecc9e02c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156122211,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is necessary for changes to persist outside the function itself."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is necessary for changes to persist outside the function itself."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156122211,
+        "id": "0f8f8273-bd13-44e6-af21-3d2914e7cfd0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156122211,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Custom marshaling behind the scenes"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Custom marshaling behind the scenes"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156122211,
+        "id": "698ee01a-e65c-4d50-8a4f-5fee68dce166",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156122211,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "How does custom marshaling works?"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "How does custom marshaling works?"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156122213,
+        "id": "1f111672-6d67-459e-b713-ced6100f69a1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156122213,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Package XML defines 2 interfaces: "
+            ],
+            [
+              "Marshaler",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/encoding/xml/#Marshaler"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "Unmarshaler",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/encoding/xml/#Unmarshaler"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Package XML defines 2 interfaces: "
+          },
+          {
+            "Text": "Marshaler",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/encoding/xml/#Marshaler"
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "Unmarshaler",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/encoding/xml/#Unmarshaler"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156122213,
+        "id": "72f32176-9021-4f90-9d94-b893a1392c10",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208075106,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Marshaler interface {\n    MarshalXML(e *Encoder, start StartElement) error\n}\n\ntype Unmarshaler interface {\n    UnmarshalXML(d *Decoder, start StartElement) error\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Marshaler interface {\n    MarshalXML(e *Encoder, start StartElement) error\n}\n\ntype Unmarshaler interface {\n    UnmarshalXML(d *Decoder, start StartElement) error\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156122214,
+        "id": "80e2ca38-eb38-4500-971f-d2eb411c1334",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156122214,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "By implementing those functions we make our type conform to "
+            ],
+            [
+              "Marshaler",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "Unmarshaler",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " interface."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "By implementing those functions we make our type conform to "
+          },
+          {
+            "Text": "Marshaler",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "Unmarshaler",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " interface."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156122214,
+        "id": "1e8f7071-7251-4bae-9341-70c36375bca6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156122214,
+        "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "XML encoder / decoder checks if the value being encoded conforms to those interfaces and will call those functions instead of executing default logic."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "XML encoder / decoder checks if the value being encoded conforms to those interfaces and will call those functions instead of executing default logic."
+          }
+        ]
+      }
+    ],
+    "title": "Custom XML marshaling",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

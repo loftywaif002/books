@@ -1,0 +1,786 @@
+{
+  "ID": "ad923a2f-bd99-4701-844a-f2d688d30548",
+  "Page": {
+    "alive": true,
+    "content": [
+      "ed11a1eb-3cf8-4d16-a4d8-8810148f2812",
+      "00dc0501-e6f7-4d54-85e7-9f46e76b4d36",
+      "5aea3fd4-cf3d-45ec-bdcb-130f1e85d657",
+      "c124cc0d-cc4e-485f-becf-9e9d3b79933f",
+      "5d60134a-86c3-41a1-99ec-036e528b4e1d",
+      "05cd523e-5b7a-441c-9396-e841244c4d44",
+      "7f1c75e0-f692-4e39-ba9c-4455c7e4670c",
+      "cc4c815a-2996-4acf-90e7-3e89b5112f36",
+      "00db7921-3a21-4c62-9417-3a2f7d5aeb4d",
+      "0fed7ed2-cea9-426c-9c88-baf80aa954a0",
+      "8977a076-328b-49ff-b750-fe2d66ecc31f",
+      "7b723c08-9015-4f9f-be19-70db5513222e",
+      "e5d537c1-f269-4953-92cd-0139d5288453",
+      "c711c9ea-4949-4eaf-8f23-995dc8864757",
+      "0b0393e5-19ad-4267-b5b8-5feb13ddfe89",
+      "5f8de916-99dd-40eb-9dd4-ebfd6aacb462",
+      "4e43fcac-8809-4a5a-bb14-00fb4ffe41c9",
+      "fcbc6344-fa59-4428-8146-1056de58f197",
+      "c6837d76-43a4-4b34-bef6-11072c3b8386",
+      "bb5797ee-7add-4d3b-b833-47afaed508d1",
+      "6411da09-bd3d-47b0-aa58-62f9be4bd6a4",
+      "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+      "49423454-c8ba-4e64-913f-772f59fb7027",
+      "d023a0a2-a202-461b-a757-047c1d7a6c46"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156025299,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235762307,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "for, while loops"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203311741,
+        "id": "ed11a1eb-3cf8-4d16-a4d8-8810148f2812",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235763430,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 101"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 101"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203313730,
+        "id": "00dc0501-e6f7-4d54-85e7-9f46e76b4d36",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235764125,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 975"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 975"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203341110,
+        "id": "5aea3fd4-cf3d-45ec-bdcb-130f1e85d657",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203341816,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025296,
+        "id": "c124cc0d-cc4e-485f-becf-9e9d3b79933f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025296,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go has only one looping construct: "
+            ],
+            [
+              "for",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " loop."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go has only one looping construct: "
+          },
+          {
+            "Text": "for",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " loop."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025296,
+        "id": "5d60134a-86c3-41a1-99ec-036e528b4e1d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025296,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here are basic forms."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Here are basic forms."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025297,
+        "id": "05cd523e-5b7a-441c-9396-e841244c4d44",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025297,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Full form",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Full form",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025297,
+        "id": "7f1c75e0-f692-4e39-ba9c-4455c7e4670c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025297,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index.go output sha1:5cd770433a0a868e0214acf32bae92887b60d333 goplayground:OEQdGKWtUNj"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index.go output sha1:5cd770433a0a868e0214acf32bae92887b60d333 goplayground:OEQdGKWtUNj"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025297,
+        "id": "cc4c815a-2996-4acf-90e7-3e89b5112f36",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025297,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Every loop statement is optional."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Every loop statement is optional."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025297,
+        "id": "00db7921-3a21-4c62-9417-3a2f7d5aeb4d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025297,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Without initialization statement",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Without initialization statement",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025297,
+        "id": "0fed7ed2-cea9-426c-9c88-baf80aa954a0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025297,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index2.go output sha1:6996b81f0765e774610e3af5af86b19e482a479d goplayground:Uhadj2YqDGU"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index2.go output sha1:6996b81f0765e774610e3af5af86b19e482a479d goplayground:Uhadj2YqDGU"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025297,
+        "id": "8977a076-328b-49ff-b750-fe2d66ecc31f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025297,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Without test expression",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Without test expression",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025297,
+        "id": "7b723c08-9015-4f9f-be19-70db5513222e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025297,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using "
+            ],
+            [
+              "break",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to terminate the loop"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Using "
+          },
+          {
+            "Text": "break",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to terminate the loop"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025298,
+        "id": "e5d537c1-f269-4953-92cd-0139d5288453",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025298,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index3.go output sha1:09500b9dc1971b3c68767c9fc8d04bc9ba6bd0ad goplayground:Bnkemy9Md4V"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index3.go output sha1:09500b9dc1971b3c68767c9fc8d04bc9ba6bd0ad goplayground:Bnkemy9Md4V"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025298,
+        "id": "c711c9ea-4949-4eaf-8f23-995dc8864757",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025298,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Without increment statement",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Without increment statement",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025298,
+        "id": "0b0393e5-19ad-4267-b5b8-5feb13ddfe89",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025298,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index4.go output sha1:7a84e840bdb298260a3067bea28dfd6025a5f0ef goplayground:8lR8hQUXOIj"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index4.go output sha1:7a84e840bdb298260a3067bea28dfd6025a5f0ef goplayground:8lR8hQUXOIj"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025298,
+        "id": "5f8de916-99dd-40eb-9dd4-ebfd6aacb462",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025298,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Infinite loop",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Infinite loop",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025298,
+        "id": "4e43fcac-8809-4a5a-bb14-00fb4ffe41c9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025298,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index5.go output sha1:f9998e52130db4ad95aa591638a3c7893d22d68f goplayground:oIczJSYfU7n"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index5.go output sha1:f9998e52130db4ad95aa591638a3c7893d22d68f goplayground:oIczJSYfU7n"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025299,
+        "id": "fcbc6344-fa59-4428-8146-1056de58f197",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025299,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "for",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " loop with ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "range",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "for",
+            "AttrFlags": 3
+          },
+          {
+            "Text": " loop with ",
+            "AttrFlags": 1
+          },
+          {
+            "Text": "range",
+            "AttrFlags": 3
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156025299,
+        "id": "c6837d76-43a4-4b34-bef6-11072c3b8386",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156025299,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index6.go output sha1:d0c1e61d1c362bea95d576249939b20159232d2f goplayground:ow2FztJ_-7I"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index6.go output sha1:d0c1e61d1c362bea95d576249939b20159232d2f goplayground:ow2FztJ_-7I"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203353318,
+        "id": "bb5797ee-7add-4d3b-b833-47afaed508d1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203353318,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156026276,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "6411da09-bd3d-47b0-aa58-62f9be4bd6a4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235777529,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Different forms of for loop"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 30,
+        "title": "Different forms of for loop",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156027135,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235784571,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "break and continue"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "break and continue",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156028181,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "49423454-c8ba-4e64-913f-772f59fb7027",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235792881,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "while loop"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "while loop",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156029118,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "d023a0a2-a202-461b-a757-047c1d7a6c46",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235800784,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Timed loop"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Timed loop",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "for, while loops",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

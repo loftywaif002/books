@@ -1,0 +1,694 @@
+{
+  "ID": "737850ee-fd45-462e-807a-2c0dc7b83430",
+  "Page": {
+    "alive": true,
+    "content": [
+      "5ac1d565-f326-41fa-b612-c950620b571d",
+      "ef5d8af0-915d-485d-9dca-12bf6b5a1fdc",
+      "d17d4b3f-17a7-4e22-bb01-2f92a013677d",
+      "1879c85c-2cc2-47e0-949e-36a3ff6f749d",
+      "20110f5d-362b-4623-9434-7408138d5d77",
+      "e52f8a70-c1b4-4ee6-85dd-294885e5f685",
+      "2291092f-c067-419b-a9ed-adb52a42604d",
+      "e1c1ed90-e19b-4092-8ba8-22234475a518",
+      "c79d1378-b7f8-4e29-98a4-98733b489d6f",
+      "86f45b77-311d-4453-9693-41c1e70c9519",
+      "8c499e95-dbfd-4a82-9cd7-651d245def94",
+      "8bff490e-018d-4c8c-87ad-675ca75f7dfc",
+      "c8b877e5-8867-49cb-8622-217277fa3d6e",
+      "a5d3b748-bad1-447b-88fb-6ac612a84579",
+      "cdb733b5-2fd1-4e68-947f-cb3d22ee96ff",
+      "7bc7d569-557d-4ce5-b8f7-c1179c6fcfad"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156118117,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207949898,
+    "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Pull (streaming) XML parsing"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 19,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207939870,
+        "id": "5ac1d565-f326-41fa-b612-c950620b571d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207943118,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 190"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 190"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207943411,
+        "id": "ef5d8af0-915d-485d-9dca-12bf6b5a1fdc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207943423,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156118113,
+        "id": "d17d4b3f-17a7-4e22-bb01-2f92a013677d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156118113,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Parsing into a struct is convenient but requires a lot of memory to hold the whole decoded document in memory."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Parsing into a struct is convenient but requires a lot of memory to hold the whole decoded document in memory."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156118113,
+        "id": "1879c85c-2cc2-47e0-949e-36a3ff6f749d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156118113,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In some cases XML files are so large that it’s not possible to decode the whole file into memory. For example XML dumps of Wikipedia content are several gigabytes in size."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In some cases XML files are so large that it’s not possible to decode the whole file into memory. For example XML dumps of Wikipedia content are several gigabytes in size."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156118113,
+        "id": "20110f5d-362b-4623-9434-7408138d5d77",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156118113,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Pull parsing is more efficient but API is harder to use."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Pull parsing is more efficient but API is harder to use."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156118114,
+        "id": "e52f8a70-c1b4-4ee6-85dd-294885e5f685",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156118114,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file pull_parse.go output sha1:9bfb2d72c0d60f67b1a937590d407411844dab8b goplayground:69qT0qN7Fgg"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file pull_parse.go output sha1:9bfb2d72c0d60f67b1a937590d407411844dab8b goplayground:69qT0qN7Fgg"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156118114,
+        "id": "2291092f-c067-419b-a9ed-adb52a42604d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156118114,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Pull parsing requests next token from stream of XML tokens."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Pull parsing requests next token from stream of XML tokens."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156118114,
+        "id": "e1c1ed90-e19b-4092-8ba8-22234475a518",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156118114,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For start tag like "
+            ],
+            [
+              "\u003cperson\u003e",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " we get "
+            ],
+            [
+              "xml.StartElement",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " token."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For start tag like "
+          },
+          {
+            "Text": "\u003cperson\u003e",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " we get "
+          },
+          {
+            "Text": "xml.StartElement",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " token."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156118114,
+        "id": "c79d1378-b7f8-4e29-98a4-98733b489d6f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156118114,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For end tag like "
+            ],
+            [
+              "\u003c/person\u003e",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " we get "
+            ],
+            [
+              "xml.EndElemnt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " token."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For end tag like "
+          },
+          {
+            "Text": "\u003c/person\u003e",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " we get "
+          },
+          {
+            "Text": "xml.EndElemnt",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " token."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156118114,
+        "id": "86f45b77-311d-4453-9693-41c1e70c9519",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156118114,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For data inside the element "
+            ],
+            [
+              "\u003cperson\u003edata\u003c/person\u003e",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " we get "
+            ],
+            [
+              "xml.CharData",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " token."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For data inside the element "
+          },
+          {
+            "Text": "\u003cperson\u003edata\u003c/person\u003e",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " we get "
+          },
+          {
+            "Text": "xml.CharData",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " token."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156118115,
+        "id": "8c499e95-dbfd-4a82-9cd7-651d245def94",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156118115,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When decoder reaches the end, it returns error "
+            ],
+            [
+              "io.EOF",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When decoder reaches the end, it returns error "
+          },
+          {
+            "Text": "io.EOF",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156118116,
+        "id": "8bff490e-018d-4c8c-87ad-675ca75f7dfc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156118116,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In the above example we print "
+            ],
+            [
+              "age",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " attribute of "
+            ],
+            [
+              "\u003cperson\u003e",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " element and char data inside "
+            ],
+            [
+              "\u003ccity\u003e",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " element."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In the above example we print "
+          },
+          {
+            "Text": "age",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " attribute of "
+          },
+          {
+            "Text": "\u003cperson\u003e",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " element and char data inside "
+          },
+          {
+            "Text": "\u003ccity\u003e",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " element."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156118116,
+        "id": "c8b877e5-8867-49cb-8622-217277fa3d6e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156118116,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is a very basic example. In real programs you might need to remember more state."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is a very basic example. In real programs you might need to remember more state."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156118116,
+        "id": "a5d3b748-bad1-447b-88fb-6ac612a84579",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156118116,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For example, if your XML is:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For example, if your XML is:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156118116,
+        "id": "cdb733b5-2fd1-4e68-947f-cb3d22ee96ff",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207955323,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "XML"
+            ]
+          ],
+          "title": [
+            [
+              "\u003cfoo\u003e\n  \u003cbar\u003e\n    \u003cfoo\u003e\u003c/foo\u003e\n  \u003c/bar\u003e\n\u003c/foo\u003e"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "\u003cfoo\u003e\n  \u003cbar\u003e\n    \u003cfoo\u003e\u003c/foo\u003e\n  \u003c/bar\u003e\n\u003c/foo\u003e",
+        "code_language": "XML"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156118116,
+        "id": "7bc7d569-557d-4ce5-b8f7-c1179c6fcfad",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156118116,
+        "parent_id": "737850ee-fd45-462e-807a-2c0dc7b83430",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you look just at the "
+            ],
+            [
+              "xml.StartElement",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " token, you don’t know if "
+            ],
+            [
+              "foo",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is for the top-level element or is it a child of "
+            ],
+            [
+              "\u003cbar\u003e",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " element."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you look just at the "
+          },
+          {
+            "Text": "xml.StartElement",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " token, you don’t know if "
+          },
+          {
+            "Text": "foo",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is for the top-level element or is it a child of "
+          },
+          {
+            "Text": "\u003cbar\u003e",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " element."
+          }
+        ]
+      }
+    ],
+    "title": "Pull (streaming) XML parsing",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

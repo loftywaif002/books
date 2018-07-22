@@ -1,0 +1,197 @@
+{
+  "ID": "d6d0eae1-063d-4fde-a20b-ae4382dd20cb",
+  "Page": {
+    "alive": true,
+    "content": [
+      "9e19139d-1804-4ad2-9477-0c4a59b61a9d",
+      "fb7199f1-c1eb-430c-8ade-b7fd7fae085a",
+      "c94f6f8b-6cdf-478e-b28a-ecd7ede7596d",
+      "9b1a156c-be4a-4094-a959-759e1a63cd72",
+      "f31bfbac-28b5-4467-b410-da13e7244ef0",
+      "14e7cfcb-342d-41c0-9393-948e849fa7c0"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156235112,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "d6d0eae1-063d-4fde-a20b-ae4382dd20cb",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213779387,
+    "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Embedded structs"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213757864,
+        "id": "9e19139d-1804-4ad2-9477-0c4a59b61a9d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213780634,
+        "parent_id": "d6d0eae1-063d-4fde-a20b-ae4382dd20cb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 285"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 285"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213759970,
+        "id": "fb7199f1-c1eb-430c-8ade-b7fd7fae085a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213781714,
+        "parent_id": "d6d0eae1-063d-4fde-a20b-ae4382dd20cb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213761394,
+        "id": "c94f6f8b-6cdf-478e-b28a-ecd7ede7596d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213783474,
+        "parent_id": "d6d0eae1-063d-4fde-a20b-ae4382dd20cb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 27426"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 27426"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213764188,
+        "id": "9b1a156c-be4a-4094-a959-759e1a63cd72",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213764188,
+        "parent_id": "d6d0eae1-063d-4fde-a20b-ae4382dd20cb",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213762940,
+        "id": "f31bfbac-28b5-4467-b410-da13e7244ef0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213765300,
+        "parent_id": "d6d0eae1-063d-4fde-a20b-ae4382dd20cb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Because a struct is also a data type, it can be used as an anonymous field, the outer struct can directly access the fields of the embedded struct even if the struct came from a different package. this behaviour provides a way to derive some or all of your implementation from another type or a set of types."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "Because a struct is also a data type, it can be used as an anonymous field, the outer struct can directly access the fields of the embedded struct even if the struct came from a different package. this behaviour provides a way to derive some or all of your implementation from another type or a set of types."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156235112,
+        "id": "14e7cfcb-342d-41c0-9393-948e849fa7c0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213772056,
+        "parent_id": "d6d0eae1-063d-4fde-a20b-ae4382dd20cb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\ntype Admin struct {\n    Username, Password string\n}\n\ntype User struct {\n    ID uint64\n    FullName, Email string\n    Admin // embedded struct\n}\n\nfunc main() {\n    admin := Admin{\n        \"zola\",\n        \"supersecretpassword\",\n    }\n\n    user := User{\n        1,\n        \"Zelalem Mekonen\",\n        \"zola.mk.27@gmail.com\",\n        admin,\n    }\n\n    fmt.Println(admin) // {zola supersecretpassword}\n\n    fmt.Println(user) // {1 Zelalem Mekonen zola.mk.27@gmail.com {zola supersecretpassword}}\n\n    fmt.Println(user.Username) // zola\n\n    fmt.Println(user.Password) // supersecretpassword\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\ntype Admin struct {\n    Username, Password string\n}\n\ntype User struct {\n    ID uint64\n    FullName, Email string\n    Admin // embedded struct\n}\n\nfunc main() {\n    admin := Admin{\n        \"zola\",\n        \"supersecretpassword\",\n    }\n\n    user := User{\n        1,\n        \"Zelalem Mekonen\",\n        \"zola.mk.27@gmail.com\",\n        admin,\n    }\n\n    fmt.Println(admin) // {zola supersecretpassword}\n\n    fmt.Println(user) // {1 Zelalem Mekonen zola.mk.27@gmail.com {zola supersecretpassword}}\n\n    fmt.Println(user.Username) // zola\n\n    fmt.Println(user.Password) // supersecretpassword\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Embedded structs",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

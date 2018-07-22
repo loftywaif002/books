@@ -1,0 +1,387 @@
+{
+  "ID": "447c2f88-a1ff-46dc-a9c9-baf2651787fa",
+  "Page": {
+    "alive": true,
+    "content": [
+      "618f9d75-71f9-4852-a057-348f7a0fd098",
+      "6a7f48e7-4365-46cc-b9a4-1ae25f78b599",
+      "8d0c80ec-35cf-4dba-a912-d41e287bfb0e",
+      "d7337e23-d69f-4c12-95db-8459835f6c41",
+      "b13297de-51cb-4af7-96ef-261b716520ef",
+      "ffd73245-04ff-4a64-874f-a5adafe0f287",
+      "4f044e50-5bde-43ea-a682-08f29f1d750a",
+      "799834d4-0b70-4c1c-951a-ce349d158b8e",
+      "3e26e258-14bb-45d1-8c01-bd085873b05e"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155918178,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "447c2f88-a1ff-46dc-a9c9-baf2651787fa",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532232814169,
+    "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Windows install and setup"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 61,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532158615235,
+        "id": "618f9d75-71f9-4852-a057-348f7a0fd098",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215733683,
+        "parent_id": "447c2f88-a1ff-46dc-a9c9-baf2651787fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 3"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 3"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532158620537,
+        "id": "6a7f48e7-4365-46cc-b9a4-1ae25f78b599",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215734395,
+        "parent_id": "447c2f88-a1ff-46dc-a9c9-baf2651787fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: rd600086"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: rd600086"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232682040,
+        "id": "8d0c80ec-35cf-4dba-a912-d41e287bfb0e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232709451,
+        "parent_id": "447c2f88-a1ff-46dc-a9c9-baf2651787fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Install"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 11,
+        "inline_content": [
+          {
+            "Text": "Install"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232682042,
+        "id": "d7337e23-d69f-4c12-95db-8459835f6c41",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232814169,
+        "parent_id": "447c2f88-a1ff-46dc-a9c9-baf2651787fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Run "
+            ],
+            [
+              ".msi",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " installer downloaded from "
+            ],
+            [
+              "https://golang.org/dl/",
+              [
+                [
+                  "a",
+                  "https://golang.org/dl/"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 7,
+        "inline_content": [
+          {
+            "Text": "Run "
+          },
+          {
+            "Text": ".msi",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " installer downloaded from "
+          },
+          {
+            "Text": "https://golang.org/dl/",
+            "Link": "https://golang.org/dl/"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232688307,
+        "id": "b13297de-51cb-4af7-96ef-261b716520ef",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232697248,
+        "parent_id": "447c2f88-a1ff-46dc-a9c9-baf2651787fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Setup"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 55,
+        "inline_content": [
+          {
+            "Text": "Setup"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155918176,
+        "id": "ffd73245-04ff-4a64-874f-a5adafe0f287",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155918176,
+        "parent_id": "447c2f88-a1ff-46dc-a9c9-baf2651787fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "After installing the compiler you need to configure "
+            ],
+            [
+              "GOPATH",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "10"
+                ]
+              ]
+            ],
+            [
+              " environment variable."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "After installing the compiler you need to configure "
+          },
+          {
+            "Text": "GOPATH",
+            "AttrFlags": 2,
+            "Link": "10"
+          },
+          {
+            "Text": " environment variable."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155918177,
+        "id": "4f044e50-5bde-43ea-a682-08f29f1d750a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155918177,
+        "parent_id": "447c2f88-a1ff-46dc-a9c9-baf2651787fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Since Go 1.8, the "
+            ],
+            [
+              "GOPATH",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " environment variable has the default value "
+            ],
+            [
+              "%USERPROFILE%/go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Since Go 1.8, the "
+          },
+          {
+            "Text": "GOPATH",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " environment variable has the default value "
+          },
+          {
+            "Text": "%USERPROFILE%/go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155918178,
+        "id": "799834d4-0b70-4c1c-951a-ce349d158b8e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232806077,
+        "parent_id": "447c2f88-a1ff-46dc-a9c9-baf2651787fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You should understand the "
+            ],
+            [
+              "effect of GOPATH",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/GOPATH-GOROOT-GOBIN-d6da4b8481f94757bae43be1fdfa9e73"
+                ]
+              ]
+            ],
+            [
+              " on go tools."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "You should understand the "
+          },
+          {
+            "Text": "effect of GOPATH",
+            "Link": "https://www.notion.so/kjkpublic/GOPATH-GOROOT-GOBIN-d6da4b8481f94757bae43be1fdfa9e73"
+          },
+          {
+            "Text": " on go tools."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532158633262,
+        "id": "3e26e258-14bb-45d1-8c01-bd085873b05e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532158633262,
+        "parent_id": "447c2f88-a1ff-46dc-a9c9-baf2651787fa",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Windows install and setup",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

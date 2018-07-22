@@ -1,0 +1,608 @@
+{
+  "ID": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+  "Page": {
+    "alive": true,
+    "content": [
+      "9fa73c68-79ba-4682-bb30-8007067c6e4d",
+      "4725654d-d6b4-4caf-900d-225d231227f8",
+      "1eaf041b-8861-4ea4-a8cb-c212a3c11445",
+      "7e2870f7-2ef5-4eb8-8864-fbdec8e208af",
+      "c1c933c2-e740-49f6-a610-dfca6ad4b47c",
+      "747e8fc4-c758-47e1-bcd6-d1ba3b0de90b",
+      "36f87b48-13ce-416c-9074-9a7594b4297c",
+      "e86e808c-ca36-4d5a-b72d-257c96239cd3",
+      "8388b87a-6588-4900-9a9c-1c11a9606598",
+      "c80156ec-7537-4e31-b2c9-59d19fe8e7c6",
+      "ba32fbf6-d3ae-4e1f-9b82-d6c69ade9aef",
+      "f0d48572-1f78-4741-ac65-5748f197c409",
+      "b6b27341-040f-409d-93c3-be81a06bfcf6",
+      "7fa715bf-a11d-4f1c-ab88-84a9c0abe942",
+      "b4a1c3cc-b0d5-4add-bc9c-fe4518ef2030",
+      "ca0eb3d6-7e2a-4da7-8b51-47d600703403"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156069202,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236577254,
+    "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Closing channels"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205853825,
+        "id": "9fa73c68-79ba-4682-bb30-8007067c6e4d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236578092,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 144"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 144"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205855336,
+        "id": "4725654d-d6b4-4caf-900d-225d231227f8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236578843,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: rd6000v9"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: rd6000v9"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205858911,
+        "id": "1eaf041b-8861-4ea4-a8cb-c212a3c11445",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205858911,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205856942,
+        "id": "7e2870f7-2ef5-4eb8-8864-fbdec8e208af",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205858143,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can "
+            ],
+            [
+              "close",
+              [
+                [
+                  "a",
+                  "144"
+                ]
+              ]
+            ],
+            [
+              " a channel with "
+            ],
+            [
+              "close(chan)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "You can "
+          },
+          {
+            "Text": "close",
+            "Link": "144"
+          },
+          {
+            "Text": " a channel with "
+          },
+          {
+            "Text": "close(chan)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156069200,
+        "id": "c1c933c2-e740-49f6-a610-dfca6ad4b47c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156069200,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Main purpose of closing a channel is to notify worker goroutines that their work is done and they can finish."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Main purpose of closing a channel is to notify worker goroutines that their work is done and they can finish."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156069200,
+        "id": "747e8fc4-c758-47e1-bcd6-d1ba3b0de90b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156069200,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This ensures you don’t leak goroutines."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This ensures you don’t leak goroutines."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156069200,
+        "id": "36f87b48-13ce-416c-9074-9a7594b4297c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156069200,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Closing a channel ends ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "range",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " loop over it:",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Closing a channel ends ",
+            "AttrFlags": 1
+          },
+          {
+            "Text": "range",
+            "AttrFlags": 3
+          },
+          {
+            "Text": " loop over it:",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156069200,
+        "id": "e86e808c-ca36-4d5a-b72d-257c96239cd3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156069200,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file close.go output sha1:82f3912d3a0d828d24d2b3f41cb8089a44f559f2 goplayground:q3mX8S36CBK"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file close.go output sha1:82f3912d3a0d828d24d2b3f41cb8089a44f559f2 goplayground:q3mX8S36CBK"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156069201,
+        "id": "8388b87a-6588-4900-9a9c-1c11a9606598",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156069201,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A receive from closed channels returns zero value immediately:",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A receive from closed channels returns zero value immediately:",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156069201,
+        "id": "c80156ec-7537-4e31-b2c9-59d19fe8e7c6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156069201,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file close2.go output sha1:489b17f8a7bd30ff4e98092919951c20f4de9e54 goplayground:a16qGMRfQwq"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file close2.go output sha1:489b17f8a7bd30ff4e98092919951c20f4de9e54 goplayground:a16qGMRfQwq"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156069201,
+        "id": "ba32fbf6-d3ae-4e1f-9b82-d6c69ade9aef",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156069201,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When receiving, you can optionally test if channel is closed:",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When receiving, you can optionally test if channel is closed:",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156069201,
+        "id": "f0d48572-1f78-4741-ac65-5748f197c409",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156069201,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file close3.go output sha1:2f2778e77c917d68a9a6ae0a7f51904cfb0634dd goplayground:CtXiCamXQFr"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file close3.go output sha1:2f2778e77c917d68a9a6ae0a7f51904cfb0634dd goplayground:CtXiCamXQFr"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156069201,
+        "id": "b6b27341-040f-409d-93c3-be81a06bfcf6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156069201,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Closing channel twice ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "panics",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "a",
+                  "131"
+                ]
+              ]
+            ],
+            [
+              ":",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Closing channel twice ",
+            "AttrFlags": 1
+          },
+          {
+            "Text": "panics",
+            "AttrFlags": 1,
+            "Link": "131"
+          },
+          {
+            "Text": ":",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156069201,
+        "id": "7fa715bf-a11d-4f1c-ab88-84a9c0abe942",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156069201,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file close4.go output allow_error sha1:d57ed196ecf819fe95ebe0aeb5557c97a115ce2a goplayground:ApSna0RUYjp"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file close4.go output allow_error sha1:d57ed196ecf819fe95ebe0aeb5557c97a115ce2a goplayground:ApSna0RUYjp"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156069201,
+        "id": "b4a1c3cc-b0d5-4add-bc9c-fe4518ef2030",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156069201,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sending to closed channel ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "panics",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "a",
+                  "131"
+                ]
+              ]
+            ],
+            [
+              ".",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Sending to closed channel ",
+            "AttrFlags": 1
+          },
+          {
+            "Text": "panics",
+            "AttrFlags": 1,
+            "Link": "131"
+          },
+          {
+            "Text": ".",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156069202,
+        "id": "ca0eb3d6-7e2a-4da7-8b51-47d600703403",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156069202,
+        "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file close5.go output allow_error sha1:fa33388968966773ecdccb154c0a2b8bd94dad96 goplayground:D9p7YgUVKM1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file close5.go output allow_error sha1:fa33388968966773ecdccb154c0a2b8bd94dad96 goplayground:D9p7YgUVKM1"
+          }
+        ]
+      }
+    ],
+    "title": "Closing channels",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,604 @@
+{
+  "ID": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+  "Page": {
+    "alive": true,
+    "content": [
+      "d3d1e2c7-11c2-45c2-aa62-8d57fba2b9f9",
+      "908617a1-33ec-446d-807d-9e0bf7334720",
+      "48326759-66cc-40a6-979b-35b07e9fc930",
+      "aaee6461-c247-4b81-8bbe-f399649f6bb1",
+      "8e5f8e33-4884-4e04-b184-fd8c1d71d11e",
+      "9cf55c4f-728e-488a-8d28-945218dd6573",
+      "dc3e4797-a6cd-459e-9952-9f28871ce3bb",
+      "ed2f365b-6d01-43c2-bb36-f1df61c47355",
+      "44613cb0-dbdc-47e9-90d2-50730662546a",
+      "d1581479-4ee2-4abd-a9bc-8fcc42cfa0de",
+      "2e7bb967-7a04-4be2-83ec-3fac1acac7ac",
+      "faa2516d-80c3-4f7d-9c7f-a90b3fd09827",
+      "0dbf234b-e2b3-4a82-9fb1-fa807c57ff67",
+      "d5a6550d-98e7-4a5f-bfb9-df818783128e",
+      "3a747288-8258-4de7-8f32-bf0fe2a306c3"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156077217,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532206140094,
+    "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Detecting races"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206115271,
+        "id": "d3d1e2c7-11c2-45c2-aa62-8d57fba2b9f9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236676720,
+        "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 152"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 152"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206118796,
+        "id": "908617a1-33ec-446d-807d-9e0bf7334720",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236677728,
+        "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: rd6000p1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: rd6000p1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206123252,
+        "id": "48326759-66cc-40a6-979b-35b07e9fc930",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206123252,
+        "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206121086,
+        "id": "aaee6461-c247-4b81-8bbe-f399649f6bb1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206122773,
+        "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When you don’t use "
+            ],
+            [
+              "sync.Mutex",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to ensure exclusive access to data between goroutines or forget to lock in parts of the program, you’ll get data races."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "When you don’t use "
+          },
+          {
+            "Text": "sync.Mutex",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to ensure exclusive access to data between goroutines or forget to lock in parts of the program, you’ll get data races."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156077215,
+        "id": "8e5f8e33-4884-4e04-b184-fd8c1d71d11e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156077215,
+        "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Data races might lead to memory corruption or crashes."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Data races might lead to memory corruption or crashes."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156077215,
+        "id": "9cf55c4f-728e-488a-8d28-945218dd6573",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156077215,
+        "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go makes it easy to instrument the code with additional checks that are very likely to catch data races."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go makes it easy to instrument the code with additional checks that are very likely to catch data races."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156077215,
+        "id": "dc3e4797-a6cd-459e-9952-9f28871ce3bb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156077215,
+        "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Use "
+            ],
+            [
+              "-race",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " flag to "
+            ],
+            [
+              "go build",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "go run",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Use "
+          },
+          {
+            "Text": "-race",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " flag to "
+          },
+          {
+            "Text": "go build",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "go run",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156077215,
+        "id": "ed2f365b-6d01-43c2-bb36-f1df61c47355",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156077215,
+        "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here’s a program with intentional data races."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Here’s a program with intentional data races."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156077215,
+        "id": "44613cb0-dbdc-47e9-90d2-50730662546a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156077215,
+        "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When you run it with "
+            ],
+            [
+              "go run -race data_race.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " the runtime will notice memory corruption."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When you run it with "
+          },
+          {
+            "Text": "go run -race data_race.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " the runtime will notice memory corruption."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156077216,
+        "id": "d1581479-4ee2-4abd-a9bc-8fcc42cfa0de",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156077216,
+        "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file data_race.go output allow_error sha1:86a300bf5d91df01d58fd9509f905e93dbef934d goplayground:fy_-Ws0cm98"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file data_race.go output allow_error sha1:86a300bf5d91df01d58fd9509f905e93dbef934d goplayground:fy_-Ws0cm98"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156077216,
+        "id": "2e7bb967-7a04-4be2-83ec-3fac1acac7ac",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156077216,
+        "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This examples shows that memory for variable "
+            ],
+            [
+              "n",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is corrupted because the final value of "
+            ],
+            [
+              "n",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is not what we expect."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This examples shows that memory for variable "
+          },
+          {
+            "Text": "n",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is corrupted because the final value of "
+          },
+          {
+            "Text": "n",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is not what we expect."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156077216,
+        "id": "faa2516d-80c3-4f7d-9c7f-a90b3fd09827",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156077216,
+        "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It also shows that instrumentation added with "
+            ],
+            [
+              "-race",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " can catch memory corruption and points out which part of program caused the corruption."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It also shows that instrumentation added with "
+          },
+          {
+            "Text": "-race",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " can catch memory corruption and points out which part of program caused the corruption."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156077216,
+        "id": "0dbf234b-e2b3-4a82-9fb1-fa807c57ff67",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156077216,
+        "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When to use "
+            ],
+            [
+              "-race",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When to use "
+          },
+          {
+            "Text": "-race",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156077217,
+        "id": "d5a6550d-98e7-4a5f-bfb9-df818783128e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156077217,
+        "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Additional instrumentation added by "
+            ],
+            [
+              "-race",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " flag makes the program slower so it’s not usually used when compiling shipping binaries."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Additional instrumentation added by "
+          },
+          {
+            "Text": "-race",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " flag makes the program slower so it’s not usually used when compiling shipping binaries."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156077217,
+        "id": "3a747288-8258-4de7-8f32-bf0fe2a306c3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156077217,
+        "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It’s a good idea to use on your CI (continous integration) servers when running your test suite."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It’s a good idea to use on your CI (continous integration) servers when running your test suite."
+          }
+        ]
+      }
+    ],
+    "title": "Detecting races",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

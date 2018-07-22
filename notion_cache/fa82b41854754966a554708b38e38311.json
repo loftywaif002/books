@@ -1,0 +1,298 @@
+{
+  "ID": "fa82b418-5475-4966-a554-708b38e38311",
+  "Page": {
+    "alive": true,
+    "content": [
+      "4118c279-4d72-4729-acc5-637dda055ff7",
+      "3aefceb2-3763-4c4d-859b-cb6ed45940bd",
+      "3cd3f197-725d-4445-ae58-405db04b94ba",
+      "a7a5a594-6ae8-4de8-97b3-4043c52f0701",
+      "d93b9769-5faf-421f-8f46-8abf44235609",
+      "39704dcd-b46d-42e5-b48c-0cb21b742821",
+      "de1aaabc-141b-4a80-a5e3-e12c8aa81845",
+      "419aaa17-ade8-4598-8a47-b588881d5c24",
+      "9531916a-d59c-4508-8fd1-2ae890ea6871"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156213165,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "fa82b418-5475-4966-a554-708b38e38311",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532212729393,
+    "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Build tags"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212718117,
+        "id": "4118c279-4d72-4729-acc5-637dda055ff7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212720088,
+        "parent_id": "fa82b418-5475-4966-a554-708b38e38311",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 265"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 265"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212720088,
+        "id": "3aefceb2-3763-4c4d-859b-cb6ed45940bd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212721778,
+        "parent_id": "fa82b418-5475-4966-a554-708b38e38311",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212721778,
+        "id": "3cd3f197-725d-4445-ae58-405db04b94ba",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212723559,
+        "parent_id": "fa82b418-5475-4966-a554-708b38e38311",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 26887"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 26887"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212723559,
+        "id": "a7a5a594-6ae8-4de8-97b3-4043c52f0701",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212724265,
+        "parent_id": "fa82b418-5475-4966-a554-708b38e38311",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156213164,
+        "id": "d93b9769-5faf-421f-8f46-8abf44235609",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212733244,
+        "parent_id": "fa82b418-5475-4966-a554-708b38e38311",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// +build linux\n\npackage lib\n\nvar OnlyAccessibleInLinux int // Will only be compiled in Linux"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// +build linux\n\npackage lib\n\nvar OnlyAccessibleInLinux int // Will only be compiled in Linux",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156213165,
+        "id": "39704dcd-b46d-42e5-b48c-0cb21b742821",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156213165,
+        "parent_id": "fa82b418-5475-4966-a554-708b38e38311",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Negate a platform by placing "
+            ],
+            [
+              "!",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " before it:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Negate a platform by placing "
+          },
+          {
+            "Text": "!",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " before it:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156213165,
+        "id": "de1aaabc-141b-4a80-a5e3-e12c8aa81845",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212736301,
+        "parent_id": "fa82b418-5475-4966-a554-708b38e38311",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// +build !windows\n\npackage lib\n\nvar NotWindows int // Will be compiled in all platforms but not Windows"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// +build !windows\n\npackage lib\n\nvar NotWindows int // Will be compiled in all platforms but not Windows",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156213165,
+        "id": "419aaa17-ade8-4598-8a47-b588881d5c24",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156213165,
+        "parent_id": "fa82b418-5475-4966-a554-708b38e38311",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "List of platforms can be specified by separating them with spaces"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "List of platforms can be specified by separating them with spaces"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156213165,
+        "id": "9531916a-d59c-4508-8fd1-2ae890ea6871",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212739020,
+        "parent_id": "fa82b418-5475-4966-a554-708b38e38311",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// +build linux darwin plan9\n\npackage lib\n\nvar SomeUnix int // Will be compiled in linux, darwin and plan9 but not on others"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// +build linux darwin plan9\n\npackage lib\n\nvar SomeUnix int // Will be compiled in linux, darwin and plan9 but not on others",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Build tags",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

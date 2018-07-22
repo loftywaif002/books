@@ -1,0 +1,171 @@
+{
+  "ID": "b23413ff-0586-45f7-acd8-6257f70712ba",
+  "Page": {
+    "alive": true,
+    "content": [
+      "6e063988-dea5-4648-8463-209b3415863d",
+      "f4aeeb21-8c35-48f7-801b-053aa5ab1b8d",
+      "4ff39707-c021-45a5-945e-cf2abc1210de",
+      "49e16e8f-e959-418b-b128-c8a339868e22",
+      "dc99a47b-d4cd-4e6c-aa02-c8e74429b335"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156038161,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "b23413ff-0586-45f7-acd8-6257f70712ba",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236006769,
+    "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Return values"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204466103,
+        "id": "6e063988-dea5-4648-8463-209b3415863d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236007573,
+        "parent_id": "b23413ff-0586-45f7-acd8-6257f70712ba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 114"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 114"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204467656,
+        "id": "f4aeeb21-8c35-48f7-801b-053aa5ab1b8d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236008308,
+        "parent_id": "b23413ff-0586-45f7-acd8-6257f70712ba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1252"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1252"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204469944,
+        "id": "4ff39707-c021-45a5-945e-cf2abc1210de",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532204470511,
+        "parent_id": "b23413ff-0586-45f7-acd8-6257f70712ba",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156038160,
+        "id": "49e16e8f-e959-418b-b128-c8a339868e22",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156038160,
+        "parent_id": "b23413ff-0586-45f7-acd8-6257f70712ba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A function can return one or more values to the caller:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A function can return one or more values to the caller:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156038161,
+        "id": "dc99a47b-d4cd-4e6c-aa02-c8e74429b335",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156038161,
+        "parent_id": "b23413ff-0586-45f7-acd8-6257f70712ba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file return_values.go output sha1:f222f0934ba8eb96b6888f93d5f79fc24fd0a73f goplayground:UV-XigqMbd5"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file return_values.go output sha1:f222f0934ba8eb96b6888f93d5f79fc24fd0a73f goplayground:UV-XigqMbd5"
+          }
+        ]
+      }
+    ],
+    "title": "Return values",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

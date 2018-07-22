@@ -1,0 +1,428 @@
+{
+  "ID": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+  "Page": {
+    "alive": true,
+    "content": [
+      "b5496c6b-30af-46da-981b-dcf97517197c",
+      "90e3ef21-8aab-4270-801e-360e68e2d221",
+      "4041525e-e38f-4ec7-b722-1aa783d674cd",
+      "1d1ca41c-90a9-4485-b927-dc1b0ba180c5",
+      "ef0b43a8-44df-446f-9c6a-aa9b762857a3",
+      "85120df8-2981-4a30-984b-2de69872e7c6",
+      "279ee066-af66-49b0-9fde-fefaba92d75c",
+      "27035434-c281-439c-9753-55f038d2f005",
+      "f98df915-7cba-406d-a5b5-252d130dbee0",
+      "8e1ae546-7a78-4808-a0cf-c586728e61c1",
+      "9c246a87-cf6d-45b8-a9b8-5b6b18083eeb",
+      "438d8232-b65e-4659-a666-7c9c68e67bf9"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156248158,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532214288199,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "HTTP server middleware"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 70,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214260127,
+        "id": "b5496c6b-30af-46da-981b-dcf97517197c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214261550,
+        "parent_id": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Id: 296"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "Id: 296"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214261550,
+        "id": "90e3ef21-8aab-4270-801e-360e68e2d221",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214263216,
+        "parent_id": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "SOId: 9343"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "SOId: 9343"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214263216,
+        "id": "4041525e-e38f-4ec7-b722-1aa783d674cd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214266313,
+        "parent_id": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Introduction"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 27,
+        "inline_content": [
+          {
+            "Text": "Introduction"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156248157,
+        "id": "1d1ca41c-90a9-4485-b927-dc1b0ba180c5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156248157,
+        "parent_id": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go Middleware can be used to execute code before and after handler function. It uses the power of Single Function Interfaces. Can be introduced at any time without affecting the other middleware. For Ex: Authentication logging can be added in later stages of development without disturbing the existing code."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In Go Middleware can be used to execute code before and after handler function. It uses the power of Single Function Interfaces. Can be introduced at any time without affecting the other middleware. For Ex: Authentication logging can be added in later stages of development without disturbing the existing code."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156248157,
+        "id": "ef0b43a8-44df-446f-9c6a-aa9b762857a3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156248157,
+        "parent_id": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Remarks"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Remarks"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156248158,
+        "id": "85120df8-2981-4a30-984b-2de69872e7c6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156248158,
+        "parent_id": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The "
+            ],
+            [
+              "Signature of middleware",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " should be (http.ResponseWriter, *http.Request) i.e. of "
+            ],
+            [
+              "http.handlerFunc",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The "
+          },
+          {
+            "Text": "Signature of middleware",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " should be (http.ResponseWriter, *http.Request) i.e. of "
+          },
+          {
+            "Text": "http.handlerFunc",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214276367,
+        "id": "279ee066-af66-49b0-9fde-fefaba92d75c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214276367,
+        "parent_id": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156249213,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "27035434-c281-439c-9753-55f038d2f005",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214323657,
+        "parent_id": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Normal Handler Function"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Normal Handler Function",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156250124,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "f98df915-7cba-406d-a5b5-252d130dbee0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214357549,
+        "parent_id": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Middleware Calculate time required for handlerFunc to execute"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Middleware Calculate time required for handlerFunc to execute",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156251197,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "8e1ae546-7a78-4808-a0cf-c586728e61c1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214388284,
+        "parent_id": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "CORS Middleware"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "CORS Middleware",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156252169,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "9c246a87-cf6d-45b8-a9b8-5b6b18083eeb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214418305,
+        "parent_id": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Auth Middleware"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Auth Middleware",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156253650,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "438d8232-b65e-4659-a666-7c9c68e67bf9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214456788,
+        "parent_id": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Recovery Handler to prevent server from crashing"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Recovery Handler to prevent server from crashing",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "HTTP server middleware",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,220 @@
+{
+  "ID": "78f362ef-46d2-4765-b278-a8d4f57adb53",
+  "Page": {
+    "alive": true,
+    "content": [
+      "27f7ba98-8658-46c9-a3e9-3b70a01e9a4c",
+      "209f9195-e0e2-4443-84c6-513bab6e2485",
+      "5e285b88-b59b-4452-b228-82d993632875",
+      "b57f576b-b3d6-444a-8f5f-01459b45d0f9",
+      "bc65e24d-c52f-4a50-825d-4aca9137b5b5",
+      "703e805a-c9bc-49b3-a213-ab019354a70a"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156046117,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236095374,
+    "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Create custom error type"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205050663,
+        "id": "27f7ba98-8658-46c9-a3e9-3b70a01e9a4c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236091134,
+        "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 122"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 17,
+        "inline_content": [
+          {
+            "Text": "$Id: 122"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205052362,
+        "id": "209f9195-e0e2-4443-84c6-513bab6e2485",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236093764,
+        "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2706"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 21,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2706"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205053890,
+        "id": "5e285b88-b59b-4452-b228-82d993632875",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205054452,
+        "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156046116,
+        "id": "b57f576b-b3d6-444a-8f5f-01459b45d0f9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156046116,
+        "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go any type that implements built-in "
+            ],
+            [
+              "error",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " interface (i.e. "
+            ],
+            [
+              "Error() string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " method) can be used as error:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In Go any type that implements built-in "
+          },
+          {
+            "Text": "error",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " interface (i.e. "
+          },
+          {
+            "Text": "Error() string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " method) can be used as error:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156046117,
+        "id": "bc65e24d-c52f-4a50-825d-4aca9137b5b5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156046117,
+        "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file create_custom_error.go output sha1:89a9cf70397bd90ebd38e6c16761c79753fdc67b goplayground:LQ_lhw9zaJP"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file create_custom_error.go output sha1:89a9cf70397bd90ebd38e6c16761c79753fdc67b goplayground:LQ_lhw9zaJP"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532236095374,
+        "id": "703e805a-c9bc-49b3-a213-ab019354a70a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236095374,
+        "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Create custom error type",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

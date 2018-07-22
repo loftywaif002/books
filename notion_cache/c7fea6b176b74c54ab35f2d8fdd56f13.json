@@ -1,0 +1,988 @@
+{
+  "ID": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+  "Page": {
+    "alive": true,
+    "content": [
+      "6e89e82f-0d6c-42a4-ab4a-950889a6a2c9",
+      "ba17bcb1-246d-445b-a725-00af3c7bdcbe",
+      "6a3386ca-e849-4dc1-ba1d-ce99e728ce6a",
+      "5bbcc631-7046-43c7-b3e6-7ae9655e7a36",
+      "02b72feb-e034-41b0-8021-89a37f325d92",
+      "f555ebc0-f163-4cb6-9c66-c454958fd571",
+      "3f8bc5df-093c-469e-b299-521c265a2714",
+      "d61c16ae-5e2e-4e97-aaa1-c06e5e87d3ba",
+      "9aadb647-fcd2-400d-9087-7dc950c91586",
+      "02a9f0fc-87d9-4a43-8b12-e2fe0ffed86a",
+      "9dc2ef82-ffed-4d61-9792-66f6c9dc763a",
+      "7ef0c358-705b-4eb6-abc8-396b57813b93",
+      "b2648f58-c981-436d-b489-52f07de7610f",
+      "9bf33ca4-897c-4398-9d6a-62fd1e0ed87f",
+      "c218267d-2238-4008-9702-8ebbe14652bf",
+      "634d211a-fd6a-45eb-b67a-c9a935f69e21",
+      "2738416a-0c80-4049-96cf-7196aaea4d79",
+      "e6d185f7-78d8-4af3-acab-cbe9d8971cf8",
+      "e8833bb0-5cd8-46b2-b964-4a685fefd86a",
+      "fc77928e-3a64-4ce7-bb61-9aa6c0c7ee2f",
+      "fb02383e-7719-45cf-a227-c82fa10d799b",
+      "94e7d8ad-c934-40e0-b356-9e56e32dcc22",
+      "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+      "212a6742-4138-4507-84f5-5939f26353ee",
+      "323e5881-a349-496d-96ab-e51bc755b4cb",
+      "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156157163,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532210708640,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Reflection"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 36,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210677347,
+        "id": "6e89e82f-0d6c-42a4-ab4a-950889a6a2c9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210705594,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 224"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 224"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210678875,
+        "id": "ba17bcb1-246d-445b-a725-00af3c7bdcbe",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210707930,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1854"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1854"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210708640,
+        "id": "6a3386ca-e849-4dc1-ba1d-ce99e728ce6a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210708654,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157156,
+        "id": "5bbcc631-7046-43c7-b3e6-7ae9655e7a36",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157156,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go is a statically typed language. In most cases the type of a variable is known at compilation time."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go is a statically typed language. In most cases the type of a variable is known at compilation time."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157157,
+        "id": "02b72feb-e034-41b0-8021-89a37f325d92",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157157,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "One exception is interface type, especially empty interface "
+            ],
+            [
+              "interface{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "One exception is interface type, especially empty interface "
+          },
+          {
+            "Text": "interface{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157157,
+        "id": "f555ebc0-f163-4cb6-9c66-c454958fd571",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157157,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Empty interface is a dynamic type, similar to "
+            ],
+            [
+              "Object",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in Java or C#."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Empty interface is a dynamic type, similar to "
+          },
+          {
+            "Text": "Object",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in Java or C#."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157157,
+        "id": "3f8bc5df-093c-469e-b299-521c265a2714",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157157,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "At compilation time we can’t tell if the underlying value of interface type is an "
+            ],
+            [
+              "int",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or a "
+            ],
+            [
+              "string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "At compilation time we can’t tell if the underlying value of interface type is an "
+          },
+          {
+            "Text": "int",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or a "
+          },
+          {
+            "Text": "string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157158,
+        "id": "d61c16ae-5e2e-4e97-aaa1-c06e5e87d3ba",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157158,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Package "
+            ],
+            [
+              "reflect",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/reflect/"
+                ]
+              ]
+            ],
+            [
+              " in standard library allows us to work with such dynamic values at runtime. We can:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Package "
+          },
+          {
+            "Text": "reflect",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/reflect/"
+          },
+          {
+            "Text": " in standard library allows us to work with such dynamic values at runtime. We can:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157159,
+        "id": "9aadb647-fcd2-400d-9087-7dc950c91586",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157159,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "inspect the type of dynamic value"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "inspect the type of dynamic value"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157160,
+        "id": "02a9f0fc-87d9-4a43-8b12-e2fe0ffed86a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157160,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "enumerate fields of a struct"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "enumerate fields of a struct"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157160,
+        "id": "9dc2ef82-ffed-4d61-9792-66f6c9dc763a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157160,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "set the value"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "set the value"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157160,
+        "id": "7ef0c358-705b-4eb6-abc8-396b57813b93",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157160,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "create new values at runtime"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "create new values at runtime"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157161,
+        "id": "b2648f58-c981-436d-b489-52f07de7610f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157161,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Related language-level functionality for inspecting type of an interface value at runtime is a "
+            ],
+            [
+              "type switch",
+              [
+                [
+                  "a",
+                  "96"
+                ]
+              ]
+            ],
+            [
+              " and a "
+            ],
+            [
+              "type assertion",
+              [
+                [
+                  "a",
+                  "95"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Related language-level functionality for inspecting type of an interface value at runtime is a "
+          },
+          {
+            "Text": "type switch",
+            "Link": "96"
+          },
+          {
+            "Text": " and a "
+          },
+          {
+            "Text": "type assertion",
+            "Link": "95"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157161,
+        "id": "9bf33ca4-897c-4398-9d6a-62fd1e0ed87f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157161,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file basic_reflect.go output sha1:c164a42797cd3ec1b68efb45fa6847faadc0ae02 goplayground:Au4CaDPt60b"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file basic_reflect.go output sha1:c164a42797cd3ec1b68efb45fa6847faadc0ae02 goplayground:Au4CaDPt60b"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157161,
+        "id": "c218267d-2238-4008-9702-8ebbe14652bf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157161,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Basics of reflections are:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Basics of reflections are:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157162,
+        "id": "634d211a-fd6a-45eb-b67a-c9a935f69e21",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157162,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "start with value of empty interface "
+            ],
+            [
+              "interface{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " type"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "start with value of empty interface "
+          },
+          {
+            "Text": "interface{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " type"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157162,
+        "id": "2738416a-0c80-4049-96cf-7196aaea4d79",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157162,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "use "
+            ],
+            [
+              "reflect.ValueOf(v interface{})",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to get "
+            ],
+            [
+              "reflect.Value",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " which represents information about the value"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "use "
+          },
+          {
+            "Text": "reflect.ValueOf(v interface{})",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to get "
+          },
+          {
+            "Text": "reflect.Value",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " which represents information about the value"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157162,
+        "id": "e6d185f7-78d8-4af3-acab-cbe9d8971cf8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157162,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "use "
+            ],
+            [
+              "reflect.Value",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to check the type of value, test if the value is "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", set the value"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "use "
+          },
+          {
+            "Text": "reflect.Value",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to check the type of value, test if the value is "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", set the value"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156157163,
+        "id": "e8833bb0-5cd8-46b2-b964-4a685fefd86a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156157163,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Reflection has "
+            ],
+            [
+              "several practical uses",
+              [
+                [
+                  "a",
+                  "230"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Reflection has "
+          },
+          {
+            "Text": "several practical uses",
+            "Link": "230"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210687258,
+        "id": "fc77928e-3a64-4ce7-bb61-9aa6c0c7ee2f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210687258,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158209,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210737828,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Primitive types"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Primitive types",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156159228,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "94e7d8ad-c934-40e0-b356-9e56e32dcc22",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210762894,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Pointers"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Pointers",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156163325,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210783433,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Structs"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 19,
+        "title": "Structs",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156164126,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "212a6742-4138-4507-84f5-5939f26353ee",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210803017,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Slice"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 19,
+        "title": "Slice",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156165143,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "323e5881-a349-496d-96ab-e51bc755b4cb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210825702,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "reflect.Kind"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "reflect.Kind",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156166221,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210856325,
+        "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Uses for reflection"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 19,
+        "title": "Uses for reflection",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Reflection",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,545 @@
+{
+  "ID": "ec777281-adf4-408b-a848-7dac9209b939",
+  "Page": {
+    "alive": true,
+    "content": [
+      "1e9477f1-7ab3-4e7b-b467-747e9cb71aa4",
+      "eeb7b497-7ec0-48a1-8140-064aafb02dae",
+      "5b8dd4dc-cbfd-450b-911b-11a516661e1f",
+      "9eda00ad-24d9-4d6e-aefc-a1dd85718c79",
+      "85536143-a2ea-4d02-a3d5-2fa2844d6081",
+      "7a697521-8505-43e5-b7d3-2bae0125024a",
+      "3e654e12-03b1-46ef-9df2-da63b0b5709f",
+      "1e55f51f-0a3e-410d-8878-b8c3b9ec07e2",
+      "012cb169-0d30-4111-8967-4d0a4e727f80",
+      "ef20adef-9517-4951-a6e9-08c1cb88272d",
+      "dd5eb1b6-8b89-48aa-ade7-bc7c7bc35e8b",
+      "e8a8e83b-7504-4891-b5ee-25612a4a7c4b",
+      "10cd66f4-9935-4be5-9737-edb2f472b81b"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155983252,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "ec777281-adf4-408b-a848-7dac9209b939",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532302956023,
+    "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Zero value of slice"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 28,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196141123,
+        "id": "1e9477f1-7ab3-4e7b-b467-747e9cb71aa4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234740830,
+        "parent_id": "ec777281-adf4-408b-a848-7dac9209b939",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 62"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 62"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196142776,
+        "id": "eeb7b497-7ec0-48a1-8140-064aafb02dae",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234741579,
+        "parent_id": "ec777281-adf4-408b-a848-7dac9209b939",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 6807"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 6807"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196145847,
+        "id": "5b8dd4dc-cbfd-450b-911b-11a516661e1f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196145847,
+        "parent_id": "ec777281-adf4-408b-a848-7dac9209b939",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196144308,
+        "id": "9eda00ad-24d9-4d6e-aefc-a1dd85718c79",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234767119,
+        "parent_id": "ec777281-adf4-408b-a848-7dac9209b939",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of slice is "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 15,
+        "inline_content": [
+          {
+            "Text": "Zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of slice is "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155983250,
+        "id": "85536143-a2ea-4d02-a3d5-2fa2844d6081",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234790482,
+        "parent_id": "ec777281-adf4-408b-a848-7dac9209b939",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " slice has "
+            ],
+            [
+              "length and capacity",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Length-and-capacity-4a18d0776d1a4e44ad56cdd0c7aa7640"
+                ]
+              ]
+            ],
+            [
+              " of 0."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "A "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " slice has "
+          },
+          {
+            "Text": "length and capacity",
+            "Link": "https://www.notion.so/kjkpublic/Length-and-capacity-4a18d0776d1a4e44ad56cdd0c7aa7640"
+          },
+          {
+            "Text": " of 0."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155983250,
+        "id": "7a697521-8505-43e5-b7d3-2bae0125024a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155983250,
+        "parent_id": "ec777281-adf4-408b-a848-7dac9209b939",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " slice has no underlying array."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " slice has no underlying array."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155983251,
+        "id": "3e654e12-03b1-46ef-9df2-da63b0b5709f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155983251,
+        "parent_id": "ec777281-adf4-408b-a848-7dac9209b939",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A non-nil slice can also have length and capacity of 0, like "
+            ],
+            [
+              "[]int{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "make([]int, 5)[5:]",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A non-nil slice can also have length and capacity of 0, like "
+          },
+          {
+            "Text": "[]int{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "make([]int, 5)[5:]",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155983251,
+        "id": "1e55f51f-0a3e-410d-8878-b8c3b9ec07e2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155983251,
+        "parent_id": "ec777281-adf4-408b-a848-7dac9209b939",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Any type that has "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " values can be converted to "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " slice:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Any type that has "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " values can be converted to "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " slice:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155983251,
+        "id": "012cb169-0d30-4111-8967-4d0a4e727f80",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196153244,
+        "parent_id": "ec777281-adf4-408b-a848-7dac9209b939",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "s = []int(nil)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "s = []int(nil)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155983252,
+        "id": "ef20adef-9517-4951-a6e9-08c1cb88272d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155983252,
+        "parent_id": "ec777281-adf4-408b-a848-7dac9209b939",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To test whether a slice is empty, use:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To test whether a slice is empty, use:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155983252,
+        "id": "dd5eb1b6-8b89-48aa-ade7-bc7c7bc35e8b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196155263,
+        "parent_id": "ec777281-adf4-408b-a848-7dac9209b939",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "if len(s) == 0　{\n    fmt.Print(\"s is empty.\\n\")\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "if len(s) == 0　{\n    fmt.Print(\"s is empty.\\n\")\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155983252,
+        "id": "e8a8e83b-7504-4891-b5ee-25612a4a7c4b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155983252,
+        "parent_id": "ec777281-adf4-408b-a848-7dac9209b939",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This works for both "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and non-nil slice with no elements."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This works for both "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and non-nil slice with no elements."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196155798,
+        "id": "10cd66f4-9935-4be5-9737-edb2f472b81b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196155798,
+        "parent_id": "ec777281-adf4-408b-a848-7dac9209b939",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Zero value of slice",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

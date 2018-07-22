@@ -1,0 +1,432 @@
+{
+  "ID": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+  "Page": {
+    "alive": true,
+    "content": [
+      "bba52930-e5c7-43e6-8043-ac82b8d594ef",
+      "ef3fa017-a4ae-47b5-a389-c175205bf803",
+      "1a15dad7-6d5f-422f-bb3b-f466e357b885",
+      "ddea08c6-7217-4b67-8638-9c8be7cb09d0",
+      "8be9b644-6ca9-4f16-b689-3db7eb32de30",
+      "050a4ecc-5fcf-49e5-b7d2-ffc55107128e",
+      "029e611d-f6b7-4ae8-8857-aa9c4e7d4a02",
+      "e4861290-3d08-4839-9342-092d3e9b62a5",
+      "cbaeb852-6d02-4ab6-88ab-b11868faaa02",
+      "ab9cd223-2ec8-4379-a0af-12bdc5a6c3cb",
+      "a51a0016-06a8-4a5c-8f8a-56d19a5f5954",
+      "fa9323af-cc50-418b-b7f7-ef7ed6980d0a",
+      "38a0bc3d-cf51-434b-9b76-0c0967b6b274"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156240218,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213992222,
+    "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          " Use golang/dep"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213973930,
+        "id": "bba52930-e5c7-43e6-8043-ac82b8d594ef",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213984662,
+        "parent_id": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 290"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 290"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213976414,
+        "id": "ef3fa017-a4ae-47b5-a389-c175205bf803",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213984038,
+        "parent_id": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 2"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 2"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213977878,
+        "id": "1a15dad7-6d5f-422f-bb3b-f466e357b885",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213983440,
+        "parent_id": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 29860"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 29860"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213981142,
+        "id": "ddea08c6-7217-4b67-8638-9c8be7cb09d0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213981142,
+        "parent_id": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213979463,
+        "id": "8be9b644-6ca9-4f16-b689-3db7eb32de30",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213980927,
+        "parent_id": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "golang/dep",
+              [
+                [
+                  "a",
+                  "https://github.com/golang/dep"
+                ]
+              ]
+            ],
+            [
+              " is a prototype dependency management tool. Soon to be an official versioning tool. Current status "
+            ],
+            [
+              "Alpha",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "golang/dep",
+            "Link": "https://github.com/golang/dep"
+          },
+          {
+            "Text": " is a prototype dependency management tool. Soon to be an official versioning tool. Current status "
+          },
+          {
+            "Text": "Alpha",
+            "AttrFlags": 1
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156240217,
+        "id": "050a4ecc-5fcf-49e5-b7d2-ffc55107128e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156240217,
+        "parent_id": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Usage"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Usage"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156240217,
+        "id": "029e611d-f6b7-4ae8-8857-aa9c4e7d4a02",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156240217,
+        "parent_id": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Get the tool via"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Get the tool via"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156240217,
+        "id": "e4861290-3d08-4839-9342-092d3e9b62a5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214015648,
+        "parent_id": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ go get -u github.com/golang/dep/..."
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "$ go get -u github.com/golang/dep/...",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156240218,
+        "id": "cbaeb852-6d02-4ab6-88ab-b11868faaa02",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156240218,
+        "parent_id": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Typical usage on a new repo might be"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Typical usage on a new repo might be"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156240218,
+        "id": "ab9cd223-2ec8-4379-a0af-12bdc5a6c3cb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214007228,
+        "parent_id": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ dep init\n$ dep ensure -update"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "$ dep init\n$ dep ensure -update",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156240218,
+        "id": "a51a0016-06a8-4a5c-8f8a-56d19a5f5954",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156240218,
+        "parent_id": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To update a dependency to a new version, you might run"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To update a dependency to a new version, you might run"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156240218,
+        "id": "fa9323af-cc50-418b-b7f7-ef7ed6980d0a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214010787,
+        "parent_id": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ dep ensure github.com/pkg/errors@^0.8.0"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "$ dep ensure github.com/pkg/errors@^0.8.0",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156240218,
+        "id": "38a0bc3d-cf51-434b-9b76-0c0967b6b274",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156240218,
+        "parent_id": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Note that the manifest and lock file formats "
+            ],
+            [
+              "have now been finalized",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              ". These will remain compatible even as the tool changes."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Note that the manifest and lock file formats "
+          },
+          {
+            "Text": "have now been finalized",
+            "AttrFlags": 1
+          },
+          {
+            "Text": ". These will remain compatible even as the tool changes."
+          }
+        ]
+      }
+    ],
+    "title": " Use golang/dep",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

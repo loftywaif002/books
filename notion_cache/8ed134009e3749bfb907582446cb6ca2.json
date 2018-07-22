@@ -1,0 +1,328 @@
+{
+  "ID": "8ed13400-9e37-49bf-b907-582446cb6ca2",
+  "Page": {
+    "alive": true,
+    "content": [
+      "6b75276f-82ad-478b-be99-34df316da4ca",
+      "2fa5965f-b773-4aba-b938-5af7670c7d6a",
+      "8d96a5cb-2d92-4e00-a157-860eb38f5cfd",
+      "ecd6070d-c0b6-4ed4-8674-103ac13458b3",
+      "e23e7e54-bff5-4d82-a21d-b6152fc0992e",
+      "2517df36-968d-4cba-b8b4-68a68bcd84b1",
+      "9790f4a0-6fd1-48f5-86f7-ebbc54f1426a",
+      "14a4f1b7-29ad-47ba-bb05-d10c6213be85",
+      "0b460f52-2ad3-42b4-80fa-6314e5a4d925"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156075140,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532206075094,
+    "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Read-Write mutes (RWMutex)"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 26,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206056619,
+        "id": "6b75276f-82ad-478b-be99-34df316da4ca",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236663071,
+        "parent_id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 150"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 150"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206058806,
+        "id": "2fa5965f-b773-4aba-b938-5af7670c7d6a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236664308,
+        "parent_id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 8652"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 8652"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206064942,
+        "id": "8d96a5cb-2d92-4e00-a157-860eb38f5cfd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206064942,
+        "parent_id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206063582,
+        "id": "ecd6070d-c0b6-4ed4-8674-103ac13458b3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206064678,
+        "parent_id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In a "
+            ],
+            [
+              "sync.Mutex",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " "
+            ],
+            [
+              "Lock()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " always takes an exclusive lock."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "In a "
+          },
+          {
+            "Text": "sync.Mutex",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " "
+          },
+          {
+            "Text": "Lock()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " always takes an exclusive lock."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156075139,
+        "id": "e23e7e54-bff5-4d82-a21d-b6152fc0992e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156075139,
+        "parent_id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In read-heavy scenarios we can improve performance if we allow multiple readers but only one writer."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In read-heavy scenarios we can improve performance if we allow multiple readers but only one writer."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156075139,
+        "id": "2517df36-968d-4cba-b8b4-68a68bcd84b1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156075139,
+        "parent_id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A "
+            ],
+            [
+              "sync.RWMutex",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " has 2 types of lock function: lock for reading and lock for writing."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A "
+          },
+          {
+            "Text": "sync.RWMutex",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " has 2 types of lock function: lock for reading and lock for writing."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156075139,
+        "id": "9790f4a0-6fd1-48f5-86f7-ebbc54f1426a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156075139,
+        "parent_id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It follows the following rules: * a writer lock takes exclusive lock * a reader lock will allow another readers but not writer"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It follows the following rules: * a writer lock takes exclusive lock * a reader lock will allow another readers but not writer"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156075139,
+        "id": "14a4f1b7-29ad-47ba-bb05-d10c6213be85",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156075139,
+        "parent_id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here’s a cache variant that uses read-write lock:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Here’s a cache variant that uses read-write lock:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156075139,
+        "id": "0b460f52-2ad3-42b4-80fa-6314e5a4d925",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156075139,
+        "parent_id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file rwlock.go output sha1:ca40aabb9f1852ae977bc6020a13ade42d4d0b75 goplayground:HEsolwLu-0d"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file rwlock.go output sha1:ca40aabb9f1852ae977bc6020a13ade42d4d0b75 goplayground:HEsolwLu-0d"
+          }
+        ]
+      }
+    ],
+    "title": "Read-Write mutes (RWMutex)",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

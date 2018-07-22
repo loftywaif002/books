@@ -1,0 +1,172 @@
+{
+  "ID": "56226f25-2672-4fca-8e20-d077003ac0cc",
+  "Page": {
+    "alive": true,
+    "content": [
+      "6c3c8520-d9e5-40fa-9df5-dbf3d19ac59b",
+      "effb3ee7-3320-4e49-aeec-72dede7c0cfd",
+      "28b3801a-ebd0-4581-ad5b-2dd2c41d45a1",
+      "d9003bb8-6506-4b7c-9482-ea429a470e29",
+      "4c7c8b38-d47c-47a6-9d89-4d81098aecb0"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156210183,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "56226f25-2672-4fca-8e20-d077003ac0cc",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532212603258,
+    "parent_id": "83dc1f9b-6ec0-4d25-a2d2-e7357b6bebba",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Set CPU/Block profile rate"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212586134,
+        "id": "6c3c8520-d9e5-40fa-9df5-dbf3d19ac59b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212588665,
+        "parent_id": "56226f25-2672-4fca-8e20-d077003ac0cc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 262"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 262"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212588665,
+        "id": "effb3ee7-3320-4e49-aeec-72dede7c0cfd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212590730,
+        "parent_id": "56226f25-2672-4fca-8e20-d077003ac0cc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212590730,
+        "id": "28b3801a-ebd0-4581-ad5b-2dd2c41d45a1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212592698,
+        "parent_id": "56226f25-2672-4fca-8e20-d077003ac0cc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 25408"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 25408"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212592698,
+        "id": "d9003bb8-6506-4b7c-9482-ea429a470e29",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212593355,
+        "parent_id": "56226f25-2672-4fca-8e20-d077003ac0cc",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156210183,
+        "id": "4c7c8b38-d47c-47a6-9d89-4d81098aecb0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212597852,
+        "parent_id": "56226f25-2672-4fca-8e20-d077003ac0cc",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// Sets the CPU profiling rate to hz samples per second\n// If hz \u003c= 0, SetCPUProfileRate turns off profiling\nruntime.SetCPUProfileRate(hz)\n\n// Controls the fraction of goroutine blocking events that are reported in the blocking profile\n// Rate = 1 includes every blocking event in the profile\n// Rate \u003c= 0 turns off profiling\nruntime.SetBlockProfileRate(rate)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// Sets the CPU profiling rate to hz samples per second\n// If hz \u003c= 0, SetCPUProfileRate turns off profiling\nruntime.SetCPUProfileRate(hz)\n\n// Controls the fraction of goroutine blocking events that are reported in the blocking profile\n// Rate = 1 includes every blocking event in the profile\n// Rate \u003c= 0 turns off profiling\nruntime.SetBlockProfileRate(rate)",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Set CPU/Block profile rate",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

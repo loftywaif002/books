@@ -1,0 +1,374 @@
+{
+  "ID": "cc008efe-45c8-4e82-bfe9-dc742e3e9a20",
+  "Page": {
+    "alive": true,
+    "content": [
+      "c79ea3ae-be60-4562-8d54-bb75559a6c88",
+      "0d5604e6-0a6b-425c-bd23-6ffee3adb262",
+      "63e61bbd-825b-44c2-bd53-4e023e37d7dc",
+      "3e6ff53f-0681-4854-aad4-8764623f3249",
+      "2d6707b1-9120-4914-9f7a-e6a12b0d8e75",
+      "5354d3c7-ec35-4c97-99dc-d0ab4a7e6af0",
+      "20c47bf7-9010-4251-bb39-fe504cc9534e",
+      "92dec895-691f-4d87-a022-8e8ef4693677"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156113200,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "cc008efe-45c8-4e82-bfe9-dc742e3e9a20",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207673140,
+    "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Configuring JSON serialization"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207649247,
+        "id": "c79ea3ae-be60-4562-8d54-bb75559a6c88",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207651068,
+        "parent_id": "cc008efe-45c8-4e82-bfe9-dc742e3e9a20",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 186"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 186"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207651068,
+        "id": "0d5604e6-0a6b-425c-bd23-6ffee3adb262",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207655148,
+        "parent_id": "cc008efe-45c8-4e82-bfe9-dc742e3e9a20",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 14157"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 14157"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156113198,
+        "id": "63e61bbd-825b-44c2-bd53-4e023e37d7dc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156113198,
+        "parent_id": "cc008efe-45c8-4e82-bfe9-dc742e3e9a20",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Hide/skip certain fields"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Hide/skip certain fields"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156113199,
+        "id": "3e6ff53f-0681-4854-aad4-8764623f3249",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156113199,
+        "parent_id": "cc008efe-45c8-4e82-bfe9-dc742e3e9a20",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To export "
+            ],
+            [
+              "Revenue",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "Sales",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", but hide them from encoding/decoding, use "
+            ],
+            [
+              "json:\"-\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or rename the variable to begin with a lowercase letter. Note that this prevents the variable from being visible outside the package."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To export "
+          },
+          {
+            "Text": "Revenue",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "Sales",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", but hide them from encoding/decoding, use "
+          },
+          {
+            "Text": "json:\"-\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or rename the variable to begin with a lowercase letter. Note that this prevents the variable from being visible outside the package."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156113199,
+        "id": "2d6707b1-9120-4914-9f7a-e6a12b0d8e75",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207663236,
+        "parent_id": "cc008efe-45c8-4e82-bfe9-dc742e3e9a20",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Company struct {\n    Name     string `json:\"name\"`\n    Location string `json:\"location\"`\n    Revenue  int    `json:\"-\"`\n    sales    int\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Company struct {\n    Name     string `json:\"name\"`\n    Location string `json:\"location\"`\n    Revenue  int    `json:\"-\"`\n    sales    int\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156113200,
+        "id": "5354d3c7-ec35-4c97-99dc-d0ab4a7e6af0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156113200,
+        "parent_id": "cc008efe-45c8-4e82-bfe9-dc742e3e9a20",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Ignore empty fields"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Ignore empty fields"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156113200,
+        "id": "20c47bf7-9010-4251-bb39-fe504cc9534e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156113200,
+        "parent_id": "cc008efe-45c8-4e82-bfe9-dc742e3e9a20",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To prevent "
+            ],
+            [
+              "Location",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " from being included in the JSON when it is set to its zero value, add "
+            ],
+            [
+              ",omitempty",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to the "
+            ],
+            [
+              "json",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " tag."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To prevent "
+          },
+          {
+            "Text": "Location",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " from being included in the JSON when it is set to its zero value, add "
+          },
+          {
+            "Text": ",omitempty",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to the "
+          },
+          {
+            "Text": "json",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " tag."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156113200,
+        "id": "92dec895-691f-4d87-a022-8e8ef4693677",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207667405,
+        "parent_id": "cc008efe-45c8-4e82-bfe9-dc742e3e9a20",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Company struct {\n    Name     string `json:\"name\"`\n    Location string `json:\"location,omitempty\"`\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Company struct {\n    Name     string `json:\"name\"`\n    Location string `json:\"location,omitempty\"`\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Configuring JSON serialization",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

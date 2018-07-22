@@ -1,0 +1,184 @@
+{
+  "ID": "393a4717-4330-4998-b25d-388a8ff7556f",
+  "Page": {
+    "alive": true,
+    "content": [
+      "dde4d9ef-f954-44d9-9f78-ad7e44c59f9c",
+      "d23b1488-6a18-45ca-a4ac-78c502607872",
+      "7ddbdad3-a536-412d-b19e-318b6df47bf5",
+      "669a2ab2-8ca0-4a1f-b4bb-cf3cc631a2f5",
+      "2882852f-27d0-4a07-84a1-b42b8894253b",
+      "17fded3b-117b-4b29-8065-d37bec6e412d"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155949285,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "393a4717-4330-4998-b25d-388a8ff7556f",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234161807,
+    "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Basic variable declaration"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195059883,
+        "id": "dde4d9ef-f954-44d9-9f78-ad7e44c59f9c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234162950,
+        "parent_id": "393a4717-4330-4998-b25d-388a8ff7556f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 33"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Id: 33"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195061518,
+        "id": "d23b1488-6a18-45ca-a4ac-78c502607872",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234163815,
+        "parent_id": "393a4717-4330-4998-b25d-388a8ff7556f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2192"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2192"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195064260,
+        "id": "7ddbdad3-a536-412d-b19e-318b6df47bf5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195064270,
+        "parent_id": "393a4717-4330-4998-b25d-388a8ff7556f",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155949285,
+        "id": "669a2ab2-8ca0-4a1f-b4bb-cf3cc631a2f5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155949285,
+        "parent_id": "393a4717-4330-4998-b25d-388a8ff7556f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go is a statically typed language. We know the type of a variable at compilation time."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go is a statically typed language. We know the type of a variable at compilation time."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155949285,
+        "id": "2882852f-27d0-4a07-84a1-b42b8894253b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155949285,
+        "parent_id": "393a4717-4330-4998-b25d-388a8ff7556f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file basic_variable.go sha1:fbed82c9cd9e51111682c4e30f34ebc9c06b9eeb goplayground:ejZJAGIWvgL"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file basic_variable.go sha1:fbed82c9cd9e51111682c4e30f34ebc9c06b9eeb goplayground:ejZJAGIWvgL"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195074742,
+        "id": "17fded3b-117b-4b29-8065-d37bec6e412d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195074742,
+        "parent_id": "393a4717-4330-4998-b25d-388a8ff7556f",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Basic variable declaration",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

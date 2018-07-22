@@ -1,0 +1,675 @@
+{
+  "ID": "59209683-81fc-4770-8b5b-502992700043",
+  "Page": {
+    "alive": true,
+    "content": [
+      "9a77a579-604d-4f4d-a73d-c8d8669ddf63",
+      "3177ed38-3f1a-4fb8-8d33-109e3aa0f517",
+      "47f80a57-72c1-4ea3-9361-3b7ada1af564",
+      "5499ca31-557e-4c85-a51a-d2a433f16708",
+      "15b94100-2b87-46e8-9af4-6c26f24873de",
+      "cd5e5257-d962-4241-928f-ef67cf14632d",
+      "be06bea1-0901-4920-9371-a10f866d5d3d",
+      "50735a8c-7579-4093-aeda-8c97a97ebbf9",
+      "fac6f92a-7097-4063-9692-4991f7f2c537",
+      "0875441d-d6c3-4d40-bb07-9e3187498d21",
+      "c96232ae-8557-431c-9273-206a9d1ea6f0",
+      "4bd13981-cd30-402c-a4c0-418f1cfae433",
+      "f553949f-7b4f-4215-8176-83d3f7943cd0",
+      "8b74c980-cfec-42e5-b4e6-e64bbb383558",
+      "206e461a-060e-4774-91b1-acc8cd798912",
+      "0875b4ed-f243-49d4-9cc1-921bdbfd1422",
+      "65a294e7-0724-4d12-8b20-5503b5893ed9"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155929190,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "59209683-81fc-4770-8b5b-502992700043",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532233217290,
+    "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Floating-point numbers"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532160286927,
+        "id": "9a77a579-604d-4f4d-a73d-c8d8669ddf63",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233218200,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Search: float, double, float32, float64"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Search: float, double, float32, float64"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532160290502,
+        "id": "3177ed38-3f1a-4fb8-8d33-109e3aa0f517",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233219028,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 15"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 15"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532160293701,
+        "id": "47f80a57-72c1-4ea3-9361-3b7ada1af564",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233219976,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: rd6000u7"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: rd6000u7"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532160295317,
+        "id": "5499ca31-557e-4c85-a51a-d2a433f16708",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532160295329,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155929185,
+        "id": "15b94100-2b87-46e8-9af4-6c26f24873de",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155929185,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go has floating point numbers corresponding to the IEEE 754 standard:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go has floating point numbers corresponding to the IEEE 754 standard:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155929187,
+        "id": "cd5e5257-d962-4241-928f-ef67cf14632d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155929187,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "float32",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a 4 byte floating-point number (known as "
+            ],
+            [
+              "float",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in C)"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "float32",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a 4 byte floating-point number (known as "
+          },
+          {
+            "Text": "float",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in C)"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155929188,
+        "id": "be06bea1-0901-4920-9371-a10f866d5d3d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155929188,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "float64",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a 8 byte floating-point number (known as "
+            ],
+            [
+              "double",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in C)"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "float64",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a 8 byte floating-point number (known as "
+          },
+          {
+            "Text": "double",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in C)"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155929189,
+        "id": "50735a8c-7579-4093-aeda-8c97a97ebbf9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233233074,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of "
+            ],
+            [
+              "float32",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "float64",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is 0.0."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of "
+          },
+          {
+            "Text": "float32",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "float64",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is 0.0."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155929189,
+        "id": "fac6f92a-7097-4063-9692-4991f7f2c537",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155929189,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Convert floats to strings with "
+            ],
+            [
+              "FormatFloat",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Convert floats to strings with "
+          },
+          {
+            "Text": "FormatFloat",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155929189,
+        "id": "0875441d-d6c3-4d40-bb07-9e3187498d21",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155929189,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file floating-point.go output sha1:56e9167e71cb198163749fa33494cf86cdf99072 goplayground:uql4Zc8Fiaz"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file floating-point.go output sha1:56e9167e71cb198163749fa33494cf86cdf99072 goplayground:uql4Zc8Fiaz"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155929189,
+        "id": "c96232ae-8557-431c-9273-206a9d1ea6f0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155929189,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Convert floats to strings with "
+            ],
+            [
+              "Sprintf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Convert floats to strings with "
+          },
+          {
+            "Text": "Sprintf",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155929190,
+        "id": "4bd13981-cd30-402c-a4c0-418f1cfae433",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155929190,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file floating-point-2.go output sha1:1051e611b391fe2419a211e2b54d0d6b5af137e6 goplayground:x25ikHfZM0T"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file floating-point-2.go output sha1:1051e611b391fe2419a211e2b54d0d6b5af137e6 goplayground:x25ikHfZM0T"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155929190,
+        "id": "f553949f-7b4f-4215-8176-83d3f7943cd0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155929190,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using "
+            ],
+            [
+              "strconv.FormatFloat",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is faster than "
+            ],
+            [
+              "fmt.Sprintf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Using "
+          },
+          {
+            "Text": "strconv.FormatFloat",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is faster than "
+          },
+          {
+            "Text": "fmt.Sprintf",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155929190,
+        "id": "8b74c980-cfec-42e5-b4e6-e64bbb383558",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155929190,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Convert string to float with "
+            ],
+            [
+              "ParseFloat",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Convert string to float with "
+          },
+          {
+            "Text": "ParseFloat",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155929190,
+        "id": "206e461a-060e-4774-91b1-acc8cd798912",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155929190,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file floating-point-3.go output sha1:8d0c3f0446d9e36beab7c86e3f37420c336ea29f goplayground:EBIWcKWRw2p"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file floating-point-3.go output sha1:8d0c3f0446d9e36beab7c86e3f37420c336ea29f goplayground:EBIWcKWRw2p"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155929190,
+        "id": "0875b4ed-f243-49d4-9cc1-921bdbfd1422",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155929190,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Convert string to float with "
+            ],
+            [
+              "Sscanf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Convert string to float with "
+          },
+          {
+            "Text": "Sscanf",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155929190,
+        "id": "65a294e7-0724-4d12-8b20-5503b5893ed9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155929190,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file floating-point-4.go output sha1:e9ddfc64925c7cbee478571a4b0ca3278c7bc421 goplayground:E3FzIjRMDmr"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file floating-point-4.go output sha1:e9ddfc64925c7cbee478571a4b0ca3278c7bc421 goplayground:E3FzIjRMDmr"
+          }
+        ]
+      }
+    ],
+    "title": "Floating-point numbers",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

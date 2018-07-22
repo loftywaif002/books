@@ -1,0 +1,428 @@
+{
+  "ID": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+  "Page": {
+    "alive": true,
+    "content": [
+      "6c89f549-38bf-4388-bba1-cde15661a15c",
+      "faeb6478-71ec-446e-b760-3fd7f2d1a2be",
+      "c84a5d95-eb8c-470e-b82f-e42d2375506f",
+      "19a4d919-ec57-4acf-9c52-c56ba057a932",
+      "21794bd8-0caf-4b6b-a0cc-a388f62b3872",
+      "19dea86f-8ddb-44d3-be65-8c734212e1ce",
+      "eb3b6e42-3cbd-445b-a490-d83ad10033eb",
+      "4d9f5127-3e40-444b-b6ba-e12c4c4cfaec",
+      "74fb856f-93f2-44a5-b1d0-1bb137122987",
+      "030e8c42-39e7-4d48-a730-604d41430480",
+      "8e116ab9-6e95-4c0a-bc12-0cfeae360c1c",
+      "9cdc1dd8-9059-4c15-b588-94a737968c8d",
+      "52ea612a-9f01-45c5-b4fd-98950a6dfb56"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155969200,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234436815,
+    "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Normalize newlines"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195760917,
+        "id": "6c89f549-38bf-4388-bba1-cde15661a15c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234433724,
+        "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 50"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 50"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195762600,
+        "id": "faeb6478-71ec-446e-b760-3fd7f2d1a2be",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234436815,
+        "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 801000v7"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$SOId: 801000v7"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155969198,
+        "id": "c84a5d95-eb8c-470e-b82f-e42d2375506f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234478848,
+        "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "3 types of newlines"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 105,
+        "inline_content": [
+          {
+            "Text": "3 types of newlines"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155969199,
+        "id": "19a4d919-ec57-4acf-9c52-c56ba057a932",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234485695,
+        "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "There are 3 ways to represent a newline."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 19,
+        "inline_content": [
+          {
+            "Text": "There are 3 ways to represent a newline."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155969199,
+        "id": "21794bd8-0caf-4b6b-a0cc-a388f62b3872",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155969199,
+        "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Unix",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              ": using single character LF, which is byte 10 (0x0a), represented as “” in Go string literal."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Unix",
+            "AttrFlags": 1
+          },
+          {
+            "Text": ": using single character LF, which is byte 10 (0x0a), represented as “” in Go string literal."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155969199,
+        "id": "19dea86f-8ddb-44d3-be65-8c734212e1ce",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155969199,
+        "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Windows",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              ": using 2 characters: CR LF, which is bytes 13 10 (0x0d, 0x0a), represented as “” in Go string literal."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Windows",
+            "AttrFlags": 1
+          },
+          {
+            "Text": ": using 2 characters: CR LF, which is bytes 13 10 (0x0d, 0x0a), represented as “” in Go string literal."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155969199,
+        "id": "eb3b6e42-3cbd-445b-a490-d83ad10033eb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155969199,
+        "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Mac OS",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              ": using 1 character CR (byte 13 (0x0d)), represented as “” in Go string literal. This is the least popular."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Mac OS",
+            "AttrFlags": 1
+          },
+          {
+            "Text": ": using 1 character CR (byte 13 (0x0d)), represented as “” in Go string literal. This is the least popular."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155969199,
+        "id": "4d9f5127-3e40-444b-b6ba-e12c4c4cfaec",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155969199,
+        "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When splitting strings into lines you have to decide how you’ll handle this."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When splitting strings into lines you have to decide how you’ll handle this."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155969200,
+        "id": "74fb856f-93f2-44a5-b1d0-1bb137122987",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155969200,
+        "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can assume that your code will only see e.g. Unix style line endings and only handle “”, but this won’t work at all on files with Mac line endings and files with Windows line endings will have a CR character in them."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can assume that your code will only see e.g. Unix style line endings and only handle “”, but this won’t work at all on files with Mac line endings and files with Windows line endings will have a CR character in them."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155969200,
+        "id": "030e8c42-39e7-4d48-a730-604d41430480",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155969200,
+        "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A simple way to handle multiple newline representations is to normalize the newlines and then operate on the normalized version."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A simple way to handle multiple newline representations is to normalize the newlines and then operate on the normalized version."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155969200,
+        "id": "8e116ab9-6e95-4c0a-bc12-0cfeae360c1c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155969200,
+        "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Finally you can write code that handles all newline endings. Inevitably, such code is a bit more complicated."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Finally you can write code that handles all newline endings. Inevitably, such code is a bit more complicated."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155969200,
+        "id": "9cdc1dd8-9059-4c15-b588-94a737968c8d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155969200,
+        "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Normalize newlines"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Normalize newlines"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155969200,
+        "id": "52ea612a-9f01-45c5-b4fd-98950a6dfb56",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155969200,
+        "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file normalize_newlines.go sha1:e3dca9882e255dd24a96b8b2e7f3a688d731cdcf goplayground:Yo5PIBjvZ3A"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file normalize_newlines.go sha1:e3dca9882e255dd24a96b8b2e7f3a688d731cdcf goplayground:Yo5PIBjvZ3A"
+          }
+        ]
+      }
+    ],
+    "title": "Normalize newlines",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

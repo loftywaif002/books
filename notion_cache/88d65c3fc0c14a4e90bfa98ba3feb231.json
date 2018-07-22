@@ -1,0 +1,742 @@
+{
+  "ID": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+  "Page": {
+    "alive": true,
+    "content": [
+      "a3760d45-3f67-4bf5-9ad9-ea970690e6a3",
+      "e315b34a-59af-4264-a817-9f7b9621cf69",
+      "4f59ce92-314d-464b-a1a4-6c734c541c49",
+      "955b2c6e-5ea5-4cdf-a5aa-56a0ce7c6bb4",
+      "e046d62b-d837-4a91-936e-56449870afaf",
+      "58d8283f-ea24-4b80-b9f1-de831ce4600a",
+      "de45f85c-e7f7-4b30-9481-e3757784c31c",
+      "dddf031c-52f8-46f2-8f6a-6948ba7ae092",
+      "3f925ac0-d0e3-403e-8cb0-737c6680df03",
+      "6c614f94-4466-44b6-a71f-250b5111eb95",
+      "f6ca63ff-3e15-429b-bda0-dd1eebc3d6cb",
+      "e3d2ea02-a636-46d1-92af-75c6971dcfee",
+      "6b279ad9-9806-48af-9d42-3ade71039ba0",
+      "5a467550-eba3-4bf8-9c23-1540ff5bb875",
+      "e7c5e1e7-09c0-4485-ab15-27aed3d69f26",
+      "6a98586b-34e5-465f-9754-6cb67dda38c5",
+      "46efec91-aead-4924-958f-7408fc1186ba",
+      "1e721f21-422f-44cd-b7f6-ef09b11b2762",
+      "0fadd30a-748b-46b2-8129-800874015aa9",
+      "b9aeb674-41ee-4e5a-868f-a2acec2b991c",
+      "10b8fa14-28a9-413c-bdba-8e31c4197d0f"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156089208,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532206656374,
+    "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Portable file path operations"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206641921,
+        "id": "a3760d45-3f67-4bf5-9ad9-ea970690e6a3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236836924,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 164"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 164"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206643413,
+        "id": "e315b34a-59af-4264-a817-9f7b9621cf69",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236835735,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: rd6000ld"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: rd6000ld"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206646708,
+        "id": "4f59ce92-314d-464b-a1a4-6c734c541c49",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206646708,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206645546,
+        "id": "955b2c6e-5ea5-4cdf-a5aa-56a0ce7c6bb4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206646405,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Unfortunately different operating systems have different rules about the format of file paths."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Unfortunately different operating systems have different rules about the format of file paths."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089201,
+        "id": "e046d62b-d837-4a91-936e-56449870afaf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156089201,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For example, on Unix and Mac OS, path separator character is "
+            ],
+            [
+              "/",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and on Windows it’s "
+            ],
+            [
+              "\\",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For example, on Unix and Mac OS, path separator character is "
+          },
+          {
+            "Text": "/",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and on Windows it’s "
+          },
+          {
+            "Text": "\\",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089201,
+        "id": "58d8283f-ea24-4b80-b9f1-de831ce4600a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156089201,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For portable programs, it’s important to use functions in "
+            ],
+            [
+              "filepath",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package that understand conventions used by a given operating system."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For portable programs, it’s important to use functions in "
+          },
+          {
+            "Text": "filepath",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package that understand conventions used by a given operating system."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089203,
+        "id": "de45f85c-e7f7-4b30-9481-e3757784c31c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156089203,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Note: "
+            ],
+            [
+              "filepath",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package manages OS file paths. There’s also "
+            ],
+            [
+              "path",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package with similar functionality but it always uses "
+            ],
+            [
+              "/",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " as path separator."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Note: "
+          },
+          {
+            "Text": "filepath",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package manages OS file paths. There’s also "
+          },
+          {
+            "Text": "path",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package with similar functionality but it always uses "
+          },
+          {
+            "Text": "/",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " as path separator."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089203,
+        "id": "dddf031c-52f8-46f2-8f6a-6948ba7ae092",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156089203,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Join a path"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Join a path"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089203,
+        "id": "3f925ac0-d0e3-403e-8cb0-737c6680df03",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206660251,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "path := filpath.Join(\"dir\", \"file.txt\")"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "path := filpath.Join(\"dir\", \"file.txt\")",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089203,
+        "id": "6c614f94-4466-44b6-a71f-250b5111eb95",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156089203,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can join more than 2 path elements."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can join more than 2 path elements."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089204,
+        "id": "f6ca63ff-3e15-429b-bda0-dd1eebc3d6cb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156089204,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "On Windows the above would return "
+            ],
+            [
+              "dir\\file.txt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", on Unix and Mac OS it would return "
+            ],
+            [
+              "dir/file.txt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "On Windows the above would return "
+          },
+          {
+            "Text": "dir\\file.txt",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", on Unix and Mac OS it would return "
+          },
+          {
+            "Text": "dir/file.txt",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089204,
+        "id": "e3d2ea02-a636-46d1-92af-75c6971dcfee",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156089204,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Split a path into a directory and file"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Split a path into a directory and file"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089204,
+        "id": "6b279ad9-9806-48af-9d42-3ade71039ba0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206663519,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "path := filepath.Join(\"dir\", \"file.txt\")\ndir, file := filepath.Split(path)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "path := filepath.Join(\"dir\", \"file.txt\")\ndir, file := filepath.Split(path)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089206,
+        "id": "5a467550-eba3-4bf8-9c23-1540ff5bb875",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156089206,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Split path into all components"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Split path into all components"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089206,
+        "id": "e7c5e1e7-09c0-4485-ab15-27aed3d69f26",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206667433,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "path := filepath.Join(\"dir\", \"subdir\", \"file.txt\")\nparts := filepath.SplitList(path)\n// parts = []string{\"dir\", \"subdir\", \"file.txt\"}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "path := filepath.Join(\"dir\", \"subdir\", \"file.txt\")\nparts := filepath.SplitList(path)\n// parts = []string{\"dir\", \"subdir\", \"file.txt\"}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089206,
+        "id": "6a98586b-34e5-465f-9754-6cb67dda38c5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156089206,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Get file name from path"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Get file name from path"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089207,
+        "id": "46efec91-aead-4924-958f-7408fc1186ba",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206669805,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "path := filepath.Join(\"dir\", \"file.txt\")\nfile := filepath.Base(path)\n// file = \"file.txt\""
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "path := filepath.Join(\"dir\", \"file.txt\")\nfile := filepath.Base(path)\n// file = \"file.txt\"",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089207,
+        "id": "1e721f21-422f-44cd-b7f6-ef09b11b2762",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156089207,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Get directory name from path"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Get directory name from path"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089207,
+        "id": "0fadd30a-748b-46b2-8129-800874015aa9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206672542,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "path := filepath.Join(\"dir\", \"file.txt\")\ndir := filepath.Dir(path)\n// dir = \"dir\""
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "path := filepath.Join(\"dir\", \"file.txt\")\ndir := filepath.Dir(path)\n// dir = \"dir\"",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089207,
+        "id": "b9aeb674-41ee-4e5a-868f-a2acec2b991c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156089207,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Get file extension"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Get file extension"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089207,
+        "id": "10b8fa14-28a9-413c-bdba-8e31c4197d0f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206675252,
+        "parent_id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "ext := filepath.Ext(\"file.txt\")\n// ext = \".txt\""
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "ext := filepath.Ext(\"file.txt\")\n// ext = \".txt\"",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Portable file path operations",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

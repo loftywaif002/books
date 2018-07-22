@@ -1,0 +1,252 @@
+{
+  "ID": "2727328b-14b8-45ef-903c-50d3f85eac87",
+  "Page": {
+    "alive": true,
+    "content": [
+      "0d23610f-348e-4070-b6f1-9738a14ed7ca",
+      "75ce7354-98d6-44fd-bf51-6c7e1f3866c7",
+      "a609d6dc-ce76-4269-9fe7-37b2d728b660",
+      "f8a127c5-aad9-4cb5-a836-558c53a70201",
+      "9a398088-cfd5-41a5-abc5-e4e4ee590a01",
+      "d6a4847e-ffc2-4ce8-87d1-fcfc33e95803",
+      "edea7326-85f1-40b3-9502-61fff93507a5",
+      "7838ba0a-3ee8-449d-845e-703dde7052bf"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156241201,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "2727328b-14b8-45ef-903c-50d3f85eac87",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532214044607,
+    "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "vendor.json using Govendor tool"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 20,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156241200,
+        "id": "0d23610f-348e-4070-b6f1-9738a14ed7ca",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214027011,
+        "parent_id": "2727328b-14b8-45ef-903c-50d3f85eac87",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Title: vendor.json using Govendor tool"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 3,
+        "inline_content": [
+          {
+            "Text": "Title: vendor.json using Govendor tool"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214027011,
+        "id": "75ce7354-98d6-44fd-bf51-6c7e1f3866c7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214036325,
+        "parent_id": "2727328b-14b8-45ef-903c-50d3f85eac87",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 291"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 291"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214029067,
+        "id": "a609d6dc-ce76-4269-9fe7-37b2d728b660",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214035564,
+        "parent_id": "2727328b-14b8-45ef-903c-50d3f85eac87",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 2"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 2"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214030621,
+        "id": "f8a127c5-aad9-4cb5-a836-558c53a70201",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214034574,
+        "parent_id": "2727328b-14b8-45ef-903c-50d3f85eac87",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 30033"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 30033"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214032012,
+        "id": "9a398088-cfd5-41a5-abc5-e4e4ee590a01",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214033478,
+        "parent_id": "2727328b-14b8-45ef-903c-50d3f85eac87",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156241200,
+        "id": "d6a4847e-ffc2-4ce8-87d1-fcfc33e95803",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156241200,
+        "parent_id": "2727328b-14b8-45ef-903c-50d3f85eac87",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "# It creates vendor folder and vendor.json inside it\ngovendor init\n\n# Add dependencies in vendor.json\ngovendor fetch \u003cdependency\u003e\n\n# Usage on new repository\n# fetch depenencies in vendor.json\ngovendor sync"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "# It creates vendor folder and vendor.json inside it\ngovendor init\n\n# Add dependencies in vendor.json\ngovendor fetch \u003cdependency\u003e\n\n# Usage on new repository\n# fetch depenencies in vendor.json\ngovendor sync",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156241201,
+        "id": "edea7326-85f1-40b3-9502-61fff93507a5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156241201,
+        "parent_id": "2727328b-14b8-45ef-903c-50d3f85eac87",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Example vendor.json"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Example vendor.json"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156241201,
+        "id": "7838ba0a-3ee8-449d-845e-703dde7052bf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156241201,
+        "parent_id": "2727328b-14b8-45ef-903c-50d3f85eac87",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "{\n\n    \"comment\": \"\",\n    \"ignore\": \"test\",\n    \"package\": [\n        {\n            \"checksumSHA1\": \"kBeNcaKk56FguvPSUCEaH6AxpRc=\",\n            \"path\": \"github.com/golang/protobuf/proto\",\n            \"revision\": \"2bba0603135d7d7f5cb73b2125beeda19c09f4ef\",\n            \"revisionTime\": \"2017-03-31T03:19:02Z\"\n        },\n        {\n            \"checksumSHA1\": \"1DRAxdlWzS4U0xKN/yQ/fdNN7f0=\",\n            \"path\": \"github.com/syndtr/goleveldb/leveldb/errors\",\n            \"revision\": \"8c81ea47d4c41a385645e133e15510fc6a2a74b4\",\n            \"revisionTime\": \"2017-04-09T01:48:31Z\"\n        }\n    ],\n    \"rootPath\": \"github.com/sample\"\n\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "{\n\n    \"comment\": \"\",\n    \"ignore\": \"test\",\n    \"package\": [\n        {\n            \"checksumSHA1\": \"kBeNcaKk56FguvPSUCEaH6AxpRc=\",\n            \"path\": \"github.com/golang/protobuf/proto\",\n            \"revision\": \"2bba0603135d7d7f5cb73b2125beeda19c09f4ef\",\n            \"revisionTime\": \"2017-03-31T03:19:02Z\"\n        },\n        {\n            \"checksumSHA1\": \"1DRAxdlWzS4U0xKN/yQ/fdNN7f0=\",\n            \"path\": \"github.com/syndtr/goleveldb/leveldb/errors\",\n            \"revision\": \"8c81ea47d4c41a385645e133e15510fc6a2a74b4\",\n            \"revisionTime\": \"2017-04-09T01:48:31Z\"\n        }\n    ],\n    \"rootPath\": \"github.com/sample\"\n\n}",
+        "code_language": "Plain Text"
+      }
+    ],
+    "title": "vendor.json using Govendor tool",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,520 @@
+{
+  "ID": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+  "Page": {
+    "alive": true,
+    "content": [
+      "e4deea03-3036-4f8b-b244-7486c76456f2",
+      "1531e660-3a0f-4e06-a7ad-dee833f424fc",
+      "14ebc0ab-bd0b-486d-85bf-0d3886d4bb66",
+      "59207032-fffa-4917-bc9c-faa9fff79b36",
+      "7de53bce-6b25-4621-8d9e-9d7b16e4ee1b",
+      "46452f5c-386e-474d-868a-c1c24d973217",
+      "4fb58a5e-de88-4eb1-878b-b9daad4b48bc",
+      "cf6f8c4a-7106-4ea9-afb3-aa0a86f8c93e",
+      "6b0c3436-aa3b-48d7-9d56-dd7a665e3cc7",
+      "fda4b5da-05da-4680-8455-d2b39567f843",
+      "1e72aa11-709e-4ff3-942b-6b0d96e6061a",
+      "e6a2d2dc-f9f3-4649-9879-fc8017c4da5d",
+      "1a410c8b-a3d4-4303-82c7-967b00a14522",
+      "3cf3d5fb-7209-4c5f-8606-e26d605ccd3e",
+      "0316a204-bde6-495e-895e-c8c90ec794f8",
+      "7f056f3e-f1a6-46bd-8d3c-63efa027964b",
+      "40d79398-95cc-49a5-ac39-ee75b84d2168",
+      "b354510f-7df8-4ca7-ae69-4409528d73f4"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155987219,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234815041,
+    "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Remove elements from slice"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196267662,
+        "id": "e4deea03-3036-4f8b-b244-7486c76456f2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234816042,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 66"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 66"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196269373,
+        "id": "1531e660-3a0f-4e06-a7ad-dee833f424fc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234816810,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3420"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3420"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196272900,
+        "id": "14ebc0ab-bd0b-486d-85bf-0d3886d4bb66",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196272900,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196271029,
+        "id": "59207032-fffa-4917-bc9c-faa9fff79b36",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196272551,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you need to remove one or more elements from a slice, or if you need to work with a sub-slice of an existing slice; you can use the following method."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "If you need to remove one or more elements from a slice, or if you need to work with a sub-slice of an existing slice; you can use the following method."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155987216,
+        "id": "7de53bce-6b25-4621-8d9e-9d7b16e4ee1b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155987217,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The following examples use a slice of type int, but will work for all types of slice."
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The following examples use a slice of type int, but will work for all types of slice."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155987217,
+        "id": "46452f5c-386e-474d-868a-c1c24d973217",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155987217,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "So, we need a slice from which we will remove some elements:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "So, we need a slice from which we will remove some elements:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155987217,
+        "id": "4fb58a5e-de88-4eb1-878b-b9daad4b48bc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196280883,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "slice := []int{1, 2, 3, 4, 5, 6}\n// \u003e [1 2 3 4 5 6]"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "slice := []int{1, 2, 3, 4, 5, 6}\n// \u003e [1 2 3 4 5 6]",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155987217,
+        "id": "cf6f8c4a-7106-4ea9-afb3-aa0a86f8c93e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155987217,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We also need the indexes of the elements to remove:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We also need the indexes of the elements to remove:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155987218,
+        "id": "6b0c3436-aa3b-48d7-9d56-dd7a665e3cc7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196283106,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// index of first element to remove (corresponding to the '3' in the slice)\nvar first = 2\n\n// index of last element to remove (corresponding to the '5' in the slice)\nvar last = 4"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// index of first element to remove (corresponding to the '3' in the slice)\nvar first = 2\n\n// index of last element to remove (corresponding to the '5' in the slice)\nvar last = 4",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155987218,
+        "id": "fda4b5da-05da-4680-8455-d2b39567f843",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155987218,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "And so we can “slice” the slice, removing undesired elements:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "And so we can “slice” the slice, removing undesired elements:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155987218,
+        "id": "1e72aa11-709e-4ff3-942b-6b0d96e6061a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196286796,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// keeping elements from start to 'first element to remove' (not keeping first to remove),\n// removing elements from 'first element to remove' to 'last element to remove'\n// and keeping all others elements to the end of the slice\nnewSlice1 := append(slice[:first], slice[last+1:]...)\n// \u003e [1 2 6]\n\n// you can do using directly numbers instead of variables\nnewSlice2 := append(slice[:2], slice[5:]...)\n// \u003e [1 2 6]\n\n// Another way to do the same\nnewSlice3 := slice[:first + copy(slice[first:], slice[last+1:])]\n// \u003e [1 2 6]\n\n// same that newSlice3 with hard coded indexes (without use of variables)\nnewSlice4 := slice[:2 + copy(slice[2:], slice[5:])]\n// \u003e [1 2 6]"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// keeping elements from start to 'first element to remove' (not keeping first to remove),\n// removing elements from 'first element to remove' to 'last element to remove'\n// and keeping all others elements to the end of the slice\nnewSlice1 := append(slice[:first], slice[last+1:]...)\n// \u003e [1 2 6]\n\n// you can do using directly numbers instead of variables\nnewSlice2 := append(slice[:2], slice[5:]...)\n// \u003e [1 2 6]\n\n// Another way to do the same\nnewSlice3 := slice[:first + copy(slice[first:], slice[last+1:])]\n// \u003e [1 2 6]\n\n// same that newSlice3 with hard coded indexes (without use of variables)\nnewSlice4 := slice[:2 + copy(slice[2:], slice[5:])]\n// \u003e [1 2 6]",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155987218,
+        "id": "e6a2d2dc-f9f3-4649-9879-fc8017c4da5d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155987218,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To remove only one element, just put the index of this element as the first AND as the last index to remove, like this:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To remove only one element, just put the index of this element as the first AND as the last index to remove, like this:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155987218,
+        "id": "1a410c8b-a3d4-4303-82c7-967b00a14522",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196289781,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var indexToRemove = 3\nnewSlice5 := append(slice[:indexToRemove], slice[indexToRemove+1:]...)\n// \u003e [1 2 3 5 6]\n\n// hard-coded version:\nnewSlice5 := append(slice[:3], slice[4:]...)\n// \u003e [1 2 3 5 6]"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var indexToRemove = 3\nnewSlice5 := append(slice[:indexToRemove], slice[indexToRemove+1:]...)\n// \u003e [1 2 3 5 6]\n\n// hard-coded version:\nnewSlice5 := append(slice[:3], slice[4:]...)\n// \u003e [1 2 3 5 6]",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155987218,
+        "id": "3cf3d5fb-7209-4c5f-8606-e26d605ccd3e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155987218,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "And you can also remove elements from the beginning of the slice:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "And you can also remove elements from the beginning of the slice:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155987218,
+        "id": "0316a204-bde6-495e-895e-c8c90ec794f8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196291753,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "newSlice6 := append(slice[:0], slice[last+1:]...)\n// \u003e [6]\n\n// That can be simplified into\nnewSlice6 := slice[last+1:]\n// \u003e [6]"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "newSlice6 := append(slice[:0], slice[last+1:]...)\n// \u003e [6]\n\n// That can be simplified into\nnewSlice6 := slice[last+1:]\n// \u003e [6]",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155987218,
+        "id": "7f056f3e-f1a6-46bd-8d3c-63efa027964b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155987218,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can also remove some elements from the end of the slice:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can also remove some elements from the end of the slice:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155987219,
+        "id": "40d79398-95cc-49a5-ac39-ee75b84d2168",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196294072,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "newSlice7 := append(slice[:first], slice[first+1:len(slice)-1]...)\n// \u003e [1 2]\n\n// That can be simplified into\nnewSlice7 := slice[:first]\n// \u003e [1 2]"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "newSlice7 := append(slice[:first], slice[first+1:len(slice)-1]...)\n// \u003e [1 2]\n\n// That can be simplified into\nnewSlice7 := slice[:first]\n// \u003e [1 2]",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155987219,
+        "id": "b354510f-7df8-4ca7-ae69-4409528d73f4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155987219,
+        "parent_id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If the new slice has to contain exactly the same elements as the first one, you can use the same thing but with last := first-1. (This can be useful in cases where your indexes are previously computed)"
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If the new slice has to contain exactly the same elements as the first one, you can use the same thing but with last := first-1. (This can be useful in cases where your indexes are previously computed)"
+          }
+        ]
+      }
+    ],
+    "title": "Remove elements from slice",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

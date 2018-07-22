@@ -1,0 +1,762 @@
+{
+  "ID": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+  "Page": {
+    "alive": true,
+    "content": [
+      "9579d615-a02a-4b31-8866-e8249a3813a6",
+      "a33e840d-fd02-46ee-8a78-982529f1e328",
+      "06b4cd9b-c209-478c-a7ef-379b7d9b20c7",
+      "952bd5aa-23ba-43f5-8942-468c1de85670",
+      "c85f9ea6-6cc2-4241-8e65-3c80bdf093d6",
+      "a45f010c-752f-49df-a91b-0e82e5c0e89b",
+      "6d8d949b-8fb9-494a-9791-596351c559d2",
+      "ffa67917-cfb0-4479-9772-3101cbced22d",
+      "dcae1eb8-130b-41ae-9b59-b782c55aa526",
+      "6c15e0b3-bcba-4e3f-838e-94abde9367ef",
+      "babe6169-8aa6-48dd-8fbc-5e7228b1ad5c",
+      "1e28842c-d4d5-4b93-a4ee-408be7a0daf3",
+      "8279fa51-db7e-475d-880d-89a935d11239",
+      "839c1a30-f82f-4d34-9742-c4b78d5de984"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156092127,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532206803718,
+    "parent_id": "c4da0534-9333-4df9-9513-4741ae04f808",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Format time"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206789941,
+        "id": "9579d615-a02a-4b31-8866-e8249a3813a6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236900597,
+        "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 167"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 32,
+        "inline_content": [
+          {
+            "Text": "$Id: 167"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206791511,
+        "id": "a33e840d-fd02-46ee-8a78-982529f1e328",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206860888,
+        "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 801000j5"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 29,
+        "inline_content": [
+          {
+            "Text": "$SOId: 801000j5"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206793560,
+        "id": "06b4cd9b-c209-478c-a7ef-379b7d9b20c7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206794192,
+        "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156092123,
+        "id": "952bd5aa-23ba-43f5-8942-468c1de85670",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156092123,
+        "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Most languages inherited time formatting method from "
+            ],
+            [
+              "strftime",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function C library which uses somewhat cryptic format strings like "
+            ],
+            [
+              "%Y-%m-%d",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Most languages inherited time formatting method from "
+          },
+          {
+            "Text": "strftime",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function C library which uses somewhat cryptic format strings like "
+          },
+          {
+            "Text": "%Y-%m-%d",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156092123,
+        "id": "c85f9ea6-6cc2-4241-8e65-3c80bdf093d6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156092123,
+        "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go designers came up with arguably more intuitive way of time parsing and formatting where you show a template of how you want the result to look like:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go designers came up with arguably more intuitive way of time parsing and formatting where you show a template of how you want the result to look like:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156092123,
+        "id": "a45f010c-752f-49df-a91b-0e82e5c0e89b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156092123,
+        "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file format.go output sha1:2d56dbcf8e6e21620c5979ec9259843764022f4f goplayground:B_uLdROWGO6"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file format.go output sha1:2d56dbcf8e6e21620c5979ec9259843764022f4f goplayground:B_uLdROWGO6"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156092124,
+        "id": "6d8d949b-8fb9-494a-9791-596351c559d2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156092124,
+        "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Formatting string is an arbitrary string with some parts being replaced by the data from "
+            ],
+            [
+              "time.Time",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " value:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Formatting string is an arbitrary string with some parts being replaced by the data from "
+          },
+          {
+            "Text": "time.Time",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " value:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156092125,
+        "id": "ffa67917-cfb0-4479-9772-3101cbced22d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156092125,
+        "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "template"
+            ],
+            [
+              "meaning"
+            ],
+            [
+              "2006, 06"
+            ],
+            [
+              "4 or 2 digit year"
+            ],
+            [
+              "2"
+            ],
+            [
+              "month, 1-12"
+            ],
+            [
+              "1"
+            ],
+            [
+              "day, 1-31"
+            ],
+            [
+              "15"
+            ],
+            [
+              "hour"
+            ],
+            [
+              "am, PM"
+            ],
+            [
+              "show hour in am/pm format"
+            ],
+            [
+              "4"
+            ],
+            [
+              "minute"
+            ],
+            [
+              "5"
+            ],
+            [
+              "second"
+            ],
+            [
+              "MST"
+            ],
+            [
+              "string time zone"
+            ],
+            [
+              "-0700"
+            ],
+            [
+              "numeric time zone"
+            ],
+            [
+              "Jan, January"
+            ],
+            [
+              "short or long month name"
+            ],
+            [
+              "Mon, Monday"
+            ],
+            [
+              "short or long day name"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "template"
+          },
+          {
+            "Text": "meaning"
+          },
+          {
+            "Text": "2006, 06"
+          },
+          {
+            "Text": "4 or 2 digit year"
+          },
+          {
+            "Text": "2"
+          },
+          {
+            "Text": "month, 1-12"
+          },
+          {
+            "Text": "1"
+          },
+          {
+            "Text": "day, 1-31"
+          },
+          {
+            "Text": "15"
+          },
+          {
+            "Text": "hour"
+          },
+          {
+            "Text": "am, PM"
+          },
+          {
+            "Text": "show hour in am/pm format"
+          },
+          {
+            "Text": "4"
+          },
+          {
+            "Text": "minute"
+          },
+          {
+            "Text": "5"
+          },
+          {
+            "Text": "second"
+          },
+          {
+            "Text": "MST"
+          },
+          {
+            "Text": "string time zone"
+          },
+          {
+            "Text": "-0700"
+          },
+          {
+            "Text": "numeric time zone"
+          },
+          {
+            "Text": "Jan, January"
+          },
+          {
+            "Text": "short or long month name"
+          },
+          {
+            "Text": "Mon, Monday"
+          },
+          {
+            "Text": "short or long day name"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156092126,
+        "id": "dcae1eb8-130b-41ae-9b59-b782c55aa526",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156092126,
+        "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Days, months, years, hours, minutes and seconds can be zero-padded by adding 0 to format number. It’ll only be shown for numbers \u003c 10. "
+            ],
+            [
+              "02",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " means zero-padded month i.e. "
+            ],
+            [
+              "04",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "11",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Days, months, years, hours, minutes and seconds can be zero-padded by adding 0 to format number. It’ll only be shown for numbers \u003c 10. "
+          },
+          {
+            "Text": "02",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " means zero-padded month i.e. "
+          },
+          {
+            "Text": "04",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "11",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156092126,
+        "id": "6c15e0b3-bcba-4e3f-838e-94abde9367ef",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156092126,
+        "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Some values can be space-padded. "
+            ],
+            [
+              "_2",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " will be "
+            ],
+            [
+              "4",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "11",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Some values can be space-padded. "
+          },
+          {
+            "Text": "_2",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " will be "
+          },
+          {
+            "Text": "4",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "11",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156092126,
+        "id": "babe6169-8aa6-48dd-8fbc-5e7228b1ad5c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156092126,
+        "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Package time also defines constants for some well-known formats for date/time formatting e.g. "
+            ],
+            [
+              "time.RFC822",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is date format defined in RFC 822 which is date format in e-mail messages."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Package time also defines constants for some well-known formats for date/time formatting e.g. "
+          },
+          {
+            "Text": "time.RFC822",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is date format defined in RFC 822 which is date format in e-mail messages."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156092126,
+        "id": "1e28842c-d4d5-4b93-a4ee-408be7a0daf3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156092126,
+        "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here’s a full list of pre-defined formats:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Here’s a full list of pre-defined formats:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156092127,
+        "id": "8279fa51-db7e-475d-880d-89a935d11239",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206877499,
+        "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "const (\n        ANSIC       = \"Mon Jan _2 15:04:05 2006\"\n        UnixDate    = \"Mon Jan _2 15:04:05 MST 2006\"\n        RubyDate    = \"Mon Jan 02 15:04:05 -0700 2006\"\n        RFC822      = \"02 Jan 06 15:04 MST\"\n        RFC822Z     = \"02 Jan 06 15:04 -0700\" // RFC822 with numeric zone\n        RFC850      = \"Monday, 02-Jan-06 15:04:05 MST\"\n        RFC1123     = \"Mon, 02 Jan 2006 15:04:05 MST\"\n        RFC1123Z    = \"Mon, 02 Jan 2006 15:04:05 -0700\" // RFC1123 with numeric zone\n        RFC3339     = \"2006-01-02T15:04:05Z07:00\"\n        RFC3339Nano = \"2006-01-02T15:04:05.999999999Z07:00\"\n        Kitchen     = \"3:04PM\"\n        // Handy time stamps.\n        Stamp      = \"Jan _2 15:04:05\"\n        StampMilli = \"Jan _2 15:04:05.000\"\n        StampMicro = \"Jan _2 15:04:05.000000\"\n        StampNano  = \"Jan _2 15:04:05.000000000\"\n)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "const (\n        ANSIC       = \"Mon Jan _2 15:04:05 2006\"\n        UnixDate    = \"Mon Jan _2 15:04:05 MST 2006\"\n        RubyDate    = \"Mon Jan 02 15:04:05 -0700 2006\"\n        RFC822      = \"02 Jan 06 15:04 MST\"\n        RFC822Z     = \"02 Jan 06 15:04 -0700\" // RFC822 with numeric zone\n        RFC850      = \"Monday, 02-Jan-06 15:04:05 MST\"\n        RFC1123     = \"Mon, 02 Jan 2006 15:04:05 MST\"\n        RFC1123Z    = \"Mon, 02 Jan 2006 15:04:05 -0700\" // RFC1123 with numeric zone\n        RFC3339     = \"2006-01-02T15:04:05Z07:00\"\n        RFC3339Nano = \"2006-01-02T15:04:05.999999999Z07:00\"\n        Kitchen     = \"3:04PM\"\n        // Handy time stamps.\n        Stamp      = \"Jan _2 15:04:05\"\n        StampMilli = \"Jan _2 15:04:05.000\"\n        StampMicro = \"Jan _2 15:04:05.000000\"\n        StampNano  = \"Jan _2 15:04:05.000000000\"\n)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156092127,
+        "id": "839c1a30-f82f-4d34-9742-c4b78d5de984",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156092127,
+        "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "What if you prefer "
+            ],
+            [
+              "strftime",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " style of formatting time? That’s "
+            ],
+            [
+              "available too",
+              [
+                [
+                  "a",
+                  "169"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "What if you prefer "
+          },
+          {
+            "Text": "strftime",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " style of formatting time? That’s "
+          },
+          {
+            "Text": "available too",
+            "Link": "169"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      }
+    ],
+    "title": "Format time",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

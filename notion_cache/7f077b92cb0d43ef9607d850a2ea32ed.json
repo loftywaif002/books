@@ -1,0 +1,426 @@
+{
+  "ID": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+  "Page": {
+    "alive": true,
+    "content": [
+      "4963f5de-aa93-420c-9d25-f8ac0f462c8d",
+      "d16a9562-91cc-49f3-9420-f970634a14a6",
+      "5074dc8d-9f28-4487-b475-d90648dc7b35",
+      "fbe04f89-5df6-458e-9a3a-919d84601bb8",
+      "8642d6de-f43b-455f-a46f-35ae432c9a84",
+      "d4f6d1c4-6b22-4e46-8c3c-ffaedda68b6b",
+      "7a9c70ec-815f-4a78-ade4-1b96a2e2ff20",
+      "6abc5100-e2eb-4111-83be-704f3cbb29de",
+      "ad9d4c51-c0b3-4c3a-9e4b-609743b0d233",
+      "8da0de8d-ef9b-4e58-b30f-d51bc85f283d"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156058104,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236256584,
+    "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Recover"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205451499,
+        "id": "4963f5de-aa93-420c-9d25-f8ac0f462c8d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236257387,
+        "parent_id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 133"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 133"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205453052,
+        "id": "d16a9562-91cc-49f3-9420-f970634a14a6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236258074,
+        "parent_id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 17010"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 17010"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205456181,
+        "id": "5074dc8d-9f28-4487-b475-d90648dc7b35",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205456181,
+        "parent_id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205454989,
+        "id": "fbe04f89-5df6-458e-9a3a-919d84601bb8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205455846,
+        "parent_id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Recover attempts to recover from a "
+            ],
+            [
+              "panic",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Recover attempts to recover from a "
+          },
+          {
+            "Text": "panic",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156058103,
+        "id": "8642d6de-f43b-455f-a46f-35ae432c9a84",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156058103,
+        "parent_id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The recover "
+            ],
+            [
+              "must",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " be attempted in a deferred statement as normal execution flow has been halted."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The recover "
+          },
+          {
+            "Text": "must",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " be attempted in a deferred statement as normal execution flow has been halted."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156058103,
+        "id": "d4f6d1c4-6b22-4e46-8c3c-ffaedda68b6b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156058103,
+        "parent_id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The "
+            ],
+            [
+              "recover",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statement must appear "
+            ],
+            [
+              "directly",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " within the deferred function enclosure."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The "
+          },
+          {
+            "Text": "recover",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statement must appear "
+          },
+          {
+            "Text": "directly",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " within the deferred function enclosure."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156058103,
+        "id": "7a9c70ec-815f-4a78-ade4-1b96a2e2ff20",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156058103,
+        "parent_id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Recover statements in functions called by deferred function calls will not be honored."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Recover statements in functions called by deferred function calls will not be honored."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156058103,
+        "id": "6abc5100-e2eb-4111-83be-704f3cbb29de",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156058103,
+        "parent_id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The "
+            ],
+            [
+              "recover()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " call will return the argument provided to the initial panic, if the program is currently panicking."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The "
+          },
+          {
+            "Text": "recover()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " call will return the argument provided to the initial panic, if the program is currently panicking."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156058104,
+        "id": "ad9d4c51-c0b3-4c3a-9e4b-609743b0d233",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156058104,
+        "parent_id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If the program is not currently panicking, "
+            ],
+            [
+              "recover()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " will return "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If the program is not currently panicking, "
+          },
+          {
+            "Text": "recover()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " will return "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156058104,
+        "id": "8da0de8d-ef9b-4e58-b30f-d51bc85f283d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156058104,
+        "parent_id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file recover.go output allow_error sha1:ba674277f82c6107183ec396d126a5e8986aef8d goplayground:bDVlskHRjxL"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file recover.go output allow_error sha1:ba674277f82c6107183ec396d126a5e8986aef8d goplayground:bDVlskHRjxL"
+          }
+        ]
+      }
+    ],
+    "title": "Recover",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

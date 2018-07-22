@@ -1,0 +1,376 @@
+{
+  "ID": "5ab3b563-29c4-4058-b5b2-4d3f364183ce",
+  "Page": {
+    "alive": true,
+    "content": [
+      "6cfc7b74-c277-43cd-a414-7f360cdd0e32",
+      "60dfe75c-8d3f-4c90-b945-75094768c3df",
+      "19648458-714d-4666-9300-1efc0e420f90",
+      "920acb8a-e45a-4835-b3cd-4c2a8a2d51b1",
+      "eb965909-32c9-4f3c-9961-a34f6b0b8784",
+      "c4dd19cd-bc72-46da-9644-9b1ed20a0f13",
+      "db03d745-53d4-4bcd-9b19-d47799c11450",
+      "10703a73-1572-4dc0-8b4e-d3f452e046c9",
+      "6042ecd0-14fe-4663-a7d5-90e686baf1b9"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156292866,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "5ab3b563-29c4-4058-b5b2-4d3f364183ce",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532215610926,
+    "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "go get"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215585883,
+        "id": "6cfc7b74-c277-43cd-a414-7f360cdd0e32",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215597903,
+        "parent_id": "5ab3b563-29c4-4058-b5b2-4d3f364183ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 327"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 327"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215587550,
+        "id": "60dfe75c-8d3f-4c90-b945-75094768c3df",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215598534,
+        "parent_id": "5ab3b563-29c4-4058-b5b2-4d3f364183ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 28395"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 28395"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215590526,
+        "id": "19648458-714d-4666-9300-1efc0e420f90",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215590526,
+        "parent_id": "5ab3b563-29c4-4058-b5b2-4d3f364183ce",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215589246,
+        "id": "920acb8a-e45a-4835-b3cd-4c2a8a2d51b1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215590271,
+        "parent_id": "5ab3b563-29c4-4058-b5b2-4d3f364183ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "go get",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " downloads the packages named by the import paths, along with their dependencies. It then installs the named packages, like ‘go install’. Get also accepts build flags to control the installation."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "go get",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " downloads the packages named by the import paths, along with their dependencies. It then installs the named packages, like ‘go install’. Get also accepts build flags to control the installation."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156292865,
+        "id": "eb965909-32c9-4f3c-9961-a34f6b0b8784",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156292865,
+        "parent_id": "5ab3b563-29c4-4058-b5b2-4d3f364183ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "go get github.com/maknahar/phonecountry"
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "go get github.com/maknahar/phonecountry"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156292865,
+        "id": "c4dd19cd-bc72-46da-9644-9b1ed20a0f13",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156292865,
+        "parent_id": "5ab3b563-29c4-4058-b5b2-4d3f364183ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When checking out a new package, get creates the target directory "
+            ],
+            [
+              "$GOPATH/src/\u003cimport-path\u003e",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". If the GOPATH contains multiple entries, get uses the first one. Similarly, it will install compiled binaries in "
+            ],
+            [
+              "$GOPATH/bin",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When checking out a new package, get creates the target directory "
+          },
+          {
+            "Text": "$GOPATH/src/\u003cimport-path\u003e",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". If the GOPATH contains multiple entries, get uses the first one. Similarly, it will install compiled binaries in "
+          },
+          {
+            "Text": "$GOPATH/bin",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156292866,
+        "id": "db03d745-53d4-4bcd-9b19-d47799c11450",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156292866,
+        "parent_id": "5ab3b563-29c4-4058-b5b2-4d3f364183ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When checking out or updating a package, get looks for a branch or tag that matches the locally installed version of Go. The most important rule is that if the local installation is running version “go1”, get searches for a branch or tag named “go1”. If no such version exists it retrieves the most recent version of the package."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When checking out or updating a package, get looks for a branch or tag that matches the locally installed version of Go. The most important rule is that if the local installation is running version “go1”, get searches for a branch or tag named “go1”. If no such version exists it retrieves the most recent version of the package."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156292866,
+        "id": "10703a73-1572-4dc0-8b4e-d3f452e046c9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156292866,
+        "parent_id": "5ab3b563-29c4-4058-b5b2-4d3f364183ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When using "
+            ],
+            [
+              "go get",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", the "
+            ],
+            [
+              "-d",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " flag causes it to download but not install the given package. The "
+            ],
+            [
+              "-u",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " flag will allow it to update the package and its dependencies."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When using "
+          },
+          {
+            "Text": "go get",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", the "
+          },
+          {
+            "Text": "-d",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " flag causes it to download but not install the given package. The "
+          },
+          {
+            "Text": "-u",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " flag will allow it to update the package and its dependencies."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156292866,
+        "id": "6042ecd0-14fe-4663-a7d5-90e686baf1b9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156292866,
+        "parent_id": "5ab3b563-29c4-4058-b5b2-4d3f364183ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Get never checks out or updates code stored in vendor directories."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Get never checks out or updates code stored in vendor directories."
+          }
+        ]
+      }
+    ],
+    "title": "go get",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

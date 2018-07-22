@@ -1,0 +1,433 @@
+{
+  "ID": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+  "Page": {
+    "alive": true,
+    "content": [
+      "20a94670-265e-4024-9341-a1b27a378f1f",
+      "0e00ada6-e68d-413c-8010-56257c278d96",
+      "8e871095-eec5-443e-8720-b445c20852a2",
+      "60ed6e55-fac0-4690-b96c-83e5fc150427",
+      "2dd1bd5e-4046-4aa4-a11b-40a023793b65",
+      "57874880-c573-41b1-a7a5-c42c1519ace4",
+      "ae2b3c36-00a9-4619-a04b-a86c3528c3d3",
+      "0b245560-93ab-4228-a024-e29e546978ba",
+      "b4492807-5e67-4b9a-a4cc-67de9bd74dcb",
+      "62811c2f-68d6-4168-928f-788faa2bb776",
+      "0befe8d1-26e3-4153-a4b3-c03b396453ed",
+      "c1744bde-b607-4c8f-8532-404ed0ac01ba",
+      "70f3e3e8-f0e5-47d0-b712-3bcc343baafc",
+      "9dbbed64-5fb2-4c53-b79a-fa9c971be642"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156065168,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236420259,
+    "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Limiting concurrency with semaphore"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205738659,
+        "id": "20a94670-265e-4024-9341-a1b27a378f1f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236389323,
+        "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 140"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 140"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205742078,
+        "id": "0e00ada6-e68d-413c-8010-56257c278d96",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236392015,
+        "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 901000od"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$SOId: 901000od"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205745687,
+        "id": "8e871095-eec5-443e-8720-b445c20852a2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205745687,
+        "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205744097,
+        "id": "60ed6e55-fac0-4690-b96c-83e5fc150427",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205745409,
+        "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When doing CPU intensive tasks like image resizing it doesn’t make sense to create more goroutines than available CPUs."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "When doing CPU intensive tasks like image resizing it doesn’t make sense to create more goroutines than available CPUs."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156065161,
+        "id": "2dd1bd5e-4046-4aa4-a11b-40a023793b65",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156065161,
+        "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Things will not go any faster and you might even loose performance due to additional book keeping and switching between goroutines."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Things will not go any faster and you might even loose performance due to additional book keeping and switching between goroutines."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156065161,
+        "id": "57874880-c573-41b1-a7a5-c42c1519ace4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156065161,
+        "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "One way to limit concurrency (i.e. number of gorutines you launch at the same time) is to use a semaphore."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "One way to limit concurrency (i.e. number of gorutines you launch at the same time) is to use a semaphore."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156065161,
+        "id": "ae2b3c36-00a9-4619-a04b-a86c3528c3d3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156065161,
+        "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can enter (acquire) semaphore and leave (release) a semaphore."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can enter (acquire) semaphore and leave (release) a semaphore."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156065162,
+        "id": "0b245560-93ab-4228-a024-e29e546978ba",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156065162,
+        "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A semaphore has a fixed capacity. If you exceed semaphore’s capacity, acquire blocks until a release operation frees it."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A semaphore has a fixed capacity. If you exceed semaphore’s capacity, acquire blocks until a release operation frees it."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156065162,
+        "id": "b4492807-5e67-4b9a-a4cc-67de9bd74dcb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156065162,
+        "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A buffered channel is a natural semaphore."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A buffered channel is a natural semaphore."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156065163,
+        "id": "62811c2f-68d6-4168-928f-788faa2bb776",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156065163,
+        "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here’s an example of using a channel acting as a semaphore to limit number of gouroutines active at any given time:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Here’s an example of using a channel acting as a semaphore to limit number of gouroutines active at any given time:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156065163,
+        "id": "0befe8d1-26e3-4153-a4b3-c03b396453ed",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156065163,
+        "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file limit_with_semaphore.go output sha1:04794d86e54ca971a32e096a6b1ad936f3566d29 goplayground:HLtenC1w2yO"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file limit_with_semaphore.go output sha1:04794d86e54ca971a32e096a6b1ad936f3566d29 goplayground:HLtenC1w2yO"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156065164,
+        "id": "c1744bde-b607-4c8f-8532-404ed0ac01ba",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236419586,
+        "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We use technique described in "
+            ],
+            [
+              "waiting for goroutines to finish",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Wait-for-goroutines-to-finish-ea3629ac73bb494283d0c92b2a4f78d1"
+                ]
+              ]
+            ],
+            [
+              " to wait for all tasks to finish."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "We use technique described in "
+          },
+          {
+            "Text": "waiting for goroutines to finish",
+            "Link": "https://www.notion.so/kjkpublic/Wait-for-goroutines-to-finish-ea3629ac73bb494283d0c92b2a4f78d1"
+          },
+          {
+            "Text": " to wait for all tasks to finish."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156065167,
+        "id": "70f3e3e8-f0e5-47d0-b712-3bcc343baafc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156065167,
+        "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Often the right amount of concurrent tasks is equal to number of CPUs, which can be obtained with "
+            ],
+            [
+              "runtime.NumCPU()",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/runtime/#NumCPU"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Often the right amount of concurrent tasks is equal to number of CPUs, which can be obtained with "
+          },
+          {
+            "Text": "runtime.NumCPU()",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/runtime/#NumCPU"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532236420259,
+        "id": "9dbbed64-5fb2-4c53-b79a-fa9c971be642",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236420259,
+        "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Limiting concurrency with semaphore",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,817 @@
+{
+  "ID": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+  "Page": {
+    "alive": true,
+    "content": [
+      "6e3bfadc-7873-49b0-b4b9-232bc7eb6f55",
+      "0705feb3-4078-4219-a63a-03c9c94e1b4e",
+      "0ace42ac-f22e-4717-93b8-2369dc8434ae",
+      "5b80a126-7da8-45c9-9c47-9d3dea078eca",
+      "e1b5c8ba-f4d2-4c48-90b4-09649a88f4ca",
+      "2ebc22e2-c01c-4960-95a6-eeaa520dfbde",
+      "0158d39d-2003-477f-88e7-6630884e8425",
+      "39338103-ef96-47ed-8c3e-8a856c71cd74",
+      "38788e36-841e-47b2-9000-5395202f0eaf",
+      "4e488871-87d7-48b5-945f-53797ef916fc",
+      "f9325bb3-7faa-47ba-8a06-dfac7ea1d893",
+      "deeaa8c8-d359-4315-b337-e616bc766e24",
+      "ed2d846b-6d23-401b-afc9-2105ef9fdfbe",
+      "cda66995-08e6-484c-a160-c7025a203fe7",
+      "b50bd0bf-a8bd-447d-8da2-63c84a8bcb8f"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156216193,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532212886034,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Cross compilation"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 26,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156216184,
+        "id": "6e3bfadc-7873-49b0-b4b9-232bc7eb6f55",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212860344,
+        "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Title: Cross compilation"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 3,
+        "inline_content": [
+          {
+            "Text": "Title: Cross compilation"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212860344,
+        "id": "0705feb3-4078-4219-a63a-03c9c94e1b4e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212864554,
+        "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 268"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 268"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212862695,
+        "id": "0ace42ac-f22e-4717-93b8-2369dc8434ae",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212872821,
+        "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1020"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1020"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212866175,
+        "id": "5b80a126-7da8-45c9-9c47-9d3dea078eca",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212870784,
+        "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Introduction"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 27,
+        "inline_content": [
+          {
+            "Text": "Introduction"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156216184,
+        "id": "e1b5c8ba-f4d2-4c48-90b4-09649a88f4ca",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156216184,
+        "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The Go compiler can produce binaries for many platforms, i.e. processors and systems. Unlike with most other compilers, there is no specific requirement to cross-compiling, it is as easy to use as regular compiling."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The Go compiler can produce binaries for many platforms, i.e. processors and systems. Unlike with most other compilers, there is no specific requirement to cross-compiling, it is as easy to use as regular compiling."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156216184,
+        "id": "2ebc22e2-c01c-4960-95a6-eeaa520dfbde",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156216184,
+        "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Syntax"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Syntax"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156216185,
+        "id": "0158d39d-2003-477f-88e7-6630884e8425",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156216185,
+        "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "GOOS=linux GOARCH=amd64 go build"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "GOOS=linux GOARCH=amd64 go build"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156216185,
+        "id": "39338103-ef96-47ed-8c3e-8a856c71cd74",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156216185,
+        "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Remarks"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Remarks"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156216189,
+        "id": "38788e36-841e-47b2-9000-5395202f0eaf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156216189,
+        "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Supported Operating System and Architecture target combinations "
+            ],
+            [
+              "(source)",
+              [
+                [
+                  "a",
+                  "https://golang.org/doc/install/source#environment"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Supported Operating System and Architecture target combinations "
+          },
+          {
+            "Text": "(source)",
+            "Link": "https://golang.org/doc/install/source#environment"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156216192,
+        "id": "4e488871-87d7-48b5-945f-53797ef916fc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156216192,
+        "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$GOOS"
+            ],
+            [
+              "$GOARCH"
+            ],
+            [
+              "android"
+            ],
+            [
+              "arm"
+            ],
+            [
+              "darwin"
+            ],
+            [
+              "386"
+            ],
+            [
+              "darwin"
+            ],
+            [
+              "amd64"
+            ],
+            [
+              "darwin"
+            ],
+            [
+              "arm"
+            ],
+            [
+              "darwin"
+            ],
+            [
+              "arm64"
+            ],
+            [
+              "dragonfly"
+            ],
+            [
+              "amd64"
+            ],
+            [
+              "freebsd"
+            ],
+            [
+              "386"
+            ],
+            [
+              "freebsd"
+            ],
+            [
+              "amd64"
+            ],
+            [
+              "freebsd"
+            ],
+            [
+              "arm"
+            ],
+            [
+              "linux"
+            ],
+            [
+              "386"
+            ],
+            [
+              "linux"
+            ],
+            [
+              "amd64"
+            ],
+            [
+              "linux"
+            ],
+            [
+              "arm"
+            ],
+            [
+              "linux"
+            ],
+            [
+              "arm64"
+            ],
+            [
+              "linux"
+            ],
+            [
+              "ppc64"
+            ],
+            [
+              "linux"
+            ],
+            [
+              "ppc64le"
+            ],
+            [
+              "linux"
+            ],
+            [
+              "mips64"
+            ],
+            [
+              "linux"
+            ],
+            [
+              "mips64le"
+            ],
+            [
+              "netbsd"
+            ],
+            [
+              "386"
+            ],
+            [
+              "netbsd"
+            ],
+            [
+              "amd64"
+            ],
+            [
+              "netbsd"
+            ],
+            [
+              "arm"
+            ],
+            [
+              "openbsd"
+            ],
+            [
+              "386"
+            ],
+            [
+              "openbsd"
+            ],
+            [
+              "amd64"
+            ],
+            [
+              "openbsd"
+            ],
+            [
+              "arm"
+            ],
+            [
+              "plan9"
+            ],
+            [
+              "386"
+            ],
+            [
+              "plan9"
+            ],
+            [
+              "amd64"
+            ],
+            [
+              "solaris"
+            ],
+            [
+              "amd64"
+            ],
+            [
+              "windows"
+            ],
+            [
+              "386"
+            ],
+            [
+              "windows"
+            ],
+            [
+              "amd64"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "$GOOS"
+          },
+          {
+            "Text": "$GOARCH"
+          },
+          {
+            "Text": "android"
+          },
+          {
+            "Text": "arm"
+          },
+          {
+            "Text": "darwin"
+          },
+          {
+            "Text": "386"
+          },
+          {
+            "Text": "darwin"
+          },
+          {
+            "Text": "amd64"
+          },
+          {
+            "Text": "darwin"
+          },
+          {
+            "Text": "arm"
+          },
+          {
+            "Text": "darwin"
+          },
+          {
+            "Text": "arm64"
+          },
+          {
+            "Text": "dragonfly"
+          },
+          {
+            "Text": "amd64"
+          },
+          {
+            "Text": "freebsd"
+          },
+          {
+            "Text": "386"
+          },
+          {
+            "Text": "freebsd"
+          },
+          {
+            "Text": "amd64"
+          },
+          {
+            "Text": "freebsd"
+          },
+          {
+            "Text": "arm"
+          },
+          {
+            "Text": "linux"
+          },
+          {
+            "Text": "386"
+          },
+          {
+            "Text": "linux"
+          },
+          {
+            "Text": "amd64"
+          },
+          {
+            "Text": "linux"
+          },
+          {
+            "Text": "arm"
+          },
+          {
+            "Text": "linux"
+          },
+          {
+            "Text": "arm64"
+          },
+          {
+            "Text": "linux"
+          },
+          {
+            "Text": "ppc64"
+          },
+          {
+            "Text": "linux"
+          },
+          {
+            "Text": "ppc64le"
+          },
+          {
+            "Text": "linux"
+          },
+          {
+            "Text": "mips64"
+          },
+          {
+            "Text": "linux"
+          },
+          {
+            "Text": "mips64le"
+          },
+          {
+            "Text": "netbsd"
+          },
+          {
+            "Text": "386"
+          },
+          {
+            "Text": "netbsd"
+          },
+          {
+            "Text": "amd64"
+          },
+          {
+            "Text": "netbsd"
+          },
+          {
+            "Text": "arm"
+          },
+          {
+            "Text": "openbsd"
+          },
+          {
+            "Text": "386"
+          },
+          {
+            "Text": "openbsd"
+          },
+          {
+            "Text": "amd64"
+          },
+          {
+            "Text": "openbsd"
+          },
+          {
+            "Text": "arm"
+          },
+          {
+            "Text": "plan9"
+          },
+          {
+            "Text": "386"
+          },
+          {
+            "Text": "plan9"
+          },
+          {
+            "Text": "amd64"
+          },
+          {
+            "Text": "solaris"
+          },
+          {
+            "Text": "amd64"
+          },
+          {
+            "Text": "windows"
+          },
+          {
+            "Text": "386"
+          },
+          {
+            "Text": "windows"
+          },
+          {
+            "Text": "amd64"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212851064,
+        "id": "f9325bb3-7faa-47ba-8a06-dfac7ea1d893",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212851064,
+        "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156217249,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212942954,
+        "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Simple cross compilation with go build"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 22,
+        "title": "Simple cross compilation with go build",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156218374,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "ed2d846b-6d23-401b-afc9-2105ef9fdfbe",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212985858,
+        "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Compile all architectures using a Makefile"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 27,
+        "title": "Compile all architectures using a Makefile",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156219119,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "cda66995-08e6-484c-a160-c7025a203fe7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213046588,
+        "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Cross compilation by using gox"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Cross compilation by using gox",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156220201,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "b50bd0bf-a8bd-447d-8da2-63c84a8bcb8f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213090793,
+        "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Simple Example: Compile helloworld.go for arm architecture on Linux machine"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 30,
+        "title": "Simple Example: Compile helloworld.go for arm architecture on Linux machine",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Cross compilation",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

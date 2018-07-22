@@ -1,0 +1,474 @@
+{
+  "ID": "cda66995-08e6-484c-a160-c7025a203fe7",
+  "Page": {
+    "alive": true,
+    "content": [
+      "df3de0e8-f286-4345-babe-3c2c569882c7",
+      "feb26bfe-2aee-42b8-b4de-7c98f00a9fb5",
+      "d23c3bdb-dfb6-41ed-bbd7-b76fe9b57061",
+      "78ceb7ea-7de4-4d0a-a770-4ff31e7e49f6",
+      "c0823184-3258-4640-9e45-10f26186235f",
+      "43ad1b25-53e9-4029-bf0d-d1d9486001d6",
+      "95bd8b51-b86b-485e-a35d-1da939601901",
+      "e1e8dfbb-e0fa-4b40-b760-0dd5305aa873",
+      "57a1f76c-145b-4af6-b272-46d8f0d22093",
+      "b408c68e-8d5c-4762-afe2-a0f06a4198f5"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156219119,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "cda66995-08e6-484c-a160-c7025a203fe7",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213046588,
+    "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Cross compilation by using gox"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213025465,
+        "id": "df3de0e8-f286-4345-babe-3c2c569882c7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213028443,
+        "parent_id": "cda66995-08e6-484c-a160-c7025a203fe7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 271"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 271"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213028443,
+        "id": "feb26bfe-2aee-42b8-b4de-7c98f00a9fb5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213031315,
+        "parent_id": "cda66995-08e6-484c-a160-c7025a203fe7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 2"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Score: 2"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213031315,
+        "id": "d23c3bdb-dfb6-41ed-bbd7-b76fe9b57061",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213033403,
+        "parent_id": "cda66995-08e6-484c-a160-c7025a203fe7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 30867"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$SOId: 30867"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213035532,
+        "id": "78ceb7ea-7de4-4d0a-a770-4ff31e7e49f6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213035532,
+        "parent_id": "cda66995-08e6-484c-a160-c7025a203fe7",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213033403,
+        "id": "c0823184-3258-4640-9e45-10f26186235f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213041090,
+        "parent_id": "cda66995-08e6-484c-a160-c7025a203fe7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Another convenient solution for cross compilation is the usage of "
+            ],
+            [
+              "gox",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ": "
+            ],
+            [
+              "https://github.com/mitchellh/gox",
+              [
+                [
+                  "a",
+                  "https://github.com/mitchellh/gox"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 18,
+        "inline_content": [
+          {
+            "Text": "Another convenient solution for cross compilation is the usage of "
+          },
+          {
+            "Text": "gox",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ": "
+          },
+          {
+            "Text": "https://github.com/mitchellh/gox",
+            "Link": "https://github.com/mitchellh/gox"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156219117,
+        "id": "43ad1b25-53e9-4029-bf0d-d1d9486001d6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156219117,
+        "parent_id": "cda66995-08e6-484c-a160-c7025a203fe7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Installation"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Installation"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156219117,
+        "id": "95bd8b51-b86b-485e-a35d-1da939601901",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156219117,
+        "parent_id": "cda66995-08e6-484c-a160-c7025a203fe7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The installation is done very easily by executing "
+            ],
+            [
+              "go get github.com/mitchellh/gox",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". The resulting executable gets placed at Go’s binary directory, e.g. "
+            ],
+            [
+              "/golang/bin",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "~/golang/bin",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". Ensure that this folder is part of your path in order to use the "
+            ],
+            [
+              "gox",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " command from an arbitrary location."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The installation is done very easily by executing "
+          },
+          {
+            "Text": "go get github.com/mitchellh/gox",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". The resulting executable gets placed at Go’s binary directory, e.g. "
+          },
+          {
+            "Text": "/golang/bin",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "~/golang/bin",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". Ensure that this folder is part of your path in order to use the "
+          },
+          {
+            "Text": "gox",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " command from an arbitrary location."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156219117,
+        "id": "e1e8dfbb-e0fa-4b40-b760-0dd5305aa873",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156219117,
+        "parent_id": "cda66995-08e6-484c-a160-c7025a203fe7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Usage"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Usage"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156219118,
+        "id": "57a1f76c-145b-4af6-b272-46d8f0d22093",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156219118,
+        "parent_id": "cda66995-08e6-484c-a160-c7025a203fe7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "From within a Go project’s root folder (where you perform e.g. "
+            ],
+            [
+              "go build",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "), execute "
+            ],
+            [
+              "gox",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in order to build all possible binaries for any architecture (e.g. x86, ARM) and operating system (e.g. Linux, macOS, Windows) which is available."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "From within a Go project’s root folder (where you perform e.g. "
+          },
+          {
+            "Text": "go build",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "), execute "
+          },
+          {
+            "Text": "gox",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in order to build all possible binaries for any architecture (e.g. x86, ARM) and operating system (e.g. Linux, macOS, Windows) which is available."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156219118,
+        "id": "b408c68e-8d5c-4762-afe2-a0f06a4198f5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156219118,
+        "parent_id": "cda66995-08e6-484c-a160-c7025a203fe7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In order to build for a certain operating system, use e.g. "
+            ],
+            [
+              "gox -os=\"linux\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " instead. Also the architecture option could be defined: "
+            ],
+            [
+              "gox -osarch=\"linux/amd64\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In order to build for a certain operating system, use e.g. "
+          },
+          {
+            "Text": "gox -os=\"linux\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " instead. Also the architecture option could be defined: "
+          },
+          {
+            "Text": "gox -osarch=\"linux/amd64\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      }
+    ],
+    "title": "Cross compilation by using gox",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

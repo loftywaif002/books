@@ -1,0 +1,196 @@
+{
+  "ID": "4af21f3b-f1f7-4c10-bdbe-f02408ffa43b",
+  "Page": {
+    "alive": true,
+    "content": [
+      "a31fd973-acb1-4dde-b564-c9ace4b50ef9",
+      "e2d452da-b0ed-43fa-b0fa-e3aeaf34af5b",
+      "b392d710-2016-44cb-9f28-5f73fd5fcbe3",
+      "dd719bc9-5b2c-4f8a-b361-b9a64eccf838",
+      "d8799061-e33b-4d19-9f26-15802554155c",
+      "806d52f6-5aaa-4d76-ab72-1544d7bb1ee4"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155959125,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "4af21f3b-f1f7-4c10-bdbe-f02408ffa43b",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234353186,
+    "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Convert to lower case or upper case"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195495760,
+        "id": "a31fd973-acb1-4dde-b564-c9ace4b50ef9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234354719,
+        "parent_id": "4af21f3b-f1f7-4c10-bdbe-f02408ffa43b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Search: string convert to lower, upper, title case"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Search: string convert to lower, upper, title case"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195499751,
+        "id": "e2d452da-b0ed-43fa-b0fa-e3aeaf34af5b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234355564,
+        "parent_id": "4af21f3b-f1f7-4c10-bdbe-f02408ffa43b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 43"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 43"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195501325,
+        "id": "b392d710-2016-44cb-9f28-5f73fd5fcbe3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234356334,
+        "parent_id": "4af21f3b-f1f7-4c10-bdbe-f02408ffa43b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 5eq1005a"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 5eq1005a"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195503770,
+        "id": "dd719bc9-5b2c-4f8a-b361-b9a64eccf838",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195503782,
+        "parent_id": "4af21f3b-f1f7-4c10-bdbe-f02408ffa43b",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155959124,
+        "id": "d8799061-e33b-4d19-9f26-15802554155c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155959124,
+        "parent_id": "4af21f3b-f1f7-4c10-bdbe-f02408ffa43b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Converting string to lower, upper and title case:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Converting string to lower, upper and title case:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155959124,
+        "id": "806d52f6-5aaa-4d76-ab72-1544d7bb1ee4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155959124,
+        "parent_id": "4af21f3b-f1f7-4c10-bdbe-f02408ffa43b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file convert_case.go output sha1:2b671174f922a34ae2f56898c99948d2c8143b70 goplayground:FENXIfvXhN_M"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file convert_case.go output sha1:2b671174f922a34ae2f56898c99948d2c8143b70 goplayground:FENXIfvXhN_M"
+          }
+        ]
+      }
+    ],
+    "title": "Convert to lower case or upper case",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

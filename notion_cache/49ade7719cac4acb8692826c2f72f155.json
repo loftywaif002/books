@@ -1,0 +1,213 @@
+{
+  "ID": "49ade771-9cac-4acb-8692-826c2f72f155",
+  "Page": {
+    "alive": true,
+    "content": [
+      "038d4afd-221c-45d9-8741-7241055ee227",
+      "36ed2d7f-3324-4ee3-a6ef-ad5c88c828e3",
+      "46a38232-d2b4-40fd-9d24-b091cc015f18",
+      "38a69d1d-90e8-4753-bb62-eb462f8e2e83",
+      "577ab51a-51fc-4f67-a915-22defa5e2210"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156151181,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "49ade771-9cac-4acb-8692-826c2f72f155",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532209347010,
+    "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Methods as data"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209306174,
+        "id": "038d4afd-221c-45d9-8741-7241055ee227",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209309035,
+        "parent_id": "49ade771-9cac-4acb-8692-826c2f72f155",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 338"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 338"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209307810,
+        "id": "36ed2d7f-3324-4ee3-a6ef-ad5c88c828e3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209308281,
+        "parent_id": "49ade771-9cac-4acb-8692-826c2f72f155",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156151180,
+        "id": "46a38232-d2b4-40fd-9d24-b091cc015f18",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156151180,
+        "parent_id": "49ade771-9cac-4acb-8692-826c2f72f155",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In a template "
+            ],
+            [
+              "{{ .Foo }}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " will either access struct field "
+            ],
+            [
+              "Foo",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or call a function "
+            ],
+            [
+              "Foo()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In a template "
+          },
+          {
+            "Text": "{{ .Foo }}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " will either access struct field "
+          },
+          {
+            "Text": "Foo",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or call a function "
+          },
+          {
+            "Text": "Foo()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156151180,
+        "id": "38a69d1d-90e8-4753-bb62-eb462f8e2e83",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156151180,
+        "parent_id": "49ade771-9cac-4acb-8692-826c2f72f155",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file methods_as_data.go output sha1:eb52f9493001b06bed701f265aaf2901ce62f59a goplayground:SJwK4yfVwiY"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file methods_as_data.go output sha1:eb52f9493001b06bed701f265aaf2901ce62f59a goplayground:SJwK4yfVwiY"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209347010,
+        "id": "577ab51a-51fc-4f67-a915-22defa5e2210",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209347010,
+        "parent_id": "49ade771-9cac-4acb-8692-826c2f72f155",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Methods as data",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

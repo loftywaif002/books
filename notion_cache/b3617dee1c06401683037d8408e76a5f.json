@@ -1,0 +1,642 @@
+{
+  "ID": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+  "Page": {
+    "alive": true,
+    "content": [
+      "6b3449eb-ef26-48f8-9a3a-2e141913cf01",
+      "8183a746-cbd0-44b8-84d7-2dcddd0e05cf",
+      "f61916b8-3417-40be-8d1a-44b3ce6e14a6",
+      "51275598-2e2d-481f-ad5c-c782a12170e2",
+      "5e12507f-0149-4638-a35b-14c580bb6f01",
+      "bd6012d2-33bd-41df-9708-3cd8e865573f",
+      "8bea7507-60fb-481e-afc8-44a6a27a6fae",
+      "06923bdf-ec67-4f1c-811a-f2694abae3fe",
+      "f338d9ec-c662-4d09-ad2e-6753a507a406",
+      "d27ef160-9638-41f5-b159-ecfc783fba7c",
+      "30bd0df4-f009-40b2-849f-4213ec0c9469",
+      "f8f9fbfb-07fb-4ee3-963d-a6b1acee48a5",
+      "a455f450-3904-468e-b7ff-fc599ae956ad",
+      "85e2db0d-30de-4e41-ac55-2da46b4873ca",
+      "a41447e3-5677-4b50-8ae1-253b86042e7d",
+      "b53f6e6e-52d2-439a-83d5-38727e585fc4",
+      "9c0c6831-bca9-47d2-b3ab-13eb3b3aed80",
+      "c604ac12-c07e-43be-9a32-f63cf95af16a"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156045159,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236078897,
+    "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Creating errors"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205010720,
+        "id": "6b3449eb-ef26-48f8-9a3a-2e141913cf01",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236079773,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 121"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 121"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205012476,
+        "id": "8183a746-cbd0-44b8-84d7-2dcddd0e05cf",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236080890,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2705"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2705"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205014346,
+        "id": "f61916b8-3417-40be-8d1a-44b3ce6e14a6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205014898,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045156,
+        "id": "51275598-2e2d-481f-ad5c-c782a12170e2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156045156,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "There are several ways to create an error value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "There are several ways to create an error value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045156,
+        "id": "5e12507f-0149-4638-a35b-14c580bb6f01",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156045156,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Use errors.New"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Use errors.New"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045156,
+        "id": "bd6012d2-33bd-41df-9708-3cd8e865573f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156045156,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The simplest way, "
+            ],
+            [
+              "errors.New(msg string)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " creates error value from string."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The simplest way, "
+          },
+          {
+            "Text": "errors.New(msg string)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " creates error value from string."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045157,
+        "id": "8bea7507-60fb-481e-afc8-44a6a27a6fae",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205027684,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "return errors.New(\"error created with errors.New\")"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "return errors.New(\"error created with errors.New\")",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045157,
+        "id": "06923bdf-ec67-4f1c-811a-f2694abae3fe",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156045157,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Use fmt.Errorf"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Use fmt.Errorf"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045157,
+        "id": "f338d9ec-c662-4d09-ad2e-6753a507a406",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156045157,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For more complex error messages, "
+            ],
+            [
+              "fmt.Errorf(format string, args ...interface{})",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " takes a formatting string and arguments:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For more complex error messages, "
+          },
+          {
+            "Text": "fmt.Errorf(format string, args ...interface{})",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " takes a formatting string and arguments:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045157,
+        "id": "d27ef160-9638-41f5-b159-ecfc783fba7c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205030874,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "return fmt.Errorf(\"error created with %s\", \"fmt.Errorf\")"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "return fmt.Errorf(\"error created with %s\", \"fmt.Errorf\")",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045157,
+        "id": "30bd0df4-f009-40b2-849f-4213ec0c9469",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156045157,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It’s a shortcut for "
+            ],
+            [
+              "errors.New(fmt.Sprintf(...))",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It’s a shortcut for "
+          },
+          {
+            "Text": "errors.New(fmt.Sprintf(...))",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045158,
+        "id": "f8f9fbfb-07fb-4ee3-963d-a6b1acee48a5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156045158,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Use global error variable"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Use global error variable"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045158,
+        "id": "a455f450-3904-468e-b7ff-fc599ae956ad",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205034498,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// ErrGlobal exported so that others can compare returned error value with this variable\nvar ErrGlobal = errors.New(\"global error variable\")\n\nreturn ErrGlobal"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// ErrGlobal exported so that others can compare returned error value with this variable\nvar ErrGlobal = errors.New(\"global error variable\")\n\nreturn ErrGlobal",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045158,
+        "id": "85e2db0d-30de-4e41-ac55-2da46b4873ca",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156045158,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sometimes you want the error to have an identity so that callers can test if returned error is this specific error. You can do it by declaring global variable as "
+            ],
+            [
+              "ErrGlobal",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in example above."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Sometimes you want the error to have an identity so that callers can test if returned error is this specific error. You can do it by declaring global variable as "
+          },
+          {
+            "Text": "ErrGlobal",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in example above."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045158,
+        "id": "a41447e3-5677-4b50-8ae1-253b86042e7d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156045158,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "One example of such error from standard library is "
+            ],
+            [
+              "io.EOF",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " although usually the naming convention for such errors is "
+            ],
+            [
+              "Err*",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "One example of such error from standard library is "
+          },
+          {
+            "Text": "io.EOF",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " although usually the naming convention for such errors is "
+          },
+          {
+            "Text": "Err*",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045158,
+        "id": "b53f6e6e-52d2-439a-83d5-38727e585fc4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156045158,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Nil indicates no error"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Nil indicates no error"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045158,
+        "id": "9c0c6831-bca9-47d2-b3ab-13eb3b3aed80",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156045158,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To indicate there was no error, return nil."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To indicate there was no error, return nil."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045159,
+        "id": "c604ac12-c07e-43be-9a32-f63cf95af16a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156045159,
+        "parent_id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Finally, you can "
+            ],
+            [
+              "create custom error type",
+              [
+                [
+                  "a",
+                  "122"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Finally, you can "
+          },
+          {
+            "Text": "create custom error type",
+            "Link": "122"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      }
+    ],
+    "title": "Creating errors",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

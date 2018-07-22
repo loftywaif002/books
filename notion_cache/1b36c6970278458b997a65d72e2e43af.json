@@ -1,0 +1,486 @@
+{
+  "ID": "1b36c697-0278-458b-997a-65d72e2e43af",
+  "Page": {
+    "alive": true,
+    "content": [
+      "32e734f7-99c0-46df-824c-f391f49a4c0b",
+      "7a1d374a-9d07-47f3-aed2-cc99aa2d0a89",
+      "dff1dc5f-0810-4d1e-a018-27f0fe263561",
+      "792f8e9c-3efe-4275-9722-c41137766448",
+      "e366d47c-a706-4cda-9085-81e7734183ae",
+      "5cd33d20-a024-42db-835c-566558303bb2",
+      "c6b6c5b2-03f1-4c49-9884-5d3e05d7b180",
+      "e9f64972-2430-4302-a241-02a6207fc764",
+      "305be51b-4963-405e-8591-2122e90ba6a2",
+      "80652fa5-940e-42c2-90e2-72b1976d17d5",
+      "85c990a3-9032-49a4-bbae-90b0f68da092",
+      "eb976da5-fe3c-49f1-bfa2-920aebac7701",
+      "e5c2c278-fc02-4020-870c-cf94241681f6"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156108144,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "1b36c697-0278-458b-997a-65d72e2e43af",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207440895,
+    "parent_id": "b6e9fbb3-165c-4bcb-907e-469d86783aab",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "base64"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207427910,
+        "id": "32e734f7-99c0-46df-824c-f391f49a4c0b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207430397,
+        "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 181"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$Id: 181"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207430397,
+        "id": "7a1d374a-9d07-47f3-aed2-cc99aa2d0a89",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207432643,
+        "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 15705"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 15705"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207432643,
+        "id": "dff1dc5f-0810-4d1e-a018-27f0fe263561",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207434976,
+        "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Base64 encode and decode"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 27,
+        "inline_content": [
+          {
+            "Text": "Base64 encode and decode"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156108141,
+        "id": "792f8e9c-3efe-4275-9722-c41137766448",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156108141,
+        "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can encode a "
+            ],
+            [
+              "[]byte",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " into a "
+            ],
+            [
+              "string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and decode from "
+            ],
+            [
+              "string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " into "
+            ],
+            [
+              "[]byte",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can encode a "
+          },
+          {
+            "Text": "[]byte",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " into a "
+          },
+          {
+            "Text": "string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and decode from "
+          },
+          {
+            "Text": "string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " into "
+          },
+          {
+            "Text": "[]byte",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156108142,
+        "id": "e366d47c-a706-4cda-9085-81e7734183ae",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156108142,
+        "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file base64.go output sha1:ffc00d5cc31a71ad03f4157429df36714138ef55 goplayground:-6ZTG6fOfMx"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file base64.go output sha1:ffc00d5cc31a71ad03f4157429df36714138ef55 goplayground:-6ZTG6fOfMx"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156108142,
+        "id": "5cd33d20-a024-42db-835c-566558303bb2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156108142,
+        "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "URL-safe base64"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "URL-safe base64"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156108142,
+        "id": "c6b6c5b2-03f1-4c49-9884-5d3e05d7b180",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156108142,
+        "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Original base64 encoding unfortunately might produce characters that are not valid in urls."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Original base64 encoding unfortunately might produce characters that are not valid in urls."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156108142,
+        "id": "e9f64972-2430-4302-a241-02a6207fc764",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156108142,
+        "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Given that urls are important those days we have a variant of base64 encoding that doesn’t have that flaw:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Given that urls are important those days we have a variant of base64 encoding that doesn’t have that flaw:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156108142,
+        "id": "305be51b-4963-405e-8591-2122e90ba6a2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156108142,
+        "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file base64_urlsafe.go output sha1:4feacf35a6de39f974e187af0f019b2d7810333e goplayground:lZiY1VDCk52"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file base64_urlsafe.go output sha1:4feacf35a6de39f974e187af0f019b2d7810333e goplayground:lZiY1VDCk52"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156108143,
+        "id": "80652fa5-940e-42c2-90e2-72b1976d17d5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156108143,
+        "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Base64 encoding to writer, decoding from reader"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Base64 encoding to writer, decoding from reader"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156108143,
+        "id": "85c990a3-9032-49a4-bbae-90b0f68da092",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156108143,
+        "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For encoding and decoding larger values in streaming mode, we can encode to an "
+            ],
+            [
+              "io.Writer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and decode from "
+            ],
+            [
+              "io.Reader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For encoding and decoding larger values in streaming mode, we can encode to an "
+          },
+          {
+            "Text": "io.Writer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and decode from "
+          },
+          {
+            "Text": "io.Reader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156108144,
+        "id": "eb976da5-fe3c-49f1-bfa2-920aebac7701",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156108144,
+        "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file base64_streaming.go output sha1:69009501f5d7c707a737cb8e1ed82a357f373a35 goplayground:0dWCqOxiW9Y"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file base64_streaming.go output sha1:69009501f5d7c707a737cb8e1ed82a357f373a35 goplayground:0dWCqOxiW9Y"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207440895,
+        "id": "e5c2c278-fc02-4020-870c-cf94241681f6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207440895,
+        "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "base64",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

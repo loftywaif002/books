@@ -1,0 +1,305 @@
+{
+  "ID": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+  "Page": {
+    "alive": true,
+    "content": [
+      "41f82ef1-1fb7-4992-9d5b-0a544d6cf4ef",
+      "5f4ac101-2b43-4309-ac28-90964bfd2930",
+      "1edc9306-2df2-4789-b877-f8f0c717be88",
+      "acc4f9a6-b061-44d4-9b4a-770f4e935786",
+      "0e897d5d-92a2-4a23-aaf8-4bf19d2b19a9",
+      "6f4dd406-1572-47f8-b01c-fdc8e14a59e3",
+      "d89c8386-03b3-424d-abef-454211d007a0",
+      "b6ac68af-7c48-4b5f-a5cb-ff5e53a82edb",
+      "2c468f17-2393-4f47-98a5-496a5d70728e",
+      "66f805f5-8b60-4e57-b3da-e92fe0b64bdd"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156027135,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235784571,
+    "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "break and continue"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203489016,
+        "id": "41f82ef1-1fb7-4992-9d5b-0a544d6cf4ef",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235785224,
+        "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 103"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 103"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203490629,
+        "id": "5f4ac101-2b43-4309-ac28-90964bfd2930",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235786564,
+        "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203492364,
+        "id": "1edc9306-2df2-4789-b877-f8f0c717be88",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235787646,
+        "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 23401"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 23401"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203495620,
+        "id": "acc4f9a6-b061-44d4-9b4a-770f4e935786",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203495620,
+        "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203493956,
+        "id": "0e897d5d-92a2-4a23-aaf8-4bf19d2b19a9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203495381,
+        "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The break statement, on execution makes the current loop to force exit"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "The break statement, on execution makes the current loop to force exit"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156027134,
+        "id": "6f4dd406-1572-47f8-b01c-fdc8e14a59e3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203472563,
+        "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport \"fmt\"\n\nfunc main() {\n    i:=0\n    for true {\n        if i\u003e2 {\n        break\n        }\n    fmt.Println(\"Iteration : \",i)\n    i++\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport \"fmt\"\n\nfunc main() {\n    i:=0\n    for true {\n        if i\u003e2 {\n        break\n        }\n    fmt.Println(\"Iteration : \",i)\n    i++\n    }\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156027134,
+        "id": "d89c8386-03b3-424d-abef-454211d007a0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156027134,
+        "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The continue statement, on execution moves the control to the start of the loop"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The continue statement, on execution moves the control to the start of the loop"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156027134,
+        "id": "b6ac68af-7c48-4b5f-a5cb-ff5e53a82edb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203479145,
+        "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "import \"fmt\"\n\nfunc main() {\n    j:=100\n    for j\u003c110 {\n        j++\n        if j%2==0 {\n        continue\n        }\n    fmt.Println(\"Var : \",j)\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 5,
+        "code": "import \"fmt\"\n\nfunc main() {\n    j:=100\n    for j\u003c110 {\n        j++\n        if j%2==0 {\n        continue\n        }\n    fmt.Println(\"Var : \",j)\n    }\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156027135,
+        "id": "2c468f17-2393-4f47-98a5-496a5d70728e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156027135,
+        "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Break/continue loop inside switch"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Break/continue loop inside switch"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156027135,
+        "id": "66f805f5-8b60-4e57-b3da-e92fe0b64bdd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203484776,
+        "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "import \"fmt\"\n\nfunc main() {\n    j := 100\n\nloop:\n    for j \u003c 110 {\n        j++\n\n        switch j % 3 {\n        case 0:\n            continue loop\n        case 1:\n            break loop\n        }\n\n        fmt.Println(\"Var : \", j)\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "import \"fmt\"\n\nfunc main() {\n    j := 100\n\nloop:\n    for j \u003c 110 {\n        j++\n\n        switch j % 3 {\n        case 0:\n            continue loop\n        case 1:\n            break loop\n        }\n\n        fmt.Println(\"Var : \", j)\n    }\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "break and continue",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

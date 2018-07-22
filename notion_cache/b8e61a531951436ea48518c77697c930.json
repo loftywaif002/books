@@ -1,0 +1,650 @@
+{
+  "ID": "b8e61a53-1951-436e-a485-18c77697c930",
+  "Page": {
+    "alive": true,
+    "content": [
+      "1d8296f3-68da-4405-a0c0-59c93f49a6bb",
+      "fdfd3516-59a6-4743-b3ce-b8e09d4f8c5f",
+      "17e2d8b3-7ead-418b-8f7b-41ee1ccded73",
+      "5cd49b2d-c40d-4756-aa28-dd341b19c7ac",
+      "65aa95fd-5a0b-41e5-974c-87f8406df7dd",
+      "09ec83df-58d2-4feb-ba58-7c80cc90b221",
+      "0df33b65-d1fa-4609-943e-d51cbabbd4bd",
+      "68c5712b-94d2-42cc-bc72-4a504e76b573",
+      "21ed0534-1eac-45c4-899f-e067f7d82fb9",
+      "d039ad6a-92c3-4d8f-91b6-8fad9138d8fa",
+      "c7e88d22-6236-486b-a6dc-82d67d7942a4",
+      "213f4702-bbcd-477c-84d4-51ee3595c261",
+      "32343da3-b33c-43ed-aecf-24f4abdb37a2",
+      "28a784bc-229e-4627-ac94-1eb5456bf304",
+      "b11bc064-14a2-4d42-8d48-d6d9dcfc1bff",
+      "3ad926bd-c256-4554-9ce9-13a5137d9367",
+      "8703941f-5ae1-42c5-87da-2163ede6a845",
+      "6ce11a03-d9b4-439e-be72-2d39ef03e9cd"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156054135,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "b8e61a53-1951-436e-a485-18c77697c930",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236184378,
+    "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Defer basics"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205311835,
+        "id": "1d8296f3-68da-4405-a0c0-59c93f49a6bb",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236185315,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 129"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 129"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205313618,
+        "id": "fdfd3516-59a6-4743-b3ce-b8e09d4f8c5f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236186090,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 9429"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 9429"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205318241,
+        "id": "17e2d8b3-7ead-418b-8f7b-41ee1ccded73",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205318241,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205315967,
+        "id": "5cd49b2d-c40d-4756-aa28-dd341b19c7ac",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205318976,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statements marks a function to be executed at a later time."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statements marks a function to be executed at a later time."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156054131,
+        "id": "65aa95fd-5a0b-41e5-974c-87f8406df7dd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156054131,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Defer statement is an ordinary function call prefixed by the keyword "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Defer statement is an ordinary function call prefixed by the keyword "
+          },
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156054131,
+        "id": "09ec83df-58d2-4feb-ba58-7c80cc90b221",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205323777,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "defer someFunction()"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "defer someFunction()",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156054132,
+        "id": "0df33b65-d1fa-4609-943e-d51cbabbd4bd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156054132,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A deferred function is executed once the function that contains the "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statement returns. Actual call to the deferred function occurs when the enclosing function: - executes a return statement - falls off the end - panics"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A deferred function is executed once the function that contains the "
+          },
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statement returns. Actual call to the deferred function occurs when the enclosing function: - executes a return statement - falls off the end - panics"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156054132,
+        "id": "68c5712b-94d2-42cc-bc72-4a504e76b573",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156054132,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Example:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Example:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156054132,
+        "id": "21ed0534-1eac-45c4-899f-e067f7d82fb9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156054132,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file defer_basics.go output sha1:be9a912a829d01503ae29216159d5fc776fef713 goplayground:qDNfakDI7g6"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file defer_basics.go output sha1:be9a912a829d01503ae29216159d5fc776fef713 goplayground:qDNfakDI7g6"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156054132,
+        "id": "d039ad6a-92c3-4d8f-91b6-8fad9138d8fa",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156054132,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If a function has multiple deferred statements, they form a stack. The last "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is the first one to execute after the enclosing function returns, followed by subsequent calls to preceding "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "s in order (below example returns by causing a panic):"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If a function has multiple deferred statements, they form a stack. The last "
+          },
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is the first one to execute after the enclosing function returns, followed by subsequent calls to preceding "
+          },
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "s in order (below example returns by causing a panic):"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156054133,
+        "id": "c7e88d22-6236-486b-a6dc-82d67d7942a4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156054133,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file defer_basics2.go output allow_error sha1:dceece5d882d36b367ab82895afef4dd1f1e034c goplayground:DSIsTuR7ifw"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file defer_basics2.go output allow_error sha1:dceece5d882d36b367ab82895afef4dd1f1e034c goplayground:DSIsTuR7ifw"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156054133,
+        "id": "213f4702-bbcd-477c-84d4-51ee3595c261",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156054133,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Note that deferred functions have their arguments evaluated at the time "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " executes:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Note that deferred functions have their arguments evaluated at the time "
+          },
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " executes:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156054133,
+        "id": "32343da3-b33c-43ed-aecf-24f4abdb37a2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156054133,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file defer_basics3.go output sha1:c322cb89e29edc888998f53e0192537879bc6565 goplayground:cdlR5oUXrAs"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file defer_basics3.go output sha1:c322cb89e29edc888998f53e0192537879bc6565 goplayground:cdlR5oUXrAs"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156054133,
+        "id": "28a784bc-229e-4627-ac94-1eb5456bf304",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156054133,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If a function has named return values, a deferred anonymous function within that function can access and update the returned value even after the function has returned:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If a function has named return values, a deferred anonymous function within that function can access and update the returned value even after the function has returned:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156054133,
+        "id": "b11bc064-14a2-4d42-8d48-d6d9dcfc1bff",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156054133,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file defer_basics4.go output sha1:25e79d5067349dde1475059fac942d1e34977098 goplayground:FHb-GI09tOV"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file defer_basics4.go output sha1:25e79d5067349dde1475059fac942d1e34977098 goplayground:FHb-GI09tOV"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156054134,
+        "id": "3ad926bd-c256-4554-9ce9-13a5137d9367",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156054134,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Finally, a "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statement is generally used operations that often occur together. For example: - open and close a file - connect and disconnect - lock and unlock a mutex - mark a waitgroup as done ("
+            ],
+            [
+              "defer wg.Done()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ")"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Finally, a "
+          },
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statement is generally used operations that often occur together. For example: - open and close a file - connect and disconnect - lock and unlock a mutex - mark a waitgroup as done ("
+          },
+          {
+            "Text": "defer wg.Done()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ")"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156054134,
+        "id": "8703941f-5ae1-42c5-87da-2163ede6a845",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156054134,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This use ensures proper release of system resources irrespective of the flow of execution."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This use ensures proper release of system resources irrespective of the flow of execution."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156054135,
+        "id": "6ce11a03-d9b4-439e-be72-2d39ef03e9cd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205326969,
+        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "resp, err := http.Get(url)\nif err != nil {\nreturn err\n}\ndefer resp.Body.Close() // Body will always get closed"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "resp, err := http.Get(url)\nif err != nil {\nreturn err\n}\ndefer resp.Body.Close() // Body will always get closed",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Defer basics",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

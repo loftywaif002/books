@@ -1,0 +1,295 @@
+{
+  "ID": "94e7d8ad-c934-40e0-b356-9e56e32dcc22",
+  "Page": {
+    "alive": true,
+    "content": [
+      "2f332106-d11d-447a-8374-d1265a709246",
+      "fe1d7207-f89a-45a4-8cd3-8663b7146fac",
+      "c2bac9ed-feb8-4660-aeda-dc2309418718",
+      "c29c75ba-8f93-4d40-bfbc-4d862fef28ed",
+      "185be217-ffd4-49b9-91a8-1dbd5404a4ae",
+      "a3f2cf70-8853-456f-9cd8-2f4579ea035b",
+      "1c5168c6-7e45-46d8-b101-a232105b9895"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156159228,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "94e7d8ad-c934-40e0-b356-9e56e32dcc22",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532210762894,
+    "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Pointers"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210749757,
+        "id": "2f332106-d11d-447a-8374-d1265a709246",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210754927,
+        "parent_id": "94e7d8ad-c934-40e0-b356-9e56e32dcc22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 226"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 226"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210754927,
+        "id": "fe1d7207-f89a-45a4-8cd3-8663b7146fac",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210756711,
+        "parent_id": "94e7d8ad-c934-40e0-b356-9e56e32dcc22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 6073"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 6073"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210756711,
+        "id": "c2bac9ed-feb8-4660-aeda-dc2309418718",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210757384,
+        "parent_id": "94e7d8ad-c934-40e0-b356-9e56e32dcc22",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156159228,
+        "id": "c29c75ba-8f93-4d40-bfbc-4d862fef28ed",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156159228,
+        "parent_id": "94e7d8ad-c934-40e0-b356-9e56e32dcc22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A pointer to X is a distinct type from X."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A pointer to X is a distinct type from X."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156159228,
+        "id": "185be217-ffd4-49b9-91a8-1dbd5404a4ae",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156159228,
+        "parent_id": "94e7d8ad-c934-40e0-b356-9e56e32dcc22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If "
+            ],
+            [
+              "reflect.Value",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " references a pointer to a value, you can get a reference to the value by calling "
+            ],
+            [
+              "Elem()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If "
+          },
+          {
+            "Text": "reflect.Value",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " references a pointer to a value, you can get a reference to the value by calling "
+          },
+          {
+            "Text": "Elem()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156159228,
+        "id": "a3f2cf70-8853-456f-9cd8-2f4579ea035b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156159228,
+        "parent_id": "94e7d8ad-c934-40e0-b356-9e56e32dcc22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file pointers.go output sha1:ebc16630ecdaaa6b3075c27154f193423e43df38 goplayground:aXx2H0KaebD"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file pointers.go output sha1:ebc16630ecdaaa6b3075c27154f193423e43df38 goplayground:aXx2H0KaebD"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156159228,
+        "id": "1c5168c6-7e45-46d8-b101-a232105b9895",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156159228,
+        "parent_id": "94e7d8ad-c934-40e0-b356-9e56e32dcc22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Under the hood an interface is also a pointer to its underlying value so "
+            ],
+            [
+              "Elem()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " also works on "
+            ],
+            [
+              "reflect.Value",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " representing interface."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Under the hood an interface is also a pointer to its underlying value so "
+          },
+          {
+            "Text": "Elem()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " also works on "
+          },
+          {
+            "Text": "reflect.Value",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " representing interface."
+          }
+        ]
+      }
+    ],
+    "title": "Pointers",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,323 @@
+{
+  "ID": "e87a5c85-8718-4181-8bdb-00f2bcdb7c94",
+  "Page": {
+    "alive": true,
+    "content": [
+      "9efe116c-412a-48a6-bd9e-f507c0f1a3ef",
+      "27e3ef71-f422-4ddb-abc1-8a84b7e6c8f9",
+      "d19d89b9-5a05-4b64-a217-ef9cbb104e95",
+      "58c81fe0-9039-4769-83fd-55dcdf250094",
+      "ce246597-7bf2-4e0e-bd5b-673fb8d22dc1",
+      "b7e79d47-021c-4bb0-b887-ecf6bfdf0cd1",
+      "62b5ebea-630c-4d84-87dd-9f12756b330f",
+      "6593b0e5-4efe-44e8-833e-8aa9aef79ec0",
+      "7256cd5c-3404-4107-8042-2feaa7319c97",
+      "b3588ab1-569a-48aa-aa05-ddae145892a5"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156222145,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "e87a5c85-8718-4181-8bdb-00f2bcdb7c94",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213187340,
+    "parent_id": "d1980344-374d-45c0-82c9-14c2aafa50cf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Separate integration tests"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213172779,
+        "id": "9efe116c-412a-48a6-bd9e-f507c0f1a3ef",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213175548,
+        "parent_id": "e87a5c85-8718-4181-8bdb-00f2bcdb7c94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 274"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Id: 274"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213175548,
+        "id": "27e3ef71-f422-4ddb-abc1-8a84b7e6c8f9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213178206,
+        "parent_id": "e87a5c85-8718-4181-8bdb-00f2bcdb7c94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 2"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 2"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213178206,
+        "id": "d19d89b9-5a05-4b64-a217-ef9cbb104e95",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213180510,
+        "parent_id": "e87a5c85-8718-4181-8bdb-00f2bcdb7c94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 8607"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$SOId: 8607"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213182156,
+        "id": "58c81fe0-9039-4769-83fd-55dcdf250094",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213182156,
+        "parent_id": "e87a5c85-8718-4181-8bdb-00f2bcdb7c94",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213180510,
+        "id": "ce246597-7bf2-4e0e-bd5b-673fb8d22dc1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213181806,
+        "parent_id": "e87a5c85-8718-4181-8bdb-00f2bcdb7c94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Build constraints are commonly used to separate normal unit tests from integration tests that require external resources, like a database or network access. To do this, add a custom build constraint to the top of the test file:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Build constraints are commonly used to separate normal unit tests from integration tests that require external resources, like a database or network access. To do this, add a custom build constraint to the top of the test file:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156222144,
+        "id": "b7e79d47-021c-4bb0-b887-ecf6bfdf0cd1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213191604,
+        "parent_id": "e87a5c85-8718-4181-8bdb-00f2bcdb7c94",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// +build integration\n\npackage main\n\nimport (\n    \"testing\"\n)\n\nfunc TestThatRequiresNetworkAccess(t *testing.T) {\n    t.Fatal(\"It failed!\")\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// +build integration\n\npackage main\n\nimport (\n    \"testing\"\n)\n\nfunc TestThatRequiresNetworkAccess(t *testing.T) {\n    t.Fatal(\"It failed!\")\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156222144,
+        "id": "62b5ebea-630c-4d84-87dd-9f12756b330f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156222144,
+        "parent_id": "e87a5c85-8718-4181-8bdb-00f2bcdb7c94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The test file will not compile into the build executable unless the following invocation of "
+            ],
+            [
+              "go test",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is used:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The test file will not compile into the build executable unless the following invocation of "
+          },
+          {
+            "Text": "go test",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is used:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156222144,
+        "id": "6593b0e5-4efe-44e8-833e-8aa9aef79ec0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213197262,
+        "parent_id": "e87a5c85-8718-4181-8bdb-00f2bcdb7c94",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "go test -tags \"integration\""
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "go test -tags \"integration\"",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156222144,
+        "id": "7256cd5c-3404-4107-8042-2feaa7319c97",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156222144,
+        "parent_id": "e87a5c85-8718-4181-8bdb-00f2bcdb7c94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Results:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Results:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156222144,
+        "id": "b3588ab1-569a-48aa-aa05-ddae145892a5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213201821,
+        "parent_id": "e87a5c85-8718-4181-8bdb-00f2bcdb7c94",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ go test\n?       bitbucket.org/yourname/yourproject    [no test files]\n$ go test -tags \"integration\"\n--- FAIL: TestThatRequiresNetworkAccess (0.00s)\n        main_test.go:10: It failed!\nFAIL\nexit status 1\nFAIL    bitbucket.org/yourname/yourproject    0.003s"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "$ go test\n?       bitbucket.org/yourname/yourproject    [no test files]\n$ go test -tags \"integration\"\n--- FAIL: TestThatRequiresNetworkAccess (0.00s)\n        main_test.go:10: It failed!\nFAIL\nexit status 1\nFAIL    bitbucket.org/yourname/yourproject    0.003s",
+        "code_language": "Shell"
+      }
+    ],
+    "title": "Separate integration tests",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

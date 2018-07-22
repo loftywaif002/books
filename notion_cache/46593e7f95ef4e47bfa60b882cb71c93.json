@@ -1,0 +1,611 @@
+{
+  "ID": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+  "Page": {
+    "alive": true,
+    "content": [
+      "7de66a7b-fcd4-40e1-93cf-6d5addb59c2e",
+      "590a765c-4c3a-4b41-b290-1416f7964933",
+      "a36ccc40-0bc0-4a41-8e29-682bb0a0d553",
+      "268fb9e8-ba38-48aa-8469-5b8062aad0c7",
+      "5fe509bb-505b-4468-a22e-ae882f7d0f9f",
+      "0d54c980-2aa0-476b-bfa1-dbc1ef5de1f6",
+      "9c771756-402c-4252-b9e4-da71f4f60c69",
+      "0894976e-001c-4709-b993-3eeabaf8805a",
+      "5873c557-4bed-492e-b176-499d87e72fc8",
+      "303f1114-0b22-4c38-bdef-b0173a6a1ff3",
+      "8ec1eb5a-f54f-47f7-ac85-f32398dd4802",
+      "e960b4d5-d1a9-4f44-9a9e-38fc52464d87",
+      "a8f3ce3b-5b54-4fad-b182-3727c8dcf286",
+      "fa82b418-5475-4966-a554-708b38e38311",
+      "2daca7f7-0f3b-4ee2-ab55-07253ce7851f",
+      "d0976f3c-277e-4a6d-a8a3-3a066c1a6410"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156212134,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532212704990,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Developing for Multiple Platforms with Conditional Compiling"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 35,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212685116,
+        "id": "7de66a7b-fcd4-40e1-93cf-6d5addb59c2e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212687909,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 264"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 264"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212687909,
+        "id": "590a765c-4c3a-4b41-b290-1416f7964933",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212689846,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 8599"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 8599"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212691174,
+        "id": "a36ccc40-0bc0-4a41-8e29-682bb0a0d553",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212691174,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212689846,
+        "id": "268fb9e8-ba38-48aa-8469-5b8062aad0c7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212690915,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Platform based conditional compiling comes in two forms in Go, one is with file suffixes and the other is with build tags."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Platform based conditional compiling comes in two forms in Go, one is with file suffixes and the other is with build tags."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156212130,
+        "id": "5fe509bb-505b-4468-a22e-ae882f7d0f9f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156212130,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Syntax"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Syntax"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156212131,
+        "id": "0d54c980-2aa0-476b-bfa1-dbc1ef5de1f6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156212131,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "After “"
+            ],
+            [
+              "// +build",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "”, a single platform or a list can follow"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "After “"
+          },
+          {
+            "Text": "// +build",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "”, a single platform or a list can follow"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156212132,
+        "id": "9c771756-402c-4252-b9e4-da71f4f60c69",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156212132,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Platform can be reverted by preceding it by "
+            ],
+            [
+              "!",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " sign"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Platform can be reverted by preceding it by "
+          },
+          {
+            "Text": "!",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " sign"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156212132,
+        "id": "0894976e-001c-4709-b993-3eeabaf8805a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156212132,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "List of space separated platforms are ORed together"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "List of space separated platforms are ORed together"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156212132,
+        "id": "5873c557-4bed-492e-b176-499d87e72fc8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156212132,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Remarks"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Remarks"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156212132,
+        "id": "303f1114-0b22-4c38-bdef-b0173a6a1ff3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156212132,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Caveats for build tags:",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " * The "
+            ],
+            [
+              "// +build",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " constraint must be placed at the top of the file, even before package clause. * It must be followed by one blank line to separate from package comments."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Caveats for build tags:",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " * The "
+          },
+          {
+            "Text": "// +build",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " constraint must be placed at the top of the file, even before package clause. * It must be followed by one blank line to separate from package comments."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156212133,
+        "id": "8ec1eb5a-f54f-47f7-ac85-f32398dd4802",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156212133,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "List of valid platforms for both build tags and file suffixes"
+            ],
+            [
+              "android"
+            ],
+            [
+              "darwin"
+            ],
+            [
+              "dragonfly"
+            ],
+            [
+              "freebsd"
+            ],
+            [
+              "linux"
+            ],
+            [
+              "netbsd"
+            ],
+            [
+              "openbsd"
+            ],
+            [
+              "plan9"
+            ],
+            [
+              "solaris"
+            ],
+            [
+              "windows"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "List of valid platforms for both build tags and file suffixes"
+          },
+          {
+            "Text": "android"
+          },
+          {
+            "Text": "darwin"
+          },
+          {
+            "Text": "dragonfly"
+          },
+          {
+            "Text": "freebsd"
+          },
+          {
+            "Text": "linux"
+          },
+          {
+            "Text": "netbsd"
+          },
+          {
+            "Text": "openbsd"
+          },
+          {
+            "Text": "plan9"
+          },
+          {
+            "Text": "solaris"
+          },
+          {
+            "Text": "windows"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156212134,
+        "id": "e960b4d5-d1a9-4f44-9a9e-38fc52464d87",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156212134,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Refer to "
+            ],
+            [
+              "$GOOS",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " list in https://golang.org/doc/install/source#environment for the most up-to-date platform list."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Refer to "
+          },
+          {
+            "Text": "$GOOS",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " list in https://golang.org/doc/install/source#environment for the most up-to-date platform list."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212676558,
+        "id": "a8f3ce3b-5b54-4fad-b182-3727c8dcf286",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212676558,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156213165,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "fa82b418-5475-4966-a554-708b38e38311",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212729393,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Build tags"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Build tags",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156214187,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "2daca7f7-0f3b-4ee2-ab55-07253ce7851f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212773824,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "File suffix"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "File suffix",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156215176,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "d0976f3c-277e-4a6d-a8a3-3a066c1a6410",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212819153,
+        "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Defining separate behaviors in different platforms"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 30,
+        "title": "Defining separate behaviors in different platforms",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Developing for Multiple Platforms with Conditional Compiling",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

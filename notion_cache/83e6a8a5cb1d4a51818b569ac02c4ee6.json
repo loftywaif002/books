@@ -1,0 +1,689 @@
+{
+  "ID": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+  "Page": {
+    "alive": true,
+    "content": [
+      "f0ab01ef-205b-4738-b403-4e0fefc56929",
+      "eae6d433-c637-4700-a4ee-404831704593",
+      "b0419375-05cd-40d9-a73c-1c52600c2899",
+      "c8580c7f-ece1-4531-81d2-8fac6e1e4e30",
+      "c19cacf5-17eb-4fde-9761-c405e0ea8246",
+      "73452e64-b977-4eca-9526-831a3357faa0",
+      "9d23e79f-b022-4fdc-813c-2e0743a48db3",
+      "fcaa566e-fafa-4650-a8d5-2aa25dc2e02e",
+      "44cb4f38-4e6f-41a7-9267-6f427ecc0b4b",
+      "1e0b3732-f6dc-4033-89e9-f4c2c294ea80",
+      "cd21854f-7804-4570-bc4e-da2100f878dc",
+      "c593e488-cf0f-41a1-ad7e-66a7050493cf",
+      "d28e3c9e-393e-4896-8dea-a1d3d814ef69",
+      "9323f681-5aab-4c86-b7fa-ad4e21d60145",
+      "56963d9c-d2b7-429d-b428-8ba4b62f7ca4",
+      "f7ab4024-bf55-4c96-9363-d5f04913cbcb",
+      "ac3f010b-9b4a-471a-9102-30a80410c123",
+      "db777243-2ad0-457d-9373-3f1a910f37e3",
+      "54248adb-1672-4beb-ba34-0a785324ab21",
+      "adee59dc-ee1d-43c6-ba34-33564873ed6d"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155957132,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234286058,
+    "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Find string in another string"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195453481,
+        "id": "f0ab01ef-205b-4738-b403-4e0fefc56929",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234270833,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Search: searching for strings"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Search: searching for strings"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195455705,
+        "id": "eae6d433-c637-4700-a4ee-404831704593",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234286058,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 41 SOId: 30331"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$Id: 41 SOId: 30331"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957124,
+        "id": "b0419375-05cd-40d9-a73c-1c52600c2899",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234292588,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Find the position of a string within another string"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 25,
+        "inline_content": [
+          {
+            "Text": "Find the position of a string within another string"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957126,
+        "id": "c8580c7f-ece1-4531-81d2-8fac6e1e4e30",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234301889,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using "
+            ],
+            [
+              "strings.Index",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/strings/#Index"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "Using "
+          },
+          {
+            "Text": "strings.Index",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/strings/#Index"
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957126,
+        "id": "c19cacf5-17eb-4fde-9761-c405e0ea8246",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957126,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file finding_strings.go output sha1:a47b4a300ddca07351a2b42f7e66bd358f175ca5 goplayground:1c8V7OP6HJh"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file finding_strings.go output sha1:a47b4a300ddca07351a2b42f7e66bd358f175ca5 goplayground:1c8V7OP6HJh"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957126,
+        "id": "73452e64-b977-4eca-9526-831a3357faa0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957126,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Find the position of string within another string starting from the end"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Find the position of string within another string starting from the end"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957127,
+        "id": "9d23e79f-b022-4fdc-813c-2e0743a48db3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957127,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Above we searched from the beginning of the string. We can also search from the end using "
+            ],
+            [
+              "strings.LastIndex",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/strings/#LastIndex"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Above we searched from the beginning of the string. We can also search from the end using "
+          },
+          {
+            "Text": "strings.LastIndex",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/strings/#LastIndex"
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957127,
+        "id": "fcaa566e-fafa-4650-a8d5-2aa25dc2e02e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957127,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file finding_strings2.go output sha1:9fa45203c4ae55075c6b726b2692c813240971e9 goplayground:iyxoEzHw4p7"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file finding_strings2.go output sha1:9fa45203c4ae55075c6b726b2692c813240971e9 goplayground:iyxoEzHw4p7"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957127,
+        "id": "44cb4f38-4e6f-41a7-9267-6f427ecc0b4b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957127,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Find all occurrences of a substring"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Find all occurrences of a substring"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957127,
+        "id": "1e0b3732-f6dc-4033-89e9-f4c2c294ea80",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957127,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Above, we only found the first occurrence of the substring. Here’s how to find all occurrences:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Above, we only found the first occurrence of the substring. Here’s how to find all occurrences:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957127,
+        "id": "cd21854f-7804-4570-bc4e-da2100f878dc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957127,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file finding_strings3.go output sha1:cd32f1eaba4a825c9d36f6fe786dc760a3caa48e goplayground:C9VJxywxROJ"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file finding_strings3.go output sha1:cd32f1eaba4a825c9d36f6fe786dc760a3caa48e goplayground:C9VJxywxROJ"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957127,
+        "id": "c593e488-cf0f-41a1-ad7e-66a7050493cf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957127,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Check if a string contains another string"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Check if a string contains another string"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957128,
+        "id": "d28e3c9e-393e-4896-8dea-a1d3d814ef69",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957128,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using "
+            ],
+            [
+              "strings.Contains",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/strings/#Contains"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Using "
+          },
+          {
+            "Text": "strings.Contains",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/strings/#Contains"
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957128,
+        "id": "9323f681-5aab-4c86-b7fa-ad4e21d60145",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957128,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file finding_strings4.go output sha1:6615c90c15775f6f402a176ae0d6209f494cea77 goplayground:BSLr-qaYPvJ"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file finding_strings4.go output sha1:6615c90c15775f6f402a176ae0d6209f494cea77 goplayground:BSLr-qaYPvJ"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957128,
+        "id": "56963d9c-d2b7-429d-b428-8ba4b62f7ca4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957128,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Check if a string starts with another string"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Check if a string starts with another string"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957130,
+        "id": "f7ab4024-bf55-4c96-9363-d5f04913cbcb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957130,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using "
+            ],
+            [
+              "strings.HasPrefix",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/strings/#HasPrefix"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Using "
+          },
+          {
+            "Text": "strings.HasPrefix",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/strings/#HasPrefix"
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957130,
+        "id": "ac3f010b-9b4a-471a-9102-30a80410c123",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957130,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file finding_strings5.go output sha1:babb86fb2fbae4369e20ccc5239230d606280d66 goplayground:WgVWyWBQ_gu"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file finding_strings5.go output sha1:babb86fb2fbae4369e20ccc5239230d606280d66 goplayground:WgVWyWBQ_gu"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957131,
+        "id": "db777243-2ad0-457d-9373-3f1a910f37e3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957131,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Check if a string ends with another string"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Check if a string ends with another string"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957131,
+        "id": "54248adb-1672-4beb-ba34-0a785324ab21",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957131,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using "
+            ],
+            [
+              "strings.HasSuffix",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/strings/#HasSuffix"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Using "
+          },
+          {
+            "Text": "strings.HasSuffix",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/strings/#HasSuffix"
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155957132,
+        "id": "adee59dc-ee1d-43c6-ba34-33564873ed6d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155957132,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file finding_strings6.go output sha1:d183ea2089b304e519b217fbe51f5e4af1d8f6be goplayground:bZWDWmkNklX"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file finding_strings6.go output sha1:d183ea2089b304e519b217fbe51f5e4af1d8f6be goplayground:bZWDWmkNklX"
+          }
+        ]
+      }
+    ],
+    "title": "Find string in another string",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,671 @@
+{
+  "ID": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+  "Page": {
+    "alive": true,
+    "content": [
+      "3ad9422b-9cdd-43fa-ba86-de206d8ebc33",
+      "495e3208-2a9c-46f6-8ffb-de94d6055987",
+      "82668080-890a-4240-805f-3e799a3bc98b",
+      "fc7c6e5a-7db2-4d10-9282-60df783c8b3e",
+      "e0d44f9f-a3b6-48c1-aca5-c9b04ced394c",
+      "8db94f0b-2297-49e8-bb86-20792975d53e",
+      "9cbe51c0-a63f-4780-9e52-c2c149515c06",
+      "7f9e1fa0-3122-4c3c-a8d2-ec422dd48ba8",
+      "583d3e57-7342-49f0-a396-20d8c1d120b1",
+      "91e3a724-9746-4607-96f0-12195cda665a",
+      "f0aaab46-1f7b-4339-afd4-263195db4375",
+      "94a5e610-6480-4a1a-883d-8d4d204c747a",
+      "28c5b67c-ab8e-4e73-afd7-48a7395b49ac",
+      "853133ff-5c71-4332-b1ea-56ff9d1706bc",
+      "fe7ad65d-718e-4fc0-aff8-4579c1b9a1da",
+      "0614a462-2a97-440e-b89b-c829d59e8d37",
+      "4c8b9880-2312-4d78-8137-a8519861ce3e"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156103128,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207270023,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Executing commands"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 27,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207246559,
+        "id": "3ad9422b-9cdd-43fa-ba86-de206d8ebc33",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207252367,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Search: Start process, execute process"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Search: Start process, execute process"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207248990,
+        "id": "495e3208-2a9c-46f6-8ffb-de94d6055987",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207253830,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 176"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 176"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207253830,
+        "id": "82668080-890a-4240-805f-3e799a3bc98b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207257933,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1097"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1097"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207260484,
+        "id": "fc7c6e5a-7db2-4d10-9282-60df783c8b3e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207260484,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207257933,
+        "id": "e0d44f9f-a3b6-48c1-aca5-c9b04ced394c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207259158,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Package "
+            ],
+            [
+              "exec",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in standard library is a cross-platform way to launch processes, capture their output and more."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Package "
+          },
+          {
+            "Text": "exec",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in standard library is a cross-platform way to launch processes, capture their output and more."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156103124,
+        "id": "8db94f0b-2297-49e8-bb86-20792975d53e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156103124,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Basic command execution"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Basic command execution"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156103125,
+        "id": "9cbe51c0-a63f-4780-9e52-c2c149515c06",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156103125,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The simplest usage is: * create "
+            ],
+            [
+              "exec.Cmd",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " struct using "
+            ],
+            [
+              "exec.Command(exe string, args ...string)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " * call "
+            ],
+            [
+              "cmd.CombinedOutput()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to execute the cmd and get combined stdout and stderr * to get only stdout, call "
+            ],
+            [
+              "cmd.Output()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The simplest usage is: * create "
+          },
+          {
+            "Text": "exec.Cmd",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " struct using "
+          },
+          {
+            "Text": "exec.Command(exe string, args ...string)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " * call "
+          },
+          {
+            "Text": "cmd.CombinedOutput()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to execute the cmd and get combined stdout and stderr * to get only stdout, call "
+          },
+          {
+            "Text": "cmd.Output()",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156103125,
+        "id": "7f9e1fa0-3122-4c3c-a8d2-ec422dd48ba8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156103125,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index.go output noplayground"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156103126,
+        "id": "583d3e57-7342-49f0-a396-20d8c1d120b1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156103126,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "More advanced command execution"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "More advanced command execution"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156103126,
+        "id": "91e3a724-9746-4607-96f0-12195cda665a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156103126,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index2.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index2.go output noplayground"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156103126,
+        "id": "f0aaab46-1f7b-4339-afd4-263195db4375",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156103126,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is functionally the same as the above example but we use a more fine-grained control."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is functionally the same as the above example but we use a more fine-grained control."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156103126,
+        "id": "94a5e610-6480-4a1a-883d-8d4d204c747a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156103126,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We capture stdout and stderr of the process by setting "
+            ],
+            [
+              "cmd.Stdout",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "cmd.Stderr",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to a memory-backed "
+            ],
+            [
+              "io.Writer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We capture stdout and stderr of the process by setting "
+          },
+          {
+            "Text": "cmd.Stdout",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "cmd.Stderr",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to a memory-backed "
+          },
+          {
+            "Text": "io.Writer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156103127,
+        "id": "28c5b67c-ab8e-4e73-afd7-48a7395b49ac",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156103127,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "cmd.Start()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "starts command as new OS process. It executes concurrently with our code, as OS processes do."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "cmd.Start()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "starts command as new OS process. It executes concurrently with our code, as OS processes do."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156103128,
+        "id": "853133ff-5c71-4332-b1ea-56ff9d1706bc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156103128,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We need to call "
+            ],
+            [
+              "cmd.Wait()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to wait for the process to finish. To prevent waiting infinitely, you might want to add a "
+            ],
+            [
+              "timeout",
+              [
+                [
+                  "a",
+                  "177"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We need to call "
+          },
+          {
+            "Text": "cmd.Wait()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to wait for the process to finish. To prevent waiting infinitely, you might want to add a "
+          },
+          {
+            "Text": "timeout",
+            "Link": "177"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207240418,
+        "id": "fe7ad65d-718e-4fc0-aff8-4579c1b9a1da",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207240418,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156104244,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "0614a462-2a97-440e-b89b-c829d59e8d37",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207296670,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Timing out process execution"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Timing out process execution",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156105215,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "4c8b9880-2312-4d78-8137-a8519861ce3e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207323939,
+        "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "os.Exec gotchas"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "os.Exec gotchas",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Executing commands",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

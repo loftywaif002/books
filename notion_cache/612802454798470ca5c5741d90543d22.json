@@ -1,0 +1,644 @@
+{
+  "ID": "61280245-4798-470c-a5c5-741d90543d22",
+  "Page": {
+    "alive": true,
+    "content": [
+      "d51934e1-5d6c-4e81-8a19-0436c53518db",
+      "5dfc0c2a-b69d-45fd-8e98-8524ac34b686",
+      "2797283f-5b68-42c3-9d5c-06558bad76c6",
+      "d1b02ada-12cb-424a-bf4d-46f1864d301e",
+      "afbcb9b2-f64b-48ed-9a6a-d3da53bbbdf6",
+      "daf9c280-9553-4fce-b911-5a3df46ea527",
+      "af594db6-04b4-44a7-9df5-2033a6076b0a",
+      "b9dcb8f4-2c6b-4700-8f1f-d4614d5dfac4",
+      "280df60a-4bc2-46e4-b84e-38ead2501d28",
+      "b508b3db-42f5-4faf-98bd-a4a7503f5ae0",
+      "c5f5ee87-60b7-465e-9697-34239b08e612",
+      "5671e408-54c3-4373-8871-639d8a79f5f0",
+      "4eb5f7b0-ca13-4959-97e6-24a6639d3eea",
+      "5c99711b-5d2b-467d-85fe-082b1bef3268",
+      "77543968-7898-4e2d-9b43-49bd8f5378c9",
+      "fc4cf2bb-9b23-45a9-a9fe-53b4ed65ae12",
+      "874f1219-69c1-49f0-9a56-9e0b6c193a2a",
+      "d13e7080-e486-4752-9c8d-1df80e82951e",
+      "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156003300,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "61280245-4798-470c-a5c5-741d90543d22",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532233809578,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Structs"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 30,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196799296,
+        "id": "d51934e1-5d6c-4e81-8a19-0436c53518db",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233810636,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 80"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 80"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196801415,
+        "id": "5dfc0c2a-b69d-45fd-8e98-8524ac34b686",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233811449,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 374"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 374"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196803668,
+        "id": "2797283f-5b68-42c3-9d5c-06558bad76c6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196803683,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156003296,
+        "id": "d1b02ada-12cb-424a-bf4d-46f1864d301e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156003296,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A struct groups related variables into a single entity."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A struct groups related variables into a single entity."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156003297,
+        "id": "afbcb9b2-f64b-48ed-9a6a-d3da53bbbdf6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156003297,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Additionally, structs can have methods, similar to classes in C++ or Java."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Additionally, structs can have methods, similar to classes in C++ or Java."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156003299,
+        "id": "daf9c280-9553-4fce-b911-5a3df46ea527",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235297578,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Unlike classes in C++ or Java, structs don’t implement inheritance. You can achieve some of the code re-use with "
+            ],
+            [
+              "struct embedding",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Composition-and-embedding-5c99711b5d2b467d85fe082b1bef3268"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Unlike classes in C++ or Java, structs don’t implement inheritance. You can achieve some of the code re-use with "
+          },
+          {
+            "Text": "struct embedding",
+            "Link": "https://www.notion.so/kjkpublic/Composition-and-embedding-5c99711b5d2b467d85fe082b1bef3268"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156003299,
+        "id": "af594db6-04b4-44a7-9df5-2033a6076b0a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235310331,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of "
+            ],
+            [
+              "struct",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a struct whose fields are set to their respective zero values."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of "
+          },
+          {
+            "Text": "struct",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a struct whose fields are set to their respective zero values."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156003299,
+        "id": "b9dcb8f4-2c6b-4700-8f1f-d4614d5dfac4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156003299,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Basics of structs:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Basics of structs:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156003299,
+        "id": "280df60a-4bc2-46e4-b84e-38ead2501d28",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156003299,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index.go output sha1:c886c9f347e340614c5a903c68b3a586d0f448df goplayground:9KlRF2XbUbG"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index.go output sha1:c886c9f347e340614c5a903c68b3a586d0f448df goplayground:9KlRF2XbUbG"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196793305,
+        "id": "b508b3db-42f5-4faf-98bd-a4a7503f5ae0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196793305,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156004155,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "c5f5ee87-60b7-465e-9697-34239b08e612",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235324918,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Basic declaration"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Basic declaration",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156005236,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "5671e408-54c3-4373-8871-639d8a79f5f0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235331374,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Struct literals"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Struct literals",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156006154,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "4eb5f7b0-ca13-4959-97e6-24a6639d3eea",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235358665,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Anonymous structs"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Anonymous structs",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156007799,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235365389,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Composition and embedding"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Composition and embedding",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156009202,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "77543968-7898-4e2d-9b43-49bd8f5378c9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235381692,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Exported vs. unexported fields (private vs public)"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Exported vs. unexported fields (private vs public)",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156010496,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "fc4cf2bb-9b23-45a9-a9fe-53b4ed65ae12",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235446576,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Tags"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Tags",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156011264,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "874f1219-69c1-49f0-9a56-9e0b6c193a2a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235451888,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Duplicate a struct (make a copy)"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Duplicate a struct (make a copy)",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156012190,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "d13e7080-e486-4752-9c8d-1df80e82951e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235459071,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Empty struct"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Empty struct",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156013132,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235469230,
+        "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Methods"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Methods",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Structs",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

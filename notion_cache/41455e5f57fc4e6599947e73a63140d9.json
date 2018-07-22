@@ -1,0 +1,223 @@
+{
+  "ID": "41455e5f-57fc-4e65-9994-7e73a63140d9",
+  "Page": {
+    "alive": true,
+    "content": [
+      "a747336e-1f11-436b-9102-742567e4194d",
+      "d9a9a321-f400-4d05-add3-4e93696095f2",
+      "1885bf45-42c4-44f6-bb80-809efb3f041e",
+      "64760390-e888-4143-b308-6236adcd1b38",
+      "934d5fb9-8a67-41ae-9a39-45ad6ddbd5e0",
+      "6a068a87-b50a-48a9-a5e6-1865f4568f7c",
+      "761e1107-a3a5-4fa3-bf45-7ec15c407f5b"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156236154,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "41455e5f-57fc-4e65-9994-7e73a63140d9",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213809041,
+    "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Pointer Vs Value receiver"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213793702,
+        "id": "a747336e-1f11-436b-9102-742567e4194d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213810146,
+        "parent_id": "41455e5f-57fc-4e65-9994-7e73a63140d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 286"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 286"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213796305,
+        "id": "d9a9a321-f400-4d05-add3-4e93696095f2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213811361,
+        "parent_id": "41455e5f-57fc-4e65-9994-7e73a63140d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213797978,
+        "id": "1885bf45-42c4-44f6-bb80-809efb3f041e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213812034,
+        "parent_id": "41455e5f-57fc-4e65-9994-7e73a63140d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 27428"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 27428"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213801464,
+        "id": "64760390-e888-4143-b308-6236adcd1b38",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213801464,
+        "parent_id": "41455e5f-57fc-4e65-9994-7e73a63140d9",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213799760,
+        "id": "934d5fb9-8a67-41ae-9a39-45ad6ddbd5e0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213801939,
+        "parent_id": "41455e5f-57fc-4e65-9994-7e73a63140d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The receiver of a method is usually a pointer for performance reason because we wouldn’t make a copy of the instance, as it would be the case in value receiver, this is especially true if the receiver type is a struct. another reason to make the receiver type a pointer would be so we could modify the data the receiver points to."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "The receiver of a method is usually a pointer for performance reason because we wouldn’t make a copy of the instance, as it would be the case in value receiver, this is especially true if the receiver type is a struct. another reason to make the receiver type a pointer would be so we could modify the data the receiver points to."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156236154,
+        "id": "6a068a87-b50a-48a9-a5e6-1865f4568f7c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156236154,
+        "parent_id": "41455e5f-57fc-4e65-9994-7e73a63140d9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "a value receiver is used to avoid modification of the data the receiver contains, a value receiver may cause a performance hit if the receiver is a large struct."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "a value receiver is used to avoid modification of the data the receiver contains, a value receiver may cause a performance hit if the receiver is a large struct."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156236154,
+        "id": "761e1107-a3a5-4fa3-bf45-7ec15c407f5b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213817550,
+        "parent_id": "41455e5f-57fc-4e65-9994-7e73a63140d9",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\ntype User struct {\n    ID uint64\n    FullName, Email string\n}\n\n// We do no require any special syntax to access field because receiver is a pointer\nfunc (user *User) SendEmail(email string) {\n    fmt.Printf(\"Sent email to: %s\\n\", user.Email)\n}\n\n// ChangeMail will modify the users email because the receiver type is a ponter\nfunc (user *User) ChangeEmail(email string) {\n    user.Email = email;\n}\n\nfunc main() {\n    user := User{\n        1,\n        \"Zelalem Mekonen\",\n        \"zola.mk.27@gmail.com\",\n    }\n\n    user.SendEmail(\"Hello\") // Sent email to: zola.mk.27@gmail.com\n\n    user.ChangeEmail(\"zola@gmail.com\")\n\n    fmt.Println(user.Email) // zola@gmail.com\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\ntype User struct {\n    ID uint64\n    FullName, Email string\n}\n\n// We do no require any special syntax to access field because receiver is a pointer\nfunc (user *User) SendEmail(email string) {\n    fmt.Printf(\"Sent email to: %s\\n\", user.Email)\n}\n\n// ChangeMail will modify the users email because the receiver type is a ponter\nfunc (user *User) ChangeEmail(email string) {\n    user.Email = email;\n}\n\nfunc main() {\n    user := User{\n        1,\n        \"Zelalem Mekonen\",\n        \"zola.mk.27@gmail.com\",\n    }\n\n    user.SendEmail(\"Hello\") // Sent email to: zola.mk.27@gmail.com\n\n    user.ChangeEmail(\"zola@gmail.com\")\n\n    fmt.Println(user.Email) // zola@gmail.com\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Pointer Vs Value receiver",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

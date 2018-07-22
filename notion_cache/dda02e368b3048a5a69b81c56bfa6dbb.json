@@ -1,0 +1,656 @@
+{
+  "ID": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+  "Page": {
+    "alive": true,
+    "content": [
+      "50d7f204-0c57-4927-9590-683b28b6344b",
+      "e248d466-788e-4ab1-a34a-d05c5df31e5c",
+      "76569f66-4e86-454d-b475-0e2d423d99ae",
+      "cc38217a-22ab-4678-be87-990d62dd1ee2",
+      "ad8665c7-db7d-4d2a-b881-c03eac77096a",
+      "7087fb1d-5d84-42df-ae0b-aa703133a5d8",
+      "f21f8ba3-646d-4163-9685-2ad637c262a6",
+      "28370587-d57d-4c50-b77c-f30e16803c43",
+      "a6338aca-1fab-4aea-a969-0bcb4721fb2f",
+      "bbaf8051-46c3-4199-8737-8a3d8fdc89a2",
+      "774d38a2-8137-4150-9fdb-ba620d1aaf34",
+      "1ad4235b-3181-412e-8169-3d968f399897",
+      "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+      "b1c01148-435b-4774-850c-16e17a2784ab",
+      "bd92a13d-b39e-42d5-9cf9-f7ee654cebce",
+      "f671702c-378f-4a9c-a444-1d5753274bec"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156056195,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236245161,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Panic and recover"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 31,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205396735,
+        "id": "50d7f204-0c57-4927-9590-683b28b6344b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236206537,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Search: exception handling"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Search: exception handling"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205399175,
+        "id": "e248d466-788e-4ab1-a34a-d05c5df31e5c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236207825,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 131"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 131"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205401877,
+        "id": "76569f66-4e86-454d-b475-0e2d423d99ae",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236208875,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4350"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4350"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205404646,
+        "id": "cc38217a-22ab-4678-be87-990d62dd1ee2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205404646,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205403511,
+        "id": "ad8665c7-db7d-4d2a-b881-c03eac77096a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205404408,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This chapter assumes knowledge of "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "a",
+                  "128"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "This chapter assumes knowledge of "
+          },
+          {
+            "Text": "defer",
+            "Link": "128"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156056193,
+        "id": "7087fb1d-5d84-42df-ae0b-aa703133a5d8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156056193,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go "
+            ],
+            [
+              "panic",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "recover",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " are technically similar to exception handling in languages like C#, Java or Python."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In Go "
+          },
+          {
+            "Text": "panic",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "recover",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " are technically similar to exception handling in languages like C#, Java or Python."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156056193,
+        "id": "f21f8ba3-646d-4163-9685-2ad637c262a6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156056193,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "panic",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is equivalent of "
+            ],
+            [
+              "throw",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "raise",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "recover",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " fills the role of "
+            ],
+            [
+              "catch",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "panic",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is equivalent of "
+          },
+          {
+            "Text": "throw",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "raise",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "recover",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " fills the role of "
+          },
+          {
+            "Text": "catch",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156056194,
+        "id": "28370587-d57d-4c50-b77c-f30e16803c43",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156056194,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "However, while those other languages often use exception handling for flow control, as a way to propagate errors up the call chain, using "
+            ],
+            [
+              "panic",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in Go is highly discouraged."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "However, while those other languages often use exception handling for flow control, as a way to propagate errors up the call chain, using "
+          },
+          {
+            "Text": "panic",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in Go is highly discouraged."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156056194,
+        "id": "a6338aca-1fab-4aea-a969-0bcb4721fb2f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236228474,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It should only be used in "
+            ],
+            [
+              "truly exceptional cases",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Panic-use-cases-bd92a13db39e42d59cf9f7ee654cebce"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "It should only be used in "
+          },
+          {
+            "Text": "truly exceptional cases",
+            "Link": "https://www.notion.so/kjkpublic/Panic-use-cases-bd92a13db39e42d59cf9f7ee654cebce"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156056195,
+        "id": "bbaf8051-46c3-4199-8737-8a3d8fdc89a2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236243076,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For ordinary error handling, read chapter on "
+            ],
+            [
+              "error handling",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Error-handling-39927eb13c11419492e67e9fd5328d8b"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "For ordinary error handling, read chapter on "
+          },
+          {
+            "Text": "error handling",
+            "Link": "https://www.notion.so/kjkpublic/Error-handling-39927eb13c11419492e67e9fd5328d8b"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205390250,
+        "id": "774d38a2-8137-4150-9fdb-ba620d1aaf34",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205390250,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156057144,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "1ad4235b-3181-412e-8169-3d968f399897",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236249915,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Panic"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Panic",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156058104,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236256584,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Recover"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Recover",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156059185,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "b1c01148-435b-4774-850c-16e17a2784ab",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236263802,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Recovering from panic"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Recovering from panic",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156060191,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "bd92a13d-b39e-42d5-9cf9-f7ee654cebce",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236272320,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Panic use cases"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Panic use cases",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532236245161,
+        "id": "f671702c-378f-4a9c-a444-1d5753274bec",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236245161,
+        "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Panic and recover",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

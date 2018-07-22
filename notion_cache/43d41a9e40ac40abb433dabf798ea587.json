@@ -1,0 +1,377 @@
+{
+  "ID": "43d41a9e-40ac-40ab-b433-dabf798ea587",
+  "Page": {
+    "alive": true,
+    "content": [
+      "f9f0a333-f28d-4c31-846b-1e6b1b844364",
+      "78aee315-4797-41fa-bf4a-cdf4a95d4867",
+      "f7f5d4c6-81cb-4c5a-89c1-dd4fab3cdee5",
+      "af13f246-e340-4992-93e7-6ab50a552748",
+      "998f15ab-3ff1-4010-b2d5-a0fe8b92b325",
+      "9b1128de-aeaa-4e84-8870-19f3ff06611b",
+      "32629feb-7b21-45cf-bc33-b85941f122f6",
+      "bd18b59f-188a-4680-a865-dc8a34f94f8c",
+      "dcbb4e20-a3da-4954-910e-8568f42b81d2",
+      "6a479a95-e789-4e3b-aae8-ea75e1446590",
+      "86febe28-84ea-47c8-9f0e-f2d41db8acec",
+      "1e1a53bd-9c1f-43d6-8240-ed564fbd15e9"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155955176,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "43d41a9e-40ac-40ab-b433-dabf798ea587",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532233438570,
+    "parent_id": "cb80712d-ca75-45da-8e0b-20762c637409",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Emulating enums"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195305041,
+        "id": "f9f0a333-f28d-4c31-846b-1e6b1b844364",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233439507,
+        "parent_id": "43d41a9e-40ac-40ab-b433-dabf798ea587",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 39"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 39"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195307085,
+        "id": "78aee315-4797-41fa-bf4a-cdf4a95d4867",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233440486,
+        "parent_id": "43d41a9e-40ac-40ab-b433-dabf798ea587",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 801000c4"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 801000c4"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195310320,
+        "id": "f7f5d4c6-81cb-4c5a-89c1-dd4fab3cdee5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195310332,
+        "parent_id": "43d41a9e-40ac-40ab-b433-dabf798ea587",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155955172,
+        "id": "af13f246-e340-4992-93e7-6ab50a552748",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155955172,
+        "parent_id": "43d41a9e-40ac-40ab-b433-dabf798ea587",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go doesn’t have a syntax for enumerations, but you can emulate it with constants and a naming scheme."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go doesn’t have a syntax for enumerations, but you can emulate it with constants and a naming scheme."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155955173,
+        "id": "998f15ab-3ff1-4010-b2d5-a0fe8b92b325",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155955173,
+        "parent_id": "43d41a9e-40ac-40ab-b433-dabf798ea587",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Consider a C++ enum:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Consider a C++ enum:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155955173,
+        "id": "9b1128de-aeaa-4e84-8870-19f3ff06611b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195314015,
+        "parent_id": "43d41a9e-40ac-40ab-b433-dabf798ea587",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Java/C/C++/C#"
+            ]
+          ],
+          "title": [
+            [
+              "enum {\n    tagHtml,\n    tagBody,\n    taDiv\n};"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "enum {\n    tagHtml,\n    tagBody,\n    taDiv\n};",
+        "code_language": "Java/C/C++/C#"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155955174,
+        "id": "32629feb-7b21-45cf-bc33-b85941f122f6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155955174,
+        "parent_id": "43d41a9e-40ac-40ab-b433-dabf798ea587",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go you can do it as:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In Go you can do it as:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155955174,
+        "id": "bd18b59f-188a-4680-a865-dc8a34f94f8c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195316469,
+        "parent_id": "43d41a9e-40ac-40ab-b433-dabf798ea587",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "const (\n    tagBody = iota,\n    tagDiv\n    tagHr\n)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "const (\n    tagBody = iota,\n    tagDiv\n    tagHr\n)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155955174,
+        "id": "dcbb4e20-a3da-4954-910e-8568f42b81d2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155955174,
+        "parent_id": "43d41a9e-40ac-40ab-b433-dabf798ea587",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Adding type safety"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Adding type safety"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155955175,
+        "id": "6a479a95-e789-4e3b-aae8-ea75e1446590",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155955175,
+        "parent_id": "43d41a9e-40ac-40ab-b433-dabf798ea587",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In the above example "
+            ],
+            [
+              "tagBody",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " etc. is an untyped constant so it can be assigned to any number type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In the above example "
+          },
+          {
+            "Text": "tagBody",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " etc. is an untyped constant so it can be assigned to any number type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155955176,
+        "id": "86febe28-84ea-47c8-9f0e-f2d41db8acec",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155955176,
+        "parent_id": "43d41a9e-40ac-40ab-b433-dabf798ea587",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can define a unique type for our enum:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can define a unique type for our enum:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155955176,
+        "id": "1e1a53bd-9c1f-43d6-8240-ed564fbd15e9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195320149,
+        "parent_id": "43d41a9e-40ac-40ab-b433-dabf798ea587",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type HTMLTag int\n\nconst (\n    tagBody HTMLTag = iota,\n    tagDiv\n    tagHr\n)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type HTMLTag int\n\nconst (\n    tagBody HTMLTag = iota,\n    tagDiv\n    tagHr\n)",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Emulating enums",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

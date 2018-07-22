@@ -1,0 +1,1082 @@
+{
+  "ID": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+  "Page": {
+    "alive": true,
+    "content": [
+      "e32f5ecf-a3b1-4ae4-bc74-fce455ed1278",
+      "e0d654aa-ff60-48a1-9958-9e7f30dbfd63",
+      "e4bb1d49-5826-4a9c-887f-49f77317b6df",
+      "7ee68c79-762a-4f15-8840-0a826cc1bbdc",
+      "e470131e-f46d-4ddd-99d0-4e0f3b748ac8",
+      "5492c660-441d-4066-9c33-613c67304072",
+      "77f96041-2817-4765-b6ba-52d01321782e",
+      "2939be12-2f2d-439b-89a3-ba2ec56d625b",
+      "abb3c86e-c5cb-45a0-a592-659fd8cf1edb",
+      "5492d1af-2d00-4cfe-a795-342c8e39836f",
+      "3b6467fb-3303-409f-bfc5-a79b8b6796da",
+      "91679ab1-231a-49b9-a83a-205f6d4bcf93",
+      "9e99b1f1-ea8f-4fee-9e78-a050ebfdc759",
+      "862004d5-dac7-414d-9ea4-6d913a005a5a",
+      "8ac60c66-b895-4024-b408-9efb9b054475",
+      "34e3ebdb-af93-4250-a0da-dbbf7f8ca8b5",
+      "e85e92e3-3d1a-4451-9525-4430a395fe88",
+      "a54175ac-6929-4ac9-966f-2681c030d8b3",
+      "27c39d37-3036-4348-b62d-79d7f2345865",
+      "e53d40c9-fbac-46e0-8e0d-9497e1b11c65",
+      "33f3da12-0fdf-4acc-8475-1986d873db86",
+      "aaa5fadf-c27b-41dd-9d09-d63af55728d2",
+      "915208b1-1076-4e46-91a9-344a974fe93d"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156140032,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532208745547,
+    "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "3 ways of doing HTTP requests"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208732629,
+        "id": "e32f5ecf-a3b1-4ae4-bc74-fce455ed1278",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208736352,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 205"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$Id: 205"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208736352,
+        "id": "e0d654aa-ff60-48a1-9958-9e7f30dbfd63",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208738361,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 801000d0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 801000d0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208739640,
+        "id": "e4bb1d49-5826-4a9c-887f-49f77317b6df",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208739640,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208738361,
+        "id": "7ee68c79-762a-4f15-8840-0a826cc1bbdc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208739449,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Package "
+            ],
+            [
+              "net/http",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " has a layered design where each layer is a convenience wrapper on top of a lower layer."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Package "
+          },
+          {
+            "Text": "net/http",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " has a layered design where each layer is a convenience wrapper on top of a lower layer."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140024,
+        "id": "e470131e-f46d-4ddd-99d0-4e0f3b748ac8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140024,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Each lower layer is more complex but offers more control."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Each lower layer is more complex but offers more control."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140025,
+        "id": "5492c660-441d-4066-9c33-613c67304072",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140025,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here’s a recap of 3 ways of doing an HTTP GET request."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Here’s a recap of 3 ways of doing an HTTP GET request."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140025,
+        "id": "77f96041-2817-4765-b6ba-52d01321782e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140025,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Use "
+            ],
+            [
+              "http.Get()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Use "
+          },
+          {
+            "Text": "http.Get()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140025,
+        "id": "2939be12-2f2d-439b-89a3-ba2ec56d625b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140025,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using top-level "
+            ],
+            [
+              "http.Get()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function is the simplest but not recommended due to lack of timeouts."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Using top-level "
+          },
+          {
+            "Text": "http.Get()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function is the simplest but not recommended due to lack of timeouts."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140025,
+        "id": "abb3c86e-c5cb-45a0-a592-659fd8cf1edb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140025,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Use "
+            ],
+            [
+              "http.Client.Get()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " method"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Use "
+          },
+          {
+            "Text": "http.Client.Get()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " method"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140027,
+        "id": "5492d1af-2d00-4cfe-a795-342c8e39836f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140027,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "create "
+            ],
+            [
+              "*http.Client",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " with "
+            ],
+            [
+              "\u0026http.Client{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "create "
+          },
+          {
+            "Text": "*http.Client",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " with "
+          },
+          {
+            "Text": "\u0026http.Client{}",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140027,
+        "id": "3b6467fb-3303-409f-bfc5-a79b8b6796da",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140027,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "set appropriate "
+            ],
+            [
+              "Timeout",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "set appropriate "
+          },
+          {
+            "Text": "Timeout",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140028,
+        "id": "91679ab1-231a-49b9-a83a-205f6d4bcf93",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140028,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "use its "
+            ],
+            [
+              "Get()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "Post()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "PostForm()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " methods"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "use its "
+          },
+          {
+            "Text": "Get()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "Post()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "PostForm()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " methods"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140028,
+        "id": "9e99b1f1-ea8f-4fee-9e78-a050ebfdc759",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140028,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Use "
+            ],
+            [
+              "http.Client.Do()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " method"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Use "
+          },
+          {
+            "Text": "http.Client.Do()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " method"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140028,
+        "id": "862004d5-dac7-414d-9ea4-6d913a005a5a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140028,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This allows the greatest control over the request."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This allows the greatest control over the request."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140028,
+        "id": "8ac60c66-b895-4024-b408-9efb9b054475",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140028,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "create "
+            ],
+            [
+              "http.Client",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and set apropriate "
+            ],
+            [
+              "Timeout",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "create "
+          },
+          {
+            "Text": "http.Client",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and set apropriate "
+          },
+          {
+            "Text": "Timeout",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140029,
+        "id": "34e3ebdb-af93-4250-a0da-dbbf7f8ca8b5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140029,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "create "
+            ],
+            [
+              "*http.Request",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " with "
+            ],
+            [
+              "http.NewRequest",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "create "
+          },
+          {
+            "Text": "*http.Request",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " with "
+          },
+          {
+            "Text": "http.NewRequest",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140030,
+        "id": "e85e92e3-3d1a-4451-9525-4430a395fe88",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140030,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "set its "
+            ],
+            [
+              "Method",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to "
+            ],
+            [
+              "\"GET\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "\"POST\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "\"HEAD\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "\"PUT\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "\"DELETE\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "set its "
+          },
+          {
+            "Text": "Method",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to "
+          },
+          {
+            "Text": "\"GET\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "\"POST\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "\"HEAD\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "\"PUT\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "\"DELETE\"",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140030,
+        "id": "a54175ac-6929-4ac9-966f-2681c030d8b3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140030,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "set custom headers like "
+            ],
+            [
+              "User-Agent",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "with "
+            ],
+            [
+              "Header.Set(key, value string)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "set custom headers like "
+          },
+          {
+            "Text": "User-Agent",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "with "
+          },
+          {
+            "Text": "Header.Set(key, value string)",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140031,
+        "id": "27c39d37-3036-4348-b62d-79d7f2345865",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140031,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "set body to be sent by setting "
+            ],
+            [
+              "Body",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " of type "
+            ],
+            [
+              "io.ReadCloser",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "set body to be sent by setting "
+          },
+          {
+            "Text": "Body",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " of type "
+          },
+          {
+            "Text": "io.ReadCloser",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140031,
+        "id": "e53d40c9-fbac-46e0-8e0d-9497e1b11c65",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140031,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "set "
+            ],
+            [
+              "TransferEncoding",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "set "
+          },
+          {
+            "Text": "TransferEncoding",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140031,
+        "id": "33f3da12-0fdf-4acc-8475-1986d873db86",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140031,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "send the request with "
+            ],
+            [
+              "client.Do(req *http.Request)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "send the request with "
+          },
+          {
+            "Text": "client.Do(req *http.Request)",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140031,
+        "id": "aaa5fadf-c27b-41dd-9d09-d63af55728d2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140031,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "set per-request timeout by creating a new request with context containing deadline "
+            ],
+            [
+              "req = request.WithContext(ctx)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "set per-request timeout by creating a new request with context containing deadline "
+          },
+          {
+            "Text": "req = request.WithContext(ctx)",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156140031,
+        "id": "915208b1-1076-4e46-91a9-344a974fe93d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156140031,
+        "parent_id": "0c71a758-ea33-41d3-96d4-7a58db5d8160",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is the only way to do PUT or DELETE requests."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is the only way to do PUT or DELETE requests."
+          }
+        ]
+      }
+    ],
+    "title": "3 ways of doing HTTP requests",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

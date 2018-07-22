@@ -1,0 +1,1509 @@
+{
+  "ID": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+  "Page": {
+    "alive": true,
+    "content": [
+      "f3206425-c193-4cf0-8793-ccea87897d09",
+      "576cc482-fee7-49cb-a116-04a01b67540c",
+      "0fd070ba-d874-473f-aecc-ded611449d9e",
+      "badcf7ca-8d7b-4582-aca4-5e9bad17d49f",
+      "2fe91068-8cb2-4469-8fe5-44867d765ccd",
+      "661d72a7-7d40-4cc3-bb30-4e79cb242f0a",
+      "a545348d-2a5d-4ace-8608-527f2b5f7bcd",
+      "baf80158-d430-4a84-a4e2-4664c2ac3d42",
+      "2deb3143-2142-4a5a-96a4-6de27aada766",
+      "c3cad104-ad17-444a-92dd-b7345fdf2564",
+      "8e32d903-17f3-4c33-aa75-d4640a87c707",
+      "11082f57-265e-4cf0-86f2-3f91de2502b7",
+      "8d0c7f19-54ee-4275-9ae4-02cc1abe0733",
+      "2be24d54-6b86-4f0c-9a8f-801c04693905",
+      "ca34e48a-92e9-4e48-8078-71c09d429ef2",
+      "fd2e1a05-76bc-4552-a16c-a0e518fd57cd",
+      "0529e0a9-c63f-4d4f-9632-169d3a6de9a9",
+      "695024e8-5403-4dfd-9458-1f6562240e2a",
+      "d93e9e74-8aef-498f-8d3e-381f5884a877",
+      "c0f71f47-643c-4cc3-a894-e5994c7fbd49",
+      "fe701ec7-4b0e-46bf-9c87-b49c28952cb6",
+      "96f8bd8f-0245-48c7-ab09-1d7be9161eb9",
+      "d37b432c-c99e-4208-b1bf-304bdd106c8e",
+      "1bf460d0-7877-45d9-a27e-57072cee0e0c",
+      "16335ead-762f-433a-9a46-37602fbfa271",
+      "95c80073-123c-4078-9905-b42ca7a1e94c",
+      "e9bc3d64-6c93-4bd3-b3ba-dcac4e32ded9",
+      "e057e5cb-e33f-44a7-b4fb-84c64219c770",
+      "4c44e504-3706-47d2-a0ac-09fa7b92d90d",
+      "a5d45371-be6d-4be2-829c-573b03820fe4",
+      "7b1ae650-959d-415e-bbdb-9b1537af91af",
+      "b0d06544-545d-4cdf-b6b5-11777cb12e04",
+      "cd433fc1-a5c4-4641-827c-25d9de76cbc5",
+      "85c2476b-a72b-4dcd-934e-dac3bbbeeefb",
+      "8f8263d0-4de3-436d-ba61-e17b24843bb5"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156090148,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532206700132,
+    "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "I/O related interfaces"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206686992,
+        "id": "f3206425-c193-4cf0-8793-ccea87897d09",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236845807,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 165"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 165"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206688810,
+        "id": "576cc482-fee7-49cb-a116-04a01b67540c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236844665,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 801000b6"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 801000b6"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206692587,
+        "id": "0fd070ba-d874-473f-aecc-ded611449d9e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206692587,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206690643,
+        "id": "badcf7ca-8d7b-4582-aca4-5e9bad17d49f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206692315,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go standard library defines several "
+            ],
+            [
+              "interfaces",
+              [
+                [
+                  "a",
+                  "90"
+                ]
+              ]
+            ],
+            [
+              " related to i/o."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Go standard library defines several "
+          },
+          {
+            "Text": "interfaces",
+            "Link": "90"
+          },
+          {
+            "Text": " related to i/o."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090140,
+        "id": "2fe91068-8cb2-4469-8fe5-44867d765ccd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090140,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "They are crucial for abstracting i/o operation from the concrete object."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "They are crucial for abstracting i/o operation from the concrete object."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090141,
+        "id": "661d72a7-7d40-4cc3-bb30-4e79cb242f0a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090141,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Thanks to "
+            ],
+            [
+              "io.Reader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " interface we can write code that operates on any type that implements that interface, be it type representing a file on disk, a network connection or a buffer in memory."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Thanks to "
+          },
+          {
+            "Text": "io.Reader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " interface we can write code that operates on any type that implements that interface, be it type representing a file on disk, a network connection or a buffer in memory."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090141,
+        "id": "a545348d-2a5d-4ace-8608-527f2b5f7bcd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090141,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Having, for example, a JSON decoder operate on "
+            ],
+            [
+              "io.Reader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is more powerful than JSON decoder that can only work on files."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Having, for example, a JSON decoder operate on "
+          },
+          {
+            "Text": "io.Reader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is more powerful than JSON decoder that can only work on files."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090142,
+        "id": "baf80158-d430-4a84-a4e2-4664c2ac3d42",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090142,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For maximum flexibility, when possible you should write functions that operate on least specific interfaces like "
+            ],
+            [
+              "io.Reader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "io.Writer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and not concrete types like "
+            ],
+            [
+              "*os.File",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For maximum flexibility, when possible you should write functions that operate on least specific interfaces like "
+          },
+          {
+            "Text": "io.Reader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "io.Writer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and not concrete types like "
+          },
+          {
+            "Text": "*os.File",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090142,
+        "id": "2deb3143-2142-4a5a-96a4-6de27aada766",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090142,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "io.Reader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "io.Reader",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090142,
+        "id": "c3cad104-ad17-444a-92dd-b7345fdf2564",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206703290,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Reader interface {\n    Read(p []byte) (n int, err error)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Reader interface {\n    Read(p []byte) (n int, err error)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090143,
+        "id": "8e32d903-17f3-4c33-aa75-d4640a87c707",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090143,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "io.Reader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a crucial abstraction for reading from sequential stream of bytes."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "io.Reader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a crucial abstraction for reading from sequential stream of bytes."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090143,
+        "id": "11082f57-265e-4cf0-86f2-3f91de2502b7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090143,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Read",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function reads up to "
+            ],
+            [
+              "len(p)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " bytes int a buffer "
+            ],
+            [
+              "p",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Read",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function reads up to "
+          },
+          {
+            "Text": "len(p)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " bytes int a buffer "
+          },
+          {
+            "Text": "p",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090143,
+        "id": "8d0c7f19-54ee-4275-9ae4-02cc1abe0733",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090143,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It might return less than the "
+            ],
+            [
+              "len(p)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", even 0 bytes."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It might return less than the "
+          },
+          {
+            "Text": "len(p)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", even 0 bytes."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090144,
+        "id": "2be24d54-6b86-4f0c-9a8f-801c04693905",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090144,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When it reaches end of file, it returns "
+            ],
+            [
+              "io.EOF",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " as error. Notice that "
+            ],
+            [
+              "Read",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is allowed to return data in the same call as returning "
+            ],
+            [
+              "io.EOF",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " so handling end of file requires attention to details."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When it reaches end of file, it returns "
+          },
+          {
+            "Text": "io.EOF",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " as error. Notice that "
+          },
+          {
+            "Text": "Read",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is allowed to return data in the same call as returning "
+          },
+          {
+            "Text": "io.EOF",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " so handling end of file requires attention to details."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090144,
+        "id": "ca34e48a-92e9-4e48-8078-71c09d429ef2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090144,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "io.Reader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " doesn’t allow going back in the stream. For that the type must implement "
+            ],
+            [
+              "io.Seeker",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "io.ReaderAt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " interfaces."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "io.Reader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " doesn’t allow going back in the stream. For that the type must implement "
+          },
+          {
+            "Text": "io.Seeker",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "io.ReaderAt",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " interfaces."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090144,
+        "id": "fd2e1a05-76bc-4552-a16c-a0e518fd57cd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090144,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "io.Writer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "io.Writer",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090144,
+        "id": "0529e0a9-c63f-4d4f-9632-169d3a6de9a9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206706670,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Writer interface {\n        Write(p []byte) (n int, err error)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Writer interface {\n        Write(p []byte) (n int, err error)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090145,
+        "id": "695024e8-5403-4dfd-9458-1f6562240e2a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090145,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "io.Writer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is for writing to a sequential stream of bytes."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "io.Writer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is for writing to a sequential stream of bytes."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090145,
+        "id": "d93e9e74-8aef-498f-8d3e-381f5884a877",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090145,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Write",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " writes bytes in "
+            ],
+            [
+              "p",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and returns number of written bytes and an error."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Write",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " writes bytes in "
+          },
+          {
+            "Text": "p",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and returns number of written bytes and an error."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090145,
+        "id": "c0f71f47-643c-4cc3-a894-e5994c7fbd49",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090145,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Write",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " guarantees that it’ll write all data or return an error i.e. if returned n is \u003c len(p) then err must be non-nil."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Write",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " guarantees that it’ll write all data or return an error i.e. if returned n is \u003c len(p) then err must be non-nil."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090145,
+        "id": "fe701ec7-4b0e-46bf-9c87-b49c28952cb6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090145,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "io.Closer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "io.Closer",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090145,
+        "id": "96f8bd8f-0245-48c7-ab09-1d7be9161eb9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206711894,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Closer interface {\n        Close() error\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Closer interface {\n        Close() error\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090145,
+        "id": "d37b432c-c99e-4208-b1bf-304bdd106c8e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090145,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Closer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " describes streams that must be explicitly closed."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Closer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " describes streams that must be explicitly closed."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090146,
+        "id": "1bf460d0-7877-45d9-a27e-57072cee0e0c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090146,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Close",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " returns an error because it’s required in some real-world cases. For example, when doing buffered writes to a file, "
+            ],
+            [
+              "Close",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " might need to flush remaining buffered data to a file, which might fail."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Close",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " returns an error because it’s required in some real-world cases. For example, when doing buffered writes to a file, "
+          },
+          {
+            "Text": "Close",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " might need to flush remaining buffered data to a file, which might fail."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090146,
+        "id": "16335ead-762f-433a-9a46-37602fbfa271",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090146,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For that reason it’s important to check error returned from "
+            ],
+            [
+              "Close",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " when closing a write-able streams."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For that reason it’s important to check error returned from "
+          },
+          {
+            "Text": "Close",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " when closing a write-able streams."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090147,
+        "id": "95c80073-123c-4078-9905-b42ca7a1e94c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090147,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "io.ReaderAt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "io.ReaderAt",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090147,
+        "id": "e9bc3d64-6c93-4bd3-b3ba-dcac4e32ded9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206714133,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type ReaderAt interface {\n        ReadAt(p []byte, off int64) (n int, err error)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type ReaderAt interface {\n        ReadAt(p []byte, off int64) (n int, err error)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090147,
+        "id": "e057e5cb-e33f-44a7-b4fb-84c64219c770",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090147,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "io.ReaderAt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is like "
+            ],
+            [
+              "io.Reader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " but allows to read at any position in the stream."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "io.ReaderAt",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is like "
+          },
+          {
+            "Text": "io.Reader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " but allows to read at any position in the stream."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090147,
+        "id": "4c44e504-3706-47d2-a0ac-09fa7b92d90d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090147,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is possible in files but not in network connections."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is possible in files but not in network connections."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090147,
+        "id": "a5d45371-be6d-4be2-829c-573b03820fe4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090147,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "io.WriterAt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "io.WriterAt",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090147,
+        "id": "7b1ae650-959d-415e-bbdb-9b1537af91af",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206716991,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type WriterAt interface {\n        WriteAt(p []byte, off int64) (n int, err error)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type WriterAt interface {\n        WriteAt(p []byte, off int64) (n int, err error)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090148,
+        "id": "b0d06544-545d-4cdf-b6b5-11777cb12e04",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090148,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "io.WriterAt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is like "
+            ],
+            [
+              "io.Write",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " but allows to write at an arbitrary position in the stream."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "io.WriterAt",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is like "
+          },
+          {
+            "Text": "io.Write",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " but allows to write at an arbitrary position in the stream."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090148,
+        "id": "cd433fc1-a5c4-4641-827c-25d9de76cbc5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090148,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "io.Seeker",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "io.Seeker",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090148,
+        "id": "85c2476b-a72b-4dcd-934e-dac3bbbeeefb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206722084,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Seeker interface {\n        Seek(offset int64, whence int) (int64, error)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Seeker interface {\n        Seek(offset int64, whence int) (int64, error)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090148,
+        "id": "8f8263d0-4de3-436d-ba61-e17b24843bb5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156090148,
+        "parent_id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "io.Seeker",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " allows seeking within the stream. If you can seek, you can also implement "
+            ],
+            [
+              "io.ReaderAt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "io.WriterAt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "io.Seeker",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " allows seeking within the stream. If you can seek, you can also implement "
+          },
+          {
+            "Text": "io.ReaderAt",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "io.WriterAt",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      }
+    ],
+    "title": "I/O related interfaces",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,890 @@
+{
+  "ID": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+  "Page": {
+    "alive": true,
+    "content": [
+      "b2fd1e86-8e9d-46e0-9164-ddf66e911227",
+      "c58f1522-6c72-4697-bf5d-aea2d334e730",
+      "12ec5c24-ae51-4341-95ae-a5a0a81ed746",
+      "218fb3a8-0397-460d-a5ff-6a120d3f5015",
+      "e2a4b04c-2ab7-4236-9898-50f87c277662",
+      "a8fa7d42-46a5-4a9f-8762-fbb9d10d2ec8",
+      "647e3e9b-f070-4299-8a1f-248f63be8dca",
+      "a8ecb600-10b5-4c77-9073-f14fc150432b",
+      "5315ae3e-52f1-4ad9-b25a-5c46181c8254",
+      "dc133e45-a6c0-44c5-a489-e2b1c42b783b",
+      "89be5c89-83f6-47d0-9f81-b4b133f18ac7",
+      "a8cb605d-ab76-414e-ab48-95d6b34da712",
+      "87300b2e-284d-48ff-890b-c559e847977b",
+      "c5000da0-8c79-4c18-b1ad-a04212f272b0",
+      "7a39a89a-9007-4e70-8bfa-973449e04dea",
+      "786d83ed-0cde-404c-a64b-2190a1ecf4de",
+      "831ed9eb-6aa9-4ea9-a757-05c3e1168575",
+      "b88fc79f-05a9-486f-ac75-e7d5fdf1f6f1",
+      "c853a6bc-35f3-4edf-9580-340594f9034f",
+      "73fcffe3-b154-4b8e-9c27-a772a2531415",
+      "3f50b1be-7c52-4f1a-a85b-4eedd3bd5f92",
+      "3ac0bbcb-b687-4c0b-8065-9247bfcb8640",
+      "3df7ff19-9af3-49d9-b1f7-7594c431cb00",
+      "f3eef672-062b-4932-9219-beb08dfed662"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156114234,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207703643,
+    "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Custom JSON marshaling"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 19,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207682353,
+        "id": "b2fd1e86-8e9d-46e0-9164-ddf66e911227",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207697421,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 187"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Id: 187"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207685243,
+        "id": "c58f1522-6c72-4697-bf5d-aea2d334e730",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207698186,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 14194"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 14194"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114224,
+        "id": "12ec5c24-ae51-4341-95ae-a5a0a81ed746",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114224,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Writing custom JSON marshalling"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Writing custom JSON marshalling"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114224,
+        "id": "218fb3a8-0397-460d-a5ff-6a120d3f5015",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114224,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sometimes a type doesn’t have an obvious mapping to JSON."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Sometimes a type doesn’t have an obvious mapping to JSON."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114225,
+        "id": "e2a4b04c-2ab7-4236-9898-50f87c277662",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114225,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "How would you serialize "
+            ],
+            [
+              "time.Time",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "? There are so many possibilities."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "How would you serialize "
+          },
+          {
+            "Text": "time.Time",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "? There are so many possibilities."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114225,
+        "id": "a8fa7d42-46a5-4a9f-8762-fbb9d10d2ec8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114225,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go provides a default JSON mapping for "
+            ],
+            [
+              "time.Time",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". We can implement custom marshaller for user-defined types like structs."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go provides a default JSON mapping for "
+          },
+          {
+            "Text": "time.Time",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". We can implement custom marshaller for user-defined types like structs."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114225,
+        "id": "647e3e9b-f070-4299-8a1f-248f63be8dca",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114225,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For existing types we can define a new (but compatible) type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For existing types we can define a new (but compatible) type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114225,
+        "id": "a8ecb600-10b5-4c77-9073-f14fc150432b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114225,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here’s a custom marshalling and unmarshaling for "
+            ],
+            [
+              "time.Time",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " that only serializes year/month/date part:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Here’s a custom marshalling and unmarshaling for "
+          },
+          {
+            "Text": "time.Time",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " that only serializes year/month/date part:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114225,
+        "id": "5315ae3e-52f1-4ad9-b25a-5c46181c8254",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114225,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file custom_marshal.go output sha1:2d8f94c56472607c83551b5df2741bddb7451a6d goplayground:QpOf0zMOctW"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file custom_marshal.go output sha1:2d8f94c56472607c83551b5df2741bddb7451a6d goplayground:QpOf0zMOctW"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114226,
+        "id": "dc133e45-a6c0-44c5-a489-e2b1c42b783b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114226,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Notice that receiver type of "
+            ],
+            [
+              "UnmashalJSON",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a pointer to the type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Notice that receiver type of "
+          },
+          {
+            "Text": "UnmashalJSON",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a pointer to the type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114226,
+        "id": "89be5c89-83f6-47d0-9f81-b4b133f18ac7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114226,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is necessary for changes to persist outside the function itself."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is necessary for changes to persist outside the function itself."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114226,
+        "id": "a8cb605d-ab76-414e-ab48-95d6b34da712",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114226,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Marshaling structs with private fields"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Marshaling structs with private fields"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114227,
+        "id": "87300b2e-284d-48ff-890b-c559e847977b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114227,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Consider a struct with both exported and unexported fields:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Consider a struct with both exported and unexported fields:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114227,
+        "id": "c5000da0-8c79-4c18-b1ad-a04212f272b0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207706881,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type MyStruct struct {\n    uuid string\n    Name string\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type MyStruct struct {\n    uuid string\n    Name string\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114227,
+        "id": "7a39a89a-9007-4e70-8bfa-973449e04dea",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114227,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Imagine you want to "
+            ],
+            [
+              "Marshal()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " this struct into valid JSON for storage in something like etcd."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Imagine you want to "
+          },
+          {
+            "Text": "Marshal()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " this struct into valid JSON for storage in something like etcd."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114227,
+        "id": "786d83ed-0cde-404c-a64b-2190a1ecf4de",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114227,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "However, since "
+            ],
+            [
+              "uuid",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in not exported, the "
+            ],
+            [
+              "json.Marshal()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " skips it."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "However, since "
+          },
+          {
+            "Text": "uuid",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in not exported, the "
+          },
+          {
+            "Text": "json.Marshal()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " skips it."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114228,
+        "id": "831ed9eb-6aa9-4ea9-a757-05c3e1168575",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114228,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To marshal private fields without making them public we can use a custom marshaller:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To marshal private fields without making them public we can use a custom marshaller:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114228,
+        "id": "b88fc79f-05a9-486f-ac75-e7d5fdf1f6f1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114228,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file marshal_private.go output sha1:aaae4444a438ff81e36995959a675309c03890b2 goplayground:JLd2aY-_5sh"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file marshal_private.go output sha1:aaae4444a438ff81e36995959a675309c03890b2 goplayground:JLd2aY-_5sh"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114228,
+        "id": "c853a6bc-35f3-4edf-9580-340594f9034f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114228,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Custom marshaling behind the scenes"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Custom marshaling behind the scenes"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114228,
+        "id": "73fcffe3-b154-4b8e-9c27-a772a2531415",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114228,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "How does custom marshaling works?"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "How does custom marshaling works?"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114233,
+        "id": "3f50b1be-7c52-4f1a-a85b-4eedd3bd5f92",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114233,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Package JSON defines 2 interfaces: "
+            ],
+            [
+              "Marshaler",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/encoding/json/#Marshaler"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "Unmarshaler",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/encoding/json/#Unmarshaler"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Package JSON defines 2 interfaces: "
+          },
+          {
+            "Text": "Marshaler",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/encoding/json/#Marshaler"
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "Unmarshaler",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/encoding/json/#Unmarshaler"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114233,
+        "id": "3ac0bbcb-b687-4c0b-8065-9247bfcb8640",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207710950,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Marshaler interface {\n    MarshalJSON() ([]byte, error)\n}\n\ntype Unmarshaler interface {\n    UnmarshalJSON([]byte) error\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Marshaler interface {\n    MarshalJSON() ([]byte, error)\n}\n\ntype Unmarshaler interface {\n    UnmarshalJSON([]byte) error\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114234,
+        "id": "3df7ff19-9af3-49d9-b1f7-7594c431cb00",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114234,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "By implementing those functions we make our type conform to "
+            ],
+            [
+              "Marshaler",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "Unmarshaler",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " interface."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "By implementing those functions we make our type conform to "
+          },
+          {
+            "Text": "Marshaler",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "Unmarshaler",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " interface."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156114234,
+        "id": "f3eef672-062b-4932-9219-beb08dfed662",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156114234,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "JSON encoder / decoder checks if the value being encoded conforms to those interfaces and will call those functions instead of executing default logic."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "JSON encoder / decoder checks if the value being encoded conforms to those interfaces and will call those functions instead of executing default logic."
+          }
+        ]
+      }
+    ],
+    "title": "Custom JSON marshaling",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

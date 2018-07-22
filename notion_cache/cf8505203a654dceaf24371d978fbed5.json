@@ -1,0 +1,442 @@
+{
+  "ID": "cf850520-3a65-4dce-af24-371d978fbed5",
+  "Page": {
+    "alive": true,
+    "content": [
+      "2c34a91a-a5c7-4bfa-a2e4-14ade9cc8f2f",
+      "daf8c0af-2cb7-46a3-8e46-aaeafc1ee1ed",
+      "0400c27b-d06e-4981-b995-5a8ed37d8f9a",
+      "6e05f993-a81c-46cb-a7a0-859432244a0a",
+      "6e0dd5bc-0db6-46c9-88aa-75abf3ff874c",
+      "672a6d39-969d-4bcb-bfd4-1d7abe39f7f1",
+      "343cabdd-01c6-4dc5-846f-dabe576ac175",
+      "0947dfdd-8c76-4ccd-9d53-302e4c241e49",
+      "90640767-7ad8-4872-a3ce-275ea939821d"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156062141,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "cf850520-3a65-4dce-af24-371d978fbed5",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236290938,
+    "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Hello World goroutine"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205626728,
+        "id": "2c34a91a-a5c7-4bfa-a2e4-14ade9cc8f2f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236293264,
+        "parent_id": "cf850520-3a65-4dce-af24-371d978fbed5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 137"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 137"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205628412,
+        "id": "daf8c0af-2cb7-46a3-8e46-aaeafc1ee1ed",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236294017,
+        "parent_id": "cf850520-3a65-4dce-af24-371d978fbed5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1259"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1259"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205631067,
+        "id": "0400c27b-d06e-4981-b995-5a8ed37d8f9a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205631067,
+        "parent_id": "cf850520-3a65-4dce-af24-371d978fbed5",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205629932,
+        "id": "6e05f993-a81c-46cb-a7a0-859432244a0a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205630868,
+        "parent_id": "cf850520-3a65-4dce-af24-371d978fbed5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Single channel, single goroutine, one write, one read."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Single channel, single goroutine, one write, one read."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156062137,
+        "id": "6e0dd5bc-0db6-46c9-88aa-75abf3ff874c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156062137,
+        "parent_id": "cf850520-3a65-4dce-af24-371d978fbed5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file hello_world.go output sha1:7aededafa20ee64b054e297dba52899ad6f981ed goplayground:xvDzGNpqDKm"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file hello_world.go output sha1:7aededafa20ee64b054e297dba52899ad6f981ed goplayground:xvDzGNpqDKm"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156062139,
+        "id": "672a6d39-969d-4bcb-bfd4-1d7abe39f7f1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236323050,
+        "parent_id": "cf850520-3a65-4dce-af24-371d978fbed5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The channel "
+            ],
+            [
+              "ch",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is an unbuffered or synchronous channel."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "The channel "
+          },
+          {
+            "Text": "ch",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is an unbuffered or synchronous channel."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156062140,
+        "id": "343cabdd-01c6-4dc5-846f-dabe576ac175",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156062140,
+        "parent_id": "cf850520-3a65-4dce-af24-371d978fbed5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The "
+            ],
+            [
+              "time.Sleep",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is here to illustrate "
+            ],
+            [
+              "main()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function will "
+            ],
+            [
+              "wait",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " on the "
+            ],
+            [
+              "ch",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " channel, which means the "
+            ],
+            [
+              "function literal",
+              [
+                [
+                  "a",
+                  "https://golang.org/ref/spec#Function_literals"
+                ]
+              ]
+            ],
+            [
+              " executed as a goroutine has the time to send a value through that channel: the "
+            ],
+            [
+              "receive operator ",
+              [
+                [
+                  "a",
+                  "https://golang.org/ref/spec#Receive_operator"
+                ]
+              ]
+            ],
+            [
+              "\u003c-ch",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/ref/spec#Receive_operator"
+                ]
+              ]
+            ],
+            [
+              " will block the execution of "
+            ],
+            [
+              "main()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The "
+          },
+          {
+            "Text": "time.Sleep",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is here to illustrate "
+          },
+          {
+            "Text": "main()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function will "
+          },
+          {
+            "Text": "wait",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " on the "
+          },
+          {
+            "Text": "ch",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " channel, which means the "
+          },
+          {
+            "Text": "function literal",
+            "Link": "https://golang.org/ref/spec#Function_literals"
+          },
+          {
+            "Text": " executed as a goroutine has the time to send a value through that channel: the "
+          },
+          {
+            "Text": "receive operator ",
+            "Link": "https://golang.org/ref/spec#Receive_operator"
+          },
+          {
+            "Text": "\u003c-ch",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/ref/spec#Receive_operator"
+          },
+          {
+            "Text": " will block the execution of "
+          },
+          {
+            "Text": "main()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156062141,
+        "id": "0947dfdd-8c76-4ccd-9d53-302e4c241e49",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156062141,
+        "parent_id": "cf850520-3a65-4dce-af24-371d978fbed5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If it didn’t, the goroutine would be killed when "
+            ],
+            [
+              "main()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " exits, and would not have time to send its value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If it didn’t, the goroutine would be killed when "
+          },
+          {
+            "Text": "main()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " exits, and would not have time to send its value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205638431,
+        "id": "90640767-7ad8-4872-a3ce-275ea939821d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205638431,
+        "parent_id": "cf850520-3a65-4dce-af24-371d978fbed5",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Hello World goroutine",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

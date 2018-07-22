@@ -1,0 +1,627 @@
+{
+  "ID": "20bfd8fa-4545-4479-954a-6814eeeef716",
+  "Page": {
+    "alive": true,
+    "content": [
+      "9bee8078-d7ec-4329-82f2-1c7740e8f890",
+      "9487bf58-b1d3-429e-a9a8-dc698e2cc960",
+      "90fb5a28-99f3-47e6-a41e-89eec416ce1c",
+      "f282e6bf-6505-4b06-bc9c-9d4f2c6b0ee5",
+      "809bc090-e690-4f90-b38d-a3fb2e57de90",
+      "7cc42ed9-3d18-4037-b1b1-3457c58a9d07",
+      "bdc6e4a7-f087-47a8-addc-5b940a9a61b0",
+      "ccaebde5-5bf1-44e2-ab66-835f4385a99d",
+      "32fcc8e0-f9a4-43b6-995d-afc0c0e16980",
+      "7c135f2e-3352-4c7a-b56d-2410e7bb668c",
+      "9931476b-8cf0-437d-9dbf-b0020886ec62",
+      "a6f01d47-472b-4df8-b3f7-8cf7705f1cb2",
+      "75e59fe6-de62-4f39-856f-bd96637fcb4f",
+      "b6966b6f-6834-4264-a40e-7f9da38e8404",
+      "b8e61a53-1951-436e-a485-18c77697c930",
+      "ec31d4b2-6006-412f-a728-7d6b34731589"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156053153,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236143788,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Defer"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205280448,
+        "id": "9bee8078-d7ec-4329-82f2-1c7740e8f890",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236144525,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 128"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$Id: 128"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205283154,
+        "id": "9487bf58-b1d3-429e-a9a8-dc698e2cc960",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236145186,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2795"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2795"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205284905,
+        "id": "90fb5a28-99f3-47e6-a41e-89eec416ce1c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205285538,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156053150,
+        "id": "f282e6bf-6505-4b06-bc9c-9d4f2c6b0ee5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156053150,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In a complicated function, it’s easy to forgot to release a resource (e.g. to close a file handle or to unlock a mutex)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In a complicated function, it’s easy to forgot to release a resource (e.g. to close a file handle or to unlock a mutex)."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156053150,
+        "id": "809bc090-e690-4f90-b38d-a3fb2e57de90",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156053150,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In C++ you would use RAII to ensure a resource is always released."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In C++ you would use RAII to ensure a resource is always released."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156053151,
+        "id": "7cc42ed9-3d18-4037-b1b1-3457c58a9d07",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156053151,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go you use "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statement."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In Go you use "
+          },
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statement."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156053151,
+        "id": "bdc6e4a7-f087-47a8-addc-5b940a9a61b0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205290656,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func foo() {\n  f, err := os.Open(\"myfile.txt\")\n  if err != nil {\n    return\n  }\n  defer f.Close()\n\n  // ... lots of code\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func foo() {\n  f, err := os.Open(\"myfile.txt\")\n  if err != nil {\n    return\n  }\n  defer f.Close()\n\n  // ... lots of code\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156053151,
+        "id": "ccaebde5-5bf1-44e2-ab66-835f4385a99d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236173561,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In the above example, "
+            ],
+            [
+              "defer f.Close()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " ensures that "
+            ],
+            [
+              "f.Close()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " will be called before we exit "
+            ],
+            [
+              "foo",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", even if a "
+            ],
+            [
+              "panic",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Panic-and-recover-dda02e368b3048a5a69b81c56bfa6dbb"
+                ]
+              ]
+            ],
+            [
+              " happens."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "In the above example, "
+          },
+          {
+            "Text": "defer f.Close()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " ensures that "
+          },
+          {
+            "Text": "f.Close()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " will be called before we exit "
+          },
+          {
+            "Text": "foo",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", even if a "
+          },
+          {
+            "Text": "panic",
+            "Link": "https://www.notion.so/kjkpublic/Panic-and-recover-dda02e368b3048a5a69b81c56bfa6dbb"
+          },
+          {
+            "Text": " happens."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156053152,
+        "id": "32fcc8e0-f9a4-43b6-995d-afc0c0e16980",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156053152,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Placing "
+            ],
+            [
+              "defer f.Close()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " right after "
+            ],
+            [
+              "os.Open()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " makes it easy to audit the code to verify "
+            ],
+            [
+              "Close",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is always called."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Placing "
+          },
+          {
+            "Text": "defer f.Close()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " right after "
+          },
+          {
+            "Text": "os.Open()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " makes it easy to audit the code to verify "
+          },
+          {
+            "Text": "Close",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is always called."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156053152,
+        "id": "7c135f2e-3352-4c7a-b56d-2410e7bb668c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156053152,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is especially useful for large functions with multiple exit points."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is especially useful for large functions with multiple exit points."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156053153,
+        "id": "9931476b-8cf0-437d-9dbf-b0020886ec62",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156053153,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If deferred code is more complicated, you can use a function literal:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If deferred code is more complicated, you can use a function literal:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156053153,
+        "id": "a6f01d47-472b-4df8-b3f7-8cf7705f1cb2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205294848,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func foo() {\n  mutex1.Lock()\n  mutex2.Lock()\n\n  defer func() {\n    mutex2.Unlock()\n    mutex1.Unlock()\n  }()\n\n  // ... more code\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func foo() {\n  mutex1.Lock()\n  mutex2.Lock()\n\n  defer func() {\n    mutex2.Unlock()\n    mutex1.Unlock()\n  }()\n\n  // ... more code\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156053153,
+        "id": "75e59fe6-de62-4f39-856f-bd96637fcb4f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156053153,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can use multiple "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statements. They’ll be called in reverse order."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can use multiple "
+          },
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statements. They’ll be called in reverse order."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205296201,
+        "id": "b6966b6f-6834-4264-a40e-7f9da38e8404",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205296201,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156054135,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "b8e61a53-1951-436e-a485-18c77697c930",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236184378,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Defer basics"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Defer basics",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055187,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236192160,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Defer gotchas"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Defer gotchas",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Defer",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,172 @@
+{
+  "ID": "ff53ce6b-5f33-4920-b0ae-36f7ab5d59c9",
+  "Page": {
+    "alive": true,
+    "content": [
+      "3abed29c-8b7d-409c-8bc0-22000ffef3e8",
+      "9895a7b5-3a7a-4c4e-a16b-e5a0908eae01",
+      "b8e68413-7488-4bae-89af-9129cf72e806",
+      "6d07d9e5-90e2-4908-89ca-c8429bf8328d",
+      "0e292e34-55ec-4d9b-b5d7-16f5469ab9ca"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156226108,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "ff53ce6b-5f33-4920-b0ae-36f7ab5d59c9",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213459208,
+    "parent_id": "a09f2d8c-9bba-44e0-acd0-a9206e8f733f",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "How to read data from file and decode with go?"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213442842,
+        "id": "3abed29c-8b7d-409c-8bc0-22000ffef3e8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213450616,
+        "parent_id": "ff53ce6b-5f33-4920-b0ae-36f7ab5d59c9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 278"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 278"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213444392,
+        "id": "9895a7b5-3a7a-4c4e-a16b-e5a0908eae01",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213449481,
+        "parent_id": "ff53ce6b-5f33-4920-b0ae-36f7ab5d59c9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213445783,
+        "id": "b8e68413-7488-4bae-89af-9129cf72e806",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213448577,
+        "parent_id": "ff53ce6b-5f33-4920-b0ae-36f7ab5d59c9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 27480"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 27480"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213447799,
+        "id": "6d07d9e5-90e2-4908-89ca-c8429bf8328d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213447810,
+        "parent_id": "ff53ce6b-5f33-4920-b0ae-36f7ab5d59c9",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156226107,
+        "id": "0e292e34-55ec-4d9b-b5d7-16f5469ab9ca",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213436943,
+        "parent_id": "ff53ce6b-5f33-4920-b0ae-36f7ab5d59c9",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"encoding/gob\"\n    \"fmt\"\n    \"os\"\n)\n\ntype User struct {\n    Username string\n    Password string\n}\n\nfunc main() {\n\n    user := User{}\n    file, _ := os.Open(\"user.gob\")\n    defer file.Close()\n\n    decoder := gob.NewDecoder(file)\n    decoder.Decode(\u0026user)\n    fmt.Println(user)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"encoding/gob\"\n    \"fmt\"\n    \"os\"\n)\n\ntype User struct {\n    Username string\n    Password string\n}\n\nfunc main() {\n\n    user := User{}\n    file, _ := os.Open(\"user.gob\")\n    defer file.Close()\n\n    decoder := gob.NewDecoder(file)\n    decoder.Decode(\u0026user)\n    fmt.Println(user)\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "How to read data from file and decode with go?",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

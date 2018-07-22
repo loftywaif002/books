@@ -1,0 +1,418 @@
+{
+  "ID": "2f90f3ba-9eab-4016-99db-b119feab6665",
+  "Page": {
+    "alive": true,
+    "content": [
+      "3068f237-1525-4dff-a262-86d5fa95fadf",
+      "2699563e-8c74-46a6-a2d8-668c8d182fd1",
+      "f23e161b-6917-48ac-9b5f-c3551226237d",
+      "5e19d1e6-c331-4cca-abfc-02c135b91ca7",
+      "32b0b744-e972-4ad0-a428-e9dcb922eb79",
+      "745c4eaa-9e94-4f65-8b67-2912f561fb32",
+      "2d1ac18a-32df-481b-9d01-bca0385b5922",
+      "f8a0c66c-72e1-4367-8844-2109a6304d3d",
+      "e902c880-5e70-4fd2-a697-5d1d1b3724da",
+      "44549e70-5b76-4fbd-af33-389020c5a80e",
+      "63e81c9b-c0bd-4e7d-ba72-442e4ba01f79",
+      "dd80a76a-ceb8-44db-b84d-7c506eb8035e",
+      "7c77497f-1e0e-41fe-a9fd-aaba672a5ccb",
+      "4e651b1d-e875-4fe1-b4be-7567abc02de3"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156149304,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "2f90f3ba-9eab-4016-99db-b119feab6665",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532209236972,
+    "parent_id": "96e61372-84ae-4460-a282-7f456b4cf62c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Handling http method, accessing query strings \u0026 request body"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 39,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209182554,
+        "id": "3068f237-1525-4dff-a262-86d5fa95fadf",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209188589,
+        "parent_id": "2f90f3ba-9eab-4016-99db-b119feab6665",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 213"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 213"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209184053,
+        "id": "2699563e-8c74-46a6-a2d8-668c8d182fd1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209187453,
+        "parent_id": "2f90f3ba-9eab-4016-99db-b119feab6665",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209185323,
+        "id": "f23e161b-6917-48ac-9b5f-c3551226237d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209190820,
+        "parent_id": "2f90f3ba-9eab-4016-99db-b119feab6665",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 21219"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 21219"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209192666,
+        "id": "5e19d1e6-c331-4cca-abfc-02c135b91ca7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209192666,
+        "parent_id": "2f90f3ba-9eab-4016-99db-b119feab6665",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209191292,
+        "id": "32b0b744-e972-4ad0-a428-e9dcb922eb79",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209193859,
+        "parent_id": "2f90f3ba-9eab-4016-99db-b119feab6665",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here are a simple example of some common tasks related to developing an API, differentiating between the HTTP Method of the request, accessing query string values and accessing the request body."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Here are a simple example of some common tasks related to developing an API, differentiating between the HTTP Method of the request, accessing query string values and accessing the request body."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156149302,
+        "id": "745c4eaa-9e94-4f65-8b67-2912f561fb32",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209206363,
+        "parent_id": "2f90f3ba-9eab-4016-99db-b119feab6665",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Resources"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 3,
+        "inline_content": [
+          {
+            "Text": "Resources"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209206363,
+        "id": "2d1ac18a-32df-481b-9d01-bca0385b5922",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209211468,
+        "parent_id": "2f90f3ba-9eab-4016-99db-b119feab6665",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "http.Handler interface",
+              [
+                [
+                  "a",
+                  "https://golang.org/pkg/net/http/#Handler"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 21,
+        "inline_content": [
+          {
+            "Text": "http.Handler interface",
+            "Link": "https://golang.org/pkg/net/http/#Handler"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209211468,
+        "id": "f8a0c66c-72e1-4367-8844-2109a6304d3d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209215027,
+        "parent_id": "2f90f3ba-9eab-4016-99db-b119feab6665",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "http.ResponseWriter",
+              [
+                [
+                  "a",
+                  "https://golang.org/pkg/net/http/#ResponseWriter"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "http.ResponseWriter",
+            "Link": "https://golang.org/pkg/net/http/#ResponseWriter"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209215027,
+        "id": "e902c880-5e70-4fd2-a697-5d1d1b3724da",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209217306,
+        "parent_id": "2f90f3ba-9eab-4016-99db-b119feab6665",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "http.Request",
+              [
+                [
+                  "a",
+                  "https://golang.org/pkg/net/http/#Request"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "http.Request",
+            "Link": "https://golang.org/pkg/net/http/#Request"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209217306,
+        "id": "44549e70-5b76-4fbd-af33-389020c5a80e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209218028,
+        "parent_id": "2f90f3ba-9eab-4016-99db-b119feab6665",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Available Method and Status constants",
+              [
+                [
+                  "a",
+                  "https://golang.org/pkg/net/http/#pkg-constants"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Available Method and Status constants",
+            "Link": "https://golang.org/pkg/net/http/#pkg-constants"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209219460,
+        "id": "63e81c9b-c0bd-4e7d-ba72-442e4ba01f79",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209219714,
+        "parent_id": "2f90f3ba-9eab-4016-99db-b119feab6665",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156149303,
+        "id": "dd80a76a-ceb8-44db-b84d-7c506eb8035e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209201440,
+        "parent_id": "2f90f3ba-9eab-4016-99db-b119feab6665",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"fmt\"\n    \"io/ioutil\"\n    \"log\"\n    \"net/http\"\n)\n\ntype customHandler struct{}\n\n// ServeHTTP implements the http.Handler interface in the net/http package\nfunc (h customHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {\n\n    // ParseForm will parse query string values and make r.Form available\n    r.ParseForm()\n\n    // r.Form is map of query string parameters\n    // its' type is url.Values, which in turn is a map[string][]string\n    queryMap := r.Form\n\n    switch r.Method {\n    case http.MethodGet:\n        // Handle GET requests\n        w.WriteHeader(http.StatusOK)\n        w.Write([]byte(fmt.Sprintf(\"Query string values: %s\", queryMap)))\n        return\n    case http.MethodPost:\n        // Handle POST requests\n        body, err := ioutil.ReadAll(r.Body)\n        if err != nil {\n            // Error occurred while parsing request body\n            w.WriteHeader(http.StatusBadRequest)\n            return\n        }\n        w.WriteHeader(http.StatusOK)\n        w.Write([]byte(fmt.Sprintf(\"Query string values: %s\\nBody posted: %s\", queryMap, body)))\n        return\n    }\n\n    // Other HTTP methods (eg PUT, PATCH, etc) are not handled by the above\n    // so inform the client with appropriate status code\n    w.WriteHeader(http.StatusMethodNotAllowed)\n}\n\nfunc main() {\n    // All URLs will be handled by this function\n    // http.Handle, similarly to http.HandleFunc\n    // uses the DefaultServeMux\n    http.Handle(\"/\", customHandler{})\n\n    // Continue to process new requests until an error occurs\n    log.Fatal(http.ListenAndServe(\":8080\", nil))\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"fmt\"\n    \"io/ioutil\"\n    \"log\"\n    \"net/http\"\n)\n\ntype customHandler struct{}\n\n// ServeHTTP implements the http.Handler interface in the net/http package\nfunc (h customHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {\n\n    // ParseForm will parse query string values and make r.Form available\n    r.ParseForm()\n\n    // r.Form is map of query string parameters\n    // its' type is url.Values, which in turn is a map[string][]string\n    queryMap := r.Form\n\n    switch r.Method {\n    case http.MethodGet:\n        // Handle GET requests\n        w.WriteHeader(http.StatusOK)\n        w.Write([]byte(fmt.Sprintf(\"Query string values: %s\", queryMap)))\n        return\n    case http.MethodPost:\n        // Handle POST requests\n        body, err := ioutil.ReadAll(r.Body)\n        if err != nil {\n            // Error occurred while parsing request body\n            w.WriteHeader(http.StatusBadRequest)\n            return\n        }\n        w.WriteHeader(http.StatusOK)\n        w.Write([]byte(fmt.Sprintf(\"Query string values: %s\\nBody posted: %s\", queryMap, body)))\n        return\n    }\n\n    // Other HTTP methods (eg PUT, PATCH, etc) are not handled by the above\n    // so inform the client with appropriate status code\n    w.WriteHeader(http.StatusMethodNotAllowed)\n}\n\nfunc main() {\n    // All URLs will be handled by this function\n    // http.Handle, similarly to http.HandleFunc\n    // uses the DefaultServeMux\n    http.Handle(\"/\", customHandler{})\n\n    // Continue to process new requests until an error occurs\n    log.Fatal(http.ListenAndServe(\":8080\", nil))\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156149304,
+        "id": "7c77497f-1e0e-41fe-a9fd-aaba672a5ccb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156149304,
+        "parent_id": "2f90f3ba-9eab-4016-99db-b119feab6665",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sample curl output:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Sample curl output:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156149304,
+        "id": "4e651b1d-e875-4fe1-b4be-7567abc02de3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209199063,
+        "parent_id": "2f90f3ba-9eab-4016-99db-b119feab6665",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ curl -i 'localhost:8080?city=Seattle\u0026state=WA' -H 'Content-Type: text/plain' -X GET\nHTTP/1.1 200 OK\nDate: Fri, 02 Sep 2016 16:36:24 GMT\nContent-Length: 51\nContent-Type: text/plain; charset=utf-8\n\nQuery string values: map[city:[Seattle] state:[WA]]%\n\n$ curl -i 'localhost:8080?city=Seattle\u0026state=WA' -H 'Content-Type: text/plain' -X POST -d \"some post data\"\nHTTP/1.1 200 OK\nDate: Fri, 02 Sep 2016 16:36:35 GMT\nContent-Length: 79\nContent-Type: text/plain; charset=utf-8\n\nQuery string values: map[city:[Seattle] state:[WA]]\nBody posted: some post data%\n\n$ curl -i 'localhost:8080?city=Seattle\u0026state=WA' -H 'Content-Type: text/plain' -X PUT\nHTTP/1.1 405 Method Not Allowed\nDate: Fri, 02 Sep 2016 16:36:41 GMT\nContent-Length: 0\nContent-Type: text/plain; charset=utf-8"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "$ curl -i 'localhost:8080?city=Seattle\u0026state=WA' -H 'Content-Type: text/plain' -X GET\nHTTP/1.1 200 OK\nDate: Fri, 02 Sep 2016 16:36:24 GMT\nContent-Length: 51\nContent-Type: text/plain; charset=utf-8\n\nQuery string values: map[city:[Seattle] state:[WA]]%\n\n$ curl -i 'localhost:8080?city=Seattle\u0026state=WA' -H 'Content-Type: text/plain' -X POST -d \"some post data\"\nHTTP/1.1 200 OK\nDate: Fri, 02 Sep 2016 16:36:35 GMT\nContent-Length: 79\nContent-Type: text/plain; charset=utf-8\n\nQuery string values: map[city:[Seattle] state:[WA]]\nBody posted: some post data%\n\n$ curl -i 'localhost:8080?city=Seattle\u0026state=WA' -H 'Content-Type: text/plain' -X PUT\nHTTP/1.1 405 Method Not Allowed\nDate: Fri, 02 Sep 2016 16:36:41 GMT\nContent-Length: 0\nContent-Type: text/plain; charset=utf-8",
+        "code_language": "Shell"
+      }
+    ],
+    "title": "Handling http method, accessing query strings \u0026 request body",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

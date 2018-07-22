@@ -1,0 +1,384 @@
+{
+  "ID": "4e8a0ae0-208b-45cb-8182-c56baed518e8",
+  "Page": {
+    "alive": true,
+    "content": [
+      "8404d2d7-3a73-4e05-b7e1-7bfaac271fdf",
+      "7122fa81-a20b-4d9f-b271-f456d566d5c9",
+      "c45d0a0f-e615-49d4-a8cd-65ef8ac90124",
+      "88cdd3b9-c5de-45e9-948d-57c41377d780",
+      "00a497a2-5b8d-40e2-908c-18a73630bf13",
+      "23724faa-5901-4d3f-8f43-2b518639f41c",
+      "b1c9e8b4-d765-4942-8039-46dd221d54ce",
+      "0fcc331c-c87d-44fd-811e-2ee8ba5cd319",
+      "e22d2f2b-fa93-4f36-b04e-28fccfb43390",
+      "230742b7-3146-4d18-af22-d62efdfad47e"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156079163,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "4e8a0ae0-208b-45cb-8182-c56baed518e8",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236704218,
+    "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Installing packages locally with go get"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 28,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206184588,
+        "id": "8404d2d7-3a73-4e05-b7e1-7bfaac271fdf",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236701010,
+        "parent_id": "4e8a0ae0-208b-45cb-8182-c56baed518e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 154"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 154"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206186150,
+        "id": "7122fa81-a20b-4d9f-b271-f456d566d5c9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236702466,
+        "parent_id": "4e8a0ae0-208b-45cb-8182-c56baed518e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 80100042"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 80100042"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206188039,
+        "id": "c45d0a0f-e615-49d4-a8cd-65ef8ac90124",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206188673,
+        "parent_id": "4e8a0ae0-208b-45cb-8182-c56baed518e8",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156079162,
+        "id": "88cdd3b9-c5de-45e9-948d-57c41377d780",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156079162,
+        "parent_id": "4e8a0ae0-208b-45cb-8182-c56baed518e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In order to import a package in your program you must first download the package locally."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In order to import a package in your program you must first download the package locally."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156079162,
+        "id": "00a497a2-5b8d-40e2-908c-18a73630bf13",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156079162,
+        "parent_id": "4e8a0ae0-208b-45cb-8182-c56baed518e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "go get -u github.com/gomarkdown/markdown",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " downloads package files from https://github.com/gomarkdown/markdown/."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "go get -u github.com/gomarkdown/markdown",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " downloads package files from https://github.com/gomarkdown/markdown/."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156079162,
+        "id": "23724faa-5901-4d3f-8f43-2b518639f41c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156079162,
+        "parent_id": "4e8a0ae0-208b-45cb-8182-c56baed518e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "-u",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " means "
+            ],
+            [
+              "update",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " i.e. if the package is already downloaded locally, it’ll be updated to latest version."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "-u",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " means "
+          },
+          {
+            "Text": "update",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " i.e. if the package is already downloaded locally, it’ll be updated to latest version."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156079162,
+        "id": "b1c9e8b4-d765-4942-8039-46dd221d54ce",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156079162,
+        "parent_id": "4e8a0ae0-208b-45cb-8182-c56baed518e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The code will be downloaded into "
+            ],
+            [
+              "$GOPATH/src/github.com/gomarkdown/markdown",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " i.e. package import path is also a name of directory where the package files are stored locally."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The code will be downloaded into "
+          },
+          {
+            "Text": "$GOPATH/src/github.com/gomarkdown/markdown",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " i.e. package import path is also a name of directory where the package files are stored locally."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156079163,
+        "id": "0fcc331c-c87d-44fd-811e-2ee8ba5cd319",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156079163,
+        "parent_id": "4e8a0ae0-208b-45cb-8182-c56baed518e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Import path is appended to "
+            ],
+            [
+              "$GOPATH/src",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Import path is appended to "
+          },
+          {
+            "Text": "$GOPATH/src",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156079163,
+        "id": "e22d2f2b-fa93-4f36-b04e-28fccfb43390",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156079163,
+        "parent_id": "4e8a0ae0-208b-45cb-8182-c56baed518e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Most of the time import path is also the location of source files but "
+            ],
+            [
+              "go get",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " also allows for redirects via meta-data embedded in HTML files."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Most of the time import path is also the location of source files but "
+          },
+          {
+            "Text": "go get",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " also allows for redirects via meta-data embedded in HTML files."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532236704218,
+        "id": "230742b7-3146-4d18-af22-d62efdfad47e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236704218,
+        "parent_id": "4e8a0ae0-208b-45cb-8182-c56baed518e8",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Installing packages locally with go get",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

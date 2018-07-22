@@ -1,0 +1,158 @@
+{
+  "ID": "64124d2d-3d2d-4015-9cb1-293792a3a77e",
+  "Page": {
+    "alive": true,
+    "content": [
+      "c02114d2-227f-49dd-8c8e-573bf3078c58",
+      "d4af60dc-eb2d-477b-87df-94d9a713f12b",
+      "8f39d423-0656-439c-a407-0bd8d9b716fa",
+      "7e6ef77b-9c84-43cc-b12d-e7abae576247",
+      "441abbef-28ff-4dfb-a2f5-041bd0e85213"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155988186,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "64124d2d-3d2d-4015-9cb1-293792a3a77e",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234822789,
+    "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Duplicate (create a copy of) a slice"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196320432,
+        "id": "c02114d2-227f-49dd-8c8e-573bf3078c58",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234823543,
+        "parent_id": "64124d2d-3d2d-4015-9cb1-293792a3a77e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 67"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 67"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196321844,
+        "id": "d4af60dc-eb2d-477b-87df-94d9a713f12b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234824223,
+        "parent_id": "64124d2d-3d2d-4015-9cb1-293792a3a77e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3749"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3749"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196324407,
+        "id": "8f39d423-0656-439c-a407-0bd8d9b716fa",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196324418,
+        "parent_id": "64124d2d-3d2d-4015-9cb1-293792a3a77e",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155988186,
+        "id": "7e6ef77b-9c84-43cc-b12d-e7abae576247",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155988186,
+        "parent_id": "64124d2d-3d2d-4015-9cb1-293792a3a77e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file duplicate_slice.go output sha1:cb047306cd08aa2f158dc17a4312560ac6c49b0f goplayground:qkBsu_rYnOU"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file duplicate_slice.go output sha1:cb047306cd08aa2f158dc17a4312560ac6c49b0f goplayground:qkBsu_rYnOU"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196331130,
+        "id": "441abbef-28ff-4dfb-a2f5-041bd0e85213",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196331130,
+        "parent_id": "64124d2d-3d2d-4015-9cb1-293792a3a77e",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Duplicate (create a copy of) a slice",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

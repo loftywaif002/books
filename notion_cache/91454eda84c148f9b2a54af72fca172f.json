@@ -1,0 +1,266 @@
+{
+  "ID": "91454eda-84c1-48f9-b2a5-4af72fca172f",
+  "Page": {
+    "alive": true,
+    "content": [
+      "329a9d62-db45-42c3-a63a-32c1fa29d528",
+      "d4ac9de8-658a-4e30-aa7d-456f96ec2fa0",
+      "fbae7011-263b-4a7b-8751-5be191f55841",
+      "66c90afb-8280-497b-9ce6-642e0d7752e3",
+      "59886de0-5a9c-4963-9eca-787719e07831",
+      "112eb7d2-4cca-49d8-89e6-94f3d3cc12eb",
+      "c346c82b-821f-4f10-b25d-e9084474af45",
+      "02791703-c3b0-4287-afb3-1f2da33eae5f"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156137135,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "91454eda-84c1-48f9-b2a5-4af72fca172f",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532208718413,
+    "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Set User-Agent"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208705190,
+        "id": "329a9d62-db45-42c3-a63a-32c1fa29d528",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208708619,
+        "parent_id": "91454eda-84c1-48f9-b2a5-4af72fca172f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 204"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 204"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208708619,
+        "id": "d4ac9de8-658a-4e30-aa7d-456f96ec2fa0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208710882,
+        "parent_id": "91454eda-84c1-48f9-b2a5-4af72fca172f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 8010007c"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 8010007c"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208712336,
+        "id": "fbae7011-263b-4a7b-8751-5be191f55841",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208712336,
+        "parent_id": "91454eda-84c1-48f9-b2a5-4af72fca172f",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208710882,
+        "id": "66c90afb-8280-497b-9ce6-642e0d7752e3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208711960,
+        "parent_id": "91454eda-84c1-48f9-b2a5-4af72fca172f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "An HTTP requests includes "
+            ],
+            [
+              "User-Agent",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " header."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "An HTTP requests includes "
+          },
+          {
+            "Text": "User-Agent",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " header."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156137135,
+        "id": "59886de0-5a9c-4963-9eca-787719e07831",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156137135,
+        "parent_id": "91454eda-84c1-48f9-b2a5-4af72fca172f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It’s a good idea to use user agent meaningful for your program."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It’s a good idea to use user agent meaningful for your program."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156137135,
+        "id": "112eb7d2-4cca-49d8-89e6-94f3d3cc12eb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156137135,
+        "parent_id": "91454eda-84c1-48f9-b2a5-4af72fca172f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Also, some servers are fussy about what they accept."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Also, some servers are fussy about what they accept."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156137135,
+        "id": "c346c82b-821f-4f10-b25d-e9084474af45",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156137135,
+        "parent_id": "91454eda-84c1-48f9-b2a5-4af72fca172f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is how to set custom user agent:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is how to set custom user agent:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156137135,
+        "id": "02791703-c3b0-4287-afb3-1f2da33eae5f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156137135,
+        "parent_id": "91454eda-84c1-48f9-b2a5-4af72fca172f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file http_user_agent.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file http_user_agent.go output noplayground"
+          }
+        ]
+      }
+    ],
+    "title": "Set User-Agent",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

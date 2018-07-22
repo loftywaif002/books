@@ -1,0 +1,631 @@
+{
+  "ID": "8b225356-aaa9-4069-90d2-79868a1cd548",
+  "Page": {
+    "alive": true,
+    "content": [
+      "0b94b345-c66f-42eb-8717-fa583935210e",
+      "0839263b-70e7-4b2c-80fe-2f04a909e058",
+      "270ba9f4-fed5-456e-9935-ee1f96682959",
+      "5c9d7cb6-8420-4f4b-9861-ed9aa045d99a",
+      "91987051-4766-4602-8017-a36700c9d961",
+      "c482e95f-73dc-4579-8f6a-e1a1c302c2ac",
+      "8c949e4d-2250-4ad3-b648-773670877d0d",
+      "e7b91480-bcc1-42cc-86d5-9827424fc8ec",
+      "06209664-845f-43cd-95cb-31ebc3f2c301",
+      "38b0f4cf-18c4-4467-bdd6-d4d8ae8ef385",
+      "845d98f7-8b09-4a28-b9f0-6f62d0ccc60d",
+      "5a092856-84a2-4a98-8856-4c0cc11e79da",
+      "1902e4e7-c205-4ea7-99fe-00b96e16195c",
+      "3d9907e9-2390-4c7c-ad94-c271f3839267"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156123162,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532208101368,
+    "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Easy generation of XML struct definition"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 19,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208091957,
+        "id": "0b94b345-c66f-42eb-8717-fa583935210e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208100289,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 334"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 334"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208094247,
+        "id": "0839263b-70e7-4b2c-80fe-2f04a909e058",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208095159,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156123158,
+        "id": "270ba9f4-fed5-456e-9935-ee1f96682959",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208115677,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Writing struct definitions that match XML file is tedious."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 77,
+        "inline_content": [
+          {
+            "Text": "Writing struct definitions that match XML file is tedious."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156123158,
+        "id": "5c9d7cb6-8420-4f4b-9861-ed9aa045d99a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156123158,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can use "
+            ],
+            [
+              "chidley",
+              [
+                [
+                  "a",
+                  "https://github.com/gnewton/chidley"
+                ]
+              ]
+            ],
+            [
+              " to automatically generate struct definitions from sample XML file."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can use "
+          },
+          {
+            "Text": "chidley",
+            "Link": "https://github.com/gnewton/chidley"
+          },
+          {
+            "Text": " to automatically generate struct definitions from sample XML file."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156123159,
+        "id": "91987051-4766-4602-8017-a36700c9d961",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156123159,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Install the tool with "
+            ],
+            [
+              "go get -u github.com/gnewton/chidley",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Install the tool with "
+          },
+          {
+            "Text": "go get -u github.com/gnewton/chidley",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156123159,
+        "id": "c482e95f-73dc-4579-8f6a-e1a1c302c2ac",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156123159,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "chidley sample.xml",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " will print Go struct definitions deduced from "
+            ],
+            [
+              "sample.xml",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to standard out."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "chidley sample.xml",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " will print Go struct definitions deduced from "
+          },
+          {
+            "Text": "sample.xml",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to standard out."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156123159,
+        "id": "8c949e4d-2250-4ad3-b648-773670877d0d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156123159,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Run "
+            ],
+            [
+              "chidley",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to list all cmd-line options."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Run "
+          },
+          {
+            "Text": "chidley",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to list all cmd-line options."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156123159,
+        "id": "e7b91480-bcc1-42cc-86d5-9827424fc8ec",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156123159,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Options that I find useful:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Options that I find useful:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156123161,
+        "id": "06209664-845f-43cd-95cb-31ebc3f2c301",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156123161,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "-X",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " : sort generated structs by order in XML file (default is alphabetically)"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "-X",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " : sort generated structs by order in XML file (default is alphabetically)"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156123161,
+        "id": "38b0f4cf-18c4-4467-bdd6-d4d8ae8ef385",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156123161,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "-a \"\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " : prefix for attribute names (default is "
+            ],
+            [
+              "Attr",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ")"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "-a \"\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " : prefix for attribute names (default is "
+          },
+          {
+            "Text": "Attr",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ")"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156123162,
+        "id": "845d98f7-8b09-4a28-b9f0-6f62d0ccc60d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156123162,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "-e \"\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " : prefix for struct names (default is "
+            ],
+            [
+              "C",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " i.e. by default struct name for XML element "
+            ],
+            [
+              "Api",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " would "
+            ],
+            [
+              "CApi",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "; this makes it just "
+            ],
+            [
+              "Api",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ")"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "-e \"\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " : prefix for struct names (default is "
+          },
+          {
+            "Text": "C",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " i.e. by default struct name for XML element "
+          },
+          {
+            "Text": "Api",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " would "
+          },
+          {
+            "Text": "CApi",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "; this makes it just "
+          },
+          {
+            "Text": "Api",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ")"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156123162,
+        "id": "5a092856-84a2-4a98-8856-4c0cc11e79da",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156123162,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "-t",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " : by default all fields are strings. This flag tries to infer type from values"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "-t",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " : by default all fields are strings. This flag tries to infer type from values"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156123162,
+        "id": "1902e4e7-c205-4ea7-99fe-00b96e16195c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156123162,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "All options:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "All options:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156123162,
+        "id": "3d9907e9-2390-4c7c-ad94-c271f3839267",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156123162,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "chidley \u003cflags\u003e xmlFileName|url\nxmlFileName can be .gz or .bz2: uncompressed transparently\nUsage of chidley:\n  -A string\n        The tag name attribute to use for the max length Go annotations\n  -B    Add database metadata to created Go structs\n  -C    Structs have underscores instead of CamelCase; how chidley used to produce output; includes name spaces (see -n)\n  -D string\n        Base directory for generated Java code (root of maven project) (default \"java\")\n  -F    Assume complete representative XML and collapse tags with only a single string and no attributes\n  -G    Only write generated Go structs to stdout (default true)\n  -I    If XML decoding error encountered, continue\n  -J    Generated Java code for Java/JAXB\n  -K    Do not change the case of the first letter of the XML tag names (default true)\n  -L    Ignore lower case XML tags\n  -M string\n        Set name of CDATA string field (default \"Text\")\n  -N string\n        The tag name to use for the max length Go annotations\n  -P string\n        Java package name (rightmost in full package name\n  -S string\n        The tag name separator to use for the max length Go annotations (default \":\")\n  -T string\n        Field template for the struct field definition. Can include annotations. Default is for XML and JSON (default \"{{.GoName}} {{.GoTypeArrayOrPointer}}{{.GoType}} `xml:\\\"{{if notEmpty .XMLNameSpace}}{{.XMLNameSpace}} {{end}}{{.XMLName}},omitempty\\\" json:\\\"{{.XMLName}},omitempty\\\"`\")\n  -W    Generate Go code to convert XML to JSON or XML (latter useful for validation) and write it to stdout\n  -X    Sort output of structs in Go code by order encounered in source XML (default is alphabetical order)\n  -Z int\n        The padding on the max length tag attribute\n  -a string\n        Prefix to attribute names (default \"Attr\")\n  -c    Read XML from standard input\n  -d    Debug; prints out much information\n  -e string\n        Prefix to struct (element) names; must start with a capital (default \"C\")\n  -h string\n        List of XML tags to ignore; comma separated\n  -k string\n        App name for Java code (appended to ca.gnewton.chidley Java package name)) (default \"jaxb\")\n  -m    Validate the field template. Useful to make sure the template defined with -T is valid\n  -n    Use the XML namespace prefix as prefix to JSON name\n  -p    Pretty-print json in generated code (if applicable)\n  -r    Progress: every 50000 input tags (elements)\n  -t    Use type info obtained from XML (int, bool, etc); default is to assume everything is a string; better chance at working if XMl sample is not complete\n  -u    Filename interpreted as an URL\n  -x    Add XMLName (Space, Local) for each XML element, to JSON"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "chidley \u003cflags\u003e xmlFileName|url\nxmlFileName can be .gz or .bz2: uncompressed transparently\nUsage of chidley:\n  -A string\n        The tag name attribute to use for the max length Go annotations\n  -B    Add database metadata to created Go structs\n  -C    Structs have underscores instead of CamelCase; how chidley used to produce output; includes name spaces (see -n)\n  -D string\n        Base directory for generated Java code (root of maven project) (default \"java\")\n  -F    Assume complete representative XML and collapse tags with only a single string and no attributes\n  -G    Only write generated Go structs to stdout (default true)\n  -I    If XML decoding error encountered, continue\n  -J    Generated Java code for Java/JAXB\n  -K    Do not change the case of the first letter of the XML tag names (default true)\n  -L    Ignore lower case XML tags\n  -M string\n        Set name of CDATA string field (default \"Text\")\n  -N string\n        The tag name to use for the max length Go annotations\n  -P string\n        Java package name (rightmost in full package name\n  -S string\n        The tag name separator to use for the max length Go annotations (default \":\")\n  -T string\n        Field template for the struct field definition. Can include annotations. Default is for XML and JSON (default \"{{.GoName}} {{.GoTypeArrayOrPointer}}{{.GoType}} `xml:\\\"{{if notEmpty .XMLNameSpace}}{{.XMLNameSpace}} {{end}}{{.XMLName}},omitempty\\\" json:\\\"{{.XMLName}},omitempty\\\"`\")\n  -W    Generate Go code to convert XML to JSON or XML (latter useful for validation) and write it to stdout\n  -X    Sort output of structs in Go code by order encounered in source XML (default is alphabetical order)\n  -Z int\n        The padding on the max length tag attribute\n  -a string\n        Prefix to attribute names (default \"Attr\")\n  -c    Read XML from standard input\n  -d    Debug; prints out much information\n  -e string\n        Prefix to struct (element) names; must start with a capital (default \"C\")\n  -h string\n        List of XML tags to ignore; comma separated\n  -k string\n        App name for Java code (appended to ca.gnewton.chidley Java package name)) (default \"jaxb\")\n  -m    Validate the field template. Useful to make sure the template defined with -T is valid\n  -n    Use the XML namespace prefix as prefix to JSON name\n  -p    Pretty-print json in generated code (if applicable)\n  -r    Progress: every 50000 input tags (elements)\n  -t    Use type info obtained from XML (int, bool, etc); default is to assume everything is a string; better chance at working if XMl sample is not complete\n  -u    Filename interpreted as an URL\n  -x    Add XMLName (Space, Local) for each XML element, to JSON",
+        "code_language": "Plain Text"
+      }
+    ],
+    "title": "Easy generation of XML struct definition",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

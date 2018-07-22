@@ -1,0 +1,172 @@
+{
+  "ID": "e36bda19-af74-45bd-b64f-648b76ed66bf",
+  "Page": {
+    "alive": true,
+    "content": [
+      "c1b2aa44-66ab-40ce-9bc9-c326abf9ff00",
+      "38bc2d28-7508-4743-9b71-0f80dbdc49f4",
+      "aa8ce3e2-f39e-4c4e-8f2f-abb6b9d31576",
+      "afc1c0ff-d286-4c1c-b5a6-6f1680030581",
+      "6041eaf4-e065-4fd5-9bf8-99978093c69f"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156225133,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "e36bda19-af74-45bd-b64f-648b76ed66bf",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213427017,
+    "parent_id": "a09f2d8c-9bba-44e0-acd0-a9206e8f733f",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "How to encode data and write to file with gob?"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213355062,
+        "id": "c1b2aa44-66ab-40ce-9bc9-c326abf9ff00",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213357242,
+        "parent_id": "e36bda19-af74-45bd-b64f-648b76ed66bf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 277"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 277"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213357242,
+        "id": "38bc2d28-7508-4743-9b71-0f80dbdc49f4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213359051,
+        "parent_id": "e36bda19-af74-45bd-b64f-648b76ed66bf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213359051,
+        "id": "aa8ce3e2-f39e-4c4e-8f2f-abb6b9d31576",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213361096,
+        "parent_id": "e36bda19-af74-45bd-b64f-648b76ed66bf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 27479"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 27479"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213361096,
+        "id": "afc1c0ff-d286-4c1c-b5a6-6f1680030581",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213361755,
+        "parent_id": "e36bda19-af74-45bd-b64f-648b76ed66bf",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156225133,
+        "id": "6041eaf4-e065-4fd5-9bf8-99978093c69f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213403215,
+        "parent_id": "e36bda19-af74-45bd-b64f-648b76ed66bf",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"encoding/gob\"\n    \"os\"\n)\n\ntype User struct {\n    Name string\n    Password string\n}\n\nfunc main() {\n\n    user := User{\n        Name: \"Angus\",\n        Password: \"1234\",\n    }\n\n    file, _ := os.Create(\"user.gob\")\n\n    defer file.Close()\n\n    encoder := gob.NewEncoder(file)\n\n    encoder.Encode(user)\n\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 145,
+        "code": "package main\n\nimport (\n    \"encoding/gob\"\n    \"os\"\n)\n\ntype User struct {\n    Name string\n    Password string\n}\n\nfunc main() {\n\n    user := User{\n        Name: \"Angus\",\n        Password: \"1234\",\n    }\n\n    file, _ := os.Create(\"user.gob\")\n\n    defer file.Close()\n\n    encoder := gob.NewEncoder(file)\n\n    encoder.Encode(user)\n\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "How to encode data and write to file with gob?",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

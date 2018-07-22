@@ -1,0 +1,294 @@
+{
+  "ID": "a5607165-a992-4553-82fc-804a092c0d90",
+  "Page": {
+    "alive": true,
+    "content": [
+      "df24e366-554d-4d8b-b753-b383b57aa259",
+      "29d2f4e2-3f09-4418-bea1-8ed55f0b2208",
+      "3df2eb66-4ee8-499b-9f3c-f976742e457c",
+      "b70c27b3-4881-496c-93d0-af6cd42c8b7e",
+      "bcff393e-4deb-4caa-9e0a-b63502ca3012",
+      "e56d9a6f-cd63-4c46-8af3-0036b1c5ccf3",
+      "db5d0413-899a-4a1e-91ed-d01d9e9db26a",
+      "a952e279-f68d-45d9-b79f-202a8d8c8566",
+      "20cce8bb-8472-4add-8a39-a8a2e7413273"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156153172,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "a5607165-a992-4553-82fc-804a092c0d90",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532209461744,
+    "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "range action"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 19,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209450481,
+        "id": "df24e366-554d-4d8b-b753-b383b57aa259",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209455206,
+        "parent_id": "a5607165-a992-4553-82fc-804a092c0d90",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 337"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 337"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209453783,
+        "id": "29d2f4e2-3f09-4418-bea1-8ed55f0b2208",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209453798,
+        "parent_id": "a5607165-a992-4553-82fc-804a092c0d90",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156153171,
+        "id": "3df2eb66-4ee8-499b-9f3c-f976742e457c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156153171,
+        "parent_id": "a5607165-a992-4553-82fc-804a092c0d90",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Just as in Go, "
+            ],
+            [
+              "range",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " can iterate over arrays, slices, maps and channels."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Just as in Go, "
+          },
+          {
+            "Text": "range",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " can iterate over arrays, slices, maps and channels."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156153171,
+        "id": "b70c27b3-4881-496c-93d0-af6cd42c8b7e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156153171,
+        "parent_id": "a5607165-a992-4553-82fc-804a092c0d90",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Range over arrays and slices"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Range over arrays and slices"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156153172,
+        "id": "bcff393e-4deb-4caa-9e0a-b63502ca3012",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156153172,
+        "parent_id": "a5607165-a992-4553-82fc-804a092c0d90",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file range_array_slice.go output sha1:fd5e2056e43d6e2d40e8dba4f191e1732d26acd8 goplayground:bBhnZe19ii5"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file range_array_slice.go output sha1:fd5e2056e43d6e2d40e8dba4f191e1732d26acd8 goplayground:bBhnZe19ii5"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156153172,
+        "id": "e56d9a6f-cd63-4c46-8af3-0036b1c5ccf3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156153172,
+        "parent_id": "a5607165-a992-4553-82fc-804a092c0d90",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Range over maps"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Range over maps"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156153172,
+        "id": "db5d0413-899a-4a1e-91ed-d01d9e9db26a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156153172,
+        "parent_id": "a5607165-a992-4553-82fc-804a092c0d90",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file range_map.go output sha1:4db00b9be6d5930157db14b84be8dcf61b859ff7 goplayground:XwwyoA2b-sD"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file range_map.go output sha1:4db00b9be6d5930157db14b84be8dcf61b859ff7 goplayground:XwwyoA2b-sD"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156153172,
+        "id": "a952e279-f68d-45d9-b79f-202a8d8c8566",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156153172,
+        "parent_id": "a5607165-a992-4553-82fc-804a092c0d90",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Range over channels"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Range over channels"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156153172,
+        "id": "20cce8bb-8472-4add-8a39-a8a2e7413273",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156153172,
+        "parent_id": "a5607165-a992-4553-82fc-804a092c0d90",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file range_channel.go output sha1:66f55754632bd3d50886dba25a1f637bca77d99f goplayground:6VEEbL9fttv"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file range_channel.go output sha1:66f55754632bd3d50886dba25a1f637bca77d99f goplayground:6VEEbL9fttv"
+          }
+        ]
+      }
+    ],
+    "title": "range action",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

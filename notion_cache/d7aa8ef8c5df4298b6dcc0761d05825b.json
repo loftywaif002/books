@@ -1,0 +1,1529 @@
+{
+  "ID": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+  "Page": {
+    "alive": true,
+    "content": [
+      "174e9890-8681-4468-9fcf-9bf6a53429b9",
+      "f752a33e-0d96-4d1b-91c5-df3fc5e85d4b",
+      "890d77f7-9996-4b83-ad3d-4ba02dae98b4",
+      "4fa7f12b-762c-4c4d-91a9-fb0322780e1e",
+      "c9d4c32d-0aca-4446-91e7-2fda0e635de5",
+      "3dced9bf-f932-4a8e-b82c-8ac29c22157d",
+      "1051215f-261e-4964-8522-a69a463e98ca",
+      "ec1d4423-a0fe-4c81-a897-6906f8772dd5",
+      "3c80a05f-2e31-4b04-9600-f2d0f9d8765d",
+      "352a10fd-7d2b-47f9-9aed-b0ed30578fcc",
+      "0f7f8f96-8f3c-4da3-81de-1d9efb2ec1ea",
+      "8f892a9e-2c45-4f47-806d-40c041f75015",
+      "16f4f862-6c16-41c0-a276-e0db19e12af9",
+      "8703abba-614d-4b07-84e9-414764128fde",
+      "44b0611a-9429-4ca5-9651-90ef5ae06dc1",
+      "c94e0127-b8c5-441d-ae0d-68429fd6c5d3",
+      "43061a1c-b1b9-4ed3-95ed-78b2ab8a6fd3",
+      "0243cc18-0438-48a1-a17a-ccf25d06cfaa",
+      "9c16ba9c-439a-47fe-ad43-d127b3ff9452",
+      "89f36b53-b51a-42b4-9689-b67c70119aae",
+      "354114d7-d6b0-4505-a37a-fec20c293a83",
+      "9af54b96-e8dd-4171-8270-0f4f78c6613b",
+      "9ddbdadf-5ad6-478f-bf22-92ca67333ec0",
+      "b2b40a87-993f-4451-ac08-fdda4288fc31",
+      "1d6573c5-b427-4fb6-8190-ee59679e1b63",
+      "4c400f30-80aa-42b7-8b9f-0efec6c0ec33",
+      "37b6cc88-f9db-4a3f-9935-fb36e72a619c",
+      "4c81c44e-bfb0-4880-882a-e4e8fccc5a0c",
+      "c3926ffd-c4f6-48bc-85bc-2d61c36f698d",
+      "f746bca0-7a6f-4b64-a1e4-221b9008c186",
+      "cad77946-8ada-4380-bde4-bc2ee7ce0ac5",
+      "70b9474c-21d8-4f5e-bc6d-fcb10d75ddf5",
+      "3fb8259c-4c57-4562-a86d-d014f0f194c8",
+      "83e3bb9c-b2a2-4cd5-91da-d5b052169308",
+      "d4cb1277-ea09-46cf-b88e-09819a5e9c05",
+      "006b444b-dc53-40ec-b11c-6fb6b7eca2c2",
+      "348ce1eb-b199-4327-bbf4-47e6e7812332",
+      "2b289229-9b38-41ba-bc5f-4b7f19664120",
+      "13d7f650-0206-4866-8967-e6746bc208ef"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156125208,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532208213840,
+    "parent_id": "abb984fe-c0d0-4d74-b2d4-94ed3206d1bc",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Configuring CSV parsing and writing"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208177966,
+        "id": "174e9890-8681-4468-9fcf-9bf6a53429b9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208181755,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 192"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 192"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208181755,
+        "id": "f752a33e-0d96-4d1b-91c5-df3fc5e85d4b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208183964,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 20508"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 20508"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208185205,
+        "id": "890d77f7-9996-4b83-ad3d-4ba02dae98b4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208185205,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208183964,
+        "id": "4fa7f12b-762c-4c4d-91a9-fb0322780e1e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208196091,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "CSV is not a well-defined format. It doesn’t have a specification and there are many variants."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 71,
+        "inline_content": [
+          {
+            "Text": "CSV is not a well-defined format. It doesn’t have a specification and there are many variants."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125201,
+        "id": "c9d4c32d-0aca-4446-91e7-2fda0e635de5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125201,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Package "
+            ],
+            [
+              "encoding/csv",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/encoding/csv/"
+                ]
+              ]
+            ],
+            [
+              " supports most common CSV formats and allows tweaking reading and writing process."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Package "
+          },
+          {
+            "Text": "encoding/csv",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/encoding/csv/"
+          },
+          {
+            "Text": " supports most common CSV formats and allows tweaking reading and writing process."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125201,
+        "id": "3dced9bf-f932-4a8e-b82c-8ac29c22157d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125201,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Configuring CSV Reader"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Configuring CSV Reader"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125202,
+        "id": "1051215f-261e-4964-8522-a69a463e98ca",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125202,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "After you create "
+            ],
+            [
+              "csv.Reader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " with "
+            ],
+            [
+              "csv.NewReader()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", you can set the following fields to change the behavior."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "After you create "
+          },
+          {
+            "Text": "csv.Reader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " with "
+          },
+          {
+            "Text": "csv.NewReader()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", you can set the following fields to change the behavior."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125202,
+        "id": "ec1d4423-a0fe-4c81-a897-6906f8772dd5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125202,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Comma",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Comma",
+            "AttrFlags": 3
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125202,
+        "id": "3c80a05f-2e31-4b04-9600-f2d0f9d8765d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125202,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Most CSV files use "
+            ],
+            [
+              ",",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to separate records but other characters are used too. If you have a file that uses "
+            ],
+            [
+              ";",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " as a separator you can configure a reader with "
+            ],
+            [
+              "r.Comma = ';'",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Most CSV files use "
+          },
+          {
+            "Text": ",",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to separate records but other characters are used too. If you have a file that uses "
+          },
+          {
+            "Text": ";",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " as a separator you can configure a reader with "
+          },
+          {
+            "Text": "r.Comma = ';'",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125202,
+        "id": "352a10fd-7d2b-47f9-9aed-b0ed30578fcc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125202,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Comment",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Comment",
+            "AttrFlags": 3
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125203,
+        "id": "0f7f8f96-8f3c-4da3-81de-1d9efb2ec1ea",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125203,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you want to treat some CSV as comments and ignore them during reading, you can set a comment character."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you want to treat some CSV as comments and ignore them during reading, you can set a comment character."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125203,
+        "id": "8f892a9e-2c45-4f47-806d-40c041f75015",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125203,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For example if CSV file is:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For example if CSV file is:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125203,
+        "id": "16f4f862-6c16-41c0-a276-e0db19e12af9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125203,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "# Comment\n2013-02-08,15.07,AAL"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "# Comment\n2013-02-08,15.07,AAL",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125203,
+        "id": "8703abba-614d-4b07-84e9-414764128fde",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125203,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "you can ignore comment lines by setting "
+            ],
+            [
+              "r.Comment = '#'",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "you can ignore comment lines by setting "
+          },
+          {
+            "Text": "r.Comment = '#'",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125203,
+        "id": "44b0611a-9429-4ca5-9651-90ef5ae06dc1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125203,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "By default CSV reader doesn’t detect comments and will return an error trying to parse comment line."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "By default CSV reader doesn’t detect comments and will return an error trying to parse comment line."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125204,
+        "id": "c94e0127-b8c5-441d-ae0d-68429fd6c5d3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125204,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "FieldsPerRecord",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "FieldsPerRecord",
+            "AttrFlags": 3
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125204,
+        "id": "43061a1c-b1b9-4ed3-95ed-78b2ab8a6fd3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125204,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Each line in a CSV file (a record) can have a different number of fields."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Each line in a CSV file (a record) can have a different number of fields."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125204,
+        "id": "0243cc18-0438-48a1-a17a-ccf25d06cfaa",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125204,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you know that e.g. CSV file you’re parsing always has 5 fields in each record (line) then set "
+            ],
+            [
+              "r.FieldsPerRecord = 5",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". "
+            ],
+            [
+              "Read()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " will return an error if there’s a mismatch."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you know that e.g. CSV file you’re parsing always has 5 fields in each record (line) then set "
+          },
+          {
+            "Text": "r.FieldsPerRecord = 5",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". "
+          },
+          {
+            "Text": "Read()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " will return an error if there’s a mismatch."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125204,
+        "id": "9c16ba9c-439a-47fe-ad43-d127b3ff9452",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125204,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you don’t know how many fields there are but know that it’s always the same number, use "
+            ],
+            [
+              "r.FieldsPerRecord = 0",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". This is a default so you don’t have to do it explicitly."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you don’t know how many fields there are but know that it’s always the same number, use "
+          },
+          {
+            "Text": "r.FieldsPerRecord = 0",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". This is a default so you don’t have to do it explicitly."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125204,
+        "id": "89f36b53-b51a-42b4-9689-b67c70119aae",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125204,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In that case "
+            ],
+            [
+              "csv.Reader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " will use the first line to detect number of fields and will return an error if subsequent records have a different number of fields."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In that case "
+          },
+          {
+            "Text": "csv.Reader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " will use the first line to detect number of fields and will return an error if subsequent records have a different number of fields."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125205,
+        "id": "354114d7-d6b0-4505-a37a-fec20c293a83",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125205,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you want to allow a variable number of fields per record, set "
+            ],
+            [
+              "r.FieldsPerRecord = -1",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you want to allow a variable number of fields per record, set "
+          },
+          {
+            "Text": "r.FieldsPerRecord = -1",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125205,
+        "id": "9af54b96-e8dd-4171-8270-0f4f78c6613b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125205,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "LazyQuotes",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "LazyQuotes",
+            "AttrFlags": 3
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125205,
+        "id": "9ddbdadf-5ad6-478f-bf22-92ca67333ec0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125205,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "By default false."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "By default false."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125205,
+        "id": "b2b40a87-993f-4451-ac08-fdda4288fc31",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125205,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If true, "
+            ],
+            [
+              "csv.Reader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is more lax about parsing of quoted values i.e. a quote may appear in an unquoted field and a non-doubled quote may appear in a quoted field."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If true, "
+          },
+          {
+            "Text": "csv.Reader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is more lax about parsing of quoted values i.e. a quote may appear in an unquoted field and a non-doubled quote may appear in a quoted field."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125205,
+        "id": "1d6573c5-b427-4fb6-8190-ee59679e1b63",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125205,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "TrimLeadingSpace",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "TrimLeadingSpace",
+            "AttrFlags": 3
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125205,
+        "id": "4c400f30-80aa-42b7-8b9f-0efec6c0ec33",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125205,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "By default false."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "By default false."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125206,
+        "id": "37b6cc88-f9db-4a3f-9935-fb36e72a619c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125206,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If true, "
+            ],
+            [
+              "csv.Reader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " leading white space in a field is ignored."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If true, "
+          },
+          {
+            "Text": "csv.Reader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " leading white space in a field is ignored."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125206,
+        "id": "4c81c44e-bfb0-4880-882a-e4e8fccc5a0c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125206,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "ReuseRecord",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "ReuseRecord",
+            "AttrFlags": 3
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125206,
+        "id": "c3926ffd-c4f6-48bc-85bc-2d61c36f698d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125206,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "By default false."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "By default false."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125206,
+        "id": "f746bca0-7a6f-4b64-a1e4-221b9008c186",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125206,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If true, the "
+            ],
+            [
+              "[]string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " slice returned by "
+            ],
+            [
+              "Read()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " might be re-used across "
+            ],
+            [
+              "Read()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " calls."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If true, the "
+          },
+          {
+            "Text": "[]string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " slice returned by "
+          },
+          {
+            "Text": "Read()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " might be re-used across "
+          },
+          {
+            "Text": "Read()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " calls."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125206,
+        "id": "cad77946-8ada-4380-bde4-bc2ee7ce0ac5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125206,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is faster but you have to be more careful when using the result."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is faster but you have to be more careful when using the result."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125206,
+        "id": "70b9474c-21d8-4f5e-bc6d-fcb10d75ddf5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125206,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Configuring CSV writer"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Configuring CSV writer"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125207,
+        "id": "3fb8259c-4c57-4562-a86d-d014f0f194c8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125207,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "After you create "
+            ],
+            [
+              "csv.Writer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " with "
+            ],
+            [
+              "csv.NewWriter()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", you can set the following fields to change the behavior."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "After you create "
+          },
+          {
+            "Text": "csv.Writer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " with "
+          },
+          {
+            "Text": "csv.NewWriter()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", you can set the following fields to change the behavior."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125207,
+        "id": "83e3bb9c-b2a2-4cd5-91da-d5b052169308",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125207,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Comma",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Comma",
+            "AttrFlags": 3
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125207,
+        "id": "d4cb1277-ea09-46cf-b88e-09819a5e9c05",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125207,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Field delimiter, "
+            ],
+            [
+              ",",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " by default."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Field delimiter, "
+          },
+          {
+            "Text": ",",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " by default."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125207,
+        "id": "006b444b-dc53-40ec-b11c-6fb6b7eca2c2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125207,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "UseCRLF",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "UseCRLF",
+            "AttrFlags": 3
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125207,
+        "id": "348ce1eb-b199-4327-bbf4-47e6e7812332",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125207,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "False by default."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "False by default."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125207,
+        "id": "2b289229-9b38-41ba-bc5f-4b7f19664120",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125207,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If true, uses Windows style line terminator (CRLF i.e. "
+            ],
+            [
+              "\\r\\n",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ")."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If true, uses Windows style line terminator (CRLF i.e. "
+          },
+          {
+            "Text": "\\r\\n",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ")."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156125208,
+        "id": "13d7f650-0206-4866-8967-e6746bc208ef",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156125208,
+        "parent_id": "d7aa8ef8-c5df-4298-b6dc-c0761d05825b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "By default uses Unix style line terminator (LF i.e. "
+            ],
+            [
+              "\\n",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ")."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "By default uses Unix style line terminator (LF i.e. "
+          },
+          {
+            "Text": "\\n",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ")."
+          }
+        ]
+      }
+    ],
+    "title": "Configuring CSV parsing and writing",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

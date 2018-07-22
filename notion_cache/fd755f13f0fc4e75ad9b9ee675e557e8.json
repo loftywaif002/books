@@ -1,0 +1,516 @@
+{
+  "ID": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+  "Page": {
+    "alive": true,
+    "content": [
+      "9297d0df-ad6b-42e7-bc9a-a976880b7eb3",
+      "1f8fe7cf-e590-43c6-8f05-d5a85d42131e",
+      "8723d83b-2272-4356-9e99-f27f42f96c48",
+      "58df0d73-7b7f-4cf2-99e3-a21f5652f310",
+      "c761cc0c-4ad5-4b13-8aa5-89d6665558f7",
+      "adcdee0d-e295-4564-9bd0-e7789a71843b",
+      "e57e11c5-61dd-412e-9608-a0c4e0d9ded1",
+      "b7bd46b7-4d1e-46bd-8924-44af8db3025b",
+      "81ce0edf-7a69-40b4-a94e-8d832ecd466b",
+      "0203deec-a096-4087-81c7-6e8639e4678c",
+      "8d6fee3e-9dc9-4ac5-92f7-c8ba1562100b",
+      "77498e7b-3d31-464c-9def-3316dfe26415",
+      "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156021145,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235704911,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "if, switch, goto"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 35,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203168954,
+        "id": "9297d0df-ad6b-42e7-bc9a-a976880b7eb3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235696223,
+        "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 97"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 97"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203170844,
+        "id": "1f8fe7cf-e590-43c6-8f05-d5a85d42131e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235697228,
+        "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1342"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1342"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203177221,
+        "id": "8723d83b-2272-4356-9e99-f27f42f96c48",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203177221,
+        "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203172829,
+        "id": "58df0d73-7b7f-4cf2-99e3-a21f5652f310",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203176757,
+        "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Basics of "
+            ],
+            [
+              "if",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Basics of "
+          },
+          {
+            "Text": "if",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156021143,
+        "id": "c761cc0c-4ad5-4b13-8aa5-89d6665558f7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156021143,
+        "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index.go output sha1:e425791f3ab0fed4e5b51c9f8f1b6eead8d1b938 goplayground:_evOxv3H5Ml"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index.go output sha1:e425791f3ab0fed4e5b51c9f8f1b6eead8d1b938 goplayground:_evOxv3H5Ml"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156021143,
+        "id": "adcdee0d-e295-4564-9bd0-e7789a71843b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156021143,
+        "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Basics of "
+            ],
+            [
+              "switch",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Basics of "
+          },
+          {
+            "Text": "switch",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156021144,
+        "id": "e57e11c5-61dd-412e-9608-a0c4e0d9ded1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156021144,
+        "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index2.go output sha1:4218c05161df22f3d33878a09a7ec35871a23226 goplayground:veunNs8q2gk"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index2.go output sha1:4218c05161df22f3d33878a09a7ec35871a23226 goplayground:veunNs8q2gk"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156021144,
+        "id": "b7bd46b7-4d1e-46bd-8924-44af8db3025b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156021144,
+        "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Notice that unlike in C++, "
+            ],
+            [
+              "case",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statement doesn’t fall throught to the next "
+            ],
+            [
+              "case",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", so you don’t have to put "
+            ],
+            [
+              "break",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " at the end of each "
+            ],
+            [
+              "case",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Notice that unlike in C++, "
+          },
+          {
+            "Text": "case",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statement doesn’t fall throught to the next "
+          },
+          {
+            "Text": "case",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", so you don’t have to put "
+          },
+          {
+            "Text": "break",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " at the end of each "
+          },
+          {
+            "Text": "case",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156021145,
+        "id": "81ce0edf-7a69-40b4-a94e-8d832ecd466b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235718903,
+        "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Switch is also used as a "
+            ],
+            [
+              "type switch",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Type-switch-b81d270c56fd42e39e2ebd5f74f0413b"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Switch is also used as a "
+          },
+          {
+            "Text": "type switch",
+            "Link": "https://www.notion.so/kjkpublic/Type-switch-b81d270c56fd42e39e2ebd5f74f0413b"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532235704911,
+        "id": "0203deec-a096-4087-81c7-6e8639e4678c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235704911,
+        "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156022559,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "8d6fee3e-9dc9-4ac5-92f7-c8ba1562100b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235727979,
+        "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "if statement"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 27,
+        "title": "if statement",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156023177,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "77498e7b-3d31-464c-9def-3316dfe26415",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235736999,
+        "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "switch statement"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 27,
+        "title": "switch statement",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156024114,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235744537,
+        "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "goto statements"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "goto statements",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "if, switch, goto",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

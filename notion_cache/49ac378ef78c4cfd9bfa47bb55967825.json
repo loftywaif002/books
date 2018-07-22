@@ -1,0 +1,320 @@
+{
+  "ID": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
+  "Page": {
+    "alive": true,
+    "content": [
+      "63abadd3-4b25-455a-a2e8-61dd69f2d67e",
+      "ab881977-6734-4722-88fd-f8085f482d25",
+      "c06c0090-82db-4543-bfbd-1d555e30aadb",
+      "7ffd711c-6d56-4346-acb4-ab5451661178",
+      "242a4b38-adec-4e0f-8362-8b6384bde059",
+      "929d8e45-ba0d-4df1-81e5-09115689596f",
+      "9d39c7f3-92d3-4369-847b-f651fa6e84c5",
+      "1bcd9334-f289-40af-ae41-cf0d31273211",
+      "f6863227-a71d-4485-bcad-db45917bae18",
+      "bb2e2850-5568-4bf7-9581-9503c9f187fd"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155942155,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532233943068,
+    "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Pointers"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194729413,
+        "id": "63abadd3-4b25-455a-a2e8-61dd69f2d67e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233943866,
+        "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 26"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 26"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194730883,
+        "id": "ab881977-6734-4722-88fd-f8085f482d25",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233944631,
+        "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 801000gd"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 801000gd"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194733593,
+        "id": "c06c0090-82db-4543-bfbd-1d555e30aadb",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194733604,
+        "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155942153,
+        "id": "7ffd711c-6d56-4346-acb4-ab5451661178",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155942153,
+        "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A pointer to a type is the address of the value of that type in memory."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A pointer to a type is the address of the value of that type in memory."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155942153,
+        "id": "242a4b38-adec-4e0f-8362-8b6384bde059",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155942153,
+        "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Unlike C, Go doesn’t have pointer arithmetic. You can take an address of a variable but you can’t add or substract from a pointer."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Unlike C, Go doesn’t have pointer arithmetic. You can take an address of a variable but you can’t add or substract from a pointer."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155942153,
+        "id": "929d8e45-ba0d-4df1-81e5-09115689596f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155942153,
+        "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Pointer basics:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Pointer basics:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155942153,
+        "id": "9d39c7f3-92d3-4369-847b-f651fa6e84c5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155942153,
+        "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file pointers.go output sha1:102111b2ade42bb8c5942d838195a7ab483e2179 goplayground:EfKNIL0I1d6"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file pointers.go output sha1:102111b2ade42bb8c5942d838195a7ab483e2179 goplayground:EfKNIL0I1d6"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155942155,
+        "id": "1bcd9334-f289-40af-ae41-cf0d31273211",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233959107,
+        "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of a pointer is nil."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of a pointer is nil."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155942155,
+        "id": "f6863227-a71d-4485-bcad-db45917bae18",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233979795,
+        "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Learn more about "
+            ],
+            [
+              "pointers",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Pointers-1ef07599dd8247f493ba6dcba8ae7dbf"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Learn more about "
+          },
+          {
+            "Text": "pointers",
+            "Link": "https://www.notion.so/kjkpublic/Pointers-1ef07599dd8247f493ba6dcba8ae7dbf"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194739696,
+        "id": "bb2e2850-5568-4bf7-9581-9503c9f187fd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194739696,
+        "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Pointers",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

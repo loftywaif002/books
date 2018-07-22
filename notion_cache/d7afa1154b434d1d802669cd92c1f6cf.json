@@ -1,0 +1,184 @@
+{
+  "ID": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+  "Page": {
+    "alive": true,
+    "content": [
+      "27458d7f-218d-48db-800b-9befc68b4085",
+      "337f7ea5-b1f0-49bb-8b36-15211c3f6a3f",
+      "1484f4ee-299c-4f2b-9e1d-04f737addff9",
+      "502e0bdc-8ba2-43fc-aa35-3c42fc199736",
+      "63e231be-8a31-40a7-addd-a4a7ee99c2c7",
+      "6b6796a0-bcb5-461e-9ba0-98585f6d94e9"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155986202,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234809035,
+    "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Filter a slice"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196249601,
+        "id": "27458d7f-218d-48db-800b-9befc68b4085",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234809753,
+        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 65"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 65"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196251011,
+        "id": "337f7ea5-b1f0-49bb-8b36-15211c3f6a3f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234810482,
+        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 6786"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 6786"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196253071,
+        "id": "1484f4ee-299c-4f2b-9e1d-04f737addff9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196253083,
+        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155986201,
+        "id": "502e0bdc-8ba2-43fc-aa35-3c42fc199736",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155986201,
+        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To filter a slice without allocating a new underlying array:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To filter a slice without allocating a new underlying array:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155986202,
+        "id": "63e231be-8a31-40a7-addd-a4a7ee99c2c7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155986202,
+        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file filtering_slice.go output sha1:50e9b620271bc3a5f45b02be9cfb01525aa7d798 goplayground:6nJnbUA0kj_Y"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file filtering_slice.go output sha1:50e9b620271bc3a5f45b02be9cfb01525aa7d798 goplayground:6nJnbUA0kj_Y"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196258562,
+        "id": "6b6796a0-bcb5-461e-9ba0-98585f6d94e9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196258562,
+        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Filter a slice",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,160 @@
+{
+  "ID": "92a11cd1-d920-48da-8b6f-497dab1289a2",
+  "Page": {
+    "alive": true,
+    "content": [
+      "94abab96-ae95-4ce3-af7f-6b016ab31d65",
+      "9459ade1-32c8-4244-9e76-686968b463c3",
+      "90bc05d0-208f-4a8a-8bd8-cc669c49f713",
+      "66a8f218-f800-442e-8371-3665f0b9d491",
+      "ec30b71f-527c-4e71-ada7-1ccb79c5051c"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156227244,
+    "id": "92a11cd1-d920-48da-8b6f-497dab1289a2",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213494687,
+    "parent_id": "a09f2d8c-9bba-44e0-acd0-a9206e8f733f",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "How to encode an interface with gob?"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 19,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213478484,
+        "id": "94abab96-ae95-4ce3-af7f-6b016ab31d65",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213488541,
+        "parent_id": "92a11cd1-d920-48da-8b6f-497dab1289a2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 279"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 279"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213480790,
+        "id": "9459ade1-32c8-4244-9e76-686968b463c3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213486630,
+        "parent_id": "92a11cd1-d920-48da-8b6f-497dab1289a2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213482630,
+        "id": "90bc05d0-208f-4a8a-8bd8-cc669c49f713",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213485855,
+        "parent_id": "92a11cd1-d920-48da-8b6f-497dab1289a2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 27481"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 27481"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213484366,
+        "id": "66a8f218-f800-442e-8371-3665f0b9d491",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213485031,
+        "parent_id": "92a11cd1-d920-48da-8b6f-497dab1289a2",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156227244,
+        "id": "ec30b71f-527c-4e71-ada7-1ccb79c5051c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213509740,
+        "parent_id": "92a11cd1-d920-48da-8b6f-497dab1289a2",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"encoding/gob\"\n    \"fmt\"\n    \"os\"\n)\n\ntype User struct {\n    Username string\n    Password string\n}\n\ntype Admin struct {\n    Username string\n    Password string\n    IsAdmin  bool\n}\n\ntype Deleter interface {\n    Delete()\n}\n\nfunc (u User) Delete() {\n    fmt.Println(\"User ==\u003e Delete()\")\n}\n\nfunc (a Admin) Delete() {\n    fmt.Println(\"Admin ==\u003e Delete()\")\n}\n\nfunc main() {\n\n    user := User{\n        \"zola\",\n        \"supersecretpassword\",\n    }\n\n    admin := Admin{\n        \"john\",\n        \"supersecretpassword\",\n        true,\n    }\n\n    file, _ := os.Create(\"user.gob\")\n\n    adminFile, _ := os.Create(\"admin.gob\")\n\n    defer file.Close()\n\n    defer adminFile.Close()\n\n    gob.Register(User{}) // registering the type allows us to encode it\n\n    gob.Register(Admin{}) // registering the type allows us to encode it\n\n    encoder := gob.NewEncoder(file)\n\n    adminEncoder := gob.NewEncoder(adminFile)\n\n    InterfaceEncode(encoder, user)\n\n    InterfaceEncode(adminEncoder, admin)\n\n}\n\nfunc InterfaceEncode(encoder *gob.Encoder, d Deleter) {\n\n    if err := encoder.Encode(\u0026d); err != nil {\n        fmt.Println(err)\n    }\n\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"encoding/gob\"\n    \"fmt\"\n    \"os\"\n)\n\ntype User struct {\n    Username string\n    Password string\n}\n\ntype Admin struct {\n    Username string\n    Password string\n    IsAdmin  bool\n}\n\ntype Deleter interface {\n    Delete()\n}\n\nfunc (u User) Delete() {\n    fmt.Println(\"User ==\u003e Delete()\")\n}\n\nfunc (a Admin) Delete() {\n    fmt.Println(\"Admin ==\u003e Delete()\")\n}\n\nfunc main() {\n\n    user := User{\n        \"zola\",\n        \"supersecretpassword\",\n    }\n\n    admin := Admin{\n        \"john\",\n        \"supersecretpassword\",\n        true,\n    }\n\n    file, _ := os.Create(\"user.gob\")\n\n    adminFile, _ := os.Create(\"admin.gob\")\n\n    defer file.Close()\n\n    defer adminFile.Close()\n\n    gob.Register(User{}) // registering the type allows us to encode it\n\n    gob.Register(Admin{}) // registering the type allows us to encode it\n\n    encoder := gob.NewEncoder(file)\n\n    adminEncoder := gob.NewEncoder(adminFile)\n\n    InterfaceEncode(encoder, user)\n\n    InterfaceEncode(adminEncoder, admin)\n\n}\n\nfunc InterfaceEncode(encoder *gob.Encoder, d Deleter) {\n\n    if err := encoder.Encode(\u0026d); err != nil {\n        fmt.Println(err)\n    }\n\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "How to encode an interface with gob?"
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

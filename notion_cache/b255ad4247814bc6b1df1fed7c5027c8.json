@@ -1,0 +1,189 @@
+{
+  "ID": "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
+  "Page": {
+    "alive": true,
+    "content": [
+      "c5c1f187-3408-4a83-8dbd-62d3200766ef",
+      "f3fece92-4bec-4baf-a9ae-c7cff45c1d51",
+      "0f543ace-d3e8-4ee5-9105-ea2acc0269f3",
+      "ddc842b9-cf0d-489c-9fcf-1d6dac9f602d",
+      "52ee85f2-f9ac-495b-a151-50ef005d9e68"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156037203,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236001166,
+    "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Variadic functions"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204438773,
+        "id": "c5c1f187-3408-4a83-8dbd-62d3200766ef",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235998588,
+        "parent_id": "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 113"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Id: 113"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204440874,
+        "id": "f3fece92-4bec-4baf-a9ae-c7cff45c1d51",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235999716,
+        "parent_id": "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1266"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1266"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204443097,
+        "id": "0f543ace-d3e8-4ee5-9105-ea2acc0269f3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532204443945,
+        "parent_id": "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156037203,
+        "id": "ddc842b9-cf0d-489c-9fcf-1d6dac9f602d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156037203,
+        "parent_id": "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A variadic function can be called with any number of "
+            ],
+            [
+              "trailing",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " arguments. Those elements are stored in a slice."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A variadic function can be called with any number of "
+          },
+          {
+            "Text": "trailing",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " arguments. Those elements are stored in a slice."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156037203,
+        "id": "52ee85f2-f9ac-495b-a151-50ef005d9e68",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156037203,
+        "parent_id": "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file variadic.go output sha1:4c941b06fa42ee1b046063ce1c8851a9d9295356 goplayground:c4KLAlenGkW"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file variadic.go output sha1:4c941b06fa42ee1b046063ce1c8851a9d9295356 goplayground:c4KLAlenGkW"
+          }
+        ]
+      }
+    ],
+    "title": "Variadic functions",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

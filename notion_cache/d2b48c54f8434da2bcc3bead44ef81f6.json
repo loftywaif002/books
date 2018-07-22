@@ -1,0 +1,280 @@
+{
+  "ID": "d2b48c54-f843-4da2-bcc3-bead44ef81f6",
+  "Page": {
+    "alive": true,
+    "content": [
+      "2a1882e9-c266-4e72-b0cf-05e5603418cc",
+      "84acd206-cdab-4881-a236-932d9d50a765",
+      "01ece496-b020-4489-b718-2e65504ee21c",
+      "7344b3f7-2c5d-46b1-b474-3e66ff040041",
+      "d1aa1258-5d88-49b1-a63d-c6c2e7976dca",
+      "ab2b9125-a4fd-4283-8a0f-e96d5a9585c3",
+      "725be384-f335-4d0f-99da-b3e4cb98be37",
+      "8925f4c8-81b1-4950-8aec-d150bf1cf325",
+      "2c2a5ad7-7810-4885-ab36-e3d8a1d77797"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156016150,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "d2b48c54-f843-4da2-bcc3-bead44ef81f6",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235547945,
+    "parent_id": "4f5f2959-e72c-431e-9955-27b51ad7fd8e",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Determining underlying type from interface"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197270526,
+        "id": "2a1882e9-c266-4e72-b0cf-05e5603418cc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235548789,
+        "parent_id": "d2b48c54-f843-4da2-bcc3-bead44ef81f6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 92"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 92"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197272090,
+        "id": "84acd206-cdab-4881-a236-932d9d50a765",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235549489,
+        "parent_id": "d2b48c54-f843-4da2-bcc3-bead44ef81f6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 6081"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 6081"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197274876,
+        "id": "01ece496-b020-4489-b718-2e65504ee21c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197274876,
+        "parent_id": "d2b48c54-f843-4da2-bcc3-bead44ef81f6",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197273690,
+        "id": "7344b3f7-2c5d-46b1-b474-3e66ff040041",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197274647,
+        "parent_id": "d2b48c54-f843-4da2-bcc3-bead44ef81f6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In go it can sometimes be useful to know which underlying type you have been passed. This can be done with a type switch. This assumes we have two structs:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "In go it can sometimes be useful to know which underlying type you have been passed. This can be done with a type switch. This assumes we have two structs:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156016149,
+        "id": "d1aa1258-5d88-49b1-a63d-c6c2e7976dca",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197278245,
+        "parent_id": "d2b48c54-f843-4da2-bcc3-bead44ef81f6",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Rembrandt struct{}\n\nfunc (r Rembrandt) Paint() {}\n\ntype Picasso struct{}\n\nfunc (r Picasso) Paint() {}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Rembrandt struct{}\n\nfunc (r Rembrandt) Paint() {}\n\ntype Picasso struct{}\n\nfunc (r Picasso) Paint() {}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156016149,
+        "id": "ab2b9125-a4fd-4283-8a0f-e96d5a9585c3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156016149,
+        "parent_id": "d2b48c54-f843-4da2-bcc3-bead44ef81f6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "That implement the Painter interface:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "That implement the Painter interface:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156016149,
+        "id": "725be384-f335-4d0f-99da-b3e4cb98be37",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197279743,
+        "parent_id": "d2b48c54-f843-4da2-bcc3-bead44ef81f6",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Painter interface {\n    Paint()\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Painter interface {\n    Paint()\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156016149,
+        "id": "8925f4c8-81b1-4950-8aec-d150bf1cf325",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156016149,
+        "parent_id": "d2b48c54-f843-4da2-bcc3-bead44ef81f6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Then we can use this switch to determine the underlying type:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Then we can use this switch to determine the underlying type:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156016150,
+        "id": "2c2a5ad7-7810-4885-ab36-e3d8a1d77797",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197281788,
+        "parent_id": "d2b48c54-f843-4da2-bcc3-bead44ef81f6",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func WhichPainter(painter Painter) {\n    switch painter.(type) {\n    case Rembrandt:\n        fmt.Println(\"The underlying type is Rembrandt\")\n    case Picasso:\n        fmt.Println(\"The underlying type is Picasso\")\n    default:\n        fmt.Println(\"Unknown type\")\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func WhichPainter(painter Painter) {\n    switch painter.(type) {\n    case Rembrandt:\n        fmt.Println(\"The underlying type is Rembrandt\")\n    case Picasso:\n        fmt.Println(\"The underlying type is Picasso\")\n    default:\n        fmt.Println(\"Unknown type\")\n    }\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Determining underlying type from interface",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

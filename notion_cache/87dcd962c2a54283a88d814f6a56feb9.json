@@ -1,0 +1,620 @@
+{
+  "ID": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+  "Page": {
+    "alive": true,
+    "content": [
+      "60fd9634-e079-45ed-8362-6e3efb7446fa",
+      "d1d6a157-8d54-437a-b55c-ef90ab81718e",
+      "aee44bf0-f82f-4895-8662-925cdc6fa690",
+      "97afdb2d-5143-4e71-bc6f-08aba33759ea",
+      "372df27f-e6ae-4908-8e05-ac9f22770ece",
+      "6ff10b77-c93a-444e-adf1-5bb8ad64b6e0",
+      "59a448aa-5bae-4a98-936d-e362bd2190b4",
+      "425a1313-ce51-4a79-9a00-a64a337e6e8e",
+      "d72603fb-d0ad-41ae-8bbd-73bc0205c800",
+      "a5b55667-7190-44fb-bac1-4e5ad81d7b92",
+      "ff342b4e-790d-4fbe-9673-623c03331a51",
+      "147db06e-c6a7-4f97-bd4e-090b4d7f59f9",
+      "8bfd2fab-fc90-453e-87dd-30254b6be416",
+      "cb9a1240-38ec-4665-b1ac-c041a9c3bc0e",
+      "e7444028-884f-40ba-a3b5-8c2b52ffc7a0",
+      "550d4e68-e0f6-415f-85dc-934d180f3587",
+      "969f0678-7a53-4835-9aad-c5fc74e63a16"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156146209,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532209084256,
+    "parent_id": "96e61372-84ae-4460-a282-7f456b4cf62c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Responding to an HTTP Request using Templates"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209052789,
+        "id": "60fd9634-e079-45ed-8362-6e3efb7446fa",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209055206,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 210"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 210"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209055206,
+        "id": "d1d6a157-8d54-437a-b55c-ef90ab81718e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209057125,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209057125,
+        "id": "aee44bf0-f82f-4895-8662-925cdc6fa690",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209059408,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 6822"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 6822"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209061151,
+        "id": "97afdb2d-5143-4e71-bc6f-08aba33759ea",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209061151,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209059408,
+        "id": "372df27f-e6ae-4908-8e05-ac9f22770ece",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209060873,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Responses can be written to a "
+            ],
+            [
+              "http.ResponseWriter",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " using templates in Go. This proves as a handy tool if you wish to create dynamic pages."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Responses can be written to a "
+          },
+          {
+            "Text": "http.ResponseWriter",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " using templates in Go. This proves as a handy tool if you wish to create dynamic pages."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156146204,
+        "id": "6ff10b77-c93a-444e-adf1-5bb8ad64b6e0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156146204,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To learn about templates, see "
+            ],
+            [
+              "text and html templates",
+              [
+                [
+                  "a",
+                  "217"
+                ]
+              ]
+            ],
+            [
+              " chapter."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To learn about templates, see "
+          },
+          {
+            "Text": "text and html templates",
+            "Link": "217"
+          },
+          {
+            "Text": " chapter."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156146205,
+        "id": "59a448aa-5bae-4a98-936d-e362bd2190b4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156146205,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Continuing with a simple example to utilise the "
+            ],
+            [
+              "html/template",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to respond to an HTTP Request:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Continuing with a simple example to utilise the "
+          },
+          {
+            "Text": "html/template",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to respond to an HTTP Request:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156146205,
+        "id": "425a1313-ce51-4a79-9a00-a64a337e6e8e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209066192,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport(\n    \"html/template\"\n    \"net/http\"\n    \"log\"\n)\n\nfunc main(){\n    http.HandleFunc(\"/\",WelcomeHandler)\n    http.ListenAndServe(\":8080\",nil)\n}\n\ntype User struct{\n    Name string\n    nationality string //unexported field.\n}\n\nfunc check(err error){\n    if err != nil{\n        log.Fatal(err)\n    }\n}\n\nfunc WelcomeHandler(w http.ResponseWriter, r *http.Request){\n    if r.Method == \"GET\"{\n        t,err := template.ParseFiles(\"welcomeform.html\")\n        check(err)\n        t.Execute(w,nil)\n    }else{\n        r.ParseForm()\n        myUser := User{}\n        myUser.Name = r.Form.Get(\"entered_name\")\n        myUser.nationality = r.Form.Get(\"entered_nationality\")\n        t, err := template.ParseFiles(\"welcomeresponse.html\")\n        check(err)\n        t.Execute(w,myUser)\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport(\n    \"html/template\"\n    \"net/http\"\n    \"log\"\n)\n\nfunc main(){\n    http.HandleFunc(\"/\",WelcomeHandler)\n    http.ListenAndServe(\":8080\",nil)\n}\n\ntype User struct{\n    Name string\n    nationality string //unexported field.\n}\n\nfunc check(err error){\n    if err != nil{\n        log.Fatal(err)\n    }\n}\n\nfunc WelcomeHandler(w http.ResponseWriter, r *http.Request){\n    if r.Method == \"GET\"{\n        t,err := template.ParseFiles(\"welcomeform.html\")\n        check(err)\n        t.Execute(w,nil)\n    }else{\n        r.ParseForm()\n        myUser := User{}\n        myUser.Name = r.Form.Get(\"entered_name\")\n        myUser.nationality = r.Form.Get(\"entered_nationality\")\n        t, err := template.ParseFiles(\"welcomeresponse.html\")\n        check(err)\n        t.Execute(w,myUser)\n    }\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156146205,
+        "id": "d72603fb-d0ad-41ae-8bbd-73bc0205c800",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156146205,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Where, the contents of"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Where, the contents of"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156146207,
+        "id": "a5b55667-7190-44fb-bac1-4e5ad81d7b92",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156146207,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "welcomeform.html",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " are:"
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "welcomeform.html",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " are:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156146207,
+        "id": "ff342b4e-790d-4fbe-9673-623c03331a51",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209070314,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "HTML"
+            ]
+          ],
+          "title": [
+            [
+              "\u003chead\u003e\n    \u003ctitle\u003e Help us greet you \u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n    \u003cform method=\"POST\" action=\"/\"\u003e\n        Enter Name: \u003cinput type=\"text\" name=\"entered_name\"\u003e\n        Enter Nationality: \u003cinput type=\"text\" name=\"entered_nationality\"\u003e\n        \u003cinput type=\"submit\" value=\"Greet me!\"\u003e\n    \u003c/form\u003e\n\u003c/body\u003e"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "\u003chead\u003e\n    \u003ctitle\u003e Help us greet you \u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n    \u003cform method=\"POST\" action=\"/\"\u003e\n        Enter Name: \u003cinput type=\"text\" name=\"entered_name\"\u003e\n        Enter Nationality: \u003cinput type=\"text\" name=\"entered_nationality\"\u003e\n        \u003cinput type=\"submit\" value=\"Greet me!\"\u003e\n    \u003c/form\u003e\n\u003c/body\u003e",
+        "code_language": "HTML"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156146208,
+        "id": "147db06e-c6a7-4f97-bd4e-090b4d7f59f9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156146208,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "welcomeresponse.html",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " are:"
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "welcomeresponse.html",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " are:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156146208,
+        "id": "8bfd2fab-fc90-453e-87dd-30254b6be416",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209073569,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "HTML"
+            ]
+          ],
+          "title": [
+            [
+              "\u003chead\u003e\n    \u003ctitle\u003e Greetings, {{.Name}} \u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n    Greetings, {{.Name}}.\u003cbr\u003e\n    We know you are a {{.nationality}}!\n\u003c/body\u003e"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "\u003chead\u003e\n    \u003ctitle\u003e Greetings, {{.Name}} \u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n    Greetings, {{.Name}}.\u003cbr\u003e\n    We know you are a {{.nationality}}!\n\u003c/body\u003e",
+        "code_language": "HTML"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156146208,
+        "id": "cb9a1240-38ec-4665-b1ac-c041a9c3bc0e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156146208,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Note:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Note:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156146208,
+        "id": "e7444028-884f-40ba-a3b5-8c2b52ffc7a0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156146208,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Make sure that the "
+            ],
+            [
+              ".html",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " files are in the correct directory."
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Make sure that the "
+          },
+          {
+            "Text": ".html",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " files are in the correct directory."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156146209,
+        "id": "550d4e68-e0f6-415f-85dc-934d180f3587",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156146209,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When "
+            ],
+            [
+              "http://localhost:8080/",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " can be visited after starting the server."
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When "
+          },
+          {
+            "Text": "http://localhost:8080/",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " can be visited after starting the server."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156146209,
+        "id": "969f0678-7a53-4835-9aad-c5fc74e63a16",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156146209,
+        "parent_id": "87dcd962-c2a5-4283-a88d-814f6a56feb9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "As it can be seen after submitting the form, the "
+            ],
+            [
+              "unexported",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " nationality field of the struct could not be parsed by the template package, as expected."
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "As it can be seen after submitting the form, the "
+          },
+          {
+            "Text": "unexported",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " nationality field of the struct could not be parsed by the template package, as expected."
+          }
+        ]
+      }
+    ],
+    "title": "Responding to an HTTP Request using Templates",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

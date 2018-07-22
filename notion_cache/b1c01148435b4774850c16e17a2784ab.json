@@ -1,0 +1,248 @@
+{
+  "ID": "b1c01148-435b-4774-850c-16e17a2784ab",
+  "Page": {
+    "alive": true,
+    "content": [
+      "aac217b7-fccd-46da-9e24-79379beaa395",
+      "4284ac56-51c8-4616-9049-5967f2322a83",
+      "dc318638-3d90-4cd0-bdfa-e266213695cd",
+      "e15021dc-75fd-4445-995d-3e5d77be4125",
+      "0ac3162d-0ea5-4bd8-9c9a-68e7e65a44fc",
+      "a9d6c84a-2d93-4694-81d0-66861a4fa91f",
+      "61f930b6-a438-4ce1-bc9d-6290038c025e",
+      "7e24f813-a0c3-4c83-9e09-6ec5922eb18e"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156059185,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "b1c01148-435b-4774-850c-16e17a2784ab",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236263802,
+    "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Recovering from panic"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205469464,
+        "id": "aac217b7-fccd-46da-9e24-79379beaa395",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236264573,
+        "parent_id": "b1c01148-435b-4774-850c-16e17a2784ab",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 134"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 134"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205471043,
+        "id": "4284ac56-51c8-4616-9049-5967f2322a83",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236265332,
+        "parent_id": "b1c01148-435b-4774-850c-16e17a2784ab",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 22031"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 22031"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205474212,
+        "id": "dc318638-3d90-4cd0-bdfa-e266213695cd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205474212,
+        "parent_id": "b1c01148-435b-4774-850c-16e17a2784ab",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205472700,
+        "id": "e15021dc-75fd-4445-995d-3e5d77be4125",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205473999,
+        "parent_id": "b1c01148-435b-4774-850c-16e17a2784ab",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A common mistake is to declare a slice and start requesting indexes from it without initializing it, which leads to an “index out of range” panic."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "A common mistake is to declare a slice and start requesting indexes from it without initializing it, which leads to an “index out of range” panic."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156059184,
+        "id": "0ac3162d-0ea5-4bd8-9c9a-68e7e65a44fc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156059184,
+        "parent_id": "b1c01148-435b-4774-850c-16e17a2784ab",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The following code explains how to recover from the panic without exiting the program, which is the normal behavior for a panic."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The following code explains how to recover from the panic without exiting the program, which is the normal behavior for a panic."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156059184,
+        "id": "a9d6c84a-2d93-4694-81d0-66861a4fa91f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156059184,
+        "parent_id": "b1c01148-435b-4774-850c-16e17a2784ab",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In most situations, returning an error in this fashion rather than exiting the program on a panic is only useful for development or testing purposes."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In most situations, returning an error in this fashion rather than exiting the program on a panic is only useful for development or testing purposes."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156059185,
+        "id": "61f930b6-a438-4ce1-bc9d-6290038c025e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156059185,
+        "parent_id": "b1c01148-435b-4774-850c-16e17a2784ab",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file recover_from_panic.go sha1:ab6601777f01ec5d49b4c66e514293d25b7924d2 goplayground:95E7lZz5Ayt"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file recover_from_panic.go sha1:ab6601777f01ec5d49b4c66e514293d25b7924d2 goplayground:95E7lZz5Ayt"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156059185,
+        "id": "7e24f813-a0c3-4c83-9e09-6ec5922eb18e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156059185,
+        "parent_id": "b1c01148-435b-4774-850c-16e17a2784ab",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The use of a separate function (rather than closure) allows re-use of the same function in other functions prone to panic."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The use of a separate function (rather than closure) allows re-use of the same function in other functions prone to panic."
+          }
+        ]
+      }
+    ],
+    "title": "Recovering from panic",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

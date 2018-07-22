@@ -1,0 +1,431 @@
+{
+  "ID": "94974b44-e45d-4579-89ea-21abc6437e65",
+  "Page": {
+    "alive": true,
+    "content": [
+      "225de377-ad9e-4ef3-9241-3bff1f659af4",
+      "263410f5-797e-4d47-9c93-440904926a66",
+      "2547079b-5bd0-4e8f-8da5-e9f2b0347b1d",
+      "b1a3b5f6-14d2-4a8a-b6ad-53da3f0d132e",
+      "f6cb7548-61bb-43fc-a424-4feefe991f0c",
+      "d7735211-7ccf-4aa5-a867-3cb94eada430",
+      "beceb25e-094d-477b-af3e-dd2e94fa38c2",
+      "a43c324d-ffbd-42a8-8bdc-33b9bdc1439a",
+      "4f4ee6ae-ee3d-49cd-bff4-9dc6a3430c16",
+      "73dc4a88-7e0e-4088-a754-d7645ca5fbf7",
+      "34c29e9d-48ce-48fd-9a40-8f750111789c",
+      "5e025e19-b347-42a2-ae04-b768c7cb92d9"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156283578,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "94974b44-e45d-4579-89ea-21abc6437e65",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532215340671,
+    "parent_id": "c2af7278-9a07-4a3a-acf8-d308f898f32c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Disabling inline expansion"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215326302,
+        "id": "225de377-ad9e-4ef3-9241-3bff1f659af4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215334007,
+        "parent_id": "94974b44-e45d-4579-89ea-21abc6437e65",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 321"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 321"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215328303,
+        "id": "263410f5-797e-4d47-9c93-440904926a66",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215333592,
+        "parent_id": "94974b44-e45d-4579-89ea-21abc6437e65",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215329829,
+        "id": "2547079b-5bd0-4e8f-8da5-e9f2b0347b1d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215332953,
+        "parent_id": "94974b44-e45d-4579-89ea-21abc6437e65",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 9094"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 9094"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215332335,
+        "id": "b1a3b5f6-14d2-4a8a-b6ad-53da3f0d132e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215332335,
+        "parent_id": "94974b44-e45d-4579-89ea-21abc6437e65",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215331284,
+        "id": "f6cb7548-61bb-43fc-a424-4feefe991f0c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215332021,
+        "parent_id": "94974b44-e45d-4579-89ea-21abc6437e65",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Inline expansion can be disabled with the "
+            ],
+            [
+              "go:noinline",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " pragma. For example, if we build the following simple program:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Inline expansion can be disabled with the "
+          },
+          {
+            "Text": "go:noinline",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " pragma. For example, if we build the following simple program:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156283577,
+        "id": "d7735211-7ccf-4aa5-a867-3cb94eada430",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215345599,
+        "parent_id": "94974b44-e45d-4579-89ea-21abc6437e65",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nfunc printhello() {\n    println(\"Hello\")\n}\n\nfunc main() {\n    printhello()\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nfunc printhello() {\n    println(\"Hello\")\n}\n\nfunc main() {\n    printhello()\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156283577,
+        "id": "beceb25e-094d-477b-af3e-dd2e94fa38c2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156283577,
+        "parent_id": "94974b44-e45d-4579-89ea-21abc6437e65",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "we get output that looks like this (trimmed for readability):"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "we get output that looks like this (trimmed for readability):"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156283577,
+        "id": "a43c324d-ffbd-42a8-8bdc-33b9bdc1439a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156283577,
+        "parent_id": "94974b44-e45d-4579-89ea-21abc6437e65",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "$ go version\ngo version go1.6.2 linux/amd64\n$ go build main.go\n$ ./main\nHello\n$ go tool objdump main\nTEXT main.main(SB) /home/sam/main.go\n        main.go:7       0x401000        64488b0c25f8ffffff      FS MOVQ FS:0xfffffff8, CX\n        main.go:7       0x401009        483b6110                CMPQ 0x10(CX), SP\n        main.go:7       0x40100d        7631                    JBE 0x401040\n        main.go:7       0x40100f        4883ec10                SUBQ $0x10, SP\n        main.go:8       0x401013        e8281f0200              CALL runtime.printlock(SB)\n        main.go:8       0x401018        488d1d01130700          LEAQ 0x71301(IP), BX\n        main.go:8       0x40101f        48891c24                MOVQ BX, 0(SP)\n        main.go:8       0x401023        48c744240805000000      MOVQ $0x5, 0x8(SP)\n        main.go:8       0x40102c        e81f290200              CALL runtime.printstring(SB)\n        main.go:8       0x401031        e89a210200              CALL runtime.printnl(SB)\n        main.go:8       0x401036        e8851f0200              CALL runtime.printunlock(SB)\n        main.go:9       0x40103b        4883c410                ADDQ $0x10, SP\n        main.go:9       0x40103f        c3                      RET\n        main.go:7       0x401040        e87b9f0400              CALL runtime.morestack_noctxt(SB)\n        main.go:7       0x401045        ebb9                    JMP main.main(SB)\n        main.go:7       0x401047        cc                      INT $0x3\n        main.go:7       0x401048        cc                      INT $0x3\n        main.go:7       0x401049        cc                      INT $0x3\n        main.go:7       0x40104a        cc                      INT $0x3\n        main.go:7       0x40104b        cc                      INT $0x3\n        main.go:7       0x40104c        cc                      INT $0x3\n        main.go:7       0x40104d        cc                      INT $0x3\n        main.go:7       0x40104e        cc                      INT $0x3\n        main.go:7       0x40104f        cc                      INT $0x3"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "$ go version\ngo version go1.6.2 linux/amd64\n$ go build main.go\n$ ./main\nHello\n$ go tool objdump main\nTEXT main.main(SB) /home/sam/main.go\n        main.go:7       0x401000        64488b0c25f8ffffff      FS MOVQ FS:0xfffffff8, CX\n        main.go:7       0x401009        483b6110                CMPQ 0x10(CX), SP\n        main.go:7       0x40100d        7631                    JBE 0x401040\n        main.go:7       0x40100f        4883ec10                SUBQ $0x10, SP\n        main.go:8       0x401013        e8281f0200              CALL runtime.printlock(SB)\n        main.go:8       0x401018        488d1d01130700          LEAQ 0x71301(IP), BX\n        main.go:8       0x40101f        48891c24                MOVQ BX, 0(SP)\n        main.go:8       0x401023        48c744240805000000      MOVQ $0x5, 0x8(SP)\n        main.go:8       0x40102c        e81f290200              CALL runtime.printstring(SB)\n        main.go:8       0x401031        e89a210200              CALL runtime.printnl(SB)\n        main.go:8       0x401036        e8851f0200              CALL runtime.printunlock(SB)\n        main.go:9       0x40103b        4883c410                ADDQ $0x10, SP\n        main.go:9       0x40103f        c3                      RET\n        main.go:7       0x401040        e87b9f0400              CALL runtime.morestack_noctxt(SB)\n        main.go:7       0x401045        ebb9                    JMP main.main(SB)\n        main.go:7       0x401047        cc                      INT $0x3\n        main.go:7       0x401048        cc                      INT $0x3\n        main.go:7       0x401049        cc                      INT $0x3\n        main.go:7       0x40104a        cc                      INT $0x3\n        main.go:7       0x40104b        cc                      INT $0x3\n        main.go:7       0x40104c        cc                      INT $0x3\n        main.go:7       0x40104d        cc                      INT $0x3\n        main.go:7       0x40104e        cc                      INT $0x3\n        main.go:7       0x40104f        cc                      INT $0x3",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156283577,
+        "id": "4f4ee6ae-ee3d-49cd-bff4-9dc6a3430c16",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156283577,
+        "parent_id": "94974b44-e45d-4579-89ea-21abc6437e65",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Note that there is no "
+            ],
+            [
+              "CALL",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to "
+            ],
+            [
+              "printhello",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". However, if we then build the program with the pragma in place:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Note that there is no "
+          },
+          {
+            "Text": "CALL",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to "
+          },
+          {
+            "Text": "printhello",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". However, if we then build the program with the pragma in place:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156283577,
+        "id": "73dc4a88-7e0e-4088-a754-d7645ca5fbf7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215349926,
+        "parent_id": "94974b44-e45d-4579-89ea-21abc6437e65",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\n//go:noinline\nfunc printhello() {\n    println(\"Hello\")\n}\n\nfunc main() {\n    printhello()\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\n//go:noinline\nfunc printhello() {\n    println(\"Hello\")\n}\n\nfunc main() {\n    printhello()\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156283578,
+        "id": "34c29e9d-48ce-48fd-9a40-8f750111789c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156283578,
+        "parent_id": "94974b44-e45d-4579-89ea-21abc6437e65",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The output contains the printhello function and a "
+            ],
+            [
+              "CALL main.printhello",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The output contains the printhello function and a "
+          },
+          {
+            "Text": "CALL main.printhello",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156283578,
+        "id": "5e025e19-b347-42a2-ae04-b768c7cb92d9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156283578,
+        "parent_id": "94974b44-e45d-4579-89ea-21abc6437e65",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "$ go version\ngo version go1.6.2 linux/amd64\n$ go build main.go\n$ ./main\nHello\n$ go tool objdump main\nTEXT main.printhello(SB) /home/sam/main.go\n        main.go:4       0x401000        64488b0c25f8ffffff      FS MOVQ FS:0xfffffff8, CX\n        main.go:4       0x401009        483b6110                CMPQ 0x10(CX), SP\n        main.go:4       0x40100d        7631                    JBE 0x401040\n        main.go:4       0x40100f        4883ec10                SUBQ $0x10, SP\n        main.go:5       0x401013        e8481f0200              CALL runtime.printlock(SB)\n        main.go:5       0x401018        488d1d01130700          LEAQ 0x71301(IP), BX\n        main.go:5       0x40101f        48891c24                MOVQ BX, 0(SP)\n        main.go:5       0x401023        48c744240805000000      MOVQ $0x5, 0x8(SP)\n        main.go:5       0x40102c        e83f290200              CALL runtime.printstring(SB)\n        main.go:5       0x401031        e8ba210200              CALL runtime.printnl(SB)\n        main.go:5       0x401036        e8a51f0200              CALL runtime.printunlock(SB)\n        main.go:6       0x40103b        4883c410                ADDQ $0x10, SP\n        main.go:6       0x40103f        c3                      RET\n        main.go:4       0x401040        e89b9f0400              CALL runtime.morestack_noctxt(SB)\n        main.go:4       0x401045        ebb9                    JMP main.printhello(SB)\n        main.go:4       0x401047        cc                      INT $0x3\n        main.go:4       0x401048        cc                      INT $0x3\n        main.go:4       0x401049        cc                      INT $0x3\n        main.go:4       0x40104a        cc                      INT $0x3\n        main.go:4       0x40104b        cc                      INT $0x3\n        main.go:4       0x40104c        cc                      INT $0x3\n        main.go:4       0x40104d        cc                      INT $0x3\n        main.go:4       0x40104e        cc                      INT $0x3\n        main.go:4       0x40104f        cc                      INT $0x3\n\nTEXT main.main(SB) /home/sam/main.go\n        main.go:8       0x401050        64488b0c25f8ffffff      FS MOVQ FS:0xfffffff8, CX\n        main.go:8       0x401059        483b6110                CMPQ 0x10(CX), SP\n        main.go:8       0x40105d        7606                    JBE 0x401065\n        main.go:9       0x40105f        e89cffffff              CALL main.printhello(SB)\n        main.go:10      0x401064        c3                      RET\n        main.go:8       0x401065        e8769f0400              CALL runtime.morestack_noctxt(SB)\n        main.go:8       0x40106a        ebe4                    JMP main.main(SB)\n        main.go:8       0x40106c        cc                      INT $0x3\n        main.go:8       0x40106d        cc                      INT $0x3\n        main.go:8       0x40106e        cc                      INT $0x3\n        main.go:8       0x40106f        cc                      INT $0x3"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "$ go version\ngo version go1.6.2 linux/amd64\n$ go build main.go\n$ ./main\nHello\n$ go tool objdump main\nTEXT main.printhello(SB) /home/sam/main.go\n        main.go:4       0x401000        64488b0c25f8ffffff      FS MOVQ FS:0xfffffff8, CX\n        main.go:4       0x401009        483b6110                CMPQ 0x10(CX), SP\n        main.go:4       0x40100d        7631                    JBE 0x401040\n        main.go:4       0x40100f        4883ec10                SUBQ $0x10, SP\n        main.go:5       0x401013        e8481f0200              CALL runtime.printlock(SB)\n        main.go:5       0x401018        488d1d01130700          LEAQ 0x71301(IP), BX\n        main.go:5       0x40101f        48891c24                MOVQ BX, 0(SP)\n        main.go:5       0x401023        48c744240805000000      MOVQ $0x5, 0x8(SP)\n        main.go:5       0x40102c        e83f290200              CALL runtime.printstring(SB)\n        main.go:5       0x401031        e8ba210200              CALL runtime.printnl(SB)\n        main.go:5       0x401036        e8a51f0200              CALL runtime.printunlock(SB)\n        main.go:6       0x40103b        4883c410                ADDQ $0x10, SP\n        main.go:6       0x40103f        c3                      RET\n        main.go:4       0x401040        e89b9f0400              CALL runtime.morestack_noctxt(SB)\n        main.go:4       0x401045        ebb9                    JMP main.printhello(SB)\n        main.go:4       0x401047        cc                      INT $0x3\n        main.go:4       0x401048        cc                      INT $0x3\n        main.go:4       0x401049        cc                      INT $0x3\n        main.go:4       0x40104a        cc                      INT $0x3\n        main.go:4       0x40104b        cc                      INT $0x3\n        main.go:4       0x40104c        cc                      INT $0x3\n        main.go:4       0x40104d        cc                      INT $0x3\n        main.go:4       0x40104e        cc                      INT $0x3\n        main.go:4       0x40104f        cc                      INT $0x3\n\nTEXT main.main(SB) /home/sam/main.go\n        main.go:8       0x401050        64488b0c25f8ffffff      FS MOVQ FS:0xfffffff8, CX\n        main.go:8       0x401059        483b6110                CMPQ 0x10(CX), SP\n        main.go:8       0x40105d        7606                    JBE 0x401065\n        main.go:9       0x40105f        e89cffffff              CALL main.printhello(SB)\n        main.go:10      0x401064        c3                      RET\n        main.go:8       0x401065        e8769f0400              CALL runtime.morestack_noctxt(SB)\n        main.go:8       0x40106a        ebe4                    JMP main.main(SB)\n        main.go:8       0x40106c        cc                      INT $0x3\n        main.go:8       0x40106d        cc                      INT $0x3\n        main.go:8       0x40106e        cc                      INT $0x3\n        main.go:8       0x40106f        cc                      INT $0x3",
+        "code_language": "Plain Text"
+      }
+    ],
+    "title": "Disabling inline expansion",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

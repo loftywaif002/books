@@ -1,0 +1,236 @@
+{
+  "ID": "68e0d7e0-4873-427d-90f5-238c034dff66",
+  "Page": {
+    "alive": true,
+    "content": [
+      "bb5cea4c-915f-49ab-b475-9125f55faed1",
+      "2f4c765c-d039-4891-8427-d279d3ae16ed",
+      "6168bec9-a745-4eb3-8e9a-6bf2bf0c9777",
+      "6e869ad4-f4ab-4fe6-8c33-e3ad7b354b53",
+      "03af385c-0492-441b-b516-983b128a9cfe",
+      "7f9e7843-f935-403a-9f43-0e1d0c3ffa5e",
+      "8fd75a3e-7e25-43f3-ad0b-a4b9ca291c08",
+      "dbfdd8cb-3db9-4eb8-b74c-10d6edabc6a9"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156116160,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "68e0d7e0-4873-427d-90f5-238c034dff66",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207830569,
+    "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Easy generation of JSON struct definition"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 27,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207759210,
+        "id": "bb5cea4c-915f-49ab-b475-9125f55faed1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207764258,
+        "parent_id": "68e0d7e0-4873-427d-90f5-238c034dff66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 333"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 333"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207760958,
+        "id": "2f4c765c-d039-4891-8427-d279d3ae16ed",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207761783,
+        "parent_id": "68e0d7e0-4873-427d-90f5-238c034dff66",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156116159,
+        "id": "6168bec9-a745-4eb3-8e9a-6bf2bf0c9777",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207863512,
+        "parent_id": "68e0d7e0-4873-427d-90f5-238c034dff66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Writing struct definitions that map structure of JSON file is tedious."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 106,
+        "inline_content": [
+          {
+            "Text": "Writing struct definitions that map structure of JSON file is tedious."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207794130,
+        "id": "6e869ad4-f4ab-4fe6-8c33-e3ad7b354b53",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207820890,
+        "parent_id": "68e0d7e0-4873-427d-90f5-238c034dff66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you have a sample JSON file, you can auto-generate Go definitions using online tools:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 182,
+        "inline_content": [
+          {
+            "Text": "If you have a sample JSON file, you can auto-generate Go definitions using online tools:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207821329,
+        "id": "03af385c-0492-441b-b516-983b128a9cfe",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207824098,
+        "parent_id": "68e0d7e0-4873-427d-90f5-238c034dff66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "https://app.quicktype.io/",
+              [
+                [
+                  "a",
+                  "https://app.quicktype.io/"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 15,
+        "inline_content": [
+          {
+            "Text": "https://app.quicktype.io/",
+            "Link": "https://app.quicktype.io/"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207830569,
+        "id": "7f9e7843-f935-403a-9f43-0e1d0c3ffa5e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207830727,
+        "parent_id": "68e0d7e0-4873-427d-90f5-238c034dff66",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "https://mholt.github.io/json-to-go/",
+              [
+                [
+                  "a",
+                  "https://mholt.github.io/json-to-go/"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 8,
+        "inline_content": [
+          {
+            "Text": "https://mholt.github.io/json-to-go/",
+            "Link": "https://mholt.github.io/json-to-go/"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156116160,
+        "id": "8fd75a3e-7e25-43f3-ad0b-a4b9ca291c08",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207833392,
+        "parent_id": "68e0d7e0-4873-427d-90f5-238c034dff66",
+        "parent_table": "block",
+        "type": "text",
+        "version": 3
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207780822,
+        "id": "dbfdd8cb-3db9-4eb8-b74c-10d6edabc6a9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207780822,
+        "parent_id": "68e0d7e0-4873-427d-90f5-238c034dff66",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Easy generation of JSON struct definition",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,757 @@
+{
+  "ID": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+  "Page": {
+    "alive": true,
+    "content": [
+      "fc131502-02bc-4e51-aec3-81a2486dcfa1",
+      "86a5da87-e948-4460-9428-0fa14dbeeba6",
+      "ff741f4a-b138-4e2d-aec4-fe5c50c7fae4",
+      "f41c9bb0-1c82-4e00-a672-5740879f5765",
+      "76d05574-c1b0-430b-b2a9-fe9145e7fc7e",
+      "a7ab25f9-b78b-4d5f-908c-8fdb2b1cf77a",
+      "06430b42-ea20-49b8-998b-6febfc079c5a",
+      "6b7d186a-78cd-4f07-bb17-31e908ed7bd6",
+      "d275f964-734f-4da0-bbbf-2acac88e58a0",
+      "a33ef4d2-1f9c-412f-bc31-365c41a53e9b",
+      "8f63655f-1761-4f65-a90e-aebe8bd4e61d",
+      "c0ca1b40-5185-42dd-a799-d1e8e169ac13",
+      "c966d677-9aca-4feb-820f-b4d6e60d4939",
+      "a5ebf3e1-ea83-4ff4-aec7-859d1c6c9f4c",
+      "82bba5e1-c28b-420e-9ab0-3338eb2ef8ff",
+      "62bc6e4d-9f9d-4e23-b768-14c90668d8a9",
+      "bae71a32-144a-4192-aa25-c58bfc0cbb3c",
+      "37070cb0-d73d-4b1e-8964-3eabc0545cfe",
+      "e99edabe-9e1a-4ae1-bdb5-261345f96763",
+      "83b85958-30eb-434b-9027-7b93cf1893b6",
+      "16015b43-e5e9-47c5-b9e1-7d5bbcb49b90",
+      "af7fcbc1-7550-43d4-b4b2-06cfe8dc7e06"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155920158,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532247509759,
+    "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Linux install and setup"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 66,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532158877041,
+        "id": "fc131502-02bc-4e51-aec3-81a2486dcfa1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232971644,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 5"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 5"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532158879737,
+        "id": "86a5da87-e948-4460-9428-0fa14dbeeba6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232997353,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: rd6000f2"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: rd6000f2"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232994107,
+        "id": "ff741f4a-b138-4e2d-aec4-fe5c50c7fae4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233002813,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Install on Ubuntu"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 7,
+        "inline_content": [
+          {
+            "Text": "Install on Ubuntu"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232994073,
+        "id": "f41c9bb0-1c82-4e00-a672-5740879f5765",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232994073,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using Ubuntu provided package"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "Using Ubuntu provided package"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232994082,
+        "id": "76d05574-c1b0-430b-b2a9-fe9145e7fc7e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232994082,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ sudo apt-get update\n$ sudo apt-get install go"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 5,
+        "code": "$ sudo apt-get update\n$ sudo apt-get install go",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232994094,
+        "id": "a7ab25f9-b78b-4d5f-908c-8fdb2b1cf77a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232994094,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Note that packages provided by Ubuntu are often outdated. A new version of Go is released every 6 months but Ubuntu distribution moves at a slower pace."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "Note that packages provided by Ubuntu are often outdated. A new version of Go is released every 6 months but Ubuntu distribution moves at a slower pace."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232994095,
+        "id": "06430b42-ea20-49b8-998b-6febfc079c5a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232994095,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For that reason we recommend installing the binary packages."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "For that reason we recommend installing the binary packages."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232994080,
+        "id": "6b7d186a-78cd-4f07-bb17-31e908ed7bd6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232994080,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using binary packages"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "Using binary packages"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232994108,
+        "id": "d275f964-734f-4da0-bbbf-2acac88e58a0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232994108,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "These instructions work on pretty much every Linux distribution:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "These instructions work on pretty much every Linux distribution:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232994097,
+        "id": "a33ef4d2-1f9c-412f-bc31-365c41a53e9b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232994097,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ sudo apt-get update\n$ sudo apt-get install -y build-essential git curl wget\n$ wget https://storage.googleapis.com/golang/go\u003cversions\u003e.gz"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 5,
+        "code": "$ sudo apt-get update\n$ sudo apt-get install -y build-essential git curl wget\n$ wget https://storage.googleapis.com/golang/go\u003cversions\u003e.gz",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232994079,
+        "id": "8f63655f-1761-4f65-a90e-aebe8bd4e61d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232994079,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can find the version list "
+            ],
+            [
+              "here",
+              [
+                [
+                  "a",
+                  "https://golang.org/doc/install"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "You can find the version list "
+          },
+          {
+            "Text": "here",
+            "Link": "https://golang.org/doc/install"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532232994078,
+        "id": "c0ca1b40-5185-42dd-a799-d1e8e169ac13",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232994078,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "# To install go1.9.3 use\n$ wget https://storage.googleapis.com/golang/go1.9.3.linux-amd64.tar.gz\n\n# Untar the file\n$ sudo tar -C /usr/local -xzf go1.9.3.linux-amd64.tar.gz\n$ sudo chown -R $USER:$USER /usr/local/go\n$ rm go1.9.3.linux-amd64.tar.gz"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 5,
+        "code": "# To install go1.9.3 use\n$ wget https://storage.googleapis.com/golang/go1.9.3.linux-amd64.tar.gz\n\n# Untar the file\n$ sudo tar -C /usr/local -xzf go1.9.3.linux-amd64.tar.gz\n$ sudo chown -R $USER:$USER /usr/local/go\n$ rm go1.9.3.linux-amd64.tar.gz",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532233033859,
+        "id": "c966d677-9aca-4feb-820f-b4d6e60d4939",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233043512,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Setup on Linux"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 75,
+        "inline_content": [
+          {
+            "Text": "Setup on Linux"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155920154,
+        "id": "a5ebf3e1-ea83-4ff4-aec7-859d1c6c9f4c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233032593,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "After installing the compiler you need to configure "
+            ],
+            [
+              "GOPATH",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "10"
+                ]
+              ]
+            ],
+            [
+              " environment variable."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 3,
+        "inline_content": [
+          {
+            "Text": "After installing the compiler you need to configure "
+          },
+          {
+            "Text": "GOPATH",
+            "AttrFlags": 2,
+            "Link": "10"
+          },
+          {
+            "Text": " environment variable."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155920154,
+        "id": "82bba5e1-c28b-420e-9ab0-3338eb2ef8ff",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155920154,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Since Go 1.8, the "
+            ],
+            [
+              "GOPATH",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " environment variable has the default value of "
+            ],
+            [
+              "$HOME/go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", so you can skip setting it."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Since Go 1.8, the "
+          },
+          {
+            "Text": "GOPATH",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " environment variable has the default value of "
+          },
+          {
+            "Text": "$HOME/go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", so you can skip setting it."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155920155,
+        "id": "62bc6e4d-9f9d-4e23-b768-14c90668d8a9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155920155,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Create the go directory with "
+            ],
+            [
+              "mkdir $HOME/go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Create the go directory with "
+          },
+          {
+            "Text": "mkdir $HOME/go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155920155,
+        "id": "bae71a32-144a-4192-aa25-c58bfc0cbb3c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155920155,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Add the following two lines at the end of your "
+            ],
+            [
+              "~/.bashrc",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " file"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Add the following two lines at the end of your "
+          },
+          {
+            "Text": "~/.bashrc",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " file"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155920155,
+        "id": "37070cb0-d73d-4b1e-8964-3eabc0545cfe",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532158892792,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "export GOPATH=$HOME/go\nexport PATH=$GOPATH/bin:/usr/local/go/bin:$PATH"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "export GOPATH=$HOME/go\nexport PATH=$GOPATH/bin:/usr/local/go/bin:$PATH",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155920158,
+        "id": "e99edabe-9e1a-4ae1-bdb5-261345f96763",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532158897092,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ source ~/.bashrc"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "$ source ~/.bashrc",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155920158,
+        "id": "83b85958-30eb-434b-9027-7b93cf1893b6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155920158,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Test the setup by running "
+            ],
+            [
+              "go version",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Test the setup by running "
+          },
+          {
+            "Text": "go version",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155920158,
+        "id": "16015b43-e5e9-47c5-b9e1-7d5bbcb49b90",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233112934,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You should understand the "
+            ],
+            [
+              "effect of GOPATH.",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/GOPATH-GOROOT-GOBIN-d6da4b8481f94757bae43be1fdfa9e73"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "You should understand the "
+          },
+          {
+            "Text": "effect of GOPATH.",
+            "Link": "https://www.notion.so/kjkpublic/GOPATH-GOROOT-GOBIN-d6da4b8481f94757bae43be1fdfa9e73"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532233049956,
+        "id": "af7fcbc1-7550-43d4-b4b2-06cfe8dc7e06",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233049956,
+        "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Linux install and setup",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

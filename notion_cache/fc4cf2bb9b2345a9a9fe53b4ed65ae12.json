@@ -1,0 +1,381 @@
+{
+  "ID": "fc4cf2bb-9b23-45a9-a9fe-53b4ed65ae12",
+  "Page": {
+    "alive": true,
+    "content": [
+      "703d840b-99cb-498d-ae42-e7e711668fa5",
+      "43ebac37-f705-43aa-8410-3f035ec64122",
+      "86a2892e-ae37-420c-93f8-7e4aba852af3",
+      "4989b6fc-b488-4589-82a8-250dd3ec103c",
+      "09aaf55e-d815-404b-acae-fa14dc32d1d4",
+      "c9869596-8a74-4778-a87f-b1e22071acb6",
+      "b0c912ed-2aa3-44ff-8cfd-509353d11d5f",
+      "e252d65a-2367-4b61-abd6-556ac2cf136b",
+      "468abdf4-b399-4fe6-ad22-0b44ae648895",
+      "083d39db-d3a1-4a95-8957-5b6f6fe52d7b"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156010496,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "fc4cf2bb-9b23-45a9-a9fe-53b4ed65ae12",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235446576,
+    "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Tags"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196986287,
+        "id": "703d840b-99cb-498d-ae42-e7e711668fa5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235444191,
+        "parent_id": "fc4cf2bb-9b23-45a9-a9fe-53b4ed65ae12",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 86"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 86"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196987706,
+        "id": "43ebac37-f705-43aa-8410-3f035ec64122",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235444878,
+        "parent_id": "fc4cf2bb-9b23-45a9-a9fe-53b4ed65ae12",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3531"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3531"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196990914,
+        "id": "86a2892e-ae37-420c-93f8-7e4aba852af3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196990914,
+        "parent_id": "fc4cf2bb-9b23-45a9-a9fe-53b4ed65ae12",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196989751,
+        "id": "4989b6fc-b488-4589-82a8-250dd3ec103c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196990644,
+        "parent_id": "fc4cf2bb-9b23-45a9-a9fe-53b4ed65ae12",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Struct fields can have tags associated with them. These tags can be read by the "
+            ],
+            [
+              "reflect",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package to get custom information specified about a field by the developer."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Struct fields can have tags associated with them. These tags can be read by the "
+          },
+          {
+            "Text": "reflect",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package to get custom information specified about a field by the developer."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156010495,
+        "id": "09aaf55e-d815-404b-acae-fa14dc32d1d4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196969493,
+        "parent_id": "fc4cf2bb-9b23-45a9-a9fe-53b4ed65ae12",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "struct Account {\n    Username      string `json:\"username\"`\n    DisplayName   string `json:\"display_name\"`\n    FavoriteColor string `json:\"favorite_color,omitempty\"`\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "struct Account {\n    Username      string `json:\"username\"`\n    DisplayName   string `json:\"display_name\"`\n    FavoriteColor string `json:\"favorite_color,omitempty\"`\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156010496,
+        "id": "c9869596-8a74-4778-a87f-b1e22071acb6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156010496,
+        "parent_id": "fc4cf2bb-9b23-45a9-a9fe-53b4ed65ae12",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In the above example, the tags are used to change the key names used by the "
+            ],
+            [
+              "encoding/json",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package when marshaling or unmarshaling JSON."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In the above example, the tags are used to change the key names used by the "
+          },
+          {
+            "Text": "encoding/json",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package when marshaling or unmarshaling JSON."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156010496,
+        "id": "b0c912ed-2aa3-44ff-8cfd-509353d11d5f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156010496,
+        "parent_id": "fc4cf2bb-9b23-45a9-a9fe-53b4ed65ae12",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "While the tag can be any string value, it’s considered best practice to use space separated "
+            ],
+            [
+              "key:\"value\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " pairs:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "While the tag can be any string value, it’s considered best practice to use space separated "
+          },
+          {
+            "Text": "key:\"value\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " pairs:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156010496,
+        "id": "e252d65a-2367-4b61-abd6-556ac2cf136b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196971476,
+        "parent_id": "fc4cf2bb-9b23-45a9-a9fe-53b4ed65ae12",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "struct StructName {\n    FieldName int `package1:\"customdata,moredata\" package2:\"info\"`\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "struct StructName {\n    FieldName int `package1:\"customdata,moredata\" package2:\"info\"`\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156010496,
+        "id": "468abdf4-b399-4fe6-ad22-0b44ae648895",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156010496,
+        "parent_id": "fc4cf2bb-9b23-45a9-a9fe-53b4ed65ae12",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The struct tags used with the "
+            ],
+            [
+              "encoding/xml",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "encoding/json",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package are used throughout the standard libarary."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The struct tags used with the "
+          },
+          {
+            "Text": "encoding/xml",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "encoding/json",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package are used throughout the standard libarary."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532235446576,
+        "id": "083d39db-d3a1-4a95-8957-5b6f6fe52d7b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235446576,
+        "parent_id": "fc4cf2bb-9b23-45a9-a9fe-53b4ed65ae12",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Tags",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

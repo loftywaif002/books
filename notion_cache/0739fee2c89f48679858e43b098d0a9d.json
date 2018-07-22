@@ -1,0 +1,289 @@
+{
+  "ID": "0739fee2-c89f-4867-9858-e43b098d0a9d",
+  "Page": {
+    "alive": true,
+    "content": [
+      "bcf7122a-a241-4bd1-8e90-8cc11b07d458",
+      "f24aa0bc-4575-402c-a437-05663481dbfa",
+      "1933b293-4650-46e3-9935-d82a638bc814",
+      "b3fe7683-d542-4427-9b55-d625876a6921",
+      "d99ea201-6029-4e21-be3d-f5c604ab43f2",
+      "e4bd1ba4-e567-4e62-b281-0f0016f7ec7c",
+      "53860896-ede5-4b94-88ec-5455be646711",
+      "a4646cd8-7932-472b-95ff-478f75fe2fc3"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156068190,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "0739fee2-c89f-4867-9858-e43b098d0a9d",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236569676,
+    "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Timeout reading from channel with select"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205828117,
+        "id": "bcf7122a-a241-4bd1-8e90-8cc11b07d458",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236570671,
+        "parent_id": "0739fee2-c89f-4867-9858-e43b098d0a9d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 143"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 143"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205830136,
+        "id": "f24aa0bc-4575-402c-a437-05663481dbfa",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236572077,
+        "parent_id": "0739fee2-c89f-4867-9858-e43b098d0a9d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 6050"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 6050"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205832974,
+        "id": "1933b293-4650-46e3-9935-d82a638bc814",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205832974,
+        "parent_id": "0739fee2-c89f-4867-9858-e43b098d0a9d",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205831824,
+        "id": "b3fe7683-d542-4427-9b55-d625876a6921",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205832746,
+        "parent_id": "0739fee2-c89f-4867-9858-e43b098d0a9d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Receiving from a channel with "
+            ],
+            [
+              "\u003c- chan",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "for range",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " loop blocks."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Receiving from a channel with "
+          },
+          {
+            "Text": "\u003c- chan",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "for range",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " loop blocks."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156068189,
+        "id": "d99ea201-6029-4e21-be3d-f5c604ab43f2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156068189,
+        "parent_id": "0739fee2-c89f-4867-9858-e43b098d0a9d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sometimes you want to limit time waiting for a value on a channel."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Sometimes you want to limit time waiting for a value on a channel."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156068189,
+        "id": "e4bd1ba4-e567-4e62-b281-0f0016f7ec7c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156068189,
+        "parent_id": "0739fee2-c89f-4867-9858-e43b098d0a9d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It’s possible with "
+            ],
+            [
+              "select",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It’s possible with "
+          },
+          {
+            "Text": "select",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156068189,
+        "id": "53860896-ede5-4b94-88ec-5455be646711",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156068189,
+        "parent_id": "0739fee2-c89f-4867-9858-e43b098d0a9d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file timeout.go output sha1:1a3592bd922445233dfa604d927c9b5ca39fcc46 goplayground:kWFgA_-fMgN"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file timeout.go output sha1:1a3592bd922445233dfa604d927c9b5ca39fcc46 goplayground:kWFgA_-fMgN"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205844783,
+        "id": "a4646cd8-7932-472b-95ff-478f75fe2fc3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205844783,
+        "parent_id": "0739fee2-c89f-4867-9858-e43b098d0a9d",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Timeout reading from channel with select",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

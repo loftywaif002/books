@@ -1,0 +1,1410 @@
+{
+  "ID": "fb02383e-7719-45cf-a227-c82fa10d799b",
+  "Page": {
+    "alive": true,
+    "content": [
+      "c7356503-afcb-4118-bdb3-def5e5096126",
+      "8e8c77f4-ed6b-4f08-81ab-31fffade38b1",
+      "7f1a8769-a042-4636-8bdb-63cb16f878aa",
+      "22402514-a891-4743-98f4-f35251f03bd0",
+      "6f3683f5-712e-4115-ba42-d84a60ce22c8",
+      "32ab18b9-a053-4aad-8692-d615495b5395",
+      "e36e5a19-a06a-4885-8eb9-62afaa64f22b",
+      "0f50e814-5dae-4973-a1b7-48b2f735249f",
+      "d75d143d-29b4-4736-bcfc-414d1abedaaa",
+      "165ddf62-f164-4417-a82b-eac6a346fbc9",
+      "c6fb900c-fd84-4db6-945f-50f2d56cc5da",
+      "b9d86632-e820-40bf-807d-b37d88922b00",
+      "2cf65a25-5173-40a7-9b11-f13cabdd5a64",
+      "a865f863-1ece-4db8-938a-8e3858ab744e",
+      "cf643290-68fc-42c1-968c-870e228dad6d",
+      "5cb523ac-1089-466c-8fa3-337f8028bd08",
+      "ba6a8100-89c8-4bf3-b6a0-cafdf3477dc5",
+      "5b98971d-b4dc-4d24-b373-18782a351db6",
+      "6cff090a-e857-4efb-82d6-8c66a7d37bec",
+      "b3500df5-a4df-440f-a2b2-e7d44624e4e8",
+      "0fb3bb13-4870-4d79-aa7c-34109f9795e1",
+      "e0ed0272-f62d-4c22-b3ad-df190a561887",
+      "6bff7b9f-b6cc-4cfd-af6e-606d64d478f5",
+      "f339585d-2151-409e-8a08-b3a8e3a11bc0",
+      "d5be8f1c-e0d3-4867-9deb-5aea52eafd99",
+      "dd76b841-a246-4bca-870c-87d0b5571a63",
+      "2c03bcf5-04ab-4f3c-8d36-aa2d3ac200e4",
+      "3a57f584-1f46-470e-883e-1f8188c38477",
+      "e2680dd0-823a-4130-ae74-96e0c5dd3217",
+      "85ffea03-f122-476f-ab75-033c67435b1f",
+      "475f14f4-7468-4411-a3c6-ea163a8a67d3",
+      "b7ad5184-cc30-41ea-ba61-6a27626a58fa",
+      "8ce975c4-b1ff-405c-a6e2-106dcd4e531f"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156158209,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532210737828,
+    "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Primitive types"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210725709,
+        "id": "c7356503-afcb-4118-bdb3-def5e5096126",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210727754,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 225"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 225"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210727754,
+        "id": "8e8c77f4-ed6b-4f08-81ab-31fffade38b1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210731482,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 6070"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 6070"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210731758,
+        "id": "7f1a8769-a042-4636-8bdb-63cb16f878aa",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210731772,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158199,
+        "id": "22402514-a891-4743-98f4-f35251f03bd0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158199,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Let’s see what kind of operations we can do on primitive types like "
+            ],
+            [
+              "int",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Let’s see what kind of operations we can do on primitive types like "
+          },
+          {
+            "Text": "int",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158199,
+        "id": "6f3683f5-712e-4115-ba42-d84a60ce22c8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158199,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Get the type"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Get the type"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158199,
+        "id": "32ab18b9-a053-4aad-8692-d615495b5395",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158199,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file get_type.go output sha1:23f2449e0fa7db2890118c495f1d112f8fb35e18 goplayground:E6qpfwZiTEr"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file get_type.go output sha1:23f2449e0fa7db2890118c495f1d112f8fb35e18 goplayground:E6qpfwZiTEr"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158200,
+        "id": "e36e5a19-a06a-4885-8eb9-62afaa64f22b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158200,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In real code you would handle "
+            ],
+            [
+              "all the types",
+              [
+                [
+                  "a",
+                  "229"
+                ]
+              ]
+            ],
+            [
+              " you care about."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In real code you would handle "
+          },
+          {
+            "Text": "all the types",
+            "Link": "229"
+          },
+          {
+            "Text": " you care about."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158200,
+        "id": "0f50e814-5dae-4973-a1b7-48b2f735249f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158200,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Get the value"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Get the value"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158201,
+        "id": "d75d143d-29b4-4736-bcfc-414d1abedaaa",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158201,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file get_value.go output allow_error sha1:aebd85272f71d9d6bcbadfca98feb0e7b4cd7ba3 goplayground:KuRi0TBk_5x"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file get_value.go output allow_error sha1:aebd85272f71d9d6bcbadfca98feb0e7b4cd7ba3 goplayground:KuRi0TBk_5x"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158201,
+        "id": "165ddf62-f164-4417-a82b-eac6a346fbc9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158201,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To minimize API surface, "
+            ],
+            [
+              "Int()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " returns "
+            ],
+            [
+              "int64",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and works on all signed integer values ("
+            ],
+            [
+              "int8",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "int16",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "int32",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "int64",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ")."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To minimize API surface, "
+          },
+          {
+            "Text": "Int()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " returns "
+          },
+          {
+            "Text": "int64",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and works on all signed integer values ("
+          },
+          {
+            "Text": "int8",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "int16",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "int32",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "int64",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ")."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158201,
+        "id": "c6fb900c-fd84-4db6-945f-50f2d56cc5da",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158201,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "UInt()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " methods returns "
+            ],
+            [
+              "uint64",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and works on every unsigned integer values ("
+            ],
+            [
+              "uint8",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "uint16",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "uint32",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "uint64",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ")."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "UInt()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " methods returns "
+          },
+          {
+            "Text": "uint64",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and works on every unsigned integer values ("
+          },
+          {
+            "Text": "uint8",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "uint16",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "uint32",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "uint64",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ")."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158201,
+        "id": "b9d86632-e820-40bf-807d-b37d88922b00",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158201,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Trying to get integer value from value of incompatible type (like "
+            ],
+            [
+              "string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ") will panic."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Trying to get integer value from value of incompatible type (like "
+          },
+          {
+            "Text": "string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ") will panic."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158202,
+        "id": "2cf65a25-5173-40a7-9b11-f13cabdd5a64",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158202,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To avoid panic you can first check the type with "
+            ],
+            [
+              "Kind()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To avoid panic you can first check the type with "
+          },
+          {
+            "Text": "Kind()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158202,
+        "id": "a865f863-1ece-4db8-938a-8e3858ab744e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158202,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "All methods for retrieving the value:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "All methods for retrieving the value:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158203,
+        "id": "cf643290-68fc-42c1-968c-870e228dad6d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158203,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Bool() bool",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Bool() bool",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158203,
+        "id": "5cb523ac-1089-466c-8fa3-337f8028bd08",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158203,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Int() int64",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Int() int64",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158204,
+        "id": "ba6a8100-89c8-4bf3-b6a0-cafdf3477dc5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158204,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "UInt() uint64",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "UInt() uint64",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158204,
+        "id": "5b98971d-b4dc-4d24-b373-18782a351db6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158204,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Float() float64",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Float() float64",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158204,
+        "id": "6cff090a-e857-4efb-82d6-8c66a7d37bec",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158204,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "String() string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "String() string",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158205,
+        "id": "b3500df5-a4df-440f-a2b2-e7d44624e4e8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158205,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Bytes() []byte",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Bytes() []byte",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158205,
+        "id": "0fb3bb13-4870-4d79-aa7c-34109f9795e1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158205,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Set the value"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Set the value"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158205,
+        "id": "e0ed0272-f62d-4c22-b3ad-df190a561887",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158205,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file set_value.go output sha1:ee2ad75af1ab400651f45ac566b99429e822781c goplayground:O50qUNYUkJ0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file set_value.go output sha1:ee2ad75af1ab400651f45ac566b99429e822781c goplayground:O50qUNYUkJ0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158205,
+        "id": "6bff7b9f-b6cc-4cfd-af6e-606d64d478f5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158205,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "As "
+            ],
+            [
+              "setInt",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "setStructField",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " show, you can only change values if you start with a pointer to the value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "As "
+          },
+          {
+            "Text": "setInt",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "setStructField",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " show, you can only change values if you start with a pointer to the value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158206,
+        "id": "f339585d-2151-409e-8a08-b3a8e3a11bc0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158206,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Since "
+            ],
+            [
+              "reflect.ValueOf()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " creates a "
+            ],
+            [
+              "reflect.Value",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " that represents a pointer to a value, you need to use "
+            ],
+            [
+              "Elem()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to get "
+            ],
+            [
+              "reflect.Value",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " that represents the value itself. You can then call "
+            ],
+            [
+              "SetInt()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to set the value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Since "
+          },
+          {
+            "Text": "reflect.ValueOf()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " creates a "
+          },
+          {
+            "Text": "reflect.Value",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " that represents a pointer to a value, you need to use "
+          },
+          {
+            "Text": "Elem()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to get "
+          },
+          {
+            "Text": "reflect.Value",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " that represents the value itself. You can then call "
+          },
+          {
+            "Text": "SetInt()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to set the value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158206,
+        "id": "d5be8f1c-e0d3-4867-9deb-5aea52eafd99",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158206,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "setStructPtrField",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " shows how we can grab a reference to field value by it’s position in the struct."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "setStructPtrField",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " shows how we can grab a reference to field value by it’s position in the struct."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158207,
+        "id": "dd76b841-a246-4bca-870c-87d0b5571a63",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158207,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Trying to set value of incompatible type will panic."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Trying to set value of incompatible type will panic."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158207,
+        "id": "2c03bcf5-04ab-4f3c-8d36-aa2d3ac200e4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158207,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Methods that set values mirror those that read the values:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Methods that set values mirror those that read the values:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158207,
+        "id": "3a57f584-1f46-470e-883e-1f8188c38477",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158207,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "SetBool(v bool)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "SetBool(v bool)",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158208,
+        "id": "e2680dd0-823a-4130-ae74-96e0c5dd3217",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158208,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "SetInt(v int64)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "SetInt(v int64)",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158208,
+        "id": "85ffea03-f122-476f-ab75-033c67435b1f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158208,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "SetUInt(v uint64)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "SetUInt(v uint64)",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158209,
+        "id": "475f14f4-7468-4411-a3c6-ea163a8a67d3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158209,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "SetFloat(v float64)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "SetFloat(v float64)",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158209,
+        "id": "b7ad5184-cc30-41ea-ba61-6a27626a58fa",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158209,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "SetString(v string)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "SetString(v string)",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156158209,
+        "id": "8ce975c4-b1ff-405c-a6e2-106dcd4e531f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156158209,
+        "parent_id": "fb02383e-7719-45cf-a227-c82fa10d799b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "SetBytes(v []byte)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "SetBytes(v []byte)",
+            "AttrFlags": 2
+          }
+        ]
+      }
+    ],
+    "title": "Primitive types",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

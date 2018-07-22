@@ -1,0 +1,200 @@
+{
+  "ID": "8d6fee3e-9dc9-4ac5-92f7-c8ba1562100b",
+  "Page": {
+    "alive": true,
+    "content": [
+      "36663101-d6ad-4164-affc-034a571e5a86",
+      "f468d303-8f12-4314-b562-3c6e9071a646",
+      "481ea52b-f941-471d-bf0d-88818d841d9d",
+      "f66e52e4-cf0d-4a69-90b7-c992fae4f79e",
+      "c2d48207-113a-4013-a150-6ef28afcce62"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156022559,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "8d6fee3e-9dc9-4ac5-92f7-c8ba1562100b",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235727979,
+    "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "if statement"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 27,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203203578,
+        "id": "36663101-d6ad-4164-affc-034a571e5a86",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235727979,
+        "parent_id": "8d6fee3e-9dc9-4ac5-92f7-c8ba1562100b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 98"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Id: 98"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203209220,
+        "id": "f468d303-8f12-4314-b562-3c6e9071a646",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235728714,
+        "parent_id": "8d6fee3e-9dc9-4ac5-92f7-c8ba1562100b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4378"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4378"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203211770,
+        "id": "481ea52b-f941-471d-bf0d-88818d841d9d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203214075,
+        "parent_id": "8d6fee3e-9dc9-4ac5-92f7-c8ba1562100b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              " "
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": " "
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203214075,
+        "id": "f66e52e4-cf0d-4a69-90b7-c992fae4f79e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203214089,
+        "parent_id": "8d6fee3e-9dc9-4ac5-92f7-c8ba1562100b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A simple "
+            ],
+            [
+              "if",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statement:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 6,
+        "inline_content": [
+          {
+            "Text": "A simple "
+          },
+          {
+            "Text": "if",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statement:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156022558,
+        "id": "c2d48207-113a-4013-a150-6ef28afcce62",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156022558,
+        "parent_id": "8d6fee3e-9dc9-4ac5-92f7-c8ba1562100b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file if.go output sha1:b944340404c91c39fe2c923de900d6e617045653 goplayground:iQibdZP5bkT"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file if.go output sha1:b944340404c91c39fe2c923de900d6e617045653 goplayground:iQibdZP5bkT"
+          }
+        ]
+      }
+    ],
+    "title": "if statement",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

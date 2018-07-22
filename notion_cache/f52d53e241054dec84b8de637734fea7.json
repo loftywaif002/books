@@ -1,0 +1,314 @@
+{
+  "ID": "f52d53e2-4105-4dec-84b8-de637734fea7",
+  "Page": {
+    "alive": true,
+    "content": [
+      "15451a3f-e850-44fb-83ba-d00670d2b851",
+      "6087d8a4-0bfa-426c-8b57-b4858337f592",
+      "2e2a2e82-e674-400a-b49c-386eece3a56e",
+      "1219fdd7-b3bb-4f81-a6c3-73cd3e43e02e",
+      "29a045ce-518b-45dc-b740-49f772d54ed9",
+      "e7ed57be-0ac0-487f-a2b3-03137ade5da5",
+      "1777b545-ac6e-42e2-802c-cee5f3826031",
+      "f719b452-c060-45e6-9143-dbbe1a717073",
+      "fdbcf553-9c51-40f9-b76b-9433ca81ebe9"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156267137,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "f52d53e2-4105-4dec-84b8-de637734fea7",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532214970434,
+    "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Using the StandardClaims type by itself to parse a token"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 38,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214942686,
+        "id": "15451a3f-e850-44fb-83ba-d00670d2b851",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214952315,
+        "parent_id": "f52d53e2-4105-4dec-84b8-de637734fea7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 312"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 312"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214944984,
+        "id": "6087d8a4-0bfa-426c-8b57-b4858337f592",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214951844,
+        "parent_id": "f52d53e2-4105-4dec-84b8-de637734fea7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214947169,
+        "id": "2e2a2e82-e674-400a-b49c-386eece3a56e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214951268,
+        "parent_id": "f52d53e2-4105-4dec-84b8-de637734fea7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 31139"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 31139"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214949947,
+        "id": "1219fdd7-b3bb-4f81-a6c3-73cd3e43e02e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214949947,
+        "parent_id": "f52d53e2-4105-4dec-84b8-de637734fea7",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214948730,
+        "id": "29a045ce-518b-45dc-b740-49f772d54ed9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214949675,
+        "parent_id": "f52d53e2-4105-4dec-84b8-de637734fea7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The "
+            ],
+            [
+              "StandardClaims",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " type is designed to be embedded into your custom types to provide standard validation features. You can use it alone, but there’s no way to retrieve other fields after parsing. See the custom claims example for intended usage."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "The "
+          },
+          {
+            "Text": "StandardClaims",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " type is designed to be embedded into your custom types to provide standard validation features. You can use it alone, but there’s no way to retrieve other fields after parsing. See the custom claims example for intended usage."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156267135,
+        "id": "e7ed57be-0ac0-487f-a2b3-03137ade5da5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214974410,
+        "parent_id": "f52d53e2-4105-4dec-84b8-de637734fea7",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "mySigningKey := []byte(\"AllYourBase\")\n\n// Create the Claims\nclaims := \u0026jwt.StandardClaims{\n    ExpiresAt: 15000,\n    Issuer:    \"test\",\n}\n\ntoken := jwt.NewWithClaims(jwt.SigningMethodHS256, claims)\nss, err := token.SignedString(mySigningKey)\nfmt.Printf(\"%v %v\", ss, err)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "mySigningKey := []byte(\"AllYourBase\")\n\n// Create the Claims\nclaims := \u0026jwt.StandardClaims{\n    ExpiresAt: 15000,\n    Issuer:    \"test\",\n}\n\ntoken := jwt.NewWithClaims(jwt.SigningMethodHS256, claims)\nss, err := token.SignedString(mySigningKey)\nfmt.Printf(\"%v %v\", ss, err)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156267135,
+        "id": "1777b545-ac6e-42e2-802c-cee5f3826031",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156267135,
+        "parent_id": "f52d53e2-4105-4dec-84b8-de637734fea7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Output:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Output:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156267135,
+        "id": "f719b452-c060-45e6-9143-dbbe1a717073",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156267135,
+        "parent_id": "f52d53e2-4105-4dec-84b8-de637734fea7",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1MDAwLCJpc3MiOiJ0ZXN0In0.QsODzZu3lUZMVdhbO76u3Jv02iYCvEHcYVUI1kOWEU0 \u003cnil\u003e"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1MDAwLCJpc3MiOiJ0ZXN0In0.QsODzZu3lUZMVdhbO76u3Jv02iYCvEHcYVUI1kOWEU0 \u003cnil\u003e",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156267137,
+        "id": "fdbcf553-9c51-40f9-b76b-9433ca81ebe9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156267137,
+        "parent_id": "f52d53e2-4105-4dec-84b8-de637734fea7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "(From the "
+            ],
+            [
+              "documentation",
+              [
+                [
+                  "a",
+                  "https://godoc.org/github.com/dgrijalva/jwt-go#ex-NewWithClaims--StandardClaims"
+                ]
+              ]
+            ],
+            [
+              ", courtesy of Dave Grijalva.)"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "(From the "
+          },
+          {
+            "Text": "documentation",
+            "Link": "https://godoc.org/github.com/dgrijalva/jwt-go#ex-NewWithClaims--StandardClaims"
+          },
+          {
+            "Text": ", courtesy of Dave Grijalva.)"
+          }
+        ]
+      }
+    ],
+    "title": "Using the StandardClaims type by itself to parse a token",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,721 @@
+{
+  "ID": "f4005538-90d3-4185-ba79-5870807c2615",
+  "Page": {
+    "alive": true,
+    "content": [
+      "9b5b3fb1-bd57-4fcd-9441-1691b495ab2d",
+      "1afbb460-39f8-437d-800f-1027c279ba99",
+      "6bdedb9a-1c41-4796-b417-b1a55a725e3c",
+      "c0c78c1e-b550-4412-9f59-4dc6df19e0da",
+      "afdb46e6-53de-4efd-889a-c327d34253f7",
+      "45e4c26b-aba7-461b-a300-b19c76ffc56c",
+      "1d9c03c8-256b-41d9-92ef-a58c8a8a2e2c",
+      "6d722744-ff0a-4035-b7ad-1c30ebd8899b",
+      "dad668b1-9737-48c5-bb72-53ed607dddc1",
+      "9974d0fe-7abe-4578-a5b6-8dbf05e84eb9",
+      "f87bae19-a891-4764-b311-258b20ecb765",
+      "4a43c500-25f0-4e43-9226-b9c671d0cea7",
+      "a58e41f4-e794-4672-86b4-fc9be989a28c",
+      "dbc159b4-0f7b-4fb4-bbe6-e70027b1628b",
+      "5ec1fe3d-dfc6-4d01-917b-50bd8418d920",
+      "7df87500-f405-4270-9aa7-c471f0cd6679",
+      "a078a754-82bb-4e74-8a78-31acf0dd8f42",
+      "3a371bbc-e192-452d-89d7-319753f7efa4",
+      "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+      "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+      "64124d2d-3d2d-4015-9cb1-293792a3a77e",
+      "ec777281-adf4-408b-a848-7dac9209b939",
+      "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+      "14c37a66-aeb6-48e7-b317-e93623700677"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155978162,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "f4005538-90d3-4185-ba79-5870807c2615",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532303099131,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Slices"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 53,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196022911,
+        "id": "9b5b3fb1-bd57-4fcd-9441-1691b495ab2d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233583305,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 59"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 59"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196024822,
+        "id": "1afbb460-39f8-437d-800f-1027c279ba99",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233600703,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 733"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$SOId: 733"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196026918,
+        "id": "6bdedb9a-1c41-4796-b417-b1a55a725e3c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196026929,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155978160,
+        "id": "c0c78c1e-b550-4412-9f59-4dc6df19e0da",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532303075193,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Slice is a growable sequence of values of the same type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 39,
+        "inline_content": [
+          {
+            "Text": "Slice is a growable sequence of values of the same type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532303076025,
+        "id": "afdb46e6-53de-4efd-889a-c327d34253f7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532303089411,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Other languages call them arrays or vectors."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 106,
+        "inline_content": [
+          {
+            "Text": "Other languages call them arrays or vectors."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155978161,
+        "id": "45e4c26b-aba7-461b-a300-b19c76ffc56c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302887547,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Memory used by slice is provided by a "
+            ],
+            [
+              "fixed size array",
+              [
+                [
+                  "a",
+                  "55"
+                ]
+              ]
+            ],
+            [
+              ". A slice is a view into that array."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 3,
+        "inline_content": [
+          {
+            "Text": "Memory used by slice is provided by a "
+          },
+          {
+            "Text": "fixed size array",
+            "Link": "55"
+          },
+          {
+            "Text": ". A slice is a view into that array."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155978161,
+        "id": "1d9c03c8-256b-41d9-92ef-a58c8a8a2e2c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302912641,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Slice has length and capacity."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "Slice has length and capacity."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155978161,
+        "id": "6d722744-ff0a-4035-b7ad-1c30ebd8899b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155978161,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Capacity represents how many total elements a slice can have. That’s the size of underlying array."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Capacity represents how many total elements a slice can have. That’s the size of underlying array."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155978161,
+        "id": "dad668b1-9737-48c5-bb72-53ed607dddc1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302929660,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Length is the current number of elements in the slice."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 6,
+        "inline_content": [
+          {
+            "Text": "Length is the current number of elements in the slice."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155978161,
+        "id": "9974d0fe-7abe-4578-a5b6-8dbf05e84eb9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155978161,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The difference between capacity and length is how many elements we can append to a slice before we have to re-allocate underlying array."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The difference between capacity and length is how many elements we can append to a slice before we have to re-allocate underlying array."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155978162,
+        "id": "f87bae19-a891-4764-b311-258b20ecb765",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233633534,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of a slice is nil."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "Zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of a slice is nil."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302942497,
+        "id": "4a43c500-25f0-4e43-9226-b9c671d0cea7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302942497,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155978162,
+        "id": "a58e41f4-e794-4672-86b4-fc9be989a28c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155978162,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Basic of slices:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Basic of slices:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155978162,
+        "id": "dbc159b4-0f7b-4fb4-bbe6-e70027b1628b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155978162,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index.go output sha1:0aad3a082470e1c324f760dbf3b616843908d2b2 goplayground:nuqqi6Y0fF6"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index.go output sha1:0aad3a082470e1c324f760dbf3b616843908d2b2 goplayground:nuqqi6Y0fF6"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196014886,
+        "id": "5ec1fe3d-dfc6-4d01-917b-50bd8418d920",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196014886,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155979182,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302788042,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Create a slice"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 104,
+        "title": "Create a slice",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155984103,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234797702,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Append to slice"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Append to slice",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155985138,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "3a371bbc-e192-452d-89d7-319753f7efa4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234803313,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Add slices"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Add slices",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155986202,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234809035,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Filter a slice"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Filter a slice",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155987219,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234815041,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Remove elements from slice"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Remove elements from slice",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155988186,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "64124d2d-3d2d-4015-9cb1-293792a3a77e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234822789,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Duplicate (create a copy of) a slice"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Duplicate (create a copy of) a slice",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155983252,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "ec777281-adf4-408b-a848-7dac9209b939",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302956023,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value of slice"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 28,
+        "title": "Zero value of slice",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982022,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302961065,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Length and capacity"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 26,
+        "title": "Length and capacity",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532303099131,
+        "id": "14c37a66-aeb6-48e7-b317-e93623700677",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532303099131,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Slices",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,439 @@
+{
+  "ID": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+  "Page": {
+    "alive": true,
+    "content": [
+      "66eb1cdc-ee01-4920-a4ae-eafe1bdc64cc",
+      "a81d237e-d908-449a-bc5e-8fe8f68354b3",
+      "0446b0d5-3a9d-4144-9705-a1bba90973fd",
+      "10193016-cd4d-49b7-9a9e-cd9187de9880",
+      "96d60654-80a5-41f8-9b95-3f91c2e99a8b",
+      "cd3994c3-6960-4649-b9ca-1e6da1449526",
+      "b560aee3-8cf5-4022-aee3-72cc0d815be0",
+      "ee6bc067-5a9a-4750-9237-af6ec77a8622",
+      "3b6d2197-60cb-479c-ae65-bfc7f185c1b7",
+      "5a5cc8a0-8ed0-4702-8224-b65b25a8f5b9",
+      "fac419d3-bbb8-4624-89de-35b0321d9c4e",
+      "deb6f6f3-d964-48ff-98a5-bbbf8daa4689",
+      "bfb8f73b-6fd2-4333-b5a0-de5631d7c38e",
+      "f52d53e2-4105-4dec-84b8-de637734fea7"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156261159,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532214933892,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "JWT Authorization"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 53,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214735992,
+        "id": "66eb1cdc-ee01-4920-a4ae-eafe1bdc64cc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214766148,
+        "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 308"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 308"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214738671,
+        "id": "a81d237e-d908-449a-bc5e-8fe8f68354b3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214767427,
+        "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 10161"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 10161"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214742888,
+        "id": "0446b0d5-3a9d-4144-9705-a1bba90973fd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214750280,
+        "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214746952,
+        "id": "10193016-cd4d-49b7-9a9e-cd9187de9880",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214747193,
+        "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "JSON Web Tokens (JWTs) are a popular method for representing claims securely between two parties. Understanding how to work with them is important when developing web applications or application programming interfaces."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 8,
+        "inline_content": [
+          {
+            "Text": "JSON Web Tokens (JWTs) are a popular method for representing claims securely between two parties. Understanding how to work with them is important when developing web applications or application programming interfaces."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156261158,
+        "id": "96d60654-80a5-41f8-9b95-3f91c2e99a8b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156261158,
+        "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Remarks"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Remarks"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156261159,
+        "id": "cd3994c3-6960-4649-b9ca-1e6da1449526",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156261159,
+        "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "context.Context and HTTP middleware are outside the scope of this topic, but nonetheless those curious, wandering souls should check out https://github.com/goware/jwtauth, https://github.com/auth0/go-jwt-middleware, and https://github.com/dgrijalva/jwt-go."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "context.Context and HTTP middleware are outside the scope of this topic, but nonetheless those curious, wandering souls should check out https://github.com/goware/jwtauth, https://github.com/auth0/go-jwt-middleware, and https://github.com/dgrijalva/jwt-go."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156261159,
+        "id": "b560aee3-8cf5-4022-aee3-72cc0d815be0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156261159,
+        "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Huge kudos to Dave Grijalva for his amazing work on go-jwt."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Huge kudos to Dave Grijalva for his amazing work on go-jwt."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214773851,
+        "id": "ee6bc067-5a9a-4750-9237-af6ec77a8622",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214773851,
+        "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156262163,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "3b6d2197-60cb-479c-ae65-bfc7f185c1b7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214828244,
+        "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Parsing and validating a token using the HMAC signing method"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 52,
+        "title": "Parsing and validating a token using the HMAC signing method",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156263148,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "5a5cc8a0-8ed0-4702-8224-b65b25a8f5b9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214874438,
+        "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Creating a token using a custom claims type"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 30,
+        "title": "Creating a token using a custom claims type",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156264158,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "fac419d3-bbb8-4624-89de-35b0321d9c4e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214915908,
+        "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Creating, signing, and encoding a JWT token using the HMAC signing method"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Creating, signing, and encoding a JWT token using the HMAC signing method",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156270085,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "deb6f6f3-d964-48ff-98a5-bbbf8daa4689",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215002633,
+        "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Parsing the error types using bitfield checks"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Parsing the error types using bitfield checks",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156272960,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "bfb8f73b-6fd2-4333-b5a0-de5631d7c38e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215042855,
+        "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Getting token from HTTP Authorization header"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Getting token from HTTP Authorization header",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156267137,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "f52d53e2-4105-4dec-84b8-de637734fea7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214970434,
+        "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using the StandardClaims type by itself to parse a token"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 38,
+        "title": "Using the StandardClaims type by itself to parse a token",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "JWT Authorization",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

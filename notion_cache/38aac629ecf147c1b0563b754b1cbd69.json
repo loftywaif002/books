@@ -1,0 +1,425 @@
+{
+  "ID": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+  "Page": {
+    "alive": true,
+    "content": [
+      "40438457-0c87-4fd4-b386-dd1813facf15",
+      "1bd9e7c1-bf17-4c3d-b086-b50180a2c6a9",
+      "37ff55a5-49f1-4d48-a2fb-39b7b79fcd1a",
+      "9b18fced-e9e7-4051-80d8-469565643a9b",
+      "f0b72980-bbb5-44a4-8d7d-9d653c1a87f9",
+      "11515029-4968-43d6-95fb-4e164f577fff",
+      "de9d7712-a6e1-4868-aa1a-4ddc75c82023",
+      "d3b59c67-5908-4301-8bb3-1a9e202e5c94",
+      "b6c6d83d-cc37-4716-9b98-addb414f5025",
+      "77acda01-cfc2-436f-a312-f7c37940f0ed",
+      "021586ac-ab81-4bd8-8e28-85fa8b9d1dca",
+      "d124459f-81cb-47fa-949c-1ccc4fa24362"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156097123,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207122547,
+    "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Raw access to command line arguments"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207104110,
+        "id": "40438457-0c87-4fd4-b386-dd1813facf15",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207111435,
+        "parent_id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 172"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 172"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207105755,
+        "id": "1bd9e7c1-bf17-4c3d-b086-b50180a2c6a9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207110004,
+        "parent_id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 14047"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 14047"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207107240,
+        "id": "37ff55a5-49f1-4d48-a2fb-39b7b79fcd1a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207108323,
+        "parent_id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156097121,
+        "id": "9b18fced-e9e7-4051-80d8-469565643a9b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156097121,
+        "parent_id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If "
+            ],
+            [
+              "flag",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package or a third-party library doesn’t provide the features you want, you can parse the arguments yourself."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If "
+          },
+          {
+            "Text": "flag",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package or a third-party library doesn’t provide the features you want, you can parse the arguments yourself."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156097121,
+        "id": "f0b72980-bbb5-44a4-8d7d-9d653c1a87f9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156097121,
+        "parent_id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file raw_cmd_line_args.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file raw_cmd_line_args.go output noplayground"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156097122,
+        "id": "11515029-4968-43d6-95fb-4e164f577fff",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156097122,
+        "parent_id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The above output is a result of "
+            ],
+            [
+              "go run $file -echo echo-arg additional arg",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The above output is a result of "
+          },
+          {
+            "Text": "go run $file -echo echo-arg additional arg",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156097122,
+        "id": "de9d7712-a6e1-4868-aa1a-4ddc75c82023",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156097122,
+        "parent_id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Raw arguments"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Raw arguments"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156097123,
+        "id": "d3b59c67-5908-4301-8bb3-1a9e202e5c94",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156097123,
+        "parent_id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Raw command-line arguments can be accessed via "
+            ],
+            [
+              "[]string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " slice "
+            ],
+            [
+              "os.Args",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Raw command-line arguments can be accessed via "
+          },
+          {
+            "Text": "[]string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " slice "
+          },
+          {
+            "Text": "os.Args",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156097123,
+        "id": "b6c6d83d-cc37-4716-9b98-addb414f5025",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156097123,
+        "parent_id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "First element is name of the executable."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "First element is name of the executable."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156097123,
+        "id": "77acda01-cfc2-436f-a312-f7c37940f0ed",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156097123,
+        "parent_id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Remaining elements are cmd-line arguments as decoded by OS shell."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Remaining elements are cmd-line arguments as decoded by OS shell."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156097123,
+        "id": "021586ac-ab81-4bd8-8e28-85fa8b9d1dca",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156097123,
+        "parent_id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "On Windows cmd-line arguments are a single UTF-16 Unicode string."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "On Windows cmd-line arguments are a single UTF-16 Unicode string."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156097123,
+        "id": "d124459f-81cb-47fa-949c-1ccc4fa24362",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156097123,
+        "parent_id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go runtime converts them to UTF-8 string and splits into separate arguments to unify handling across different operating systems."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go runtime converts them to UTF-8 string and splits into separate arguments to unify handling across different operating systems."
+          }
+        ]
+      }
+    ],
+    "title": "Raw access to command line arguments",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

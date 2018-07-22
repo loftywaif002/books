@@ -1,0 +1,296 @@
+{
+  "ID": "5671e408-54c3-4373-8871-639d8a79f5f0",
+  "Page": {
+    "alive": true,
+    "content": [
+      "31f7413f-2b97-40e0-8e60-8bdcd5603a97",
+      "9df5de23-e1b2-4f2c-8930-a19307ae7a9f",
+      "aaed0432-e337-44af-829f-032befcf322c",
+      "b89420f1-57ae-4b4a-a0a1-aed64b45b99a",
+      "8bf65ace-c87d-4bfe-82f7-dd2b46d3bb52",
+      "67807bb2-50c2-4e30-96e5-0f66a7c085f5",
+      "8de2983e-3018-4f5d-ae9b-bb54951a387e",
+      "9bc40595-b232-4b9d-be76-300005ce5c43",
+      "444cdc82-effe-489c-9a73-43678b7e11c8"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156005236,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "5671e408-54c3-4373-8871-639d8a79f5f0",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235331374,
+    "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Struct literals"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196845507,
+        "id": "31f7413f-2b97-40e0-8e60-8bdcd5603a97",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235332161,
+        "parent_id": "5671e408-54c3-4373-8871-639d8a79f5f0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 82"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 82"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196847159,
+        "id": "9df5de23-e1b2-4f2c-8930-a19307ae7a9f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235332896,
+        "parent_id": "5671e408-54c3-4373-8871-639d8a79f5f0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 12466"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 12466"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196850042,
+        "id": "aaed0432-e337-44af-829f-032befcf322c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196850042,
+        "parent_id": "5671e408-54c3-4373-8871-639d8a79f5f0",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196848730,
+        "id": "b89420f1-57ae-4b4a-a0a1-aed64b45b99a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196849771,
+        "parent_id": "5671e408-54c3-4373-8871-639d8a79f5f0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A value of a struct type can be written using a "
+            ],
+            [
+              "struct literal",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " that specifies values for its fields."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "A value of a struct type can be written using a "
+          },
+          {
+            "Text": "struct literal",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " that specifies values for its fields."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156005235,
+        "id": "8bf65ace-c87d-4bfe-82f7-dd2b46d3bb52",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196861089,
+        "parent_id": "5671e408-54c3-4373-8871-639d8a79f5f0",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Point struct { X, Y int }\np := Point{1, 2}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Point struct { X, Y int }\np := Point{1, 2}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156005235,
+        "id": "67807bb2-50c2-4e30-96e5-0f66a7c085f5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156005235,
+        "parent_id": "5671e408-54c3-4373-8871-639d8a79f5f0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The above example specifies every field in the right order. Which is not useful, because programmers have to remember the exact fields in order. More often, a struct can be initialized by listing some or all of the field names and their corresponding values."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The above example specifies every field in the right order. Which is not useful, because programmers have to remember the exact fields in order. More often, a struct can be initialized by listing some or all of the field names and their corresponding values."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156005235,
+        "id": "8de2983e-3018-4f5d-ae9b-bb54951a387e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196862754,
+        "parent_id": "5671e408-54c3-4373-8871-639d8a79f5f0",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "anim := gif.GIF{LoopCount: nframes}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "anim := gif.GIF{LoopCount: nframes}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156005235,
+        "id": "9bc40595-b232-4b9d-be76-300005ce5c43",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156005235,
+        "parent_id": "5671e408-54c3-4373-8871-639d8a79f5f0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Omitted fields are set to the zero value for its type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Omitted fields are set to the zero value for its type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156005236,
+        "id": "444cdc82-effe-489c-9a73-43678b7e11c8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235349779,
+        "parent_id": "5671e408-54c3-4373-8871-639d8a79f5f0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Note: the two forms cannot be mixed in the same literal."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 7,
+        "inline_content": [
+          {
+            "Text": "Note: the two forms cannot be mixed in the same literal."
+          }
+        ]
+      }
+    ],
+    "title": "Struct literals",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

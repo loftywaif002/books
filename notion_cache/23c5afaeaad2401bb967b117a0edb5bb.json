@@ -1,0 +1,1045 @@
+{
+  "ID": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+  "Page": {
+    "alive": true,
+    "content": [
+      "f4bcb3bb-e319-4d63-9332-7ae5461174a1",
+      "1df5ec4a-e4d5-488a-a13f-915367617986",
+      "3d74b0da-0f57-4856-b7ed-2ef62c2076d8",
+      "1b06ab93-a9e3-4677-9d79-459f00786332",
+      "92fd7911-3614-44b9-b087-5e9ba4e725b7",
+      "676b77b9-4b94-4969-965e-562b01734684",
+      "269a5b55-e663-4c74-94c3-1a92eab6a249",
+      "753808c0-2732-4c7c-8af6-4cb463402708",
+      "562df11a-ad14-4ba5-882b-de057dbce64f",
+      "57e0707f-a77b-4a12-ac5d-341dcd9e0987",
+      "6ab9cd8a-8f7c-4d55-b16e-737ed1664efd",
+      "2a49fb8c-50da-42de-bc34-7ca18e27234f",
+      "47d98448-7cc1-4385-8497-1740e20db604",
+      "f059c805-ea4a-4879-a29a-af47878b2b87",
+      "5992f4ea-6f90-40f9-9902-bf5a2692d1ce",
+      "e77c5d1a-a430-4b5e-bfb2-6bf1216d64eb",
+      "127012ba-5b7f-4565-9ae9-e97a80bc9a16",
+      "2023af87-22d8-4f7d-abb7-252fa44dc80f",
+      "d57b2cb5-b6c2-4df6-b770-bf058fedc176",
+      "17597f17-90c3-4f4a-989a-cb4f34f7dff6",
+      "77f55518-9d2c-418a-b35a-6fe6c0f01982",
+      "d46f7074-0e87-44ed-b44a-e61741345541",
+      "d333df61-5978-4578-a9fa-b79ffa6b8698",
+      "cfb81d00-9cbe-472e-801c-f349b5616fa5",
+      "5b94609b-d77d-439f-a246-b81a225192f4",
+      "6c53940a-7977-487a-a7bc-ea7907fd12d9",
+      "203f9efa-1062-4719-b4b3-daeded03015d"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156015302,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235540961,
+    "parent_id": "4f5f2959-e72c-431e-9955-27b51ad7fd8e",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Simple interface"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 33,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197246414,
+        "id": "f4bcb3bb-e319-4d63-9332-7ae5461174a1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235514156,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 91"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 91"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197248185,
+        "id": "1df5ec4a-e4d5-488a-a13f-915367617986",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235514909,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4001"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4001"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197251208,
+        "id": "3d74b0da-0f57-4856-b7ed-2ef62c2076d8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197251208,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197249902,
+        "id": "1b06ab93-a9e3-4677-9d79-459f00786332",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197250997,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go, an interface is just a set of methods. We use an interface to specify a behavior of a given object."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "In Go, an interface is just a set of methods. We use an interface to specify a behavior of a given object."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015296,
+        "id": "92fd7911-3614-44b9-b087-5e9ba4e725b7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197218943,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Painter interface {\n    Paint()\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Painter interface {\n    Paint()\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015297,
+        "id": "676b77b9-4b94-4969-965e-562b01734684",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156015297,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The implementing type "
+            ],
+            [
+              "need not",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " declare that it is implementing the interface. It is enough to define methods of the same signature."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The implementing type "
+          },
+          {
+            "Text": "need not",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " declare that it is implementing the interface. It is enough to define methods of the same signature."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015297,
+        "id": "269a5b55-e663-4c74-94c3-1a92eab6a249",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197220748,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Rembrandt struct{}\n\nfunc (r Rembrandt) Paint() {\n    // use a lot of canvas here\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Rembrandt struct{}\n\nfunc (r Rembrandt) Paint() {\n    // use a lot of canvas here\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015297,
+        "id": "753808c0-2732-4c7c-8af6-4cb463402708",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156015297,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Now we can use the structure as an interface."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Now we can use the structure as an interface."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015297,
+        "id": "562df11a-ad14-4ba5-882b-de057dbce64f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197222655,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var p Painter\np = Rembrandt{}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var p Painter\np = Rembrandt{}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015297,
+        "id": "57e0707f-a77b-4a12-ac5d-341dcd9e0987",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156015297,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "An interface can be satisfied (or implemented) by an arbitrary number of types. Also a type can implement an arbitrary number of interfaces."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "An interface can be satisfied (or implemented) by an arbitrary number of types. Also a type can implement an arbitrary number of interfaces."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015298,
+        "id": "6ab9cd8a-8f7c-4d55-b16e-737ed1664efd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197225865,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Singer interface {\n        Sing()\n}\n\ntype Writer interface {\n        Write()\n}\n\ntype Human struct{}\n\nfunc (h *Human) Sing() {\n    fmt.Println(\"singing\")\n}\n\nfunc (h *Human) Write() {\n    fmt.Println(\"writing\")\n}\n\ntype OnlySinger struct{}\nfunc (o *OnlySinger) Sing() {\n    fmt.Println(\"singing\")\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Singer interface {\n        Sing()\n}\n\ntype Writer interface {\n        Write()\n}\n\ntype Human struct{}\n\nfunc (h *Human) Sing() {\n    fmt.Println(\"singing\")\n}\n\nfunc (h *Human) Write() {\n    fmt.Println(\"writing\")\n}\n\ntype OnlySinger struct{}\nfunc (o *OnlySinger) Sing() {\n    fmt.Println(\"singing\")\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015298,
+        "id": "2a49fb8c-50da-42de-bc34-7ca18e27234f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235540961,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here, The "
+            ],
+            [
+              "Human",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " struct satisfy both the "
+            ],
+            [
+              "Singer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "Writer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " interface, but the "
+            ],
+            [
+              "OnlySinger",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " struct only satisfy "
+            ],
+            [
+              "Singer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " interface."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 7,
+        "inline_content": [
+          {
+            "Text": "Here, The "
+          },
+          {
+            "Text": "Human",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " struct satisfy both the "
+          },
+          {
+            "Text": "Singer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "Writer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " interface, but the "
+          },
+          {
+            "Text": "OnlySinger",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " struct only satisfy "
+          },
+          {
+            "Text": "Singer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " interface."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532235538644,
+        "id": "47d98448-7cc1-4385-8497-1740e20db604",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235539878,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "type": "divider",
+        "version": 18
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015299,
+        "id": "f059c805-ea4a-4879-a29a-af47878b2b87",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156015299,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Empty Interface",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Empty Interface",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015299,
+        "id": "5992f4ea-6f90-40f9-9902-bf5a2692d1ce",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156015299,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "There is an empty interface type, that contains no methods. We declare it as "
+            ],
+            [
+              "interface{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". This contains no methods so every "
+            ],
+            [
+              "type",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " satisfies it. Hence empty interface can contain any type value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "There is an empty interface type, that contains no methods. We declare it as "
+          },
+          {
+            "Text": "interface{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". This contains no methods so every "
+          },
+          {
+            "Text": "type",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " satisfies it. Hence empty interface can contain any type value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015299,
+        "id": "e77c5d1a-a430-4b5e-bfb2-6bf1216d64eb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197237833,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var a interface{}\nvar i int = 5\ns := \"Hello world\"\n\ntype StructType struct {\n    i, j int\n    k string\n}\n\n// all are valid statements\na = i\na = s\na = \u0026StructType{1, 2, \"hello\"}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var a interface{}\nvar i int = 5\ns := \"Hello world\"\n\ntype StructType struct {\n    i, j int\n    k string\n}\n\n// all are valid statements\na = i\na = s\na = \u0026StructType{1, 2, \"hello\"}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015300,
+        "id": "127012ba-5b7f-4565-9ae9-e97a80bc9a16",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156015300,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The most common use case for interfaces is to ensure that a variable supports one or more behaviours. By contrast, the primary use case for the empty interface is to define a variable which can hold any value, regardless of its concrete type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The most common use case for interfaces is to ensure that a variable supports one or more behaviours. By contrast, the primary use case for the empty interface is to define a variable which can hold any value, regardless of its concrete type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015300,
+        "id": "2023af87-22d8-4f7d-abb7-252fa44dc80f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156015300,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To get these values back as their original types we just need to do"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To get these values back as their original types we just need to do"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015300,
+        "id": "d57b2cb5-b6c2-4df6-b770-bf058fedc176",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197231183,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "i = a.(int)\ns = a.(string)\nm := a.(*StructType)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "i = a.(int)\ns = a.(string)\nm := a.(*StructType)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015300,
+        "id": "17597f17-90c3-4f4a-989a-cb4f34f7dff6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156015300,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "or"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "or"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015300,
+        "id": "77f55518-9d2c-418a-b35a-6fe6c0f01982",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197239983,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "i, ok := a.(int)\ns, ok := a.(string)\nm, ok := a.(*StructType)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "i, ok := a.(int)\ns, ok := a.(string)\nm, ok := a.(*StructType)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015301,
+        "id": "d46f7074-0e87-44ed-b44a-e61741345541",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156015301,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "ok",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " indicates if the "
+            ],
+            [
+              "interface a",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is convertible to given type. If it is not possible to cast "
+            ],
+            [
+              "ok",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " will be "
+            ],
+            [
+              "false",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "ok",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " indicates if the "
+          },
+          {
+            "Text": "interface a",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is convertible to given type. If it is not possible to cast "
+          },
+          {
+            "Text": "ok",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " will be "
+          },
+          {
+            "Text": "false",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015301,
+        "id": "d333df61-5978-4578-a9fa-b79ffa6b8698",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156015301,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "type": "divider",
+        "version": 1
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015301,
+        "id": "cfb81d00-9cbe-472e-801c-f349b5616fa5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156015301,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Interface Values",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Interface Values",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015301,
+        "id": "5b94609b-d77d-439f-a246-b81a225192f4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156015301,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you declare a variable of an interface, it may store any value type that implements the methods declared by the interface!"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you declare a variable of an interface, it may store any value type that implements the methods declared by the interface!"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015301,
+        "id": "6c53940a-7977-487a-a7bc-ea7907fd12d9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156015301,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If we declare "
+            ],
+            [
+              "h",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " of "
+            ],
+            [
+              "interface Singer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", it may store a value of type "
+            ],
+            [
+              "Human",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "OnlySinger.",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " This is because of the fact that they all implement methods specified by the "
+            ],
+            [
+              "Singer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " interface."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If we declare "
+          },
+          {
+            "Text": "h",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " of "
+          },
+          {
+            "Text": "interface Singer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", it may store a value of type "
+          },
+          {
+            "Text": "Human",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "OnlySinger.",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " This is because of the fact that they all implement methods specified by the "
+          },
+          {
+            "Text": "Singer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " interface."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156015302,
+        "id": "203f9efa-1062-4719-b4b3-daeded03015d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197241980,
+        "parent_id": "23c5afae-aad2-401b-b967-b117a0edb5bb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var h Singer\nh = \u0026human{}\n\nh.Sing()"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var h Singer\nh = \u0026human{}\n\nh.Sing()",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Simple interface",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

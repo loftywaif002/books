@@ -1,0 +1,178 @@
+{
+  "ID": "ec235242-1ba7-472a-b82d-9dcc71d2c389",
+  "Page": {
+    "alive": true,
+    "content": [
+      "451389d0-15e8-4242-a149-a5d3bdba6271",
+      "38fb53a1-92bd-4d24-bda4-7187e2113fcb",
+      "68256516-af2d-4a44-b9f0-e5334f6e9040",
+      "36c03ffa-074d-449b-b295-e59014623938",
+      "c945da02-f520-486f-a515-43f32fa1cc65"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156185143,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "ec235242-1ba7-472a-b82d-9dcc71d2c389",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532211352821,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Memory pooling"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 22,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211317713,
+        "id": "451389d0-15e8-4242-a149-a5d3bdba6271",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211319584,
+        "parent_id": "ec235242-1ba7-472a-b82d-9dcc71d2c389",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 241"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 241"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211319584,
+        "id": "38fb53a1-92bd-4d24-bda4-7187e2113fcb",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211321471,
+        "parent_id": "ec235242-1ba7-472a-b82d-9dcc71d2c389",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4647"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4647"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211321471,
+        "id": "68256516-af2d-4a44-b9f0-e5334f6e9040",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211330662,
+        "parent_id": "ec235242-1ba7-472a-b82d-9dcc71d2c389",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Introduction sync.Pool stores a cache of allocated but unused items for future use, avoiding memory churn for frequently changed collections, and allowing efficient, thread-safe re-use of memory. It is useful to manage a group of temporary items shared between concurrent clients of a package, for example a list of database connections or a list of output buffers."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 52,
+        "inline_content": [
+          {
+            "Text": "Introduction sync.Pool stores a cache of allocated but unused items for future use, avoiding memory churn for frequently changed collections, and allowing efficient, thread-safe re-use of memory. It is useful to manage a group of temporary items shared between concurrent clients of a package, for example a list of database connections or a list of output buffers."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211334046,
+        "id": "36c03ffa-074d-449b-b295-e59014623938",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211334046,
+        "parent_id": "ec235242-1ba7-472a-b82d-9dcc71d2c389",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156186238,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "c945da02-f520-486f-a515-43f32fa1cc65",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211383708,
+        "parent_id": "ec235242-1ba7-472a-b82d-9dcc71d2c389",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "sync.Pool"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "sync.Pool",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Memory pooling",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

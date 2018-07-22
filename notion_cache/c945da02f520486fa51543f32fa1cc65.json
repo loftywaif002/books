@@ -1,0 +1,220 @@
+{
+  "ID": "c945da02-f520-486f-a515-43f32fa1cc65",
+  "Page": {
+    "alive": true,
+    "content": [
+      "af5bffc3-6a46-438a-bf4d-338d97146d95",
+      "a1506466-6886-4d80-93f7-8a6363e2a0f7",
+      "3016be52-c10e-4250-9d52-567849485a4a",
+      "0eeb751f-dae2-4b99-a232-66e5e223f2e4",
+      "b78ffaf3-f879-43e8-a7c7-b33424aff389",
+      "bdef65fe-4253-469c-b570-52050b18c40a"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156186238,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "c945da02-f520-486f-a515-43f32fa1cc65",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532211383708,
+    "parent_id": "ec235242-1ba7-472a-b82d-9dcc71d2c389",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "sync.Pool"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211370162,
+        "id": "af5bffc3-6a46-438a-bf4d-338d97146d95",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211372029,
+        "parent_id": "c945da02-f520-486f-a515-43f32fa1cc65",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 242"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 242"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211372029,
+        "id": "a1506466-6886-4d80-93f7-8a6363e2a0f7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211374445,
+        "parent_id": "c945da02-f520-486f-a515-43f32fa1cc65",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211374445,
+        "id": "3016be52-c10e-4250-9d52-567849485a4a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211376350,
+        "parent_id": "c945da02-f520-486f-a515-43f32fa1cc65",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 16314"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 16314"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211377894,
+        "id": "0eeb751f-dae2-4b99-a232-66e5e223f2e4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211377894,
+        "parent_id": "c945da02-f520-486f-a515-43f32fa1cc65",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211376350,
+        "id": "b78ffaf3-f879-43e8-a7c7-b33424aff389",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211377304,
+        "parent_id": "c945da02-f520-486f-a515-43f32fa1cc65",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using "
+            ],
+            [
+              "sync.Pool",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/sync/#Pool"
+                ]
+              ]
+            ],
+            [
+              " structure we can pool objects and reuse them."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Using "
+          },
+          {
+            "Text": "sync.Pool",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/sync/#Pool"
+          },
+          {
+            "Text": " structure we can pool objects and reuse them."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156186238,
+        "id": "bdef65fe-4253-469c-b570-52050b18c40a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211388834,
+        "parent_id": "c945da02-f520-486f-a515-43f32fa1cc65",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"bytes\"\n    \"fmt\"\n    \"sync\"\n)\n\nvar pool = sync.Pool{\n    // New creates an object when the pool has nothing available to return.\n    // New must return an interface{} to make it flexible. You have to cast\n    // your type after getting it.\n    New: func() interface{} {\n        // Pools often contain things like *bytes.Buffer, which are\n        // temporary and re-usable.\n        return \u0026bytes.Buffer{}\n    },\n}\n\nfunc main() {\n    // When getting from a Pool, you need to cast\n    s := pool.Get().(*bytes.Buffer)\n    // We write to the object\n    s.Write([]byte(\"dirty\"))\n    // Then put it back\n    pool.Put(s)\n\n    // Pools can return dirty results\n\n    // Get 'another' buffer\n    s = pool.Get().(*bytes.Buffer)\n    // Write to it\n    s.Write([]byte(\"append\"))\n    // At this point, if GC ran, this buffer *might* exist already, in\n    // which case it will contain the bytes of the string \"dirtyappend\"\n    fmt.Println(s)\n    // So use pools wisely, and clean up after yourself\n    s.Reset()\n    pool.Put(s)\n\n    // When you clean up, your buffer should be empty\n    s = pool.Get().(*bytes.Buffer)\n    // Defer your Puts to make sure you don't leak!\n    defer pool.Put(s)\n    s.Write([]byte(\"reset!\"))\n    // This prints \"reset!\", and not \"dirtyappendreset!\"\n    fmt.Println(s)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"bytes\"\n    \"fmt\"\n    \"sync\"\n)\n\nvar pool = sync.Pool{\n    // New creates an object when the pool has nothing available to return.\n    // New must return an interface{} to make it flexible. You have to cast\n    // your type after getting it.\n    New: func() interface{} {\n        // Pools often contain things like *bytes.Buffer, which are\n        // temporary and re-usable.\n        return \u0026bytes.Buffer{}\n    },\n}\n\nfunc main() {\n    // When getting from a Pool, you need to cast\n    s := pool.Get().(*bytes.Buffer)\n    // We write to the object\n    s.Write([]byte(\"dirty\"))\n    // Then put it back\n    pool.Put(s)\n\n    // Pools can return dirty results\n\n    // Get 'another' buffer\n    s = pool.Get().(*bytes.Buffer)\n    // Write to it\n    s.Write([]byte(\"append\"))\n    // At this point, if GC ran, this buffer *might* exist already, in\n    // which case it will contain the bytes of the string \"dirtyappend\"\n    fmt.Println(s)\n    // So use pools wisely, and clean up after yourself\n    s.Reset()\n    pool.Put(s)\n\n    // When you clean up, your buffer should be empty\n    s = pool.Get().(*bytes.Buffer)\n    // Defer your Puts to make sure you don't leak!\n    defer pool.Put(s)\n    s.Write([]byte(\"reset!\"))\n    // This prints \"reset!\", and not \"dirtyappendreset!\"\n    fmt.Println(s)\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "sync.Pool",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

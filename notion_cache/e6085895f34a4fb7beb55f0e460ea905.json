@@ -1,0 +1,223 @@
+{
+  "ID": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
+  "Page": {
+    "alive": true,
+    "content": [
+      "47769c4f-68b1-466e-bb23-9079322a3b04",
+      "e916939c-ca66-43e0-bdc9-d4576d3e3a1b",
+      "53ee6664-7713-40f1-a022-e43a77217102",
+      "1b4ba918-d537-49c3-af95-9a90c6100a82",
+      "8d9c2a73-41ec-443b-8217-6e052c0f78a4",
+      "f7bed8a8-2bda-4d09-95e6-08997c8e0768",
+      "5f5c9b7b-6f00-43b2-8af7-c19fe7f6e550"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155950237,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234169402,
+    "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Multiple variable assignment"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195125096,
+        "id": "47769c4f-68b1-466e-bb23-9079322a3b04",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234170185,
+        "parent_id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 34"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 34"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195127481,
+        "id": "e916939c-ca66-43e0-bdc9-d4576d3e3a1b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234170938,
+        "parent_id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2193"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2193"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195129852,
+        "id": "53ee6664-7713-40f1-a022-e43a77217102",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195129864,
+        "parent_id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155950236,
+        "id": "1b4ba918-d537-49c3-af95-9a90c6100a82",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155950236,
+        "parent_id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go, you can declare multiple variables at the same time."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In Go, you can declare multiple variables at the same time."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155950237,
+        "id": "8d9c2a73-41ec-443b-8217-6e052c0f78a4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155950237,
+        "parent_id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file multiple_variable.go sha1:e22304502badf80b2dcf72114c23ce619fa3238e goplayground:jNBkiVxHYBw"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file multiple_variable.go sha1:e22304502badf80b2dcf72114c23ce619fa3238e goplayground:jNBkiVxHYBw"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155950237,
+        "id": "f7bed8a8-2bda-4d09-95e6-08997c8e0768",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155950237,
+        "parent_id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If a function returns multiple values, you can also assign values to variables based on the function’s return values."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If a function returns multiple values, you can also assign values to variables based on the function’s return values."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155950237,
+        "id": "5f5c9b7b-6f00-43b2-8af7-c19fe7f6e550",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155950237,
+        "parent_id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file multiple_variable_2.go output sha1:8a0eeb2f0365a379e2fe9f7e874d905c35c6cd50 goplayground:Mt9NmcHGF5P"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file multiple_variable_2.go output sha1:8a0eeb2f0365a379e2fe9f7e874d905c35c6cd50 goplayground:Mt9NmcHGF5P"
+          }
+        ]
+      }
+    ],
+    "title": "Multiple variable assignment",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

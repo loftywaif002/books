@@ -1,0 +1,268 @@
+{
+  "ID": "b27d6090-8694-4d93-afea-ae189107edcc",
+  "Page": {
+    "alive": true,
+    "content": [
+      "a76511ca-89fe-44bd-9490-bf88e49ce756",
+      "bf2e459b-246f-4b4e-a1c9-77c35808107e",
+      "74081bfa-78f7-41de-a056-e09702885615",
+      "01b2d035-480f-449d-9b27-0f062e718500",
+      "3aa7004a-5fee-4660-9455-3bf3c3b7e677",
+      "e4f8bf77-6d33-4a12-9aab-5d83d2f76753",
+      "5421a70f-6ee3-4ad7-9939-b08cde605cdc",
+      "3bb4da9e-5a26-4a30-96ef-16ca38532be0"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156051170,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "b27d6090-8694-4d93-afea-ae189107edcc",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236125012,
+    "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Add callstack to error messages"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205202209,
+        "id": "a76511ca-89fe-44bd-9490-bf88e49ce756",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236125900,
+        "parent_id": "b27d6090-8694-4d93-afea-ae189107edcc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 126"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 126"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205204515,
+        "id": "bf2e459b-246f-4b4e-a1c9-77c35808107e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236126876,
+        "parent_id": "b27d6090-8694-4d93-afea-ae189107edcc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: k1k100ea"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: k1k100ea"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205206227,
+        "id": "74081bfa-78f7-41de-a056-e09702885615",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205206806,
+        "parent_id": "b27d6090-8694-4d93-afea-ae189107edcc",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156051168,
+        "id": "01b2d035-480f-449d-9b27-0f062e718500",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156051168,
+        "parent_id": "b27d6090-8694-4d93-afea-ae189107edcc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you come from languages like Java, C# or Python, you might be used to the fact that exceptions include call stack for the location that created the exception."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you come from languages like Java, C# or Python, you might be used to the fact that exceptions include call stack for the location that created the exception."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156051169,
+        "id": "3aa7004a-5fee-4660-9455-3bf3c3b7e677",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156051169,
+        "parent_id": "b27d6090-8694-4d93-afea-ae189107edcc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Collecting callstacks is expensive and Go doesn’t add callstack to errors."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Collecting callstacks is expensive and Go doesn’t add callstack to errors."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156051170,
+        "id": "e4f8bf77-6d33-4a12-9aab-5d83d2f76753",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156051170,
+        "parent_id": "b27d6090-8694-4d93-afea-ae189107edcc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Callstacks are useful in debugging. If you’re ok with additional cost, you can use package "
+            ],
+            [
+              "github.com/pkg/errors",
+              [
+                [
+                  "a",
+                  "https://godoc.org/github.com/pkg/errors"
+                ]
+              ]
+            ],
+            [
+              " to augment errors with callstack."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Callstacks are useful in debugging. If you’re ok with additional cost, you can use package "
+          },
+          {
+            "Text": "github.com/pkg/errors",
+            "Link": "https://godoc.org/github.com/pkg/errors"
+          },
+          {
+            "Text": " to augment errors with callstack."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156051170,
+        "id": "5421a70f-6ee3-4ad7-9939-b08cde605cdc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156051170,
+        "parent_id": "b27d6090-8694-4d93-afea-ae189107edcc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file add_callstack.go output sha1:66fcc0b7a810db31cd98e6be9d63ab689f760027 goplayground:aXvvLgC9960"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file add_callstack.go output sha1:66fcc0b7a810db31cd98e6be9d63ab689f760027 goplayground:aXvvLgC9960"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156051170,
+        "id": "3bb4da9e-5a26-4a30-96ef-16ca38532be0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156051170,
+        "parent_id": "b27d6090-8694-4d93-afea-ae189107edcc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "As you can see top part of the callstack includes Go runtime code."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "As you can see top part of the callstack includes Go runtime code."
+          }
+        ]
+      }
+    ],
+    "title": "Add callstack to error messages",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

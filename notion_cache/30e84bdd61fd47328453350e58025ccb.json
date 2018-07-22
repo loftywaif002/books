@@ -1,0 +1,771 @@
+{
+  "ID": "30e84bdd-61fd-4732-8453-350e58025ccb",
+  "Page": {
+    "alive": true,
+    "content": [
+      "784a572f-5389-4858-84d9-4bd747a0dfac",
+      "2cb516e9-fbaf-46a5-9a26-4e8bc22f6085",
+      "47dd97b5-9c30-4fbc-8032-7300c6651f79",
+      "f92869ae-64a0-43f7-aff6-914994410e22",
+      "86f8e1e8-6443-43df-b098-c39bc3f45875",
+      "c589c5dd-7402-4bbc-bd97-5a98d2667674",
+      "87aa98bc-639c-4384-82e1-bc733881d907",
+      "0c80ebd6-43c5-4148-a44a-f9c8d69e8b5e",
+      "5ef238d3-f29d-448f-9c4b-5ab39fc32713",
+      "edfcb64d-313b-4f4f-bd9d-9fe9527d0f98",
+      "3a8dff34-bc46-4722-952e-9c3ac056ac0c",
+      "755340cd-040e-43c7-93b5-92ce7d6b4429",
+      "e89adcff-a9ec-4292-87a7-2c5a2d73e306",
+      "2fbea858-9eab-43bb-b9e2-4f312f219454",
+      "052c89d3-e9b8-43fe-a6b9-08ef2b0d2380",
+      "14aa9ade-5de2-424d-8773-fe12a17df722",
+      "a1d7d2a2-68c5-457b-9b19-121395351661",
+      "6ad50aac-776c-4f18-96d2-d8e8e840d47f",
+      "333c7a1d-f943-4e58-a3a7-3d0fb1c0cfe4"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155990210,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234963071,
+    "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Declare and initialize a map"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196389711,
+        "id": "784a572f-5389-4858-84d9-4bd747a0dfac",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234963926,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 69"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 69"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196391310,
+        "id": "2cb516e9-fbaf-46a5-9a26-4e8bc22f6085",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234964835,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2483"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2483"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196395039,
+        "id": "47dd97b5-9c30-4fbc-8032-7300c6651f79",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196395039,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196393224,
+        "id": "f92869ae-64a0-43f7-aff6-914994410e22",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196394804,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You define a map using the keyword "
+            ],
+            [
+              "map",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", followed by the types of its keys and its values:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "You define a map using the keyword "
+          },
+          {
+            "Text": "map",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", followed by the types of its keys and its values:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155990201,
+        "id": "86f8e1e8-6443-43df-b098-c39bc3f45875",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196371652,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// Keys are ints, values are ints.\nvar m1 map[int]int // initialized to nil\n\n// Keys are strings, values are ints.\nvar m2 map[string]int // initialized to nil"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// Keys are ints, values are ints.\nvar m1 map[int]int // initialized to nil\n\n// Keys are strings, values are ints.\nvar m2 map[string]int // initialized to nil",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155990202,
+        "id": "c589c5dd-7402-4bbc-bd97-5a98d2667674",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155990202,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Maps are reference types, and once defined they have a "
+            ],
+            [
+              "zero value",
+              [
+                [
+                  "i"
+                ],
+                [
+                  "a",
+                  "73"
+                ]
+              ]
+            ],
+            [
+              " of ",
+              [
+                [
+                  "a",
+                  "73"
+                ]
+              ]
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "73"
+                ]
+              ]
+            ],
+            [
+              ". Writes to nil maps will cause a "
+            ],
+            [
+              "panic",
+              [
+                [
+                  "a",
+                  "131"
+                ]
+              ]
+            ],
+            [
+              " and reads will always return the zero value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Maps are reference types, and once defined they have a "
+          },
+          {
+            "Text": "zero value",
+            "AttrFlags": 4,
+            "Link": "73"
+          },
+          {
+            "Text": " of ",
+            "Link": "73"
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2,
+            "Link": "73"
+          },
+          {
+            "Text": ". Writes to nil maps will cause a "
+          },
+          {
+            "Text": "panic",
+            "Link": "131"
+          },
+          {
+            "Text": " and reads will always return the zero value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155990207,
+        "id": "87aa98bc-639c-4384-82e1-bc733881d907",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155990207,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To initialize a map, use the "
+            ],
+            [
+              "make",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/builtin/#make"
+                ]
+              ]
+            ],
+            [
+              " function:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To initialize a map, use the "
+          },
+          {
+            "Text": "make",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/builtin/#make"
+          },
+          {
+            "Text": " function:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155990207,
+        "id": "0c80ebd6-43c5-4148-a44a-f9c8d69e8b5e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196373355,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "m := make(map[string]int)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "m := make(map[string]int)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155990207,
+        "id": "5ef238d3-f29d-448f-9c4b-5ab39fc32713",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155990207,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "With the two-parameter form of "
+            ],
+            [
+              "make",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", it’s possible to specify an initial entry capacity for the map, overriding the default capacity:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "With the two-parameter form of "
+          },
+          {
+            "Text": "make",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", it’s possible to specify an initial entry capacity for the map, overriding the default capacity:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155990207,
+        "id": "edfcb64d-313b-4f4f-bd9d-9fe9527d0f98",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196375431,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "m := make(map[string]int, 30)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "m := make(map[string]int, 30)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155990207,
+        "id": "3a8dff34-bc46-4722-952e-9c3ac056ac0c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155990207,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Alternatively, you can declare a map, initializing it to its zero value, and then assign a literal value to it later, which helps if you marshal the struct into json thereby producing an empty map on return."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Alternatively, you can declare a map, initializing it to its zero value, and then assign a literal value to it later, which helps if you marshal the struct into json thereby producing an empty map on return."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155990208,
+        "id": "755340cd-040e-43c7-93b5-92ce7d6b4429",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196377371,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "m := make(map[string]int, 0)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "m := make(map[string]int, 0)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155990208,
+        "id": "e89adcff-a9ec-4292-87a7-2c5a2d73e306",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155990208,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can also make a map and set its initial value with curly brackets ("
+            ],
+            [
+              "{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ")."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can also make a map and set its initial value with curly brackets ("
+          },
+          {
+            "Text": "{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ")."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155990208,
+        "id": "2fbea858-9eab-43bb-b9e2-4f312f219454",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196379619,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var m map[string]int = map[string]int{\"Foo\": 20, \"Bar\": 30}\n\nfmt.Println(m[\"Foo\"]) // outputs 20"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var m map[string]int = map[string]int{\"Foo\": 20, \"Bar\": 30}\n\nfmt.Println(m[\"Foo\"]) // outputs 20",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155990208,
+        "id": "052c89d3-e9b8-43fe-a6b9-08ef2b0d2380",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155990208,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "All the following statements result in the variable being bound to the same value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "All the following statements result in the variable being bound to the same value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155990208,
+        "id": "14aa9ade-5de2-424d-8773-fe12a17df722",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196382285,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// Declare, initializing to zero value, then assign a literal value.\nvar m map[string]int\nm = map[string]int{}\n\n// Declare and initialize via literal value.\nvar m = map[string]int{}\n\n// Declare via short variable declaration and initialize with a literal value.\nm := map[string]int{}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// Declare, initializing to zero value, then assign a literal value.\nvar m map[string]int\nm = map[string]int{}\n\n// Declare and initialize via literal value.\nvar m = map[string]int{}\n\n// Declare via short variable declaration and initialize with a literal value.\nm := map[string]int{}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155990209,
+        "id": "a1d7d2a2-68c5-457b-9b19-121395351661",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235019573,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can also use a "
+            ],
+            [
+              "map literal",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " to "
+            ],
+            [
+              "create a new map",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Create-a-map-2b831bac5afc414493cff5e06e8e4460"
+                ]
+              ]
+            ],
+            [
+              " with some initial key/value pairs."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "We can also use a "
+          },
+          {
+            "Text": "map literal",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " to "
+          },
+          {
+            "Text": "create a new map",
+            "Link": "https://www.notion.so/kjkpublic/Create-a-map-2b831bac5afc414493cff5e06e8e4460"
+          },
+          {
+            "Text": " with some initial key/value pairs."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155990210,
+        "id": "6ad50aac-776c-4f18-96d2-d8e8e840d47f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235054654,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The key type can be any "
+            ],
+            [
+              "comparable",
+              [
+                [
+                  "a",
+                  "http://golang.org/ref/spec#Comparison_operators"
+                ]
+              ]
+            ],
+            [
+              " type; notably, this excludes functions, maps, and slices. The value type can be any type, including custom types or "
+            ],
+            [
+              "interface{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 3,
+        "inline_content": [
+          {
+            "Text": "The key type can be any "
+          },
+          {
+            "Text": "comparable",
+            "Link": "http://golang.org/ref/spec#Comparison_operators"
+          },
+          {
+            "Text": " type; notably, this excludes functions, maps, and slices. The value type can be any type, including custom types or "
+          },
+          {
+            "Text": "interface{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155990210,
+        "id": "333c7a1d-f943-4e58-a3a7-3d0fb1c0cfe4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196385649,
+        "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Person struct {\n    FirstName string\n    LastName  string\n}\n\n// Declare via short variable declaration and initialize with make.\nm := make(map[string]Person)\n\n// Declare, initializing to zero value, then assign a literal value.\nvar m map[string]Person\nm = map[string]Person{}\n\n// Declare and initialize via literal value.\nvar m = map[string]Person{}\n\n// Declare via short variable declaration and initialize with a literal value.\nm := map[string]Person{}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Person struct {\n    FirstName string\n    LastName  string\n}\n\n// Declare via short variable declaration and initialize with make.\nm := make(map[string]Person)\n\n// Declare, initializing to zero value, then assign a literal value.\nvar m map[string]Person\nm = map[string]Person{}\n\n// Declare and initialize via literal value.\nvar m = map[string]Person{}\n\n// Declare via short variable declaration and initialize with a literal value.\nm := map[string]Person{}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Declare and initialize a map",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,352 @@
+{
+  "ID": "d13e7080-e486-4752-9c8d-1df80e82951e",
+  "Page": {
+    "alive": true,
+    "content": [
+      "68433536-4baf-462f-b7cd-6b1864ab6f9e",
+      "339b839c-f82a-487d-9d3c-ea4c9bc9f664",
+      "3cc066e0-3610-45b3-9dec-3ceac1825f8a",
+      "a2832f16-8cdf-40d3-88b2-687c046f095f",
+      "4402eaad-e8d2-4b07-ae8e-f02d02f21e1f",
+      "a885b2a7-4732-46c5-9128-f8ae8f662f38",
+      "fe51d3c0-4abf-4fc9-93a1-e66d4f73ef8e",
+      "caac539e-08b6-4b83-9c4f-28b77d8a153d",
+      "69fbd3b8-e5c7-4ccf-8131-f6da827a36c2",
+      "53e286ae-0e8d-4f49-938d-92b1ef0a5a40",
+      "10cb9823-7048-4ae4-99bd-4ce7ff9e717a"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156012190,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "d13e7080-e486-4752-9c8d-1df80e82951e",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235459071,
+    "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Empty struct"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197131840,
+        "id": "68433536-4baf-462f-b7cd-6b1864ab6f9e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235459918,
+        "parent_id": "d13e7080-e486-4752-9c8d-1df80e82951e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 88"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 88"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197133641,
+        "id": "339b839c-f82a-487d-9d3c-ea4c9bc9f664",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235460779,
+        "parent_id": "d13e7080-e486-4752-9c8d-1df80e82951e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 20546"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 20546"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197136276,
+        "id": "3cc066e0-3610-45b3-9dec-3ceac1825f8a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197136276,
+        "parent_id": "d13e7080-e486-4752-9c8d-1df80e82951e",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197135180,
+        "id": "a2832f16-8cdf-40d3-88b2-687c046f095f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197136065,
+        "parent_id": "d13e7080-e486-4752-9c8d-1df80e82951e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A struct is a sequence of named elements, called fields, each of which has a name and a type. Empty struct has no fields, like this anonymous empty struct:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "A struct is a sequence of named elements, called fields, each of which has a name and a type. Empty struct has no fields, like this anonymous empty struct:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156012189,
+        "id": "4402eaad-e8d2-4b07-ae8e-f02d02f21e1f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197139789,
+        "parent_id": "d13e7080-e486-4752-9c8d-1df80e82951e",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var s struct{}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var s struct{}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156012189,
+        "id": "a885b2a7-4732-46c5-9128-f8ae8f662f38",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156012189,
+        "parent_id": "d13e7080-e486-4752-9c8d-1df80e82951e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Or like this named empty struct type:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Or like this named empty struct type:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156012189,
+        "id": "fe51d3c0-4abf-4fc9-93a1-e66d4f73ef8e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197141680,
+        "parent_id": "d13e7080-e486-4752-9c8d-1df80e82951e",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type T struct{}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type T struct{}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156012190,
+        "id": "caac539e-08b6-4b83-9c4f-28b77d8a153d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156012190,
+        "parent_id": "d13e7080-e486-4752-9c8d-1df80e82951e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The interesting thing about the empty struct is that, its size is zero:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The interesting thing about the empty struct is that, its size is zero:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156012190,
+        "id": "69fbd3b8-e5c7-4ccf-8131-f6da827a36c2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197143638,
+        "parent_id": "d13e7080-e486-4752-9c8d-1df80e82951e",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "fmt.Println(unsafe.Sizeof(s))"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "fmt.Println(unsafe.Sizeof(s))",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156012190,
+        "id": "53e286ae-0e8d-4f49-938d-92b1ef0a5a40",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156012190,
+        "parent_id": "d13e7080-e486-4752-9c8d-1df80e82951e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This prints "
+            ],
+            [
+              "0",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", so the empty struct itself takes no memory. so it is good option for quit channel, like:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This prints "
+          },
+          {
+            "Text": "0",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", so the empty struct itself takes no memory. so it is good option for quit channel, like:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156012190,
+        "id": "10cb9823-7048-4ae4-99bd-4ce7ff9e717a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197147451,
+        "parent_id": "d13e7080-e486-4752-9c8d-1df80e82951e",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"fmt\"\n    \"time\"\n)\n\nfunc main() {\n    done := make(chan struct{})\n    go func() {\n        time.Sleep(1 * time.Second)\n        close(done)\n    }()\n\n    fmt.Println(\"Wait...\")\n    \u003c-done\n    fmt.Println(\"done.\")\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"fmt\"\n    \"time\"\n)\n\nfunc main() {\n    done := make(chan struct{})\n    go func() {\n        time.Sleep(1 * time.Second)\n        close(done)\n    }()\n\n    fmt.Println(\"Wait...\")\n    \u003c-done\n    fmt.Println(\"done.\")\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Empty struct",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

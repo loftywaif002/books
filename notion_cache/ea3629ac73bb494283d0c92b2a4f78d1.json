@@ -1,0 +1,565 @@
+{
+  "ID": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+  "Page": {
+    "alive": true,
+    "content": [
+      "57f22f56-39ff-4d01-a2f5-37fe8bc8024e",
+      "e8666202-09ec-4be9-8961-38c1815dfe57",
+      "1ce2a023-5e9c-4023-becd-082ec524972c",
+      "ba2a1595-f1d7-4790-abbd-186a42f63a50",
+      "0e9f10fb-0aae-47c4-8ed6-ced9c40ea868",
+      "fb7f28d2-7c68-4ba8-a8ef-0559e4c12ac5",
+      "91617071-e664-403d-a2a7-e762b0d3a464",
+      "a6c73005-440c-4dee-9bf2-1b8414dea84e",
+      "7d2c90f0-c334-4ff4-9f75-fb4a5a1b9657",
+      "40d252a5-07ec-460c-97ac-9e1a198db4b7",
+      "c21f90ec-6610-4905-a75a-9652eef5dc43",
+      "28465903-da13-4e97-b697-b339746b5b51",
+      "663fbdba-d2a3-41eb-aaad-ebb661d23f77",
+      "55a15d3b-0a9c-4719-8819-4ab0250a6398"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156064168,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236374324,
+    "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Wait for goroutines to finish"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205717573,
+        "id": "57f22f56-39ff-4d01-a2f5-37fe8bc8024e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236375534,
+        "parent_id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 139"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 139"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205719382,
+        "id": "e8666202-09ec-4be9-8961-38c1815dfe57",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236376305,
+        "parent_id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2490"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2490"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205722089,
+        "id": "1ce2a023-5e9c-4023-becd-082ec524972c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205722543,
+        "parent_id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156064161,
+        "id": "ba2a1595-f1d7-4790-abbd-186a42f63a50",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156064161,
+        "parent_id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go programs end when the ",
+              [
+                [
+                  "a",
+                  "http://golang.org/ref/spec#Program_execution"
+                ]
+              ]
+            ],
+            [
+              "main",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "http://golang.org/ref/spec#Program_execution"
+                ]
+              ]
+            ],
+            [
+              " function ends",
+              [
+                [
+                  "a",
+                  "http://golang.org/ref/spec#Program_execution"
+                ]
+              ]
+            ],
+            [
+              ", therefore it is common practice to wait for all goroutines to finish."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go programs end when the ",
+            "Link": "http://golang.org/ref/spec#Program_execution"
+          },
+          {
+            "Text": "main",
+            "AttrFlags": 2,
+            "Link": "http://golang.org/ref/spec#Program_execution"
+          },
+          {
+            "Text": " function ends",
+            "Link": "http://golang.org/ref/spec#Program_execution"
+          },
+          {
+            "Text": ", therefore it is common practice to wait for all goroutines to finish."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156064162,
+        "id": "0e9f10fb-0aae-47c4-8ed6-ced9c40ea868",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156064162,
+        "parent_id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A common solution for this is to use a "
+            ],
+            [
+              "sync.WaitGroup",
+              [
+                [
+                  "a",
+                  "http://golang.org/pkg/sync/#WaitGroup"
+                ]
+              ]
+            ],
+            [
+              " object."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A common solution for this is to use a "
+          },
+          {
+            "Text": "sync.WaitGroup",
+            "Link": "http://golang.org/pkg/sync/#WaitGroup"
+          },
+          {
+            "Text": " object."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156064162,
+        "id": "fb7f28d2-7c68-4ba8-a8ef-0559e4c12ac5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156064162,
+        "parent_id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file waiting_for_goroutines.go output sha1:232512714a4b2adcb99a7edd243ab6acab9bf040 goplayground:8DqdlC1x5fs"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file waiting_for_goroutines.go output sha1:232512714a4b2adcb99a7edd243ab6acab9bf040 goplayground:8DqdlC1x5fs"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156064163,
+        "id": "91617071-e664-403d-a2a7-e762b0d3a464",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156064163,
+        "parent_id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "WaitGroup usage in order of execution:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "WaitGroup usage in order of execution:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156064164,
+        "id": "a6c73005-440c-4dee-9bf2-1b8414dea84e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156064164,
+        "parent_id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Declaration of global variable. Making it global is the easiest way to make it visible to all functions and methods."
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Declaration of global variable. Making it global is the easiest way to make it visible to all functions and methods."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156064165,
+        "id": "7d2c90f0-c334-4ff4-9f75-fb4a5a1b9657",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156064165,
+        "parent_id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Increasing the counter. This must be done in the main goroutine because there is no guarantee that a newly started goroutine will execute before 4 due to memory model "
+            ],
+            [
+              "guarantees",
+              [
+                [
+                  "a",
+                  "http://golang.org/ref/mem#tmp_5"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Increasing the counter. This must be done in the main goroutine because there is no guarantee that a newly started goroutine will execute before 4 due to memory model "
+          },
+          {
+            "Text": "guarantees",
+            "Link": "http://golang.org/ref/mem#tmp_5"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156064166,
+        "id": "40d252a5-07ec-460c-97ac-9e1a198db4b7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156064166,
+        "parent_id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Decreasing the counter. This must be done at the exit of a goroutine. By using a deferred call, we make sure that it "
+            ],
+            [
+              "will be called whenever function ends",
+              [
+                [
+                  "a",
+                  "http://golang.org/ref/spec#Defer_statements"
+                ]
+              ]
+            ],
+            [
+              ", no matter how it ends."
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Decreasing the counter. This must be done at the exit of a goroutine. By using a deferred call, we make sure that it "
+          },
+          {
+            "Text": "will be called whenever function ends",
+            "Link": "http://golang.org/ref/spec#Defer_statements"
+          },
+          {
+            "Text": ", no matter how it ends."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156064166,
+        "id": "c21f90ec-6610-4905-a75a-9652eef5dc43",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156064166,
+        "parent_id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Waiting for the counter to reach 0. This must be done in the main goroutine to prevent the program from exiting before all goroutines have finished."
+            ]
+          ]
+        },
+        "type": "numbered_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Waiting for the counter to reach 0. This must be done in the main goroutine to prevent the program from exiting before all goroutines have finished."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156064167,
+        "id": "28465903-da13-4e97-b697-b339746b5b51",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156064167,
+        "parent_id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Parameters are evaluated "
+            ],
+            [
+              "before starting a new goroutine",
+              [
+                [
+                  "a",
+                  "http://golang.org/ref/spec#Go_statements"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Parameters are evaluated "
+          },
+          {
+            "Text": "before starting a new goroutine",
+            "Link": "http://golang.org/ref/spec#Go_statements"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156064167,
+        "id": "663fbdba-d2a3-41eb-aaad-ebb661d23f77",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156064167,
+        "parent_id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Thus it is necessary to define their values explicitly before "
+            ],
+            [
+              "wg.Add(10)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " so that possibly-panicking code will not increase the counter. Adding 10 items to the WaitGroup, so it will wait for 10 items before "
+            ],
+            [
+              "wg.Wait",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " returns the control back to "
+            ],
+            [
+              "main()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " goroutine. Here, the value of i is defined in the for loop."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Thus it is necessary to define their values explicitly before "
+          },
+          {
+            "Text": "wg.Add(10)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " so that possibly-panicking code will not increase the counter. Adding 10 items to the WaitGroup, so it will wait for 10 items before "
+          },
+          {
+            "Text": "wg.Wait",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " returns the control back to "
+          },
+          {
+            "Text": "main()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " goroutine. Here, the value of i is defined in the for loop."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205729244,
+        "id": "55a15d3b-0a9c-4719-8819-4ab0250a6398",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205729244,
+        "parent_id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Wait for goroutines to finish",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

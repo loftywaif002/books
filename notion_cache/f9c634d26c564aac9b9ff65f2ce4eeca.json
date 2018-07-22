@@ -1,0 +1,348 @@
+{
+  "ID": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+  "Page": {
+    "alive": true,
+    "content": [
+      "3789917e-cd7f-4af0-8356-6839d9bd9781",
+      "e4efdb6b-5588-4a95-8deb-e48667b9a0c9",
+      "c874019c-8d7b-4b49-ab12-44c5f22879df",
+      "3216aa30-0736-4900-b097-e832d1e241d0",
+      "398621d6-bc3a-488d-88c2-98d3aee05ab3",
+      "885deba4-dc28-4ca8-9bec-f72243bbb3fe",
+      "80dd55d2-399a-40aa-98ec-96c51aa36e72",
+      "744f6373-207c-4fa3-92f6-f02d105f62fe",
+      "c211a055-f13c-4abc-b4ed-73606cf8c62d",
+      "c4fa5570-4754-4c75-bfbe-c3fe69e7192e",
+      "53d6c309-025d-4028-b1e1-8e3e2b4c58e8"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156050153,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236116436,
+    "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Handling errors in short programs"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205170419,
+        "id": "3789917e-cd7f-4af0-8356-6839d9bd9781",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236117285,
+        "parent_id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 125"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 125"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205172085,
+        "id": "e4efdb6b-5588-4a95-8deb-e48667b9a0c9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236117981,
+        "parent_id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: k1k100qf"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: k1k100qf"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205175285,
+        "id": "c874019c-8d7b-4b49-ab12-44c5f22879df",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205175285,
+        "parent_id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205173911,
+        "id": "3216aa30-0736-4900-b097-e832d1e241d0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205175007,
+        "parent_id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Propagating errors up to the callers is tedious. You end up with many lines looking like:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Propagating errors up to the callers is tedious. You end up with many lines looking like:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156050151,
+        "id": "398621d6-bc3a-488d-88c2-98d3aee05ab3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205180443,
+        "parent_id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "r, err := os.Open(\"my file\")\nif err != nil {\n    return err\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "r, err := os.Open(\"my file\")\nif err != nil {\n    return err\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156050151,
+        "id": "885deba4-dc28-4ca8-9bec-f72243bbb3fe",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156050151,
+        "parent_id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This kind of error handling diligence is crucial for writing robust software."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This kind of error handling diligence is crucial for writing robust software."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156050152,
+        "id": "80dd55d2-399a-40aa-98ec-96c51aa36e72",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156050152,
+        "parent_id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sometimes you write shorter cmd-line programs where such discipline is not warranted."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Sometimes you write shorter cmd-line programs where such discipline is not warranted."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156050152,
+        "id": "744f6373-207c-4fa3-92f6-f02d105f62fe",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156050152,
+        "parent_id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can simplify error handling with a helper functions "
+            ],
+            [
+              "PanicIfErr(err error, args ...interface{})",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can simplify error handling with a helper functions "
+          },
+          {
+            "Text": "PanicIfErr(err error, args ...interface{})",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156050152,
+        "id": "c211a055-f13c-4abc-b4ed-73606cf8c62d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205183968,
+        "parent_id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "r, err := os.Open(\"my file\")\nPanicIfErr(err)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "r, err := os.Open(\"my file\")\nPanicIfErr(err)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156050152,
+        "id": "c4fa5570-4754-4c75-bfbe-c3fe69e7192e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156050152,
+        "parent_id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Implementation of such helper:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Implementation of such helper:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156050152,
+        "id": "53d6c309-025d-4028-b1e1-8e3e2b4c58e8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156050152,
+        "parent_id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file errors_in_short_programs.go output allow_error sha1:b71b4c3a3d33c20785aa36fd6d66156649a8b5d8 goplayground:v2lHFqenkOG"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file errors_in_short_programs.go output allow_error sha1:b71b4c3a3d33c20785aa36fd6d66156649a8b5d8 goplayground:v2lHFqenkOG"
+          }
+        ]
+      }
+    ],
+    "title": "Handling errors in short programs",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

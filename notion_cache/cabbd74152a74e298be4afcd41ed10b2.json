@@ -1,0 +1,1282 @@
+{
+  "ID": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+  "Page": {
+    "alive": true,
+    "content": [
+      "d6359d78-cad5-4a1c-a705-a3d3f7be8838",
+      "63b342d5-dc90-4801-9da9-dd2cca1da277",
+      "ee5cd024-0e4f-47a2-ae99-596d81f7406a",
+      "184f27cd-1a38-4639-919c-e4f89498f7b4",
+      "17cc96c8-950d-4131-b9da-8cef59a0ab74",
+      "4cc6b76e-79a3-48d8-a104-80e13623d35b",
+      "3a8883da-4e02-4a23-ad26-4635c7879b0a",
+      "4d7cef4f-37df-4f89-9eda-497b5ba2203d",
+      "095fa832-ba49-44f1-8a29-bae522c49e76",
+      "362a1b48-9e55-48fc-9aca-a23254669ead",
+      "94624492-8990-461e-adea-0279b20099fa",
+      "161d1fa4-6562-4e20-85df-e52ef11c732a",
+      "579dee39-cdaf-4b18-8310-63d3a7f1796d",
+      "98a89e53-28aa-4da7-81e0-e5426cd31595",
+      "ed81e1d4-a34b-4426-8e3e-796f45db5895",
+      "501c6337-6eea-449f-a796-2c33c4856e88",
+      "636d7de3-b55f-434f-a2b6-d781b330d984",
+      "d2e025c6-8e55-4d5e-8f82-2db7c386a16d",
+      "1a5e26da-98e5-4e16-887a-2483bcb736c1",
+      "e20eb7ef-aa2c-4c1a-88f1-5e6f767ec22b",
+      "3b8bf2a5-7be4-4ac9-9661-9aca08891479",
+      "520da865-c473-4e76-9097-7d0dd4d59959",
+      "dd657898-d3a5-4715-881a-d267c10c2131",
+      "825bae02-d7dc-4853-aae7-81854e2573ce",
+      "49ade771-9cac-4acb-8692-826c2f72f155",
+      "5b30aba2-23fd-49be-9896-634263873069",
+      "a5607165-a992-4553-82fc-804a092c0d90",
+      "0d2f825a-78fa-4725-9b55-92c48f773097",
+      "0f5276a7-333b-442f-a05d-d9ec15eb55ea",
+      "7570e77c-0314-479e-8c25-c6321af65f06"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156150192,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532209295506,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Text and HTML templates"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 27,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209271065,
+        "id": "d6359d78-cad5-4a1c-a705-a3d3f7be8838",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209296906,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 217"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 217"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209272817,
+        "id": "63b342d5-dc90-4801-9da9-dd2cca1da277",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209297698,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3888"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3888"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209274417,
+        "id": "ee5cd024-0e4f-47a2-ae99-596d81f7406a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209274938,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150187,
+        "id": "184f27cd-1a38-4639-919c-e4f89498f7b4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150187,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Imagine you’re working on a web application and need to return HTML that lists most recent tweets. You need to load list of tweets from a database and create HTML based on that information."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Imagine you’re working on a web application and need to return HTML that lists most recent tweets. You need to load list of tweets from a database and create HTML based on that information."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150187,
+        "id": "17cc96c8-950d-4131-b9da-8cef59a0ab74",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150187,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Building that HTML string by building smaller strings and concatenating them with "
+            ],
+            [
+              "+",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " would be tedious."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Building that HTML string by building smaller strings and concatenating them with "
+          },
+          {
+            "Text": "+",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " would be tedious."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150188,
+        "id": "4cc6b76e-79a3-48d8-a104-80e13623d35b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150188,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Packages "
+            ],
+            [
+              "text/template",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "html/template",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in Go standard library make implement data-driven templates for generating textual output:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Packages "
+          },
+          {
+            "Text": "text/template",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "html/template",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in Go standard library make implement data-driven templates for generating textual output:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150188,
+        "id": "3a8883da-4e02-4a23-ad26-4635c7879b0a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150188,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index.go output sha1:d4e591de501a5dca88fc39e911809be7cf71b12e goplayground:MQw9e5pzs4V"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index.go output sha1:d4e591de501a5dca88fc39e911809be7cf71b12e goplayground:MQw9e5pzs4V"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150188,
+        "id": "4d7cef4f-37df-4f89-9eda-497b5ba2203d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150188,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Each template has a name. "
+            ],
+            [
+              "template.New(\"tweets\")",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " creates an empty template with name "
+            ],
+            [
+              "tweets",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Each template has a name. "
+          },
+          {
+            "Text": "template.New(\"tweets\")",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " creates an empty template with name "
+          },
+          {
+            "Text": "tweets",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150188,
+        "id": "095fa832-ba49-44f1-8a29-bae522c49e76",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150188,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "t.Parse(s string)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " parses the template."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "t.Parse(s string)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " parses the template."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150189,
+        "id": "362a1b48-9e55-48fc-9aca-a23254669ead",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150189,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "t.Execute(w io.Writer, v interface{})",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " executes the template with a given value and writing the result to an "
+            ],
+            [
+              "io.Writer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "t.Execute(w io.Writer, v interface{})",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " executes the template with a given value and writing the result to an "
+          },
+          {
+            "Text": "io.Writer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150189,
+        "id": "94624492-8990-461e-adea-0279b20099fa",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150189,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "{{ ... }}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is an action are instructions for templating engine."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "{{ ... }}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is an action are instructions for templating engine."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150189,
+        "id": "161d1fa4-6562-4e20-85df-e52ef11c732a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150189,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "{{.TweetCount}}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " means printing the value of "
+            ],
+            [
+              "TweetCount",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in current context."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "{{.TweetCount}}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " means printing the value of "
+          },
+          {
+            "Text": "TweetCount",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in current context."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150189,
+        "id": "579dee39-cdaf-4b18-8310-63d3a7f1796d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150189,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Data passed to a template can be hierarchical (i.e. a struct withing a struct within a struct…)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Data passed to a template can be hierarchical (i.e. a struct withing a struct within a struct…)."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150190,
+        "id": "98a89e53-28aa-4da7-81e0-e5426cd31595",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150190,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Current context "
+            ],
+            [
+              ".",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " refers to current scope within the data."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Current context "
+          },
+          {
+            "Text": ".",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " refers to current scope within the data."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150190,
+        "id": "ed81e1d4-a34b-4426-8e3e-796f45db5895",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150190,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Initial "
+            ],
+            [
+              ".",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " refers to top-level scope:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Initial "
+          },
+          {
+            "Text": ".",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " refers to top-level scope:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150190,
+        "id": "501c6337-6eea-449f-a796-2c33c4856e88",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150190,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index2.go output sha1:f284d0e9f2084a5966d19449621389ff70556c2f goplayground:7D79SoM0g2t"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index2.go output sha1:f284d0e9f2084a5966d19449621389ff70556c2f goplayground:7D79SoM0g2t"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150190,
+        "id": "636d7de3-b55f-434f-a2b6-d781b330d984",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150190,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Values that don’t have pre-defined formatting are printed using "
+            ],
+            [
+              "Stringer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " interface. For custom formatting of your type in a template implement "
+            ],
+            [
+              "String() string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " method."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Values that don’t have pre-defined formatting are printed using "
+          },
+          {
+            "Text": "Stringer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " interface. For custom formatting of your type in a template implement "
+          },
+          {
+            "Text": "String() string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " method."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150191,
+        "id": "d2e025c6-8e55-4d5e-8f82-2db7c386a16d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150191,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "{{range .Tweets}}{{end}}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " evaluates inner part for every element of "
+            ],
+            [
+              "[]string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " slice "
+            ],
+            [
+              "Tweets",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and sets current context "
+            ],
+            [
+              ".",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " within the inner part to elements of "
+            ],
+            [
+              "Tweets",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " slice."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "{{range .Tweets}}{{end}}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " evaluates inner part for every element of "
+          },
+          {
+            "Text": "[]string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " slice "
+          },
+          {
+            "Text": "Tweets",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and sets current context "
+          },
+          {
+            "Text": ".",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " within the inner part to elements of "
+          },
+          {
+            "Text": "Tweets",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " slice."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150191,
+        "id": "1a5e26da-98e5-4e16-887a-2483bcb736c1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150191,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "{{index .RecentTweets 0}}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is equivalent to "
+            ],
+            [
+              "RecentTweets[0]",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in Go code."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "{{index .RecentTweets 0}}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is equivalent to "
+          },
+          {
+            "Text": "RecentTweets[0]",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in Go code."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150191,
+        "id": "e20eb7ef-aa2c-4c1a-88f1-5e6f767ec22b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150191,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Text in a template is copied verbatim. Having to preserve whitespace can lead to ugly templates."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Text in a template is copied verbatim. Having to preserve whitespace can lead to ugly templates."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150191,
+        "id": "3b8bf2a5-7be4-4ac9-9661-9aca08891479",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150191,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To help write more readable templates We can add "
+            ],
+            [
+              "-",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " at the beginning or end of action as seen in "
+            ],
+            [
+              "{{end -}}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To help write more readable templates We can add "
+          },
+          {
+            "Text": "-",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " at the beginning or end of action as seen in "
+          },
+          {
+            "Text": "{{end -}}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150192,
+        "id": "520da865-c473-4e76-9097-7d0dd4d59959",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150192,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This remove whitespace before or after the action."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This remove whitespace before or after the action."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156150192,
+        "id": "dd657898-d3a5-4715-881a-d267c10c2131",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156150192,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "{{range .RecentTweets}}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " changes variable scope and we don’t have access to data outside. If we need to access data from upper scope, we can define variables like "
+            ],
+            [
+              "{{ $tweetCount := len .RecentTweets }}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "{{range .RecentTweets}}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " changes variable scope and we don’t have access to data outside. If we need to access data from upper scope, we can define variables like "
+          },
+          {
+            "Text": "{{ $tweetCount := len .RecentTweets }}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209278816,
+        "id": "825bae02-d7dc-4853-aae7-81854e2573ce",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209278816,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156151181,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "49ade771-9cac-4acb-8692-826c2f72f155",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209347010,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Methods as data"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Methods as data",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156152201,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "5b30aba2-23fd-49be-9896-634263873069",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209430994,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "if action"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "if action",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156153172,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "a5607165-a992-4553-82fc-804a092c0d90",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209461744,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "range action"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 19,
+        "title": "range action",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156154129,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "0d2f825a-78fa-4725-9b55-92c48f773097",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209489511,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Built-in functions"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Built-in functions",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156155118,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "0f5276a7-333b-442f-a05d-d9ec15eb55ea",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210658530,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Custom functions"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Custom functions",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156156173,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "7570e77c-0314-479e-8c25-c6321af65f06",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210634417,
+        "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "HTML templates"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "HTML templates",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Text and HTML templates",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

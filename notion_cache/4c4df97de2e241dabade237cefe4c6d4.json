@@ -1,0 +1,483 @@
+{
+  "ID": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+  "Page": {
+    "alive": true,
+    "content": [
+      "46b7b4ca-eeec-4103-b69e-95b90793d76e",
+      "b12f874b-f04e-4ca9-98c3-b0c9755317e2",
+      "87dd5655-4404-4cf9-be05-ef6bc1b25d2a",
+      "c6195542-5614-499c-8d0f-8de8247a4b64",
+      "af60aebe-e780-4364-8771-13f1413b018c",
+      "fadeca75-78f8-422b-8da0-288055536887",
+      "51e982b0-28b6-45e7-9dbd-dfe5b2195fa8",
+      "86d67172-5835-4e59-a861-0926040e2168",
+      "548db59d-d55a-4499-a949-7c4b529726e6",
+      "af5360b2-f68b-4ed4-a246-2b7d5c3df182",
+      "2a0433aa-9844-4b83-9bce-4cea6018722a",
+      "9580f906-b35c-4369-8155-3385c69c0152",
+      "cbc46878-96dc-4e4a-ad86-6964da3bb325",
+      "3a3f869e-3188-4dd6-972f-c1a0fce4f69d",
+      "dfd85ec3-77d4-4952-95e1-4533eb80cb3e",
+      "c334b523-676d-4df6-94c6-2e14cc42d996"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156041289,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236027079,
+    "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Variables of function type"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204525021,
+        "id": "46b7b4ca-eeec-4103-b69e-95b90793d76e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236027740,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 116"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 116"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204526847,
+        "id": "b12f874b-f04e-4ca9-98c3-b0c9755317e2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236028434,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 801000g3"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 801000g3"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204528605,
+        "id": "87dd5655-4404-4cf9-be05-ef6bc1b25d2a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532204529271,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156041282,
+        "id": "c6195542-5614-499c-8d0f-8de8247a4b64",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156041282,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Functions are first-class values in Go:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Functions are first-class values in Go:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156041282,
+        "id": "af60aebe-e780-4364-8771-13f1413b018c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156041282,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "they can be assigned to variables"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "they can be assigned to variables"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156041282,
+        "id": "fadeca75-78f8-422b-8da0-288055536887",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156041282,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "they can be passed as values to functions"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "they can be passed as values to functions"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156041283,
+        "id": "51e982b0-28b6-45e7-9dbd-dfe5b2195fa8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156041283,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Assigning functions to variables"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Assigning functions to variables"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156041283,
+        "id": "86d67172-5835-4e59-a861-0926040e2168",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156041283,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file function_variable.go output sha1:9be8e90aa90753a08b432b65421d14f76ac6b97d goplayground:2INQr00nmjX"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file function_variable.go output sha1:9be8e90aa90753a08b432b65421d14f76ac6b97d goplayground:2INQr00nmjX"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156041283,
+        "id": "548db59d-d55a-4499-a949-7c4b529726e6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156041283,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using variables for functions can be used when testing for mocking."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Using variables for functions can be used when testing for mocking."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156041283,
+        "id": "af5360b2-f68b-4ed4-a246-2b7d5c3df182",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156041283,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "During real operation a variable points to a real function."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "During real operation a variable points to a real function."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156041283,
+        "id": "2a0433aa-9844-4b83-9bce-4cea6018722a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156041283,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "During tests a variable points to a function that mocks the functionality."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "During tests a variable points to a function that mocks the functionality."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156041284,
+        "id": "9580f906-b35c-4369-8155-3385c69c0152",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156041284,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Passing function as function arguments"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Passing function as function arguments"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156041284,
+        "id": "cbc46878-96dc-4e4a-ad86-6964da3bb325",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156041284,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file function_variable2.go output sha1:51cf7bb8e0522a64b1065499f54add242dbe906a goplayground:Da9-TKksC1t"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file function_variable2.go output sha1:51cf7bb8e0522a64b1065499f54add242dbe906a goplayground:Da9-TKksC1t"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156041284,
+        "id": "3a3f869e-3188-4dd6-972f-c1a0fce4f69d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156041284,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Common uses of passing functions:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Common uses of passing functions:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156041288,
+        "id": "dfd85ec3-77d4-4952-95e1-4533eb80cb3e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156041288,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "filepath.Walk",
+              [
+                [
+                  "a",
+                  "https://golang.org/pkg/path/filepath/#Walk"
+                ]
+              ]
+            ],
+            [
+              " takes a callback function to be called for every file found"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "filepath.Walk",
+            "Link": "https://golang.org/pkg/path/filepath/#Walk"
+          },
+          {
+            "Text": " takes a callback function to be called for every file found"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156041289,
+        "id": "c334b523-676d-4df6-94c6-2e14cc42d996",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156041289,
+        "parent_id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "ast.Inspect",
+              [
+                [
+                  "a",
+                  "https://golang.org/pkg/go/ast/#Inspect"
+                ]
+              ]
+            ],
+            [
+              " traverses a tree and calls a function for each node"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "ast.Inspect",
+            "Link": "https://golang.org/pkg/go/ast/#Inspect"
+          },
+          {
+            "Text": " traverses a tree and calls a function for each node"
+          }
+        ]
+      }
+    ],
+    "title": "Variables of function type",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

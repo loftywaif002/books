@@ -1,0 +1,475 @@
+{
+  "ID": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
+  "Page": {
+    "alive": true,
+    "content": [
+      "38d76bd9-79c9-4d1b-a905-97b953415986",
+      "4eb3fdd6-cbbe-4f23-84ae-367128314046",
+      "4d4161a4-c5a3-413a-8a45-00725f932774",
+      "ae7c0f7f-c24d-4e45-8690-dfa112d37f36",
+      "4cc608e8-79b9-4e86-8bcb-cc16ec590ecf",
+      "d81e24b9-5062-4a94-9932-0cacf461d804",
+      "1296bd1c-ac73-4aff-a07b-f46914601b2f",
+      "1eb390c2-db4d-4cc7-a24a-33d1052ad2fa",
+      "a2cc258e-960c-4001-bb1f-151358d32b55",
+      "950b9d12-a0c0-4139-9598-5da8081eba7c",
+      "e66bbb55-947f-47f3-883b-7bc5ba201fff",
+      "71691e7f-e230-44f6-a4c5-5d8df3c794ed",
+      "224c1fba-db42-474d-a4a7-b13c09164335"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156019267,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235656076,
+    "parent_id": "c3315892-5082-48fd-b19b-663bf8bff028",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Type assertion"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 27,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197383998,
+        "id": "38d76bd9-79c9-4d1b-a905-97b953415986",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235586007,
+        "parent_id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 95"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 95"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197385631,
+        "id": "4eb3fdd6-cbbe-4f23-84ae-367128314046",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235586779,
+        "parent_id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 21,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197389103,
+        "id": "4d4161a4-c5a3-413a-8a45-00725f932774",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235587475,
+        "parent_id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 25362"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 25362"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197392157,
+        "id": "ae7c0f7f-c24d-4e45-8690-dfa112d37f36",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197392157,
+        "parent_id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197391120,
+        "id": "4cc608e8-79b9-4e86-8bcb-cc16ec590ecf",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235634017,
+        "parent_id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "At compile time, when you have a variable whose type is "
+            ],
+            [
+              "interface",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Interfaces-4f5f2959e72c431e995527b51ad7fd8e"
+                ]
+              ]
+            ],
+            [
+              " (including "
+            ],
+            [
+              "empty interface",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Empty-interface-c3315892508248fdb19b663bf8bff028"
+                ]
+              ]
+            ],
+            [
+              ") you don’t know what is the real, underlying type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 18,
+        "inline_content": [
+          {
+            "Text": "At compile time, when you have a variable whose type is "
+          },
+          {
+            "Text": "interface",
+            "Link": "https://www.notion.so/kjkpublic/Interfaces-4f5f2959e72c431e995527b51ad7fd8e"
+          },
+          {
+            "Text": " (including "
+          },
+          {
+            "Text": "empty interface",
+            "Link": "https://www.notion.so/kjkpublic/Empty-interface-c3315892508248fdb19b663bf8bff028"
+          },
+          {
+            "Text": ") you don’t know what is the real, underlying type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156019266,
+        "id": "d81e24b9-5062-4a94-9932-0cacf461d804",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156019266,
+        "parent_id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can access underlying type at runtime using type assertion."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can access underlying type at runtime using type assertion."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156019266,
+        "id": "1296bd1c-ac73-4aff-a07b-f46914601b2f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156019266,
+        "parent_id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file type_assertion.go output allow_error sha1:c97c73fb1d526862c1cda162f8df757ca6ba1a5e goplayground:knuECI96ypQ"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file type_assertion.go output allow_error sha1:c97c73fb1d526862c1cda162f8df757ca6ba1a5e goplayground:knuECI96ypQ"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156019266,
+        "id": "1eb390c2-db4d-4cc7-a24a-33d1052ad2fa",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235654902,
+        "parent_id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Another way of accessing underlying type is with "
+            ],
+            [
+              "type switch",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Type-switch-b81d270c56fd42e39e2ebd5f74f0413b"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Another way of accessing underlying type is with "
+          },
+          {
+            "Text": "type switch",
+            "Link": "https://www.notion.so/kjkpublic/Type-switch-b81d270c56fd42e39e2ebd5f74f0413b"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156019267,
+        "id": "a2cc258e-960c-4001-bb1f-151358d32b55",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156019267,
+        "parent_id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For completness, you can use short version of type switch: "
+            ],
+            [
+              "v := iv.(int)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " (vs. "
+            ],
+            [
+              "v, ok := iv.(int)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ")."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For completness, you can use short version of type switch: "
+          },
+          {
+            "Text": "v := iv.(int)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " (vs. "
+          },
+          {
+            "Text": "v, ok := iv.(int)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ")."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156019267,
+        "id": "950b9d12-a0c0-4139-9598-5da8081eba7c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156019267,
+        "parent_id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The difference is that the short version will panic if "
+            ],
+            [
+              "iv",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is not of the asserted type:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The difference is that the short version will panic if "
+          },
+          {
+            "Text": "iv",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is not of the asserted type:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156019267,
+        "id": "e66bbb55-947f-47f3-883b-7bc5ba201fff",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156019267,
+        "parent_id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file type_assertion2.go output allow_error sha1:e56c2798f794acc37ea8fccd08bc294b8abfebbc goplayground:4nyHsjDu4i0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file type_assertion2.go output allow_error sha1:e56c2798f794acc37ea8fccd08bc294b8abfebbc goplayground:4nyHsjDu4i0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156019267,
+        "id": "71691e7f-e230-44f6-a4c5-5d8df3c794ed",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156019267,
+        "parent_id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "As a rule of thumb, you shouldn’t try to discover underlying value of interface type as it pierces through an abstraction."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "As a rule of thumb, you shouldn’t try to discover underlying value of interface type as it pierces through an abstraction."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532235656076,
+        "id": "224c1fba-db42-474d-a4a7-b13c09164335",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235656076,
+        "parent_id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Type assertion",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

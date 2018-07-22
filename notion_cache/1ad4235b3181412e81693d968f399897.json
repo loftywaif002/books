@@ -1,0 +1,340 @@
+{
+  "ID": "1ad4235b-3181-412e-8169-3d968f399897",
+  "Page": {
+    "alive": true,
+    "content": [
+      "dfabc74c-9252-4fc9-86db-63cf34c794b0",
+      "694aa465-6bb7-449d-b82e-ab57991cf43e",
+      "f0e09b34-ce1d-452a-9c6d-f9a4d4faecd0",
+      "86335e3a-8ef1-4d24-af9d-ae4781c345b8",
+      "4ff4fbf1-2076-444b-beeb-45fa64d56937",
+      "cc793962-af47-430c-b887-ef293545626a",
+      "ac9bf756-88cb-4271-9ae8-28d25dfea616",
+      "4b548ead-9def-48d1-bcaa-3b70cc10d426",
+      "d1a6ed66-dd4b-431e-8404-a84db27e03ed"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156057144,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "1ad4235b-3181-412e-8169-3d968f399897",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236249915,
+    "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Panic"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205422468,
+        "id": "dfabc74c-9252-4fc9-86db-63cf34c794b0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236250603,
+        "parent_id": "1ad4235b-3181-412e-8169-3d968f399897",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 132"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 132"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205424158,
+        "id": "694aa465-6bb7-449d-b82e-ab57991cf43e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236251318,
+        "parent_id": "1ad4235b-3181-412e-8169-3d968f399897",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 17009"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 17009"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205427013,
+        "id": "f0e09b34-ce1d-452a-9c6d-f9a4d4faecd0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205427013,
+        "parent_id": "1ad4235b-3181-412e-8169-3d968f399897",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205425917,
+        "id": "86335e3a-8ef1-4d24-af9d-ae4781c345b8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205426823,
+        "parent_id": "1ad4235b-3181-412e-8169-3d968f399897",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A panic halts normal execution flow and exits the current function."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "A panic halts normal execution flow and exits the current function."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156057143,
+        "id": "4ff4fbf1-2076-444b-beeb-45fa64d56937",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156057143,
+        "parent_id": "1ad4235b-3181-412e-8169-3d968f399897",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Any deferred calls will then be executed before control is passed to the next function higher on the stack."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Any deferred calls will then be executed before control is passed to the next function higher on the stack."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156057144,
+        "id": "cc793962-af47-430c-b887-ef293545626a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156057144,
+        "parent_id": "1ad4235b-3181-412e-8169-3d968f399897",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Each stack’s function will exit and run deferred calls until the panic is handled using a deferred "
+            ],
+            [
+              "recover()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", or until the panic reaches "
+            ],
+            [
+              "main()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and terminates the program."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Each stack’s function will exit and run deferred calls until the panic is handled using a deferred "
+          },
+          {
+            "Text": "recover()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", or until the panic reaches "
+          },
+          {
+            "Text": "main()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and terminates the program."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156057144,
+        "id": "ac9bf756-88cb-4271-9ae8-28d25dfea616",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156057144,
+        "parent_id": "1ad4235b-3181-412e-8169-3d968f399897",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If this occurs, the argument provided to panic and a stack trace will be printed to "
+            ],
+            [
+              "stderr",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If this occurs, the argument provided to panic and a stack trace will be printed to "
+          },
+          {
+            "Text": "stderr",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156057144,
+        "id": "4b548ead-9def-48d1-bcaa-3b70cc10d426",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156057144,
+        "parent_id": "1ad4235b-3181-412e-8169-3d968f399897",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file panic.go output allow_error sha1:5e65dd660e05b7f47e92b93e4f4ad81c4298b874 goplayground:5CytKt20bZO"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file panic.go output allow_error sha1:5e65dd660e05b7f47e92b93e4f4ad81c4298b874 goplayground:5CytKt20bZO"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156057144,
+        "id": "d1a6ed66-dd4b-431e-8404-a84db27e03ed",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156057144,
+        "parent_id": "1ad4235b-3181-412e-8169-3d968f399897",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "panic",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " accepts any type as its parameter."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "panic",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " accepts any type as its parameter."
+          }
+        ]
+      }
+    ],
+    "title": "Panic",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,287 @@
+{
+  "ID": "2257cc19-8999-4bee-9227-cd583a9f773d",
+  "Page": {
+    "alive": true,
+    "content": [
+      "efd6d17e-3181-45bb-81dd-c74bf962e150",
+      "99efe3a6-c027-47f0-8b4f-6b02b89209d4",
+      "9f6fd4cb-b427-4345-b87a-968ab479be2d",
+      "1d54f6d3-1ba3-4ead-8bfc-bc79a2582482",
+      "ab036b57-e2ad-4499-8f4e-36c521b3a1ad",
+      "f40b724a-61a3-4113-90d8-74d142d20445",
+      "65bf4737-8384-445c-9f85-afc1bac82188",
+      "cd7e938b-3b67-4675-9a4c-6e13429c46b7"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155935115,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "2257cc19-8999-4bee-9227-cd583a9f773d",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532233704518,
+    "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Slices"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194513851,
+        "id": "efd6d17e-3181-45bb-81dd-c74bf962e150",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233705851,
+        "parent_id": "2257cc19-8999-4bee-9227-cd583a9f773d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 21"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$Id: 21"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194515407,
+        "id": "99efe3a6-c027-47f0-8b4f-6b02b89209d4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233706729,
+        "parent_id": "2257cc19-8999-4bee-9227-cd583a9f773d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: rd6000rd"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: rd6000rd"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194519038,
+        "id": "9f6fd4cb-b427-4345-b87a-968ab479be2d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194519051,
+        "parent_id": "2257cc19-8999-4bee-9227-cd583a9f773d",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155935113,
+        "id": "1d54f6d3-1ba3-4ead-8bfc-bc79a2582482",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155935113,
+        "parent_id": "2257cc19-8999-4bee-9227-cd583a9f773d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A slice in Go is used where you would use an array in most other languages like Ruby or C#."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A slice in Go is used where you would use an array in most other languages like Ruby or C#."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155935114,
+        "id": "ab036b57-e2ad-4499-8f4e-36c521b3a1ad",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233684614,
+        "parent_id": "2257cc19-8999-4bee-9227-cd583a9f773d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A slice is a view into underlying "
+            ],
+            [
+              "array",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Arrays-71db2a93b2b648ac8d5109fd96fc78ac"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "A slice is a view into underlying "
+          },
+          {
+            "Text": "array",
+            "Link": "https://www.notion.so/kjkpublic/Arrays-71db2a93b2b648ac8d5109fd96fc78ac"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155935114,
+        "id": "f40b724a-61a3-4113-90d8-74d142d20445",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233555624,
+        "parent_id": "2257cc19-8999-4bee-9227-cd583a9f773d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of slice is nil."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of slice is nil."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155935115,
+        "id": "65bf4737-8384-445c-9f85-afc1bac82188",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233579530,
+        "parent_id": "2257cc19-8999-4bee-9227-cd583a9f773d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Learn more about "
+            ],
+            [
+              "slices",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Slices-f400553890d34185ba795870807c2615"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Learn more about "
+          },
+          {
+            "Text": "slices",
+            "Link": "https://www.notion.so/kjkpublic/Slices-f400553890d34185ba795870807c2615"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532233556105,
+        "id": "cd7e938b-3b67-4675-9a4c-6e13429c46b7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233556105,
+        "parent_id": "2257cc19-8999-4bee-9227-cd583a9f773d",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Slices",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

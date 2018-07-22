@@ -1,0 +1,781 @@
+{
+  "ID": "112e5138-777d-4efe-9f58-fcf378517f2f",
+  "Page": {
+    "alive": true,
+    "content": [
+      "073ff956-38f1-4170-a8db-5633d764c353",
+      "85b29baa-8a38-4104-8b9b-0f92e3ea460a",
+      "54899d29-95c3-4803-a825-cdf9f74ec106",
+      "0e50116a-8196-4e94-854b-9e0ada14c962",
+      "3fc03e01-5b71-4531-9150-e1c247a6c4eb",
+      "49dcaed6-0413-41b2-9bbd-cf2f92f33ed9",
+      "a9d155f0-10dc-4fdf-a740-678ffea4a44e",
+      "a4159ceb-ce0a-4e67-bd58-98d4eaf65bde",
+      "8cbceef5-b053-414b-8b65-4d9dd49b471c",
+      "2184541d-4c31-4b51-910b-79ff3de6c788",
+      "f0bd27d1-9dbe-4fa9-b08c-f3c4b6516bda",
+      "b66b96d7-f30b-47c1-bf0e-816620a40733",
+      "8a30c5fa-4462-49d3-9ddc-02a6f0cb2908",
+      "e3ab14d6-8330-4041-b94a-edbc42482364",
+      "566d4959-6393-4e75-b8a2-d980ff0119bf",
+      "84a9b215-a824-4799-9205-fc1529c5f422",
+      "d5d5e6a2-ee3b-4a19-ac8b-3e248b2639bb",
+      "296e9af3-f7e0-44e3-9d2d-209b1ff54a4a",
+      "20111821-b59f-4d91-b528-8a8a23244fa8",
+      "9b895db8-8a95-4a89-951b-504da0875011",
+      "e22b2eca-93ec-413d-9a07-006b9f331948",
+      "1e43cf24-ddb4-468a-8a9d-4e8b0662e956",
+      "eb60c0fd-1d96-4c05-887a-b29d5c75c0ad",
+      "108b63b4-76d7-4387-bacb-515f063cbfe5",
+      "8b1554f0-b27d-4293-8db0-93bce73661b0"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156031220,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235958890,
+    "parent_id": "c522a628-7288-4110-bcc3-00db67e0e9ad",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "range over a string"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204262852,
+        "id": "073ff956-38f1-4170-a8db-5633d764c353",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235959582,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 107"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 107"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204264732,
+        "id": "85b29baa-8a38-4104-8b9b-0f92e3ea460a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235960266,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 801000d6"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 801000d6"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204268729,
+        "id": "54899d29-95c3-4803-a825-cdf9f74ec106",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532204269494,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031217,
+        "id": "0e50116a-8196-4e94-854b-9e0ada14c962",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532204274496,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Iterate over bytes"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 6,
+        "inline_content": [
+          {
+            "Text": "Iterate over bytes"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031217,
+        "id": "3fc03e01-5b71-4531-9150-e1c247a6c4eb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031217,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can iterate over bytes in a string:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can iterate over bytes in a string:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031217,
+        "id": "49dcaed6-0413-41b2-9bbd-cf2f92f33ed9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031217,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file range_string_bytes.go output sha1:95d6eafff1b3286e727ff66e2a5f4ebc0bc122e5 goplayground:GHTXV2IEWlX"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file range_string_bytes.go output sha1:95d6eafff1b3286e727ff66e2a5f4ebc0bc122e5 goplayground:GHTXV2IEWlX"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031217,
+        "id": "a9d155f0-10dc-4fdf-a740-678ffea4a44e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031217,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Iterate over runes"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Iterate over runes"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031218,
+        "id": "a4159ceb-ce0a-4e67-bd58-98d4eaf65bde",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031218,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Things are more complicated when you want to iterate over logical characters (runes) in a string:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Things are more complicated when you want to iterate over logical characters (runes) in a string:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031218,
+        "id": "8cbceef5-b053-414b-8b65-4d9dd49b471c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031218,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file range_string.go output sha1:6a5fed91b2214daf5e7b76e226739c6081dfe08a goplayground:_PI-Fl1PS9z"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file range_string.go output sha1:6a5fed91b2214daf5e7b76e226739c6081dfe08a goplayground:_PI-Fl1PS9z"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031218,
+        "id": "2184541d-4c31-4b51-910b-79ff3de6c788",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031218,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go strings are immutable sequence of bytes. Think a read-only "
+            ],
+            [
+              "[]byte",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " slice."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In Go strings are immutable sequence of bytes. Think a read-only "
+          },
+          {
+            "Text": "[]byte",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " slice."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031218,
+        "id": "f0bd27d1-9dbe-4fa9-b08c-f3c4b6516bda",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031218,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Each byte is in 0 to 255 range."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Each byte is in 0 to 255 range."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031218,
+        "id": "b66b96d7-f30b-47c1-bf0e-816620a40733",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031218,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "There are many more characters in all the world’s alphabets."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "There are many more characters in all the world’s alphabets."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031218,
+        "id": "8a30c5fa-4462-49d3-9ddc-02a6f0cb2908",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031218,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Unicode standard defines unique value for every known character. Unicode calls them code points and they are integers that can fit in 32 bits."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Unicode standard defines unique value for every known character. Unicode calls them code points and they are integers that can fit in 32 bits."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031219,
+        "id": "e3ab14d6-8330-4041-b94a-edbc42482364",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031219,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To represent Unicode code points, Go has a "
+            ],
+            [
+              "rune",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " type. It is an alias for "
+            ],
+            [
+              "int32",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To represent Unicode code points, Go has a "
+          },
+          {
+            "Text": "rune",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " type. It is an alias for "
+          },
+          {
+            "Text": "int32",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031219,
+        "id": "566d4959-6393-4e75-b8a2-d980ff0119bf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031219,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Literal strings in Go source code are UTF-8 encoded."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Literal strings in Go source code are UTF-8 encoded."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031219,
+        "id": "84a9b215-a824-4799-9205-fc1529c5f422",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031219,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Every Unicode code point can be encoded with 1 to 4 bytes."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Every Unicode code point can be encoded with 1 to 4 bytes."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031219,
+        "id": "d5d5e6a2-ee3b-4a19-ac8b-3e248b2639bb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031219,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In this form of iteration, Go assumes that a string is UTF-8 encoded. "
+            ],
+            [
+              "range",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " decodes each code point as UTF-8, returns decoded rune and its byte index in string."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In this form of iteration, Go assumes that a string is UTF-8 encoded. "
+          },
+          {
+            "Text": "range",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " decodes each code point as UTF-8, returns decoded rune and its byte index in string."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031219,
+        "id": "296e9af3-f7e0-44e3-9d2d-209b1ff54a4a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031219,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can see the byte index of last code point jumped by 3 because code point before it represents a Chinese character and required 3 bytes in UTF-8 encoding."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can see the byte index of last code point jumped by 3 because code point before it represents a Chinese character and required 3 bytes in UTF-8 encoding."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031219,
+        "id": "20111821-b59f-4d91-b528-8a8a23244fa8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031219,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Aside on strings and UTF-8"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Aside on strings and UTF-8"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031219,
+        "id": "9b895db8-8a95-4a89-951b-504da0875011",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031219,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go strings are just slices of bytes. You can put whatever data you want in them."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go strings are just slices of bytes. You can put whatever data you want in them."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031220,
+        "id": "e22b2eca-93ec-413d-9a07-006b9f331948",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031220,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "How the data is interpreted is up to your code."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "How the data is interpreted is up to your code."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031220,
+        "id": "1e43cf24-ddb4-468a-8a9d-4e8b0662e956",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031220,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go doesn’t care if string is a valid UTF-8 sequence. Go doesn’t validate if string is as valid UTF-8 sequence."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go doesn’t care if string is a valid UTF-8 sequence. Go doesn’t validate if string is as valid UTF-8 sequence."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031220,
+        "id": "eb60c0fd-1d96-4c05-887a-b29d5c75c0ad",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031220,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "That being said, Go does include support for working with UTF-8 encoded strings easily."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "That being said, Go does include support for working with UTF-8 encoded strings easily."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031220,
+        "id": "108b63b4-76d7-4387-bacb-515f063cbfe5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031220,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The behavior of "
+            ],
+            [
+              "range",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is one example of that."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The behavior of "
+          },
+          {
+            "Text": "range",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is one example of that."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156031220,
+        "id": "8b1554f0-b27d-4293-8db0-93bce73661b0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156031220,
+        "parent_id": "112e5138-777d-4efe-9f58-fcf378517f2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go also mandates that Go source code files are valid UTF-8."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go also mandates that Go source code files are valid UTF-8."
+          }
+        ]
+      }
+    ],
+    "title": "range over a string",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,672 @@
+{
+  "ID": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+  "Page": {
+    "alive": true,
+    "content": [
+      "01b99597-30d5-4856-84a6-13e85caaa459",
+      "73875804-cfd1-44e4-b7cc-36639950489f",
+      "9d04311b-616c-4c5e-b305-b3b68e1af333",
+      "50956543-c18b-4b47-bbab-57dc372b2f87",
+      "4c219f61-a40e-45eb-818c-0e6593ca27a3",
+      "c4175dea-6b93-41bb-9fb2-5863f00426ce",
+      "10f1a154-ba56-4d00-aeda-be23e82e683c",
+      "f644a270-46c7-4b89-97fd-afbd4073342b",
+      "43ffa1ec-1a08-497d-aeb3-24c0bf167c78",
+      "667171a5-e0ae-4b0e-8ab1-53c813f54788",
+      "6925b5a7-5388-4fce-b3e7-b9abcd123dda",
+      "75efde74-f4f3-497e-9504-4e635ee50eb2",
+      "acafadbe-58af-458f-aa3b-aae7c8b7f3a0",
+      "b881e072-2c87-4f57-b2ee-2f24825b5801",
+      "5ce1b382-62e4-438b-90ab-fafe0dfad8ff"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156007799,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235365389,
+    "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Composition and embedding"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196894529,
+        "id": "01b99597-30d5-4856-84a6-13e85caaa459",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235366131,
+        "parent_id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 84"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 84"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196896173,
+        "id": "73875804-cfd1-44e4-b7cc-36639950489f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235366857,
+        "parent_id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1256"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1256"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196898733,
+        "id": "9d04311b-616c-4c5e-b305-b3b68e1af333",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196898733,
+        "parent_id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196897625,
+        "id": "50956543-c18b-4b47-bbab-57dc372b2f87",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196898504,
+        "parent_id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Composition provides an alternative to inheritance. A struct may include another type by name in its declaration:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Composition provides an alternative to inheritance. A struct may include another type by name in its declaration:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156007795,
+        "id": "4c219f61-a40e-45eb-818c-0e6593ca27a3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196902393,
+        "parent_id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Request struct {\n    Resource string\n}\n\ntype AuthenticatedRequest struct {\n    Request\n    Username, Password string\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Request struct {\n    Resource string\n}\n\ntype AuthenticatedRequest struct {\n    Request\n    Username, Password string\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156007796,
+        "id": "c4175dea-6b93-41bb-9fb2-5863f00426ce",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156007796,
+        "parent_id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In the example above, "
+            ],
+            [
+              "AuthenticatedRequest",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " will contain four public members: "
+            ],
+            [
+              "Resource",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "Request",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "Username",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", and "
+            ],
+            [
+              "Password",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In the example above, "
+          },
+          {
+            "Text": "AuthenticatedRequest",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " will contain four public members: "
+          },
+          {
+            "Text": "Resource",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "Request",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "Username",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", and "
+          },
+          {
+            "Text": "Password",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156007797,
+        "id": "10f1a154-ba56-4d00-aeda-be23e82e683c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156007797,
+        "parent_id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Composite structs can be instantiated and used the same way as normal structs:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Composite structs can be instantiated and used the same way as normal structs:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156007797,
+        "id": "f644a270-46c7-4b89-97fd-afbd4073342b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196905692,
+        "parent_id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func main() {\n    ar := new(AuthenticatedRequest)\n    ar.Resource = \"example.com/request\"\n    ar.Username = \"bob\"\n    ar.Password = \"P@ssw0rd\"\n    fmt.Printf(\"%#v\", ar)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func main() {\n    ar := new(AuthenticatedRequest)\n    ar.Resource = \"example.com/request\"\n    ar.Username = \"bob\"\n    ar.Password = \"P@ssw0rd\"\n    fmt.Printf(\"%#v\", ar)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156007797,
+        "id": "43ffa1ec-1a08-497d-aeb3-24c0bf167c78",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156007797,
+        "parent_id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Embedding"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Embedding"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156007797,
+        "id": "667171a5-e0ae-4b0e-8ab1-53c813f54788",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156007797,
+        "parent_id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In the previous example, "
+            ],
+            [
+              "Request",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is an embedded field. Composition can also be achieved by embedding a different type. This is useful, for example, to decorate a Struct with more functionality. For example, continuing with the Resource example, we want a function that formats the content of the Resource field to prefix it with "
+            ],
+            [
+              "http://",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "https://",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". We have two options: create the new methods on AuthenticatedRequest or "
+            ],
+            [
+              "embed",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " it from a different struct:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In the previous example, "
+          },
+          {
+            "Text": "Request",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is an embedded field. Composition can also be achieved by embedding a different type. This is useful, for example, to decorate a Struct with more functionality. For example, continuing with the Resource example, we want a function that formats the content of the Resource field to prefix it with "
+          },
+          {
+            "Text": "http://",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "https://",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". We have two options: create the new methods on AuthenticatedRequest or "
+          },
+          {
+            "Text": "embed",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " it from a different struct:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156007798,
+        "id": "6925b5a7-5388-4fce-b3e7-b9abcd123dda",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196909032,
+        "parent_id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type ResourceFormatter struct {}\n\nfunc(r *ResourceFormatter) FormatHTTP(resource string) string {\n    return fmt.Sprintf(\"http://%s\", resource)\n}\nfunc(r *ResourceFormatter) FormatHTTPS(resource string) string {\n    return fmt.Sprintf(\"https://%s\", resource)\n}\n\ntype AuthenticatedRequest struct {\n    Request\n    Username, Password string\n    ResourceFormatter\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type ResourceFormatter struct {}\n\nfunc(r *ResourceFormatter) FormatHTTP(resource string) string {\n    return fmt.Sprintf(\"http://%s\", resource)\n}\nfunc(r *ResourceFormatter) FormatHTTPS(resource string) string {\n    return fmt.Sprintf(\"https://%s\", resource)\n}\n\ntype AuthenticatedRequest struct {\n    Request\n    Username, Password string\n    ResourceFormatter\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156007798,
+        "id": "75efde74-f4f3-497e-9504-4e635ee50eb2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156007798,
+        "parent_id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "And now the main function could do the following:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "And now the main function could do the following:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156007798,
+        "id": "acafadbe-58af-458f-aa3b-aae7c8b7f3a0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196913388,
+        "parent_id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func main() {\n    ar := new(AuthenticatedRequest)\n    ar.Resource = \"www.example.com/request\"\n    ar.Username = \"bob\"\n    ar.Password = \"P@ssw0rd\"\n\n    println(ar.FormatHTTP(ar.Resource))\n    println(ar.FormatHTTPS(ar.Resource))\n\n    fmt.Printf(\"%#v\", ar)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func main() {\n    ar := new(AuthenticatedRequest)\n    ar.Resource = \"www.example.com/request\"\n    ar.Username = \"bob\"\n    ar.Password = \"P@ssw0rd\"\n\n    println(ar.FormatHTTP(ar.Resource))\n    println(ar.FormatHTTPS(ar.Resource))\n\n    fmt.Printf(\"%#v\", ar)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156007798,
+        "id": "b881e072-2c87-4f57-b2ee-2f24825b5801",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156007798,
+        "parent_id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Look that the "
+            ],
+            [
+              "AuthenticatedRequest",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " that has a "
+            ],
+            [
+              "ResourceFormatter",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " embedded struct."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Look that the "
+          },
+          {
+            "Text": "AuthenticatedRequest",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " that has a "
+          },
+          {
+            "Text": "ResourceFormatter",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " embedded struct."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156007799,
+        "id": "5ce1b382-62e4-438b-90ab-fafe0dfad8ff",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235375152,
+        "parent_id": "5c99711b-5d2b-467d-85fe-082b1bef3268",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The downside of it is that you cannot access objects outside of your composition. So "
+            ],
+            [
+              "ResourceFormatter",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " cannot access members from "
+            ],
+            [
+              "AuthenticatedRequest",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 9,
+        "inline_content": [
+          {
+            "Text": "The downside of it is that you cannot access objects outside of your composition. So "
+          },
+          {
+            "Text": "ResourceFormatter",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " cannot access members from "
+          },
+          {
+            "Text": "AuthenticatedRequest",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      }
+    ],
+    "title": "Composition and embedding",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

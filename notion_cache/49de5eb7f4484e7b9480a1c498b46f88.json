@@ -1,0 +1,281 @@
+{
+  "ID": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
+  "Page": {
+    "alive": true,
+    "content": [
+      "f60e5966-595c-4145-8193-72e70e6cf2b7",
+      "e1849405-1bb7-4059-bf89-48d06d0702ca",
+      "bb5f41eb-1d60-4d2d-8d54-2b540ebf4276",
+      "51c14d9f-7e7a-4913-b829-114fec8ff532",
+      "5dcd4dd2-30fd-42b7-80da-bdacaf5233ba",
+      "7809c550-0f4a-4f7e-bb27-17d145e686c5",
+      "6ecb619e-0ebb-4871-88d1-d2eb69db3be6",
+      "ff529d9c-e367-4817-9d40-dd71ee1391ac"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155944164,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234041836,
+    "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Channels"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194792441,
+        "id": "f60e5966-595c-4145-8193-72e70e6cf2b7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234042606,
+        "parent_id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 28"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 28"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194793902,
+        "id": "e1849405-1bb7-4059-bf89-48d06d0702ca",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234043371,
+        "parent_id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 901000c2"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 901000c2"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194796201,
+        "id": "bb5f41eb-1d60-4d2d-8d54-2b540ebf4276",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194796212,
+        "parent_id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155944162,
+        "id": "51c14d9f-7e7a-4913-b829-114fec8ff532",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155944162,
+        "parent_id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Channels are typed queues used for goroutines to communicate with each other in a thread-safe manner."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Channels are typed queues used for goroutines to communicate with each other in a thread-safe manner."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155944162,
+        "id": "5dcd4dd2-30fd-42b7-80da-bdacaf5233ba",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155944162,
+        "parent_id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Channel basics:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Channel basics:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155944162,
+        "id": "7809c550-0f4a-4f7e-bb27-17d145e686c5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155944162,
+        "parent_id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file channels.go sha1:16306d0f4b79999c56ec3baa460985815e0de594 goplayground:IDU3P_smmjl"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file channels.go sha1:16306d0f4b79999c56ec3baa460985815e0de594 goplayground:IDU3P_smmjl"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155944163,
+        "id": "6ecb619e-0ebb-4871-88d1-d2eb69db3be6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234054611,
+        "parent_id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value ",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              "of a channel is nil."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Zero value ",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": "of a channel is nil."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155944164,
+        "id": "ff529d9c-e367-4817-9d40-dd71ee1391ac",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234069493,
+        "parent_id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Learn more about "
+            ],
+            [
+              "channels",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Channels-49de5eb7f4484e7b9480a1c498b46f88"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Learn more about "
+          },
+          {
+            "Text": "channels",
+            "Link": "https://www.notion.so/kjkpublic/Channels-49de5eb7f4484e7b9480a1c498b46f88"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      }
+    ],
+    "title": "Channels",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

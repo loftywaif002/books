@@ -1,0 +1,629 @@
+{
+  "ID": "8cc69d74-2351-4479-80b3-a547a37741c0",
+  "Page": {
+    "alive": true,
+    "content": [
+      "8f2825d5-515a-4ef7-bfdd-ce6cef59e04e",
+      "2f6f1462-5a18-430c-8a7c-2b48e2435942",
+      "e79f8b62-82b3-425e-ba2f-fc92b045aa56",
+      "cb0adc58-f864-42d8-9b73-cab8acde0058",
+      "8f1173bd-7c4e-4631-a5f8-a226b5cf5e9f",
+      "bf910367-bef9-47d8-ad04-b4a83560455c",
+      "e8e8b553-882b-4886-870e-1017d935eaf3",
+      "acac12fc-6f94-471e-afdc-4e7216c6f1bc",
+      "c085566e-34bb-441c-8201-365838e53006",
+      "b3cc303e-b498-4529-a9f7-14dce176968c",
+      "a857b288-a11e-4f85-843b-b37f309e823c",
+      "a22ca4c1-1c9e-47a1-8964-8a2ecfb331e7",
+      "f339f33b-7321-4108-8fbf-53a2c054d6b5",
+      "1a7c7a41-78fc-4c34-88e4-f0e8e777ac42",
+      "b6242e5d-c303-4df4-98fa-bdcf7d19a93c"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156169725,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532210929700,
+    "parent_id": "b58d1314-5f92-4c11-afcf-00aa10d71364",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Writing cancellable functions"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210919223,
+        "id": "8f2825d5-515a-4ef7-bfdd-ce6cef59e04e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210921393,
+        "parent_id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 233"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 233"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210921393,
+        "id": "2f6f1462-5a18-430c-8a7c-2b48e2435942",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210923923,
+        "parent_id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 10386"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 10386"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210924299,
+        "id": "e79f8b62-82b3-425e-ba2f-fc92b045aa56",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210924310,
+        "parent_id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156169722,
+        "id": "cb0adc58-f864-42d8-9b73-cab8acde0058",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156169722,
+        "parent_id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using existing functions that accept cancellable context is easy."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Using existing functions that accept cancellable context is easy."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156169722,
+        "id": "8f1173bd-7c4e-4631-a5f8-a226b5cf5e9f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156169722,
+        "parent_id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Writing a function that can be cancelled via context is much harder."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Writing a function that can be cancelled via context is much harder."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156169722,
+        "id": "bf910367-bef9-47d8-ad04-b4a83560455c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156169722,
+        "parent_id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When a time experies or you call cancel function returned by "
+            ],
+            [
+              "context.WithCancel()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "context.WithTimeout()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", a channel in the context is signalled."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When a time experies or you call cancel function returned by "
+          },
+          {
+            "Text": "context.WithCancel()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "context.WithTimeout()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", a channel in the context is signalled."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156169722,
+        "id": "e8e8b553-882b-4886-870e-1017d935eaf3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156169722,
+        "parent_id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When writing a cancellable function, you have to periodically check channel returned by "
+            ],
+            [
+              "context.Done()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and return immediately if it has been signalled."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When writing a cancellable function, you have to periodically check channel returned by "
+          },
+          {
+            "Text": "context.Done()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and return immediately if it has been signalled."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156169723,
+        "id": "acac12fc-6f94-471e-afdc-4e7216c6f1bc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156169723,
+        "parent_id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It does make for an awkward code:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It does make for an awkward code:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156169723,
+        "id": "c085566e-34bb-441c-8201-365838e53006",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156169723,
+        "parent_id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file cancellable_function.go output sha1:29d550650156898244a024cf6258877b508481ed goplayground:AihF82Xoffg"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file cancellable_function.go output sha1:29d550650156898244a024cf6258877b508481ed goplayground:AihF82Xoffg"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156169724,
+        "id": "b3cc303e-b498-4529-a9f7-14dce176968c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156169724,
+        "parent_id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For clarity, this is an artificial task."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For clarity, this is an artificial task."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156169724,
+        "id": "a857b288-a11e-4f85-843b-b37f309e823c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156169724,
+        "parent_id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Our "
+            ],
+            [
+              "longMathOp",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function performs simple operation 100 times and simulates slowness by sleeping for 1 ms on every iteration."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Our "
+          },
+          {
+            "Text": "longMathOp",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function performs simple operation 100 times and simulates slowness by sleeping for 1 ms on every iteration."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156169724,
+        "id": "a22ca4c1-1c9e-47a1-8964-8a2ecfb331e7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156169724,
+        "parent_id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can expect it to take ~100 ms."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can expect it to take ~100 ms."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156169725,
+        "id": "f339f33b-7321-4108-8fbf-53a2c054d6b5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156169725,
+        "parent_id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A "
+            ],
+            [
+              "select",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " with "
+            ],
+            [
+              "default",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " clause is non-blocking. If there’s nothing in the "
+            ],
+            [
+              "ctx.Done()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " channel, we don’t wait for values and immediately execute "
+            ],
+            [
+              "default",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " part, which is where the logic of the program lives."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A "
+          },
+          {
+            "Text": "select",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " with "
+          },
+          {
+            "Text": "default",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " clause is non-blocking. If there’s nothing in the "
+          },
+          {
+            "Text": "ctx.Done()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " channel, we don’t wait for values and immediately execute "
+          },
+          {
+            "Text": "default",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " part, which is where the logic of the program lives."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156169725,
+        "id": "1a7c7a41-78fc-4c34-88e4-f0e8e777ac42",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156169725,
+        "parent_id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can see in our test that if timeout is greater than 100 ms, the function finishes."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can see in our test that if timeout is greater than 100 ms, the function finishes."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156169725,
+        "id": "b6242e5d-c303-4df4-98fa-bdcf7d19a93c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156169725,
+        "parent_id": "8cc69d74-2351-4479-80b3-a547a37741c0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If timeout is smaller than 100 ms, "
+            ],
+            [
+              "ctx.Done()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " channel is signalled, we detect it in "
+            ],
+            [
+              "longMathOp",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and return "
+            ],
+            [
+              "ctx.Err()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If timeout is smaller than 100 ms, "
+          },
+          {
+            "Text": "ctx.Done()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " channel is signalled, we detect it in "
+          },
+          {
+            "Text": "longMathOp",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and return "
+          },
+          {
+            "Text": "ctx.Err()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      }
+    ],
+    "title": "Writing cancellable functions",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

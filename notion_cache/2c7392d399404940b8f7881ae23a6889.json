@@ -1,0 +1,1002 @@
+{
+  "ID": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+  "Page": {
+    "alive": true,
+    "content": [
+      "149b3665-6452-4e13-bea8-3670d2a36e85",
+      "10247318-0e66-4d09-816c-b9bf59e58000",
+      "8dc542ad-c741-4779-9b9c-956e0ba4c102",
+      "3af48925-945e-4604-90bb-42716df0db64",
+      "6cd47e04-abfd-407f-ae36-5f7a8a325887",
+      "cc2f1ab7-d25e-4637-a845-d9cd0318665d",
+      "b10c6f7c-6ef4-4010-83a2-ac63d0732d7f",
+      "5a0c4dee-6050-4a1c-a409-35e8abe5a8e3",
+      "56c9001d-0705-46b1-b10d-89d216586724",
+      "f1620504-93ae-4582-a2d7-64a094c330e9",
+      "5c7408fb-d34a-4155-8f69-1ed7bd8e1d43",
+      "263826c3-3be1-4cf9-877d-11ea1512de23"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156094212,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532206966253,
+    "parent_id": "c4da0534-9333-4df9-9513-4741ae04f808",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Format time like strftime"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206939201,
+        "id": "149b3665-6452-4e13-bea8-3670d2a36e85",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206967207,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 169"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 169"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206940724,
+        "id": "10247318-0e66-4d09-816c-b9bf59e58000",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206967956,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 80100032"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 80100032"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206942772,
+        "id": "8dc542ad-c741-4779-9b9c-956e0ba4c102",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206943306,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156094205,
+        "id": "3af48925-945e-4604-90bb-42716df0db64",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156094205,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you prefer "
+            ],
+            [
+              "strftime",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " style of formatting time values (as used in Python or Ruby) or porting code that uses that style, you can use one of "
+            ],
+            [
+              "several libraries",
+              [
+                [
+                  "a",
+                  "https://godoc.org/?q=strftime"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you prefer "
+          },
+          {
+            "Text": "strftime",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " style of formatting time values (as used in Python or Ruby) or porting code that uses that style, you can use one of "
+          },
+          {
+            "Text": "several libraries",
+            "Link": "https://godoc.org/?q=strftime"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156094206,
+        "id": "6cd47e04-abfd-407f-ae36-5f7a8a325887",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156094206,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here’s an example using "
+            ],
+            [
+              "github.com/jehiah/go-strftime",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Here’s an example using "
+          },
+          {
+            "Text": "github.com/jehiah/go-strftime",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156094206,
+        "id": "cc2f1ab7-d25e-4637-a845-d9cd0318665d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156094206,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file strftime.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file strftime.go output noplayground"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156094206,
+        "id": "b10c6f7c-6ef4-4010-83a2-ac63d0732d7f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156094206,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Side note on package naming: since the package name is strftime, the import path / repository path should be github.com/jehiah/strftime. It’s bad style to add go or go- to repository path."
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Side note on package naming: since the package name is strftime, the import path / repository path should be github.com/jehiah/strftime. It’s bad style to add go or go- to repository path."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156094207,
+        "id": "5a0c4dee-6050-4a1c-a409-35e8abe5a8e3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156094207,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Unfortunately, when it comes to parsing things are not as good. There are two packages: * https://godoc.org/github.com/jeffjen/datefmt * https://godoc.org/github.com/knz/strtime"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Unfortunately, when it comes to parsing things are not as good. There are two packages: * https://godoc.org/github.com/jeffjen/datefmt * https://godoc.org/github.com/knz/strtime"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156094207,
+        "id": "56c9001d-0705-46b1-b10d-89d216586724",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156094207,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "but they both are cgo-wrappers around C libraries, which makes them more finicky to build, especially on Windows."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "but they both are cgo-wrappers around C libraries, which makes them more finicky to build, especially on Windows."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156094207,
+        "id": "f1620504-93ae-4582-a2d7-64a094c330e9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156094207,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "List of "
+            ],
+            [
+              "strftime",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " directives"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "List of "
+          },
+          {
+            "Text": "strftime",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " directives"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156094210,
+        "id": "5c7408fb-d34a-4155-8f69-1ed7bd8e1d43",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156094210,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Code"
+            ],
+            [
+              "Meaning"
+            ],
+            [
+              "Example"
+            ],
+            [
+              "%a"
+            ],
+            [
+              "Weekday as locale’s abbreviated name."
+            ],
+            [
+              "Mon"
+            ],
+            [
+              "%A"
+            ],
+            [
+              "Weekday as locale’s full name."
+            ],
+            [
+              "Monday"
+            ],
+            [
+              "%w"
+            ],
+            [
+              "Weekday as a decimal number, where 0 is Sunday and 6 is Saturday."
+            ],
+            [
+              "1"
+            ],
+            [
+              "%d"
+            ],
+            [
+              "Day of the month as a zero-padded decimal number."
+            ],
+            [
+              "30"
+            ],
+            [
+              "%-d"
+            ],
+            [
+              "Day of the month as a decimal number. (Platform specific)"
+            ],
+            [
+              "30"
+            ],
+            [
+              "%b"
+            ],
+            [
+              "Month as locale’s abbreviated name."
+            ],
+            [
+              "Sep"
+            ],
+            [
+              "%B"
+            ],
+            [
+              "Month as locale’s full name."
+            ],
+            [
+              "September"
+            ],
+            [
+              "%m"
+            ],
+            [
+              "Month as a zero-padded decimal number."
+            ],
+            [
+              "09"
+            ],
+            [
+              "%-m"
+            ],
+            [
+              "Month as a decimal number. (Platform specific)"
+            ],
+            [
+              "9"
+            ],
+            [
+              "%y"
+            ],
+            [
+              "Year without century as a zero-padded decimal number."
+            ],
+            [
+              "13"
+            ],
+            [
+              "%Y"
+            ],
+            [
+              "Year with century as a decimal number."
+            ],
+            [
+              "2013"
+            ],
+            [
+              "%H"
+            ],
+            [
+              "Hour (24-hour clock) as a zero-padded decimal number."
+            ],
+            [
+              "07"
+            ],
+            [
+              "%-H"
+            ],
+            [
+              "Hour (24-hour clock) as a decimal number. (Platform specific)"
+            ],
+            [
+              "7"
+            ],
+            [
+              "%I"
+            ],
+            [
+              "Hour (12-hour clock) as a zero-padded decimal number."
+            ],
+            [
+              "07"
+            ],
+            [
+              "%-I"
+            ],
+            [
+              "Hour (12-hour clock) as a decimal number. (Platform specific)"
+            ],
+            [
+              "7"
+            ],
+            [
+              "%p"
+            ],
+            [
+              "Locale’s equivalent of either AM or PM."
+            ],
+            [
+              "AM"
+            ],
+            [
+              "%M"
+            ],
+            [
+              "Minute as a zero-padded decimal number."
+            ],
+            [
+              "06"
+            ],
+            [
+              "%-M"
+            ],
+            [
+              "Minute as a decimal number. (Platform specific)"
+            ],
+            [
+              "6"
+            ],
+            [
+              "%S"
+            ],
+            [
+              "Second as a zero-padded decimal number."
+            ],
+            [
+              "05"
+            ],
+            [
+              "%-S"
+            ],
+            [
+              "Second as a decimal number. (Platform specific)"
+            ],
+            [
+              "5"
+            ],
+            [
+              "%f"
+            ],
+            [
+              "Microsecond as a decimal number, zero-padded on the left."
+            ],
+            [
+              "000000"
+            ],
+            [
+              "%z"
+            ],
+            [
+              "UTC offset in the form +HHMM or -HHMM (empty string if the the object is naive)."
+            ],
+            [
+              "%Z"
+            ],
+            [
+              "Time zone name (empty string if the object is naive)."
+            ],
+            [
+              "%j"
+            ],
+            [
+              "Day of the year as a zero-padded decimal number."
+            ],
+            [
+              "273"
+            ],
+            [
+              "%-j"
+            ],
+            [
+              "Day of the year as a decimal number. (Platform specific)"
+            ],
+            [
+              "273"
+            ],
+            [
+              "%U"
+            ],
+            [
+              "Week number of the year (Sunday as the first day of the week) as a zero padded decimal number. All days in a new year preceding the first Sunday are considered to be in week 0."
+            ],
+            [
+              "39"
+            ],
+            [
+              "%W"
+            ],
+            [
+              "Week number of the year (Monday as the first day of the week) as a decimal number. All days in a new year preceding the first Monday are considered to be in week 0."
+            ],
+            [
+              "39"
+            ],
+            [
+              "%c"
+            ],
+            [
+              "Locale’s appropriate date and time representation."
+            ],
+            [
+              "Mon Sep 30 07:06:05 2013"
+            ],
+            [
+              "%x"
+            ],
+            [
+              "Locale’s appropriate date representation."
+            ],
+            [
+              "09/30/13"
+            ],
+            [
+              "%X"
+            ],
+            [
+              "Locale’s appropriate time representation."
+            ],
+            [
+              "07:06:05"
+            ],
+            [
+              "%%"
+            ],
+            [
+              "A literal ‘%’ character."
+            ],
+            [
+              "%"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Code"
+          },
+          {
+            "Text": "Meaning"
+          },
+          {
+            "Text": "Example"
+          },
+          {
+            "Text": "%a"
+          },
+          {
+            "Text": "Weekday as locale’s abbreviated name."
+          },
+          {
+            "Text": "Mon"
+          },
+          {
+            "Text": "%A"
+          },
+          {
+            "Text": "Weekday as locale’s full name."
+          },
+          {
+            "Text": "Monday"
+          },
+          {
+            "Text": "%w"
+          },
+          {
+            "Text": "Weekday as a decimal number, where 0 is Sunday and 6 is Saturday."
+          },
+          {
+            "Text": "1"
+          },
+          {
+            "Text": "%d"
+          },
+          {
+            "Text": "Day of the month as a zero-padded decimal number."
+          },
+          {
+            "Text": "30"
+          },
+          {
+            "Text": "%-d"
+          },
+          {
+            "Text": "Day of the month as a decimal number. (Platform specific)"
+          },
+          {
+            "Text": "30"
+          },
+          {
+            "Text": "%b"
+          },
+          {
+            "Text": "Month as locale’s abbreviated name."
+          },
+          {
+            "Text": "Sep"
+          },
+          {
+            "Text": "%B"
+          },
+          {
+            "Text": "Month as locale’s full name."
+          },
+          {
+            "Text": "September"
+          },
+          {
+            "Text": "%m"
+          },
+          {
+            "Text": "Month as a zero-padded decimal number."
+          },
+          {
+            "Text": "09"
+          },
+          {
+            "Text": "%-m"
+          },
+          {
+            "Text": "Month as a decimal number. (Platform specific)"
+          },
+          {
+            "Text": "9"
+          },
+          {
+            "Text": "%y"
+          },
+          {
+            "Text": "Year without century as a zero-padded decimal number."
+          },
+          {
+            "Text": "13"
+          },
+          {
+            "Text": "%Y"
+          },
+          {
+            "Text": "Year with century as a decimal number."
+          },
+          {
+            "Text": "2013"
+          },
+          {
+            "Text": "%H"
+          },
+          {
+            "Text": "Hour (24-hour clock) as a zero-padded decimal number."
+          },
+          {
+            "Text": "07"
+          },
+          {
+            "Text": "%-H"
+          },
+          {
+            "Text": "Hour (24-hour clock) as a decimal number. (Platform specific)"
+          },
+          {
+            "Text": "7"
+          },
+          {
+            "Text": "%I"
+          },
+          {
+            "Text": "Hour (12-hour clock) as a zero-padded decimal number."
+          },
+          {
+            "Text": "07"
+          },
+          {
+            "Text": "%-I"
+          },
+          {
+            "Text": "Hour (12-hour clock) as a decimal number. (Platform specific)"
+          },
+          {
+            "Text": "7"
+          },
+          {
+            "Text": "%p"
+          },
+          {
+            "Text": "Locale’s equivalent of either AM or PM."
+          },
+          {
+            "Text": "AM"
+          },
+          {
+            "Text": "%M"
+          },
+          {
+            "Text": "Minute as a zero-padded decimal number."
+          },
+          {
+            "Text": "06"
+          },
+          {
+            "Text": "%-M"
+          },
+          {
+            "Text": "Minute as a decimal number. (Platform specific)"
+          },
+          {
+            "Text": "6"
+          },
+          {
+            "Text": "%S"
+          },
+          {
+            "Text": "Second as a zero-padded decimal number."
+          },
+          {
+            "Text": "05"
+          },
+          {
+            "Text": "%-S"
+          },
+          {
+            "Text": "Second as a decimal number. (Platform specific)"
+          },
+          {
+            "Text": "5"
+          },
+          {
+            "Text": "%f"
+          },
+          {
+            "Text": "Microsecond as a decimal number, zero-padded on the left."
+          },
+          {
+            "Text": "000000"
+          },
+          {
+            "Text": "%z"
+          },
+          {
+            "Text": "UTC offset in the form +HHMM or -HHMM (empty string if the the object is naive)."
+          },
+          {
+            "Text": "%Z"
+          },
+          {
+            "Text": "Time zone name (empty string if the object is naive)."
+          },
+          {
+            "Text": "%j"
+          },
+          {
+            "Text": "Day of the year as a zero-padded decimal number."
+          },
+          {
+            "Text": "273"
+          },
+          {
+            "Text": "%-j"
+          },
+          {
+            "Text": "Day of the year as a decimal number. (Platform specific)"
+          },
+          {
+            "Text": "273"
+          },
+          {
+            "Text": "%U"
+          },
+          {
+            "Text": "Week number of the year (Sunday as the first day of the week) as a zero padded decimal number. All days in a new year preceding the first Sunday are considered to be in week 0."
+          },
+          {
+            "Text": "39"
+          },
+          {
+            "Text": "%W"
+          },
+          {
+            "Text": "Week number of the year (Monday as the first day of the week) as a decimal number. All days in a new year preceding the first Monday are considered to be in week 0."
+          },
+          {
+            "Text": "39"
+          },
+          {
+            "Text": "%c"
+          },
+          {
+            "Text": "Locale’s appropriate date and time representation."
+          },
+          {
+            "Text": "Mon Sep 30 07:06:05 2013"
+          },
+          {
+            "Text": "%x"
+          },
+          {
+            "Text": "Locale’s appropriate date representation."
+          },
+          {
+            "Text": "09/30/13"
+          },
+          {
+            "Text": "%X"
+          },
+          {
+            "Text": "Locale’s appropriate time representation."
+          },
+          {
+            "Text": "07:06:05"
+          },
+          {
+            "Text": "%%"
+          },
+          {
+            "Text": "A literal ‘%’ character."
+          },
+          {
+            "Text": "%"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156094212,
+        "id": "263826c3-3be1-4cf9-877d-11ea1512de23",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156094212,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can also use http://www.strfti.me/ service to help you build "
+            ],
+            [
+              "strftime",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " formatting strings."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can also use http://www.strfti.me/ service to help you build "
+          },
+          {
+            "Text": "strftime",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " formatting strings."
+          }
+        ]
+      }
+    ],
+    "title": "Format time like strftime",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

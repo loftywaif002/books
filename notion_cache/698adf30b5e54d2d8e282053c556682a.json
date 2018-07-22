@@ -1,0 +1,223 @@
+{
+  "ID": "698adf30-b5e5-4d2d-8e28-2053c556682a",
+  "Page": {
+    "alive": true,
+    "content": [
+      "fddef238-2814-4638-87a3-38d84195f90b",
+      "4eafecfb-ac91-4aeb-89ed-96bf62b58272",
+      "6945ca7c-2602-4aed-b52f-caea645c54f8",
+      "1011d0f1-2e00-43a8-9d72-4e1438a2505a",
+      "90163b0d-2eee-42f2-b334-f085ec80aa0f",
+      "491fc794-79fd-48a4-866d-1a32c240e1ff",
+      "7092aa86-19c3-4875-925d-c87642b1c9ee"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156234149,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "698adf30-b5e5-4d2d-8e28-2053c556682a",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213749755,
+    "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Interface \u0026 polymorphism"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 27,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213702627,
+        "id": "fddef238-2814-4638-87a3-38d84195f90b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213707770,
+        "parent_id": "698adf30-b5e5-4d2d-8e28-2053c556682a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 284"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$Id: 284"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213707770,
+        "id": "4eafecfb-ac91-4aeb-89ed-96bf62b58272",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213710273,
+        "parent_id": "698adf30-b5e5-4d2d-8e28-2053c556682a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213710273,
+        "id": "6945ca7c-2602-4aed-b52f-caea645c54f8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213712353,
+        "parent_id": "698adf30-b5e5-4d2d-8e28-2053c556682a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 27429"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$SOId: 27429"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213714425,
+        "id": "1011d0f1-2e00-43a8-9d72-4e1438a2505a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213714425,
+        "parent_id": "698adf30-b5e5-4d2d-8e28-2053c556682a",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213712353,
+        "id": "90163b0d-2eee-42f2-b334-f085ec80aa0f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213717854,
+        "parent_id": "698adf30-b5e5-4d2d-8e28-2053c556682a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Interfaces provide a way to specify the behavior of an object, if something can do this then it can be used here. an interface defines a set of methods, but these methods do not contain code as they are abstract or the implementation is left to the user of the interface. unlike most Object Oriented languages interfaces can contain variables in Go."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "Interfaces provide a way to specify the behavior of an object, if something can do this then it can be used here. an interface defines a set of methods, but these methods do not contain code as they are abstract or the implementation is left to the user of the interface. unlike most Object Oriented languages interfaces can contain variables in Go."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156234149,
+        "id": "491fc794-79fd-48a4-866d-1a32c240e1ff",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156234149,
+        "parent_id": "698adf30-b5e5-4d2d-8e28-2053c556682a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Polymorphism is the essence of object-oriented programming: the ability to treat objects of different types uniformly as long as they adhere to the same interface. Go interfaces provide this capability in a very direct and intuitive way"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Polymorphism is the essence of object-oriented programming: the ability to treat objects of different types uniformly as long as they adhere to the same interface. Go interfaces provide this capability in a very direct and intuitive way"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156234149,
+        "id": "7092aa86-19c3-4875-925d-c87642b1c9ee",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213721617,
+        "parent_id": "698adf30-b5e5-4d2d-8e28-2053c556682a",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\ntype Runner interface {\n    Run()\n}\n\ntype Admin struct {\n    Username, Password string\n}\n\nfunc (admin Admin) Run() {\n    fmt.Println(\"Admin ==\u003e Run()\");\n}\n\ntype User struct {\n    ID uint64\n    FullName, Email string\n}\n\nfunc (user User) Run() {\n    fmt.Println(\"User ==\u003e Run()\")\n}\n\n// RunnerExample takes any type that fullfils the Runner interface\nfunc RunnerExample(r Runner) {\n    r.Run()\n}\n\nfunc main() {\n    admin := Admin{\n        \"zola\",\n        \"supersecretpassword\",\n    }\n\n    user := User{\n        1,\n        \"Zelalem Mekonen\",\n        \"zola.mk.27@gmail.com\",\n    }\n\n    RunnerExample(admin)\n\n    RunnerExample(user)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\ntype Runner interface {\n    Run()\n}\n\ntype Admin struct {\n    Username, Password string\n}\n\nfunc (admin Admin) Run() {\n    fmt.Println(\"Admin ==\u003e Run()\");\n}\n\ntype User struct {\n    ID uint64\n    FullName, Email string\n}\n\nfunc (user User) Run() {\n    fmt.Println(\"User ==\u003e Run()\")\n}\n\n// RunnerExample takes any type that fullfils the Runner interface\nfunc RunnerExample(r Runner) {\n    r.Run()\n}\n\nfunc main() {\n    admin := Admin{\n        \"zola\",\n        \"supersecretpassword\",\n    }\n\n    user := User{\n        1,\n        \"Zelalem Mekonen\",\n        \"zola.mk.27@gmail.com\",\n    }\n\n    RunnerExample(admin)\n\n    RunnerExample(user)\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Interface \u0026 polymorphism",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

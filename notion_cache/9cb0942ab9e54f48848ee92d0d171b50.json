@@ -1,0 +1,264 @@
+{
+  "ID": "9cb0942a-b9e5-4f48-848e-e92d0d171b50",
+  "Page": {
+    "alive": true,
+    "content": [
+      "a34d036e-98f6-4eb8-a2cb-302d7a4fe2be",
+      "29b7237a-e837-49b9-b56b-60af60f5cb79",
+      "9172e80f-96a8-4139-8dd9-fcdd9049a8aa",
+      "57b574cb-26d5-4af3-abe6-d92b95cd10f1",
+      "4ae1020c-a4ef-4193-b7a2-34507f01440f",
+      "d77aa557-7324-45a6-a433-eef032d394e3",
+      "12fe154e-ebd3-4f0a-9a12-0f99e60dc02e"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156197214,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "9cb0942a-b9e5-4f48-848e-e92d0d171b50",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532211909262,
+    "parent_id": "b55ab9b1-d6e5-499e-a301-4ba7e85d3efd",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "View code coverage in HTML format"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 27,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211893824,
+        "id": "a34d036e-98f6-4eb8-a2cb-302d7a4fe2be",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211896342,
+        "parent_id": "9cb0942a-b9e5-4f48-848e-e92d0d171b50",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 251"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 251"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211896342,
+        "id": "29b7237a-e837-49b9-b56b-60af60f5cb79",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211898380,
+        "parent_id": "9cb0942a-b9e5-4f48-848e-e92d0d171b50",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211898380,
+        "id": "9172e80f-96a8-4139-8dd9-fcdd9049a8aa",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211900165,
+        "parent_id": "9cb0942a-b9e5-4f48-848e-e92d0d171b50",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 18608"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 18608"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211901229,
+        "id": "57b574cb-26d5-4af3-abe6-d92b95cd10f1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211901229,
+        "parent_id": "9cb0942a-b9e5-4f48-848e-e92d0d171b50",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211900165,
+        "id": "4ae1020c-a4ef-4193-b7a2-34507f01440f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211900912,
+        "parent_id": "9cb0942a-b9e5-4f48-848e-e92d0d171b50",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Run "
+            ],
+            [
+              "go test",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " as normal, yet with the "
+            ],
+            [
+              "coverprofile",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " flag. Then use "
+            ],
+            [
+              "go tool",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to view the results as HTML."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Run "
+          },
+          {
+            "Text": "go test",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " as normal, yet with the "
+          },
+          {
+            "Text": "coverprofile",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " flag. Then use "
+          },
+          {
+            "Text": "go tool",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to view the results as HTML."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156197214,
+        "id": "d77aa557-7324-45a6-a433-eef032d394e3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211889841,
+        "parent_id": "9cb0942a-b9e5-4f48-848e-e92d0d171b50",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "go test -coverprofile=c.out\ngo tool cover -html=c.out"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "go test -coverprofile=c.out\ngo tool cover -html=c.out",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211890678,
+        "id": "12fe154e-ebd3-4f0a-9a12-0f99e60dc02e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211890678,
+        "parent_id": "9cb0942a-b9e5-4f48-848e-e92d0d171b50",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "View code coverage in HTML format",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

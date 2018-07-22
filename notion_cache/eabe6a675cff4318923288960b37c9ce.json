@@ -1,0 +1,210 @@
+{
+  "ID": "eabe6a67-5cff-4318-9232-88960b37c9ce",
+  "Page": {
+    "alive": true,
+    "content": [
+      "fefb9e3b-32f0-4f7a-a0db-620b6135b220",
+      "225cc3fa-9b91-4064-8c27-7225b146ee04",
+      "1bbe4cd8-e5b0-4b2e-8a02-113d76843533",
+      "e31fa664-693b-4330-9880-4b96f5e5ab64",
+      "66c6a961-7b64-41b2-aba1-5fb3360ef49d",
+      "1137a33c-3621-4074-9918-82724695024c",
+      "e7f6991a-dfbb-4194-85f7-09ebcd718992"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155947207,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234115451,
+    "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Type casting"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194951586,
+        "id": "fefb9e3b-32f0-4f7a-a0db-620b6135b220",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234116396,
+        "parent_id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 31"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 31"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194953124,
+        "id": "225cc3fa-9b91-4064-8c27-7225b146ee04",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234117155,
+        "parent_id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 80100098"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 80100098"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194955941,
+        "id": "1bbe4cd8-e5b0-4b2e-8a02-113d76843533",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194955941,
+        "parent_id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155947207,
+        "id": "e31fa664-693b-4330-9880-4b96f5e5ab64",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155947207,
+        "parent_id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Unlike a language like C, Go doesn’t do implicit casting between types."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Unlike a language like C, Go doesn’t do implicit casting between types."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155947207,
+        "id": "66c6a961-7b64-41b2-aba1-5fb3360ef49d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155947207,
+        "parent_id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You have to cast between compatible types manually:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You have to cast between compatible types manually:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155947207,
+        "id": "1137a33c-3621-4074-9918-82724695024c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155947207,
+        "parent_id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file type_casting.go sha1:758909a77ca8bc59a212b1e1f65e49212687cee3 goplayground:xjJopezmSSw"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file type_casting.go sha1:758909a77ca8bc59a212b1e1f65e49212687cee3 goplayground:xjJopezmSSw"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194965879,
+        "id": "e7f6991a-dfbb-4194-85f7-09ebcd718992",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194965879,
+        "parent_id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Type casting",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

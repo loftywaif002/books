@@ -1,0 +1,555 @@
+{
+  "ID": "37188510-275c-44b7-902a-d4816f81c062",
+  "Page": {
+    "alive": true,
+    "content": [
+      "2306a3ef-0de2-4eb0-ae8b-d9256b3dd77d",
+      "b3d201d1-d7f4-4075-8357-fc80ebbb13ff",
+      "5e4defbb-4160-464e-b1ae-0a8ef185eb4e",
+      "f56dca72-eb13-44f9-8bb9-0e002b5b87a4",
+      "37d57177-ba3b-47b7-b707-691841d2cbd0",
+      "c4320064-3235-407a-b4f7-25c8d215ecab",
+      "8a6bb4d9-d24b-466b-95f4-883b9ef3fe10",
+      "884dd5a0-5db7-4bd7-bbb9-b7889b08baf2",
+      "42e004fb-2f58-4717-a6e0-87f76cc06e05",
+      "bd0cccac-e172-409a-acd4-2108b83d280a",
+      "fd6259b7-e57b-4184-8a3a-d101ad6fedd0",
+      "1ed1d7e4-0ff5-4ba4-bf7d-4629553bb06a",
+      "c7574035-a110-4332-bec0-06b7b2004660",
+      "c2110b72-5d68-4677-9af3-3ee0c67ba980",
+      "45158751-231e-4b03-8003-0496b9954646"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155923194,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "37188510-275c-44b7-902a-d4816f81c062",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532217068263,
+    "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Access documentation offline"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532159137577,
+        "id": "2306a3ef-0de2-4eb0-ae8b-d9256b3dd77d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217045962,
+        "parent_id": "37188510-275c-44b7-902a-d4816f81c062",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 8"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 8"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532159141491,
+        "id": "b3d201d1-d7f4-4075-8357-fc80ebbb13ff",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217046665,
+        "parent_id": "37188510-275c-44b7-902a-d4816f81c062",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 24998"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 24998"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532159157257,
+        "id": "5e4defbb-4160-464e-b1ae-0a8ef185eb4e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532159157269,
+        "parent_id": "37188510-275c-44b7-902a-d4816f81c062",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155923188,
+        "id": "f56dca72-eb13-44f9-8bb9-0e002b5b87a4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155923188,
+        "parent_id": "37188510-275c-44b7-902a-d4816f81c062",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To browse full documentation locally, run:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To browse full documentation locally, run:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155923189,
+        "id": "37d57177-ba3b-47b7-b707-691841d2cbd0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217057179,
+        "parent_id": "37188510-275c-44b7-902a-d4816f81c062",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ godoc -http=localhost:9000"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 7,
+        "code": "$ godoc -http=localhost:9000",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155923192,
+        "id": "c4320064-3235-407a-b4f7-25c8d215ecab",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155923192,
+        "parent_id": "37188510-275c-44b7-902a-d4816f81c062",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Then open "
+            ],
+            [
+              "localhost:9000",
+              [
+                [
+                  "a",
+                  "http://localhost:9000/"
+                ]
+              ]
+            ],
+            [
+              " in the browser. It’ll show the same information as "
+            ],
+            [
+              "https://golang.org/doc/",
+              [
+                [
+                  "a",
+                  "https://golang.org/doc/"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Then open "
+          },
+          {
+            "Text": "localhost:9000",
+            "Link": "http://localhost:9000/"
+          },
+          {
+            "Text": " in the browser. It’ll show the same information as "
+          },
+          {
+            "Text": "https://golang.org/doc/",
+            "Link": "https://golang.org/doc/"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155923192,
+        "id": "8a6bb4d9-d24b-466b-95f4-883b9ef3fe10",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155923192,
+        "parent_id": "37188510-275c-44b7-902a-d4816f81c062",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can run guided tour locally with:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can run guided tour locally with:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155923192,
+        "id": "884dd5a0-5db7-4bd7-bbb9-b7889b08baf2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217060769,
+        "parent_id": "37188510-275c-44b7-902a-d4816f81c062",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ go get golang.org/x/tour/gotour\n$ go tool tour"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 11,
+        "code": "$ go get golang.org/x/tour/gotour\n$ go tool tour",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155923193,
+        "id": "42e004fb-2f58-4717-a6e0-87f76cc06e05",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217084491,
+        "parent_id": "37188510-275c-44b7-902a-d4816f81c062",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This runs "
+            ],
+            [
+              "https://tour.golang.org/",
+              [
+                [
+                  "a",
+                  "https://tour.golang.org/"
+                ]
+              ]
+            ],
+            [
+              " locally."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 59,
+        "inline_content": [
+          {
+            "Text": "This runs "
+          },
+          {
+            "Text": "https://tour.golang.org/",
+            "Link": "https://tour.golang.org/"
+          },
+          {
+            "Text": " locally."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155923193,
+        "id": "bd0cccac-e172-409a-acd4-2108b83d280a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217098270,
+        "parent_id": "37188510-275c-44b7-902a-d4816f81c062",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can use "
+            ],
+            [
+              "godoc",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " for quick reference. For example, to see documentation for "
+            ],
+            [
+              "fmt.Print",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 9,
+        "inline_content": [
+          {
+            "Text": "You can use "
+          },
+          {
+            "Text": "godoc",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " for quick reference. For example, to see documentation for "
+          },
+          {
+            "Text": "fmt.Print",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155923193,
+        "id": "fd6259b7-e57b-4184-8a3a-d101ad6fedd0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217063328,
+        "parent_id": "37188510-275c-44b7-902a-d4816f81c062",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ godoc cmd/fmt Print"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 7,
+        "code": "$ godoc cmd/fmt Print",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155923193,
+        "id": "1ed1d7e4-0ff5-4ba4-bf7d-4629553bb06a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155923193,
+        "parent_id": "37188510-275c-44b7-902a-d4816f81c062",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "General help is also available from the command-line:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "General help is also available from the command-line:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155923193,
+        "id": "c7574035-a110-4332-bec0-06b7b2004660",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217066897,
+        "parent_id": "37188510-275c-44b7-902a-d4816f81c062",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ go help [command]"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 11,
+        "code": "$ go help [command]",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155923194,
+        "id": "c2110b72-5d68-4677-9af3-3ee0c67ba980",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217108090,
+        "parent_id": "37188510-275c-44b7-902a-d4816f81c062",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For example, to see documentation for "
+            ],
+            [
+              "go build",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " use "
+            ],
+            [
+              "go help build",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 60,
+        "inline_content": [
+          {
+            "Text": "For example, to see documentation for "
+          },
+          {
+            "Text": "go build",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " use "
+          },
+          {
+            "Text": "go help build",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532217068263,
+        "id": "45158751-231e-4b03-8003-0496b9954646",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217068263,
+        "parent_id": "37188510-275c-44b7-902a-d4816f81c062",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Access documentation offline",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

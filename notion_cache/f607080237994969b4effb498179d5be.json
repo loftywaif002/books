@@ -1,0 +1,444 @@
+{
+  "ID": "f6070802-3799-4969-b4ef-fb498179d5be",
+  "Page": {
+    "alive": true,
+    "content": [
+      "d76937cc-e2bd-4152-9a40-a324b80b9d88",
+      "97d83374-8e1b-4e01-ac84-5d1f665f57b2",
+      "29ab2aec-daca-4a1f-be48-35be091626dd",
+      "314b8c37-9e80-4c5e-b941-92382a0c6645",
+      "c3397f0a-69c3-4a0f-82e2-80942982ed62",
+      "730a2eb8-a00c-4b93-85a9-677080546463",
+      "166f58b8-5ab0-4267-9e8f-b78320b5d0ef",
+      "48bbc5ee-2377-41a5-b8c5-22de29b4f8d2",
+      "acde6cc1-7a89-4859-be14-c1816afaa66c",
+      "045f26ce-c1f1-4c6b-956a-7e4cc7b79215",
+      "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+      "2727328b-14b8-45ef-903c-50d3f85eac87"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156237157,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "f6070802-3799-4969-b4ef-fb498179d5be",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213858718,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Vendoring"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 30,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213841278,
+        "id": "d76937cc-e2bd-4152-9a40-a324b80b9d88",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213849088,
+        "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 287"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 287"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213843398,
+        "id": "97d83374-8e1b-4e01-ac84-5d1f665f57b2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213847991,
+        "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 978"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 978"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213844974,
+        "id": "29ab2aec-daca-4a1f-be48-35be091626dd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213845383,
+        "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156237156,
+        "id": "314b8c37-9e80-4c5e-b941-92382a0c6645",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156237156,
+        "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Remarks"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Remarks"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156237156,
+        "id": "c3397f0a-69c3-4a0f-82e2-80942982ed62",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156237156,
+        "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Vendoring is a method of ensuring that all of your 3rd party packages that you use in your Go project are consistent for everyone who develops for your application."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Vendoring is a method of ensuring that all of your 3rd party packages that you use in your Go project are consistent for everyone who develops for your application."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156237157,
+        "id": "730a2eb8-a00c-4b93-85a9-677080546463",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156237157,
+        "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When your Go package imports another package, the compiler normally checks "
+            ],
+            [
+              "$GOPATH/src/",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " for the path of the imported project. However if your package contains a folder named "
+            ],
+            [
+              "vendor",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", the compiler will check in that folder "
+            ],
+            [
+              "first",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              ". This means that you can import other parties packages inside your own code repository, without having to modify their code."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When your Go package imports another package, the compiler normally checks "
+          },
+          {
+            "Text": "$GOPATH/src/",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " for the path of the imported project. However if your package contains a folder named "
+          },
+          {
+            "Text": "vendor",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", the compiler will check in that folder "
+          },
+          {
+            "Text": "first",
+            "AttrFlags": 4
+          },
+          {
+            "Text": ". This means that you can import other parties packages inside your own code repository, without having to modify their code."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156237157,
+        "id": "166f58b8-5ab0-4267-9e8f-b78320b5d0ef",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213857199,
+        "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Vendoring is a standard feature in Go 1.6 and up. In Go 1.5, you need to set the environment variable of "
+            ],
+            [
+              "GO15VENDOREXPERIMENT=1",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to enable vendoring."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 6,
+        "inline_content": [
+          {
+            "Text": "Vendoring is a standard feature in Go 1.6 and up. In Go 1.5, you need to set the environment variable of "
+          },
+          {
+            "Text": "GO15VENDOREXPERIMENT=1",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to enable vendoring."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213858718,
+        "id": "48bbc5ee-2377-41a5-b8c5-22de29b4f8d2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213858718,
+        "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156238165,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213936288,
+        "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Use govendor to add external packages"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Use govendor to add external packages",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156239354,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "045f26ce-c1f1-4c6b-956a-7e4cc7b79215",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213961799,
+        "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using trash to manage ./vendor"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Using trash to manage ./vendor",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156240218,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213992222,
+        "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              " Use golang/dep"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": " Use golang/dep",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156241201,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "2727328b-14b8-45ef-903c-50d3f85eac87",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214044607,
+        "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "vendor.json using Govendor tool"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 20,
+        "title": "vendor.json using Govendor tool",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Vendoring",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

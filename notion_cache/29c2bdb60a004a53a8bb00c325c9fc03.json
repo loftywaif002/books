@@ -1,0 +1,500 @@
+{
+  "ID": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+  "Page": {
+    "alive": true,
+    "content": [
+      "c73c7c36-1623-488c-bb30-e713fadce682",
+      "d7d032d5-3366-43ac-914d-91fcfa3f9d13",
+      "42316694-be5b-495a-8224-92692f85528a",
+      "47169025-aa0c-476e-9fee-6589b2accd2d",
+      "948639ec-d072-4516-a32a-3c404fafeda9",
+      "f5c9c098-decc-40f3-b840-7ddaa38c20f2",
+      "8ec877c1-ba4b-443d-a4f0-fda9f510950f",
+      "15c82002-ce80-4a9b-9368-8d4e86b29ad9",
+      "ac7b8db0-ef31-4eb8-a837-1ae03a4b8d54",
+      "36434f71-7653-494a-a8b1-94de2d90aee3",
+      "b2d45d9d-9fe7-4e10-b7a6-36acfe38f60b",
+      "238d0c5e-b275-446b-a52a-584717bcaced",
+      "4c79de99-0d61-47b2-8301-8b7dcfcc7ebe",
+      "5ca0ea09-6d84-49b4-89e7-e049f03f87e2"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155930169,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532233238567,
+    "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Characters and runes"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532160351238,
+        "id": "c73c7c36-1623-488c-bb30-e713fadce682",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233239420,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Search: char, rune"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Search: char, rune"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532160356583,
+        "id": "d7d032d5-3366-43ac-914d-91fcfa3f9d13",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233240207,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 16"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 16"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532160358929,
+        "id": "42316694-be5b-495a-8224-92692f85528a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233240938,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 9010002e"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 9010002e"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532160361061,
+        "id": "47169025-aa0c-476e-9fee-6589b2accd2d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532160361073,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155930165,
+        "id": "948639ec-d072-4516-a32a-3c404fafeda9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155930165,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go has 2 types of characters:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go has 2 types of characters:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155930166,
+        "id": "f5c9c098-decc-40f3-b840-7ddaa38c20f2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155930166,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "byte",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a 1 byte value, an alias for "
+            ],
+            [
+              "uint8",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " type"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "byte",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a 1 byte value, an alias for "
+          },
+          {
+            "Text": "uint8",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " type"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155930167,
+        "id": "8ec877c1-ba4b-443d-a4f0-fda9f510950f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155930167,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "rune",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a 4 byte Unicode code-point, an alias for "
+            ],
+            [
+              "int32",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " type"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "rune",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a 4 byte Unicode code-point, an alias for "
+          },
+          {
+            "Text": "int32",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " type"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155930168,
+        "id": "15c82002-ce80-4a9b-9368-8d4e86b29ad9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233252563,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of a "
+            ],
+            [
+              "byte",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "rune",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is 0."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of a "
+          },
+          {
+            "Text": "byte",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "rune",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is 0."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155930168,
+        "id": "ac7b8db0-ef31-4eb8-a837-1ae03a4b8d54",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155930168,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Iterate over string using bytes"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Iterate over string using bytes"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155930168,
+        "id": "36434f71-7653-494a-a8b1-94de2d90aee3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155930168,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file characters.go output sha1:3da66fb5895a3e079aae5bc307daa026bc933ce1 goplayground:9JMcrAOALyg"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file characters.go output sha1:3da66fb5895a3e079aae5bc307daa026bc933ce1 goplayground:9JMcrAOALyg"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155930168,
+        "id": "b2d45d9d-9fe7-4e10-b7a6-36acfe38f60b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155930168,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Iterate over string using runes"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Iterate over string using runes"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155930168,
+        "id": "238d0c5e-b275-446b-a52a-584717bcaced",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155930168,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file characters-2.go output sha1:86731d891f071d94c0ad19802423f4265473df70 goplayground:qLPCaibSrZC"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file characters-2.go output sha1:86731d891f071d94c0ad19802423f4265473df70 goplayground:qLPCaibSrZC"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155930168,
+        "id": "4c79de99-0d61-47b2-8301-8b7dcfcc7ebe",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155930168,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Note: When iterating over runes, the index will be the offset within the string where the rune begins, rather than the index of the rune itself."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Note: When iterating over runes, the index will be the offset within the string where the rune begins, rather than the index of the rune itself."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532160371796,
+        "id": "5ca0ea09-6d84-49b4-89e7-e049f03f87e2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532160371796,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Characters and runes",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

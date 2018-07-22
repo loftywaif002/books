@@ -1,0 +1,297 @@
+{
+  "ID": "e177cb31-9729-4817-8031-4bfc62f7f565",
+  "Page": {
+    "alive": true,
+    "content": [
+      "252a7815-2a74-4517-980e-022678dd90d1",
+      "6a7bbb87-36c8-48ea-a0b5-e56e11e3edb4",
+      "b968ebf2-f1ec-4ef5-9f60-1a6a85f9cdc8",
+      "b6df0c35-a67d-4990-94f3-ad0cdcabfa30",
+      "ca1422b0-0e6d-4441-9689-a7a3faac5c0d",
+      "18e75490-ce3c-437f-bccf-f58613553d2d",
+      "5df54cb5-9353-4462-84e1-027f25aec43a"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155993120,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "e177cb31-9729-4817-8031-4bfc62f7f565",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235123110,
+    "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Count number of map entries"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196504122,
+        "id": "252a7815-2a74-4517-980e-022678dd90d1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235124040,
+        "parent_id": "e177cb31-9729-4817-8031-4bfc62f7f565",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 72"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 72"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196505677,
+        "id": "6a7bbb87-36c8-48ea-a0b5-e56e11e3edb4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235124810,
+        "parent_id": "e177cb31-9729-4817-8031-4bfc62f7f565",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2528"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2528"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196575604,
+        "id": "b968ebf2-f1ec-4ef5-9f60-1a6a85f9cdc8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196575604,
+        "parent_id": "e177cb31-9729-4817-8031-4bfc62f7f565",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196507638,
+        "id": "b6df0c35-a67d-4990-94f3-ad0cdcabfa30",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196508529,
+        "parent_id": "e177cb31-9729-4817-8031-4bfc62f7f565",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              " The built-in function "
+            ],
+            [
+              "len",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/builtin/#len"
+                ]
+              ]
+            ],
+            [
+              " returns the number of elements in a "
+            ],
+            [
+              "map",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": " The built-in function "
+          },
+          {
+            "Text": "len",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/builtin/#len"
+          },
+          {
+            "Text": " returns the number of elements in a "
+          },
+          {
+            "Text": "map",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155993119,
+        "id": "ca1422b0-0e6d-4441-9689-a7a3faac5c0d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196586578,
+        "parent_id": "e177cb31-9729-4817-8031-4bfc62f7f565",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "m := map[string]int{}\nlen(m) // 0\n\nm[\"foo\"] = 1\nlen(m) // 1"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "m := map[string]int{}\nlen(m) // 0\n\nm[\"foo\"] = 1\nlen(m) // 1",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155993119,
+        "id": "18e75490-ce3c-437f-bccf-f58613553d2d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155993119,
+        "parent_id": "e177cb31-9729-4817-8031-4bfc62f7f565",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If a variable points to a "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " map, then "
+            ],
+            [
+              "len",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " returns 0."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If a variable points to a "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " map, then "
+          },
+          {
+            "Text": "len",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " returns 0."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155993120,
+        "id": "5df54cb5-9353-4462-84e1-027f25aec43a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196588603,
+        "parent_id": "e177cb31-9729-4817-8031-4bfc62f7f565",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var m map[string]int\nlen(m) // 0"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var m map[string]int\nlen(m) // 0",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Count number of map entries",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

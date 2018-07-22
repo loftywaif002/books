@@ -1,0 +1,302 @@
+{
+  "ID": "35da4ddc-825b-498d-9067-c969effc299b",
+  "Page": {
+    "alive": true,
+    "content": [
+      "976b3fa0-275d-4174-ae75-1823008d2eba",
+      "4958a64a-b5cb-498d-a3cd-0e8abdd48ff0",
+      "474b7a29-5ae5-4edc-82aa-166106c87ffa",
+      "72a974ca-b766-42dd-bdf8-b823d7aabb6d",
+      "f51e0379-bb8d-4f1a-82fc-a10ee89e395d",
+      "f5472ecd-9016-440e-a6bd-71d859028f43",
+      "77ebddf6-8ad1-433a-ab67-a3cc84e8152a",
+      "9854fcf1-d51c-406d-9b4f-6ca5d1d46f16"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156067207,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "35da4ddc-825b-498d-9067-c969effc299b",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236561256,
+    "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Using range to read from a channel"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205805668,
+        "id": "976b3fa0-275d-4174-ae75-1823008d2eba",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236562156,
+        "parent_id": "35da4ddc-825b-498d-9067-c969effc299b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 142"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 142"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205807777,
+        "id": "4958a64a-b5cb-498d-a3cd-0e8abdd48ff0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236563264,
+        "parent_id": "35da4ddc-825b-498d-9067-c969effc299b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4134"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4134"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205810609,
+        "id": "474b7a29-5ae5-4edc-82aa-166106c87ffa",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205810609,
+        "parent_id": "35da4ddc-825b-498d-9067-c969effc299b",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205809296,
+        "id": "72a974ca-b766-42dd-bdf8-b823d7aabb6d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205810348,
+        "parent_id": "35da4ddc-825b-498d-9067-c969effc299b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When reading multiple values from a channel, using "
+            ],
+            [
+              "range",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a common pattern:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "When reading multiple values from a channel, using "
+          },
+          {
+            "Text": "range",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a common pattern:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156067205,
+        "id": "f51e0379-bb8d-4f1a-82fc-a10ee89e395d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156067205,
+        "parent_id": "35da4ddc-825b-498d-9067-c969effc299b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file range.go output sha1:19ae0b16e02794c207b8cd340299840413d5c499 goplayground:kM-SL7aRwXM"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file range.go output sha1:19ae0b16e02794c207b8cd340299840413d5c499 goplayground:kM-SL7aRwXM"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156067205,
+        "id": "f5472ecd-9016-440e-a6bd-71d859028f43",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156067205,
+        "parent_id": "35da4ddc-825b-498d-9067-c969effc299b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using a "
+            ],
+            [
+              "for range",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " loop is one of three ways to read values from a channel."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Using a "
+          },
+          {
+            "Text": "for range",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " loop is one of three ways to read values from a channel."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156067206,
+        "id": "77ebddf6-8ad1-433a-ab67-a3cc84e8152a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156067206,
+        "parent_id": "35da4ddc-825b-498d-9067-c969effc299b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The loop ends when the channel is closed."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The loop ends when the channel is closed."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156067207,
+        "id": "9854fcf1-d51c-406d-9b4f-6ca5d1d46f16",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156067207,
+        "parent_id": "35da4ddc-825b-498d-9067-c969effc299b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is a common pattern when using worker pool: * create a single channel for all workers * launch workers * workers use "
+            ],
+            [
+              "for v := range chan",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to pick up jobs to process * after enquing all jobs, close the channel so that worker goroutines end when they process all jobs from a channel"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is a common pattern when using worker pool: * create a single channel for all workers * launch workers * workers use "
+          },
+          {
+            "Text": "for v := range chan",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to pick up jobs to process * after enquing all jobs, close the channel so that worker goroutines end when they process all jobs from a channel"
+          }
+        ]
+      }
+    ],
+    "title": "Using range to read from a channel",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

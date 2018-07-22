@@ -1,0 +1,523 @@
+{
+  "ID": "7df87500-f405-4270-9aa7-c471f0cd6679",
+  "Page": {
+    "alive": true,
+    "content": [
+      "f704227e-3d43-4e58-bdd1-1552656fc576",
+      "a9399cc2-a878-405d-b035-72b8e3b1d977",
+      "c9a18c75-d9b5-4fb2-b258-a3b2a3149fa6",
+      "a23554c2-539d-484c-9617-8ca27c7aa6ea",
+      "f21e7f3c-5a45-4ab7-a798-e31e21c76492",
+      "d3f128d7-8782-4e74-8236-ff2cea561727",
+      "379fed3f-cad5-4a72-98e0-79151d7ec586",
+      "c5958382-ae43-415b-8fa9-546176dd0243",
+      "e2de0863-511c-495c-85a9-0a1aa75a6470",
+      "da068a9c-14a2-4a35-803f-3c12c88434e0",
+      "7923e7c1-fbf7-4a08-9544-915f069aaf3d",
+      "aff9c561-bf72-4f62-8aa9-a38a15bff460",
+      "f363d166-89b0-416b-bee3-ce13a46c0cc2",
+      "5e0b511f-4e47-462c-9634-648d663c3c75",
+      "06e72d6a-b8d0-43eb-864a-86ab928da57f",
+      "5f458b95-56ad-4a51-aa73-fda92bb10272",
+      "d24359fb-b90b-4c85-b34d-20659e708ffa",
+      "1521a922-1487-47ce-855a-b3e86e7dd90f",
+      "3b680ea6-c406-40d9-8c25-2623fa0606ee"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155979182,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532302788042,
+    "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Create a slice"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 104,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196060517,
+        "id": "f704227e-3d43-4e58-bdd1-1552656fc576",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234727327,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 60"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 60"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196062007,
+        "id": "a9399cc2-a878-405d-b035-72b8e3b1d977",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234728256,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4807"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4807"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302011548,
+        "id": "c9a18c75-d9b5-4fb2-b258-a3b2a3149fa6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302011548,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302001382,
+        "id": "a23554c2-539d-484c-9617-8ca27c7aa6ea",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302092418,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Most of the time you don't have to explicitly create a slice. Zero value of a slice is "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "append",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " works with that:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 474,
+        "inline_content": [
+          {
+            "Text": "Most of the time you don't have to explicitly create a slice. Zero value of a slice is "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "append",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " works with that:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302092625,
+        "id": "f21e7f3c-5a45-4ab7-a798-e31e21c76492",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302295636,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var a []int\nfmt.Printf(\"a is %#v\\n\", a)\na = append(a, 3)\nfmt.Printf(\"a is %#v\\n\", a)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 206,
+        "code": "var a []int\nfmt.Printf(\"a is %#v\\n\", a)\na = append(a, 3)\nfmt.Printf(\"a is %#v\\n\", a)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302146952,
+        "id": "d3f128d7-8782-4e74-8236-ff2cea561727",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302146952,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302142711,
+        "id": "379fed3f-cad5-4a72-98e0-79151d7ec586",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302343944,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "There are 2 ways to create an empty slice:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 168,
+        "inline_content": [
+          {
+            "Text": "There are 2 ways to create an empty slice:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302178144,
+        "id": "c5958382-ae43-415b-8fa9-546176dd0243",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302486824,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var nilSlice []bool\nempty1 := []bool{}\nempty2 := make([]bool{})\nfmt.Printf(\"nilSlice is %#v\\n\", nilSlice)\n// empty slice is different than nil slice\nfmt.Printf(\"empty1 is %#v\\n\", empty1)\nfmt.Printf(\"empty2 is %#v\\n\", empty2)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 645,
+        "code": "var nilSlice []bool\nempty1 := []bool{}\nempty2 := make([]bool{})\nfmt.Printf(\"nilSlice is %#v\\n\", nilSlice)\n// empty slice is different than nil slice\nfmt.Printf(\"empty1 is %#v\\n\", empty1)\nfmt.Printf(\"empty2 is %#v\\n\", empty2)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302362826,
+        "id": "e2de0863-511c-495c-85a9-0a1aa75a6470",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302464017,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Empty slice is different than "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " slice."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 6,
+        "inline_content": [
+          {
+            "Text": "Empty slice is different than "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " slice."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302496272,
+        "id": "da068a9c-14a2-4a35-803f-3c12c88434e0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302496272,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302458273,
+        "id": "7923e7c1-fbf7-4a08-9544-915f069aaf3d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302515591,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Create statically pre-allocated slice:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 102,
+        "inline_content": [
+          {
+            "Text": "Create statically pre-allocated slice:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302515782,
+        "id": "aff9c561-bf72-4f62-8aa9-a38a15bff460",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302553225,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "a := []int{3, 1, 4, 1}\nfmt.Printf(\"a has %d elements\\n\", len(a)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 156,
+        "code": "a := []int{3, 1, 4, 1}\nfmt.Printf(\"a has %d elements\\n\", len(a)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302570440,
+        "id": "f363d166-89b0-416b-bee3-ce13a46c0cc2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302570440,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196063664,
+        "id": "5e0b511f-4e47-462c-9634-648d663c3c75",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302593969,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Pre-allocate slice filled with zero values:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 165,
+        "inline_content": [
+          {
+            "Text": "Pre-allocate slice filled with zero values:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302594152,
+        "id": "06e72d6a-b8d0-43eb-864a-86ab928da57f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302612514,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "a := make([]string, 4)\nfmt.Printf(\"a has %d elements\\n\", len(a))"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 146,
+        "code": "a := make([]string, 4)\nfmt.Printf(\"a has %d elements\\n\", len(a))",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302622742,
+        "id": "5f458b95-56ad-4a51-aa73-fda92bb10272",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302622742,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302622088,
+        "id": "d24359fb-b90b-4c85-b34d-20659e708ffa",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302717204,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you know the expected size of the slice, you can pre-allocate space for its content, which helps performance:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 352,
+        "inline_content": [
+          {
+            "Text": "If you know the expected size of the slice, you can pre-allocate space for its content, which helps performance:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302717379,
+        "id": "1521a922-1487-47ce-855a-b3e86e7dd90f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302767971,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "n := 30\na := make([]int, 0, n)\nfmt.Printf(\"a has lenght %d and capacity %d\\n\", len(a), cap(a))\nfor i := 0; i \u003c n; i++ {\n\ta = append(a, i)\n}\nfmt.Printf(\"a has lenght %d and capacity %d\\n\", len(a), cap(a))"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 344,
+        "code": "n := 30\na := make([]int, 0, n)\nfmt.Printf(\"a has lenght %d and capacity %d\\n\", len(a), cap(a))\nfor i := 0; i \u003c n; i++ {\n\ta = append(a, i)\n}\nfmt.Printf(\"a has lenght %d and capacity %d\\n\", len(a), cap(a))",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532302621387,
+        "id": "3b680ea6-c406-40d9-8c25-2623fa0606ee",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532302621387,
+        "parent_id": "7df87500-f405-4270-9aa7-c471f0cd6679",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Create a slice",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

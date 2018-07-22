@@ -1,0 +1,314 @@
+{
+  "ID": "5a5cc8a0-8ed0-4702-8224-b65b25a8f5b9",
+  "Page": {
+    "alive": true,
+    "content": [
+      "a69de2a9-72f2-4036-8c5d-ffd4960d9c69",
+      "78169624-ada8-40b8-a03d-0172d49e64b3",
+      "ad9d1c9f-7e1e-45c7-b503-ad48375cdaaa",
+      "6d63b1ca-0960-489c-9fcb-e3bd527caf67",
+      "86a6679e-2c00-498c-a858-6e9b2052447d",
+      "58a44b05-f578-40cc-b901-614fec0f76f0",
+      "fcad84ff-48eb-4dc6-ba5e-5480849d0cfa",
+      "b059e998-a821-4609-ac4f-4c001d66be09",
+      "1a57ee80-43e3-4fea-839e-28e556765767"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156263148,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "5a5cc8a0-8ed0-4702-8224-b65b25a8f5b9",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532214874438,
+    "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Creating a token using a custom claims type"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 30,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214855482,
+        "id": "a69de2a9-72f2-4036-8c5d-ffd4960d9c69",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214867245,
+        "parent_id": "5a5cc8a0-8ed0-4702-8224-b65b25a8f5b9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 310"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 310"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214857628,
+        "id": "78169624-ada8-40b8-a03d-0172d49e64b3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214866660,
+        "parent_id": "5a5cc8a0-8ed0-4702-8224-b65b25a8f5b9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214859187,
+        "id": "ad9d1c9f-7e1e-45c7-b503-ad48375cdaaa",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214865926,
+        "parent_id": "5a5cc8a0-8ed0-4702-8224-b65b25a8f5b9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 31137"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 31137"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214865164,
+        "id": "6d63b1ca-0960-489c-9fcb-e3bd527caf67",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214865164,
+        "parent_id": "5a5cc8a0-8ed0-4702-8224-b65b25a8f5b9",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214860716,
+        "id": "86a6679e-2c00-498c-a858-6e9b2052447d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214861661,
+        "parent_id": "5a5cc8a0-8ed0-4702-8224-b65b25a8f5b9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The "
+            ],
+            [
+              "StandardClaim",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is embedded in the custom type to allow for easy encoding, parsing and validation of standard claims."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "The "
+          },
+          {
+            "Text": "StandardClaim",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is embedded in the custom type to allow for easy encoding, parsing and validation of standard claims."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156263143,
+        "id": "58a44b05-f578-40cc-b901-614fec0f76f0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214878585,
+        "parent_id": "5a5cc8a0-8ed0-4702-8224-b65b25a8f5b9",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "tokenString := \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmb28iOiJiYXIiLCJleHAiOjE1MDAwLCJpc3MiOiJ0ZXN0In0.HE7fK0xOQwFEr4WDgRWj4teRPZ6i3GLwD5YCm6Pwu_c\"\n\ntype MyCustomClaims struct {\n    Foo string `json:\"foo\"`\n    jwt.StandardClaims\n}\n\n// sample token is expired.  override time so it parses as valid\nat(time.Unix(0, 0), func() {\n    token, err := jwt.ParseWithClaims(tokenString, \u0026MyCustomClaims{}, func(token *jwt.Token) (interface{}, error) {\n        return []byte(\"AllYourBase\"), nil\n    })\n\n    if claims, ok := token.Claims.(*MyCustomClaims); ok \u0026\u0026 token.Valid {\n        fmt.Printf(\"%v %v\", claims.Foo, claims.StandardClaims.ExpiresAt)\n    } else {\n        fmt.Println(err)\n    }\n})"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "tokenString := \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmb28iOiJiYXIiLCJleHAiOjE1MDAwLCJpc3MiOiJ0ZXN0In0.HE7fK0xOQwFEr4WDgRWj4teRPZ6i3GLwD5YCm6Pwu_c\"\n\ntype MyCustomClaims struct {\n    Foo string `json:\"foo\"`\n    jwt.StandardClaims\n}\n\n// sample token is expired.  override time so it parses as valid\nat(time.Unix(0, 0), func() {\n    token, err := jwt.ParseWithClaims(tokenString, \u0026MyCustomClaims{}, func(token *jwt.Token) (interface{}, error) {\n        return []byte(\"AllYourBase\"), nil\n    })\n\n    if claims, ok := token.Claims.(*MyCustomClaims); ok \u0026\u0026 token.Valid {\n        fmt.Printf(\"%v %v\", claims.Foo, claims.StandardClaims.ExpiresAt)\n    } else {\n        fmt.Println(err)\n    }\n})",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156263143,
+        "id": "fcad84ff-48eb-4dc6-ba5e-5480849d0cfa",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156263143,
+        "parent_id": "5a5cc8a0-8ed0-4702-8224-b65b25a8f5b9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Output:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Output:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156263143,
+        "id": "b059e998-a821-4609-ac4f-4c001d66be09",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156263143,
+        "parent_id": "5a5cc8a0-8ed0-4702-8224-b65b25a8f5b9",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "bar 15000"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "bar 15000",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156263148,
+        "id": "1a57ee80-43e3-4fea-839e-28e556765767",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156263148,
+        "parent_id": "5a5cc8a0-8ed0-4702-8224-b65b25a8f5b9",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "(From the "
+            ],
+            [
+              "documentation",
+              [
+                [
+                  "a",
+                  "https://godoc.org/github.com/dgrijalva/jwt-go#ex-ParseWithClaims--CustomClaimsType"
+                ]
+              ]
+            ],
+            [
+              ", courtesy of Dave Grijalva.)"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "(From the "
+          },
+          {
+            "Text": "documentation",
+            "Link": "https://godoc.org/github.com/dgrijalva/jwt-go#ex-ParseWithClaims--CustomClaimsType"
+          },
+          {
+            "Text": ", courtesy of Dave Grijalva.)"
+          }
+        ]
+      }
+    ],
+    "title": "Creating a token using a custom claims type",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

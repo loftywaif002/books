@@ -1,0 +1,883 @@
+{
+  "ID": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+  "Page": {
+    "alive": true,
+    "content": [
+      "7c78e331-a7e5-4dbf-8efd-a18da30edb31",
+      "2993c2e3-fec9-42f4-94ab-16e612f6a289",
+      "5524991f-0537-4778-8e51-345086cb74f0",
+      "e62d9b21-b14d-476a-9f2a-0f44e1f45375",
+      "e063e057-2224-410f-a9ab-9547dd10e7dd",
+      "9dbdd574-ab4f-4eda-88fb-78f97d13444e",
+      "a5d7cd65-6def-4d03-ad9c-4284486f2039",
+      "c0b154a8-5635-41f5-ba96-96c04eefdd32",
+      "040e002b-f047-411d-8b68-728afa352438",
+      "8e81a199-6839-4155-985d-6f159ab301ba",
+      "7b98b7e1-e73b-4bc2-9c57-1b3e4d91ebe4",
+      "306c2295-a17a-41d6-8591-8b941695babc",
+      "6477bdd3-6eba-42af-9d06-4f7f5d1a0295",
+      "9c36d19e-6b24-4475-828b-01136fe4ba6d",
+      "0037c57a-f6ab-461d-92e2-d65b444e3860",
+      "8dcc55d8-8870-4d07-a07f-4f179a25f7ff",
+      "e02d8165-1728-4a74-8baa-73fd14efa9c5",
+      "b3617dee-1c06-4016-8303-7d8408e76a5f",
+      "78f362ef-46d2-4765-b278-a8d4f57adb53",
+      "af00caf1-6a5b-49ee-bd8e-56cf06dedfdf",
+      "62989b60-2f7a-4d97-969d-c3cd91575e99",
+      "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+      "b27d6090-8694-4d93-afea-ae189107edcc",
+      "22e433ac-5fbb-4236-b5de-e9066d4f0b12"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156044171,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236063986,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Error handling"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 30,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204986556,
+        "id": "7c78e331-a7e5-4dbf-8efd-a18da30edb31",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236065206,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 120"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 120"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204988291,
+        "id": "2993c2e3-fec9-42f4-94ab-16e612f6a289",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236065917,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 785"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 785"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204991938,
+        "id": "5524991f-0537-4778-8e51-345086cb74f0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532204991938,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204990311,
+        "id": "e62d9b21-b14d-476a-9f2a-0f44e1f45375",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532204991678,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Basic error handling:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Basic error handling:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156044167,
+        "id": "e063e057-2224-410f-a9ab-9547dd10e7dd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156044167,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index.go output sha1:9c8715b3eb9ca0804554ce63dd9547adf96d3515 goplayground:kwfvcaObxRJ"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index.go output sha1:9c8715b3eb9ca0804554ce63dd9547adf96d3515 goplayground:kwfvcaObxRJ"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156044167,
+        "id": "9dbdd574-ab4f-4eda-88fb-78f97d13444e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156044167,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Important notes about error handling:",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Important notes about error handling:",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156044167,
+        "id": "a5d7cd65-6def-4d03-ad9c-4284486f2039",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156044167,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Unlike languages like C# or Python, Go handles errors by returning error values, not raising exceptions."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Unlike languages like C# or Python, Go handles errors by returning error values, not raising exceptions."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156044168,
+        "id": "c0b154a8-5635-41f5-ba96-96c04eefdd32",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156044168,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go also includes exception handling with "
+            ],
+            [
+              "panic and recover",
+              [
+                [
+                  "a",
+                  "131"
+                ]
+              ]
+            ],
+            [
+              " but it’s not supposed to be used frequently."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go also includes exception handling with "
+          },
+          {
+            "Text": "panic and recover",
+            "Link": "131"
+          },
+          {
+            "Text": " but it’s not supposed to be used frequently."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156044168,
+        "id": "040e002b-f047-411d-8b68-728afa352438",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156044168,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Errors are values, just like integers or string."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Errors are values, just like integers or string."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156044168,
+        "id": "8e81a199-6839-4155-985d-6f159ab301ba",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156044168,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Type "
+            ],
+            [
+              "error",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a built-in "
+            ],
+            [
+              "interface",
+              [
+                [
+                  "a",
+                  "90"
+                ]
+              ]
+            ],
+            [
+              " which implements "
+            ],
+            [
+              "Error() string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " method."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Type "
+          },
+          {
+            "Text": "error",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a built-in "
+          },
+          {
+            "Text": "interface",
+            "Link": "90"
+          },
+          {
+            "Text": " which implements "
+          },
+          {
+            "Text": "Error() string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " method."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156044169,
+        "id": "7b98b7e1-e73b-4bc2-9c57-1b3e4d91ebe4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156044169,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can use your own types as "
+            ],
+            [
+              "error",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " values by implementing "
+            ],
+            [
+              "Error() string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " method or you can use "
+            ],
+            [
+              "errors.New(msg string)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "fmt.Errorf(format string, args... interface{})",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " from standard library."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can use your own types as "
+          },
+          {
+            "Text": "error",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " values by implementing "
+          },
+          {
+            "Text": "Error() string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " method or you can use "
+          },
+          {
+            "Text": "errors.New(msg string)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "fmt.Errorf(format string, args... interface{})",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " from standard library."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156044169,
+        "id": "306c2295-a17a-41d6-8591-8b941695babc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156044169,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To indicate no errors, return "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To indicate no errors, return "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156044170,
+        "id": "6477bdd3-6eba-42af-9d06-4f7f5d1a0295",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156044170,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If a function returns errors, it should always be the last returned value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If a function returns errors, it should always be the last returned value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156044171,
+        "id": "9c36d19e-6b24-4475-828b-01136fe4ba6d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156044171,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Often you want to propagate error value up to the caller until a point in your code where you want to handle it."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Often you want to propagate error value up to the caller until a point in your code where you want to handle it."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156044171,
+        "id": "0037c57a-f6ab-461d-92e2-d65b444e3860",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156044171,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You should always check for errors.",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You should always check for errors.",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156044171,
+        "id": "8dcc55d8-8870-4d07-a07f-4f179a25f7ff",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156044171,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can often see people asking on mailing lists or StackOverflow why their code doesn’t and it would be obvious if the code didn’t skip error checking."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can often see people asking on mailing lists or StackOverflow why their code doesn’t and it would be obvious if the code didn’t skip error checking."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204971848,
+        "id": "e02d8165-1728-4a74-8baa-73fd14efa9c5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532204971848,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156045159,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236078897,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Creating errors"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Creating errors",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156046117,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236095374,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Create custom error type"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Create custom error type",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156047207,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "af00caf1-6a5b-49ee-bd8e-56cf06dedfdf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236102744,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Returning an error"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Returning an error",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156048596,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "62989b60-2f7a-4d97-969d-c3cd91575e99",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236110011,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Handling an error"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Handling an error",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156050153,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236116436,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Handling errors in short programs"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Handling errors in short programs",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156051170,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "b27d6090-8694-4d93-afea-ae189107edcc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236125012,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Add callstack to error messages"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Add callstack to error messages",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156052551,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236132732,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Good practices for error messages"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Good practices for error messages",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Error handling",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

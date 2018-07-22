@@ -1,0 +1,356 @@
+{
+  "ID": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
+  "Page": {
+    "alive": true,
+    "content": [
+      "8e19221f-b7f0-4343-b3aa-2590072716af",
+      "579143c7-5721-47b6-aef1-057a7b68fe5a",
+      "5378bc85-6bcd-4355-a0a6-d5d74fbc7add",
+      "0f2f8bb9-11a7-43f5-8dbc-9bdc352f5146",
+      "a194cea3-b049-4050-9060-42f10438d4e8",
+      "01d98060-b4a8-4c14-be7c-91d69f39a3fb",
+      "4cf6b828-4203-4d78-8e61-d87260b979b0",
+      "c814c9bf-ca34-496d-9ac8-1d5cbabd8dba",
+      "cbe3d26b-3d28-4393-8ec2-de473ebdf1ab",
+      "48684e4b-6b63-41b1-afa3-bfb4977cee0b"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155931155,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532233274742,
+    "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Strings"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194380734,
+        "id": "8e19221f-b7f0-4343-b3aa-2590072716af",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233263543,
+        "parent_id": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 17"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 17"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194383188,
+        "id": "579143c7-5721-47b6-aef1-057a7b68fe5a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233264304,
+        "parent_id": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: rd6000k1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: rd6000k1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194387095,
+        "id": "5378bc85-6bcd-4355-a0a6-d5d74fbc7add",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194387095,
+        "parent_id": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155931154,
+        "id": "0f2f8bb9-11a7-43f5-8dbc-9bdc352f5146",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155931154,
+        "parent_id": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "String in Go is an immutable sequence of bytes (8-bit "
+            ],
+            [
+              "byte",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " values)"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "String in Go is an immutable sequence of bytes (8-bit "
+          },
+          {
+            "Text": "byte",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " values)"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155931154,
+        "id": "a194cea3-b049-4050-9060-42f10438d4e8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155931154,
+        "parent_id": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is different than languages like Python, C#, Java or Swift where strings are Unicode."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is different than languages like Python, C#, Java or Swift where strings are Unicode."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155931155,
+        "id": "01d98060-b4a8-4c14-be7c-91d69f39a3fb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233273949,
+        "parent_id": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of a "
+            ],
+            [
+              "string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " type is an empty string."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of a "
+          },
+          {
+            "Text": "string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " type is an empty string."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155931155,
+        "id": "4cf6b828-4203-4d78-8e61-d87260b979b0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155931155,
+        "parent_id": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Basic string usage:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Basic string usage:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155931155,
+        "id": "c814c9bf-ca34-496d-9ac8-1d5cbabd8dba",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155931155,
+        "parent_id": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file strings.go output sha1:91eac3e77ac970a27ff925b024315c74e8623ef6 goplayground:4dk4tTa9LPi"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file strings.go output sha1:91eac3e77ac970a27ff925b024315c74e8623ef6 goplayground:4dk4tTa9LPi"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155931155,
+        "id": "cbe3d26b-3d28-4393-8ec2-de473ebdf1ab",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233330380,
+        "parent_id": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Learn more about "
+            ],
+            [
+              "strings",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Strings-ccc8d06958ae44319b21f9973716e3ca"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Learn more about "
+          },
+          {
+            "Text": "strings",
+            "Link": "https://www.notion.so/kjkpublic/Strings-ccc8d06958ae44319b21f9973716e3ca"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532233274742,
+        "id": "48684e4b-6b63-41b1-afa3-bfb4977cee0b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233274742,
+        "parent_id": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Strings",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,356 @@
+{
+  "ID": "46a94c1d-bb58-405b-930f-a83d3e6e0d89",
+  "Page": {
+    "alive": true,
+    "content": [
+      "721d471d-2c27-437e-89e4-ee6eb4d138a6",
+      "a08d3ee9-fffb-44a5-90f2-b5d5ed45f42f",
+      "7bddb764-eb31-4d18-8b24-b3b42260358f",
+      "e68728bc-bae8-4220-931c-fd91fa87d606",
+      "807853a7-94ac-4d76-9822-4f1dfeabb4fb",
+      "6579da24-051c-4e17-ad17-7cd97abf2e71",
+      "934ab4c7-c92c-4ee4-963d-a59ee2f5020d",
+      "f5ae1b28-e433-4c18-9025-94b58cc77315",
+      "01c23bac-8c62-40f6-b3d0-c3896b5fa50d",
+      "5b39d074-6e31-4d0e-92e7-85cacc3b2ca5",
+      "f68acb0a-7cb2-42c5-86c9-2b0099b84d96"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156193156,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true,
+      "page_cover_position": 0.1
+    },
+    "id": "46a94c1d-bb58-405b-930f-a83d3e6e0d89",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532211721219,
+    "parent_id": "b55ab9b1-d6e5-499e-a301-4ba7e85d3efd",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Benchmarks"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 36,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211694039,
+        "id": "721d471d-2c27-437e-89e4-ee6eb4d138a6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211697796,
+        "parent_id": "46a94c1d-bb58-405b-930f-a83d3e6e0d89",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 247"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 247"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211697796,
+        "id": "a08d3ee9-fffb-44a5-90f2-b5d5ed45f42f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211699659,
+        "parent_id": "46a94c1d-bb58-405b-930f-a83d3e6e0d89",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 2"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 2"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211699659,
+        "id": "7bddb764-eb31-4d18-8b24-b3b42260358f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211701602,
+        "parent_id": "46a94c1d-bb58-405b-930f-a83d3e6e0d89",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4040"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4040"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211703260,
+        "id": "e68728bc-bae8-4220-931c-fd91fa87d606",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211703260,
+        "parent_id": "46a94c1d-bb58-405b-930f-a83d3e6e0d89",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211701602,
+        "id": "807853a7-94ac-4d76-9822-4f1dfeabb4fb",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211703014,
+        "parent_id": "46a94c1d-bb58-405b-930f-a83d3e6e0d89",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you want to measure benchmarks add a testing method like this:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "If you want to measure benchmarks add a testing method like this:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156193155,
+        "id": "6579da24-051c-4e17-ad17-7cd97abf2e71",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156193155,
+        "parent_id": "46a94c1d-bb58-405b-930f-a83d3e6e0d89",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "sum.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "sum.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156193155,
+        "id": "934ab4c7-c92c-4ee4-963d-a59ee2f5020d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211678830,
+        "parent_id": "46a94c1d-bb58-405b-930f-a83d3e6e0d89",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package sum\n\n// Sum calculates the sum of two integers\nfunc Sum(a, b int) int {\n    return a + b\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package sum\n\n// Sum calculates the sum of two integers\nfunc Sum(a, b int) int {\n    return a + b\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156193155,
+        "id": "f5ae1b28-e433-4c18-9025-94b58cc77315",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156193155,
+        "parent_id": "46a94c1d-bb58-405b-930f-a83d3e6e0d89",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "sum_test.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "sum_test.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156193156,
+        "id": "01c23bac-8c62-40f6-b3d0-c3896b5fa50d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211682400,
+        "parent_id": "46a94c1d-bb58-405b-930f-a83d3e6e0d89",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package sum\n\nimport \"testing\"\n\nfunc BenchmarkSum(b *testing.B) {\n    for i := 0; i \u003c b.N; i++ {\n        _ = Sum(2, 3)\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package sum\n\nimport \"testing\"\n\nfunc BenchmarkSum(b *testing.B) {\n    for i := 0; i \u003c b.N; i++ {\n        _ = Sum(2, 3)\n    }\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156193156,
+        "id": "5b39d074-6e31-4d0e-92e7-85cacc3b2ca5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156193156,
+        "parent_id": "46a94c1d-bb58-405b-930f-a83d3e6e0d89",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Then in order to run a simple benchmark:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Then in order to run a simple benchmark:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156193156,
+        "id": "f68acb0a-7cb2-42c5-86c9-2b0099b84d96",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211714807,
+        "parent_id": "46a94c1d-bb58-405b-930f-a83d3e6e0d89",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ go test -bench=.\nBenchmarkSum-8    2000000000             0.49 ns/op\nok      so/sum    1.027s"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 5,
+        "code": "$ go test -bench=.\nBenchmarkSum-8    2000000000             0.49 ns/op\nok      so/sum    1.027s",
+        "code_language": "Shell"
+      }
+    ],
+    "title": "Benchmarks",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0.1,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

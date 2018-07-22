@@ -1,0 +1,581 @@
+{
+  "ID": "0614a462-2a97-440e-b89b-c829d59e8d37",
+  "Page": {
+    "alive": true,
+    "content": [
+      "8f82f10b-4bce-48b2-97fc-5032494fa52a",
+      "e581a4a2-c7b6-4eb4-897b-630599daf5fb",
+      "c83e645a-f96b-4b68-8081-eba972860dd0",
+      "e4f508f5-5f1e-4041-a857-67f9d32524bd",
+      "acaae1c5-1df5-461f-a493-f4aa386b475b",
+      "fc362528-004a-4c7e-9f31-0e40de6c9a41",
+      "edb922b7-234b-4c80-863e-0171d6dad3a9",
+      "26bf7630-cf50-4a7e-8aa6-8fcf1e6037ff",
+      "769bc210-2371-402a-b0e3-d3116d7dc1ba",
+      "254f5207-316f-4675-b87a-1e68eae24e14",
+      "26624be1-2797-48f7-ae99-11e33e0ca1a3",
+      "94dbaec7-a280-4513-aa7f-2b8f0a93a862"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156104244,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "0614a462-2a97-440e-b89b-c829d59e8d37",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207296670,
+    "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Timing out process execution"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207282453,
+        "id": "8f82f10b-4bce-48b2-97fc-5032494fa52a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207288453,
+        "parent_id": "0614a462-2a97-440e-b89b-c829d59e8d37",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 177"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 177"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207285877,
+        "id": "e581a4a2-c7b6-4eb4-897b-630599daf5fb",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207290102,
+        "parent_id": "0614a462-2a97-440e-b89b-c829d59e8d37",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3521"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3521"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207290102,
+        "id": "c83e645a-f96b-4b68-8081-eba972860dd0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207290941,
+        "parent_id": "0614a462-2a97-440e-b89b-c829d59e8d37",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156104241,
+        "id": "e4f508f5-5f1e-4041-a857-67f9d32524bd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156104241,
+        "parent_id": "0614a462-2a97-440e-b89b-c829d59e8d37",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "There’s no guarantee that a process will finish running so you might want to add a timeout."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "There’s no guarantee that a process will finish running so you might want to add a timeout."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156104241,
+        "id": "acaae1c5-1df5-461f-a493-f4aa386b475b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156104241,
+        "parent_id": "0614a462-2a97-440e-b89b-c829d59e8d37",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file time_out.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file time_out.go output noplayground"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156104242,
+        "id": "fc362528-004a-4c7e-9f31-0e40de6c9a41",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156104242,
+        "parent_id": "0614a462-2a97-440e-b89b-c829d59e8d37",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Before calling "
+            ],
+            [
+              "cmd.Wait()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " we use "
+            ],
+            [
+              "time.AfterFunc()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to kill the process after a timeout expired."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Before calling "
+          },
+          {
+            "Text": "cmd.Wait()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " we use "
+          },
+          {
+            "Text": "time.AfterFunc()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to kill the process after a timeout expired."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156104242,
+        "id": "edb922b7-234b-4c80-863e-0171d6dad3a9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156104242,
+        "parent_id": "0614a462-2a97-440e-b89b-c829d59e8d37",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "cmd.Process.Kill()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " makes "
+            ],
+            [
+              "cmd.Wait()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " exit with an error ("
+            ],
+            [
+              "signal: killed",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " on Unix)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "cmd.Process.Kill()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " makes "
+          },
+          {
+            "Text": "cmd.Wait()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " exit with an error ("
+          },
+          {
+            "Text": "signal: killed",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " on Unix)."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156104242,
+        "id": "26bf7630-cf50-4a7e-8aa6-8fcf1e6037ff",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156104242,
+        "parent_id": "0614a462-2a97-440e-b89b-c829d59e8d37",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If "
+            ],
+            [
+              "cmd.Wait()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " finishes before a timeout, we cancel the timer."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If "
+          },
+          {
+            "Text": "cmd.Wait()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " finishes before a timeout, we cancel the timer."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156104243,
+        "id": "769bc210-2371-402a-b0e3-d3116d7dc1ba",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156104243,
+        "parent_id": "0614a462-2a97-440e-b89b-c829d59e8d37",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Variable "
+            ],
+            [
+              "timedOut",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is "
+            ],
+            [
+              "int32",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and not "
+            ],
+            [
+              "bool",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Variable "
+          },
+          {
+            "Text": "timedOut",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is "
+          },
+          {
+            "Text": "int32",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and not "
+          },
+          {
+            "Text": "bool",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156104243,
+        "id": "254f5207-316f-4675-b87a-1e68eae24e14",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156104243,
+        "parent_id": "0614a462-2a97-440e-b89b-c829d59e8d37",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We use "
+            ],
+            [
+              "atomic.StoreInt32",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "atomic.LoadInt32",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " because there is a subtle timing issues."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We use "
+          },
+          {
+            "Text": "atomic.StoreInt32",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "atomic.LoadInt32",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " because there is a subtle timing issues."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156104243,
+        "id": "26624be1-2797-48f7-ae99-11e33e0ca1a3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156104243,
+        "parent_id": "0614a462-2a97-440e-b89b-c829d59e8d37",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If a process finishes as usual, after "
+            ],
+            [
+              "cmd.Wait()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " exits and before we call "
+            ],
+            [
+              "stopTimer.Stop()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", the timer might expire and execute the function anyway."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If a process finishes as usual, after "
+          },
+          {
+            "Text": "cmd.Wait()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " exits and before we call "
+          },
+          {
+            "Text": "stopTimer.Stop()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", the timer might expire and execute the function anyway."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156104244,
+        "id": "94dbaec7-a280-4513-aa7f-2b8f0a93a862",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156104244,
+        "parent_id": "0614a462-2a97-440e-b89b-c829d59e8d37",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is exceedingly unlikely but something to keep in mind."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is exceedingly unlikely but something to keep in mind."
+          }
+        ]
+      }
+    ],
+    "title": "Timing out process execution",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

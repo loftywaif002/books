@@ -1,0 +1,594 @@
+{
+  "ID": "eeaf42c1-e477-40c0-a73e-eba560552558",
+  "Page": {
+    "alive": true,
+    "content": [
+      "9ffa5cad-7eaa-467a-a0e2-88f1c2cfe477",
+      "ae061b65-5b6c-4139-8082-97cc7fe0b0eb",
+      "5361ef4b-fa78-4d51-a0dd-4dcd97525ec6",
+      "7b97e7e0-0722-418c-b779-f812907fd9f9",
+      "805105b6-b038-4bab-a2fe-58b6edb129a2",
+      "f77fdb75-4367-4724-aa97-02ed3038fcda",
+      "5e514eb4-6acf-4574-af03-749be32533ba",
+      "845ba4e6-eb66-4c51-8a93-430acfd5b28c",
+      "9d637efc-8192-4688-9896-fdcfaddf7558",
+      "dfc5d335-4db8-421e-8ea0-5d659a94e454",
+      "45f4da8e-9a9f-4370-8492-30b301ff6d6b",
+      "a38d590d-803c-44c4-9782-d78a18a52f30",
+      "aac860cf-ced5-4664-b82f-7e893c1b7cd2",
+      "852d6aed-0777-48b9-a7c2-25fcb20d8dd7",
+      "9c8f3f35-697e-4efe-943c-04b88fe541f6"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156017189,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235554521,
+    "parent_id": "4f5f2959-e72c-431e-9955-27b51ad7fd8e",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Testing Interface Implementation"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197294818,
+        "id": "9ffa5cad-7eaa-467a-a0e2-88f1c2cfe477",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235555225,
+        "parent_id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 93"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 93"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197296924,
+        "id": "ae061b65-5b6c-4139-8082-97cc7fe0b0eb",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235556247,
+        "parent_id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197298800,
+        "id": "5361ef4b-fa78-4d51-a0dd-4dcd97525ec6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235557037,
+        "parent_id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 9653"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 9653"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197301440,
+        "id": "7b97e7e0-0722-418c-b779-f812907fd9f9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197301440,
+        "parent_id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197300329,
+        "id": "805105b6-b038-4bab-a2fe-58b6edb129a2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197301234,
+        "parent_id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go interfaces are satisfied implicitly. You don’t have to declare that a type is supposed to implement a given interface."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "In Go interfaces are satisfied implicitly. You don’t have to declare that a type is supposed to implement a given interface."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156017186,
+        "id": "f77fdb75-4367-4724-aa97-02ed3038fcda",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156017186,
+        "parent_id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It’s convenient but also makes it possible to not fully implement an interface by mistake and compiler has no way of detecting that."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It’s convenient but also makes it possible to not fully implement an interface by mistake and compiler has no way of detecting that."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156017186,
+        "id": "5e514eb4-6acf-4574-af03-749be32533ba",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156017186,
+        "parent_id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "There’s a way to a compile-type check for that:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "There’s a way to a compile-type check for that:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156017186,
+        "id": "845ba4e6-eb66-4c51-8a93-430acfd5b28c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156017186,
+        "parent_id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file verify_type_implements_interface.go output allow_error sha1:f7d4f9350f9cd725e1a6a70adf8b0d14e3f43130 goplayground:eusjQ3VGlm3"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file verify_type_implements_interface.go output allow_error sha1:f7d4f9350f9cd725e1a6a70adf8b0d14e3f43130 goplayground:eusjQ3VGlm3"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156017186,
+        "id": "9d637efc-8192-4688-9896-fdcfaddf7558",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156017186,
+        "parent_id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Our intent was for "
+            ],
+            [
+              "MyReadCloser",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to implement "
+            ],
+            [
+              "io.ReadCloser",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " interface."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Our intent was for "
+          },
+          {
+            "Text": "MyReadCloser",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to implement "
+          },
+          {
+            "Text": "io.ReadCloser",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " interface."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156017187,
+        "id": "dfc5d335-4db8-421e-8ea0-5d659a94e454",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156017187,
+        "parent_id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "However, we forgot to implement "
+            ],
+            [
+              "Close",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " method."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "However, we forgot to implement "
+          },
+          {
+            "Text": "Close",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " method."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156017187,
+        "id": "45f4da8e-9a9f-4370-8492-30b301ff6d6b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156017187,
+        "parent_id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This line caught this problem at compile time:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This line caught this problem at compile time:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156017187,
+        "id": "a38d590d-803c-44c4-9782-d78a18a52f30",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197304317,
+        "parent_id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var _ io.ReadCloser = \u0026MyReadCloser{}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var _ io.ReadCloser = \u0026MyReadCloser{}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156017188,
+        "id": "aac860cf-ced5-4664-b82f-7e893c1b7cd2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156017188,
+        "parent_id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We tried to assign "
+            ],
+            [
+              "*MyReadCloser",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " type to variable of type "
+            ],
+            [
+              "io.ReadCloser",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We tried to assign "
+          },
+          {
+            "Text": "*MyReadCloser",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " type to variable of type "
+          },
+          {
+            "Text": "io.ReadCloser",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156017188,
+        "id": "852d6aed-0777-48b9-a7c2-25fcb20d8dd7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156017188,
+        "parent_id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Since "
+            ],
+            [
+              "*MyReadCloser",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " doesn’t implement "
+            ],
+            [
+              "Close",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " method, the compiler detected this is an invalid assignement at compile time."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Since "
+          },
+          {
+            "Text": "*MyReadCloser",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " doesn’t implement "
+          },
+          {
+            "Text": "Close",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " method, the compiler detected this is an invalid assignement at compile time."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156017189,
+        "id": "9c8f3f35-697e-4efe-943c-04b88fe541f6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156017189,
+        "parent_id": "eeaf42c1-e477-40c0-a73e-eba560552558",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We assigned the value to "
+            ],
+            [
+              "blank identifier",
+              [
+                [
+                  "a",
+                  "35"
+                ]
+              ]
+            ],
+            [
+              " "
+            ],
+            [
+              "_",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " because we don’t actually use that variable for anything."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We assigned the value to "
+          },
+          {
+            "Text": "blank identifier",
+            "Link": "35"
+          },
+          {
+            "Text": " "
+          },
+          {
+            "Text": "_",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " because we don’t actually use that variable for anything."
+          }
+        ]
+      }
+    ],
+    "title": "Testing Interface Implementation",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

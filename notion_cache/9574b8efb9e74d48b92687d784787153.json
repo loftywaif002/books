@@ -1,0 +1,203 @@
+{
+  "ID": "9574b8ef-b9e7-4d48-b926-87d784787153",
+  "Page": {
+    "alive": true,
+    "content": [
+      "19050abe-077a-447d-b2aa-488929c42a90",
+      "2c0873be-af7e-4bdb-bbc3-0df2bc2d7ab5",
+      "1fd3cd77-57e1-4744-8a98-ec96ffb5fae8",
+      "70b217ae-3ea6-4506-b7ce-fac436482fef",
+      "e7defe7f-5b57-4b14-bee4-7584f31ba1cb",
+      "4a6ce252-61ad-46e6-b4d9-037b8273499e"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155943181,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "9574b8ef-b9e7-4d48-b926-87d784787153",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532233989381,
+    "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Unions"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194771928,
+        "id": "19050abe-077a-447d-b2aa-488929c42a90",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233990125,
+        "parent_id": "9574b8ef-b9e7-4d48-b926-87d784787153",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 27"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 27"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194773772,
+        "id": "2c0873be-af7e-4bdb-bbc3-0df2bc2d7ab5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233990978,
+        "parent_id": "9574b8ef-b9e7-4d48-b926-87d784787153",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 80100004"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 80100004"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194776680,
+        "id": "1fd3cd77-57e1-4744-8a98-ec96ffb5fae8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194776690,
+        "parent_id": "9574b8ef-b9e7-4d48-b926-87d784787153",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155943180,
+        "id": "70b217ae-3ea6-4506-b7ce-fac436482fef",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155943180,
+        "parent_id": "9574b8ef-b9e7-4d48-b926-87d784787153",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go doesn’t have a union type like C."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go doesn’t have a union type like C."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155943181,
+        "id": "e7defe7f-5b57-4b14-bee4-7584f31ba1cb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234031843,
+        "parent_id": "9574b8ef-b9e7-4d48-b926-87d784787153",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To combine a value and its type into a single entity, use an "
+            ],
+            [
+              "empty interface",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Empty-interface-53e20b96c9af41049a204d3d1cb93387"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 7,
+        "inline_content": [
+          {
+            "Text": "To combine a value and its type into a single entity, use an "
+          },
+          {
+            "Text": "empty interface",
+            "Link": "https://www.notion.so/kjkpublic/Empty-interface-53e20b96c9af41049a204d3d1cb93387"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194782867,
+        "id": "4a6ce252-61ad-46e6-b4d9-037b8273499e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194782867,
+        "parent_id": "9574b8ef-b9e7-4d48-b926-87d784787153",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Unions",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

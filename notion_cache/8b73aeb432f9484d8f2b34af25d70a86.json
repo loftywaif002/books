@@ -1,0 +1,485 @@
+{
+  "ID": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+  "Page": {
+    "alive": true,
+    "content": [
+      "e6e6fc1c-641d-4ee3-9660-36bf359a54ee",
+      "597139c8-4e80-40c5-a8e5-1a8b4c43e212",
+      "5fb0d028-f78d-45d2-9472-2da799bd195e",
+      "a29ab764-0b4e-4c36-a81f-1f13533f5595",
+      "78b52c3c-f7ca-4ad0-9cd0-9e51b9c45e17",
+      "0c8c790e-c14d-4ad6-8c76-b4f60a101e86",
+      "d3de9cd2-ac02-4ee0-a3df-b1efca85a59f",
+      "dca25bbc-d189-4564-b9be-bb2be6a118f1",
+      "80af50ac-d1db-4c00-9ce2-76bd4dbe5f26",
+      "7765a9be-1244-4e77-a34f-1dc63183e593",
+      "875abc66-3767-463d-bb72-f74d4717dc2e",
+      "f878de78-a481-498e-8e5a-4033ac8505e2",
+      "bb701833-60f4-402c-8275-b4547edbc69c",
+      "7669dab6-c1ed-433e-bc2f-9aaa04779eae",
+      "95f48ef0-d428-4dd3-8d13-6437b9b1631b"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156258128,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532214615451,
+    "parent_id": "ddc28bcf-5179-4ae5-b021-b8c0d9423497",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Read input from console"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 28,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214598974,
+        "id": "e6e6fc1c-641d-4ee3-9660-36bf359a54ee",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214609342,
+        "parent_id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 305"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 305"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214601285,
+        "id": "597139c8-4e80-40c5-a8e5-1a8b4c43e212",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214608598,
+        "parent_id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 3"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 3"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214602788,
+        "id": "5fb0d028-f78d-45d2-9472-2da799bd195e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214607747,
+        "parent_id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 30034"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 30034"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214606213,
+        "id": "a29ab764-0b4e-4c36-a81f-1f13533f5595",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214606213,
+        "parent_id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214604670,
+        "id": "78b52c3c-f7ca-4ad0-9cd0-9e51b9c45e17",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214605501,
+        "parent_id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using "
+            ],
+            [
+              "scanf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Using "
+          },
+          {
+            "Text": "scanf",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156258126,
+        "id": "0c8c790e-c14d-4ad6-8c76-b4f60a101e86",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156258126,
+        "parent_id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Scanf scans text read from standard input, storing successive space-separated values into successive arguments as determined by the format. It returns the number of items successfully scanned. If that is less than the number of arguments, err will report why. Newlines in the input must match newlines in the format. The one exception: the verb %c always scans the next rune in the input, even if it is a space (or tab etc.) or newline."
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Scanf scans text read from standard input, storing successive space-separated values into successive arguments as determined by the format. It returns the number of items successfully scanned. If that is less than the number of arguments, err will report why. Newlines in the input must match newlines in the format. The one exception: the verb %c always scans the next rune in the input, even if it is a space (or tab etc.) or newline."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156258126,
+        "id": "d3de9cd2-ac02-4ee0-a3df-b1efca85a59f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156258126,
+        "parent_id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "# Read integer\nvar i int\nfmt.Scanf(\"%d\", \u0026i)\n\n# Read string\nvar str string\nfmt.Scanf(\"%s\", \u0026str)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "# Read integer\nvar i int\nfmt.Scanf(\"%d\", \u0026i)\n\n# Read string\nvar str string\nfmt.Scanf(\"%s\", \u0026str)",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156258127,
+        "id": "dca25bbc-d189-4564-b9be-bb2be6a118f1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156258127,
+        "parent_id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using "
+            ],
+            [
+              "scan",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Using "
+          },
+          {
+            "Text": "scan",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156258127,
+        "id": "80af50ac-d1db-4c00-9ce2-76bd4dbe5f26",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156258127,
+        "parent_id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Scan scans text read from standard input, storing successive space-separated values into successive arguments. Newlines count as space. It returns the number of items successfully scanned. If that is less than the number of arguments, err will report why."
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Scan scans text read from standard input, storing successive space-separated values into successive arguments. Newlines count as space. It returns the number of items successfully scanned. If that is less than the number of arguments, err will report why."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156258127,
+        "id": "7765a9be-1244-4e77-a34f-1dc63183e593",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156258127,
+        "parent_id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "# Read integer\nvar i int\nfmt.Scan(\u0026i)\n\n# Read string\nvar str string\nfmt.Scan(\u0026str)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "# Read integer\nvar i int\nfmt.Scan(\u0026i)\n\n# Read string\nvar str string\nfmt.Scan(\u0026str)",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156258127,
+        "id": "875abc66-3767-463d-bb72-f74d4717dc2e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156258127,
+        "parent_id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using "
+            ],
+            [
+              "scanln",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Using "
+          },
+          {
+            "Text": "scanln",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156258127,
+        "id": "f878de78-a481-498e-8e5a-4033ac8505e2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156258127,
+        "parent_id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sscanln is similar to Sscan, but stops scanning at a newline and after the final item there must be a newline or EOF."
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Sscanln is similar to Sscan, but stops scanning at a newline and after the final item there must be a newline or EOF."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156258127,
+        "id": "bb701833-60f4-402c-8275-b4547edbc69c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156258127,
+        "parent_id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "# Read string\nvar input string\nfmt.Scanln(\u0026input)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "# Read string\nvar input string\nfmt.Scanln(\u0026input)",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156258128,
+        "id": "7669dab6-c1ed-433e-bc2f-9aaa04779eae",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156258128,
+        "parent_id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using "
+            ],
+            [
+              "bufio",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Using "
+          },
+          {
+            "Text": "bufio",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156258128,
+        "id": "95f48ef0-d428-4dd3-8d13-6437b9b1631b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156258128,
+        "parent_id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "# Read using Reader\nreader := bufio.NewReader(os.Stdin)\ntext, err := reader.ReadString('\\n')\n\n# Read using Scanner\nscanner := bufio.NewScanner(os.Stdin)\nfor scanner.Scan() {\n    fmt.Println(scanner.Text())\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "# Read using Reader\nreader := bufio.NewReader(os.Stdin)\ntext, err := reader.ReadString('\\n')\n\n# Read using Scanner\nscanner := bufio.NewScanner(os.Stdin)\nfor scanner.Scan() {\n    fmt.Println(scanner.Text())\n}",
+        "code_language": "Plain Text"
+      }
+    ],
+    "title": "Read input from console",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

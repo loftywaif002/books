@@ -1,0 +1,354 @@
+{
+  "ID": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
+  "Page": {
+    "alive": true,
+    "content": [
+      "43d6ba1e-257d-47e7-a12e-620752376bb2",
+      "efca4090-3713-4bf2-aa9a-a76bfadcd09d",
+      "99091b01-b5fa-4c1a-b566-bd1f1072ce58",
+      "7e73fc59-ab9f-492b-afc8-fd8d2aef87f8",
+      "80ec251a-fac9-4745-980f-66269c7e751a",
+      "cca1616c-eb84-4731-87ab-e9ca5cb984db",
+      "6cb12223-8f47-4aac-b445-b35110eb75f4",
+      "7728aa14-ee84-4ca4-8988-3d328eabca9a",
+      "16e8f18e-105d-473e-ba54-a7e425ba608a",
+      "e552ef68-bf07-4e69-ab1b-975022d4c2a9"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155976118,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234680646,
+    "parent_id": "58db8c9a-5650-4dea-b2e6-1f1e0fa4a0a6",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Array indexes"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195953940,
+        "id": "43d6ba1e-257d-47e7-a12e-620752376bb2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234681418,
+        "parent_id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 57"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 57"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195956906,
+        "id": "efca4090-3713-4bf2-aa9a-a76bfadcd09d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234682117,
+        "parent_id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 32352"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 32352"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195960510,
+        "id": "99091b01-b5fa-4c1a-b566-bd1f1072ce58",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195960510,
+        "parent_id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195958767,
+        "id": "7e73fc59-ab9f-492b-afc8-fd8d2aef87f8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195960080,
+        "parent_id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Array values should be accessed using a number specifying the location of the desired value in the array. This number is called the Index."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Array values should be accessed using a number specifying the location of the desired value in the array. This number is called the Index."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155976117,
+        "id": "80ec251a-fac9-4745-980f-66269c7e751a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155976117,
+        "parent_id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Indexes start at "
+            ],
+            [
+              "0",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " and finish at "
+            ],
+            [
+              "array length -1",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Indexes start at "
+          },
+          {
+            "Text": "0",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " and finish at "
+          },
+          {
+            "Text": "array length -1",
+            "AttrFlags": 1
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155976117,
+        "id": "cca1616c-eb84-4731-87ab-e9ca5cb984db",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155976117,
+        "parent_id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To access a value, you have to do something like this: "
+            ],
+            [
+              "arrayName[index]",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", replacing “index” by the number corresponding to the offset of the value within your array."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To access a value, you have to do something like this: "
+          },
+          {
+            "Text": "arrayName[index]",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", replacing “index” by the number corresponding to the offset of the value within your array."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155976117,
+        "id": "6cb12223-8f47-4aac-b445-b35110eb75f4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155976117,
+        "parent_id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For example:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For example:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155976117,
+        "id": "7728aa14-ee84-4ca4-8988-3d328eabca9a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155976117,
+        "parent_id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file array_indexes.go output sha1:33f5350a8cc56ec861d63ae233ab9295f6a9914d goplayground:6XD0m-9WltV"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file array_indexes.go output sha1:33f5350a8cc56ec861d63ae233ab9295f6a9914d goplayground:6XD0m-9WltV"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155976118,
+        "id": "16e8f18e-105d-473e-ba54-a7e425ba608a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155976118,
+        "parent_id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To set or modify a value in the array, you use the same index-based method. Example:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To set or modify a value in the array, you use the same index-based method. Example:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155976118,
+        "id": "e552ef68-bf07-4e69-ab1b-975022d4c2a9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155976118,
+        "parent_id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file array_indexes2.go output sha1:85b388de6ff2dcc3fbe68828164dbb4fdd96860d goplayground:ynkxqipMcV7"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file array_indexes2.go output sha1:85b388de6ff2dcc3fbe68828164dbb4fdd96860d goplayground:ynkxqipMcV7"
+          }
+        ]
+      }
+    ],
+    "title": "Array indexes",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

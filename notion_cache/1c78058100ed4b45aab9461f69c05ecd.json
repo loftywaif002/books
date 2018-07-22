@@ -1,0 +1,438 @@
+{
+  "ID": "1c780581-00ed-4b45-aab9-461f69c05ecd",
+  "Page": {
+    "alive": true,
+    "content": [
+      "870340fa-fa00-464f-9de7-66a1d7732ee1",
+      "0444d755-c9ac-467d-bbfa-4b91d6d6bed9",
+      "74cc8a0a-ae1e-4b78-9559-8bfa238458e2",
+      "3968befb-6d13-46b8-819c-459f9df67793",
+      "23761821-30de-4a61-a320-84edf5ce9b80",
+      "01892488-e366-4c62-8e55-d124cc81472c",
+      "de7164e8-b524-4f67-962e-a9f81b72930c",
+      "879faa31-c357-440a-ba2e-5e0b2dbc9d1a",
+      "009474d9-407d-4be5-bb43-b55429c8887d",
+      "7e2ed7ca-7715-4a38-94f3-adc1ba7318d9"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156076172,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "1c780581-00ed-4b45-aab9-461f69c05ecd",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236669003,
+    "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Mutex gotchas"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206086153,
+        "id": "870340fa-fa00-464f-9de7-66a1d7732ee1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236669718,
+        "parent_id": "1c780581-00ed-4b45-aab9-461f69c05ecd",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Search: Mutex pitfalls"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Search: Mutex pitfalls"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206088941,
+        "id": "0444d755-c9ac-467d-bbfa-4b91d6d6bed9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236671199,
+        "parent_id": "1c780581-00ed-4b45-aab9-461f69c05ecd",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 151"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 151"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206090605,
+        "id": "74cc8a0a-ae1e-4b78-9559-8bfa238458e2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236672340,
+        "parent_id": "1c780581-00ed-4b45-aab9-461f69c05ecd",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 801000u9"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 801000u9"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206092517,
+        "id": "3968befb-6d13-46b8-819c-459f9df67793",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206096177,
+        "parent_id": "1c780581-00ed-4b45-aab9-461f69c05ecd",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Don’t copy mutexes"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 27,
+        "inline_content": [
+          {
+            "Text": "Don’t copy mutexes"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156076170,
+        "id": "23761821-30de-4a61-a320-84edf5ce9b80",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156076170,
+        "parent_id": "1c780581-00ed-4b45-aab9-461f69c05ecd",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A copy of "
+            ],
+            [
+              "sync.Mutex",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " variable starts with the same state as original mutex but it is not the same mutex."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A copy of "
+          },
+          {
+            "Text": "sync.Mutex",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " variable starts with the same state as original mutex but it is not the same mutex."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156076170,
+        "id": "01892488-e366-4c62-8e55-d124cc81472c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156076170,
+        "parent_id": "1c780581-00ed-4b45-aab9-461f69c05ecd",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It’s almost always a mistake to copy a "
+            ],
+            [
+              "sync.Mutex",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " e.g. by passing it to another function or embedding it in a struct and making a copy of that struct."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It’s almost always a mistake to copy a "
+          },
+          {
+            "Text": "sync.Mutex",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " e.g. by passing it to another function or embedding it in a struct and making a copy of that struct."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156076170,
+        "id": "de7164e8-b524-4f67-962e-a9f81b72930c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156076170,
+        "parent_id": "1c780581-00ed-4b45-aab9-461f69c05ecd",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you want to share a mutex variable, pass it as a pointer "
+            ],
+            [
+              "*sync.Mutex",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you want to share a mutex variable, pass it as a pointer "
+          },
+          {
+            "Text": "*sync.Mutex",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156076171,
+        "id": "879faa31-c357-440a-ba2e-5e0b2dbc9d1a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156076171,
+        "parent_id": "1c780581-00ed-4b45-aab9-461f69c05ecd",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Mutex is not recursive"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Mutex is not recursive"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156076171,
+        "id": "009474d9-407d-4be5-bb43-b55429c8887d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156076171,
+        "parent_id": "1c780581-00ed-4b45-aab9-461f69c05ecd",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In some languages mutexes are recursive i.e. the same thread can "
+            ],
+            [
+              "Lock",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " the same thread multiple times, as long as it calls "
+            ],
+            [
+              "Unlock",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " the same number of times."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In some languages mutexes are recursive i.e. the same thread can "
+          },
+          {
+            "Text": "Lock",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " the same thread multiple times, as long as it calls "
+          },
+          {
+            "Text": "Unlock",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " the same number of times."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156076172,
+        "id": "7e2ed7ca-7715-4a38-94f3-adc1ba7318d9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156076172,
+        "parent_id": "1c780581-00ed-4b45-aab9-461f69c05ecd",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go "
+            ],
+            [
+              "sync.Mutex",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is non-recursive. If the same goroutine calls "
+            ],
+            [
+              "Lock",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " twice on the same mutex, the program will deadlock."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In Go "
+          },
+          {
+            "Text": "sync.Mutex",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is non-recursive. If the same goroutine calls "
+          },
+          {
+            "Text": "Lock",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " twice on the same mutex, the program will deadlock."
+          }
+        ]
+      }
+    ],
+    "title": "Mutex gotchas",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,329 @@
+{
+  "ID": "40da6aa6-5709-423f-b43c-3a8f30d24735",
+  "Page": {
+    "alive": true,
+    "content": [
+      "1c7459f2-6bfd-496b-ba0f-3f3e4969c408",
+      "2c68eb5e-51a3-4ed1-b058-6262d5ace746",
+      "033527f8-541e-45cb-8c3e-362ef9d593a1",
+      "4180934e-235a-430c-a0b9-a6dae3426b62",
+      "068c2244-e1da-4e40-9a2a-943b353fc3a9",
+      "588d9d89-37ad-4582-9758-357ec1325fc1",
+      "7b7f081b-9b94-4308-9433-08a19d71be5f",
+      "19dc5e6d-f3b4-48b3-ab1f-76dfb5126d74",
+      "95ae8269-334a-466e-8912-dc1ab58197d1",
+      "f9445c4e-0fe2-4bf7-bf32-7aec814796d9"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156247191,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "40da6aa6-5709-423f-b43c-3a8f30d24735",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532214222385,
+    "parent_id": "9f2c4121-df7e-4b3f-8181-31c49676387b",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Defining and using a plugin"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214202143,
+        "id": "1c7459f2-6bfd-496b-ba0f-3f3e4969c408",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214205611,
+        "parent_id": "40da6aa6-5709-423f-b43c-3a8f30d24735",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 295"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 295"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214205611,
+        "id": "2c68eb5e-51a3-4ed1-b058-6262d5ace746",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214209707,
+        "parent_id": "40da6aa6-5709-423f-b43c-3a8f30d24735",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214209707,
+        "id": "033527f8-541e-45cb-8c3e-362ef9d593a1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214212913,
+        "parent_id": "40da6aa6-5709-423f-b43c-3a8f30d24735",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 28409"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 28409"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214213608,
+        "id": "4180934e-235a-430c-a0b9-a6dae3426b62",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214213623,
+        "parent_id": "40da6aa6-5709-423f-b43c-3a8f30d24735",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156247188,
+        "id": "068c2244-e1da-4e40-9a2a-943b353fc3a9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214227897,
+        "parent_id": "40da6aa6-5709-423f-b43c-3a8f30d24735",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport \"fmt\"\n\nvar V int\n\nfunc F() { fmt.Printf(\"Hello, number %d\\n\", V) }"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport \"fmt\"\n\nvar V int\n\nfunc F() { fmt.Printf(\"Hello, number %d\\n\", V) }",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156247189,
+        "id": "588d9d89-37ad-4582-9758-357ec1325fc1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156247189,
+        "parent_id": "40da6aa6-5709-423f-b43c-3a8f30d24735",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This can be built with:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This can be built with:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156247189,
+        "id": "7b7f081b-9b94-4308-9433-08a19d71be5f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214234360,
+        "parent_id": "40da6aa6-5709-423f-b43c-3a8f30d24735",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ go build -buildmode=plugin"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 7,
+        "code": "$ go build -buildmode=plugin",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156247190,
+        "id": "19dc5e6d-f3b4-48b3-ab1f-76dfb5126d74",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156247190,
+        "parent_id": "40da6aa6-5709-423f-b43c-3a8f30d24735",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "And then loaded and used from your application:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "And then loaded and used from your application:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156247190,
+        "id": "95ae8269-334a-466e-8912-dc1ab58197d1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214239946,
+        "parent_id": "40da6aa6-5709-423f-b43c-3a8f30d24735",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "p, err := plugin.Open(\"plugin_name.so\")\nif err != nil {\n    panic(err)\n}\n\nv, err := p.Lookup(\"V\")\nif err != nil {\n    panic(err)\n}\n\nf, err := p.Lookup(\"F\")\nif err != nil {\n    panic(err)\n}\n\n*v.(*int) = 7\nf.(func())() // prints \"Hello, number 7\""
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "p, err := plugin.Open(\"plugin_name.so\")\nif err != nil {\n    panic(err)\n}\n\nv, err := p.Lookup(\"V\")\nif err != nil {\n    panic(err)\n}\n\nf, err := p.Lookup(\"F\")\nif err != nil {\n    panic(err)\n}\n\n*v.(*int) = 7\nf.(func())() // prints \"Hello, number 7\"",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156247191,
+        "id": "f9445c4e-0fe2-4bf7-bf32-7aec814796d9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156247191,
+        "parent_id": "40da6aa6-5709-423f-b43c-3a8f30d24735",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Example from "
+            ],
+            [
+              "The State of Go 2017",
+              [
+                [
+                  "i"
+                ],
+                [
+                  "a",
+                  "https://talks.golang.org/2017/state-of-go.slide#1"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Example from "
+          },
+          {
+            "Text": "The State of Go 2017",
+            "AttrFlags": 4,
+            "Link": "https://talks.golang.org/2017/state-of-go.slide#1"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      }
+    ],
+    "title": "Defining and using a plugin",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

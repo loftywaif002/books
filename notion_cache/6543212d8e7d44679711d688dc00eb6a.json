@@ -1,0 +1,316 @@
+{
+  "ID": "6543212d-8e7d-4467-9711-d688dc00eb6a",
+  "Page": {
+    "alive": true,
+    "content": [
+      "ea81a09d-1ef2-4d66-89d3-6e636b858a5a",
+      "efdb28eb-1dc6-43b6-b11e-26f944f9a188",
+      "700a1950-58f3-4652-ab83-f0dc5347d5b2",
+      "c6888d15-097c-404a-8954-9b8ae6b3e5ad",
+      "da8ce85f-15d7-4ee2-985b-2f6e37d039cd",
+      "922faec8-fe37-4180-b46a-4b39db972f88",
+      "9a350bd2-ecbd-42e6-8a74-17b05e93bf59",
+      "41bb4e96-7ccd-4445-bb95-369641f70ca1"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155999142,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "6543212d-8e7d-4467-9711-d688dc00eb6a",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235218484,
+    "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Delete map element"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 31,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196656794,
+        "id": "ea81a09d-1ef2-4d66-89d3-6e636b858a5a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235219250,
+        "parent_id": "6543212d-8e7d-4467-9711-d688dc00eb6a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 76"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 76"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196658425,
+        "id": "efdb28eb-1dc6-43b6-b11e-26f944f9a188",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235219951,
+        "parent_id": "6543212d-8e7d-4467-9711-d688dc00eb6a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2489"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2489"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196661291,
+        "id": "700a1950-58f3-4652-ab83-f0dc5347d5b2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196661291,
+        "parent_id": "6543212d-8e7d-4467-9711-d688dc00eb6a",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196660049,
+        "id": "c6888d15-097c-404a-8954-9b8ae6b3e5ad",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196661028,
+        "parent_id": "6543212d-8e7d-4467-9711-d688dc00eb6a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The "
+            ],
+            [
+              "delete",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/builtin/#delete"
+                ]
+              ]
+            ],
+            [
+              " built-in function removes the element with the specified key from a map."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "The "
+          },
+          {
+            "Text": "delete",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/builtin/#delete"
+          },
+          {
+            "Text": " built-in function removes the element with the specified key from a map."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155999142,
+        "id": "da8ce85f-15d7-4ee2-985b-2f6e37d039cd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196664936,
+        "parent_id": "6543212d-8e7d-4467-9711-d688dc00eb6a",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "people := map[string]int{\"john\": 30, \"jane\": 29}\nfmt.Println(people) // map[john:30 jane:29]\n\ndelete(people, \"john\")\nfmt.Println(people) // map[jane:29]"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "people := map[string]int{\"john\": 30, \"jane\": 29}\nfmt.Println(people) // map[john:30 jane:29]\n\ndelete(people, \"john\")\nfmt.Println(people) // map[jane:29]",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155999142,
+        "id": "922faec8-fe37-4180-b46a-4b39db972f88",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155999142,
+        "parent_id": "6543212d-8e7d-4467-9711-d688dc00eb6a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If the "
+            ],
+            [
+              "map",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or there is no such element, "
+            ],
+            [
+              "delete",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " has no effect."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If the "
+          },
+          {
+            "Text": "map",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or there is no such element, "
+          },
+          {
+            "Text": "delete",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " has no effect."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155999142,
+        "id": "9a350bd2-ecbd-42e6-8a74-17b05e93bf59",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196667344,
+        "parent_id": "6543212d-8e7d-4467-9711-d688dc00eb6a",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "people := map[string]int{\"john\": 30, \"jane\": 29}\nfmt.Println(people) // map[john:30 jane:29]\n\ndelete(people, \"notfound\")\nfmt.Println(people) // map[john:30 jane:29]\n\nvar something map[string]int\ndelete(something, \"notfound\") // no-op"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "people := map[string]int{\"john\": 30, \"jane\": 29}\nfmt.Println(people) // map[john:30 jane:29]\n\ndelete(people, \"notfound\")\nfmt.Println(people) // map[john:30 jane:29]\n\nvar something map[string]int\ndelete(something, \"notfound\") // no-op",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196665627,
+        "id": "41bb4e96-7ccd-4445-bb95-369641f70ca1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196665627,
+        "parent_id": "6543212d-8e7d-4467-9711-d688dc00eb6a",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Delete map element",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

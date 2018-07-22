@@ -1,0 +1,172 @@
+{
+  "ID": "9c246a87-cf6d-45b8-a9b8-5b6b18083eeb",
+  "Page": {
+    "alive": true,
+    "content": [
+      "8ecb9142-79cb-4346-974b-c9d032096de1",
+      "13df60f9-3642-4f48-9c19-9c0451e72fde",
+      "62682279-3a5a-45a0-859c-0c6058c0e17f",
+      "e9322656-2df0-43da-beec-6dbc872376ca",
+      "309da39b-809a-4c94-b792-84d592111825"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156252169,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "9c246a87-cf6d-45b8-a9b8-5b6b18083eeb",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532214418305,
+    "parent_id": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Auth Middleware"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214405158,
+        "id": "8ecb9142-79cb-4346-974b-c9d032096de1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214407444,
+        "parent_id": "9c246a87-cf6d-45b8-a9b8-5b6b18083eeb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 300"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 300"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214406667,
+        "id": "13df60f9-3642-4f48-9c19-9c0451e72fde",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214410425,
+        "parent_id": "9c246a87-cf6d-45b8-a9b8-5b6b18083eeb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214410425,
+        "id": "62682279-3a5a-45a0-859c-0c6058c0e17f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214412986,
+        "parent_id": "9c246a87-cf6d-45b8-a9b8-5b6b18083eeb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 28938"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 28938"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214412986,
+        "id": "e9322656-2df0-43da-beec-6dbc872376ca",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214413764,
+        "parent_id": "9c246a87-cf6d-45b8-a9b8-5b6b18083eeb",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156252169,
+        "id": "309da39b-809a-4c94-b792-84d592111825",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214422606,
+        "parent_id": "9c246a87-cf6d-45b8-a9b8-5b6b18083eeb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func Authenticate(h http.Handler) http.Handler {\n    return CustomHandlerFunc(func(w *http.ResponseWriter, r *http.Request) {\n        // extract params from req\n        // post params | headers etc\n        if CheckAuth(params) {\n            log.Println(\"Auth Pass\")\n            // pass control to next middleware in chain or handler func\n            h.ServeHTTP(w, r)\n        } else {\n            log.Println(\"Auth Fail\")\n            // Responsd Auth Fail\n        }\n    })\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func Authenticate(h http.Handler) http.Handler {\n    return CustomHandlerFunc(func(w *http.ResponseWriter, r *http.Request) {\n        // extract params from req\n        // post params | headers etc\n        if CheckAuth(params) {\n            log.Println(\"Auth Pass\")\n            // pass control to next middleware in chain or handler func\n            h.ServeHTTP(w, r)\n        } else {\n            log.Println(\"Auth Fail\")\n            // Responsd Auth Fail\n        }\n    })\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Auth Middleware",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

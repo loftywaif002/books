@@ -1,0 +1,632 @@
+{
+  "ID": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+  "Page": {
+    "alive": true,
+    "content": [
+      "5d39eceb-ecc1-43df-be09-395933e0024d",
+      "e10f247a-e813-41b4-9065-5a562aab67db",
+      "f295229a-856a-4ee8-8f87-6627a51b99d6",
+      "9f438f62-342b-4b2c-8f4d-18505d176e8b",
+      "32c3bd7c-a7d6-423a-8cc4-0376e05b10a6",
+      "008f5a71-563b-4c14-b82f-0c3e7008bc2f",
+      "2318570e-7c3a-4cb1-8dd8-9b14a763073c",
+      "b45845d6-a862-452d-8390-87539083890c",
+      "6f73dc40-ae5c-4ac6-95eb-28318c10f399",
+      "bc7abedb-f3f9-4468-a07b-5b39a15981fd",
+      "f625eebe-68d5-4b39-9b96-eb5e94bb7979",
+      "204e9b6e-9a0b-45d9-903f-a1043837e0d0",
+      "447c2f88-a1ff-46dc-a9c9-baf2651787fa",
+      "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+      "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+      "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+      "04e1e4f6-0a02-45e5-87a7-101d10c4f05f",
+      "37188510-275c-44b7-902a-d4816f81c062",
+      "d29561c8-af22-4b9e-a38c-26f323be4646",
+      "d6da4b84-81f9-4757-bae4-3be1fdfa9e73"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155916240,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532247500329,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Getting started"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 39,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532158375776,
+        "id": "5d39eceb-ecc1-43df-be09-395933e0024d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215683835,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532158378327,
+        "id": "e10f247a-e813-41b4-9065-5a562aab67db",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215684676,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 198"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 198"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532158380903,
+        "id": "f295229a-856a-4ee8-8f87-6627a51b99d6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532158381896,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155916237,
+        "id": "9f438f62-342b-4b2c-8f4d-18505d176e8b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155916237,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go",
+              [
+                [
+                  "a",
+                  "https://golang.org/"
+                ]
+              ]
+            ],
+            [
+              " is a general-purpose programming language with the following characteristics:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go",
+            "Link": "https://golang.org/"
+          },
+          {
+            "Text": " is a general-purpose programming language with the following characteristics:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155916239,
+        "id": "32c3bd7c-a7d6-423a-8cc4-0376e05b10a6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155916239,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "open-source",
+              [
+                [
+                  "a",
+                  "https://github.com/golang/go"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "open-source",
+            "Link": "https://github.com/golang/go"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155916239,
+        "id": "008f5a71-563b-4c14-b82f-0c3e7008bc2f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155916239,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "cross-platform (supports Windows, Mac, Linux and more, multiple CPU architectures)"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "cross-platform (supports Windows, Mac, Linux and more, multiple CPU architectures)"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155916240,
+        "id": "2318570e-7c3a-4cb1-8dd8-9b14a763073c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155916240,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "statically typed"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "statically typed"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155916240,
+        "id": "b45845d6-a862-452d-8390-87539083890c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155916240,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "fast"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "fast"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155916240,
+        "id": "6f73dc40-ae5c-4ac6-95eb-28318c10f399",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155916240,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "garbage collected"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "garbage collected"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155916240,
+        "id": "bc7abedb-f3f9-4468-a07b-5b39a15981fd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155916240,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "language-level support for concurrency"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "language-level support for concurrency"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155916240,
+        "id": "f625eebe-68d5-4b39-9b96-eb5e94bb7979",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155916240,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "familiar C-like syntax"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "familiar C-like syntax"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532158401624,
+        "id": "204e9b6e-9a0b-45d9-903f-a1043837e0d0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532158402787,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155918178,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "447c2f88-a1ff-46dc-a9c9-baf2651787fa",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232814169,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Windows install and setup"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 61,
+        "title": "Windows install and setup",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155919196,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532232886642,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Mac OS install and setup"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 61,
+        "title": "Mac OS install and setup",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155920158,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532247509759,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Linux install and setup"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 66,
+        "title": "Linux install and setup",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155921174,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532216898854,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Hello, World!"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 73,
+        "title": "Hello, World!",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155922238,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "04e1e4f6-0a02-45e5-87a7-101d10c4f05f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217036329,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Take a guided tour"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 37,
+        "title": "Take a guided tour",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155923194,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "37188510-275c-44b7-902a-d4816f81c062",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217068263,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Access documentation offline"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Access documentation offline",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155924138,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "d29561c8-af22-4b9e-a38c-26f323be4646",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217198838,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Run Go in online playground"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 27,
+        "title": "Run Go in online playground",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155925288,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "d6da4b84-81f9-4757-bae4-3be1fdfa9e73",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532217246829,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "GOPATH, GOROOT, GOBIN"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "GOPATH, GOROOT, GOBIN",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Getting started",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

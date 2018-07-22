@@ -1,0 +1,433 @@
+{
+  "ID": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
+  "Page": {
+    "alive": true,
+    "content": [
+      "f2b84753-c723-4e4c-b4d5-5c77e586ff4c",
+      "36885361-ad15-4df7-a77a-d3bfb7d7f86d",
+      "680f9052-5347-4d29-beaf-21adaf104e4a",
+      "a7fde6bb-4e8a-4722-99fd-c11e42ae2914",
+      "9c401bfb-b926-4fcd-b013-61884f054df3",
+      "00436a7e-3b8a-41bf-aa39-8de2f39cbffa",
+      "ef02c9dd-59d2-4199-af87-f6d8cae180bc",
+      "e8808aaf-5edc-4121-8792-5325fa56574a",
+      "1a520260-efb5-4edb-97c0-c4901f37dcfc",
+      "c00db962-d3cb-49df-a597-d0ea58d6abe6",
+      "3e656b3b-dc20-486e-b672-1dafe77ce79f"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156085128,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532206472014,
+    "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Reading files"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 24,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206435032,
+        "id": "f2b84753-c723-4e4c-b4d5-5c77e586ff4c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236749976,
+        "parent_id": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 160"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 160"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206436821,
+        "id": "36885361-ad15-4df7-a77a-d3bfb7d7f86d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236751380,
+        "parent_id": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 801000of"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 801000of"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206438732,
+        "id": "680f9052-5347-4d29-beaf-21adaf104e4a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206442414,
+        "parent_id": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Read the whole file"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 27,
+        "inline_content": [
+          {
+            "Text": "Read the whole file"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156085126,
+        "id": "a7fde6bb-4e8a-4722-99fd-c11e42ae2914",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156085126,
+        "parent_id": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The simplest way to read a whole file is:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The simplest way to read a whole file is:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156085126,
+        "id": "9c401bfb-b926-4fcd-b013-61884f054df3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206447743,
+        "parent_id": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "d, err := ioutil.ReadFile(\"foo.txt\")\nif err != nil {\n    log.Fatalf(\"ioutil.ReadFile failed with '%s'\\n\", err)\n}\nfmt.Printf(\"Size of 'foo.txt': %d bytes\\n\", len(d))"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "d, err := ioutil.ReadFile(\"foo.txt\")\nif err != nil {\n    log.Fatalf(\"ioutil.ReadFile failed with '%s'\\n\", err)\n}\nfmt.Printf(\"Size of 'foo.txt': %d bytes\\n\", len(d))",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156085126,
+        "id": "00436a7e-3b8a-41bf-aa39-8de2f39cbffa",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156085126,
+        "parent_id": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Open file for reading, close file"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Open file for reading, close file"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156085127,
+        "id": "ef02c9dd-59d2-4199-af87-f6d8cae180bc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206450888,
+        "parent_id": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "f, err := os.Open(\"foo.txt\")\nif err != nil {\n    log.Fatalf(\"os.Open failed with '%s'\\n\", err)\n}\ndefer f.Close()"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "f, err := os.Open(\"foo.txt\")\nif err != nil {\n    log.Fatalf(\"os.Open failed with '%s'\\n\", err)\n}\ndefer f.Close()",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156085127,
+        "id": "e8808aaf-5edc-4121-8792-5325fa56574a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156085127,
+        "parent_id": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Open returns "
+            ],
+            [
+              "*os.File",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " which implements "
+            ],
+            [
+              "io.Reader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "io.Closer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " interfaces."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Open returns "
+          },
+          {
+            "Text": "*os.File",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " which implements "
+          },
+          {
+            "Text": "io.Reader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "io.Closer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " interfaces."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156085127,
+        "id": "1a520260-efb5-4edb-97c0-c4901f37dcfc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156085127,
+        "parent_id": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You should always close files to avoid leaking file descriptors. "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is perfect for ensuring "
+            ],
+            [
+              "Close",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " will be called on exit of the function."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You should always close files to avoid leaking file descriptors. "
+          },
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is perfect for ensuring "
+          },
+          {
+            "Text": "Close",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " will be called on exit of the function."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156085127,
+        "id": "c00db962-d3cb-49df-a597-d0ea58d6abe6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156085127,
+        "parent_id": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Read file line by line"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Read file line by line"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156085128,
+        "id": "3e656b3b-dc20-486e-b672-1dafe77ce79f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156085128,
+        "parent_id": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file read_lines.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file read_lines.go output noplayground"
+          }
+        ]
+      }
+    ],
+    "title": "Reading files",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

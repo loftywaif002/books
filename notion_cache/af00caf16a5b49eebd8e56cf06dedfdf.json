@@ -1,0 +1,280 @@
+{
+  "ID": "af00caf1-6a5b-49ee-bd8e-56cf06dedfdf",
+  "Page": {
+    "alive": true,
+    "content": [
+      "0e167cdc-8bef-480c-a548-507d694b7254",
+      "973a834a-396a-4118-84c5-e386dcf5d759",
+      "257acff0-d4a6-4b67-8fb6-a621be0f3e6d",
+      "24c10e0a-062f-4ca6-a553-fa94b9663bb2",
+      "305513cc-8171-4ca3-8228-55604e708a1b",
+      "06106ad6-c28e-4475-a569-9c4d5027ecb1",
+      "7247bf0c-e902-4a7a-834d-f39176737934"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156047207,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "af00caf1-6a5b-49ee-bd8e-56cf06dedfdf",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236102744,
+    "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Returning an error"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205079739,
+        "id": "0e167cdc-8bef-480c-a548-507d694b7254",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236104695,
+        "parent_id": "af00caf1-6a5b-49ee-bd8e-56cf06dedfdf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 123"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$Id: 123"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205081375,
+        "id": "973a834a-396a-4118-84c5-e386dcf5d759",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236105401,
+        "parent_id": "af00caf1-6a5b-49ee-bd8e-56cf06dedfdf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2707"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2707"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205084072,
+        "id": "257acff0-d4a6-4b67-8fb6-a621be0f3e6d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205084072,
+        "parent_id": "af00caf1-6a5b-49ee-bd8e-56cf06dedfdf",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205082806,
+        "id": "24c10e0a-062f-4ca6-a553-fa94b9663bb2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205083864,
+        "parent_id": "af00caf1-6a5b-49ee-bd8e-56cf06dedfdf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go you don’t "
+            ],
+            [
+              "raise",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " an error. Instead, you "
+            ],
+            [
+              "return",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " an "
+            ],
+            [
+              "error",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in case of failure."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "In Go you don’t "
+          },
+          {
+            "Text": "raise",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " an error. Instead, you "
+          },
+          {
+            "Text": "return",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " an "
+          },
+          {
+            "Text": "error",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in case of failure."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156047206,
+        "id": "305513cc-8171-4ca3-8228-55604e708a1b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205092488,
+        "parent_id": "af00caf1-6a5b-49ee-bd8e-56cf06dedfdf",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// This method can fail\nfunc DoSomething() error {\n    // functionThatReportsOK is a side-effecting function that reports its\n    // state as a boolean. NOTE: this is not a good practice, so this example\n    // turns the boolean value into an error. Normally, you'd rewrite this\n    // function if it is under your control.\n    if ok := functionThatReportsOK(); !ok {\n        return errors.New(\"functionThatReportsSuccess returned a non-ok state\")\n    }\n\n    // The method succeeded. You still have to return an error\n    // to properly obey to the method signature.\n    // But in this case you return a nil error.\n    return nil\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// This method can fail\nfunc DoSomething() error {\n    // functionThatReportsOK is a side-effecting function that reports its\n    // state as a boolean. NOTE: this is not a good practice, so this example\n    // turns the boolean value into an error. Normally, you'd rewrite this\n    // function if it is under your control.\n    if ok := functionThatReportsOK(); !ok {\n        return errors.New(\"functionThatReportsSuccess returned a non-ok state\")\n    }\n\n    // The method succeeded. You still have to return an error\n    // to properly obey to the method signature.\n    // But in this case you return a nil error.\n    return nil\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156047206,
+        "id": "06106ad6-c28e-4475-a569-9c4d5027ecb1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156047206,
+        "parent_id": "af00caf1-6a5b-49ee-bd8e-56cf06dedfdf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If the method returns multiple values (and the execution can fail), then the standard convention is to return the error as the last argument."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If the method returns multiple values (and the execution can fail), then the standard convention is to return the error as the last argument."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156047207,
+        "id": "7247bf0c-e902-4a7a-834d-f39176737934",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205095779,
+        "parent_id": "af00caf1-6a5b-49ee-bd8e-56cf06dedfdf",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// This method can fail and, when it succeeds,\n// it returns a string.\nfunc DoAndReturnSomething() (string, error) {\n    if os.Getenv(\"ERROR\") == \"1\" {\n        return \"\", errors.New(\"The method failed\")\n    }\n\n    s := \"Success!\"\n\n    // The method succeeded.\n    return s, nil\n}\n\nresult, err := DoAndReturnSomething()\nif err != nil {\n    panic(err)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// This method can fail and, when it succeeds,\n// it returns a string.\nfunc DoAndReturnSomething() (string, error) {\n    if os.Getenv(\"ERROR\") == \"1\" {\n        return \"\", errors.New(\"The method failed\")\n    }\n\n    s := \"Success!\"\n\n    // The method succeeded.\n    return s, nil\n}\n\nresult, err := DoAndReturnSomething()\nif err != nil {\n    panic(err)\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Returning an error",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

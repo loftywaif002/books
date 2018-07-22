@@ -1,0 +1,289 @@
+{
+  "ID": "c49f89c6-e1a8-4379-b15a-8f695dfa33de",
+  "Page": {
+    "alive": true,
+    "content": [
+      "13ae731b-d37b-4a23-b13d-1f621f5cc35f",
+      "025dc821-abfd-4f2e-8ace-bcd39b1a3a36",
+      "323672c9-022f-4096-a13b-b15a2c10b39e",
+      "61002f94-9a4b-4caf-9f41-4f4765bef54f",
+      "218578ae-f5e4-4278-b617-9c4d653f0017",
+      "20edc7cc-0966-4fa9-b364-42c03870f2bd",
+      "bdde404d-692e-4703-8e3b-dbc699bbafab",
+      "1a610db2-1465-42ac-a854-d4104c0c85e2",
+      "9d4c4c0e-3f89-447d-bf52-579f4afe9acd"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156130190,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "c49f89c6-e1a8-4379-b15a-8f695dfa33de",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532208484493,
+    "parent_id": "fc416b38-f6f3-41bf-a311-bf6c575c73a1",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Opening a database"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208456198,
+        "id": "13ae731b-d37b-4a23-b13d-1f621f5cc35f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208460399,
+        "parent_id": "c49f89c6-e1a8-4379-b15a-8f695dfa33de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 197"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 197"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208457773,
+        "id": "025dc821-abfd-4f2e-8ace-bcd39b1a3a36",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208461797,
+        "parent_id": "c49f89c6-e1a8-4379-b15a-8f695dfa33de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208461797,
+        "id": "323672c9-022f-4096-a13b-b15a2c10b39e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208464341,
+        "parent_id": "c49f89c6-e1a8-4379-b15a-8f695dfa33de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 28214"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 28214"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208467238,
+        "id": "61002f94-9a4b-4caf-9f41-4f4765bef54f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208467238,
+        "parent_id": "c49f89c6-e1a8-4379-b15a-8f695dfa33de",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208464341,
+        "id": "218578ae-f5e4-4278-b617-9c4d653f0017",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208465654,
+        "parent_id": "c49f89c6-e1a8-4379-b15a-8f695dfa33de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Opening a database is database specific, here there are examples for some databases."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Opening a database is database specific, here there are examples for some databases."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156130189,
+        "id": "20edc7cc-0966-4fa9-b364-42c03870f2bd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208470885,
+        "parent_id": "c49f89c6-e1a8-4379-b15a-8f695dfa33de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sqlite 3",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 3,
+        "inline_content": [
+          {
+            "Text": "Sqlite 3",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156130190,
+        "id": "bdde404d-692e-4703-8e3b-dbc699bbafab",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208450917,
+        "parent_id": "c49f89c6-e1a8-4379-b15a-8f695dfa33de",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "file := \"path/to/file\"\ndb_, err := sql.Open(\"sqlite3\", file)\nif err != nil {\n    panic(err)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "file := \"path/to/file\"\ndb_, err := sql.Open(\"sqlite3\", file)\nif err != nil {\n    panic(err)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156130190,
+        "id": "1a610db2-1465-42ac-a854-d4104c0c85e2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208476555,
+        "parent_id": "c49f89c6-e1a8-4379-b15a-8f695dfa33de",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "MySql",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "MySql",
+            "AttrFlags": 1
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156130190,
+        "id": "9d4c4c0e-3f89-447d-bf52-579f4afe9acd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208453653,
+        "parent_id": "c49f89c6-e1a8-4379-b15a-8f695dfa33de",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "dsn := \"mysql_username:CHANGEME@tcp(localhost:3306)/dbname\"\ndb, err := sql.Open(\"mysql\", dsn)\nif err != nil {\n    panic(err)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "dsn := \"mysql_username:CHANGEME@tcp(localhost:3306)/dbname\"\ndb, err := sql.Open(\"mysql\", dsn)\nif err != nil {\n    panic(err)\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Opening a database",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

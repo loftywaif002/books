@@ -1,0 +1,271 @@
+{
+  "ID": "deb6f6f3-d964-48ff-98a5-bbbf8daa4689",
+  "Page": {
+    "alive": true,
+    "content": [
+      "e639cc90-1be2-4e3a-b624-2379c9db8780",
+      "4ff7f758-2ab1-415a-999b-84af1fad4a7b",
+      "582df12e-7493-49a5-ba1e-03b1755c8986",
+      "0b7e515e-b9af-4bcd-a1ca-ed648201d19f",
+      "237ef229-1069-42f2-9428-ba5c0fa17b6d",
+      "2f09af32-651c-4e4b-b802-3da58355bd6e",
+      "4df2ec4d-42a8-4c78-a977-f3d1158cf6e4",
+      "f8cfef67-a97e-4741-8e7d-9655f008e4ad"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156270085,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "deb6f6f3-d964-48ff-98a5-bbbf8daa4689",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532215002633,
+    "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Parsing the error types using bitfield checks"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214986771,
+        "id": "e639cc90-1be2-4e3a-b624-2379c9db8780",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214994873,
+        "parent_id": "deb6f6f3-d964-48ff-98a5-bbbf8daa4689",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 313"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 313"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214988296,
+        "id": "4ff7f758-2ab1-415a-999b-84af1fad4a7b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214994210,
+        "parent_id": "deb6f6f3-d964-48ff-98a5-bbbf8daa4689",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214989823,
+        "id": "582df12e-7493-49a5-ba1e-03b1755c8986",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214993241,
+        "parent_id": "deb6f6f3-d964-48ff-98a5-bbbf8daa4689",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 31140"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 31140"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214991632,
+        "id": "0b7e515e-b9af-4bcd-a1ca-ed648201d19f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214992193,
+        "parent_id": "deb6f6f3-d964-48ff-98a5-bbbf8daa4689",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156270080,
+        "id": "237ef229-1069-42f2-9428-ba5c0fa17b6d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215006811,
+        "parent_id": "deb6f6f3-d964-48ff-98a5-bbbf8daa4689",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// Token from another example.  This token is expired\nvar tokenString = \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmb28iOiJiYXIiLCJleHAiOjE1MDAwLCJpc3MiOiJ0ZXN0In0.HE7fK0xOQwFEr4WDgRWj4teRPZ6i3GLwD5YCm6Pwu_c\"\n\ntoken, err := jwt.Parse(tokenString, func(token *jwt.Token) (interface{}, error) {\n    return []byte(\"AllYourBase\"), nil\n})\n\nif token.Valid {\n    fmt.Println(\"You look nice today\")\n} else if ve, ok := err.(*jwt.ValidationError); ok {\n    if ve.Errors\u0026jwt.ValidationErrorMalformed != 0 {\n        fmt.Println(\"That's not even a token\")\n    } else if ve.Errors\u0026(jwt.ValidationErrorExpired|jwt.ValidationErrorNotValidYet) != 0 {\n        // Token is either expired or not active yet\n        fmt.Println(\"Timing is everything\")\n    } else {\n        fmt.Println(\"Couldn't handle this token:\", err)\n    }\n} else {\n    fmt.Println(\"Couldn't handle this token:\", err)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// Token from another example.  This token is expired\nvar tokenString = \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmb28iOiJiYXIiLCJleHAiOjE1MDAwLCJpc3MiOiJ0ZXN0In0.HE7fK0xOQwFEr4WDgRWj4teRPZ6i3GLwD5YCm6Pwu_c\"\n\ntoken, err := jwt.Parse(tokenString, func(token *jwt.Token) (interface{}, error) {\n    return []byte(\"AllYourBase\"), nil\n})\n\nif token.Valid {\n    fmt.Println(\"You look nice today\")\n} else if ve, ok := err.(*jwt.ValidationError); ok {\n    if ve.Errors\u0026jwt.ValidationErrorMalformed != 0 {\n        fmt.Println(\"That's not even a token\")\n    } else if ve.Errors\u0026(jwt.ValidationErrorExpired|jwt.ValidationErrorNotValidYet) != 0 {\n        // Token is either expired or not active yet\n        fmt.Println(\"Timing is everything\")\n    } else {\n        fmt.Println(\"Couldn't handle this token:\", err)\n    }\n} else {\n    fmt.Println(\"Couldn't handle this token:\", err)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156270080,
+        "id": "2f09af32-651c-4e4b-b802-3da58355bd6e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156270080,
+        "parent_id": "deb6f6f3-d964-48ff-98a5-bbbf8daa4689",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Output:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Output:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156270080,
+        "id": "4df2ec4d-42a8-4c78-a977-f3d1158cf6e4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156270080,
+        "parent_id": "deb6f6f3-d964-48ff-98a5-bbbf8daa4689",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "Timing is everything"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "Timing is everything",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156270085,
+        "id": "f8cfef67-a97e-4741-8e7d-9655f008e4ad",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156270085,
+        "parent_id": "deb6f6f3-d964-48ff-98a5-bbbf8daa4689",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "(From the "
+            ],
+            [
+              "documentation",
+              [
+                [
+                  "a",
+                  "https://godoc.org/github.com/dgrijalva/jwt-go#ex-Parse--ErrorChecking"
+                ]
+              ]
+            ],
+            [
+              ", courtesy of Dave Grijalva.)"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "(From the "
+          },
+          {
+            "Text": "documentation",
+            "Link": "https://godoc.org/github.com/dgrijalva/jwt-go#ex-Parse--ErrorChecking"
+          },
+          {
+            "Text": ", courtesy of Dave Grijalva.)"
+          }
+        ]
+      }
+    ],
+    "title": "Parsing the error types using bitfield checks",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

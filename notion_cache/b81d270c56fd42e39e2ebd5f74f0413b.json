@@ -1,0 +1,189 @@
+{
+  "ID": "b81d270c-56fd-42e3-9e2e-bd5f74f0413b",
+  "Page": {
+    "alive": true,
+    "content": [
+      "926b1ab9-939f-474f-bb01-ad82ce58c22f",
+      "9d40568d-7b0b-48be-a8bf-e2fa3d2a18d8",
+      "2c5959d8-0dc4-4c8b-93ee-3e0b710a1309",
+      "0500145a-75da-4464-bca0-d25da19af112",
+      "df61a73d-6014-4025-91ac-24c74aebf20a"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156020153,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "b81d270c-56fd-42e3-9e2e-bd5f74f0413b",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235664535,
+    "parent_id": "c3315892-5082-48fd-b19b-663bf8bff028",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Type switch"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197404166,
+        "id": "926b1ab9-939f-474f-bb01-ad82ce58c22f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235665297,
+        "parent_id": "b81d270c-56fd-42e3-9e2e-bd5f74f0413b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 96"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 96"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197405809,
+        "id": "9d40568d-7b0b-48be-a8bf-e2fa3d2a18d8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235665987,
+        "parent_id": "b81d270c-56fd-42e3-9e2e-bd5f74f0413b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 14736"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 14736"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197409027,
+        "id": "2c5959d8-0dc4-4c8b-93ee-3e0b710a1309",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197409027,
+        "parent_id": "b81d270c-56fd-42e3-9e2e-bd5f74f0413b",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197407528,
+        "id": "0500145a-75da-4464-bca0-d25da19af112",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235681165,
+        "parent_id": "b81d270c-56fd-42e3-9e2e-bd5f74f0413b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Type switch achieves the same thing as "
+            ],
+            [
+              "type assertion",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Type-assertion-e945ebc2e0074ce49cef592e6c0f956e"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 15,
+        "inline_content": [
+          {
+            "Text": "Type switch achieves the same thing as "
+          },
+          {
+            "Text": "type assertion",
+            "Link": "https://www.notion.so/kjkpublic/Type-assertion-e945ebc2e0074ce49cef592e6c0f956e"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156020153,
+        "id": "df61a73d-6014-4025-91ac-24c74aebf20a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156020153,
+        "parent_id": "b81d270c-56fd-42e3-9e2e-bd5f74f0413b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file type_switch.go sha1:55f65221cf9af78b811fdbba4a8398c52c35b992 goplayground:XKcL3G-Hzf1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file type_switch.go sha1:55f65221cf9af78b811fdbba4a8398c52c35b992 goplayground:XKcL3G-Hzf1"
+          }
+        ]
+      }
+    ],
+    "title": "Type switch",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

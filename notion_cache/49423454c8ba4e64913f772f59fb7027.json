@@ -1,0 +1,344 @@
+{
+  "ID": "49423454-c8ba-4e64-913f-772f59fb7027",
+  "Page": {
+    "alive": true,
+    "content": [
+      "bbb33b4c-315a-4dbc-b6e8-27e16a2d75cc",
+      "8d6396f8-112d-4dd8-990a-5285d9932faf",
+      "26b730db-37ab-4982-b437-71537bb0f5a5",
+      "508a4482-ad59-4fdb-bf57-a95d507e7948",
+      "09d643bc-4236-4c21-b372-77378c6b27d5",
+      "42853912-b09b-471b-a124-8c2cb73152c3",
+      "ad0ba0f4-8425-4a06-a133-4ac53fc9c13e",
+      "7926c607-ea4f-434d-993f-099cbba02d48",
+      "3dccd290-f001-40a4-978e-8bd3799e6ae7"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156028181,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "49423454-c8ba-4e64-913f-772f59fb7027",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235792881,
+    "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "while loop"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203608187,
+        "id": "bbb33b4c-315a-4dbc-b6e8-27e16a2d75cc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235793504,
+        "parent_id": "49423454-c8ba-4e64-913f-772f59fb7027",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 104"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 104"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203610063,
+        "id": "8d6396f8-112d-4dd8-990a-5285d9932faf",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235794290,
+        "parent_id": "49423454-c8ba-4e64-913f-772f59fb7027",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: rd600078"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: rd600078"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203613421,
+        "id": "26b730db-37ab-4982-b437-71537bb0f5a5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203613421,
+        "parent_id": "49423454-c8ba-4e64-913f-772f59fb7027",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203611910,
+        "id": "508a4482-ad59-4fdb-bf57-a95d507e7948",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203613189,
+        "parent_id": "49423454-c8ba-4e64-913f-772f59fb7027",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go doesn’t have "
+            ],
+            [
+              "while",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " loops."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Go doesn’t have "
+          },
+          {
+            "Text": "while",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " loops."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156028179,
+        "id": "09d643bc-4236-4c21-b372-77378c6b27d5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156028179,
+        "parent_id": "49423454-c8ba-4e64-913f-772f59fb7027",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "for",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " loop is powerful enough to express "
+            ],
+            [
+              "while",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " loops."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "for",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " loop is powerful enough to express "
+          },
+          {
+            "Text": "while",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " loops."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156028180,
+        "id": "42853912-b09b-471b-a124-8c2cb73152c3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156028180,
+        "parent_id": "49423454-c8ba-4e64-913f-772f59fb7027",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For example, this C++ while loop:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For example, this C++ while loop:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156028180,
+        "id": "ad0ba0f4-8425-4a06-a133-4ac53fc9c13e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203601374,
+        "parent_id": "49423454-c8ba-4e64-913f-772f59fb7027",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "int n = 0;\nwhile (n \u003c 3) {\n    printf(\"n: %d\\n\", n);\n    n++;\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "int n = 0;\nwhile (n \u003c 3) {\n    printf(\"n: %d\\n\", n);\n    n++;\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156028181,
+        "id": "7926c607-ea4f-434d-993f-099cbba02d48",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156028181,
+        "parent_id": "49423454-c8ba-4e64-913f-772f59fb7027",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "can be expressed as "
+            ],
+            [
+              "for",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " loop:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "can be expressed as "
+          },
+          {
+            "Text": "for",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " loop:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156028181,
+        "id": "3dccd290-f001-40a4-978e-8bd3799e6ae7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203604897,
+        "parent_id": "49423454-c8ba-4e64-913f-772f59fb7027",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "for n := 0; n \u003c 3; n++ {\n    fmt.Printf(\"n: %d\\n\", n)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "for n := 0; n \u003c 3; n++ {\n    fmt.Printf(\"n: %d\\n\", n)\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "while loop",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

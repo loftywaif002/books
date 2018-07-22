@@ -1,0 +1,314 @@
+{
+  "ID": "408ca6ba-b89f-4e46-8d58-b26a951c12d7",
+  "Page": {
+    "alive": true,
+    "content": [
+      "c580d4f0-7a86-4ed6-804b-7826354aa275",
+      "ca34dcf8-9b4e-428e-8e29-957fe4c4f69a",
+      "9774a7ed-7f24-4887-ba28-37ca67983c89",
+      "5c35d902-026b-456c-acd1-9e7722f92132",
+      "ee556e85-7f8a-476b-83e0-292a59922479",
+      "27641976-7d2a-474f-8330-4e10247d4ade",
+      "0f55a69b-40b5-4f18-a29d-370020a68abe",
+      "57edf98c-f8a9-4884-b9d7-643190c6c7d8"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156115237,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "408ca6ba-b89f-4e46-8d58-b26a951c12d7",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532237155541,
+    "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Go to JSON type mappings"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207733507,
+        "id": "c580d4f0-7a86-4ed6-804b-7826354aa275",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207736697,
+        "parent_id": "408ca6ba-b89f-4e46-8d58-b26a951c12d7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 188"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 188"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207735152,
+        "id": "ca34dcf8-9b4e-428e-8e29-957fe4c4f69a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207737757,
+        "parent_id": "408ca6ba-b89f-4e46-8d58-b26a951c12d7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: g32600tb"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: g32600tb"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207738159,
+        "id": "9774a7ed-7f24-4887-ba28-37ca67983c89",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207738170,
+        "parent_id": "408ca6ba-b89f-4e46-8d58-b26a951c12d7",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156115233,
+        "id": "5c35d902-026b-456c-acd1-9e7722f92132",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156115233,
+        "parent_id": "408ca6ba-b89f-4e46-8d58-b26a951c12d7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is the mapping between Go types and JSON types:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is the mapping between Go types and JSON types:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156115234,
+        "id": "ee556e85-7f8a-476b-83e0-292a59922479",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156115234,
+        "parent_id": "408ca6ba-b89f-4e46-8d58-b26a951c12d7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "JSON Type"
+            ],
+            [
+              "Go Concrete Type"
+            ],
+            [
+              "boolean"
+            ],
+            [
+              "bool"
+            ],
+            [
+              "numbers"
+            ],
+            [
+              "float64 or int"
+            ],
+            [
+              "string"
+            ],
+            [
+              "string"
+            ],
+            [
+              "array"
+            ],
+            [
+              "slice"
+            ],
+            [
+              "dictionary"
+            ],
+            [
+              "struct"
+            ],
+            [
+              "null"
+            ],
+            [
+              "nil"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "JSON Type"
+          },
+          {
+            "Text": "Go Concrete Type"
+          },
+          {
+            "Text": "boolean"
+          },
+          {
+            "Text": "bool"
+          },
+          {
+            "Text": "numbers"
+          },
+          {
+            "Text": "float64 or int"
+          },
+          {
+            "Text": "string"
+          },
+          {
+            "Text": "string"
+          },
+          {
+            "Text": "array"
+          },
+          {
+            "Text": "slice"
+          },
+          {
+            "Text": "dictionary"
+          },
+          {
+            "Text": "struct"
+          },
+          {
+            "Text": "null"
+          },
+          {
+            "Text": "nil"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156115236,
+        "id": "27641976-7d2a-474f-8330-4e10247d4ade",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156115236,
+        "parent_id": "408ca6ba-b89f-4e46-8d58-b26a951c12d7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here’s how they look in practice:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Here’s how they look in practice:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156115237,
+        "id": "0f55a69b-40b5-4f18-a29d-370020a68abe",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156115237,
+        "parent_id": "408ca6ba-b89f-4e46-8d58-b26a951c12d7",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file type_mapping.go output sha1:98f4f0fb3439e97bc8e73268a73dbb378a9990c9 goplayground:F36DkvViH06"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file type_mapping.go output sha1:98f4f0fb3439e97bc8e73268a73dbb378a9990c9 goplayground:F36DkvViH06"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532237155541,
+        "id": "57edf98c-f8a9-4884-b9d7-643190c6c7d8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532237155541,
+        "parent_id": "408ca6ba-b89f-4e46-8d58-b26a951c12d7",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Go to JSON type mappings",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,203 @@
+{
+  "ID": "59e924ef-82eb-462a-86a3-fe905d13c2ce",
+  "Page": {
+    "alive": true,
+    "content": [
+      "c0aaf5cb-192c-4e52-9c64-fbd981bebcb9",
+      "5a962b89-c481-4dd2-8891-4805e6b9c0e1",
+      "1e4c5b8a-8c50-4145-ba34-1e84810e6de3",
+      "c2d2fe9a-6adc-4928-aea8-e179e763b25e",
+      "c15e4f32-6937-4207-a830-3bd7befd0106",
+      "c84a164c-0101-479c-925d-4a9993f85214"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156120171,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "59e924ef-82eb-462a-86a3-fe905d13c2ce",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532208030060,
+    "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Parse XML from filef"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208016287,
+        "id": "c0aaf5cb-192c-4e52-9c64-fbd981bebcb9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208019820,
+        "parent_id": "59e924ef-82eb-462a-86a3-fe905d13c2ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 331"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 331"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208017985,
+        "id": "5a962b89-c481-4dd2-8891-4805e6b9c0e1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208018681,
+        "parent_id": "59e924ef-82eb-462a-86a3-fe905d13c2ce",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156120171,
+        "id": "1e4c5b8a-8c50-4145-ba34-1e84810e6de3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156120171,
+        "parent_id": "59e924ef-82eb-462a-86a3-fe905d13c2ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can decode XML data from a file on disk."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can decode XML data from a file on disk."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156120171,
+        "id": "c2d2fe9a-6adc-4928-aea8-e179e763b25e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156120171,
+        "parent_id": "59e924ef-82eb-462a-86a3-fe905d13c2ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file parse_from_file.go output sha1:583dda60d8dd584d2e9d16466422579adf06f4be goplayground:hPVUuMEb2jt"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file parse_from_file.go output sha1:583dda60d8dd584d2e9d16466422579adf06f4be goplayground:hPVUuMEb2jt"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156120171,
+        "id": "c15e4f32-6937-4207-a830-3bd7befd0106",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156120171,
+        "parent_id": "59e924ef-82eb-462a-86a3-fe905d13c2ce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "By writing a helper function "
+            ],
+            [
+              "decodeFromReader",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", we can easily write wrappers that will work on files, strings or network connections."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "By writing a helper function "
+          },
+          {
+            "Text": "decodeFromReader",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", we can easily write wrappers that will work on files, strings or network connections."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208030060,
+        "id": "c84a164c-0101-479c-925d-4a9993f85214",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208030060,
+        "parent_id": "59e924ef-82eb-462a-86a3-fe905d13c2ce",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Parse XML from filef",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

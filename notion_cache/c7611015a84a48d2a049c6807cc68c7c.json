@@ -1,0 +1,402 @@
+{
+  "ID": "c7611015-a84a-48d2-a049-c6807cc68c7c",
+  "Page": {
+    "alive": true,
+    "content": [
+      "fb901f5c-48e1-4d9a-952d-e049c4dcf0f1",
+      "b0e601a4-f2df-46ea-87c0-e0074bdfe7fe",
+      "ff78ed61-255b-4975-b549-6244ffdfebf1",
+      "13b38b54-cb13-4e6a-b4d2-580563ca9003",
+      "e7395e67-5111-4e07-acf3-cfb11c0e67b2",
+      "47db1de1-c99e-4055-a6ff-fa2762245714",
+      "2cdce486-8b6f-4a2a-b791-8694eff9f0ed",
+      "2d0759d0-f63f-4f05-bc93-ed65afa63a75",
+      "9de80953-118b-451b-b762-3a69d2f393c3"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155927148,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532233191559,
+    "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Booleans"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532160203212,
+        "id": "fb901f5c-48e1-4d9a-952d-e049c4dcf0f1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233149674,
+        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 13"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 13"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532160206379,
+        "id": "b0e601a4-f2df-46ea-87c0-e0074bdfe7fe",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233150445,
+        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: rd6000m1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: rd6000m1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532160207851,
+        "id": "ff78ed61-255b-4975-b549-6244ffdfebf1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532160207863,
+        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155927146,
+        "id": "13b38b54-cb13-4e6a-b4d2-580563ca9003",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155927146,
+        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Value of type "
+            ],
+            [
+              "bool",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " can be "
+            ],
+            [
+              "true",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "false",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Value of type "
+          },
+          {
+            "Text": "bool",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " can be "
+          },
+          {
+            "Text": "true",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "false",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155927146,
+        "id": "e7395e67-5111-4e07-acf3-cfb11c0e67b2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155927146,
+        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file booleans.go output sha1:3cc52f4f2cc3707255c29911b5e9a9b60e1f11fd goplayground:DiDp-lzNhXg"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file booleans.go output sha1:3cc52f4f2cc3707255c29911b5e9a9b60e1f11fd goplayground:DiDp-lzNhXg"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155927148,
+        "id": "47db1de1-c99e-4055-a6ff-fa2762245714",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155927148,
+        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Size of "
+            ],
+            [
+              "bool",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " variable (e.g. when part of a "
+            ],
+            [
+              "struct",
+              [
+                [
+                  "a",
+                  "23"
+                ]
+              ]
+            ],
+            [
+              ") is 1 byte."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Size of "
+          },
+          {
+            "Text": "bool",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " variable (e.g. when part of a "
+          },
+          {
+            "Text": "struct",
+            "Link": "23"
+          },
+          {
+            "Text": ") is 1 byte."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155927148,
+        "id": "2cdce486-8b6f-4a2a-b791-8694eff9f0ed",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155927148,
+        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file booleans-2.go output sha1:872c6cd5d3907f9459329028f440f113dc980e13 goplayground:Ucs5pvMhE4V"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file booleans-2.go output sha1:872c6cd5d3907f9459329028f440f113dc980e13 goplayground:Ucs5pvMhE4V"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155927148,
+        "id": "2d0759d0-f63f-4f05-bc93-ed65afa63a75",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233190757,
+        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of "
+            ],
+            [
+              "bool",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is "
+            ],
+            [
+              "false",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of "
+          },
+          {
+            "Text": "bool",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is "
+          },
+          {
+            "Text": "false",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532233191559,
+        "id": "9de80953-118b-451b-b762-3a69d2f393c3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233191559,
+        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Booleans",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

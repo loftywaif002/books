@@ -1,0 +1,278 @@
+{
+  "ID": "9294fd2a-3da0-4b2d-9762-8aa8c49e0b53",
+  "Page": {
+    "alive": true,
+    "content": [
+      "91c46d29-4508-497d-9d6c-ce8141e5f997",
+      "109d4d8d-1f61-45ec-8e48-eef5f3163cd4",
+      "77d1f0ee-145a-4dff-8875-90b535bd9d74",
+      "b303236b-2b66-4b4f-885a-1c8d14104c2d",
+      "f8b9cbb6-580b-4773-b567-87bc33d19822",
+      "24723c56-84c7-44bf-816d-42dbfd6fa1c7",
+      "b3ec4015-da33-4fa2-89f2-fdf3ed75faa0"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156279152,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "9294fd2a-3da0-4b2d-9762-8aa8c49e0b53",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532215221243,
+    "parent_id": "c84a4530-4ec3-4980-81c6-7aa1ea0d9c49",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Cropping image"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 33,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215202686,
+        "id": "91c46d29-4508-497d-9d6c-ce8141e5f997",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215205227,
+        "parent_id": "9294fd2a-3da0-4b2d-9762-8aa8c49e0b53",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 318"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 318"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215205227,
+        "id": "109d4d8d-1f61-45ec-8e48-eef5f3163cd4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215209962,
+        "parent_id": "9294fd2a-3da0-4b2d-9762-8aa8c49e0b53",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 17,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215209962,
+        "id": "77d1f0ee-145a-4dff-8875-90b535bd9d74",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215211748,
+        "parent_id": "9294fd2a-3da0-4b2d-9762-8aa8c49e0b53",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 31687"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 31687"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215212923,
+        "id": "b303236b-2b66-4b4f-885a-1c8d14104c2d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215212923,
+        "parent_id": "9294fd2a-3da0-4b2d-9762-8aa8c49e0b53",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215211748,
+        "id": "f8b9cbb6-580b-4773-b567-87bc33d19822",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215212715,
+        "parent_id": "9294fd2a-3da0-4b2d-9762-8aa8c49e0b53",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Most of image type in "
+            ],
+            [
+              "image",
+              [
+                [
+                  "a",
+                  "https://golang.org/pkg/image/"
+                ]
+              ]
+            ],
+            [
+              " package having "
+            ],
+            [
+              "SubImage(r Rectangle) Image",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " method, except "
+            ],
+            [
+              "image.Uniform",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". Based on this fact, We can implement a function to crop an arbitrary image as follows"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Most of image type in "
+          },
+          {
+            "Text": "image",
+            "Link": "https://golang.org/pkg/image/"
+          },
+          {
+            "Text": " package having "
+          },
+          {
+            "Text": "SubImage(r Rectangle) Image",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " method, except "
+          },
+          {
+            "Text": "image.Uniform",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". Based on this fact, We can implement a function to crop an arbitrary image as follows"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156279150,
+        "id": "24723c56-84c7-44bf-816d-42dbfd6fa1c7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215225780,
+        "parent_id": "9294fd2a-3da0-4b2d-9762-8aa8c49e0b53",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func CropImage(img image.Image, cropRect image.Rectangle) (cropImg image.Image, newImg bool) {\n    //Interface for asserting whether `img`\n    //implements SubImage or not.\n    //This can be defined globally.\n    type CropableImage interface {\n        image.Image\n        SubImage(r image.Rectangle) image.Image\n    }\n\n    if p, ok := img.(CropableImage); ok {\n        // Call SubImage. This should be fast,\n        // since SubImage (usually) shares underlying pixel.\n        cropImg = p.SubImage(cropRect)\n    } else if cropRect = cropRect.Intersect(img.Bounds()); !cropRect.Empty() {\n        // If `img` does not implement `SubImage`,\n        // copy (and silently convert) the image portion to RGBA image.\n        rgbaImg := image.NewRGBA(cropRect)\n        for y := cropRect.Min.Y; y \u003c cropRect.Max.Y; y++ {\n            for x := cropRect.Min.X; x \u003c cropRect.Max.X; x++ {\n                rgbaImg.Set(x, y, img.At(x, y))\n            }\n        }\n        cropImg = rgbaImg\n        newImg = true\n    } else {\n        // Return an empty RGBA image\n        cropImg = \u0026image.RGBA{}\n        newImg = true\n    }\n\n    return cropImg, newImg\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func CropImage(img image.Image, cropRect image.Rectangle) (cropImg image.Image, newImg bool) {\n    //Interface for asserting whether `img`\n    //implements SubImage or not.\n    //This can be defined globally.\n    type CropableImage interface {\n        image.Image\n        SubImage(r image.Rectangle) image.Image\n    }\n\n    if p, ok := img.(CropableImage); ok {\n        // Call SubImage. This should be fast,\n        // since SubImage (usually) shares underlying pixel.\n        cropImg = p.SubImage(cropRect)\n    } else if cropRect = cropRect.Intersect(img.Bounds()); !cropRect.Empty() {\n        // If `img` does not implement `SubImage`,\n        // copy (and silently convert) the image portion to RGBA image.\n        rgbaImg := image.NewRGBA(cropRect)\n        for y := cropRect.Min.Y; y \u003c cropRect.Max.Y; y++ {\n            for x := cropRect.Min.X; x \u003c cropRect.Max.X; x++ {\n                rgbaImg.Set(x, y, img.At(x, y))\n            }\n        }\n        cropImg = rgbaImg\n        newImg = true\n    } else {\n        // Return an empty RGBA image\n        cropImg = \u0026image.RGBA{}\n        newImg = true\n    }\n\n    return cropImg, newImg\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156279152,
+        "id": "b3ec4015-da33-4fa2-89f2-fdf3ed75faa0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156279152,
+        "parent_id": "9294fd2a-3da0-4b2d-9762-8aa8c49e0b53",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Note that the cropped image may shared its underlying pixels with the original image. If this is the case, any modification to the cropped image will affect the original image."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Note that the cropped image may shared its underlying pixels with the original image. If this is the case, any modification to the cropped image will affect the original image."
+          }
+        ]
+      }
+    ],
+    "title": "Cropping image",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

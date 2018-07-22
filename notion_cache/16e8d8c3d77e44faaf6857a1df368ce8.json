@@ -1,0 +1,1387 @@
+{
+  "ID": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+  "Page": {
+    "alive": true,
+    "content": [
+      "67735dcc-5ea9-4668-bf63-82b5232ecefd",
+      "92740791-4d73-496a-8014-ce44a207df1f",
+      "38346601-a5f2-4de1-9320-15b8eddabdce",
+      "5e076df5-9f78-4ae4-b852-6fe344ddfedd",
+      "00187e15-5688-43b0-b1bf-f015ffb492a2",
+      "1d623619-a48f-4061-9b49-de3c70899a15",
+      "b8e4e074-cfe4-48cc-9032-80f44eca96f1",
+      "3f2ee4c4-6a5a-4c12-adf0-99d287576740",
+      "b0468440-e186-4e77-baba-87189c356f33",
+      "038aabcf-01b6-476a-bb7e-f908dfab5a26",
+      "826f45e7-b574-492d-8b67-9ef5612b2bc9",
+      "f83208a0-c766-4da8-8787-d9c75d249ae6",
+      "a91537ba-e2e5-4b5d-8665-049e86c23c7e",
+      "67b10d08-f44e-4b6d-9c2d-51b4ef91a700",
+      "20d30871-f2c7-47d5-880d-080bcbc708e4",
+      "a1c3475b-13cb-43ba-9d8c-887ef89484c1",
+      "e27e1665-607a-4c48-9412-9263204883ef",
+      "ae4e9ba8-1966-49f5-bd10-7a9da6d5ab04",
+      "e2ab7e7c-18c1-4f23-b866-efae6f29417b",
+      "096f4ef2-422e-4bd6-bf6b-e775cd4701aa",
+      "444444bf-deda-4302-8d52-d022739c3bc9",
+      "79bff359-66f3-407e-92a3-9adb536c0fcf",
+      "0a945a49-7f1e-4f72-a3cb-675cf7b7db28",
+      "3ae31ab5-f9d5-4a8d-b899-d420fd174899",
+      "8149244e-653a-4c28-a1c5-cad0f5e544ac",
+      "0015b241-2b12-4510-b13b-af0267d1fa9a",
+      "4af69798-78ec-40cd-93bd-b32ff1bf09fb",
+      "2b96ed78-a36c-46c2-aeb4-2ccf12a7f7be",
+      "af5bdeba-e877-45e8-ba6e-650971ce8d24",
+      "215c1602-e5c1-4e8f-8a4a-9aec1e54b64d",
+      "7e14be45-1317-41b7-92a9-550b1f66af55",
+      "cd9d3b43-8181-4260-9b73-de9687449a02",
+      "cf850520-3a65-4dce-af24-371d978fbed5",
+      "1bd528bb-f5dc-4155-9460-b2f9a11d6164",
+      "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+      "26ac6084-d740-4f73-85e4-eccaa3fd20de"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156061213,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236282534,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Concurrency"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 30,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205565314,
+        "id": "67735dcc-5ea9-4668-bf63-82b5232ecefd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236283480,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 136"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 136"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205566844,
+        "id": "92740791-4d73-496a-8014-ce44a207df1f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236285848,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 376"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$SOId: 376"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205568316,
+        "id": "38346601-a5f2-4de1-9320-15b8eddabdce",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205568764,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061203,
+        "id": "5e076df5-9f78-4ae4-b852-6fe344ddfedd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061203,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go uses goroutines for concurrency. Simplifying, they are like threads."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go uses goroutines for concurrency. Simplifying, they are like threads."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061203,
+        "id": "00187e15-5688-43b0-b1bf-f015ffb492a2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061203,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Gorutines execute independently and share memory space."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Gorutines execute independently and share memory space."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061203,
+        "id": "1d623619-a48f-4061-9b49-de3c70899a15",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061203,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Since they can write to the same memory, care needs to be taken when writing to the same global variables from multiple goroutines."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Since they can write to the same memory, care needs to be taken when writing to the same global variables from multiple goroutines."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061203,
+        "id": "b8e4e074-cfe4-48cc-9032-80f44eca96f1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061203,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To coordinate work between goroutines Go provides channels, which are thread-safe queues."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To coordinate work between goroutines Go provides channels, which are thread-safe queues."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061204,
+        "id": "3f2ee4c4-6a5a-4c12-adf0-99d287576740",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061204,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here’s an example of using worker pool of goroutines and coordinating their work with channels:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Here’s an example of using worker pool of goroutines and coordinating their work with channels:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061204,
+        "id": "b0468440-e186-4e77-baba-87189c356f33",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061204,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index.go output sha1:a4d1d5f37a28cb84a230fafab06e96384f1560f1 goplayground:7BD9mDiG0Uu"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index.go output sha1:a4d1d5f37a28cb84a230fafab06e96384f1560f1 goplayground:7BD9mDiG0Uu"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061204,
+        "id": "038aabcf-01b6-476a-bb7e-f908dfab5a26",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061204,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "There’s a lot to unpack here."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "There’s a lot to unpack here."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061204,
+        "id": "826f45e7-b574-492d-8b67-9ef5612b2bc9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061204,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We launch 2 workers with "
+            ],
+            [
+              "go sqrtWorker(chIn, chOut)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We launch 2 workers with "
+          },
+          {
+            "Text": "go sqrtWorker(chIn, chOut)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061205,
+        "id": "f83208a0-c766-4da8-8787-d9c75d249ae6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061205,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Each "
+            ],
+            [
+              "sqrtWorker",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function is running independently and concurrently with all other code."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Each "
+          },
+          {
+            "Text": "sqrtWorker",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function is running independently and concurrently with all other code."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061206,
+        "id": "a91537ba-e2e5-4b5d-8665-049e86c23c7e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061206,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We use a single channel of int values to queue work items to be processed by worker goroutines using "
+            ],
+            [
+              "\u003c-",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " send operation on a channel."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We use a single channel of int values to queue work items to be processed by worker goroutines using "
+          },
+          {
+            "Text": "\u003c-",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " send operation on a channel."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061206,
+        "id": "67b10d08-f44e-4b6d-9c2d-51b4ef91a700",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061206,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Most of the time it’s not safe to access the same variable from multiple goroutines. Channels and "
+            ],
+            [
+              "sync.WaitGroup",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " are exceptions."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Most of the time it’s not safe to access the same variable from multiple goroutines. Channels and "
+          },
+          {
+            "Text": "sync.WaitGroup",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " are exceptions."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061208,
+        "id": "20d30871-f2c7-47d5-880d-080bcbc708e4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061208,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Worker goroutines "
+            ],
+            [
+              "sqrtWorker",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " pick up values from the channel using "
+            ],
+            [
+              "range",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Worker goroutines "
+          },
+          {
+            "Text": "sqrtWorker",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " pick up values from the channel using "
+          },
+          {
+            "Text": "range",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061208,
+        "id": "a1c3475b-13cb-43ba-9d8c-887ef89484c1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061208,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We don’t know which worker will pick any given value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We don’t know which worker will pick any given value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061208,
+        "id": "e27e1665-607a-4c48-9412-9263204883ef",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061208,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Worker’s "
+            ],
+            [
+              "for",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " loop terminates when "
+            ],
+            [
+              "chIn",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is closed with "
+            ],
+            [
+              "close(chIn)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and worker goroutine terminates."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Worker’s "
+          },
+          {
+            "Text": "for",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " loop terminates when "
+          },
+          {
+            "Text": "chIn",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is closed with "
+          },
+          {
+            "Text": "close(chIn)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and worker goroutine terminates."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061209,
+        "id": "ae4e9ba8-1966-49f5-bd10-7a9da6d5ab04",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061209,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To pass results of worker goroutines back to the caller we use another channel."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To pass results of worker goroutines back to the caller we use another channel."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061209,
+        "id": "e2ab7e7c-18c1-4f23-b866-efae6f29417b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061209,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In this example we use unbuffered channels which only have capacity for one item at a time. For that reason we launch another goroutine to fill "
+            ],
+            [
+              "chIn",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". Otherwise we would risk dead-lock."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In this example we use unbuffered channels which only have capacity for one item at a time. For that reason we launch another goroutine to fill "
+          },
+          {
+            "Text": "chIn",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". Otherwise we would risk dead-lock."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061209,
+        "id": "096f4ef2-422e-4bd6-bf6b-e775cd4701aa",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061209,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To shutdown workers we close the "
+            ],
+            [
+              "chIn",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To shutdown workers we close the "
+          },
+          {
+            "Text": "chIn",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061209,
+        "id": "444444bf-deda-4302-8d52-d022739c3bc9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061209,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We then wait for results created by workers by iterating on "
+            ],
+            [
+              "chOut",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We then wait for results created by workers by iterating on "
+          },
+          {
+            "Text": "chOut",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061210,
+        "id": "79bff359-66f3-407e-92a3-9adb536c0fcf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061210,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "There’s one more complication. Unless we close "
+            ],
+            [
+              "chOut",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", the "
+            ],
+            [
+              "for sqrt := range chOut",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " loop will wait forever."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "There’s one more complication. Unless we close "
+          },
+          {
+            "Text": "chOut",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", the "
+          },
+          {
+            "Text": "for sqrt := range chOut",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " loop will wait forever."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061210,
+        "id": "0a945a49-7f1e-4f72-a3cb-675cf7b7db28",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061210,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To stop the loop, we need to "
+            ],
+            [
+              "close(chOut)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " but when to do it?"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To stop the loop, we need to "
+          },
+          {
+            "Text": "close(chOut)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " but when to do it?"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061212,
+        "id": "3ae31ab5-f9d5-4a8d-b899-d420fd174899",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061212,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can’t do it in "
+            ],
+            [
+              "sqrtWorker",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " because there are many of them and calling "
+            ],
+            [
+              "close",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " on an already closed channel will "
+            ],
+            [
+              "panic",
+              [
+                [
+                  "a",
+                  "131"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can’t do it in "
+          },
+          {
+            "Text": "sqrtWorker",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " because there are many of them and calling "
+          },
+          {
+            "Text": "close",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " on an already closed channel will "
+          },
+          {
+            "Text": "panic",
+            "Link": "131"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061212,
+        "id": "8149244e-653a-4c28-a1c5-cad0f5e544ac",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061212,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "sync.WaitGroup",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a thread-safe counter that can be incremented / decremented and allows for waiting until the counter reaches 0."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "sync.WaitGroup",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a thread-safe counter that can be incremented / decremented and allows for waiting until the counter reaches 0."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061212,
+        "id": "0015b241-2b12-4510-b13b-af0267d1fa9a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061212,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Before we launch the worker, we increment "
+            ],
+            [
+              "wg",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " counter."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Before we launch the worker, we increment "
+          },
+          {
+            "Text": "wg",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " counter."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061212,
+        "id": "4af69798-78ec-40cd-93bd-b32ff1bf09fb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061212,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Just before terminating, the worker decrements "
+            ],
+            [
+              "wg",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " counter."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Just before terminating, the worker decrements "
+          },
+          {
+            "Text": "wg",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " counter."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061213,
+        "id": "2b96ed78-a36c-46c2-aeb4-2ccf12a7f7be",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061213,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We then "
+            ],
+            [
+              "wg.Wait()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " for the counter to reach 0, which indicates that all workers have finished and it’s now safe to close the output channel."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We then "
+          },
+          {
+            "Text": "wg.Wait()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " for the counter to reach 0, which indicates that all workers have finished and it’s now safe to close the output channel."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061213,
+        "id": "af5bdeba-e877-45e8-ba6e-650971ce8d24",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061213,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It has to happen in its own goroutine to avoid blocking."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It has to happen in its own goroutine to avoid blocking."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061213,
+        "id": "215c1602-e5c1-4e8f-8a4a-9aec1e54b64d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156061213,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Why go to all this trouble to calculate a simple value?"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Why go to all this trouble to calculate a simple value?"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156061213,
+        "id": "7e14be45-1317-41b7-92a9-550b1f66af55",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205576189,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is just an example. In a real programs worker goroutine would perform longer jobs like downloading a file from the internet or resizing a large image."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 6,
+        "inline_content": [
+          {
+            "Text": "This is just an example. In a real programs worker goroutine would perform longer jobs like downloading a file from the internet or resizing a large image."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205577482,
+        "id": "cd9d3b43-8181-4260-9b73-de9687449a02",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205577490,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156062141,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "cf850520-3a65-4dce-af24-371d978fbed5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236290938,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Hello World goroutine"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Hello World goroutine",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156063188,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "1bd528bb-f5dc-4155-9460-b2f9a11d6164",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236364038,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Create goroutines"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Create goroutines",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156064168,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236374324,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Wait for goroutines to finish"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Wait for goroutines to finish",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156065168,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236420259,
+        "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Limiting concurrency with semaphore"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Limiting concurrency with semaphore",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Concurrency",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

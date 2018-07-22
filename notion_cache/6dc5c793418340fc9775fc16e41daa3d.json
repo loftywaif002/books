@@ -1,0 +1,282 @@
+{
+  "ID": "6dc5c793-4183-40fc-9775-fc16e41daa3d",
+  "Page": {
+    "alive": true,
+    "content": [
+      "135a7069-ee21-4d31-83e2-e59559f50b69",
+      "467fe795-8f96-4e49-9dea-c1416887b8e0",
+      "58cc9ca2-7f1b-42c1-9dc3-bcdc3040ea28",
+      "3de46127-05ae-49ba-8ae6-a47aa0072cb0",
+      "22f791da-4893-4268-9925-a52f6a2a2e4e",
+      "0b8aee45-368e-4fb4-9d3b-127dc77a95c0",
+      "472eb372-c771-4a0e-80d0-8e35194f48b3",
+      "aa01bf6c-9e25-4488-b197-c4dd00a221ba",
+      "7c917aa7-69b9-4f50-bbe6-723d43e7ccc6"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156232157,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "6dc5c793-4183-40fc-9775-fc16e41daa3d",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213647293,
+    "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Structs"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 27,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213612463,
+        "id": "135a7069-ee21-4d31-83e2-e59559f50b69",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213650373,
+        "parent_id": "6dc5c793-4183-40fc-9775-fc16e41daa3d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 282"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 282"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213620924,
+        "id": "467fe795-8f96-4e49-9dea-c1416887b8e0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213651045,
+        "parent_id": "6dc5c793-4183-40fc-9775-fc16e41daa3d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213622373,
+        "id": "58cc9ca2-7f1b-42c1-9dc3-bcdc3040ea28",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213651740,
+        "parent_id": "6dc5c793-4183-40fc-9775-fc16e41daa3d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 27425"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 27425"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213628771,
+        "id": "3de46127-05ae-49ba-8ae6-a47aa0072cb0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213628771,
+        "parent_id": "6dc5c793-4183-40fc-9775-fc16e41daa3d",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213624819,
+        "id": "22f791da-4893-4268-9925-a52f6a2a2e4e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213633574,
+        "parent_id": "6dc5c793-4183-40fc-9775-fc16e41daa3d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go supports user defined types in the form of structs and type aliases. structs are composite types, the component pieces of data that constitute the struct type are called "
+            ],
+            [
+              "fields",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              ". a field has a type and a name which must be unique."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "Go supports user defined types in the form of structs and type aliases. structs are composite types, the component pieces of data that constitute the struct type are called "
+          },
+          {
+            "Text": "fields",
+            "AttrFlags": 4
+          },
+          {
+            "Text": ". a field has a type and a name which must be unique."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213636283,
+        "id": "0b8aee45-368e-4fb4-9d3b-127dc77a95c0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213636283,
+        "parent_id": "6dc5c793-4183-40fc-9775-fc16e41daa3d",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156232156,
+        "id": "472eb372-c771-4a0e-80d0-8e35194f48b3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213638973,
+        "parent_id": "6dc5c793-4183-40fc-9775-fc16e41daa3d",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\ntype User struct {\n    ID uint64\n    FullName string\n    Email    string\n}\n\nfunc main() {\n    user := User{\n        1,\n        \"Zelalem Mekonen\",\n        \"zola.mk.27@gmail.com\",\n    }\n\n    fmt.Println(user) // {1 Zelalem Mekonen zola.mk.27@gmail.com}\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\ntype User struct {\n    ID uint64\n    FullName string\n    Email    string\n}\n\nfunc main() {\n    user := User{\n        1,\n        \"Zelalem Mekonen\",\n        \"zola.mk.27@gmail.com\",\n    }\n\n    fmt.Println(user) // {1 Zelalem Mekonen zola.mk.27@gmail.com}\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156232157,
+        "id": "aa01bf6c-9e25-4488-b197-c4dd00a221ba",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156232157,
+        "parent_id": "6dc5c793-4183-40fc-9775-fc16e41daa3d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "this is also a legal syntax for definining structs"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "this is also a legal syntax for definining structs"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156232157,
+        "id": "7c917aa7-69b9-4f50-bbe6-723d43e7ccc6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213641950,
+        "parent_id": "6dc5c793-4183-40fc-9775-fc16e41daa3d",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type User struct {\n    ID uint64\n    FullName, Email string\n}\n\nuser := new(User)\n\nuser.ID = 1\nuser.FullName = \"Zelalem Mekonen\"\nuser.Email = \"zola.mk.27@gmail.com\""
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type User struct {\n    ID uint64\n    FullName, Email string\n}\n\nuser := new(User)\n\nuser.ID = 1\nuser.FullName = \"Zelalem Mekonen\"\nuser.Email = \"zola.mk.27@gmail.com\"",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Structs",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

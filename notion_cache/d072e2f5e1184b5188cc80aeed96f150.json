@@ -1,0 +1,261 @@
+{
+  "ID": "d072e2f5-e118-4b51-88cc-80aeed96f150",
+  "Page": {
+    "alive": true,
+    "content": [
+      "d7f78122-91f7-4929-afb8-3b92309bc93c",
+      "93ca8be3-6f1f-4425-9623-2d82fb3637fa",
+      "88c400ec-f8ab-4e9d-8d48-b48752f84004",
+      "60ab75f5-0fdd-4d08-95b3-12ae8039c75d",
+      "1114f2cb-c768-4fcf-8d21-7768e857a3f6",
+      "780acea6-2e6e-4deb-b0b4-6d65aa0b3f97",
+      "a959aaa9-f208-40cc-801f-339d2b3c451a",
+      "8ca648e9-822b-4852-8969-517d8c771939",
+      "85620148-ce61-4998-97ed-ebcd629f96b7"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155997125,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "d072e2f5-e118-4b51-88cc-80aeed96f150",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235198917,
+    "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Copy a map"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196619675,
+        "id": "d7f78122-91f7-4929-afb8-3b92309bc93c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235196517,
+        "parent_id": "d072e2f5-e118-4b51-88cc-80aeed96f150",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 74"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 74"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196622249,
+        "id": "93ca8be3-6f1f-4425-9623-2d82fb3637fa",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235197330,
+        "parent_id": "d072e2f5-e118-4b51-88cc-80aeed96f150",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 9834"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 9834"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196625515,
+        "id": "88c400ec-f8ab-4e9d-8d48-b48752f84004",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196625515,
+        "parent_id": "d072e2f5-e118-4b51-88cc-80aeed96f150",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196624287,
+        "id": "60ab75f5-0fdd-4d08-95b3-12ae8039c75d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196625272,
+        "parent_id": "d072e2f5-e118-4b51-88cc-80aeed96f150",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go all values are passed by copy."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "In Go all values are passed by copy."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155997124,
+        "id": "1114f2cb-c768-4fcf-8d21-7768e857a3f6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155997124,
+        "parent_id": "d072e2f5-e118-4b51-88cc-80aeed96f150",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "However, similar to slices, the value of a map is only a reference to underlying data."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "However, similar to slices, the value of a map is only a reference to underlying data."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155997125,
+        "id": "780acea6-2e6e-4deb-b0b4-6d65aa0b3f97",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155997125,
+        "parent_id": "d072e2f5-e118-4b51-88cc-80aeed96f150",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When you assign a map to another variable or pass to another function, you only copy the reference."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When you assign a map to another variable or pass to another function, you only copy the reference."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155997125,
+        "id": "a959aaa9-f208-40cc-801f-339d2b3c451a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155997125,
+        "parent_id": "d072e2f5-e118-4b51-88cc-80aeed96f150",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To copy the values, we need to write a bit of code:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To copy the values, we need to write a bit of code:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155997125,
+        "id": "8ca648e9-822b-4852-8969-517d8c771939",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155997125,
+        "parent_id": "d072e2f5-e118-4b51-88cc-80aeed96f150",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file copy_map.go sha1:14f3c89f1b73df669e3ab1dfaeb6fc20f534cb97 goplayground:u_QPJ3gDicZ"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file copy_map.go sha1:14f3c89f1b73df669e3ab1dfaeb6fc20f534cb97 goplayground:u_QPJ3gDicZ"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532235198917,
+        "id": "85620148-ce61-4998-97ed-ebcd629f96b7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235198917,
+        "parent_id": "d072e2f5-e118-4b51-88cc-80aeed96f150",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Copy a map",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

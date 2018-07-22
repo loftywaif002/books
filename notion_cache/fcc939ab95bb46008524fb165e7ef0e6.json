@@ -1,0 +1,723 @@
+{
+  "ID": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+  "Page": {
+    "alive": true,
+    "content": [
+      "9876ad09-04c0-4fe4-9d21-cf72ffcfccc2",
+      "6302e287-32d9-4052-94e5-8f1603d4cd34",
+      "ace4c76b-9d63-4dde-8f37-f8910dfe2050",
+      "f91d6932-7d0e-4be6-9a52-7eb219590e96",
+      "c7e038a6-9c50-4ea8-9314-f7dbe5e00d3a",
+      "c9af6ce8-0680-47ad-abdd-9191d3723a00",
+      "269ba7e3-5013-4f41-b017-5d418ffa4330",
+      "d7144aa2-cb7b-451b-802d-367b58202e69",
+      "336e80f1-5083-4fe4-9dca-f01383712795",
+      "1def7b5e-8960-4822-8364-b408e0226ed7",
+      "59d0d46d-fc0a-43c2-8bac-046cf28f136c",
+      "dee7d1a8-c6a3-4b09-8397-032753e8aafc",
+      "928048f8-0a38-44f8-80d0-a508d6c52937",
+      "ac0a9928-20e5-4ab3-9e22-dec6ec5d5532",
+      "98fc5135-455e-4b02-ba55-d6b4639d57f4",
+      "2278cfb4-eaa2-45f1-82b1-50d3ce2bd577",
+      "88d8c008-c817-4dd2-8b8d-ad5e85b02f4d",
+      "793173ba-5d8d-4694-8141-c9e868207454"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155973230,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234559616,
+    "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Pointer vs. value methods"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 29,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195881436,
+        "id": "9876ad09-04c0-4fe4-9d21-cf72ffcfccc2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234551158,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 54"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Id: 54"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195884516,
+        "id": "6302e287-32d9-4052-94e5-8f1603d4cd34",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234553489,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 6049"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$SOId: 6049"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973225,
+        "id": "ace4c76b-9d63-4dde-8f37-f8910dfe2050",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155973225,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Pointer Methods"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Pointer Methods"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973225,
+        "id": "f91d6932-7d0e-4be6-9a52-7eb219590e96",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155973225,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Pointer methods can be called even if the variable is itself not a pointer."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Pointer methods can be called even if the variable is itself not a pointer."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973227,
+        "id": "c7e038a6-9c50-4ea8-9314-f7dbe5e00d3a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155973227,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "According to the "
+            ],
+            [
+              "Go Spec",
+              [
+                [
+                  "a",
+                  "https://golang.org/ref/spec#Method_values"
+                ]
+              ]
+            ],
+            [
+              ","
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "According to the "
+          },
+          {
+            "Text": "Go Spec",
+            "Link": "https://golang.org/ref/spec#Method_values"
+          },
+          {
+            "Text": ","
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973227,
+        "id": "c9af6ce8-0680-47ad-abdd-9191d3723a00",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155973227,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              ". . . a reference to a non-interface method with a pointer receiver using an addressable value will automatically take the address of that value: t.Mp is equivalent to (\u0026t).Mp."
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": ". . . a reference to a non-interface method with a pointer receiver using an addressable value will automatically take the address of that value: t.Mp is equivalent to (\u0026t).Mp."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973227,
+        "id": "269ba7e3-5013-4f41-b017-5d418ffa4330",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155973227,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can see this in this example:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can see this in this example:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973227,
+        "id": "d7144aa2-cb7b-451b-802d-367b58202e69",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155973227,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file pointer_methods.go output sha1:db09cfa9a5d39dd638eda6b7eab0e658c0642dee goplayground:hHqYV-X605Z"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file pointer_methods.go output sha1:db09cfa9a5d39dd638eda6b7eab0e658c0642dee goplayground:hHqYV-X605Z"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973227,
+        "id": "336e80f1-5083-4fe4-9dca-f01383712795",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155973227,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Value Methods"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Value Methods"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973228,
+        "id": "1def7b5e-8960-4822-8364-b408e0226ed7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155973228,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Similarly to pointer methods, value methods can be called even if the variable is itself not a value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Similarly to pointer methods, value methods can be called even if the variable is itself not a value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973228,
+        "id": "59d0d46d-fc0a-43c2-8bac-046cf28f136c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155973228,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "According to the "
+            ],
+            [
+              "Go Spec",
+              [
+                [
+                  "a",
+                  "https://golang.org/ref/spec#Method_values"
+                ]
+              ]
+            ],
+            [
+              ","
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "According to the "
+          },
+          {
+            "Text": "Go Spec",
+            "Link": "https://golang.org/ref/spec#Method_values"
+          },
+          {
+            "Text": ","
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973228,
+        "id": "dee7d1a8-c6a3-4b09-8397-032753e8aafc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155973228,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              ". . . a reference to a non-interface method with a value receiver using a pointer will automatically dereference that pointer: pt.Mv is equivalent to (*pt).Mv."
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": ". . . a reference to a non-interface method with a value receiver using a pointer will automatically dereference that pointer: pt.Mv is equivalent to (*pt).Mv."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973229,
+        "id": "928048f8-0a38-44f8-80d0-a508d6c52937",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155973229,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can see this in this example:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can see this in this example:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973229,
+        "id": "ac0a9928-20e5-4ab3-9e22-dec6ec5d5532",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155973229,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file value_methods.go output sha1:22bffb5e9cb5efd7631839d4296d1203cb5fc568 goplayground:OuqIxPF10ef"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file value_methods.go output sha1:22bffb5e9cb5efd7631839d4296d1203cb5fc568 goplayground:OuqIxPF10ef"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973230,
+        "id": "98fc5135-455e-4b02-ba55-d6b4639d57f4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155973230,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To learn more about pointer and value methods, visit the "
+            ],
+            [
+              "Go Spec section on Method Values",
+              [
+                [
+                  "a",
+                  "https://golang.org/ref/spec#Method_values"
+                ]
+              ]
+            ],
+            [
+              ", or see the "
+            ],
+            [
+              "Effective Go section about Pointers v. Values",
+              [
+                [
+                  "a",
+                  "https://golang.org/doc/effective_go.html#pointers_vs_values"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To learn more about pointer and value methods, visit the "
+          },
+          {
+            "Text": "Go Spec section on Method Values",
+            "Link": "https://golang.org/ref/spec#Method_values"
+          },
+          {
+            "Text": ", or see the "
+          },
+          {
+            "Text": "Effective Go section about Pointers v. Values",
+            "Link": "https://golang.org/doc/effective_go.html#pointers_vs_values"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973230,
+        "id": "2278cfb4-eaa2-45f1-82b1-50d3ce2bd577",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155973230,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Note 1: The parenthesis (",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              "()",
+              [
+                [
+                  "i"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ") around ",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              "*p",
+              [
+                [
+                  "i"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and ",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              "\u0026f",
+              [
+                [
+                  "i"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " before selectors like ",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              ".Bar",
+              [
+                [
+                  "i"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " are there for grouping purposes, and must be kept.",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Note 1: The parenthesis (",
+            "AttrFlags": 4
+          },
+          {
+            "Text": "()",
+            "AttrFlags": 6
+          },
+          {
+            "Text": ") around ",
+            "AttrFlags": 4
+          },
+          {
+            "Text": "*p",
+            "AttrFlags": 6
+          },
+          {
+            "Text": " and ",
+            "AttrFlags": 4
+          },
+          {
+            "Text": "\u0026f",
+            "AttrFlags": 6
+          },
+          {
+            "Text": " before selectors like ",
+            "AttrFlags": 4
+          },
+          {
+            "Text": ".Bar",
+            "AttrFlags": 6
+          },
+          {
+            "Text": " are there for grouping purposes, and must be kept.",
+            "AttrFlags": 4
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973230,
+        "id": "88d8c008-c817-4dd2-8b8d-ad5e85b02f4d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155973230,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Note 2: Although pointers can be converted to values (and vice-versa) when they are the receivers for a method, they are",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " not "
+            ],
+            [
+              "automatically converted to each other when they are arguments inside of a function.",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Note 2: Although pointers can be converted to values (and vice-versa) when they are the receivers for a method, they are",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " not "
+          },
+          {
+            "Text": "automatically converted to each other when they are arguments inside of a function.",
+            "AttrFlags": 4
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532234559616,
+        "id": "793173ba-5d8d-4694-8141-c9e868207454",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234559616,
+        "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      }
+    ],
+    "title": "Pointer vs. value methods",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

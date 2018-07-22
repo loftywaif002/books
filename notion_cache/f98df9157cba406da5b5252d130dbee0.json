@@ -1,0 +1,172 @@
+{
+  "ID": "f98df915-7cba-406d-a5b5-252d130dbee0",
+  "Page": {
+    "alive": true,
+    "content": [
+      "83ed1b5c-9f21-464f-acbf-12adb2a584b7",
+      "f1cab5e8-8ed3-4d09-80a0-40f6053f2baf",
+      "06e6f572-3b3c-4c14-ab75-0c9d60f39f92",
+      "14315672-926d-42c0-a877-4aeb17424e66",
+      "8804f484-019c-43e3-8377-012cc68e62dd"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156250124,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "f98df915-7cba-406d-a5b5-252d130dbee0",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532214357549,
+    "parent_id": "d8b9c9c2-a49e-4ba8-a04c-f7ff6ee2db0f",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Middleware Calculate time required for handlerFunc to execute"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214334882,
+        "id": "83ed1b5c-9f21-464f-acbf-12adb2a584b7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214359318,
+        "parent_id": "f98df915-7cba-406d-a5b5-252d130dbee0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 298"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 298"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214337947,
+        "id": "f1cab5e8-8ed3-4d09-80a0-40f6053f2baf",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214361166,
+        "parent_id": "f98df915-7cba-406d-a5b5-252d130dbee0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214339725,
+        "id": "06e6f572-3b3c-4c14-ab75-0c9d60f39f92",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214363370,
+        "parent_id": "f98df915-7cba-406d-a5b5-252d130dbee0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 28936"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$SOId: 28936"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214342131,
+        "id": "14315672-926d-42c0-a877-4aeb17424e66",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214342769,
+        "parent_id": "f98df915-7cba-406d-a5b5-252d130dbee0",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156250124,
+        "id": "8804f484-019c-43e3-8377-012cc68e62dd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214346863,
+        "parent_id": "f98df915-7cba-406d-a5b5-252d130dbee0",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// logger middlerware that logs time taken to process each request\nfunc Logger(h http.Handler) http.Handler {\n    return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {\n        startTime := time.Now()\n        h.ServeHttp(w,r)\n        endTime := time.Since(startTime)\n        log.Printf(\"%s %d %v\", r.URL, r.Method, endTime)\n    })\n}\n\nfunc loginHandler(w http.ResponseWriter, r *http.Request) {\n            // Steps to login\n}\n\nfunc main() {\n    http.HandleFunc(\"/login\", Logger(loginHandler))\n    http.ListenAndServe(\":8080\", nil)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// logger middlerware that logs time taken to process each request\nfunc Logger(h http.Handler) http.Handler {\n    return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {\n        startTime := time.Now()\n        h.ServeHttp(w,r)\n        endTime := time.Since(startTime)\n        log.Printf(\"%s %d %v\", r.URL, r.Method, endTime)\n    })\n}\n\nfunc loginHandler(w http.ResponseWriter, r *http.Request) {\n            // Steps to login\n}\n\nfunc main() {\n    http.HandleFunc(\"/login\", Logger(loginHandler))\n    http.ListenAndServe(\":8080\", nil)\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Middleware Calculate time required for handlerFunc to execute",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

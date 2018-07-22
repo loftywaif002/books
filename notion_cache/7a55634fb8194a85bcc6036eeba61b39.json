@@ -1,0 +1,413 @@
+{
+  "ID": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+  "Page": {
+    "alive": true,
+    "content": [
+      "2c4dd486-07d3-4c64-94c8-b0a197d35e67",
+      "b27f8c2c-067b-4910-bfc3-53482e2a35cb",
+      "6b796187-dbbd-43d5-aa73-13793ed2b3fc",
+      "613ca276-0f27-4b1c-8689-92f9324bd466",
+      "6f0c0062-d1a3-4497-8185-3ab56dc1741f",
+      "136e651b-99a4-4f94-83a7-f5d4e739e5cb",
+      "cf43ecf4-b56d-426c-82f2-1c317bba6260",
+      "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
+      "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+      "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+      "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+      "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+      "bb6bdcc3-1ec2-46ee-91cf-849254d38a66"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156084245,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532206420822,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "File I/O"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 34,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206408646,
+        "id": "2c4dd486-07d3-4c64-94c8-b0a197d35e67",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236743696,
+        "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 159"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 159"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206409999,
+        "id": "b27f8c2c-067b-4910-bfc3-53482e2a35cb",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236744806,
+        "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1033"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1033"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206413110,
+        "id": "6b796187-dbbd-43d5-aa73-13793ed2b3fc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206413110,
+        "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206411469,
+        "id": "613ca276-0f27-4b1c-8689-92f9324bd466",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206412846,
+        "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go has a very robust support for file system handling."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Go has a very robust support for file system handling."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156084244,
+        "id": "6f0c0062-d1a3-4497-8185-3ab56dc1741f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156084244,
+        "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A program that opens a file, reads the whole content and closes the file:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A program that opens a file, reads the whole content and closes the file:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156084244,
+        "id": "136e651b-99a4-4f94-83a7-f5d4e739e5cb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156084244,
+        "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index.go output noplayground"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206396054,
+        "id": "cf43ecf4-b56d-426c-82f2-1c317bba6260",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206396054,
+        "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156085128,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206472014,
+        "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Reading files"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 24,
+        "title": "Reading files",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086129,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236758469,
+        "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Writing files"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Writing files",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087250,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206557385,
+        "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "File operations"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "File operations",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088238,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206624022,
+        "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Directory operations"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 29,
+        "title": "Directory operations",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156089208,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206656374,
+        "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Portable file path operations"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Portable file path operations",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156090148,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "bb6bdcc3-1ec2-46ee-91cf-849254d38a66",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206700132,
+        "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "I/O related interfaces"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "I/O related interfaces",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "File I/O",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,201 @@
+{
+  "ID": "d4de8477-e062-4c50-b0cf-fafe8847293b",
+  "Page": {
+    "alive": true,
+    "content": [
+      "ed7e1389-9553-46ff-84fa-a45410e73721",
+      "bcbefa71-fc5f-47cc-9dc4-93676377a855",
+      "b7f4ae42-2ced-4465-ae6b-688be13d5094",
+      "1319aa70-c5ce-4727-8aaf-56ddbcfd5bed",
+      "bf08f2f4-37b1-475b-955e-457c2b37057e",
+      "63d70b29-65e1-4e25-8f20-019cc2688e4b"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155972121,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "d4de8477-e062-4c50-b0cf-fafe8847293b",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234541942,
+    "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Dereferencing pointers"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195857007,
+        "id": "ed7e1389-9553-46ff-84fa-a45410e73721",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234542774,
+        "parent_id": "d4de8477-e062-4c50-b0cf-fafe8847293b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 53"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 53"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195859986,
+        "id": "bcbefa71-fc5f-47cc-9dc4-93676377a855",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234543549,
+        "parent_id": "d4de8477-e062-4c50-b0cf-fafe8847293b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 23157"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 23157"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195863632,
+        "id": "b7f4ae42-2ced-4465-ae6b-688be13d5094",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195863632,
+        "parent_id": "d4de8477-e062-4c50-b0cf-fafe8847293b",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195861935,
+        "id": "1319aa70-c5ce-4727-8aaf-56ddbcfd5bed",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195863408,
+        "parent_id": "d4de8477-e062-4c50-b0cf-fafe8847293b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Pointers can be dereferenced by adding an asterisk "
+            ],
+            [
+              "*",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " before a pointer."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Pointers can be dereferenced by adding an asterisk "
+          },
+          {
+            "Text": "*",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " before a pointer."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155972121,
+        "id": "bf08f2f4-37b1-475b-955e-457c2b37057e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155972121,
+        "parent_id": "d4de8477-e062-4c50-b0cf-fafe8847293b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file pointer_dereference.go output sha1:af5c17f1074f2d72504f58ac6228a99532da9741 goplayground:Y-NbTU2ab0y"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file pointer_dereference.go output sha1:af5c17f1074f2d72504f58ac6228a99532da9741 goplayground:Y-NbTU2ab0y"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195871799,
+        "id": "63d70b29-65e1-4e25-8f20-019cc2688e4b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195871799,
+        "parent_id": "d4de8477-e062-4c50-b0cf-fafe8847293b",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Dereferencing pointers",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,422 @@
+{
+  "ID": "64647277-99a0-4611-a891-be7ca4877f8c",
+  "Page": {
+    "alive": true,
+    "content": [
+      "499f4c6a-c6cf-4b14-ac7f-bda9663d1a69",
+      "d8a5b69d-07db-4a7f-b529-22530d724f61",
+      "9764445a-5df0-4792-a923-48b80dd52d3d",
+      "42684063-12c8-4314-953b-d9134fe0dbd0",
+      "69146390-4fdb-4031-9697-d695e105eec9",
+      "ae786459-2d59-4b3b-b951-94bc6eebed92",
+      "f492fb97-6806-4430-82cf-c09337f08e7b",
+      "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
+      "b23413ff-0586-45f7-acd8-6257f70712ba",
+      "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+      "3d3b05f8-d86e-4c30-8f5b-a6e874e9a90a",
+      "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+      "04b23c4e-787a-43b3-9d3f-3b26fed1b355"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156035127,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "64647277-99a0-4611-a891-be7ca4877f8c",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235985774,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Functions"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 28,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204384738,
+        "id": "499f4c6a-c6cf-4b14-ac7f-bda9663d1a69",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235986429,
+        "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 111"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 111"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204386440,
+        "id": "d8a5b69d-07db-4a7f-b529-22530d724f61",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235987102,
+        "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 373"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 373"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204388259,
+        "id": "9764445a-5df0-4792-a923-48b80dd52d3d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532204388901,
+        "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156035127,
+        "id": "42684063-12c8-4314-953b-d9134fe0dbd0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156035127,
+        "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Basic function usage:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Basic function usage:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156035127,
+        "id": "69146390-4fdb-4031-9697-d695e105eec9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156035127,
+        "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index.go output sha1:802361c1823ebcc6f5047d89fcf407d5fae8ee7c goplayground:S0Vd05PvH1M"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index.go output sha1:802361c1823ebcc6f5047d89fcf407d5fae8ee7c goplayground:S0Vd05PvH1M"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204374520,
+        "id": "ae786459-2d59-4b3b-b951-94bc6eebed92",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532204374520,
+        "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156036191,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "f492fb97-6806-4430-82cf-c09337f08e7b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235991659,
+        "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Parameters"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Parameters",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156037203,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236001166,
+        "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Variadic functions"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Variadic functions",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156038161,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "b23413ff-0586-45f7-acd8-6257f70712ba",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236006769,
+        "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Return values"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Return values",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156039144,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236013595,
+        "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Named return values"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Named return values",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156040194,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "3d3b05f8-d86e-4c30-8f5b-a6e874e9a90a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236020197,
+        "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Function literals"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Function literals",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156041289,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "4c4df97d-e2e2-41da-bade-237cefe4c6d4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236027079,
+        "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Variables of function type"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Variables of function type",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156042302,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "04b23c4e-787a-43b3-9d3f-3b26fed1b355",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236036735,
+        "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Closures"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Closures",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Functions",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

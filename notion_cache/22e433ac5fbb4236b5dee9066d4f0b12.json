@@ -1,0 +1,331 @@
+{
+  "ID": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
+  "Page": {
+    "alive": true,
+    "content": [
+      "a91f753b-ed3e-4ace-a196-544c302bef04",
+      "eb1833af-fcd3-4731-8785-24c48a14ac29",
+      "de57db3e-de0b-4ff5-9403-4a114451efd2",
+      "22dcd19d-706b-4171-b3b3-cfda2c85935d",
+      "182b1a20-9e5e-4c42-b3d7-02f43cb19bbb",
+      "3406e199-d8ca-4f3c-b634-9bc052c7220d",
+      "4c98fd97-dd7c-4212-9476-d273ef433a37",
+      "f70cac48-b286-4200-99e6-dc1c5846165d",
+      "15c5558c-b107-43c6-b7f3-d58890c60146",
+      "c258f698-6b02-499f-8b7a-e0650a9b64b1",
+      "68cdf19e-61dc-41c1-87cf-ecc9e6cbe563"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156052551,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236132732,
+    "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Good practices for error messages"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205235014,
+        "id": "a91f753b-ed3e-4ace-a196-544c302bef04",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236133459,
+        "parent_id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 127"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 127"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205236747,
+        "id": "eb1833af-fcd3-4731-8785-24c48a14ac29",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236134194,
+        "parent_id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: k1k100a6"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: k1k100a6"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205238314,
+        "id": "de57db3e-de0b-4ff5-9403-4a114451efd2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205238755,
+        "parent_id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156052550,
+        "id": "22dcd19d-706b-4171-b3b3-cfda2c85935d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156052550,
+        "parent_id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Good error messages help in debugging problems."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Good error messages help in debugging problems."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156052550,
+        "id": "182b1a20-9e5e-4c42-b3d7-02f43cb19bbb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156052550,
+        "parent_id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In production deployments error messages are logged. When something goes wrong log file is the main source for debugging clues."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In production deployments error messages are logged. When something goes wrong log file is the main source for debugging clues."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156052550,
+        "id": "3406e199-d8ca-4f3c-b634-9bc052c7220d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156052550,
+        "parent_id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When creating error messages, think about that and include as much useful information as possible."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When creating error messages, think about that and include as much useful information as possible."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156052550,
+        "id": "4c98fd97-dd7c-4212-9476-d273ef433a37",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156052550,
+        "parent_id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Bad error message:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Bad error message:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156052551,
+        "id": "f70cac48-b286-4200-99e6-dc1c5846165d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205247897,
+        "parent_id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func openLog(path string) (io.Reader, error) {\n    f, err := os.Open(path)\n    if err != nil {\n        return nil, errors.New(\"failed to open log file\")\n    }\n    ...\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func openLog(path string) (io.Reader, error) {\n    f, err := os.Open(path)\n    if err != nil {\n        return nil, errors.New(\"failed to open log file\")\n    }\n    ...\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156052551,
+        "id": "15c5558c-b107-43c6-b7f3-d58890c60146",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156052551,
+        "parent_id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Better error message:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Better error message:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156052551,
+        "id": "c258f698-6b02-499f-8b7a-e0650a9b64b1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205251359,
+        "parent_id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func openLog(path string) (io.Reader, error) {\n    f, err := os.Open(path)\n    if err != nil {\n        return nil, errors.New(\"openLog('%s'), os.Open() failed with '%s'\", path, err)\n    }\n    ...\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func openLog(path string) (io.Reader, error) {\n    f, err := os.Open(path)\n    if err != nil {\n        return nil, errors.New(\"openLog('%s'), os.Open() failed with '%s'\", path, err)\n    }\n    ...\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156052551,
+        "id": "68cdf19e-61dc-41c1-87cf-ecc9e6cbe563",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156052551,
+        "parent_id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Second version of error message includes more debugging clues: * which function generated the error * path of the file we were trying to open * the error message from os.Open() so that we can tell if it was because the file doesn’t exist or we don’t have access rights to it etc."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Second version of error message includes more debugging clues: * which function generated the error * path of the file we were trying to open * the error message from os.Open() so that we can tell if it was because the file doesn’t exist or we don’t have access rights to it etc."
+          }
+        ]
+      }
+    ],
+    "title": "Good practices for error messages",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

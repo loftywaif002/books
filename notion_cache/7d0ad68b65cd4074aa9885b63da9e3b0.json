@@ -1,0 +1,798 @@
+{
+  "ID": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+  "Page": {
+    "alive": true,
+    "content": [
+      "778a9d16-0904-4adc-9bc7-0560d96d8f5f",
+      "c39c5624-2515-4d3c-b82b-1df9e87c066c",
+      "4abe81cd-d57a-47d3-93eb-0e6829619b67",
+      "898acdc1-5dc3-43ee-bec7-1ade75a6c964",
+      "6e9907f9-6832-45ae-9185-cb1b59c6285c",
+      "dc7b625e-6454-4c17-8351-3ab56a384a80",
+      "0385ece1-52f3-41aa-b01f-3faf30bdb6af",
+      "18c87db5-5a66-4cb9-b982-ebac34b44965",
+      "6895da83-c8a1-45e8-9767-3892417f49d4",
+      "98d90482-3418-4f51-aa18-3f85a8a77661",
+      "a9be8586-a3cf-49ff-abcb-cbffcadd6c1a",
+      "78becf11-d9dd-4d4d-b980-f9a6b50fcf02",
+      "87863721-7d6b-4e2f-a985-16a2c31f752d",
+      "fe74a642-9b90-4ae8-8caf-d781af048c21",
+      "94658fb4-912c-4e21-a187-45b159f23229",
+      "0f201a9d-30a8-41b8-a61e-c85e924b6778",
+      "ea797c82-eb7b-4cad-91b8-a987b20a4b94",
+      "107ae945-2ef9-473e-b2a0-1ea0d6b0c709",
+      "c539de38-7c0a-4870-b983-5ef5e856062f",
+      "bd9d81e1-ec76-40ce-88e1-67c81c9d874b",
+      "70b3d6be-8d54-4e2d-8925-bc026a937c6e"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156121235,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532208050353,
+    "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Configuring XML parsing and serialization"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 19,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208038965,
+        "id": "778a9d16-0904-4adc-9bc7-0560d96d8f5f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208043180,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 332"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 332"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208040968,
+        "id": "c39c5624-2515-4d3c-b82b-1df9e87c066c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208041945,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121231,
+        "id": "4abe81cd-d57a-47d3-93eb-0e6829619b67",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121231,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can modify how a struct is serialized to XML by annotating fields with tags."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can modify how a struct is serialized to XML by annotating fields with tags."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121231,
+        "id": "898acdc1-5dc3-43ee-bec7-1ade75a6c964",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121231,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "By providing "
+            ],
+            [
+              "XMLName",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", this will be serialized as "
+            ],
+            [
+              "\u003cdata\u003e...\u003c/data\u003e",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and not "
+            ],
+            [
+              "\u003cShowXMLName\u003e..\u003c/ShowXMLName\u003e",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "By providing "
+          },
+          {
+            "Text": "XMLName",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", this will be serialized as "
+          },
+          {
+            "Text": "\u003cdata\u003e...\u003c/data\u003e",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and not "
+          },
+          {
+            "Text": "\u003cShowXMLName\u003e..\u003c/ShowXMLName\u003e",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121232,
+        "id": "6e9907f9-6832-45ae-9185-cb1b59c6285c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121232,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file show_xmlname.go output sha1:5c0022f5314ae77d25d0f51b032b18b68ad5b71a goplayground:xocPt-FbJRj"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file show_xmlname.go output sha1:5c0022f5314ae77d25d0f51b032b18b68ad5b71a goplayground:xocPt-FbJRj"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121232,
+        "id": "dc7b625e-6454-4c17-8351-3ab56a384a80",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121232,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Fields marked with "
+            ],
+            [
+              "xml:\"-\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " are not serialized."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Fields marked with "
+          },
+          {
+            "Text": "xml:\"-\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " are not serialized."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121232,
+        "id": "0385ece1-52f3-41aa-b01f-3faf30bdb6af",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121232,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file show_omit.go output sha1:a37485c1b814ab4d03bdd3284ca5c068083730cc goplayground:1QgFAqWnqSR"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file show_omit.go output sha1:a37485c1b814ab4d03bdd3284ca5c068083730cc goplayground:1QgFAqWnqSR"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121232,
+        "id": "18c87db5-5a66-4cb9-b982-ebac34b44965",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121232,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To skip serializing fields with empty values, use "
+            ],
+            [
+              "xml:\",omitempty\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To skip serializing fields with empty values, use "
+          },
+          {
+            "Text": "xml:\",omitempty\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121232,
+        "id": "6895da83-c8a1-45e8-9767-3892417f49d4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121232,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file show_omit_empty.go output sha1:09048ab7e2b25bf6e77116e0881f6f9eda7a07d2 goplayground:ElorLdu1kcL"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file show_omit_empty.go output sha1:09048ab7e2b25bf6e77116e0881f6f9eda7a07d2 goplayground:ElorLdu1kcL"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121233,
+        "id": "98d90482-3418-4f51-aa18-3f85a8a77661",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121233,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To change serialization from XML element to XML attribute use "
+            ],
+            [
+              "xml:\",attr\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To change serialization from XML element to XML attribute use "
+          },
+          {
+            "Text": "xml:\",attr\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121233,
+        "id": "a9be8586-a3cf-49ff-abcb-cbffcadd6c1a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121233,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file show_attr.go output sha1:9e7a3e90d3c96f24ee497901a4caf26602bfae6b goplayground:_Y7oX_1RKzp"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file show_attr.go output sha1:9e7a3e90d3c96f24ee497901a4caf26602bfae6b goplayground:_Y7oX_1RKzp"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121233,
+        "id": "78becf11-d9dd-4d4d-b980-f9a6b50fcf02",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121233,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To change serialization from XML element to character data use "
+            ],
+            [
+              "xml:\",chardata\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To change serialization from XML element to character data use "
+          },
+          {
+            "Text": "xml:\",chardata\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121233,
+        "id": "87863721-7d6b-4e2f-a985-16a2c31f752d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121233,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file show_chardata.go output sha1:046c201e766866c557b5d8d6a71b73d203e444da goplayground:D9FI3YXJovI"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file show_chardata.go output sha1:046c201e766866c557b5d8d6a71b73d203e444da goplayground:D9FI3YXJovI"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121233,
+        "id": "fe74a642-9b90-4ae8-8caf-d781af048c21",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121233,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To change serialization from XML element to CDATA use "
+            ],
+            [
+              "xml:\",cdata\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To change serialization from XML element to CDATA use "
+          },
+          {
+            "Text": "xml:\",cdata\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121233,
+        "id": "94658fb4-912c-4e21-a187-45b159f23229",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121233,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file show_cdata.go output sha1:e31576f123acf4c8d78c698361663379654c9ae1 goplayground:zU7hk-kMTpV"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file show_cdata.go output sha1:e31576f123acf4c8d78c698361663379654c9ae1 goplayground:zU7hk-kMTpV"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121234,
+        "id": "0f201a9d-30a8-41b8-a61e-c85e924b6778",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121234,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To serialize the value verbatim, use "
+            ],
+            [
+              "xml:\",innerxml\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To serialize the value verbatim, use "
+          },
+          {
+            "Text": "xml:\",innerxml\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121234,
+        "id": "ea797c82-eb7b-4cad-91b8-a987b20a4b94",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121234,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file show_innerxml.go output sha1:769ee21d974da94b07ee36721b4d668134746a0e goplayground:swii1TyF7qE"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file show_innerxml.go output sha1:769ee21d974da94b07ee36721b4d668134746a0e goplayground:swii1TyF7qE"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121234,
+        "id": "107ae945-2ef9-473e-b2a0-1ea0d6b0c709",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121234,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To serialize field as XML comment, use "
+            ],
+            [
+              "xml:\",comment\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". Value can’t contain "
+            ],
+            [
+              "--",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To serialize field as XML comment, use "
+          },
+          {
+            "Text": "xml:\",comment\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". Value can’t contain "
+          },
+          {
+            "Text": "--",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121234,
+        "id": "c539de38-7c0a-4870-b983-5ef5e856062f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121234,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file show_comment.go output sha1:9a7ee3d72c6ce63e74526cfd1950d9d978e81a61 goplayground:CoRf9tZTMJA"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file show_comment.go output sha1:9a7ee3d72c6ce63e74526cfd1950d9d978e81a61 goplayground:CoRf9tZTMJA"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121234,
+        "id": "bd9d81e1-ec76-40ce-88e1-67c81c9d874b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121234,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "xml:\"a\u003eb\u003estr\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " nests XML element. This also influences parsing."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "xml:\"a\u003eb\u003estr\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " nests XML element. This also influences parsing."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156121235,
+        "id": "70b3d6be-8d54-4e2d-8925-bc026a937c6e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156121235,
+        "parent_id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file show_nesting.go output sha1:213ddfaceb3f9582e8e97972aef382878f5a6ba0 goplayground:Xh13bOC50oz"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file show_nesting.go output sha1:213ddfaceb3f9582e8e97972aef382878f5a6ba0 goplayground:Xh13bOC50oz"
+          }
+        ]
+      }
+    ],
+    "title": "Configuring XML parsing and serialization",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

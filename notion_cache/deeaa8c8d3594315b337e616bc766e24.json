@@ -1,0 +1,509 @@
+{
+  "ID": "deeaa8c8-d359-4315-b337-e616bc766e24",
+  "Page": {
+    "alive": true,
+    "content": [
+      "71c8d241-078c-47c2-8abe-09d992ccf74c",
+      "59f2638a-195f-4545-b139-73d22f6d78ff",
+      "d8ce51c2-0dac-4d7d-ab4d-144fef76b20f",
+      "fee12ce2-75bd-4728-82c9-97c70d5c0604",
+      "ae04f8df-fd78-470f-8a66-c4128f6cdd6a",
+      "71d4b93b-65eb-438b-8cdf-5e08f098dd26",
+      "3e7cc118-75ec-4d40-8196-a5b73dc54316",
+      "3bc76e4b-47c0-4249-8fa9-1d0ff88afbdf",
+      "82f3fe18-4e5e-4471-a531-ed8530dc67bc",
+      "455c0ccb-a695-48d2-9e58-9f0fad4a956d",
+      "afa90c22-5add-4886-84ac-41ff94fb80d4",
+      "b37b9eae-3942-42a0-ab5e-e08df578fcef",
+      "b9d0256d-36e5-446c-bbfa-0acc021f69fd",
+      "d4745fa5-7c88-4a7a-8015-48e65cd19e30",
+      "896284c0-5744-46ce-a0f4-43cd3a77ddca"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156217249,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532212942954,
+    "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Simple cross compilation with go build"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 22,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156217245,
+        "id": "71c8d241-078c-47c2-8abe-09d992ccf74c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212929372,
+        "parent_id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Title: Simple cross compilation with go build"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 3,
+        "inline_content": [
+          {
+            "Text": "Title: Simple cross compilation with go build"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212929372,
+        "id": "59f2638a-195f-4545-b139-73d22f6d78ff",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212931839,
+        "parent_id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 269"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 269"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212931839,
+        "id": "d8ce51c2-0dac-4d7d-ab4d-144fef76b20f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212934311,
+        "parent_id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 24"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 24"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212934311,
+        "id": "fee12ce2-75bd-4728-82c9-97c70d5c0604",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212936551,
+        "parent_id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3299"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3299"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212937646,
+        "id": "ae04f8df-fd78-470f-8a66-c4128f6cdd6a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212937646,
+        "parent_id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212936551,
+        "id": "71d4b93b-65eb-438b-8cdf-5e08f098dd26",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212937383,
+        "parent_id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "From your project directory, run the "
+            ],
+            [
+              "go build",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " command and specify the operating system and architecture target with the "
+            ],
+            [
+              "GOOS",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "GOARCH",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " environment variables:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "From your project directory, run the "
+          },
+          {
+            "Text": "go build",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " command and specify the operating system and architecture target with the "
+          },
+          {
+            "Text": "GOOS",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "GOARCH",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " environment variables:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156217246,
+        "id": "3e7cc118-75ec-4d40-8196-a5b73dc54316",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156217246,
+        "parent_id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Compiling for Mac (64-bit):"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Compiling for Mac (64-bit):"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156217246,
+        "id": "3bc76e4b-47c0-4249-8fa9-1d0ff88afbdf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156217246,
+        "parent_id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "GOOS=darwin GOARCH=amd64 go build"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "GOOS=darwin GOARCH=amd64 go build",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156217247,
+        "id": "82f3fe18-4e5e-4471-a531-ed8530dc67bc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156217247,
+        "parent_id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Compiling for Windows x86 processor:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Compiling for Windows x86 processor:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156217248,
+        "id": "455c0ccb-a695-48d2-9e58-9f0fad4a956d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156217248,
+        "parent_id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "GOOS=windows GOARCH=386 go build"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "GOOS=windows GOARCH=386 go build",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156217248,
+        "id": "afa90c22-5add-4886-84ac-41ff94fb80d4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156217248,
+        "parent_id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You might also want to set the filename of the output executable manually to keep track of the architecture:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You might also want to set the filename of the output executable manually to keep track of the architecture:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156217248,
+        "id": "b37b9eae-3942-42a0-ab5e-e08df578fcef",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156217248,
+        "parent_id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "GOOS=windows GOARCH=386 go build -o appname_win_x86.exe"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "GOOS=windows GOARCH=386 go build -o appname_win_x86.exe",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156217248,
+        "id": "b9d0256d-36e5-446c-bbfa-0acc021f69fd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156217248,
+        "parent_id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "From version 1.7 and onwards you can get a list of all possible GOOS and GOARCH combinations with:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "From version 1.7 and onwards you can get a list of all possible GOOS and GOARCH combinations with:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156217248,
+        "id": "d4745fa5-7c88-4a7a-8015-48e65cd19e30",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156217248,
+        "parent_id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "go tool dist list"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "go tool dist list",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156217249,
+        "id": "896284c0-5744-46ce-a0f4-43cd3a77ddca",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156217249,
+        "parent_id": "deeaa8c8-d359-4315-b337-e616bc766e24",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "(or for easier machine consumption "
+            ],
+            [
+              "go tool dist list -json",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ")"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "(or for easier machine consumption "
+          },
+          {
+            "Text": "go tool dist list -json",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ")"
+          }
+        ]
+      }
+    ],
+    "title": "Simple cross compilation with go build",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

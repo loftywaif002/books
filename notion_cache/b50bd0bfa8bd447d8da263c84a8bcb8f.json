@@ -1,0 +1,379 @@
+{
+  "ID": "b50bd0bf-a8bd-447d-8da2-63c84a8bcb8f",
+  "Page": {
+    "alive": true,
+    "content": [
+      "ae01d2e9-9b6c-491a-bcc4-344f6e127459",
+      "bcbe6864-cad9-450b-8054-5566fa4164cd",
+      "a1f05295-86b7-45aa-be78-7ab6a8d5d15b",
+      "7d4ed296-9c12-45c8-861e-ae30f6199a73",
+      "072dac9f-d81a-4feb-be0e-4208717ad4ee",
+      "f8c4ebc3-bc00-4254-b12a-785e4897aec2",
+      "623f81f8-f145-4457-8e92-b1a6289a0fba",
+      "5ba72c3c-fddd-4e9c-9447-c324e09c2e6f",
+      "ef90340c-560e-48aa-b830-005d9f2ce068",
+      "4ab0c702-3988-4d35-beaa-ad9d8d3c0bb7",
+      "d0e35561-5c3a-4228-ab8b-21b815e7a607"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156220201,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "b50bd0bf-a8bd-447d-8da2-63c84a8bcb8f",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213090793,
+    "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Simple Example: Compile helloworld.go for arm architecture on Linux machine"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 30,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156220198,
+        "id": "ae01d2e9-9b6c-491a-bcc4-344f6e127459",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213066425,
+        "parent_id": "b50bd0bf-a8bd-447d-8da2-63c84a8bcb8f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Title: Simple Example: Compile helloworld.go for arm architecture on Linux machine"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 3,
+        "inline_content": [
+          {
+            "Text": "Title: Simple Example: Compile helloworld.go for arm architecture on Linux machine"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213066425,
+        "id": "bcbe6864-cad9-450b-8054-5566fa4164cd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213069780,
+        "parent_id": "b50bd0bf-a8bd-447d-8da2-63c84a8bcb8f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 272"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 272"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213069780,
+        "id": "a1f05295-86b7-45aa-be78-7ab6a8d5d15b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213074036,
+        "parent_id": "b50bd0bf-a8bd-447d-8da2-63c84a8bcb8f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 18,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213074036,
+        "id": "7d4ed296-9c12-45c8-861e-ae30f6199a73",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213075964,
+        "parent_id": "b50bd0bf-a8bd-447d-8da2-63c84a8bcb8f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 31164"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$SOId: 31164"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213090793,
+        "id": "072dac9f-d81a-4feb-be0e-4208717ad4ee",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213091730,
+        "parent_id": "b50bd0bf-a8bd-447d-8da2-63c84a8bcb8f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$hide"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$hide"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213077153,
+        "id": "f8c4ebc3-bc00-4254-b12a-785e4897aec2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213077153,
+        "parent_id": "b50bd0bf-a8bd-447d-8da2-63c84a8bcb8f",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213076170,
+        "id": "623f81f8-f145-4457-8e92-b1a6289a0fba",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213078381,
+        "parent_id": "b50bd0bf-a8bd-447d-8da2-63c84a8bcb8f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Prepare",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " helloworld.go (find below)"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Prepare",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " helloworld.go (find below)"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156220200,
+        "id": "5ba72c3c-fddd-4e9c-9447-c324e09c2e6f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213082319,
+        "parent_id": "b50bd0bf-a8bd-447d-8da2-63c84a8bcb8f",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport \"fmt\"\n\nfunc main(){\n        fmt.Println(\"hello world\")\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport \"fmt\"\n\nfunc main(){\n        fmt.Println(\"hello world\")\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156220201,
+        "id": "ef90340c-560e-48aa-b830-005d9f2ce068",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156220201,
+        "parent_id": "b50bd0bf-a8bd-447d-8da2-63c84a8bcb8f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Run",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " "
+            ],
+            [
+              "GOOS=linux GOARCH=arm go build helloworld.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Run",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " "
+          },
+          {
+            "Text": "GOOS=linux GOARCH=arm go build helloworld.go",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156220201,
+        "id": "4ab0c702-3988-4d35-beaa-ad9d8d3c0bb7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156220201,
+        "parent_id": "b50bd0bf-a8bd-447d-8da2-63c84a8bcb8f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Copy",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " generated "
+            ],
+            [
+              "helloworld",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " (arm executable) file to your target machine."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Copy",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " generated "
+          },
+          {
+            "Text": "helloworld",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " (arm executable) file to your target machine."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213084247,
+        "id": "d0e35561-5c3a-4228-ab8b-21b815e7a607",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213084247,
+        "parent_id": "b50bd0bf-a8bd-447d-8da2-63c84a8bcb8f",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Simple Example: Compile helloworld.go for arm architecture on Linux machine",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

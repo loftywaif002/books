@@ -1,0 +1,464 @@
+{
+  "ID": "cc86ac32-2701-4af0-acd1-e44f6546c43c",
+  "Page": {
+    "alive": true,
+    "content": [
+      "fad64a49-d6d2-4230-ae3c-77441ca89df1",
+      "4a7c92dd-e0d6-4880-800e-0875b611c649",
+      "7809586c-48d4-4e24-92fb-4acfb41097b5",
+      "6835f2bf-2c4f-424d-9078-b29e00b64af3",
+      "41735023-5f2c-4617-9e86-f053bb9928ba",
+      "91aadaac-cbff-4cb1-9199-9378d376aeb1",
+      "267495f5-bbfc-4777-83a0-833ca3f021d9",
+      "77d4fcc4-39d1-4182-b8af-90ece0699eef",
+      "1a45ab6f-a217-4f15-a36e-2ceab79976c1",
+      "1dfa002e-d57c-4565-9b09-dcea4a11801d"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156110149,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "cc86ac32-2701-4af0-acd1-e44f6546c43c",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207563083,
+    "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Parsing arbitrary JSON documents"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207548941,
+        "id": "fad64a49-d6d2-4230-ae3c-77441ca89df1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207555025,
+        "parent_id": "cc86ac32-2701-4af0-acd1-e44f6546c43c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 183"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 183"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207550345,
+        "id": "4a7c92dd-e0d6-4880-800e-0875b611c649",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207554341,
+        "parent_id": "cc86ac32-2701-4af0-acd1-e44f6546c43c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4113"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4113"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207552000,
+        "id": "7809586c-48d4-4e24-92fb-4acfb41097b5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207552433,
+        "parent_id": "cc86ac32-2701-4af0-acd1-e44f6546c43c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156110147,
+        "id": "6835f2bf-2c4f-424d-9078-b29e00b64af3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156110147,
+        "parent_id": "cc86ac32-2701-4af0-acd1-e44f6546c43c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Parsing "
+            ],
+            [
+              "into a struct",
+              [
+                [
+                  "a",
+                  "182"
+                ]
+              ]
+            ],
+            [
+              " is very convenient but sometimes you don’t know the structure of JSON document upfront."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Parsing "
+          },
+          {
+            "Text": "into a struct",
+            "Link": "182"
+          },
+          {
+            "Text": " is very convenient but sometimes you don’t know the structure of JSON document upfront."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156110147,
+        "id": "41735023-5f2c-4617-9e86-f053bb9928ba",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156110147,
+        "parent_id": "cc86ac32-2701-4af0-acd1-e44f6546c43c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For arbitrary JSON documents we can decode into a "
+            ],
+            [
+              "map[string]interface{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", which can represent all valid JSON documents."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For arbitrary JSON documents we can decode into a "
+          },
+          {
+            "Text": "map[string]interface{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", which can represent all valid JSON documents."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156110147,
+        "id": "91aadaac-cbff-4cb1-9199-9378d376aeb1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156110147,
+        "parent_id": "cc86ac32-2701-4af0-acd1-e44f6546c43c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file parse_arbitrary.go output sha1:7ac4d0f515cd1b43a884374e86a6689b5a943ee0 goplayground:rN9W0rFQ8sN"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file parse_arbitrary.go output sha1:7ac4d0f515cd1b43a884374e86a6689b5a943ee0 goplayground:rN9W0rFQ8sN"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156110148,
+        "id": "267495f5-bbfc-4777-83a0-833ca3f021d9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156110148,
+        "parent_id": "cc86ac32-2701-4af0-acd1-e44f6546c43c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For basic JSON types, the value in the map is "
+            ],
+            [
+              "bool",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "int",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "float64",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For basic JSON types, the value in the map is "
+          },
+          {
+            "Text": "bool",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "int",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "float64",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156110148,
+        "id": "77d4fcc4-39d1-4182-b8af-90ece0699eef",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156110148,
+        "parent_id": "cc86ac32-2701-4af0-acd1-e44f6546c43c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For JSON arrays, the value is "
+            ],
+            [
+              "[]interface{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For JSON arrays, the value is "
+          },
+          {
+            "Text": "[]interface{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156110148,
+        "id": "1a45ab6f-a217-4f15-a36e-2ceab79976c1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156110148,
+        "parent_id": "cc86ac32-2701-4af0-acd1-e44f6546c43c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For JSON dictionaries, the value is (again) "
+            ],
+            [
+              "map[string]interface{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For JSON dictionaries, the value is (again) "
+          },
+          {
+            "Text": "map[string]interface{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156110148,
+        "id": "1dfa002e-d57c-4565-9b09-dcea4a11801d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156110148,
+        "parent_id": "cc86ac32-2701-4af0-acd1-e44f6546c43c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This approach is flexible but dealing with "
+            ],
+            [
+              "map[string]interface{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to access values is rather painful."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This approach is flexible but dealing with "
+          },
+          {
+            "Text": "map[string]interface{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to access values is rather painful."
+          }
+        ]
+      }
+    ],
+    "title": "Parsing arbitrary JSON documents",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,216 @@
+{
+  "ID": "bbe16c96-5ef4-4181-be05-a223f3521f4a",
+  "Page": {
+    "alive": true,
+    "content": [
+      "d3f397a9-9b51-4035-9038-2195f3ae9472",
+      "19d18ab9-4a90-4aa5-bf85-4e60298963c1",
+      "a9efe7a1-cefe-4b7a-814f-d070a49e9747",
+      "dbaddfef-c5e4-408f-8ca0-6ee33ca6ad04",
+      "dffb52ae-39c5-4679-9c04-86bb5fd53ecd",
+      "c724edf5-8e53-432f-86ef-591a69cd80c7"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156145236,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "bbe16c96-5ef4-4181-be05-a223f3521f4a",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532209041657,
+    "parent_id": "96e61372-84ae-4460-a282-7f456b4cf62c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "HTTP Hello World with custom server and mux"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209022714,
+        "id": "d3f397a9-9b51-4035-9038-2195f3ae9472",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209031242,
+        "parent_id": "bbe16c96-5ef4-4181-be05-a223f3521f4a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 209"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 209"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209024224,
+        "id": "19d18ab9-4a90-4aa5-bf85-4e60298963c1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209030626,
+        "parent_id": "bbe16c96-5ef4-4181-be05-a223f3521f4a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 4"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 4"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209025833,
+        "id": "a9efe7a1-cefe-4b7a-814f-d070a49e9747",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209029506,
+        "parent_id": "bbe16c96-5ef4-4181-be05-a223f3521f4a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2570"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2570"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209027591,
+        "id": "dbaddfef-c5e4-408f-8ca0-6ee33ca6ad04",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209028609,
+        "parent_id": "bbe16c96-5ef4-4181-be05-a223f3521f4a",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156145235,
+        "id": "dffb52ae-39c5-4679-9c04-86bb5fd53ecd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209018153,
+        "parent_id": "bbe16c96-5ef4-4181-be05-a223f3521f4a",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"log\"\n    \"net/http\"\n)\n\nfunc main() {\n\n    // Create a mux for routing incoming requests\n    m := http.NewServeMux()\n\n    // All URLs will be handled by this function\n    m.HandleFunc(\"/\", func(w http.ResponseWriter, r *http.Request) {\n        w.Write([]byte(\"Hello, world!\"))\n    })\n\n    // Create a server listening on port 8000\n    s := \u0026http.Server{\n        Addr:    \":8000\",\n        Handler: m,\n    }\n\n    // Continue to process new requests until an error occurs\n    log.Fatal(s.ListenAndServe())\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"log\"\n    \"net/http\"\n)\n\nfunc main() {\n\n    // Create a mux for routing incoming requests\n    m := http.NewServeMux()\n\n    // All URLs will be handled by this function\n    m.HandleFunc(\"/\", func(w http.ResponseWriter, r *http.Request) {\n        w.Write([]byte(\"Hello, world!\"))\n    })\n\n    // Create a server listening on port 8000\n    s := \u0026http.Server{\n        Addr:    \":8000\",\n        Handler: m,\n    }\n\n    // Continue to process new requests until an error occurs\n    log.Fatal(s.ListenAndServe())\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156145235,
+        "id": "c724edf5-8e53-432f-86ef-591a69cd80c7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156145235,
+        "parent_id": "bbe16c96-5ef4-4181-be05-a223f3521f4a",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Press "
+            ],
+            [
+              "Ctrl+C",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to stop the process."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Press "
+          },
+          {
+            "Text": "Ctrl+C",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to stop the process."
+          }
+        ]
+      }
+    ],
+    "title": "HTTP Hello World with custom server and mux",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

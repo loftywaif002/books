@@ -1,0 +1,267 @@
+{
+  "ID": "ed2d846b-6d23-401b-afc9-2105ef9fdfbe",
+  "Page": {
+    "alive": true,
+    "content": [
+      "985a63ed-e94a-4ba8-837d-7e8b024c9d1d",
+      "188fbdb9-71a6-4799-a669-861803fa26bd",
+      "56280ea4-a18b-40e9-b410-81072e440795",
+      "3b7f5885-3933-4ccd-9efa-3b7e83edf574",
+      "349bcfd6-5467-447e-b12a-5a711e50bff3",
+      "5298f524-7165-4bce-b458-c88638168d31",
+      "61c8cba0-6d1c-4239-9da6-1e87cff03fe7",
+      "ffac9eda-8a8a-4f1c-a5be-b3b0609695f7"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156218374,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "ed2d846b-6d23-401b-afc9-2105ef9fdfbe",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532212985858,
+    "parent_id": "41fdbdec-ca7b-42c3-b4b9-8e5ec0a96e13",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Compile all architectures using a Makefile"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 27,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212954723,
+        "id": "985a63ed-e94a-4ba8-837d-7e8b024c9d1d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212956744,
+        "parent_id": "ed2d846b-6d23-401b-afc9-2105ef9fdfbe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 270"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 270"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212956744,
+        "id": "188fbdb9-71a6-4799-a669-861803fa26bd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212958620,
+        "parent_id": "ed2d846b-6d23-401b-afc9-2105ef9fdfbe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 12"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 12"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212958620,
+        "id": "56280ea4-a18b-40e9-b410-81072e440795",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212960837,
+        "parent_id": "ed2d846b-6d23-401b-afc9-2105ef9fdfbe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3298"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3298"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212985858,
+        "id": "3b7f5885-3933-4ccd-9efa-3b7e83edf574",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212987275,
+        "parent_id": "ed2d846b-6d23-401b-afc9-2105ef9fdfbe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$hide"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$hide"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212962333,
+        "id": "349bcfd6-5467-447e-b12a-5a711e50bff3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212962333,
+        "parent_id": "ed2d846b-6d23-401b-afc9-2105ef9fdfbe",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212960837,
+        "id": "5298f524-7165-4bce-b458-c88638168d31",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212961983,
+        "parent_id": "ed2d846b-6d23-401b-afc9-2105ef9fdfbe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This Makefile will cross compile and zip up executables for Windows, Mac and Linux (ARM and x86)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "This Makefile will cross compile and zip up executables for Windows, Mac and Linux (ARM and x86)."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156218372,
+        "id": "61c8cba0-6d1c-4239-9da6-1e87cff03fe7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156218372,
+        "parent_id": "ed2d846b-6d23-401b-afc9-2105ef9fdfbe",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "# Replace demo with your desired executable name\nappname := demo\n\nsources := $(wildcard *.go)\n\nbuild = GOOS=$(1) GOARCH=$(2) go build -o build/$(appname)$(3)\ntar = cd build \u0026\u0026 tar -cvzf $(1)_$(2).tar.gz $(appname)$(3) \u0026\u0026 rm $(appname)$(3)\nzip = cd build \u0026\u0026 zip $(1)_$(2).zip $(appname)$(3) \u0026\u0026 rm $(appname)$(3)\n\n.PHONY: all windows darwin linux clean\n\nall: windows darwin linux\n\nclean:\n    rm -rf build/\n\n##### LINUX BUILDS #####\nlinux: build/linux_arm.tar.gz build/linux_arm64.tar.gz build/linux_386.tar.gz build/linux_amd64.tar.gz\n\nbuild/linux_386.tar.gz: $(sources)\n    $(call build,linux,386,)\n    $(call tar,linux,386)\n\nbuild/linux_amd64.tar.gz: $(sources)\n    $(call build,linux,amd64,)\n    $(call tar,linux,amd64)\n\nbuild/linux_arm.tar.gz: $(sources)\n    $(call build,linux,arm,)\n    $(call tar,linux,arm)\n\nbuild/linux_arm64.tar.gz: $(sources)\n    $(call build,linux,arm64,)\n    $(call tar,linux,arm64)\n\n##### DARWIN (MAC) BUILDS #####\ndarwin: build/darwin_amd64.tar.gz\n\nbuild/darwin_amd64.tar.gz: $(sources)\n    $(call build,darwin,amd64,)\n    $(call tar,darwin,amd64)\n\n##### WINDOWS BUILDS #####\nwindows: build/windows_386.zip build/windows_amd64.zip\n\nbuild/windows_386.zip: $(sources)\n    $(call build,windows,386,.exe)\n    $(call zip,windows,386,.exe)\n\nbuild/windows_amd64.zip: $(sources)\n    $(call build,windows,amd64,.exe)\n    $(call zip,windows,amd64,.exe)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "# Replace demo with your desired executable name\nappname := demo\n\nsources := $(wildcard *.go)\n\nbuild = GOOS=$(1) GOARCH=$(2) go build -o build/$(appname)$(3)\ntar = cd build \u0026\u0026 tar -cvzf $(1)_$(2).tar.gz $(appname)$(3) \u0026\u0026 rm $(appname)$(3)\nzip = cd build \u0026\u0026 zip $(1)_$(2).zip $(appname)$(3) \u0026\u0026 rm $(appname)$(3)\n\n.PHONY: all windows darwin linux clean\n\nall: windows darwin linux\n\nclean:\n    rm -rf build/\n\n##### LINUX BUILDS #####\nlinux: build/linux_arm.tar.gz build/linux_arm64.tar.gz build/linux_386.tar.gz build/linux_amd64.tar.gz\n\nbuild/linux_386.tar.gz: $(sources)\n    $(call build,linux,386,)\n    $(call tar,linux,386)\n\nbuild/linux_amd64.tar.gz: $(sources)\n    $(call build,linux,amd64,)\n    $(call tar,linux,amd64)\n\nbuild/linux_arm.tar.gz: $(sources)\n    $(call build,linux,arm,)\n    $(call tar,linux,arm)\n\nbuild/linux_arm64.tar.gz: $(sources)\n    $(call build,linux,arm64,)\n    $(call tar,linux,arm64)\n\n##### DARWIN (MAC) BUILDS #####\ndarwin: build/darwin_amd64.tar.gz\n\nbuild/darwin_amd64.tar.gz: $(sources)\n    $(call build,darwin,amd64,)\n    $(call tar,darwin,amd64)\n\n##### WINDOWS BUILDS #####\nwindows: build/windows_386.zip build/windows_amd64.zip\n\nbuild/windows_386.zip: $(sources)\n    $(call build,windows,386,.exe)\n    $(call zip,windows,386,.exe)\n\nbuild/windows_amd64.zip: $(sources)\n    $(call build,windows,amd64,.exe)\n    $(call zip,windows,amd64,.exe)",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156218374,
+        "id": "ffac9eda-8a8a-4f1c-a5be-b3b0609695f7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156218374,
+        "parent_id": "ed2d846b-6d23-401b-afc9-2105ef9fdfbe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "(be cautious that "
+            ],
+            [
+              "Makefile’s need hard tabs not spaces",
+              [
+                [
+                  "a",
+                  "http://stackoverflow.com/a/16945143/1462575"
+                ]
+              ]
+            ],
+            [
+              ")"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "(be cautious that "
+          },
+          {
+            "Text": "Makefile’s need hard tabs not spaces",
+            "Link": "http://stackoverflow.com/a/16945143/1462575"
+          },
+          {
+            "Text": ")"
+          }
+        ]
+      }
+    ],
+    "title": "Compile all architectures using a Makefile",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

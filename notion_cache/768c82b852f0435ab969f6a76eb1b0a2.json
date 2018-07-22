@@ -1,0 +1,377 @@
+{
+  "ID": "768c82b8-52f0-435a-b969-f6a76eb1b0a2",
+  "Page": {
+    "alive": true,
+    "content": [
+      "632f84b6-c218-4d18-80e0-55bd54b2b162",
+      "7e2a6990-b222-4324-b450-002aec824889",
+      "733e1651-9560-4f3a-90cf-aacf5b1c9c84",
+      "ee9360ff-6331-45d1-8749-0cd3ad704cb8",
+      "073f6c78-3e25-42e6-9942-3cd6a3da3c7f",
+      "dfd0fd53-faf4-4742-adec-ac5fa72ad0a7",
+      "df265533-dceb-4f7d-b17c-0f5374f92ab2",
+      "3ba8b2a9-b14e-4534-b652-a736d9792985",
+      "3ee67076-51b8-4d2b-977f-5164e010c891",
+      "5039ed43-0c27-4e07-bfcd-f05ef68fcad5",
+      "dd7bfcaa-2200-4826-ae02-7110a43fae7e",
+      "1ffca38c-fcf9-4bf7-8ba6-14592037253e"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156256180,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "768c82b8-52f0-435a-b969-f6a76eb1b0a2",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532214528067,
+    "parent_id": "b5c70cd2-244f-48a0-b89a-ebc75ef45ad0",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Using Protobuf with Go"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214513394,
+        "id": "632f84b6-c218-4d18-80e0-55bd54b2b162",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214516553,
+        "parent_id": "768c82b8-52f0-435a-b969-f6a76eb1b0a2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 303"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Id: 303"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214516553,
+        "id": "7e2a6990-b222-4324-b450-002aec824889",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214518567,
+        "parent_id": "768c82b8-52f0-435a-b969-f6a76eb1b0a2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 2"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$Score: 2"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214518567,
+        "id": "733e1651-9560-4f3a-90cf-aacf5b1c9c84",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214520991,
+        "parent_id": "768c82b8-52f0-435a-b969-f6a76eb1b0a2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 29998"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 29998"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214522303,
+        "id": "ee9360ff-6331-45d1-8749-0cd3ad704cb8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214522303,
+        "parent_id": "768c82b8-52f0-435a-b969-f6a76eb1b0a2",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214520991,
+        "id": "073f6c78-3e25-42e6-9942-3cd6a3da3c7f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214522094,
+        "parent_id": "768c82b8-52f0-435a-b969-f6a76eb1b0a2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The message you want to serialize and send that you can include into a file "
+            ],
+            [
+              "test.proto",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              ", containing"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "The message you want to serialize and send that you can include into a file "
+          },
+          {
+            "Text": "test.proto",
+            "AttrFlags": 1
+          },
+          {
+            "Text": ", containing"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156256178,
+        "id": "dfd0fd53-faf4-4742-adec-ac5fa72ad0a7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214532439,
+        "parent_id": "768c82b8-52f0-435a-b969-f6a76eb1b0a2",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package example;\n\nenum FOO { X = 17; };\n\nmessage Test {\n    required string label = 1;\n    optional int32 type = 2 [default=77];\n    repeated int64 reps = 3;\n    optional group OptionalGroup = 4 {\n    required string RequiredField = 5;\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package example;\n\nenum FOO { X = 17; };\n\nmessage Test {\n    required string label = 1;\n    optional int32 type = 2 [default=77];\n    repeated int64 reps = 3;\n    optional group OptionalGroup = 4 {\n    required string RequiredField = 5;\n    }\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156256178,
+        "id": "df265533-dceb-4f7d-b17c-0f5374f92ab2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156256178,
+        "parent_id": "768c82b8-52f0-435a-b969-f6a76eb1b0a2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To compile the protocol buffer definition, run protoc with the –go_out parameter set to the directory you want to output the Go code to."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To compile the protocol buffer definition, run protoc with the –go_out parameter set to the directory you want to output the Go code to."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156256178,
+        "id": "3ba8b2a9-b14e-4534-b652-a736d9792985",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214539776,
+        "parent_id": "768c82b8-52f0-435a-b969-f6a76eb1b0a2",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ protoc --go_out=. *.proto"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 7,
+        "code": "$ protoc --go_out=. *.proto",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156256179,
+        "id": "3ee67076-51b8-4d2b-977f-5164e010c891",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156256179,
+        "parent_id": "768c82b8-52f0-435a-b969-f6a76eb1b0a2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To create and play with a Test object from the example package,"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To create and play with a Test object from the example package,"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156256179,
+        "id": "5039ed43-0c27-4e07-bfcd-f05ef68fcad5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214544706,
+        "parent_id": "768c82b8-52f0-435a-b969-f6a76eb1b0a2",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"log\"\n\n    \"github.com/golang/protobuf/proto\"\n    \"path/to/example\"\n)\n\nfunc main() {\n    test := \u0026example.Test {\n        Label: proto.String(\"hello\"),\n        Type:  proto.Int32(17),\n        Reps:  []int64{1, 2, 3},\n        Optionalgroup: \u0026example.Test_OptionalGroup {\n            RequiredField: proto.String(\"good bye\"),\n        },\n    }\n    data, err := proto.Marshal(test)\n    if err != nil {\n        log.Fatal(\"marshaling error: \", err)\n    }\n    newTest := \u0026example.Test{}\n    err = proto.Unmarshal(data, newTest)\n    if err != nil {\n        log.Fatal(\"unmarshaling error: \", err)\n    }\n    // Now test and newTest contain the same data.\n    if test.GetLabel() != newTest.GetLabel() {\n        log.Fatalf(\"data mismatch %q != %q\", test.GetLabel(), newTest.GetLabel())\n    }\n    // etc.\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"log\"\n\n    \"github.com/golang/protobuf/proto\"\n    \"path/to/example\"\n)\n\nfunc main() {\n    test := \u0026example.Test {\n        Label: proto.String(\"hello\"),\n        Type:  proto.Int32(17),\n        Reps:  []int64{1, 2, 3},\n        Optionalgroup: \u0026example.Test_OptionalGroup {\n            RequiredField: proto.String(\"good bye\"),\n        },\n    }\n    data, err := proto.Marshal(test)\n    if err != nil {\n        log.Fatal(\"marshaling error: \", err)\n    }\n    newTest := \u0026example.Test{}\n    err = proto.Unmarshal(data, newTest)\n    if err != nil {\n        log.Fatal(\"unmarshaling error: \", err)\n    }\n    // Now test and newTest contain the same data.\n    if test.GetLabel() != newTest.GetLabel() {\n        log.Fatalf(\"data mismatch %q != %q\", test.GetLabel(), newTest.GetLabel())\n    }\n    // etc.\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156256179,
+        "id": "dd7bfcaa-2200-4826-ae02-7110a43fae7e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156256179,
+        "parent_id": "768c82b8-52f0-435a-b969-f6a76eb1b0a2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To pass extra parameters to the plugin, use a comma-separated parameter list separated from the output directory by a colon:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To pass extra parameters to the plugin, use a comma-separated parameter list separated from the output directory by a colon:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156256180,
+        "id": "1ffca38c-fcf9-4bf7-8ba6-14592037253e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214549759,
+        "parent_id": "768c82b8-52f0-435a-b969-f6a76eb1b0a2",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ protoc --go_out=plugins=grpc,import_path=mypackage:. *.proto"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 7,
+        "code": "$ protoc --go_out=plugins=grpc,import_path=mypackage:. *.proto",
+        "code_language": "Shell"
+      }
+    ],
+    "title": "Using Protobuf with Go",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

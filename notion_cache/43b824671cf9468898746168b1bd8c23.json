@@ -1,0 +1,269 @@
+{
+  "ID": "43b82467-1cf9-4688-9874-6168b1bd8c23",
+  "Page": {
+    "alive": true,
+    "content": [
+      "3a5004db-c410-4269-a077-8cacb16d7e97",
+      "940ac3e5-5c99-4e04-a4ec-9c21d2e317d6",
+      "9cc54771-e779-4c76-b42c-39d1ad29382b",
+      "0107c0e2-0574-468f-835e-12ad454ad819",
+      "275b0bd7-3631-47da-9a5b-3e7e0a023ed7",
+      "8f52cb09-fc6e-4828-a85e-1cff86782fb9",
+      "285dfef9-cd36-4f40-bc3c-e01b29524d2e",
+      "8b1d8b9d-d6db-46b9-bd78-38a7c8ee274c"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156196178,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "43b82467-1cf9-4688-9874-6168b1bd8c23",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532211875606,
+    "parent_id": "b55ab9b1-d6e5-499e-a301-4ba7e85d3efd",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Set/Reset mock function in tests"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 41,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211838365,
+        "id": "3a5004db-c410-4269-a077-8cacb16d7e97",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211844623,
+        "parent_id": "43b82467-1cf9-4688-9874-6168b1bd8c23",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 250"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 250"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211844623,
+        "id": "940ac3e5-5c99-4e04-a4ec-9c21d2e317d6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211846487,
+        "parent_id": "43b82467-1cf9-4688-9874-6168b1bd8c23",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211846487,
+        "id": "9cc54771-e779-4c76-b42c-39d1ad29382b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211849055,
+        "parent_id": "43b82467-1cf9-4688-9874-6168b1bd8c23",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 12204"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 12204"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211850783,
+        "id": "0107c0e2-0574-468f-835e-12ad454ad819",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211850783,
+        "parent_id": "43b82467-1cf9-4688-9874-6168b1bd8c23",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211849055,
+        "id": "275b0bd7-3631-47da-9a5b-3e7e0a023ed7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211850456,
+        "parent_id": "43b82467-1cf9-4688-9874-6168b1bd8c23",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This example shows how to mock out a function call that is irrelevant to our unit test, and then use the "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statement to re-assign the mocked function call back to its original function."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "This example shows how to mock out a function call that is irrelevant to our unit test, and then use the "
+          },
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statement to re-assign the mocked function call back to its original function."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156196177,
+        "id": "8f52cb09-fc6e-4828-a85e-1cff86782fb9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211855440,
+        "parent_id": "43b82467-1cf9-4688-9874-6168b1bd8c23",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var validate = validateDTD\n\n// ParseXML parses b for XML elements and values, and returns them as a map of\n// string key/value pairs.\nfunc ParseXML(b []byte) (map[string]string, error) {\n    // we don't care about validating against DTD in our unit test\n    if err := validate(b); err != nil {\n        return err\n    }\n\n    // code to parse b etc.\n}\n\nfunc validateDTD(b []byte) error {\n    // get the DTD from some external storage, use it to validate b etc.\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var validate = validateDTD\n\n// ParseXML parses b for XML elements and values, and returns them as a map of\n// string key/value pairs.\nfunc ParseXML(b []byte) (map[string]string, error) {\n    // we don't care about validating against DTD in our unit test\n    if err := validate(b); err != nil {\n        return err\n    }\n\n    // code to parse b etc.\n}\n\nfunc validateDTD(b []byte) error {\n    // get the DTD from some external storage, use it to validate b etc.\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156196177,
+        "id": "285dfef9-cd36-4f40-bc3c-e01b29524d2e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156196177,
+        "parent_id": "43b82467-1cf9-4688-9874-6168b1bd8c23",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In our unit test,"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In our unit test,"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156196177,
+        "id": "8b1d8b9d-d6db-46b9-bd78-38a7c8ee274c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211859831,
+        "parent_id": "43b82467-1cf9-4688-9874-6168b1bd8c23",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func TestParseXML(t *testing.T) {\n    // assign the original validate function to a variable.\n    originalValidate = validate\n    // use the mockValidate function in this test.\n    validate = mockValidate\n    // defer the re-assignment back to the original validate function.\n    defer func() {\n       validate = originalValidate\n    }()\n\n    var input []byte\n    actual, err := ParseXML(input)\n    // assertion etc.\n}\n\nfunc mockValidate(b []byte) error {\n    return nil // always return nil since we don't care\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func TestParseXML(t *testing.T) {\n    // assign the original validate function to a variable.\n    originalValidate = validate\n    // use the mockValidate function in this test.\n    validate = mockValidate\n    // defer the re-assignment back to the original validate function.\n    defer func() {\n       validate = originalValidate\n    }()\n\n    var input []byte\n    actual, err := ParseXML(input)\n    // assertion etc.\n}\n\nfunc mockValidate(b []byte) error {\n    return nil // always return nil since we don't care\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Set/Reset mock function in tests",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

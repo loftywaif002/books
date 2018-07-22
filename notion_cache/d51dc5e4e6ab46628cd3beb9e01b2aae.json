@@ -1,0 +1,250 @@
+{
+  "ID": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
+  "Page": {
+    "alive": true,
+    "content": [
+      "4498337a-8b6c-4832-86db-ef4d3326b1d6",
+      "6d7f15e9-3dbd-4a16-9e66-5b0924d74a5d",
+      "114a4428-a5cf-4b57-be49-a5e9a736e517",
+      "231b09b1-cd68-4df9-9b73-cc4c9308e07d",
+      "f2dff9e3-b98d-4418-b53f-9c32dd074496",
+      "5997e14a-844a-43f4-ac4d-e8dac1586529"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156024114,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235744537,
+    "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "goto statements"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203281431,
+        "id": "4498337a-8b6c-4832-86db-ef4d3326b1d6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235745282,
+        "parent_id": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 100"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 100"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203283106,
+        "id": "6d7f15e9-3dbd-4a16-9e66-5b0924d74a5d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235745918,
+        "parent_id": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 18834"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 18834"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203286530,
+        "id": "114a4428-a5cf-4b57-be49-a5e9a736e517",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203286530,
+        "parent_id": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532203284763,
+        "id": "231b09b1-cd68-4df9-9b73-cc4c9308e07d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532203286276,
+        "parent_id": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A "
+            ],
+            [
+              "goto",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statement transfers control to the statement with the corresponding label within the same function."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "A "
+          },
+          {
+            "Text": "goto",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statement transfers control to the statement with the corresponding label within the same function."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156024113,
+        "id": "f2dff9e3-b98d-4418-b53f-9c32dd074496",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156024113,
+        "parent_id": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Executing the "
+            ],
+            [
+              "goto",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statement must not cause any variables to come into scope that were not already in scope at the point of the "
+            ],
+            [
+              "goto",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Executing the "
+          },
+          {
+            "Text": "goto",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statement must not cause any variables to come into scope that were not already in scope at the point of the "
+          },
+          {
+            "Text": "goto",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156024114,
+        "id": "5997e14a-844a-43f4-ac4d-e8dac1586529",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156024114,
+        "parent_id": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file goto.go output sha1:74394a3a3cdb7756567025be859051c109e7380a goplayground:qFd3-0t_v3e"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file goto.go output sha1:74394a3a3cdb7756567025be859051c109e7380a goplayground:qFd3-0t_v3e"
+          }
+        ]
+      }
+    ],
+    "title": "goto statements",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,376 @@
+{
+  "ID": "22f58226-4cdd-4675-b8d5-7b06c73b406b",
+  "Page": {
+    "alive": true,
+    "content": [
+      "81a7264b-02a1-4233-86e1-d21d1624765c",
+      "ba8d9790-d491-470a-8d00-3b8288903b79",
+      "72b30eeb-b02b-442e-b881-b2982c0cde4e",
+      "d04cc8bf-1f72-4078-981e-aaec2ace3ec4",
+      "7c85f9a3-447c-40ef-9dcd-e4c7f9d25753",
+      "a1822113-2553-47c8-92ed-4ae3075a3a5b",
+      "44938019-ccad-4200-846f-56a6a4b7fae8",
+      "c8fab841-31d4-4a84-8d81-9162a8e0fc1e",
+      "2bb9215e-4842-45a9-8bd1-4f34f2429c7e",
+      "cebe0673-0387-47a3-8098-5b26e6bee492"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156082123,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "22f58226-4cdd-4675-b8d5-7b06c73b406b",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532206350696,
+    "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Package initialization"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 40,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206317193,
+        "id": "81a7264b-02a1-4233-86e1-d21d1624765c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236728902,
+        "parent_id": "22f58226-4cdd-4675-b8d5-7b06c73b406b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 157"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Id: 157"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206319608,
+        "id": "ba8d9790-d491-470a-8d00-3b8288903b79",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236729841,
+        "parent_id": "22f58226-4cdd-4675-b8d5-7b06c73b406b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 6074"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "$SOId: 6074"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206322527,
+        "id": "72b30eeb-b02b-442e-b881-b2982c0cde4e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206322527,
+        "parent_id": "22f58226-4cdd-4675-b8d5-7b06c73b406b",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206321313,
+        "id": "d04cc8bf-1f72-4078-981e-aaec2ace3ec4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206322361,
+        "parent_id": "22f58226-4cdd-4675-b8d5-7b06c73b406b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Package can have one or more "
+            ],
+            [
+              "init",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " methods."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Package can have one or more "
+          },
+          {
+            "Text": "init",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " methods."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156082122,
+        "id": "7c85f9a3-447c-40ef-9dcd-e4c7f9d25753",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156082122,
+        "parent_id": "22f58226-4cdd-4675-b8d5-7b06c73b406b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Those methods are run "
+            ],
+            [
+              "only once",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " before "
+            ],
+            [
+              "main",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function is executed."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Those methods are run "
+          },
+          {
+            "Text": "only once",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " before "
+          },
+          {
+            "Text": "main",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function is executed."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156082122,
+        "id": "a1822113-2553-47c8-92ed-4ae3075a3a5b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206355057,
+        "parent_id": "22f58226-4cdd-4675-b8d5-7b06c73b406b",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package foo\n\nfunc init() {\n    // init code\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package foo\n\nfunc init() {\n    // init code\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156082122,
+        "id": "44938019-ccad-4200-846f-56a6a4b7fae8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156082122,
+        "parent_id": "22f58226-4cdd-4675-b8d5-7b06c73b406b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you just want to run the package initialization without referencing anything from it use the following import expression."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you just want to run the package initialization without referencing anything from it use the following import expression."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156082123,
+        "id": "c8fab841-31d4-4a84-8d81-9162a8e0fc1e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206357330,
+        "parent_id": "22f58226-4cdd-4675-b8d5-7b06c73b406b",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "import _ \"foo\""
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "import _ \"foo\"",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156082123,
+        "id": "2bb9215e-4842-45a9-8bd1-4f34f2429c7e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156082123,
+        "parent_id": "22f58226-4cdd-4675-b8d5-7b06c73b406b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Package initialization function can be used to create initial state needed by code in the package."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Package initialization function can be used to create initial state needed by code in the package."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156082123,
+        "id": "cebe0673-0387-47a3-8098-5b26e6bee492",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156082123,
+        "parent_id": "22f58226-4cdd-4675-b8d5-7b06c73b406b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Avoid temptation of doing too much in "
+            ],
+            [
+              "init",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function. Such implicit logic negatively impacts other people’s ability to understand the code."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Avoid temptation of doing too much in "
+          },
+          {
+            "Text": "init",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function. Such implicit logic negatively impacts other people’s ability to understand the code."
+          }
+        ]
+      }
+    ],
+    "title": "Package initialization",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

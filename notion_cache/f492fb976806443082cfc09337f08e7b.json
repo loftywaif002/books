@@ -1,0 +1,233 @@
+{
+  "ID": "f492fb97-6806-4430-82cf-c09337f08e7b",
+  "Page": {
+    "alive": true,
+    "content": [
+      "dbf4e49f-1c8b-4a9f-aeed-b993712576f3",
+      "900f952e-d1d6-4705-a95a-8837f992f67f",
+      "d19f21d2-5056-480d-a05f-ab5456b877b7",
+      "005b63f1-5184-4fd0-9f5c-7539f6724790",
+      "8bad1692-b263-42c3-8678-8893c87c3345",
+      "b99faf2a-9f03-4e77-acbb-2a7d2ed625d0"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156036191,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "f492fb97-6806-4430-82cf-c09337f08e7b",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235991659,
+    "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Parameters"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204403906,
+        "id": "dbf4e49f-1c8b-4a9f-aeed-b993712576f3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235992688,
+        "parent_id": "f492fb97-6806-4430-82cf-c09337f08e7b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 112"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 112"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204405332,
+        "id": "900f952e-d1d6-4705-a95a-8837f992f67f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235993360,
+        "parent_id": "f492fb97-6806-4430-82cf-c09337f08e7b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1251"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1251"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204407099,
+        "id": "d19f21d2-5056-480d-a05f-ab5456b877b7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532204407554,
+        "parent_id": "f492fb97-6806-4430-82cf-c09337f08e7b",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156036191,
+        "id": "005b63f1-5184-4fd0-9f5c-7539f6724790",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156036191,
+        "parent_id": "f492fb97-6806-4430-82cf-c09337f08e7b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A function can optionally declare a set of parameters:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A function can optionally declare a set of parameters:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156036191,
+        "id": "8bad1692-b263-42c3-8678-8893c87c3345",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156036191,
+        "parent_id": "f492fb97-6806-4430-82cf-c09337f08e7b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file parameters.go output sha1:d47debe6c88da40536c0664f4715351a4cb596f2 goplayground:QaDwmSg0YGk"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file parameters.go output sha1:d47debe6c88da40536c0664f4715351a4cb596f2 goplayground:QaDwmSg0YGk"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156036191,
+        "id": "b99faf2a-9f03-4e77-acbb-2a7d2ed625d0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156036191,
+        "parent_id": "f492fb97-6806-4430-82cf-c09337f08e7b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Notice that the type for "
+            ],
+            [
+              "firstName",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is omitted because it is identical to "
+            ],
+            [
+              "lastName",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Notice that the type for "
+          },
+          {
+            "Text": "firstName",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is omitted because it is identical to "
+          },
+          {
+            "Text": "lastName",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      }
+    ],
+    "title": "Parameters",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

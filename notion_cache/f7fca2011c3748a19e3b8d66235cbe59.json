@@ -1,0 +1,838 @@
+{
+  "ID": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+  "Page": {
+    "alive": true,
+    "content": [
+      "540a2579-c886-4ce5-b354-8c24617d4ca7",
+      "2843604e-d59f-44bd-b01a-f488bec61835",
+      "c5303382-5152-4010-be2c-572bb709555c",
+      "e076d584-10b2-42f4-8602-21feb86027cc",
+      "5235050a-af8c-4cf9-9519-350f038f08d5",
+      "db72e154-3ce9-4b6e-b22a-8b2ec1c1532e",
+      "cedd1dfe-9183-4b53-aa00-f431d84c0621",
+      "39d7f67d-1c82-4673-b67e-56de8f17dde3",
+      "ebd0820e-c548-4549-be92-bee342878184",
+      "9e6e2085-5b82-45bc-b08f-8440eff4eb55",
+      "597d8273-d57f-48e1-a61e-6b731dc31218",
+      "170e9895-c92a-400a-ac69-3a15212a0f5a",
+      "ca9f7c47-4425-4ca2-956b-8a312243164e",
+      "7c2f26ed-f0d8-4416-9d97-ca191b9433f5",
+      "7b328f77-eaf8-4400-8231-e9f093400a5b",
+      "5c751bad-6bec-4f91-a196-eb7f00d19574",
+      "2bb81945-43ae-45da-96c9-82a08b9ea09d",
+      "a75373f8-a97c-4fb4-9a12-b8a4ded82338",
+      "410b191a-80ca-446d-89d3-c7784fb33797",
+      "e7773e3f-acd6-4a16-85b1-a06d59d85837",
+      "21fa5a44-bd9b-4e4b-be51-acf5dbed3dc5",
+      "6b5c1654-9ad6-4b45-a9d2-3b7dbe1b5798",
+      "db2ca2cd-e72d-45ea-8e19-857be970b52d",
+      "ead00700-6742-4993-bb40-c754426bbb58"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156101178,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207193881,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Logging"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 24,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207173605,
+        "id": "540a2579-c886-4ce5-b354-8c24617d4ca7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207177946,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 174"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 174"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207177946,
+        "id": "2843604e-d59f-44bd-b01a-f488bec61835",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207180398,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3724"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3724"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207182031,
+        "id": "c5303382-5152-4010-be2c-572bb709555c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207182031,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207180398,
+        "id": "e076d584-10b2-42f4-8602-21feb86027cc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207181848,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Logging is a very deep subject because different programs have different logging requirements."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Logging is a very deep subject because different programs have different logging requirements."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101174,
+        "id": "5235050a-af8c-4cf9-9519-350f038f08d5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156101174,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Logging with "
+            ],
+            [
+              "fmt.Printf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "fmt.Fprintf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Logging with "
+          },
+          {
+            "Text": "fmt.Printf",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "fmt.Fprintf",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101174,
+        "id": "db72e154-3ce9-4b6e-b22a-8b2ec1c1532e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156101174,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The simplest way to log is to write to standard output (stdout):"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The simplest way to log is to write to standard output (stdout):"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101175,
+        "id": "cedd1dfe-9183-4b53-aa00-f431d84c0621",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207165698,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "fmt.Printf(\"Logging to %s\\n\", \"stdout\")"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "fmt.Printf(\"Logging to %s\\n\", \"stdout\")",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101175,
+        "id": "39d7f67d-1c82-4673-b67e-56de8f17dde3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156101175,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To write to standard error (stderr):"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To write to standard error (stderr):"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101175,
+        "id": "ebd0820e-c548-4549-be92-bee342878184",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207167739,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "fmt.Fprintf(os.Stderr, \"Logging to %s\\n\", \"stderr\")"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "fmt.Fprintf(os.Stderr, \"Logging to %s\\n\", \"stderr\")",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101175,
+        "id": "9e6e2085-5b82-45bc-b08f-8440eff4eb55",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156101175,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Logging with "
+            ],
+            [
+              "log",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Logging with "
+          },
+          {
+            "Text": "log",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101176,
+        "id": "597d8273-d57f-48e1-a61e-6b731dc31218",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156101176,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Standard package "
+            ],
+            [
+              "log",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/log/"
+                ]
+              ]
+            ],
+            [
+              " offers more functionality:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Standard package "
+          },
+          {
+            "Text": "log",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/log/"
+          },
+          {
+            "Text": " offers more functionality:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101177,
+        "id": "170e9895-c92a-400a-ac69-3a15212a0f5a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156101177,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file log.go output sha1:7ec653b436ede6b3ad152a355b3e35c556119cf9 goplayground:T6IHD0uxEsC"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file log.go output sha1:7ec653b436ede6b3ad152a355b3e35c556119cf9 goplayground:T6IHD0uxEsC"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101177,
+        "id": "ca9f7c47-4425-4ca2-956b-8a312243164e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156101177,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Compared to "
+            ],
+            [
+              "fmt.Printf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "log.Printf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ": * by default logs to stderr ("
+            ],
+            [
+              "os.Stderr",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ") * adds current time to each log line * ensures that echo log is on it’s own line by adding "
+            ],
+            [
+              "\\n",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " if not explicitly provided"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Compared to "
+          },
+          {
+            "Text": "fmt.Printf",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "log.Printf",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ": * by default logs to stderr ("
+          },
+          {
+            "Text": "os.Stderr",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ") * adds current time to each log line * ensures that echo log is on it’s own line by adding "
+          },
+          {
+            "Text": "\\n",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " if not explicitly provided"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101177,
+        "id": "7c2f26ed-f0d8-4416-9d97-ca191b9433f5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156101177,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To log fatal issues:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To log fatal issues:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101177,
+        "id": "7b328f77-eaf8-4400-8231-e9f093400a5b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207170932,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "f, err := os.Open(\"file.txt\")\nif err != nil {\n    log.Fatalf(\"os.Open('file.txt') failed with '%s'\\n\", err)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "f, err := os.Open(\"file.txt\")\nif err != nil {\n    log.Fatalf(\"os.Open('file.txt') failed with '%s'\\n\", err)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101177,
+        "id": "5c751bad-6bec-4f91-a196-eb7f00d19574",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156101177,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "log.Fatalf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " logs the message and calls "
+            ],
+            [
+              "os.Exit(1)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to end the process."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "log.Fatalf",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " logs the message and calls "
+          },
+          {
+            "Text": "os.Exit(1)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to end the process."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101177,
+        "id": "2bb81945-43ae-45da-96c9-82a08b9ea09d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156101177,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Logging to a file"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Logging to a file"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101178,
+        "id": "a75373f8-a97c-4fb4-9a12-b8a4ded82338",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156101178,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Log package allows changing where the log output is sent. We can log to a file:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Log package allows changing where the log output is sent. We can log to a file:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101178,
+        "id": "410b191a-80ca-446d-89d3-c7784fb33797",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156101178,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file log_file.go sha1:0dd5e3acabedd5087ef46852fb9848cb76a8bb71 goplayground:thVsmxVof2c"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file log_file.go sha1:0dd5e3acabedd5087ef46852fb9848cb76a8bb71 goplayground:thVsmxVof2c"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101178,
+        "id": "e7773e3f-acd6-4a16-85b1-a06d59d85837",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156101178,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Logging to syslog"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Logging to syslog"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101178,
+        "id": "21fa5a44-bd9b-4e4b-be51-acf5dbed3dc5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156101178,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When running on Unix, we might log to syslog:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When running on Unix, we might log to syslog:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156101178,
+        "id": "6b5c1654-9ad6-4b45-a9d2-3b7dbe1b5798",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156101178,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file log_syslog.go sha1:f2aca065f394259d2a04e0ceab84e363493112dd goplayground:qENpElxIRMS"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file log_syslog.go sha1:f2aca065f394259d2a04e0ceab84e363493112dd goplayground:qENpElxIRMS"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207185847,
+        "id": "db2ca2cd-e72d-45ea-8e19-857be970b52d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207185847,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156102266,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "ead00700-6742-4993-bb40-c754426bbb58",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207220322,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Logging libraries"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Logging libraries",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Logging",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

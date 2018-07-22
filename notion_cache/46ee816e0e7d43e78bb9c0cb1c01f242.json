@@ -1,0 +1,438 @@
+{
+  "ID": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
+  "Page": {
+    "alive": true,
+    "content": [
+      "03386d44-c3fe-4926-a1e1-ebb7401536fe",
+      "f81196af-2e2e-4848-a981-73760d382787",
+      "f0cdca61-37ee-4087-b6c7-3e55da5edb4e",
+      "0742e1e1-494b-48d6-86e7-e361e3dbbdec",
+      "e367aff7-5318-4c28-b21b-146ae0185222",
+      "cbc5edfb-110c-40f6-aec0-1fd4f4065084",
+      "8701dd14-9158-44b3-9535-e5dc7d480810",
+      "7a0e6042-c416-411f-b801-4666c3957df4",
+      "14f106ef-8be2-402f-b2df-773817348437"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156095214,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207006587,
+    "parent_id": "c4da0534-9333-4df9-9513-4741ae04f808",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Compare time and date"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206985768,
+        "id": "03386d44-c3fe-4926-a1e1-ebb7401536fe",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207008244,
+        "parent_id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 170"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 170"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206987347,
+        "id": "f81196af-2e2e-4848-a981-73760d382787",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207009042,
+        "parent_id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 32577"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 32577"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206991539,
+        "id": "f0cdca61-37ee-4087-b6c7-3e55da5edb4e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206991539,
+        "parent_id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206990283,
+        "id": "0742e1e1-494b-48d6-86e7-e361e3dbbdec",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206991228,
+        "parent_id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sometime you will need to know, with 2 dates objects, if there are corresponding to the same date, or find which date is after the other."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Sometime you will need to know, with 2 dates objects, if there are corresponding to the same date, or find which date is after the other."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156095212,
+        "id": "e367aff7-5318-4c28-b21b-146ae0185222",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156095212,
+        "parent_id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In "
+            ],
+            [
+              "Go",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              ", there is 4 way to compare dates: - "
+            ],
+            [
+              "date1 == date2",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", returns "
+            ],
+            [
+              "true",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " when the 2 are the same moment - "
+            ],
+            [
+              "date1 != date2",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", returns "
+            ],
+            [
+              "true",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " when the 2 are different moment - "
+            ],
+            [
+              "date1.Before(date2)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", returns "
+            ],
+            [
+              "true",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " when the first is strictly before the second - "
+            ],
+            [
+              "date1.After(date2)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", returns "
+            ],
+            [
+              "true",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " when the first is strictly after the second"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In "
+          },
+          {
+            "Text": "Go",
+            "AttrFlags": 1
+          },
+          {
+            "Text": ", there is 4 way to compare dates: - "
+          },
+          {
+            "Text": "date1 == date2",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", returns "
+          },
+          {
+            "Text": "true",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " when the 2 are the same moment - "
+          },
+          {
+            "Text": "date1 != date2",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", returns "
+          },
+          {
+            "Text": "true",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " when the 2 are different moment - "
+          },
+          {
+            "Text": "date1.Before(date2)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", returns "
+          },
+          {
+            "Text": "true",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " when the first is strictly before the second - "
+          },
+          {
+            "Text": "date1.After(date2)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", returns "
+          },
+          {
+            "Text": "true",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " when the first is strictly after the second"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156095213,
+        "id": "cbc5edfb-110c-40f6-aec0-1fd4f4065084",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156095213,
+        "parent_id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "WARNING: When the 2 Time to compare are the same (or correspond to the exact same date), functions After and Before will return false, as a date is neither before nor after itself - date1 == date1, returns true - date1 != date1, returns false - date1.After(date1), returns false - date1.Before(date1), returns false"
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "WARNING: When the 2 Time to compare are the same (or correspond to the exact same date), functions After and Before will return false, as a date is neither before nor after itself - date1 == date1, returns true - date1 != date1, returns false - date1.After(date1), returns false - date1.Before(date1), returns false"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156095213,
+        "id": "8701dd14-9158-44b3-9535-e5dc7d480810",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156095213,
+        "parent_id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "TIPS: If you need to know if a date is before or equal another one, just need to combine the 4 operators - date1 == date2 || date1.After(date2), returns true when date1 is after or equal date2 or using ! (date1.Before(date2)) - date1 == date2 || date1.Before(date2), returns true when date1 is before or equal date2 or using !(date1.After(date2))"
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "TIPS: If you need to know if a date is before or equal another one, just need to combine the 4 operators - date1 == date2 || date1.After(date2), returns true when date1 is after or equal date2 or using ! (date1.Before(date2)) - date1 == date2 || date1.Before(date2), returns true when date1 is before or equal date2 or using !(date1.After(date2))"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156095213,
+        "id": "7a0e6042-c416-411f-b801-4666c3957df4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156095213,
+        "parent_id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Some examples to see how to use:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Some examples to see how to use:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156095213,
+        "id": "14f106ef-8be2-402f-b2df-773817348437",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207016561,
+        "parent_id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// Init 2 dates for example\n    var date1 = time.Date(2009, time.November, 10, 23, 0, 0, 0, time.UTC)\n    var date2 = time.Date(2017, time.July, 25, 16, 22, 42, 123, time.UTC)\n    var date3 = time.Date(2017, time.July, 25, 16, 22, 42, 123, time.UTC)\n\n    bool1 := date1.Before(date2) // true, because date1 is before date2\n    bool2 := date1.After(date2) // false, because date1 is not after date2\n\n    bool3 := date2.Before(date1) // false, because date2 is not before date1\n    bool4 := date2.After(date1) // true, because date2 is after date1\n\n    bool5 := date1 == date2 // false, not the same moment\n    bool6 := date1 == date3 // true, different objects but representing the exact same time\n\n    bool7 := date1 != date2 // true, different moments\n    bool8 := date1 != date3 // false, not different moments\n\n    bool9 := date1.After(date3) // false, because date1 is not after date3 (that are the same)\n    bool10:= date1.Before(date3) // false, because date1 is not before date3 (that are the same)\n\n    bool11 := !(date1.Before(date3)) // true, because date1 is not before date3\n    bool12 := !(date1.After(date3)) // true, because date1 is not after date3"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// Init 2 dates for example\n    var date1 = time.Date(2009, time.November, 10, 23, 0, 0, 0, time.UTC)\n    var date2 = time.Date(2017, time.July, 25, 16, 22, 42, 123, time.UTC)\n    var date3 = time.Date(2017, time.July, 25, 16, 22, 42, 123, time.UTC)\n\n    bool1 := date1.Before(date2) // true, because date1 is before date2\n    bool2 := date1.After(date2) // false, because date1 is not after date2\n\n    bool3 := date2.Before(date1) // false, because date2 is not before date1\n    bool4 := date2.After(date1) // true, because date2 is after date1\n\n    bool5 := date1 == date2 // false, not the same moment\n    bool6 := date1 == date3 // true, different objects but representing the exact same time\n\n    bool7 := date1 != date2 // true, different moments\n    bool8 := date1 != date3 // false, not different moments\n\n    bool9 := date1.After(date3) // false, because date1 is not after date3 (that are the same)\n    bool10:= date1.Before(date3) // false, because date1 is not before date3 (that are the same)\n\n    bool11 := !(date1.Before(date3)) // true, because date1 is not before date3\n    bool12 := !(date1.After(date3)) // true, because date1 is not after date3",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Compare time and date",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

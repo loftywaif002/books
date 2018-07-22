@@ -1,0 +1,355 @@
+{
+  "ID": "27eb2961-e696-4ea4-bea5-f71c3a662540",
+  "Page": {
+    "alive": true,
+    "content": [
+      "95f956be-2867-44ee-baf5-344ad5b5d17f",
+      "96fe530f-1bb7-4490-a314-60b0bf326d54",
+      "19627ac1-2cce-4bcd-afc5-a9d343a036e0",
+      "4769c911-158d-474d-acaf-4b8b96be5632",
+      "918db3b1-c7ed-4f40-b2e4-bd7c35326dc4",
+      "97bd315f-74f2-4cf8-bed8-01fd8d49e20d",
+      "07919a9a-116e-42db-962a-31e2486dcdeb",
+      "c14f9342-94ee-440f-a183-f1ce76526eb3",
+      "94b79f38-6913-40bd-a14d-3e902f6d887d",
+      "a3c06508-3e08-4708-b78a-d73a237d48bc",
+      "e88247e9-b9f5-427a-9cc6-d833c28e8439",
+      "cd429147-5f3d-41a6-9c2d-8ee79ca3b4fc"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156192226,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "27eb2961-e696-4ea4-bea5-f71c3a662540",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532211630381,
+    "parent_id": "b55ab9b1-d6e5-499e-a301-4ba7e85d3efd",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Testing using setUp and tearDown function"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 27,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211613000,
+        "id": "95f956be-2867-44ee-baf5-344ad5b5d17f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211615180,
+        "parent_id": "27eb2961-e696-4ea4-bea5-f71c3a662540",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 246"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 246"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211615180,
+        "id": "96fe530f-1bb7-4490-a314-60b0bf326d54",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211617052,
+        "parent_id": "27eb2961-e696-4ea4-bea5-f71c3a662540",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 4"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 4"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211617052,
+        "id": "19627ac1-2cce-4bcd-afc5-a9d343a036e0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211619444,
+        "parent_id": "27eb2961-e696-4ea4-bea5-f71c3a662540",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 15183"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 15183"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211620749,
+        "id": "4769c911-158d-474d-acaf-4b8b96be5632",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211620749,
+        "parent_id": "27eb2961-e696-4ea4-bea5-f71c3a662540",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211619444,
+        "id": "918db3b1-c7ed-4f40-b2e4-bd7c35326dc4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211620436,
+        "parent_id": "27eb2961-e696-4ea4-bea5-f71c3a662540",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can set a setUp and tearDown function."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "You can set a setUp and tearDown function."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156192225,
+        "id": "97bd315f-74f2-4cf8-bed8-01fd8d49e20d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156192225,
+        "parent_id": "27eb2961-e696-4ea4-bea5-f71c3a662540",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A setUp function prepares your environment to tests."
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A setUp function prepares your environment to tests."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156192225,
+        "id": "07919a9a-116e-42db-962a-31e2486dcdeb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156192225,
+        "parent_id": "27eb2961-e696-4ea4-bea5-f71c3a662540",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A tearDown function does a rollback."
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A tearDown function does a rollback."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156192225,
+        "id": "c14f9342-94ee-440f-a183-f1ce76526eb3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156192225,
+        "parent_id": "27eb2961-e696-4ea4-bea5-f71c3a662540",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is a good option when you can’t modify your database and you need to create an object that simulate an object brought of database or need to init a configuration in each test."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is a good option when you can’t modify your database and you need to create an object that simulate an object brought of database or need to init a configuration in each test."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156192225,
+        "id": "94b79f38-6913-40bd-a14d-3e902f6d887d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156192225,
+        "parent_id": "27eb2961-e696-4ea4-bea5-f71c3a662540",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A stupid example would be:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A stupid example would be:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156192225,
+        "id": "a3c06508-3e08-4708-b78a-d73a237d48bc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211637632,
+        "parent_id": "27eb2961-e696-4ea4-bea5-f71c3a662540",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// Standard numbers map\nvar numbers map[string]int = map[string]int{\"zero\": 0, \"three\": 3}\n\n// TestMain will exec each test, one by one\nfunc TestMain(m *testing.M) {\n    // exec setUp function\n    setUp(\"one\", 1)\n    // exec test and this returns an exit code to pass to os\n    retCode := m.Run()\n    // exec tearDown function\n    tearDown(\"one\")\n    // If exit code is distinct of zero,\n    // the test will be failed (red)\n    os.Exit(retCode)\n}\n\n// setUp function, add a number to numbers slice\nfunc setUp(key string, value int) {\n    numbers[key] = value\n}\n\n// tearDown function, delete a number to numbers slice\nfunc tearDown(key string) {\n    delete(numbers, key)\n}\n\n// First test\nfunc TestOnePlusOne(t *testing.T) {\n    numbers[\"one\"] = numbers[\"one\"] + 1\n\n    if numbers[\"one\"] != 2 {\n        t.Error(\"1 plus 1 = 2, not %v\", value)\n    }\n}\n\n// Second test\nfunc TestOnePlusTwo(t *testing.T) {\n    numbers[\"one\"] = numbers[\"one\"] + 2\n\n    if numbers[\"one\"] != 3 {\n        t.Error(\"1 plus 2 = 3, not %v\", value)\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// Standard numbers map\nvar numbers map[string]int = map[string]int{\"zero\": 0, \"three\": 3}\n\n// TestMain will exec each test, one by one\nfunc TestMain(m *testing.M) {\n    // exec setUp function\n    setUp(\"one\", 1)\n    // exec test and this returns an exit code to pass to os\n    retCode := m.Run()\n    // exec tearDown function\n    tearDown(\"one\")\n    // If exit code is distinct of zero,\n    // the test will be failed (red)\n    os.Exit(retCode)\n}\n\n// setUp function, add a number to numbers slice\nfunc setUp(key string, value int) {\n    numbers[key] = value\n}\n\n// tearDown function, delete a number to numbers slice\nfunc tearDown(key string) {\n    delete(numbers, key)\n}\n\n// First test\nfunc TestOnePlusOne(t *testing.T) {\n    numbers[\"one\"] = numbers[\"one\"] + 1\n\n    if numbers[\"one\"] != 2 {\n        t.Error(\"1 plus 1 = 2, not %v\", value)\n    }\n}\n\n// Second test\nfunc TestOnePlusTwo(t *testing.T) {\n    numbers[\"one\"] = numbers[\"one\"] + 2\n\n    if numbers[\"one\"] != 3 {\n        t.Error(\"1 plus 2 = 3, not %v\", value)\n    }\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156192226,
+        "id": "e88247e9-b9f5-427a-9cc6-d833c28e8439",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156192226,
+        "parent_id": "27eb2961-e696-4ea4-bea5-f71c3a662540",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Other example would be to prepare database to test and to do rollback"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Other example would be to prepare database to test and to do rollback"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156192226,
+        "id": "cd429147-5f3d-41a6-9c2d-8ee79ca3b4fc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211645213,
+        "parent_id": "27eb2961-e696-4ea4-bea5-f71c3a662540",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// ID of Person will be saved in database\npersonID := 12345\n// Name of Person will be saved in database\npersonName := \"Toni\"\n\nfunc TestMain(m *testing.M) {\n    // You create an Person and you save in database\n    setUp(\u0026Person{\n            ID:   personID,\n            Name: personName,\n            Age:  19,\n        })\n    retCode := m.Run()\n    // When you have executed the test, the Person is deleted from database\n    tearDown(personID)\n    os.Exit(retCode)\n}\n\nfunc setUp(P *Person) {\n    // ...\n    db.add(P)\n    // ...\n}\n\nfunc tearDown(id int) {\n    // ...\n    db.delete(id)\n    // ...\n}\n\nfunc getPerson(t *testing.T) {\n    P := Get(personID)\n\n    if P.Name != personName {\n        t.Error(\"P.Name is %s and it must be Toni\", P.Name)\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// ID of Person will be saved in database\npersonID := 12345\n// Name of Person will be saved in database\npersonName := \"Toni\"\n\nfunc TestMain(m *testing.M) {\n    // You create an Person and you save in database\n    setUp(\u0026Person{\n            ID:   personID,\n            Name: personName,\n            Age:  19,\n        })\n    retCode := m.Run()\n    // When you have executed the test, the Person is deleted from database\n    tearDown(personID)\n    os.Exit(retCode)\n}\n\nfunc setUp(P *Person) {\n    // ...\n    db.add(P)\n    // ...\n}\n\nfunc tearDown(id int) {\n    // ...\n    db.delete(id)\n    // ...\n}\n\nfunc getPerson(t *testing.T) {\n    P := Get(personID)\n\n    if P.Name != personName {\n        t.Error(\"P.Name is %s and it must be Toni\", P.Name)\n    }\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Testing using setUp and tearDown function",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

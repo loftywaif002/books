@@ -1,0 +1,153 @@
+{
+  "ID": "ddc28bcf-5179-4ae5-b021-b8c0d9423497",
+  "Page": {
+    "alive": true,
+    "content": [
+      "aeaa6064-2e79-4b53-9850-f52e3e98e424",
+      "5c5c29c2-d22e-4c3d-8eef-aa7ccd6c2e70",
+      "b1305484-c5c9-4b49-b80d-ebe0369430d7",
+      "8b73aeb4-32f9-484d-8f2b-34af25d70a86"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156257146,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "ddc28bcf-5179-4ae5-b021-b8c0d9423497",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532214590828,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Console I/O"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 33,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214570454,
+        "id": "aeaa6064-2e79-4b53-9850-f52e3e98e424",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214577950,
+        "parent_id": "ddc28bcf-5179-4ae5-b021-b8c0d9423497",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 304"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 304"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214572781,
+        "id": "5c5c29c2-d22e-4c3d-8eef-aa7ccd6c2e70",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214577119,
+        "parent_id": "ddc28bcf-5179-4ae5-b021-b8c0d9423497",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 9741"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 9741"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214575445,
+        "id": "b1305484-c5c9-4b49-b80d-ebe0369430d7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214590828,
+        "parent_id": "ddc28bcf-5179-4ae5-b021-b8c0d9423497",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156258128,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "8b73aeb4-32f9-484d-8f2b-34af25d70a86",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214615451,
+        "parent_id": "ddc28bcf-5179-4ae5-b021-b8c0d9423497",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Read input from console"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 28,
+        "title": "Read input from console",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Console I/O",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

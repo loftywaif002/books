@@ -1,0 +1,393 @@
+{
+  "ID": "e018f0ba-4b24-4999-bb27-5f6cd092eed3",
+  "Page": {
+    "alive": true,
+    "content": [
+      "e8a78854-f09a-483a-9a1b-83f6729fbe37",
+      "87d193fd-0be9-4cf0-941f-ccebac5b64fa",
+      "b2afd5f1-dbf5-44cc-b685-5a237d5ae306",
+      "eac083a4-73b8-48ac-b856-544b20169101",
+      "fc73e105-216d-4f8a-95e3-36fb5850439b",
+      "cc09d608-5fef-4324-96ea-69d224deb079",
+      "66e20a74-24ce-41e4-8f36-fd0832afe7e9",
+      "065a81e8-0515-459d-b750-46e747edc3d7",
+      "8a5a28c3-b999-425e-8aa8-da9fc443fad0",
+      "96718912-692f-439e-a945-9e3c42002aae"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156191179,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "e018f0ba-4b24-4999-bb27-5f6cd092eed3",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532211529855,
+    "parent_id": "b55ab9b1-d6e5-499e-a301-4ba7e85d3efd",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Table-driven unit tests"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211512515,
+        "id": "e8a78854-f09a-483a-9a1b-83f6729fbe37",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211514606,
+        "parent_id": "e018f0ba-4b24-4999-bb27-5f6cd092eed3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 245"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 245"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211514606,
+        "id": "87d193fd-0be9-4cf0-941f-ccebac5b64fa",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211516623,
+        "parent_id": "e018f0ba-4b24-4999-bb27-5f6cd092eed3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 6"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 6"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211516623,
+        "id": "b2afd5f1-dbf5-44cc-b685-5a237d5ae306",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211518733,
+        "parent_id": "e018f0ba-4b24-4999-bb27-5f6cd092eed3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4041"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4041"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211520061,
+        "id": "eac083a4-73b8-48ac-b856-544b20169101",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211520061,
+        "parent_id": "e018f0ba-4b24-4999-bb27-5f6cd092eed3",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211518733,
+        "id": "fc73e105-216d-4f8a-95e3-36fb5850439b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211519848,
+        "parent_id": "e018f0ba-4b24-4999-bb27-5f6cd092eed3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This type of testing is popular technique for testing with predefined input and output values."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "This type of testing is popular technique for testing with predefined input and output values."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156191178,
+        "id": "cc09d608-5fef-4324-96ea-69d224deb079",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156191178,
+        "parent_id": "e018f0ba-4b24-4999-bb27-5f6cd092eed3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Create a file called "
+            ],
+            [
+              "main.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " with content:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Create a file called "
+          },
+          {
+            "Text": "main.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " with content:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156191178,
+        "id": "66e20a74-24ce-41e4-8f36-fd0832afe7e9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211537206,
+        "parent_id": "e018f0ba-4b24-4999-bb27-5f6cd092eed3",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"fmt\"\n)\n\nfunc main() {\n    fmt.Println(Sum(4, 5))\n}\n\nfunc Sum(a, b int) int {\n    return a + b\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"fmt\"\n)\n\nfunc main() {\n    fmt.Println(Sum(4, 5))\n}\n\nfunc Sum(a, b int) int {\n    return a + b\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156191179,
+        "id": "065a81e8-0515-459d-b750-46e747edc3d7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156191179,
+        "parent_id": "e018f0ba-4b24-4999-bb27-5f6cd092eed3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "After you run it with, you will see that the output is "
+            ],
+            [
+              "9",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". Although the "
+            ],
+            [
+              "Sum",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function looks pretty simple, it is a good idea to test your code. In order to do this, we create another file named "
+            ],
+            [
+              "main_test.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in the same folder as "
+            ],
+            [
+              "main.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", containing the following code:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "After you run it with, you will see that the output is "
+          },
+          {
+            "Text": "9",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". Although the "
+          },
+          {
+            "Text": "Sum",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function looks pretty simple, it is a good idea to test your code. In order to do this, we create another file named "
+          },
+          {
+            "Text": "main_test.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in the same folder as "
+          },
+          {
+            "Text": "main.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", containing the following code:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156191179,
+        "id": "8a5a28c3-b999-425e-8aa8-da9fc443fad0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211540547,
+        "parent_id": "e018f0ba-4b24-4999-bb27-5f6cd092eed3",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"testing\"\n)\n\n// Test methods start with Test\nfunc TestSum(t *testing.T) {\n    // Note that the data variable is of type array of anonymous struct,\n    // which is very handy for writing table-driven unit tests.\n    data := []struct {\n        a, b, res int\n    }{\n        {1, 2, 3},\n        {0, 0, 0},\n        {1, -1, 0},\n        {2, 3, 5},\n        {1000, 234, 1234},\n    }\n\n    for _, d := range data {\n        if got := Sum(d.a, d.b); got != d.res {\n            t.Errorf(\"Sum(%d, %d) == %d, want %d\", d.a, d.b, got, d.res)\n        }\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"testing\"\n)\n\n// Test methods start with Test\nfunc TestSum(t *testing.T) {\n    // Note that the data variable is of type array of anonymous struct,\n    // which is very handy for writing table-driven unit tests.\n    data := []struct {\n        a, b, res int\n    }{\n        {1, 2, 3},\n        {0, 0, 0},\n        {1, -1, 0},\n        {2, 3, 5},\n        {1000, 234, 1234},\n    }\n\n    for _, d := range data {\n        if got := Sum(d.a, d.b); got != d.res {\n            t.Errorf(\"Sum(%d, %d) == %d, want %d\", d.a, d.b, got, d.res)\n        }\n    }\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156191179,
+        "id": "96718912-692f-439e-a945-9e3c42002aae",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156191179,
+        "parent_id": "e018f0ba-4b24-4999-bb27-5f6cd092eed3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "As you can see, a slice of anonymous structs is created, each with a set of inputs and the expected result. This allows a large number of test cases to be created all together in one place, then executed in a loop, reducing code repetition and improving clarity."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "As you can see, a slice of anonymous structs is created, each with a set of inputs and the expected result. This allows a large number of test cases to be created all together in one place, then executed in a loop, reducing code repetition and improving clarity."
+          }
+        ]
+      }
+    ],
+    "title": "Table-driven unit tests",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

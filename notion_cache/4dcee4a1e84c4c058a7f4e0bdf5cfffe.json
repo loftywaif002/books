@@ -1,0 +1,373 @@
+{
+  "ID": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+  "Page": {
+    "alive": true,
+    "content": [
+      "6b4036d0-c1b7-47bc-8a79-043ad0d13b79",
+      "c641052c-1621-40b1-9fa4-1b447f149b7e",
+      "0f89c19d-3236-41c3-8744-fa4cad38bcc5",
+      "72513e81-b4e9-495b-8a3a-ef48e6c3337f",
+      "c27e375b-5999-4366-b60a-f914ac1eba54",
+      "56dbf83f-28ec-44a1-8215-3c597cd9226e",
+      "42990930-0d3f-4416-b115-41b319123e89",
+      "80ca524c-e9c9-42b1-95e1-360e07cd5948",
+      "aba77e42-39df-49ee-9cc3-934108161914",
+      "22c16dbf-0667-4b6d-b977-dfe8cb099297"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156039144,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236013595,
+    "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Named return values"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204485474,
+        "id": "6b4036d0-c1b7-47bc-8a79-043ad0d13b79",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236014403,
+        "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 115"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 115"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204487435,
+        "id": "c641052c-1621-40b1-9fa4-1b447f149b7e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236015482,
+        "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1253"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1253"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204489688,
+        "id": "0f89c19d-3236-41c3-8744-fa4cad38bcc5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532204490272,
+        "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156039141,
+        "id": "72513e81-b4e9-495b-8a3a-ef48e6c3337f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156039141,
+        "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Return values can be assigned to a local variable."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Return values can be assigned to a local variable."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156039141,
+        "id": "c27e375b-5999-4366-b60a-f914ac1eba54",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156039141,
+        "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "An empty "
+            ],
+            [
+              "return",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statement can then be used to return their current values. This is known as "
+            ],
+            [
+              "“naked”",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " return."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "An empty "
+          },
+          {
+            "Text": "return",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statement can then be used to return their current values. This is known as "
+          },
+          {
+            "Text": "“naked”",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " return."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156039142,
+        "id": "56dbf83f-28ec-44a1-8215-3c597cd9226e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156039142,
+        "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Naked return statements should be used only in short functions as they harm readability in longer functions:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Naked return statements should be used only in short functions as they harm readability in longer functions:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156039142,
+        "id": "42990930-0d3f-4416-b115-41b319123e89",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156039142,
+        "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file named_return_values.go output sha1:02946dc012fe64e4490cdc382b63d9024efe929a goplayground:s3zX6fDUijB"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file named_return_values.go output sha1:02946dc012fe64e4490cdc382b63d9024efe929a goplayground:s3zX6fDUijB"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156039142,
+        "id": "80ca524c-e9c9-42b1-95e1-360e07cd5948",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156039142,
+        "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Two important things must be noted:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Two important things must be noted:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156039144,
+        "id": "aba77e42-39df-49ee-9cc3-934108161914",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156039144,
+        "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "parenthesis around the return values are "
+            ],
+            [
+              "mandatory",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "parenthesis around the return values are "
+          },
+          {
+            "Text": "mandatory",
+            "AttrFlags": 1
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156039144,
+        "id": "22c16dbf-0667-4b6d-b977-dfe8cb099297",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156039144,
+        "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "empty "
+            ],
+            [
+              "return",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statement must always be provided."
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "empty "
+          },
+          {
+            "Text": "return",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statement must always be provided."
+          }
+        ]
+      }
+    ],
+    "title": "Named return values",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

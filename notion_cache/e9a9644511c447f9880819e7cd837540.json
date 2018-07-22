@@ -1,0 +1,205 @@
+{
+  "ID": "e9a96445-11c4-47f9-8808-19e7cd837540",
+  "Page": {
+    "alive": true,
+    "content": [
+      "f2158a03-77a5-4b4f-ba83-a6a7568c1e01",
+      "6a77ea7c-9488-4d0b-b00d-0b7bc4f2a450",
+      "967521c0-708f-46b4-9659-88bcf4cbf3a2",
+      "3089577d-996c-42b1-a767-5731881c70a7",
+      "88a12fe6-6b89-4e73-bec9-cf5e54eadc68",
+      "160ee6c2-a7a5-47bb-b45f-41877ca3ebfb"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156198158,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "e9a96445-11c4-47f9-8808-19e7cd837540",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532211965603,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Send/receive emails"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 28,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211928021,
+        "id": "f2158a03-77a5-4b4f-ba83-a6a7568c1e01",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211930115,
+        "parent_id": "e9a96445-11c4-47f9-8808-19e7cd837540",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 252"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 252"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211930115,
+        "id": "6a77ea7c-9488-4d0b-b00d-0b7bc4f2a450",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211965603,
+        "parent_id": "e9a96445-11c4-47f9-8808-19e7cd837540",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 5912"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 5912"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211931796,
+        "id": "967521c0-708f-46b4-9659-88bcf4cbf3a2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211964259,
+        "parent_id": "e9a96445-11c4-47f9-8808-19e7cd837540",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Syntax"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 43,
+        "inline_content": [
+          {
+            "Text": "Syntax"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211946418,
+        "id": "3089577d-996c-42b1-a767-5731881c70a7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211971524,
+        "parent_id": "e9a96445-11c4-47f9-8808-19e7cd837540",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func PlainAuth(identity, username, password, host string) Auth\nfunc SendMail(addr string, a Auth, from string, to []string, msg []byte) error"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 28,
+        "code": "func PlainAuth(identity, username, password, host string) Auth\nfunc SendMail(addr string, a Auth, from string, to []string, msg []byte) error",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532211923236,
+        "id": "88a12fe6-6b89-4e73-bec9-cf5e54eadc68",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532211923236,
+        "parent_id": "e9a96445-11c4-47f9-8808-19e7cd837540",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156199189,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "160ee6c2-a7a5-47bb-b45f-41877ca3ebfb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212242853,
+        "parent_id": "e9a96445-11c4-47f9-8808-19e7cd837540",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sending Email with smtp.SendMail()"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Sending Email with smtp.SendMail()",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Send/receive emails",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

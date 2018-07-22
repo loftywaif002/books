@@ -1,0 +1,397 @@
+{
+  "ID": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+  "Page": {
+    "alive": true,
+    "content": [
+      "e4a54017-2319-4dc2-ab8a-c79be37a9049",
+      "22dbdf6d-f594-4e04-bb9b-9aa73d70720e",
+      "603a2aa0-2280-4213-a51b-aaa7ed06b73c",
+      "8c910999-0874-4894-9f21-aaa5820c0c67",
+      "558d9262-7aba-444a-9820-870f5d0f70dd",
+      "f3a1120a-4c77-4325-abde-520235fe96ea",
+      "928e7301-5fd9-4ae0-bcaa-e845aab1d5fe",
+      "ecf059cc-0e21-4f19-9c65-4776b7711e7c",
+      "574e84cb-697d-4d81-abe7-2fe782e56a6e",
+      "40de31f6-d19c-4c3e-bb7e-a567cff4be6c",
+      "fff112ea-d46f-4f47-a5d4-ef37854a701e"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155921174,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532216898854,
+    "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Hello, World!"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 73,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532158927079,
+        "id": "e4a54017-2319-4dc2-ab8a-c79be37a9049",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215822044,
+        "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 6"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 6"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532158929863,
+        "id": "22dbdf6d-f594-4e04-bb9b-9aa73d70720e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215823108,
+        "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 833"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 833"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532158931694,
+        "id": "603a2aa0-2280-4213-a51b-aaa7ed06b73c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532158931706,
+        "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155921173,
+        "id": "8c910999-0874-4894-9f21-aaa5820c0c67",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532216746605,
+        "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Create a file "
+            ],
+            [
+              "hello_world.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 22,
+        "inline_content": [
+          {
+            "Text": "Create a file "
+          },
+          {
+            "Text": "hello_world.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532216332022,
+        "id": "558d9262-7aba-444a-9820-870f5d0f70dd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532216333875,
+        "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://gist.github.com/kjk/7278df5c7b164fce3c949af197c961eb"
+            ]
+          ]
+        },
+        "type": "gist",
+        "version": 8,
+        "source": "https://gist.github.com/kjk/7278df5c7b164fce3c949af197c961eb"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532216681774,
+        "id": "f3a1120a-4c77-4325-abde-520235fe96ea",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532216898854,
+        "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Run it with "
+            ],
+            [
+              "go run hello_world.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". "
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 176,
+        "inline_content": [
+          {
+            "Text": "Run it with "
+          },
+          {
+            "Text": "go run hello_world.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". "
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532216898854,
+        "id": "928e7301-5fd9-4ae0-bcaa-e845aab1d5fe",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532216904020,
+        "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is useful for ad-hoc execution."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 28,
+        "inline_content": [
+          {
+            "Text": "This is useful for ad-hoc execution."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155921174,
+        "id": "ecf059cc-0e21-4f19-9c65-4776b7711e7c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532216912323,
+        "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "More traditionally you create an executable with "
+            ],
+            [
+              "go build hello_world.go -o hello_world",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and then execute it like any other program."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 87,
+        "inline_content": [
+          {
+            "Text": "More traditionally you create an executable with "
+          },
+          {
+            "Text": "go build hello_world.go -o hello_world",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and then execute it like any other program."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155921174,
+        "id": "574e84cb-697d-4d81-abe7-2fe782e56a6e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532216510954,
+        "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "On Windows this will create "
+            ],
+            [
+              ".\\hello_world.exe",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " executable."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 18,
+        "inline_content": [
+          {
+            "Text": "On Windows this will create "
+          },
+          {
+            "Text": ".\\hello_world.exe",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " executable."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155921174,
+        "id": "40de31f6-d19c-4c3e-bb7e-a567cff4be6c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532216504108,
+        "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "On every other OS, this will create "
+            ],
+            [
+              "./hello_world",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " executable."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "On every other OS, this will create "
+          },
+          {
+            "Text": "./hello_world",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " executable."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532216474041,
+        "id": "fff112ea-d46f-4f47-a5d4-ef37854a701e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532216474041,
+        "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Hello, World!",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

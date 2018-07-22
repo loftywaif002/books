@@ -1,0 +1,771 @@
+{
+  "ID": "ec31d4b2-6006-412f-a728-7d6b34731589",
+  "Page": {
+    "alive": true,
+    "content": [
+      "7285ed1c-8389-43f9-b27e-9d6694507947",
+      "110b3075-4d97-4937-a753-50ac5abece4a",
+      "8544c0b2-b07a-4147-b715-2ce5ee540828",
+      "1ea540bb-21f3-47ce-91ac-c1988a39fee8",
+      "e7307a9d-5230-44a5-a9c8-ba4ecf2426d2",
+      "7c2ca2d1-e917-4001-80c0-1923a901726c",
+      "533b1ba8-4a93-41fb-9e56-8c796a2d1631",
+      "c87f945d-5904-455a-b61d-8be45eae98bb",
+      "ef52ba68-ea94-4b5f-92af-19ad7969b5ae",
+      "00838bc6-46bc-4f9c-bb4f-fb534d4575d0",
+      "eea57e50-6c8e-46c1-bd98-ef74715e653e",
+      "c0793f02-363b-4a4d-aed0-d17adb97d43a",
+      "cf939c79-1ac7-40df-b405-2d5f1411f93f",
+      "a880b7d3-b143-4e51-a29d-a5514e98fedb",
+      "7a050fff-add0-4778-8b45-315756c4a195",
+      "a66d10df-e3b7-46f1-8d99-c2d15f38b0fc",
+      "f717d873-ee7d-4691-a5ed-b4ef8e77f2dc",
+      "699eaa5d-f911-4ff8-837f-ce3770a1ac9f",
+      "1b73cd61-c50c-4917-8e41-d49c8fe52954"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156055187,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236192160,
+    "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Defer gotchas"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205344956,
+        "id": "7285ed1c-8389-43f9-b27e-9d6694507947",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236192809,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Search: Defer pitfalls"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Search: Defer pitfalls"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205348889,
+        "id": "110b3075-4d97-4937-a753-50ac5abece4a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236193506,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 130"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 130"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205350440,
+        "id": "8544c0b2-b07a-4147-b715-2ce5ee540828",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236194519,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: rd6000ub"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: rd6000ub"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205352240,
+        "id": "1ea540bb-21f3-47ce-91ac-c1988a39fee8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205352767,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055183,
+        "id": "e7307a9d-5230-44a5-a9c8-ba4ecf2426d2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156055183,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When using "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " keep the following in mind."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When using "
+          },
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " keep the following in mind."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055183,
+        "id": "7c2ca2d1-e917-4001-80c0-1923a901726c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156055183,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Deferred functions are called at function end"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Deferred functions are called at function end"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055183,
+        "id": "533b1ba8-4a93-41fb-9e56-8c796a2d1631",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156055183,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Deferred statements have a function scope, not a block scope."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Deferred statements have a function scope, not a block scope."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055183,
+        "id": "c87f945d-5904-455a-b61d-8be45eae98bb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156055183,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In other words: deferred calls are executed when exiting a function not when executing block created with "
+            ],
+            [
+              "if",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "for",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statements."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In other words: deferred calls are executed when exiting a function not when executing block created with "
+          },
+          {
+            "Text": "if",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "for",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statements."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055184,
+        "id": "ef52ba68-ea94-4b5f-92af-19ad7969b5ae",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156055184,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file defer_gotcha.go output sha1:56723587ae20f269117036508b8fd5905b3b58e9 goplayground:6ivihpJbkZb"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file defer_gotcha.go output sha1:56723587ae20f269117036508b8fd5905b3b58e9 goplayground:6ivihpJbkZb"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055184,
+        "id": "00838bc6-46bc-4f9c-bb4f-fb534d4575d0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156055184,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You might expect that deferred statement to be executed when we exit "
+            ],
+            [
+              "if",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " branch but it’s executed as the last thing in a function."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You might expect that deferred statement to be executed when we exit "
+          },
+          {
+            "Text": "if",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " branch but it’s executed as the last thing in a function."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055184,
+        "id": "eea57e50-6c8e-46c1-bd98-ef74715e653e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156055184,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Deferred function arguments"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Deferred function arguments"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055184,
+        "id": "c0793f02-363b-4a4d-aed0-d17adb97d43a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156055184,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file defer_gotcha2.go output sha1:fb7c1105477451d2e56e43c432c0779fe6635108 goplayground:YnB5lleWxNa"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file defer_gotcha2.go output sha1:fb7c1105477451d2e56e43c432c0779fe6635108 goplayground:YnB5lleWxNa"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055185,
+        "id": "cf939c79-1ac7-40df-b405-2d5f1411f93f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156055185,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You might have expected that this code will print "
+            ],
+            [
+              "0",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "1",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", because those are the values of "
+            ],
+            [
+              "i",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " when we evaluate "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You might have expected that this code will print "
+          },
+          {
+            "Text": "0",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "1",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", because those are the values of "
+          },
+          {
+            "Text": "i",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " when we evaluate "
+          },
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055185,
+        "id": "a880b7d3-b143-4e51-a29d-a5514e98fedb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156055185,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is how the code looks like after compiler rewrites the loop to implement "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is how the code looks like after compiler rewrites the loop to implement "
+          },
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055185,
+        "id": "7a050fff-add0-4778-8b45-315756c4a195",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205341790,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var i int\nfor i = 0; i \u003c 2; i++ {\n}\n\nfmt.Printf(\"%d\\n\", i)\nfmt.Printf(\"%d\\n\", i)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var i int\nfor i = 0; i \u003c 2; i++ {\n}\n\nfmt.Printf(\"%d\\n\", i)\nfmt.Printf(\"%d\\n\", i)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055185,
+        "id": "a66d10df-e3b7-46f1-8d99-c2d15f38b0fc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156055185,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Now it’s clear that when we call deferred "
+            ],
+            [
+              "fmt.Printf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "i",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is "
+            ],
+            [
+              "2",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Now it’s clear that when we call deferred "
+          },
+          {
+            "Text": "fmt.Printf",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "i",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is "
+          },
+          {
+            "Text": "2",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055186,
+        "id": "f717d873-ee7d-4691-a5ed-b4ef8e77f2dc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156055186,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can fix this by using a "
+            ],
+            [
+              "closure",
+              [
+                [
+                  "a",
+                  "118"
+                ]
+              ]
+            ],
+            [
+              " to capture the variable:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can fix this by using a "
+          },
+          {
+            "Text": "closure",
+            "Link": "118"
+          },
+          {
+            "Text": " to capture the variable:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055186,
+        "id": "699eaa5d-f911-4ff8-837f-ce3770a1ac9f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156055186,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file defer_gotcha3.go output sha1:debd2f22d4a3be8fbf97c4d3dbf049cbae4a1cfb goplayground:zTCIuDzpXS9"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file defer_gotcha3.go output sha1:debd2f22d4a3be8fbf97c4d3dbf049cbae4a1cfb goplayground:zTCIuDzpXS9"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055186,
+        "id": "1b73cd61-c50c-4917-8e41-d49c8fe52954",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156055186,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A closure is more expensive as it requires allocating an object to collect all the variables captured by the closure. In this case that’s the price of correctness."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A closure is more expensive as it requires allocating an object to collect all the variables captured by the closure. In this case that’s the price of correctness."
+          }
+        ]
+      }
+    ],
+    "title": "Defer gotchas",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

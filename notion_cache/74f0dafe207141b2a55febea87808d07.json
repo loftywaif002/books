@@ -1,0 +1,619 @@
+{
+  "ID": "74f0dafe-2071-41b2-a55f-ebea87808d07",
+  "Page": {
+    "alive": true,
+    "content": [
+      "3d0c689b-9403-40bc-a2cd-8cb577b5d687",
+      "315fcb3f-44b3-4cc5-802b-a17e9d4cf97a",
+      "0129d9eb-0772-44ba-adb1-6812cd1f447e",
+      "a20e2930-fefa-4fe3-8cef-e506f1847e11",
+      "a92a5b4d-e690-445d-bc0d-7f8ff7e9d7a3",
+      "e9ef50ff-ac7f-46df-be9b-2e90c2058b26",
+      "fc9ff93f-b0ab-414f-b9fd-a0a88f79fdbd",
+      "cf0e14ec-e088-404a-9950-bb7d336bfa4e",
+      "38042521-4ce0-4fbf-8999-18f77c249ba5",
+      "72bc999c-68be-4100-9fe1-52f83eafa2bc",
+      "7ca3177b-f460-4b74-ab7d-626f89f248c7",
+      "8a4d9c42-8606-492b-9fc2-ca25b07ad5e2",
+      "3164d132-1102-4ce9-9745-cdc998a252c1"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156202199,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "74f0dafe-2071-41b2-a55f-ebea87808d07",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532212362838,
+    "parent_id": "d3b04193-4690-4e0b-bf6d-c28b69fc93c6",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Calling C Function From Go"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212336789,
+        "id": "3d0c689b-9403-40bc-a2cd-8cb577b5d687",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212340446,
+        "parent_id": "74f0dafe-2071-41b2-a55f-ebea87808d07",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 256"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 256"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212340446,
+        "id": "315fcb3f-44b3-4cc5-802b-a17e9d4cf97a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212342959,
+        "parent_id": "74f0dafe-2071-41b2-a55f-ebea87808d07",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 3"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 3"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212342959,
+        "id": "0129d9eb-0772-44ba-adb1-6812cd1f447e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212345047,
+        "parent_id": "74f0dafe-2071-41b2-a55f-ebea87808d07",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 22191"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 22191"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212346382,
+        "id": "a20e2930-fefa-4fe3-8cef-e506f1847e11",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212346382,
+        "parent_id": "74f0dafe-2071-41b2-a55f-ebea87808d07",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212345047,
+        "id": "a92a5b4d-e690-445d-bc0d-7f8ff7e9d7a3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212346183,
+        "parent_id": "74f0dafe-2071-41b2-a55f-ebea87808d07",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Cgo enables the creation of Go packages that call C code. To use "
+            ],
+            [
+              "cgo",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " write normal Go code that imports a pseudo-package “C”. The Go code can then refer to types such as "
+            ],
+            [
+              "C.int",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", or functions such as "
+            ],
+            [
+              "C.Add",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". The import of “C” is immediately preceded by a comment, that comment, called the preamble, is used as a header when compiling the C parts of the package. Note that there must be no blank lines in between the "
+            ],
+            [
+              "cgo",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " comment and the import statement. Note that "
+            ],
+            [
+              "import \"C\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " can not grouped with other imports into a parenthesized, “factored” import statement. You must write multiple import statements, like:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Cgo enables the creation of Go packages that call C code. To use "
+          },
+          {
+            "Text": "cgo",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " write normal Go code that imports a pseudo-package “C”. The Go code can then refer to types such as "
+          },
+          {
+            "Text": "C.int",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", or functions such as "
+          },
+          {
+            "Text": "C.Add",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". The import of “C” is immediately preceded by a comment, that comment, called the preamble, is used as a header when compiling the C parts of the package. Note that there must be no blank lines in between the "
+          },
+          {
+            "Text": "cgo",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " comment and the import statement. Note that "
+          },
+          {
+            "Text": "import \"C\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " can not grouped with other imports into a parenthesized, “factored” import statement. You must write multiple import statements, like:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156202195,
+        "id": "e9ef50ff-ac7f-46df-be9b-2e90c2058b26",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212349808,
+        "parent_id": "74f0dafe-2071-41b2-a55f-ebea87808d07",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "import \"C\"\nimport \"fmt\""
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "import \"C\"\nimport \"fmt\"",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156202196,
+        "id": "fc9ff93f-b0ab-414f-b9fd-a0a88f79fdbd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156202196,
+        "parent_id": "74f0dafe-2071-41b2-a55f-ebea87808d07",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "And it is good style to use the factored import statement, for other imports, like:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "And it is good style to use the factored import statement, for other imports, like:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156202196,
+        "id": "cf0e14ec-e088-404a-9950-bb7d336bfa4e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212352511,
+        "parent_id": "74f0dafe-2071-41b2-a55f-ebea87808d07",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "import \"C\"\nimport (\n    \"fmt\"\n    \"math\"\n)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "import \"C\"\nimport (\n    \"fmt\"\n    \"math\"\n)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156202196,
+        "id": "38042521-4ce0-4fbf-8999-18f77c249ba5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156202196,
+        "parent_id": "74f0dafe-2071-41b2-a55f-ebea87808d07",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Simple example using "
+            ],
+            [
+              "cgo",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Simple example using "
+          },
+          {
+            "Text": "cgo",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156202196,
+        "id": "72bc999c-68be-4100-9fe1-52f83eafa2bc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212355749,
+        "parent_id": "74f0dafe-2071-41b2-a55f-ebea87808d07",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\n//int Add(int a, int b){\n//    return a+b;\n//}\nimport \"C\"\nimport \"fmt\"\n\nfunc main() {\n    a := C.int(10)\n    b := C.int(20)\n    c := C.Add(a, b)\n    fmt.Println(c) // 30\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\n//int Add(int a, int b){\n//    return a+b;\n//}\nimport \"C\"\nimport \"fmt\"\n\nfunc main() {\n    a := C.int(10)\n    b := C.int(20)\n    c := C.Add(a, b)\n    fmt.Println(c) // 30\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156202197,
+        "id": "7ca3177b-f460-4b74-ab7d-626f89f248c7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156202197,
+        "parent_id": "74f0dafe-2071-41b2-a55f-ebea87808d07",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Then "
+            ],
+            [
+              "go build",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", and run it, output:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Then "
+          },
+          {
+            "Text": "go build",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", and run it, output:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156202197,
+        "id": "8a4d9c42-8606-492b-9fc2-ca25b07ad5e2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156202197,
+        "parent_id": "74f0dafe-2071-41b2-a55f-ebea87808d07",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "30"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "30",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156202199,
+        "id": "3164d132-1102-4ce9-9745-cdc998a252c1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156202199,
+        "parent_id": "74f0dafe-2071-41b2-a55f-ebea87808d07",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To build "
+            ],
+            [
+              "cgo",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " packages, just use "
+            ],
+            [
+              "go build",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "go install",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " as usual. The "
+            ],
+            [
+              "go tool",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " recognizes the special "
+            ],
+            [
+              "\"C\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " import and automatically uses "
+            ],
+            [
+              "cgo",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " for those files."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To build "
+          },
+          {
+            "Text": "cgo",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " packages, just use "
+          },
+          {
+            "Text": "go build",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "go install",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " as usual. The "
+          },
+          {
+            "Text": "go tool",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " recognizes the special "
+          },
+          {
+            "Text": "\"C\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " import and automatically uses "
+          },
+          {
+            "Text": "cgo",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " for those files."
+          }
+        ]
+      }
+    ],
+    "title": "Calling C Function From Go",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

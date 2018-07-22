@@ -1,0 +1,775 @@
+{
+  "ID": "277e3470-a212-4ea9-817a-2d4923f947fa",
+  "Page": {
+    "alive": true,
+    "content": [
+      "9886d5da-b510-48c4-b1a1-136f5068d502",
+      "fa4bf347-d17b-44e7-b161-ef7dadd66699",
+      "741ad799-7c49-4ed0-8816-080ff1030e78",
+      "47dcd153-2a00-436d-b11d-e3f842aadb53",
+      "8a02545e-1f3b-4911-b430-9608d68cc609",
+      "3cd08a09-2bfe-4743-bb5f-aa2fd6958630",
+      "91ef47d8-ee09-4977-b619-8832b007041d",
+      "6c632a00-e269-41fc-a99c-75a3f1569ed4",
+      "dfb361c4-4cbf-49b7-a4ba-3a7fcc29266d",
+      "9bc39b6b-a717-4c4c-a59a-9636eb95acae",
+      "20d43dd9-be29-4b96-a453-b91f59ce178a",
+      "d13079fc-a0d9-4e3b-a514-e4490bcc470a",
+      "e574da1b-ecb9-48b2-b223-7f68fc550735",
+      "22421fb1-9764-4a96-990a-c5b10747cc07",
+      "3d7c5e4d-3017-4169-be13-520750b80052",
+      "6523e0c0-f2c5-45c1-9620-cfa9ae8e6ce5",
+      "193c5966-b013-43b9-b3da-172ac40b417d",
+      "fe950fe1-2fb2-4ce9-9488-5f2ea05d3d1e",
+      "e8a11f18-6f8e-473b-ae67-9b8047c65b89",
+      "32ce18fe-2cdd-4ba0-9fce-c0867a7d2dae"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156143233,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532208931969,
+    "parent_id": "96e61372-84ae-4460-a282-7f456b4cf62c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Create a HTTPS Server"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208917880,
+        "id": "9886d5da-b510-48c4-b1a1-136f5068d502",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208919952,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 208"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 208"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208919952,
+        "id": "fa4bf347-d17b-44e7-b161-ef7dadd66699",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208921768,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 7"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 7"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208921768,
+        "id": "741ad799-7c49-4ed0-8816-080ff1030e78",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208925561,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3248"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3248"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143227,
+        "id": "47dcd153-2a00-436d-b11d-e3f842aadb53",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156143227,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Generate a certificate"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Generate a certificate"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143227,
+        "id": "8a02545e-1f3b-4911-b430-9608d68cc609",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156143227,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In order to run a HTTPS server, a certificate is necessary. Generating a self-signed certificate with "
+            ],
+            [
+              "openssl",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is done by executing this command:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In order to run a HTTPS server, a certificate is necessary. Generating a self-signed certificate with "
+          },
+          {
+            "Text": "openssl",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is done by executing this command:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143227,
+        "id": "3cd08a09-2bfe-4743-bb5f-aa2fd6958630",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208936865,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "openssl req -x509 -newkey rsa:4096 -sha256 -nodes -keyout key.pem -out cert.pem -subj \"/CN=example.com\" -days 3650`"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "openssl req -x509 -newkey rsa:4096 -sha256 -nodes -keyout key.pem -out cert.pem -subj \"/CN=example.com\" -days 3650`",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143228,
+        "id": "91ef47d8-ee09-4977-b619-8832b007041d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156143228,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The parameters are:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The parameters are:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143229,
+        "id": "6c632a00-e269-41fc-a99c-75a3f1569ed4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156143229,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "req",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " Use the certificate request tool"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "req",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " Use the certificate request tool"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143229,
+        "id": "dfb361c4-4cbf-49b7-a4ba-3a7fcc29266d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156143229,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "x509",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " Creates a self-signed certificate"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "x509",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " Creates a self-signed certificate"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143230,
+        "id": "9bc39b6b-a717-4c4c-a59a-9636eb95acae",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156143230,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "newkey rsa:4096",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " Creates a new key and certificate by using the RSA algorithms with "
+            ],
+            [
+              "4096",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " bit key length"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "newkey rsa:4096",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " Creates a new key and certificate by using the RSA algorithms with "
+          },
+          {
+            "Text": "4096",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " bit key length"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143230,
+        "id": "20d43dd9-be29-4b96-a453-b91f59ce178a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156143230,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "sha256",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " Forces the SHA256 hashing algorithms which major browsers consider as secure (at the year 2017)"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "sha256",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " Forces the SHA256 hashing algorithms which major browsers consider as secure (at the year 2017)"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143230,
+        "id": "d13079fc-a0d9-4e3b-a514-e4490bcc470a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156143230,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "nodes",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " Disables the password protection for the private key. Without this parameter, your server had to ask you for the password each time its starts."
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "nodes",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " Disables the password protection for the private key. Without this parameter, your server had to ask you for the password each time its starts."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143231,
+        "id": "e574da1b-ecb9-48b2-b223-7f68fc550735",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156143231,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "keyout",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " Names the file where to write the key"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "keyout",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " Names the file where to write the key"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143231,
+        "id": "22421fb1-9764-4a96-990a-c5b10747cc07",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156143231,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "out",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " Names the file where to write the certificate"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "out",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " Names the file where to write the certificate"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143231,
+        "id": "3d7c5e4d-3017-4169-be13-520750b80052",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156143231,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "subj",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " Defines the domain name for which this certificate is valid"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "subj",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " Defines the domain name for which this certificate is valid"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143232,
+        "id": "6523e0c0-f2c5-45c1-9620-cfa9ae8e6ce5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156143232,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "days",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " Fow how many days should this certificate valid? "
+            ],
+            [
+              "3650",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " are approx. 10 years."
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "days",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " Fow how many days should this certificate valid? "
+          },
+          {
+            "Text": "3650",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " are approx. 10 years."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143232,
+        "id": "193c5966-b013-43b9-b3da-172ac40b417d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156143232,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Note: A self-signed certificate could be used e.g. for internal projects, debugging, testing, etc. Any browser out there will mention, that this certificate is not safe. In order to avoid this, the certificate must signed by a certification authority. Mostly, this is not available for free. One exception is the “Let’s Encrypt” movement: https://letsencrypt.org"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Note: A self-signed certificate could be used e.g. for internal projects, debugging, testing, etc. Any browser out there will mention, that this certificate is not safe. In order to avoid this, the certificate must signed by a certification authority. Mostly, this is not available for free. One exception is the “Let’s Encrypt” movement: https://letsencrypt.org"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143232,
+        "id": "fe950fe1-2fb2-4ce9-9488-5f2ea05d3d1e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156143232,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The necessary Go code"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The necessary Go code"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143232,
+        "id": "e8a11f18-6f8e-473b-ae67-9b8047c65b89",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156143232,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can handle configure TLS for the server with the following code. "
+            ],
+            [
+              "cert.pem",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "key.pem",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " are your SSL certificate and key, which where generated with the above command."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can handle configure TLS for the server with the following code. "
+          },
+          {
+            "Text": "cert.pem",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "key.pem",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " are your SSL certificate and key, which where generated with the above command."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156143232,
+        "id": "32ce18fe-2cdd-4ba0-9fce-c0867a7d2dae",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208940881,
+        "parent_id": "277e3470-a212-4ea9-817a-2d4923f947fa",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"log\"\n    \"net/http\"\n)\n\nfunc main() {\n    http.HandleFunc(\"/\", func(w http.ResponseWriter, r *http.Request) {\n        w.Write([]byte(\"Hello, world!\"))\n    })\n\n    log.Fatal(http.ListenAndServeTLS(\":443\",\"cert.pem\",\"key.pem\", nil))\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"log\"\n    \"net/http\"\n)\n\nfunc main() {\n    http.HandleFunc(\"/\", func(w http.ResponseWriter, r *http.Request) {\n        w.Write([]byte(\"Hello, world!\"))\n    })\n\n    log.Fatal(http.ListenAndServeTLS(\":443\",\"cert.pem\",\"key.pem\", nil))\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Create a HTTPS Server",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

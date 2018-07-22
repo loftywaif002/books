@@ -1,0 +1,401 @@
+{
+  "ID": "c2af7278-9a07-4a3a-acf8-d308f898f32c",
+  "Page": {
+    "alive": true,
+    "content": [
+      "5f79ed46-e6dd-468c-b109-74289df8d77f",
+      "c652ccf9-7822-4495-8797-2ab450e07685",
+      "970d80e3-dddd-4c9b-841d-bfd64e8ecad1",
+      "ebe6a83b-3537-4c04-ba3f-0cf319d8907d",
+      "f705ae53-4f06-4bd3-87a4-674da0a54480",
+      "9b1c85a4-4606-468b-b8e8-d686ca5a0135",
+      "e83e6a38-402f-411f-93a8-97e07c681f58",
+      "cadcf438-ecf7-43f0-b94e-5cb6c2195b14",
+      "96f9d580-9016-4c62-a0cc-8d972fd50d5e",
+      "1242fcd8-58c1-4f86-88ae-362374d99312",
+      "94974b44-e45d-4579-89ea-21abc6437e65"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156281173,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "c2af7278-9a07-4a3a-acf8-d308f898f32c",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532215306430,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Inline Expansion"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 24,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215287374,
+        "id": "5f79ed46-e6dd-468c-b109-74289df8d77f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215289335,
+        "parent_id": "c2af7278-9a07-4a3a-acf8-d308f898f32c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Id: 320"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "Id: 320"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215289335,
+        "id": "c652ccf9-7822-4495-8797-2ab450e07685",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215294103,
+        "parent_id": "c2af7278-9a07-4a3a-acf8-d308f898f32c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "SOId: 2718"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "SOId: 2718"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156281167,
+        "id": "970d80e3-dddd-4c9b-841d-bfd64e8ecad1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156281167,
+        "parent_id": "c2af7278-9a07-4a3a-acf8-d308f898f32c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Remarks"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Remarks"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156281167,
+        "id": "ebe6a83b-3537-4c04-ba3f-0cf319d8907d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215316081,
+        "parent_id": "c2af7278-9a07-4a3a-acf8-d308f898f32c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Inline expansion is a common optimization in compiled code that prioritized performance over binary size. It lets the compiler replace a function call with the actual body of the function; effectively copy/pasting code from one place to another at compile time. Since the call site is expanded to just contain the machine instructions that the compiler generated for the function, we don’t have to perform a CALL or PUSH (the x86 equivalent of a GOTO statement or a stack frame push) or their equivalent on other architectures."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 9,
+        "inline_content": [
+          {
+            "Text": "Inline expansion is a common optimization in compiled code that prioritized performance over binary size. It lets the compiler replace a function call with the actual body of the function; effectively copy/pasting code from one place to another at compile time. Since the call site is expanded to just contain the machine instructions that the compiler generated for the function, we don’t have to perform a CALL or PUSH (the x86 equivalent of a GOTO statement or a stack frame push) or their equivalent on other architectures."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156281168,
+        "id": "f705ae53-4f06-4bd3-87a4-674da0a54480",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156281168,
+        "parent_id": "c2af7278-9a07-4a3a-acf8-d308f898f32c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The inliner makes decisions about whether or not to inline a function based on a number of heuristics, but in general Go inlines by default. Because the inliner gets rid of function calls, it effectively gets to decide where the scheduler is allowed to preempt a goroutine."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The inliner makes decisions about whether or not to inline a function based on a number of heuristics, but in general Go inlines by default. Because the inliner gets rid of function calls, it effectively gets to decide where the scheduler is allowed to preempt a goroutine."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156281169,
+        "id": "9b1c85a4-4606-468b-b8e8-d686ca5a0135",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156281169,
+        "parent_id": "c2af7278-9a07-4a3a-acf8-d308f898f32c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Function calls will not be inlined if any of the following are true (there are many other reasons too, this list is incomplete):"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Function calls will not be inlined if any of the following are true (there are many other reasons too, this list is incomplete):"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156281172,
+        "id": "e83e6a38-402f-411f-93a8-97e07c681f58",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156281172,
+        "parent_id": "c2af7278-9a07-4a3a-acf8-d308f898f32c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Functions are variadic (eg. they have "
+            ],
+            [
+              "...",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " args)"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Functions are variadic (eg. they have "
+          },
+          {
+            "Text": "...",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " args)"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156281172,
+        "id": "cadcf438-ecf7-43f0-b94e-5cb6c2195b14",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156281172,
+        "parent_id": "c2af7278-9a07-4a3a-acf8-d308f898f32c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Functions have a “max hairyness” greater than the budget (they recurse too much or can’t be analyzed for some other reason)"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Functions have a “max hairyness” greater than the budget (they recurse too much or can’t be analyzed for some other reason)"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156281173,
+        "id": "96f9d580-9016-4c62-a0cc-8d972fd50d5e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156281173,
+        "parent_id": "c2af7278-9a07-4a3a-acf8-d308f898f32c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "They contain "
+            ],
+            [
+              "panic",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "recover",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", or "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "They contain "
+          },
+          {
+            "Text": "panic",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "recover",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", or "
+          },
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215296448,
+        "id": "1242fcd8-58c1-4f86-88ae-362374d99312",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215297502,
+        "parent_id": "c2af7278-9a07-4a3a-acf8-d308f898f32c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156283578,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "94974b44-e45d-4579-89ea-21abc6437e65",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215340671,
+        "parent_id": "c2af7278-9a07-4a3a-acf8-d308f898f32c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Disabling inline expansion"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Disabling inline expansion",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Inline Expansion",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

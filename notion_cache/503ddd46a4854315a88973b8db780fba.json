@@ -1,0 +1,665 @@
+{
+  "ID": "503ddd46-a485-4315-a889-73b8db780fba",
+  "Page": {
+    "alive": true,
+    "content": [
+      "269fd95d-c76d-49e9-97a0-8425e4f56e17",
+      "2063b54c-e8b0-477a-8030-561b8f123477",
+      "25710f1c-bce7-4012-8d88-a69d987ff959",
+      "0a8ab0b8-5921-4aa4-ad53-c846288c9411",
+      "59d915ee-67dc-4880-bbd8-73039b10d63a",
+      "e683f41b-41d5-49a5-9ef4-04b7f6d1e384",
+      "500c99d4-f574-4467-92d5-d6cdb1252791",
+      "9873e932-3c75-43c5-89d1-dc1909c4e331",
+      "f3b58b56-3467-443d-b0b2-abe2359a7fc3",
+      "72ab24ae-335c-4517-b131-28f10c5ee5dd",
+      "55e96e3f-3bd7-4e75-9793-75126bc62602",
+      "256d02ba-6eaa-4ec5-8897-5fce21401afc",
+      "abeced82-8b36-4624-b9cb-44d242faeefd",
+      "f9ce97de-0fe6-4049-8fcf-e53587c35875",
+      "425ec578-5ad2-4afb-812f-15eea39cab53"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156043186,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "503ddd46-a485-4315-a889-73b8db780fba",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236047972,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Methods"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 18,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204947812,
+        "id": "269fd95d-c76d-49e9-97a0-8425e4f56e17",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236049874,
+        "parent_id": "503ddd46-a485-4315-a889-73b8db780fba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 119"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 119"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204949188,
+        "id": "2063b54c-e8b0-477a-8030-561b8f123477",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236050534,
+        "parent_id": "503ddd46-a485-4315-a889-73b8db780fba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3890"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3890"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532204950709,
+        "id": "25710f1c-bce7-4012-8d88-a69d987ff959",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532204951942,
+        "parent_id": "503ddd46-a485-4315-a889-73b8db780fba",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156043184,
+        "id": "0a8ab0b8-5921-4aa4-ad53-c846288c9411",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156043184,
+        "parent_id": "503ddd46-a485-4315-a889-73b8db780fba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A method is a function tied to a type, most commonly a struct."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A method is a function tied to a type, most commonly a struct."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156043184,
+        "id": "59d915ee-67dc-4880-bbd8-73039b10d63a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156043184,
+        "parent_id": "503ddd46-a485-4315-a889-73b8db780fba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is similar to classes in languages like Java or C++."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is similar to classes in languages like Java or C++."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156043184,
+        "id": "e683f41b-41d5-49a5-9ef4-04b7f6d1e384",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156043184,
+        "parent_id": "503ddd46-a485-4315-a889-73b8db780fba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Basics of methods:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Basics of methods:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156043184,
+        "id": "500c99d4-f574-4467-92d5-d6cdb1252791",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156043184,
+        "parent_id": "503ddd46-a485-4315-a889-73b8db780fba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index.go output sha1:1016a0f355a0ac8b453d890bca63087c3783311f goplayground:c9MI-O2pvLt"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index.go output sha1:1016a0f355a0ac8b453d890bca63087c3783311f goplayground:c9MI-O2pvLt"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156043184,
+        "id": "9873e932-3c75-43c5-89d1-dc1909c4e331",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156043184,
+        "parent_id": "503ddd46-a485-4315-a889-73b8db780fba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In the above example method "
+            ],
+            [
+              "PrintFullName",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " takes a reciver named "
+            ],
+            [
+              "p",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " of type "
+            ],
+            [
+              "*Person",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In the above example method "
+          },
+          {
+            "Text": "PrintFullName",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " takes a reciver named "
+          },
+          {
+            "Text": "p",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " of type "
+          },
+          {
+            "Text": "*Person",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156043184,
+        "id": "f3b58b56-3467-443d-b0b2-abe2359a7fc3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156043184,
+        "parent_id": "503ddd46-a485-4315-a889-73b8db780fba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "People coming from other languages are tempted to name the receiver "
+            ],
+            [
+              "this",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " (mimicking C++) or "
+            ],
+            [
+              "self",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " (mimicking Python)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "People coming from other languages are tempted to name the receiver "
+          },
+          {
+            "Text": "this",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " (mimicking C++) or "
+          },
+          {
+            "Text": "self",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " (mimicking Python)."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156043185,
+        "id": "72ab24ae-335c-4517-b131-28f10c5ee5dd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156043185,
+        "parent_id": "503ddd46-a485-4315-a889-73b8db780fba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go, the rule for naming reciver is: * be short * be consistent across methods"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In Go, the rule for naming reciver is: * be short * be consistent across methods"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156043185,
+        "id": "55e96e3f-3bd7-4e75-9793-75126bc62602",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156043185,
+        "parent_id": "503ddd46-a485-4315-a889-73b8db780fba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Value vs. pointer receiver"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Value vs. pointer receiver"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156043185,
+        "id": "256d02ba-6eaa-4ec5-8897-5fce21401afc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156043185,
+        "parent_id": "503ddd46-a485-4315-a889-73b8db780fba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Method receiver can be either a value and a pointer."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Method receiver can be either a value and a pointer."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156043185,
+        "id": "abeced82-8b36-4624-b9cb-44d242faeefd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156043185,
+        "parent_id": "503ddd46-a485-4315-a889-73b8db780fba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index2.go output sha1:18e4acb218010b37cc87e48b475ede8d9df4b6b7 goplayground:2KGrg2M4pj2"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index2.go output sha1:18e4acb218010b37cc87e48b475ede8d9df4b6b7 goplayground:2KGrg2M4pj2"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156043185,
+        "id": "f9ce97de-0fe6-4049-8fcf-e53587c35875",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156043185,
+        "parent_id": "503ddd46-a485-4315-a889-73b8db780fba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "As you can see, when "
+            ],
+            [
+              "p",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is of type "
+            ],
+            [
+              "Person",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", we can call both methods defined for "
+            ],
+            [
+              "Person",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "*Person",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". Go will automatically convert receiver "
+            ],
+            [
+              "Person",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to "
+            ],
+            [
+              "*Person",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "As you can see, when "
+          },
+          {
+            "Text": "p",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is of type "
+          },
+          {
+            "Text": "Person",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", we can call both methods defined for "
+          },
+          {
+            "Text": "Person",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "*Person",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". Go will automatically convert receiver "
+          },
+          {
+            "Text": "Person",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to "
+          },
+          {
+            "Text": "*Person",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156043185,
+        "id": "425ec578-5ad2-4afb-812f-15eea39cab53",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156043185,
+        "parent_id": "503ddd46-a485-4315-a889-73b8db780fba",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It doesn’t work the other way i.e. you can’t call method with receiver "
+            ],
+            [
+              "Person",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " on value with type "
+            ],
+            [
+              "*Person",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It doesn’t work the other way i.e. you can’t call method with receiver "
+          },
+          {
+            "Text": "Person",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " on value with type "
+          },
+          {
+            "Text": "*Person",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      }
+    ],
+    "title": "Methods",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

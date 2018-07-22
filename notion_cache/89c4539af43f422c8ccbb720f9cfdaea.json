@@ -1,0 +1,271 @@
+{
+  "ID": "89c4539a-f43f-422c-8ccb-b720f9cfdaea",
+  "Page": {
+    "alive": true,
+    "content": [
+      "5850d029-c8a4-44a0-a3b1-e23eabff55dd",
+      "7da61dfe-2dd8-4d62-9f64-1639e3a1727c",
+      "df73b8a8-c13a-4f14-a668-312cba98a6d1",
+      "1e41dda7-9198-43a4-8650-60dc75b9c510",
+      "d17a6793-d82b-4453-aa07-9219c8cd56f5",
+      "e6e5ab28-c856-41bc-b48c-6b87a96a8d26",
+      "02a983ea-3d05-4c98-8c8a-5fc8e1639f78",
+      "56244062-8394-4a0e-820a-31d85ee6ec4c"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156001207,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "89c4539a-f43f-422c-8ccb-b720f9cfdaea",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235257284,
+    "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Maps with slices as values"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 27,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196704566,
+        "id": "5850d029-c8a4-44a0-a3b1-e23eabff55dd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235258071,
+        "parent_id": "89c4539a-f43f-422c-8ccb-b720f9cfdaea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 78"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 78"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196707314,
+        "id": "7da61dfe-2dd8-4d62-9f64-1639e3a1727c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235258762,
+        "parent_id": "89c4539a-f43f-422c-8ccb-b720f9cfdaea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3910"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3910"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196723941,
+        "id": "df73b8a8-c13a-4f14-a668-312cba98a6d1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196723941,
+        "parent_id": "89c4539a-f43f-422c-8ccb-b720f9cfdaea",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196711991,
+        "id": "1e41dda7-9198-43a4-8650-60dc75b9c510",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196722361,
+        "parent_id": "89c4539a-f43f-422c-8ccb-b720f9cfdaea",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "m := make(map[string][]int)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 18,
+        "code": "m := make(map[string][]int)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196709708,
+        "id": "d17a6793-d82b-4453-aa07-9219c8cd56f5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196725300,
+        "parent_id": "89c4539a-f43f-422c-8ccb-b720f9cfdaea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Accessing a non-existent key will return a nil slice as a value. Since nil slices act like zero length slices when used with "
+            ],
+            [
+              "append",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or other built-in functions you do not normally need to check to see if a key exists:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "Accessing a non-existent key will return a nil slice as a value. Since nil slices act like zero length slices when used with "
+          },
+          {
+            "Text": "append",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or other built-in functions you do not normally need to check to see if a key exists:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156001206,
+        "id": "e6e5ab28-c856-41bc-b48c-6b87a96a8d26",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196728280,
+        "parent_id": "89c4539a-f43f-422c-8ccb-b720f9cfdaea",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// m[\"key1\"] == nil \u0026\u0026 len(m[\"key1\"]) == 0\nm[\"key1\"] = append(m[\"key1\"], 1)\n// len(m[\"key1\"]) == 1"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// m[\"key1\"] == nil \u0026\u0026 len(m[\"key1\"]) == 0\nm[\"key1\"] = append(m[\"key1\"], 1)\n// len(m[\"key1\"]) == 1",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156001206,
+        "id": "02a983ea-3d05-4c98-8c8a-5fc8e1639f78",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156001206,
+        "parent_id": "89c4539a-f43f-422c-8ccb-b720f9cfdaea",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Deleting a key from a map sets the key back to a nil slice:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Deleting a key from a map sets the key back to a nil slice:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156001206,
+        "id": "56244062-8394-4a0e-820a-31d85ee6ec4c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196729988,
+        "parent_id": "89c4539a-f43f-422c-8ccb-b720f9cfdaea",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "delete(m, \"key1\")\n// m[\"key1\"] == nil"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "delete(m, \"key1\")\n// m[\"key1\"] == nil",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Maps with slices as values",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

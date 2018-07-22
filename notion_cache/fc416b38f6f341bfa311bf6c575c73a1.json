@@ -1,0 +1,358 @@
+{
+  "ID": "fc416b38-f6f3-41bf-a311-bf6c575c73a1",
+  "Page": {
+    "alive": true,
+    "content": [
+      "a5c61861-9b82-456a-bccc-2d6d86bd5912",
+      "48cc6d9f-7f27-481f-9ab7-69b4470c5942",
+      "202b04f9-bb74-41f1-9786-c121a5119bda",
+      "76c99807-1f58-4a51-944b-ea28240fe9f5",
+      "4ff60b1c-0d63-4ba3-ab52-9d130a907947",
+      "f98ce844-9359-4aaa-aa89-46c3d28c2a00",
+      "9f153202-4848-4a19-8d3f-9bc5ecc49f74",
+      "54d625f9-be2c-4672-98fd-51caacf6c002",
+      "c49f89c6-e1a8-4379-b15a-8f695dfa33de"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156127173,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "fc416b38-f6f3-41bf-a311-bf6c575c73a1",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532208296670,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "SQL"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 24,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208285855,
+        "id": "a5c61861-9b82-456a-bccc-2d6d86bd5912",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208298018,
+        "parent_id": "fc416b38-f6f3-41bf-a311-bf6c575c73a1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 194"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 194"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208287783,
+        "id": "48cc6d9f-7f27-481f-9ab7-69b4470c5942",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208298783,
+        "parent_id": "fc416b38-f6f3-41bf-a311-bf6c575c73a1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1273"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1273"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156127172,
+        "id": "202b04f9-bb74-41f1-9786-c121a5119bda",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156127172,
+        "parent_id": "fc416b38-f6f3-41bf-a311-bf6c575c73a1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Remarks"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Remarks"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156127173,
+        "id": "76c99807-1f58-4a51-944b-ea28240fe9f5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156127173,
+        "parent_id": "fc416b38-f6f3-41bf-a311-bf6c575c73a1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For a list of SQL database drivers see the official Go wiki article "
+            ],
+            [
+              "SQLDrivers",
+              [
+                [
+                  "i"
+                ],
+                [
+                  "a",
+                  "https://github.com/golang/go/wiki/SQLDrivers"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For a list of SQL database drivers see the official Go wiki article "
+          },
+          {
+            "Text": "SQLDrivers",
+            "AttrFlags": 4,
+            "Link": "https://github.com/golang/go/wiki/SQLDrivers"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156127173,
+        "id": "4ff60b1c-0d63-4ba3-ab52-9d130a907947",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156127173,
+        "parent_id": "fc416b38-f6f3-41bf-a311-bf6c575c73a1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The SQL drivers are imported and prefixed by "
+            ],
+            [
+              "_",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", so that they are "
+            ],
+            [
+              "only",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " available to driver."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The SQL drivers are imported and prefixed by "
+          },
+          {
+            "Text": "_",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", so that they are "
+          },
+          {
+            "Text": "only",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " available to driver."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208282808,
+        "id": "f98ce844-9359-4aaa-aa89-46c3d28c2a00",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208282808,
+        "parent_id": "fc416b38-f6f3-41bf-a311-bf6c575c73a1",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156128164,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "9f153202-4848-4a19-8d3f-9bc5ecc49f74",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208330557,
+        "parent_id": "fc416b38-f6f3-41bf-a311-bf6c575c73a1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Querying"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Querying",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156129206,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "54d625f9-be2c-4672-98fd-51caacf6c002",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208386522,
+        "parent_id": "fc416b38-f6f3-41bf-a311-bf6c575c73a1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "MySQL"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 29,
+        "title": "MySQL",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156130190,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "c49f89c6-e1a8-4379-b15a-8f695dfa33de",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208484493,
+        "parent_id": "fc416b38-f6f3-41bf-a311-bf6c575c73a1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Opening a database"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Opening a database",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "SQL",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

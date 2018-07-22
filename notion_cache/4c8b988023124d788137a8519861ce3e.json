@@ -1,0 +1,281 @@
+{
+  "ID": "4c8b9880-2312-4d78-8137-a8519861ce3e",
+  "Page": {
+    "alive": true,
+    "content": [
+      "4467c361-29c5-41a9-bce0-a9bb0436c56a",
+      "d875f26c-b1f7-43a1-b8cc-d41ad6da0e87",
+      "a21f18bf-ae96-4d18-8181-8fb00eda6084",
+      "51dd30e4-d891-4c8d-9210-a2789489dfad",
+      "05e7e696-0d79-4741-8582-dfdd2eee9fc9",
+      "032bc23c-6575-4da6-a17e-fe21aa376687"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156105215,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "4c8b9880-2312-4d78-8137-a8519861ce3e",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207323939,
+    "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "os.Exec gotchas"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207309970,
+        "id": "4467c361-29c5-41a9-bce0-a9bb0436c56a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207312341,
+        "parent_id": "4c8b9880-2312-4d78-8137-a8519861ce3e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 178"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$Id: 178"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207312341,
+        "id": "d875f26c-b1f7-43a1-b8cc-d41ad6da0e87",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207315405,
+        "parent_id": "4c8b9880-2312-4d78-8137-a8519861ce3e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 23356"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 23356"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156105214,
+        "id": "a21f18bf-ae96-4d18-8181-8fb00eda6084",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156105214,
+        "parent_id": "4c8b9880-2312-4d78-8137-a8519861ce3e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "exec.Cmd",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " cannot be reused"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "exec.Cmd",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " cannot be reused"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156105215,
+        "id": "51dd30e4-d891-4c8d-9210-a2789489dfad",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156105215,
+        "parent_id": "4c8b9880-2312-4d78-8137-a8519861ce3e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "An "
+            ],
+            [
+              "exec.Cmd",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " cannot be reused after calling its "
+            ],
+            [
+              "Run",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "Output",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "CombinedOutput",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " methods."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "An "
+          },
+          {
+            "Text": "exec.Cmd",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " cannot be reused after calling its "
+          },
+          {
+            "Text": "Run",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "Output",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "CombinedOutput",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " methods."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156105215,
+        "id": "05e7e696-0d79-4741-8582-dfdd2eee9fc9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156105215,
+        "parent_id": "4c8b9880-2312-4d78-8137-a8519861ce3e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file reuse_cmd.go output allow_error noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file reuse_cmd.go output allow_error noplayground"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207323939,
+        "id": "032bc23c-6575-4da6-a17e-fe21aa376687",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207323939,
+        "parent_id": "4c8b9880-2312-4d78-8137-a8519861ce3e",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "os.Exec gotchas",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

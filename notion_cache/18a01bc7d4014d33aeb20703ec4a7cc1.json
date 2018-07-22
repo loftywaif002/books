@@ -1,0 +1,410 @@
+{
+  "ID": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+  "Page": {
+    "alive": true,
+    "content": [
+      "9946bd65-ebdc-4fca-af8c-81cee4f157f6",
+      "2e07facd-3c98-4dc8-aad8-015a8413d59f",
+      "630f394d-04fe-4bfa-9fb4-bc437a1d362e",
+      "47135845-b01c-4726-9310-7ba4288526d4",
+      "b9f9e238-1b27-4e4b-ae99-1d27d812ba35",
+      "76ef8fd6-bbe8-4b38-b944-a69fec9d5cd8",
+      "d1a114e3-1169-48f7-9611-7b09dfef96bd",
+      "cf64c6d9-f1fd-4ed1-86d4-37a5434c01d6",
+      "35f94270-3559-40ee-8254-488e17cb486b",
+      "566b7c8d-bc87-4593-9534-450ad6b28670",
+      "f7044af2-7041-441a-9810-273c42641e4c",
+      "64561920-7e5d-40c1-9705-d29a63fc7190",
+      "e20fddb3-5e37-422f-874b-da161e507d07"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156166221,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532210856325,
+    "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Uses for reflection"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 19,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210844415,
+        "id": "9946bd65-ebdc-4fca-af8c-81cee4f157f6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210846640,
+        "parent_id": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 230"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 230"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210846640,
+        "id": "2e07facd-3c98-4dc8-aad8-015a8413d59f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210849511,
+        "parent_id": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 23400"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 23400"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156166217,
+        "id": "630f394d-04fe-4bfa-9fb4-bc437a1d362e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156166217,
+        "parent_id": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Serialization to JSON, XML, SQL, protobufs etc."
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Serialization to JSON, XML, SQL, protobufs etc."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156166218,
+        "id": "47135845-b01c-4726-9310-7ba4288526d4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156166218,
+        "parent_id": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Reflection makes it possible to implement generic JSON serialization/deserialization."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Reflection makes it possible to implement generic JSON serialization/deserialization."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156166218,
+        "id": "b9f9e238-1b27-4e4b-ae99-1d27d812ba35",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156166218,
+        "parent_id": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For generic JSON serialization we can enumerate fields of arbitrary structures, read their fields and create corresponding JSON string."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For generic JSON serialization we can enumerate fields of arbitrary structures, read their fields and create corresponding JSON string."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156166219,
+        "id": "76ef8fd6-bbe8-4b38-b944-a69fec9d5cd8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156166219,
+        "parent_id": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For generic JSON deserialization, we can enumerate fields of arbitrary structures and set them based on parsed JSON data."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For generic JSON deserialization, we can enumerate fields of arbitrary structures and set them based on parsed JSON data."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156166219,
+        "id": "d1a114e3-1169-48f7-9611-7b09dfef96bd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156166219,
+        "parent_id": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The same applies for other serialization formats like XML, YAML or Protocol Buffers."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The same applies for other serialization formats like XML, YAML or Protocol Buffers."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156166219,
+        "id": "cf64c6d9-f1fd-4ed1-86d4-37a5434c01d6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156166219,
+        "parent_id": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Reflection makes it possible to define a generic API for SQL databases because we can convert arbitrary structures to a format that SQL database understands and put data recieved from SQL database into arbitrary structures."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Reflection makes it possible to define a generic API for SQL databases because we can convert arbitrary structures to a format that SQL database understands and put data recieved from SQL database into arbitrary structures."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156166219,
+        "id": "35f94270-3559-40ee-8254-488e17cb486b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156166219,
+        "parent_id": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Extending templating language with Go functions"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Extending templating language with Go functions"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156166219,
+        "id": "566b7c8d-bc87-4593-9534-450ad6b28670",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156166219,
+        "parent_id": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Thanks to ability to call arbitrary functions at runtime we can define custom function for templates in "
+            ],
+            [
+              "text/template",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". We register Go functions with templating engine."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Thanks to ability to call arbitrary functions at runtime we can define custom function for templates in "
+          },
+          {
+            "Text": "text/template",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". We register Go functions with templating engine."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156166220,
+        "id": "f7044af2-7041-441a-9810-273c42641e4c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156166220,
+        "parent_id": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The engine can then call those functions at runtime, when executing a template."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The engine can then call those functions at runtime, when executing a template."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156166221,
+        "id": "64561920-7e5d-40c1-9705-d29a63fc7190",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156166221,
+        "parent_id": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Writing interpreters tightly integrated with Go"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Writing interpreters tightly integrated with Go"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156166221,
+        "id": "e20fddb3-5e37-422f-874b-da161e507d07",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156166221,
+        "parent_id": "18a01bc7-d401-4d33-aeb2-0703ec4a7cc1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Thanks to reflection’s ability to call arbitrary functions at runtime, a JavaScript interpreter can be easily extended with additional functions written in Go."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Thanks to reflection’s ability to call arbitrary functions at runtime, a JavaScript interpreter can be easily extended with additional functions written in Go."
+          }
+        ]
+      }
+    ],
+    "title": "Uses for reflection",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,548 @@
+{
+  "ID": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+  "Page": {
+    "alive": true,
+    "content": [
+      "adea7e40-0b7c-43d0-b59d-a355cd0c1f4d",
+      "3ab9d5b8-e4ff-438b-9295-90d09f698a6a",
+      "82830c8c-1b2d-4f74-a8e8-69a6a3be6a3b",
+      "12eece7e-d777-4b21-ac66-7f2cd44fbed7",
+      "60118b9e-288c-485d-a6cc-080bd6dd995a",
+      "b2e83ea9-17bd-4169-8502-bcff8eb9a1c5",
+      "6a72eba8-334d-4a8b-9ad5-dbd8e2dcadb3",
+      "514acd71-7376-47aa-9b83-fd1d62f4b79a",
+      "57af78e9-e18a-4393-bc60-db6933ab01ef",
+      "80e4f005-01d7-4eab-bb3c-ef7687c25a78",
+      "7c9548e1-dd84-4c48-83e7-5b8dd354a6ab",
+      "485e04dc-31a1-40ba-99c1-ffdcc8d0ad9d",
+      "e6d3a929-c0a7-40f3-94d1-17fb87463401",
+      "540a249d-a513-4ff9-8afc-4f7347fb027c",
+      "4f93e661-5006-4cec-8891-86b974b91a98",
+      "9a02d4b0-c238-4249-88f2-53efd37f04f6"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156238165,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532213936288,
+    "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Use govendor to add external packages"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213917147,
+        "id": "adea7e40-0b7c-43d0-b59d-a355cd0c1f4d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213926376,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 288"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 288"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213918976,
+        "id": "3ab9d5b8-e4ff-438b-9295-90d09f698a6a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213925345,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 7"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 7"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213920319,
+        "id": "82830c8c-1b2d-4f74-a8e8-69a6a3be6a3b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213924793,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3183"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3183"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213922951,
+        "id": "12eece7e-d777-4b21-ac66-7f2cd44fbed7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213922951,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532213921734,
+        "id": "60118b9e-288c-485d-a6cc-080bd6dd995a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213922713,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Govendor",
+              [
+                [
+                  "a",
+                  "https://github.com/kardianos/govendor"
+                ]
+              ]
+            ],
+            [
+              " is a tool that is used to import 3rd party packages into your code repository in a way that is compatible with golang’s vendoring."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Govendor",
+            "Link": "https://github.com/kardianos/govendor"
+          },
+          {
+            "Text": " is a tool that is used to import 3rd party packages into your code repository in a way that is compatible with golang’s vendoring."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156238162,
+        "id": "b2e83ea9-17bd-4169-8502-bcff8eb9a1c5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156238162,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Say for example that you are using a 3rd party package "
+            ],
+            [
+              "bosun.org/slog",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Say for example that you are using a 3rd party package "
+          },
+          {
+            "Text": "bosun.org/slog",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156238162,
+        "id": "6a72eba8-334d-4a8b-9ad5-dbd8e2dcadb3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213903738,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport \"bosun.org/slog\"\n\nfunc main() {\n    slog.Infof(\"Hello World\")\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport \"bosun.org/slog\"\n\nfunc main() {\n    slog.Infof(\"Hello World\")\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156238163,
+        "id": "514acd71-7376-47aa-9b83-fd1d62f4b79a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156238163,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Your directory structure might look like:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Your directory structure might look like:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156238163,
+        "id": "57af78e9-e18a-4393-bc60-db6933ab01ef",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156238163,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "$GOPATH/src/\n├── github.com/me/helloworld/\n|   ├── hello.go\n├── bosun.org/slog/\n|   ├── ... (slog files)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "$GOPATH/src/\n├── github.com/me/helloworld/\n|   ├── hello.go\n├── bosun.org/slog/\n|   ├── ... (slog files)",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156238163,
+        "id": "80e4f005-01d7-4eab-bb3c-ef7687c25a78",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156238163,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "However someone who clones "
+            ],
+            [
+              "github.com/me/helloworld",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " may not have a "
+            ],
+            [
+              "$GOPATH/src/bosun.org/slog/",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " folder, causing "
+            ],
+            [
+              "their",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " build to fail due to missing packages."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "However someone who clones "
+          },
+          {
+            "Text": "github.com/me/helloworld",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " may not have a "
+          },
+          {
+            "Text": "$GOPATH/src/bosun.org/slog/",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " folder, causing "
+          },
+          {
+            "Text": "their",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " build to fail due to missing packages."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156238164,
+        "id": "7c9548e1-dd84-4c48-83e7-5b8dd354a6ab",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156238164,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Running the following command at your command prompt will grab all the external packages from your Go package and package the required bits into a vendor folder:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Running the following command at your command prompt will grab all the external packages from your Go package and package the required bits into a vendor folder:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156238164,
+        "id": "485e04dc-31a1-40ba-99c1-ffdcc8d0ad9d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532213911866,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ govendor add +e"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 11,
+        "code": "$ govendor add +e",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156238164,
+        "id": "e6d3a929-c0a7-40f3-94d1-17fb87463401",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156238164,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This instructs govendor to add all of the external packages into your current repository."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This instructs govendor to add all of the external packages into your current repository."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156238164,
+        "id": "540a249d-a513-4ff9-8afc-4f7347fb027c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156238164,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Your application’s directory structure would now look like:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Your application’s directory structure would now look like:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156238165,
+        "id": "4f93e661-5006-4cec-8891-86b974b91a98",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156238165,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "$GOPATH/src/\n├── github.com/me/helloworld/\n|   ├── vendor/\n|   |   ├── bosun.org/slog/\n|   |   |   ├── ... (slog files)\n|   ├── hello.go"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "$GOPATH/src/\n├── github.com/me/helloworld/\n|   ├── vendor/\n|   |   ├── bosun.org/slog/\n|   |   |   ├── ... (slog files)\n|   ├── hello.go",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156238165,
+        "id": "9a02d4b0-c238-4249-88f2-53efd37f04f6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156238165,
+        "parent_id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "and those who clone your repository will also grab the required 3rd party packages."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "and those who clone your repository will also grab the required 3rd party packages."
+          }
+        ]
+      }
+    ],
+    "title": "Use govendor to add external packages",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

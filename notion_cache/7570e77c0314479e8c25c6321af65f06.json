@@ -1,0 +1,455 @@
+{
+  "ID": "7570e77c-0314-479e-8c25-c6321af65f06",
+  "Page": {
+    "alive": true,
+    "content": [
+      "a4965c97-4620-49f2-9fc8-5b654f3473b6",
+      "1aed9121-d7fa-46a4-a4a7-72f821e264c9",
+      "ee2d48df-ecdf-41e8-a3b2-ac7b0167d364",
+      "0960d2f3-0375-41d6-bda1-f48ad44b88b2",
+      "640a182e-03a4-438a-91f6-5c402371242d",
+      "a4615da9-3944-497d-93eb-8ebdeee12202",
+      "d2391b1c-5440-4cbc-b1b1-84a05c0d9258",
+      "76792273-2a47-442a-97f2-6e24ded2bcad",
+      "a1eb5cc3-ad19-4295-ab03-8705d03d4096",
+      "3057e42d-7f3a-4582-8fc8-9b606c05578d",
+      "dad61abb-9c8c-49eb-89d8-f8f68feae645",
+      "cf988550-a6b2-4cea-9ef3-989ffd64227b"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156156173,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "7570e77c-0314-479e-8c25-c6321af65f06",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532210634417,
+    "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "HTML templates"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210618677,
+        "id": "a4965c97-4620-49f2-9fc8-5b654f3473b6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210621130,
+        "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 222"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 222"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210621130,
+        "id": "1aed9121-d7fa-46a4-a4a7-72f821e264c9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210623616,
+        "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 13461"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 13461"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210623616,
+        "id": "ee2d48df-ecdf-41e8-a3b2-ac7b0167d364",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210624490,
+        "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156156171,
+        "id": "0960d2f3-0375-41d6-bda1-f48ad44b88b2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156156171,
+        "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Package "
+            ],
+            [
+              "html/template",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " has the same base functionality as "
+            ],
+            [
+              "text/template",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Package "
+          },
+          {
+            "Text": "html/template",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " has the same base functionality as "
+          },
+          {
+            "Text": "text/template",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156156172,
+        "id": "640a182e-03a4-438a-91f6-5c402371242d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156156172,
+        "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The difference is that "
+            ],
+            [
+              "html/template",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " understands structure of HTML and JavaScript code inside HTML."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The difference is that "
+          },
+          {
+            "Text": "html/template",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " understands structure of HTML and JavaScript code inside HTML."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156156172,
+        "id": "a4615da9-3944-497d-93eb-8ebdeee12202",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156156172,
+        "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Inserted text is escaped based on its surrounding context which eliminates cross-site scripting bugs."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Inserted text is escaped based on its surrounding context which eliminates cross-site scripting bugs."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156156172,
+        "id": "d2391b1c-5440-4cbc-b1b1-84a05c0d9258",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156156172,
+        "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file html.go output sha1:59b81836761f5efa1451433fb46648da7e27c678 goplayground:BC_-ZpGvIGD"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file html.go output sha1:59b81836761f5efa1451433fb46648da7e27c678 goplayground:BC_-ZpGvIGD"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156156172,
+        "id": "76792273-2a47-442a-97f2-6e24ded2bcad",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156156172,
+        "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Inserting unescaped HTML"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Inserting unescaped HTML"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156156173,
+        "id": "a1eb5cc3-ad19-4295-ab03-8705d03d4096",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156156173,
+        "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sometimes you need to subvert escaping of text:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Sometimes you need to subvert escaping of text:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156156173,
+        "id": "3057e42d-7f3a-4582-8fc8-9b606c05578d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156156173,
+        "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file html_raw.go output sha1:2c1d354582f6b03300f1560921ff021465146dd8 goplayground:dl8dRoGbpWU"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file html_raw.go output sha1:2c1d354582f6b03300f1560921ff021465146dd8 goplayground:dl8dRoGbpWU"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156156173,
+        "id": "dad61abb-9c8c-49eb-89d8-f8f68feae645",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156156173,
+        "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "template.HTML",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "template.JS",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " are type alises for "
+            ],
+            [
+              "string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " so you can assign string values to them."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "template.HTML",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "template.JS",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " are type alises for "
+          },
+          {
+            "Text": "string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " so you can assign string values to them."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156156173,
+        "id": "cf988550-a6b2-4cea-9ef3-989ffd64227b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156156173,
+        "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Templating engine recognizes those types and disables escaping for them."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Templating engine recognizes those types and disables escaping for them."
+          }
+        ]
+      }
+    ],
+    "title": "HTML templates",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

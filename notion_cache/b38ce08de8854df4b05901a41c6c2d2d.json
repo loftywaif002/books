@@ -1,0 +1,404 @@
+{
+  "ID": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+  "Page": {
+    "alive": true,
+    "content": [
+      "ff3887d0-a5b8-46b5-b181-0e3c393fa755",
+      "affb741b-b8f7-4f42-a8f5-58b3589960eb",
+      "5529ac5c-305a-4ddf-9218-40a611070263",
+      "9191af72-4ffd-4194-bd3a-36927fd9e272",
+      "d808da4f-6955-4dda-98c0-e68c83e0b7a2",
+      "9b156c69-00d6-4ed2-b698-01f8ef929c79",
+      "dd1b9fce-7b51-4286-a6cd-33d5b9e2a6d1",
+      "75fd1ffa-1258-45a4-a2c2-f497b89d66c9",
+      "a80a3663-0737-42d1-a6a1-93c7107990c4",
+      "526af01f-2b0a-4552-8539-7dbaa64fe1ed",
+      "fa9c5d71-25e0-43e6-b6e1-4fadba51df96",
+      "532c8fa1-f2f1-4b56-91df-bdeed2a578df",
+      "5bea333e-2909-420a-ae66-789755d879fd",
+      "61a5b70b-ef8d-447a-8588-5b1d92970ce6"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156172227,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532210981489,
+    "parent_id": "b58d1314-5f92-4c11-afcf-00aa10d71364",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Context is a tree of values"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210966395,
+        "id": "ff3887d0-a5b8-46b5-b181-0e3c393fa755",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210970353,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 234"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 234"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210970353,
+        "id": "affb741b-b8f7-4f42-a8f5-58b3589960eb",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210972777,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 9229"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 9229"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210973216,
+        "id": "5529ac5c-305a-4ddf-9218-40a611070263",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210973229,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156172223,
+        "id": "9191af72-4ffd-4194-bd3a-36927fd9e272",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156172223,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Context is created by wrapping existing immutable context and adding additional information."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Context is created by wrapping existing immutable context and adding additional information."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156172224,
+        "id": "d808da4f-6955-4dda-98c0-e68c83e0b7a2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156172224,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Since you can “branch” the same context multiple times, context value can be thought of as tree of values."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Since you can “branch” the same context multiple times, context value can be thought of as tree of values."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156172224,
+        "id": "9b156c69-00d6-4ed2-b698-01f8ef929c79",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156172224,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The following tree:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The following tree:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156172224,
+        "id": "dd1b9fce-7b51-4286-a6cd-33d5b9e2a6d1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156172224,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "ctx := context.WithValue(\n    context.WithDeadline(\n        context.WithValue(context.Background(), sidKey, sid),\n        time.Now().Add(30 * time.Minute),\n    ),\n    ridKey, rid,\n)\ntrCtx := trace.NewContext(ctx, tr)\nlogCtx := myRequestLogging.NewContext(ctx, myRequestLogging.NewLogger())"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "ctx := context.WithValue(\n    context.WithDeadline(\n        context.WithValue(context.Background(), sidKey, sid),\n        time.Now().Add(30 * time.Minute),\n    ),\n    ridKey, rid,\n)\ntrCtx := trace.NewContext(ctx, tr)\nlogCtx := myRequestLogging.NewContext(ctx, myRequestLogging.NewLogger())",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156172224,
+        "id": "75fd1ffa-1258-45a4-a2c2-f497b89d66c9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156172224,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "can be visualized as:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "can be visualized as:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156172225,
+        "id": "a80a3663-0737-42d1-a6a1-93c7107990c4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156172225,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "90100016-context-tree.png"
+            ]
+          ]
+        },
+        "type": "image",
+        "version": 1,
+        "source": "90100016-context-tree.png",
+        "image_url": "https://www.notion.so/image/https:%2F%2Fwww.notion.so90100016-context-tree.png"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156172225,
+        "id": "526af01f-2b0a-4552-8539-7dbaa64fe1ed",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156172225,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Context represented as a directed graph"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Context represented as a directed graph"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156172226,
+        "id": "fa9c5d71-25e0-43e6-b6e1-4fadba51df96",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156172226,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Each child context has access to values of its parent contexts."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Each child context has access to values of its parent contexts."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156172226,
+        "id": "532c8fa1-f2f1-4b56-91df-bdeed2a578df",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156172226,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Data access flows upwards in the tree (represented by black edges)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Data access flows upwards in the tree (represented by black edges)."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156172226,
+        "id": "5bea333e-2909-420a-ae66-789755d879fd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156172226,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Cancelation signals travel down the tree. If a context is canceled, all of its children are also canceled."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Cancelation signals travel down the tree. If a context is canceled, all of its children are also canceled."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156172227,
+        "id": "61a5b70b-ef8d-447a-8588-5b1d92970ce6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156172227,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The cancelation signal flow is represented by the grey edges."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The cancelation signal flow is represented by the grey edges."
+          }
+        ]
+      }
+    ],
+    "title": "Context is a tree of values",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

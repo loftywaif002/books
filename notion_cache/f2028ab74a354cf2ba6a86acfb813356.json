@@ -1,0 +1,439 @@
+{
+  "ID": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+  "Page": {
+    "alive": true,
+    "content": [
+      "2d22d110-dba5-43a9-a8df-d57e04938cec",
+      "aaec2ef3-3ea5-4865-bd64-ccf5f904c675",
+      "a088b107-7453-48c8-9019-44985bba710a",
+      "3100358d-3d6c-4708-a146-ff616f76cb1e",
+      "f9eb234a-c2f1-488a-b039-b520c2b5856b",
+      "9c8f3d5d-fffa-4d29-9c4b-f42d1af421f8",
+      "df89df4a-22e7-4a63-abdd-d40326d58e8b",
+      "9539e49f-085b-441c-b84a-30306f8442b1",
+      "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+      "4407620a-0a6a-44de-8fe4-2c1f783132e1",
+      "5ab3b563-29c4-4058-b5b2-4d3f364183ce",
+      "9eb92fc6-9cb1-4ba1-b15f-de885aee3832",
+      "2d972d9d-063b-4b51-ae36-728a041649ee"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156286192,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532215407656,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "The Go Command"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 30,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215396871,
+        "id": "2d22d110-dba5-43a9-a8df-d57e04938cec",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215408837,
+        "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 322"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 322"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215399044,
+        "id": "aaec2ef3-3ea5-4865-bd64-ccf5f904c675",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215409563,
+        "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4828"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4828"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215401884,
+        "id": "a088b107-7453-48c8-9019-44985bba710a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215401884,
+        "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215400444,
+        "id": "3100358d-3d6c-4708-a146-ff616f76cb1e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215401637,
+        "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The "
+            ],
+            [
+              "go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " command is a command-line program that allows for the management of Go development."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "The "
+          },
+          {
+            "Text": "go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " command is a command-line program that allows for the management of Go development."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156286192,
+        "id": "f9eb234a-c2f1-488a-b039-b520c2b5856b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156286192,
+        "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It enables building, running, and testing code, as well as a variety of other Go-related tasks."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It enables building, running, and testing code, as well as a variety of other Go-related tasks."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215388119,
+        "id": "9c8f3d5d-fffa-4d29-9c4b-f42d1af421f8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215388119,
+        "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156287364,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "df89df4a-22e7-4a63-abdd-d40326d58e8b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215438476,
+        "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "go fmt"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "go fmt",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156288243,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "9539e49f-085b-441c-b84a-30306f8442b1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215488067,
+        "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "go run"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "go run",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156289132,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215526248,
+        "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "go build"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "go build",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156290124,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "4407620a-0a6a-44de-8fe4-2c1f783132e1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215577263,
+        "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "go clean"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "go clean",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156292866,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "5ab3b563-29c4-4058-b5b2-4d3f364183ce",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215610926,
+        "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "go get"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "go get",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156295993,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "9eb92fc6-9cb1-4ba1-b15f-de885aee3832",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215631095,
+        "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "go env"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 20,
+        "title": "go env",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156297148,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "2d972d9d-063b-4b51-ae36-728a041649ee",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215668770,
+        "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "go test"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 22,
+        "title": "go test",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "The Go Command",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

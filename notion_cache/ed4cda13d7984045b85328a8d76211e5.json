@@ -1,0 +1,1450 @@
+{
+  "ID": "ed4cda13-d798-4045-b853-28a8d76211e5",
+  "Page": {
+    "alive": true,
+    "content": [
+      "81e5c767-0177-4f8e-ac1e-a3194dbf6226",
+      "a0b8a831-26ac-48b5-943a-bffb5dc28b4d",
+      "84ecb8b6-fb14-4983-8920-b8d5cbbb52e0",
+      "90415e1b-be01-4ccd-b4cc-d9844c0a57ce",
+      "ff80fd10-8b3b-404a-9b64-171aeffeb4cc",
+      "c57f4917-60e7-464c-98ce-5b34198a181c",
+      "0de57136-3066-493a-89d2-189d5e9e308e",
+      "caf7c013-067d-4606-8ebb-e9e5ad12e44c",
+      "354c7d35-201a-4380-babf-976d82948bab",
+      "6fe74f5c-ce27-45cc-8c1a-e9c168c5e865",
+      "0fc28408-e0df-48d1-b9aa-2965743f5d7d",
+      "b95cd538-1c69-4455-b100-ec674d7ffc8f",
+      "fb1e64cc-194f-41d9-9a88-2e5d1710af61",
+      "91d9d03e-5fc8-43a9-8800-08599b4c86a2",
+      "336a3874-f4bb-43ba-8d6f-2e4c303ca41c",
+      "7e8ed544-412e-4054-947c-d0eab6f29fca",
+      "d7890159-32a0-43ae-9ba8-279ac701681a",
+      "87be0eab-1a2f-4121-9c0a-9e0937f14669",
+      "774f6958-b83f-4fcf-a204-05396ebe526f",
+      "46ffd338-0c06-4d1e-a274-c429547004b8",
+      "5bcf3161-fc5f-415a-8c74-4fc3cde34b70",
+      "25171d6f-2a6f-42a5-9d1c-42dc8f93aecb",
+      "7300e108-57db-437d-84e3-0bb4dd86cf38",
+      "257f0358-2074-488b-8cc0-ad36e2a9a470",
+      "838ac17f-4f45-4425-9a01-6a68ef8a8478",
+      "d6aa111c-e6fa-40f3-967b-1466208df355",
+      "1a4a1898-5f9d-4ead-965d-4d27b9bab52a",
+      "af597708-717f-4a01-9126-fef1df56fdc7",
+      "864b4a14-a9d3-4b6e-b75b-82085f90f0c2",
+      "69ebb033-b933-4d37-b566-52b443a8d5db",
+      "7f7011b8-9311-412f-b995-5cc7f53cc5de",
+      "e0c62685-dcfe-4a2e-8425-812e8420bbf1",
+      "92a8b702-1ecc-4cf7-b98d-046a5db4f223",
+      "98e37f1d-6607-4f9d-a1ae-84f0688f3b06",
+      "e862bf24-d5d0-45b1-a023-29f035b57f3e",
+      "99729a0c-cf35-4327-a029-2138bfbb1778",
+      "3d8d53e7-7a65-480d-a2da-e46b4f526062",
+      "dba7e3dc-9e1d-43f7-9431-9f4b32010393",
+      "959ca776-279d-4a6e-80d3-e4ccea9c72f7",
+      "a69e32d7-1068-4890-b5e8-70154cb9cb66",
+      "e1a0a7df-4319-4e65-9650-e2a9da584786",
+      "01c066c8-db5b-41b5-8fa4-b2c0fe569922"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156201282,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532212314770,
+    "parent_id": "d3b04193-4690-4e0b-bf6d-c28b69fc93c6",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Cgo: First steps tutorial"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212301086,
+        "id": "81e5c767-0177-4f8e-ac1e-a3194dbf6226",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212303284,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 255"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 255"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212303284,
+        "id": "a0b8a831-26ac-48b5-943a-bffb5dc28b4d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212305043,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212305043,
+        "id": "84ecb8b6-fb14-4983-8920-b8d5cbbb52e0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212307067,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 21315"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 21315"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212307442,
+        "id": "90415e1b-be01-4ccd-b4cc-d9844c0a57ce",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212307442,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212307067,
+        "id": "ff80fd10-8b3b-404a-9b64-171aeffeb4cc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212308388,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Some examples to understand the workflow of using Go C Bindings"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Some examples to understand the workflow of using Go C Bindings"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201273,
+        "id": "c57f4917-60e7-464c-98ce-5b34198a181c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201273,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "What"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "What"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201274,
+        "id": "0de57136-3066-493a-89d2-189d5e9e308e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201274,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go you can call C programs and functions using "
+            ],
+            [
+              "cgo",
+              [
+                [
+                  "a",
+                  "https://golang.org/cmd/cgo/"
+                ]
+              ]
+            ],
+            [
+              ". This way you can easily create C bindings to other applications or libraries that provides C API."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In Go you can call C programs and functions using "
+          },
+          {
+            "Text": "cgo",
+            "Link": "https://golang.org/cmd/cgo/"
+          },
+          {
+            "Text": ". This way you can easily create C bindings to other applications or libraries that provides C API."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201274,
+        "id": "caf7c013-067d-4606-8ebb-e9e5ad12e44c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201274,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "How"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "How"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201275,
+        "id": "354c7d35-201a-4380-babf-976d82948bab",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201275,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "All you need to do is to add a "
+            ],
+            [
+              "import \"C\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " at the beginning of your Go program "
+            ],
+            [
+              "just",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " after including your C program:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "All you need to do is to add a "
+          },
+          {
+            "Text": "import \"C\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " at the beginning of your Go program "
+          },
+          {
+            "Text": "just",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " after including your C program:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201275,
+        "id": "6fe74f5c-ce27-45cc-8c1a-e9c168c5e865",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201275,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "//#include \u003cstdio.h\u003e\nimport \"C\""
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "//#include \u003cstdio.h\u003e\nimport \"C\"",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201275,
+        "id": "0fc28408-e0df-48d1-b9aa-2965743f5d7d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201275,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "With the previous example you can use the "
+            ],
+            [
+              "stdio",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package in Go."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "With the previous example you can use the "
+          },
+          {
+            "Text": "stdio",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package in Go."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201276,
+        "id": "b95cd538-1c69-4455-b100-ec674d7ffc8f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201276,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you need to use an app that is on your same folder, you use the same syntax than in C (with the "
+            ],
+            [
+              "\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " instead of "
+            ],
+            [
+              "\u003c\u003e",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ")"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you need to use an app that is on your same folder, you use the same syntax than in C (with the "
+          },
+          {
+            "Text": "\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " instead of "
+          },
+          {
+            "Text": "\u003c\u003e",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ")"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201276,
+        "id": "fb1e64cc-194f-41d9-9a88-2e5d1710af61",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201276,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "//#include \"hello.c\"\nimport \"C\""
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "//#include \"hello.c\"\nimport \"C\"",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201276,
+        "id": "91d9d03e-5fc8-43a9-8800-08599b4c86a2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201276,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "IMPORTANT: Do not leave a newline between the include and the import \"C\" statements or you will get this type of errors on build:"
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "IMPORTANT: Do not leave a newline between the include and the import \"C\" statements or you will get this type of errors on build:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201277,
+        "id": "336a3874-f4bb-43ba-8d6f-2e4c303ca41c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201277,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "# command-line-arguments\ncould not determine kind of name for C.Hello\ncould not determine kind of name for C.sum"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "# command-line-arguments\ncould not determine kind of name for C.Hello\ncould not determine kind of name for C.sum",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201277,
+        "id": "7e8ed544-412e-4054-947c-d0eab6f29fca",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201277,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The example"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The example"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201277,
+        "id": "d7890159-32a0-43ae-9ba8-279ac701681a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201277,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "On this folder you can find an example of C bindings. We have two very simple C “libraries” called "
+            ],
+            [
+              "hello.c",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "On this folder you can find an example of C bindings. We have two very simple C “libraries” called "
+          },
+          {
+            "Text": "hello.c",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201278,
+        "id": "87be0eab-1a2f-4121-9c0a-9e0937f14669",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201278,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "//hello.c\n#include \u003cstdio.h\u003e\n\nvoid Hello(){\n    printf(\"Hello world\\n\");\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "//hello.c\n#include \u003cstdio.h\u003e\n\nvoid Hello(){\n    printf(\"Hello world\\n\");\n}",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201278,
+        "id": "774f6958-b83f-4fcf-a204-05396ebe526f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201278,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "That simply prints “hello world” in the console and "
+            ],
+            [
+              "sum.c",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "That simply prints “hello world” in the console and "
+          },
+          {
+            "Text": "sum.c",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201278,
+        "id": "46ffd338-0c06-4d1e-a274-c429547004b8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201278,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "//sum.c\n#include \u003cstdio.h\u003e\n\nint sum(int a, int b) {\n    return a + b;\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "//sum.c\n#include \u003cstdio.h\u003e\n\nint sum(int a, int b) {\n    return a + b;\n}",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201278,
+        "id": "5bcf3161-fc5f-415a-8c74-4fc3cde34b70",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201278,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "…that takes 2 arguments and returns its sum (do not print it)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "…that takes 2 arguments and returns its sum (do not print it)."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201278,
+        "id": "25171d6f-2a6f-42a5-9d1c-42dc8f93aecb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201278,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We have a "
+            ],
+            [
+              "main.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " program that will make use of this two files. First we import them as we mentioned before:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We have a "
+          },
+          {
+            "Text": "main.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " program that will make use of this two files. First we import them as we mentioned before:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201278,
+        "id": "7300e108-57db-437d-84e3-0bb4dd86cf38",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201278,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "//main.go\npackage main\n\n/*\n  #include \"hello.c\"\n  #include \"sum.c\"\n*/\nimport \"C\""
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "//main.go\npackage main\n\n/*\n  #include \"hello.c\"\n  #include \"sum.c\"\n*/\nimport \"C\"",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201279,
+        "id": "257f0358-2074-488b-8cc0-ad36e2a9a470",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201279,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Hello World!"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Hello World!"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201279,
+        "id": "838ac17f-4f45-4425-9a01-6a68ef8a8478",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201279,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Now we are ready to use the C programs in our Go app. Let’s first try the Hello program:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Now we are ready to use the C programs in our Go app. Let’s first try the Hello program:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201279,
+        "id": "d6aa111c-e6fa-40f3-967b-1466208df355",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201279,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "//main.go\npackage main\n\n/*\n  #include \"hello.c\"\n  #include \"sum.c\"\n*/\nimport \"C\"\n\n\nfunc main() {\n    //Call to void function without params\n    err := Hello()\n    if err != nil {\n        log.Fatal(err)\n    }\n}\n\n//Hello is a C binding to the Hello World \"C\" program. As a Go user you could\n//use now the Hello function transparently without knowing that it is calling\n//a C function\nfunc Hello() error {\n    _, err := C.Hello()    //We ignore first result as it is a void function\n    if err != nil {\n        return errors.New(\"error calling Hello function: \" + err.Error())\n    }\n\n    return nil\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "//main.go\npackage main\n\n/*\n  #include \"hello.c\"\n  #include \"sum.c\"\n*/\nimport \"C\"\n\n\nfunc main() {\n    //Call to void function without params\n    err := Hello()\n    if err != nil {\n        log.Fatal(err)\n    }\n}\n\n//Hello is a C binding to the Hello World \"C\" program. As a Go user you could\n//use now the Hello function transparently without knowing that it is calling\n//a C function\nfunc Hello() error {\n    _, err := C.Hello()    //We ignore first result as it is a void function\n    if err != nil {\n        return errors.New(\"error calling Hello function: \" + err.Error())\n    }\n\n    return nil\n}",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201279,
+        "id": "1a4a1898-5f9d-4ead-965d-4d27b9bab52a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201279,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Now run the main.go program using the "
+            ],
+            [
+              "go run main.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to get print of the C program: “Hello world!”. Well done!"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Now run the main.go program using the "
+          },
+          {
+            "Text": "go run main.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to get print of the C program: “Hello world!”. Well done!"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201279,
+        "id": "af597708-717f-4a01-9126-fef1df56fdc7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201279,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sum of ints"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Sum of ints"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201279,
+        "id": "864b4a14-a9d3-4b6e-b75b-82085f90f0c2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201279,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Let’s make it a bit more complex by adding a function that sums its two arguments."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Let’s make it a bit more complex by adding a function that sums its two arguments."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201280,
+        "id": "69ebb033-b933-4d37-b566-52b443a8d5db",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201280,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "//sum.c\n#include \u003cstdio.h\u003e\n\nint sum(int a, int b) {\n  return a + b;\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "//sum.c\n#include \u003cstdio.h\u003e\n\nint sum(int a, int b) {\n  return a + b;\n}",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201280,
+        "id": "7f7011b8-9311-412f-b995-5cc7f53cc5de",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201280,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "And we’ll call it from our previous Go app."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "And we’ll call it from our previous Go app."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201280,
+        "id": "e0c62685-dcfe-4a2e-8425-812e8420bbf1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201280,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "//main.go\npackage main\n\n/*\n#include \"hello.c\"\n#include \"sum.c\"\n*/\nimport \"C\"\n\nimport (\n    \"errors\"\n    \"fmt\"\n    \"log\"\n)\n\nfunc main() {\n    //Call to void function without params\n    err := Hello()\n    if err != nil {\n        log.Fatal(err)\n    }\n\n    //Call to int function with two params\n    res, err := makeSum(5, 4)\n    if err != nil {\n        log.Fatal(err)\n    }\n\n    fmt.Printf(\"Sum of 5 + 4 is %d\\n\", res)\n}\n\n//Hello is a C binding to the Hello World \"C\" program. As a Go user you could\n//use now the Hello function transparently without knowing that is calling a C\n//function\nfunc Hello() error {\n    _, err := C.Hello() //We ignore first result as it is a void function\n    if err != nil {\n        return errors.New(\"error calling Hello function: \" + err.Error())\n    }\n\n    return nil\n}\n\n//makeSum also is a C binding to make a sum. As before it returns a result and\n//an error. Look that we had to pass the Int values to C.int values before using\n//the function and cast the result back to a Go int value\nfunc makeSum(a, b int) (int, error) {\n    //Convert Go ints to C ints\n    aC := C.int(a)\n    bC := C.int(b)\n\n    sum, err := C.sum(aC, bC)\n    if err != nil {\n        return 0, errors.New(\"error calling Sum function: \" + err.Error())\n    }\n\n    //Convert C.int result to Go int\n    res := int(sum)\n\n    return res, nil\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "//main.go\npackage main\n\n/*\n#include \"hello.c\"\n#include \"sum.c\"\n*/\nimport \"C\"\n\nimport (\n    \"errors\"\n    \"fmt\"\n    \"log\"\n)\n\nfunc main() {\n    //Call to void function without params\n    err := Hello()\n    if err != nil {\n        log.Fatal(err)\n    }\n\n    //Call to int function with two params\n    res, err := makeSum(5, 4)\n    if err != nil {\n        log.Fatal(err)\n    }\n\n    fmt.Printf(\"Sum of 5 + 4 is %d\\n\", res)\n}\n\n//Hello is a C binding to the Hello World \"C\" program. As a Go user you could\n//use now the Hello function transparently without knowing that is calling a C\n//function\nfunc Hello() error {\n    _, err := C.Hello() //We ignore first result as it is a void function\n    if err != nil {\n        return errors.New(\"error calling Hello function: \" + err.Error())\n    }\n\n    return nil\n}\n\n//makeSum also is a C binding to make a sum. As before it returns a result and\n//an error. Look that we had to pass the Int values to C.int values before using\n//the function and cast the result back to a Go int value\nfunc makeSum(a, b int) (int, error) {\n    //Convert Go ints to C ints\n    aC := C.int(a)\n    bC := C.int(b)\n\n    sum, err := C.sum(aC, bC)\n    if err != nil {\n        return 0, errors.New(\"error calling Sum function: \" + err.Error())\n    }\n\n    //Convert C.int result to Go int\n    res := int(sum)\n\n    return res, nil\n}",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201280,
+        "id": "92a8b702-1ecc-4cf7-b98d-046a5db4f223",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201280,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Take a look at the “makeSum” function. It receives two "
+            ],
+            [
+              "int",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " parameters that need to be converted to C "
+            ],
+            [
+              "int",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " before by using the "
+            ],
+            [
+              "C.int",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function. Also, the return of the call will give us a C "
+            ],
+            [
+              "int",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and an error in case something went wrong. We need to cast C response to a Go’s int using "
+            ],
+            [
+              "int()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Take a look at the “makeSum” function. It receives two "
+          },
+          {
+            "Text": "int",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " parameters that need to be converted to C "
+          },
+          {
+            "Text": "int",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " before by using the "
+          },
+          {
+            "Text": "C.int",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function. Also, the return of the call will give us a C "
+          },
+          {
+            "Text": "int",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and an error in case something went wrong. We need to cast C response to a Go’s int using "
+          },
+          {
+            "Text": "int()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201281,
+        "id": "98e37f1d-6607-4f9d-a1ae-84f0688f3b06",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201281,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Try running our go app by using "
+            ],
+            [
+              "go run main.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Try running our go app by using "
+          },
+          {
+            "Text": "go run main.go",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201281,
+        "id": "e862bf24-d5d0-45b1-a023-29f035b57f3e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201281,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "$ go run main.go\nHello world!\nSum of 5 + 4 is 9"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "$ go run main.go\nHello world!\nSum of 5 + 4 is 9",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201281,
+        "id": "99729a0c-cf35-4327-a029-2138bfbb1778",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201281,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Generating a binary"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Generating a binary"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201281,
+        "id": "3d8d53e7-7a65-480d-a2da-e46b4f526062",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201281,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you try a go build you could get multiple definition errors."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you try a go build you could get multiple definition errors."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201281,
+        "id": "dba7e3dc-9e1d-43f7-9431-9f4b32010393",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201281,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "$ go build\n# github.com/sayden/c-bindings\n/tmp/go-build329491076/github.com/sayden/c-bindings/_obj/hello.o: In function `Hello':\n../../go/src/github.com/sayden/c-bindings/hello.c:5: multiple definition of `Hello'\n/tmp/go-build329491076/github.com/sayden/c-bindings/_obj/main.cgo2.o:/home/mariocaster/go/src/github.com/sayden/c-bindings/hello.c:5: first defined here\n/tmp/go-build329491076/github.com/sayden/c-bindings/_obj/sum.o: In function `sum':\n../../go/src/github.com/sayden/c-bindings/sum.c:5: multiple definition of `sum`\n/tmp/go-build329491076/github.com/sayden/c-bindings/_obj/main.cgo2.o:/home/mariocaster/go/src/github.com/sayden/c-bindings/sum.c:5: first defined here\ncollect2: error: ld returned 1 exit status"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "$ go build\n# github.com/sayden/c-bindings\n/tmp/go-build329491076/github.com/sayden/c-bindings/_obj/hello.o: In function `Hello':\n../../go/src/github.com/sayden/c-bindings/hello.c:5: multiple definition of `Hello'\n/tmp/go-build329491076/github.com/sayden/c-bindings/_obj/main.cgo2.o:/home/mariocaster/go/src/github.com/sayden/c-bindings/hello.c:5: first defined here\n/tmp/go-build329491076/github.com/sayden/c-bindings/_obj/sum.o: In function `sum':\n../../go/src/github.com/sayden/c-bindings/sum.c:5: multiple definition of `sum`\n/tmp/go-build329491076/github.com/sayden/c-bindings/_obj/main.cgo2.o:/home/mariocaster/go/src/github.com/sayden/c-bindings/sum.c:5: first defined here\ncollect2: error: ld returned 1 exit status",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201281,
+        "id": "959ca776-279d-4a6e-80d3-e4ccea9c72f7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201281,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The trick is to refer to the main file directly when using "
+            ],
+            [
+              "go build",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The trick is to refer to the main file directly when using "
+          },
+          {
+            "Text": "go build",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201281,
+        "id": "a69e32d7-1068-4890-b5e8-70154cb9cb66",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201281,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "$ go build main.go\n$ ./main\nHello world!\nSum of 5 + 4 is 9"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "$ go build main.go\n$ ./main\nHello world!\nSum of 5 + 4 is 9",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201282,
+        "id": "e1a0a7df-4319-4e65-9650-e2a9da584786",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201282,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Remember that you can provide a name to the binary file by using -o flag go build -o my_c_binding main.go"
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Remember that you can provide a name to the binary file by using -o flag go build -o my_c_binding main.go"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156201282,
+        "id": "01c066c8-db5b-41b5-8fa4-b2c0fe569922",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156201282,
+        "parent_id": "ed4cda13-d798-4045-b853-28a8d76211e5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "I hope you enjoyed this tutorial."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "I hope you enjoyed this tutorial."
+          }
+        ]
+      }
+    ],
+    "title": "Cgo: First steps tutorial",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

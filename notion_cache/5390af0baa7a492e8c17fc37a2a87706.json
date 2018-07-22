@@ -1,0 +1,1144 @@
+{
+  "ID": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+  "Page": {
+    "alive": true,
+    "content": [
+      "2c59e552-76d2-4c70-a3a3-97eb7056879d",
+      "6f3a74d7-d40c-48d7-b43d-a5d8aef7f532",
+      "5252c458-6201-4184-94c2-e268c88f3ce4",
+      "50aebd49-c6c0-4737-8cbd-91d8d473ffc4",
+      "bbd7a9c8-4e47-4944-b16e-789a4205c8bd",
+      "04b5d8e2-c7c7-424f-8870-3f9e9c4b2c0c",
+      "b1358022-2821-49f5-b7df-a537d4c012c3",
+      "adbc93dc-6f26-4c44-8126-ce4fcf296ff8",
+      "c173e2eb-3ad7-4cbb-9007-5c68c7fbfc1f",
+      "b2eba623-176e-4259-b7ec-14dee54cce8f",
+      "5c5c66ac-0051-4abb-bed3-58296caa7c14",
+      "e287425b-6737-4c1d-83b2-54b0ff600103",
+      "3c4e33e6-119d-430a-96b2-0dc0982d8b7e",
+      "fb13c8e8-bf74-4501-9b71-c24bd76f1211",
+      "e7b18d64-7ff3-43c9-b2b3-0e88c3be3be6",
+      "bb6b40fc-c5fb-40ef-9c4a-203e1db7d068",
+      "9b9e557c-7e3e-48dd-a3cf-1c7a337899bb",
+      "aa8bcb78-d543-41a7-b4de-5237456617ff",
+      "c352ddd1-8ad1-4319-b252-b1f4efc9b7d5",
+      "c3f3e395-4bd1-44e4-b0fe-1a130e0c7222",
+      "d4eae715-a537-4ad4-84ac-e50eb32bcad6",
+      "bd8367f6-a9d4-4936-9839-e8303658f027",
+      "519c06ab-f273-40d6-bcdc-f07699aec064",
+      "be05e849-3ff8-4834-9029-14e214fd8aad",
+      "13a4ee70-3bd1-46aa-8814-f5eb1a0636ee",
+      "0c733606-1e70-4bd2-9150-d312b5480dc4",
+      "14fde9c0-9226-4a9b-84c2-ad64e4098925",
+      "95f2ffa0-665c-48ff-9c31-7b0f32cb1e5c"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156086129,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236758469,
+    "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Writing files"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206483136,
+        "id": "2c59e552-76d2-4c70-a3a3-97eb7056879d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236756726,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 161"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 161"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206484766,
+        "id": "6f3a74d7-d40c-48d7-b43d-a5d8aef7f532",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236758469,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3332"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3332"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086125,
+        "id": "5252c458-6201-4184-94c2-e268c88f3ce4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086125,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Write the whole file"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Write the whole file"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086125,
+        "id": "50aebd49-c6c0-4737-8cbd-91d8d473ffc4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086125,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The simplest way to write data to a file:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The simplest way to write data to a file:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086125,
+        "id": "bbd7a9c8-4e47-4944-b16e-789a4205c8bd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206494371,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "d := []byte(\"content of the file\")\nerr := ioutil.WriteFile(\"foo.txt\", d, 0644)\nif err != nil {\n    log.Fatalf(\"ioutil.WriteFile failed with '%s'\\n\", err)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "d := []byte(\"content of the file\")\nerr := ioutil.WriteFile(\"foo.txt\", d, 0644)\nif err != nil {\n    log.Fatalf(\"ioutil.WriteFile failed with '%s'\\n\", err)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086125,
+        "id": "04b5d8e2-c7c7-424f-8870-3f9e9c4b2c0c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086125,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Open file for writing"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Open file for writing"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086126,
+        "id": "b1358022-2821-49f5-b7df-a537d4c012c3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206497455,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "f, err := os.Create(\"foo.txt\")\nif err != nil {\n    log.Fatalf(\"os.Open failed with '%s'\\n\", err)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "f, err := os.Create(\"foo.txt\")\nif err != nil {\n    log.Fatalf(\"os.Open failed with '%s'\\n\", err)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086126,
+        "id": "adbc93dc-6f26-4c44-8126-ce4fcf296ff8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086126,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Create",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " returns "
+            ],
+            [
+              "*os.File",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " which implements "
+            ],
+            [
+              "io.Writer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "io.Closer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " interfaces."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Create",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " returns "
+          },
+          {
+            "Text": "*os.File",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " which implements "
+          },
+          {
+            "Text": "io.Writer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "io.Closer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " interfaces."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086126,
+        "id": "c173e2eb-3ad7-4cbb-9007-5c68c7fbfc1f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086126,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If file doesn’t exist, it’ll be created."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If file doesn’t exist, it’ll be created."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086126,
+        "id": "b2eba623-176e-4259-b7ec-14dee54cce8f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086126,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If file does exist, it’ll be truncated."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If file does exist, it’ll be truncated."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086126,
+        "id": "5c5c66ac-0051-4abb-bed3-58296caa7c14",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086126,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You should always close files to avoid leaking file descriptors."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You should always close files to avoid leaking file descriptors."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086126,
+        "id": "e287425b-6737-4c1d-83b2-54b0ff600103",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086126,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Be aware that "
+            ],
+            [
+              "Close",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " on a file can return an error so for a robust code you should check for errors from "
+            ],
+            [
+              "Close",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Be aware that "
+          },
+          {
+            "Text": "Close",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " on a file can return an error so for a robust code you should check for errors from "
+          },
+          {
+            "Text": "Close",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086127,
+        "id": "3c4e33e6-119d-430a-96b2-0dc0982d8b7e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086127,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Writes can be buffered and "
+            ],
+            [
+              "Close",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " might need to flush remaining cached bytes to disk. That might fail and return an error."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Writes can be buffered and "
+          },
+          {
+            "Text": "Close",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " might need to flush remaining cached bytes to disk. That might fail and return an error."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086127,
+        "id": "fb13c8e8-bf74-4501-9b71-c24bd76f1211",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086127,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Open file for appending"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Open file for appending"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086127,
+        "id": "e7b18d64-7ff3-43c9-b2b3-0e88c3be3be6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206501842,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "f, err := os.OpenFile(filePath, os.O_WRONLY | os.O_APPEND | os.O_CREATE, 0666)\nif err != nil {\n    log.Fatalf(\"os.Open failed with '%s'\\n\", err)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "f, err := os.OpenFile(filePath, os.O_WRONLY | os.O_APPEND | os.O_CREATE, 0666)\nif err != nil {\n    log.Fatalf(\"os.Open failed with '%s'\\n\", err)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086127,
+        "id": "bb6b40fc-c5fb-40ef-9c4a-203e1db7d068",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086127,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Second argument to "
+            ],
+            [
+              "os.OpenFile",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a flag that determines the exact mode for opening the file."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Second argument to "
+          },
+          {
+            "Text": "os.OpenFile",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a flag that determines the exact mode for opening the file."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086127,
+        "id": "9b9e557c-7e3e-48dd-a3cf-1c7a337899bb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086127,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When you open for reading, use "
+            ],
+            [
+              "os.Open",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When you open for reading, use "
+          },
+          {
+            "Text": "os.Open",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086127,
+        "id": "aa8bcb78-d543-41a7-b4de-5237456617ff",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086127,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When you open for writing to a new file, use "
+            ],
+            [
+              "os.Create",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When you open for writing to a new file, use "
+          },
+          {
+            "Text": "os.Create",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086128,
+        "id": "c352ddd1-8ad1-4319-b252-b1f4efc9b7d5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086128,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When you open for appending to existing file, use "
+            ],
+            [
+              "os.OpenFile",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " with the following flags: * "
+            ],
+            [
+              "os.O_WRONLY",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". Could also be "
+            ],
+            [
+              "os.RDWR",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " if we also to both read and write * "
+            ],
+            [
+              "os.O_APPEND",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " means that if file exists, we’ll append * "
+            ],
+            [
+              "os.O_CREATE",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " means that if file doesn’t exist, we’ll create it. Without this flag opening non-existing file would fail"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When you open for appending to existing file, use "
+          },
+          {
+            "Text": "os.OpenFile",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " with the following flags: * "
+          },
+          {
+            "Text": "os.O_WRONLY",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". Could also be "
+          },
+          {
+            "Text": "os.RDWR",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " if we also to both read and write * "
+          },
+          {
+            "Text": "os.O_APPEND",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " means that if file exists, we’ll append * "
+          },
+          {
+            "Text": "os.O_CREATE",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " means that if file doesn’t exist, we’ll create it. Without this flag opening non-existing file would fail"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086128,
+        "id": "c3f3e395-4bd1-44e4-b0fe-1a130e0c7222",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086128,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Write to a file"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Write to a file"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086128,
+        "id": "d4eae715-a537-4ad4-84ac-e50eb32bcad6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206505065,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "d := []byte(\"data to write\")\nnWritten, err := f.Write(d)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "d := []byte(\"data to write\")\nnWritten, err := f.Write(d)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086128,
+        "id": "bd8367f6-a9d4-4936-9839-e8303658f027",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086128,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "File permissions when creating files"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "File permissions when creating files"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086128,
+        "id": "519c06ab-f273-40d6-bcdc-f07699aec064",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086128,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When you create a new file with "
+            ],
+            [
+              "os.Create",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "os.OpenFile",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", you need to provide file permissions for the new file."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When you create a new file with "
+          },
+          {
+            "Text": "os.Create",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "os.OpenFile",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", you need to provide file permissions for the new file."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086129,
+        "id": "be05e849-3ff8-4834-9029-14e214fd8aad",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086129,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For most cases "
+            ],
+            [
+              "0644",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a good choice."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For most cases "
+          },
+          {
+            "Text": "0644",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a good choice."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086129,
+        "id": "13a4ee70-3bd1-46aa-8814-f5eb1a0636ee",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086129,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Those are Unix style permissions in octal format."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Those are Unix style permissions in octal format."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086129,
+        "id": "0c733606-1e70-4bd2-9150-d312b5480dc4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086129,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Let’s deconstruct parts of "
+            ],
+            [
+              "0644",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " * 0 means this is a number in octal format. That means that each number is in 0-7 range (compare to regular decimal notation where each number is in 0-9 range) * 6 is permissions for the creator of the file. It’s a bitmask 4 + 2. 4 means read permissions, 2 means write permission. When combined it means read/write access * 4 is permissions for the group that user belongs to. I.e. every user that also belongs to the same group will have those permissions. 4 means only read permissions * last 4 is for everyone. Again, 4 means only read permissions * for completness, 1 represents exuectuable permissions so if this is meant to be an executable file, the permissions flag would be "
+            ],
+            [
+              "0755",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " i.e. for each user/group/anonymous component we add 1 to set executable bit"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Let’s deconstruct parts of "
+          },
+          {
+            "Text": "0644",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " * 0 means this is a number in octal format. That means that each number is in 0-7 range (compare to regular decimal notation where each number is in 0-9 range) * 6 is permissions for the creator of the file. It’s a bitmask 4 + 2. 4 means read permissions, 2 means write permission. When combined it means read/write access * 4 is permissions for the group that user belongs to. I.e. every user that also belongs to the same group will have those permissions. 4 means only read permissions * last 4 is for everyone. Again, 4 means only read permissions * for completness, 1 represents exuectuable permissions so if this is meant to be an executable file, the permissions flag would be "
+          },
+          {
+            "Text": "0755",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " i.e. for each user/group/anonymous component we add 1 to set executable bit"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086129,
+        "id": "14fde9c0-9226-4a9b-84c2-ad64e4098925",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086129,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Those permissions are native to Unix and Mac OS but they map loosely on Windows."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Those permissions are native to Unix and Mac OS but they map loosely on Windows."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156086129,
+        "id": "95f2ffa0-665c-48ff-9c31-7b0f32cb1e5c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156086129,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To manage Windows permissions you would need to use Windows API."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To manage Windows permissions you would need to use Windows API."
+          }
+        ]
+      }
+    ],
+    "title": "Writing files",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

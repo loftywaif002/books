@@ -1,0 +1,590 @@
+{
+  "ID": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+  "Page": {
+    "alive": true,
+    "content": [
+      "3b329039-0874-4528-8cbc-10e0c97ddd78",
+      "2789148b-eb23-4ec4-9158-e5de85fafeb0",
+      "39b1d80b-c9b4-4ef6-a8cb-3dbde07731f8",
+      "4ad96b70-0e4e-433f-bd4c-1d46c75245e1",
+      "c085b9e3-2ba7-4552-8856-6c27cf5043e5",
+      "75217bcf-d730-4343-8fe9-bd858e625b98",
+      "9a66d48b-5f63-4a43-ab6a-a89a24ed0e69",
+      "f522b17d-f4b7-4384-b3a2-abd0f6fde302",
+      "26c6ff43-38b7-457d-b136-4121438e3468",
+      "70c5b76d-f5dd-458c-95f4-1bf524053087",
+      "f2a9769a-cb22-4792-bfc2-0e9df4925d8b",
+      "aa63bb97-29bf-4f03-8303-9f3e17afe6e7",
+      "d024fbb0-676b-4c61-9b6c-bfd038236f79",
+      "788360e9-c60e-4193-aa14-1c7667809a64",
+      "2d7cdd7c-c5d2-414c-a28f-f2d0fad80ab3",
+      "91fe8693-7d74-48fa-ae47-1f12c33464bf"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156142189,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532208900907,
+    "parent_id": "96e61372-84ae-4460-a282-7f456b4cf62c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Hello World"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208885639,
+        "id": "3b329039-0874-4528-8cbc-10e0c97ddd78",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208888585,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 207"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 207"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208887009,
+        "id": "2789148b-eb23-4ec4-9158-e5de85fafeb0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208891137,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 13"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 13"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208891137,
+        "id": "39b1d80b-c9b4-4ef6-a8cb-3dbde07731f8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208893322,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2703"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2703"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208894930,
+        "id": "4ad96b70-0e4e-433f-bd4c-1d46c75245e1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208894930,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208893322,
+        "id": "c085b9e3-2ba7-4552-8856-6c27cf5043e5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208907504,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The typical way to begin writing web servers in Go is to use the standard library "
+            ],
+            [
+              "net/http",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " module."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "The typical way to begin writing web servers in Go is to use the standard library "
+          },
+          {
+            "Text": "net/http",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " module."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156142187,
+        "id": "75217bcf-d730-4343-8fe9-bd858e625b98",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156142187,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "There is also a tutorial for it "
+            ],
+            [
+              "here",
+              [
+                [
+                  "a",
+                  "https://golang.org/doc/articles/wiki/"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "There is also a tutorial for it "
+          },
+          {
+            "Text": "here",
+            "Link": "https://golang.org/doc/articles/wiki/"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156142187,
+        "id": "9a66d48b-5f63-4a43-ab6a-a89a24ed0e69",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156142187,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The following code also uses it. Here is the simplest possible HTTP server implementation. It responds "
+            ],
+            [
+              "\"Hello World\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to any HTTP request."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The following code also uses it. Here is the simplest possible HTTP server implementation. It responds "
+          },
+          {
+            "Text": "\"Hello World\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to any HTTP request."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156142187,
+        "id": "f522b17d-f4b7-4384-b3a2-abd0f6fde302",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156142187,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Save the following code in a "
+            ],
+            [
+              "server.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " file in your workspaces."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Save the following code in a "
+          },
+          {
+            "Text": "server.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " file in your workspaces."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156142188,
+        "id": "26c6ff43-38b7-457d-b136-4121438e3468",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208870561,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"log\"\n    \"net/http\"\n)\n\nfunc main() {\n    // All URLs will be handled by this function\n    // http.HandleFunc uses the DefaultServeMux\n    http.HandleFunc(\"/\", func(w http.ResponseWriter, r *http.Request) {\n        w.Write([]byte(\"Hello, world!\"))\n    })\n\n    // Continue to process new requests until an error occurs\n    log.Fatal(http.ListenAndServe(\":8080\", nil))\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"log\"\n    \"net/http\"\n)\n\nfunc main() {\n    // All URLs will be handled by this function\n    // http.HandleFunc uses the DefaultServeMux\n    http.HandleFunc(\"/\", func(w http.ResponseWriter, r *http.Request) {\n        w.Write([]byte(\"Hello, world!\"))\n    })\n\n    // Continue to process new requests until an error occurs\n    log.Fatal(http.ListenAndServe(\":8080\", nil))\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156142188,
+        "id": "70c5b76d-f5dd-458c-95f4-1bf524053087",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156142188,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can run the server using:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can run the server using:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156142188,
+        "id": "f2a9769a-cb22-4792-bfc2-0e9df4925d8b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208873127,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ go run server.go"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "$ go run server.go",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156142188,
+        "id": "aa63bb97-29bf-4f03-8303-9f3e17afe6e7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156142188,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Or you can compile and run."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Or you can compile and run."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156142188,
+        "id": "d024fbb0-676b-4c61-9b6c-bfd038236f79",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208876822,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ go build server.go\n$ ./server"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "$ go build server.go\n$ ./server",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156142189,
+        "id": "788360e9-c60e-4193-aa14-1c7667809a64",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156142189,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The server will listen to the specified port ("
+            ],
+            [
+              ":8080",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "). You can test it with any HTTP client. Here’s an example with "
+            ],
+            [
+              "cURL",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The server will listen to the specified port ("
+          },
+          {
+            "Text": ":8080",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "). You can test it with any HTTP client. Here’s an example with "
+          },
+          {
+            "Text": "cURL",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156142189,
+        "id": "2d7cdd7c-c5d2-414c-a28f-f2d0fad80ab3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208879451,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "curl -i http://localhost:8080/\nHTTP/1.1 200 OK\nDate: Wed, 20 Jul 2016 18:04:46 GMT\nContent-Length: 13\nContent-Type: text/plain; charset=utf-8\n\nHello, world!"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "curl -i http://localhost:8080/\nHTTP/1.1 200 OK\nDate: Wed, 20 Jul 2016 18:04:46 GMT\nContent-Length: 13\nContent-Type: text/plain; charset=utf-8\n\nHello, world!",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156142189,
+        "id": "91fe8693-7d74-48fa-ae47-1f12c33464bf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156142189,
+        "parent_id": "27c868d1-c463-47f9-b2f7-f4b55f40d1f5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Press "
+            ],
+            [
+              "Ctrl+C",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to stop the process."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Press "
+          },
+          {
+            "Text": "Ctrl+C",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to stop the process."
+          }
+        ]
+      }
+    ],
+    "title": "Hello World",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,219 @@
+{
+  "ID": "ef0d76af-9188-4e07-a1c5-a606f17a341c",
+  "Page": {
+    "alive": true,
+    "content": [
+      "81f95e32-0a39-4469-9f87-79d5ac406bb2",
+      "1cd34474-80f0-4d83-9a4d-455dd94c11f6",
+      "649a959f-a41d-463a-b64f-eb808738d0ba",
+      "8cbb6295-1fff-4ce8-bcf3-dca778d08cb9",
+      "70259b1e-7e09-46d0-a2dc-eace149b4540",
+      "bad37680-2043-4fc1-85a4-8f636fd012c0"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156002138,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "ef0d76af-9188-4e07-a1c5-a606f17a341c",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235263832,
+    "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Concurrent access of maps"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196742136,
+        "id": "81f95e32-0a39-4469-9f87-79d5ac406bb2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235264692,
+        "parent_id": "ef0d76af-9188-4e07-a1c5-a606f17a341c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 79"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 79"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196744002,
+        "id": "1cd34474-80f0-4d83-9a4d-455dd94c11f6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235265453,
+        "parent_id": "ef0d76af-9188-4e07-a1c5-a606f17a341c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3423"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3423"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196747159,
+        "id": "649a959f-a41d-463a-b64f-eb808738d0ba",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196747159,
+        "parent_id": "ef0d76af-9188-4e07-a1c5-a606f17a341c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196745916,
+        "id": "8cbb6295-1fff-4ce8-bcf3-dca778d08cb9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196746957,
+        "parent_id": "ef0d76af-9188-4e07-a1c5-a606f17a341c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Maps in Go are not safe for concurrency. You must take a lock to read and write to them if you will be accessing them concurrently. Usually the best option is to use "
+            ],
+            [
+              "sync.RWMutex",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " because you can have read and write locks. However, a "
+            ],
+            [
+              "sync.Mutex",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " could also be used."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Maps in Go are not safe for concurrency. You must take a lock to read and write to them if you will be accessing them concurrently. Usually the best option is to use "
+          },
+          {
+            "Text": "sync.RWMutex",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " because you can have read and write locks. However, a "
+          },
+          {
+            "Text": "sync.Mutex",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " could also be used."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156002138,
+        "id": "70259b1e-7e09-46d0-a2dc-eace149b4540",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156002138,
+        "parent_id": "ef0d76af-9188-4e07-a1c5-a606f17a341c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file concurrent_access.go sha1:41dc31b1fd554d4350995ef33153ac361a7085e8 goplayground:wetl0PWoZk_V"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file concurrent_access.go sha1:41dc31b1fd554d4350995ef33153ac361a7085e8 goplayground:wetl0PWoZk_V"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196767448,
+        "id": "bad37680-2043-4fc1-85a4-8f636fd012c0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196767448,
+        "parent_id": "ef0d76af-9188-4e07-a1c5-a606f17a341c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Concurrent access of maps",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

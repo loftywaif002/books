@@ -1,0 +1,311 @@
+{
+  "ID": "18b5addd-ea97-4787-8170-a8de1ad485ac",
+  "Page": {
+    "alive": true,
+    "content": [
+      "c0b4e9b4-1b73-4c64-a1a3-99e5543e554f",
+      "6d648671-eee2-4bc2-906f-538ecc9095d6",
+      "20f526b5-d00c-4421-925e-a19fcbc1ac14",
+      "7b4b100f-d870-4888-9578-fe97494483e2",
+      "8ba1e1e0-2f82-4a98-bf98-127aa3202759",
+      "36562e48-e0b1-4cef-a8e9-620e3ab6553c",
+      "153f8ff9-1382-450f-80f7-a9a396a1ad21",
+      "b742fe09-08c5-4dbe-97de-821d13b88c08",
+      "fd720a96-0fe8-4e73-ba6a-98f1944e52f6"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156207980,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "18b5addd-ea97-4787-8170-a8de1ad485ac",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532212527767,
+    "parent_id": "83dc1f9b-6ec0-4d25-a2d2-e7357b6bebba",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Using Benchmarks to Create Profile"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212513170,
+        "id": "c0b4e9b4-1b73-4c64-a1a3-99e5543e554f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212515918,
+        "parent_id": "18b5addd-ea97-4787-8170-a8de1ad485ac",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 260"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 260"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212515918,
+        "id": "6d648671-eee2-4bc2-906f-538ecc9095d6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212517902,
+        "parent_id": "18b5addd-ea97-4787-8170-a8de1ad485ac",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212517902,
+        "id": "20f526b5-d00c-4421-925e-a19fcbc1ac14",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212520526,
+        "parent_id": "18b5addd-ea97-4787-8170-a8de1ad485ac",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 25548"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 25548"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212521542,
+        "id": "7b4b100f-d870-4888-9578-fe97494483e2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212521542,
+        "parent_id": "18b5addd-ea97-4787-8170-a8de1ad485ac",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212520526,
+        "id": "8ba1e1e0-2f82-4a98-bf98-127aa3202759",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212521312,
+        "parent_id": "18b5addd-ea97-4787-8170-a8de1ad485ac",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For a non-main packages as well as main, "
+            ],
+            [
+              "instead of adding flags inside the code",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              ", write "
+            ],
+            [
+              "benchmarks",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " in the test package , for example:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "For a non-main packages as well as main, "
+          },
+          {
+            "Text": "instead of adding flags inside the code",
+            "AttrFlags": 1
+          },
+          {
+            "Text": ", write "
+          },
+          {
+            "Text": "benchmarks",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " in the test package , for example:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156207979,
+        "id": "36562e48-e0b1-4cef-a8e9-620e3ab6553c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156207979,
+        "parent_id": "18b5addd-ea97-4787-8170-a8de1ad485ac",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "func BenchmarkHello(b *testing.B) {\n    for i := 0; i \u003c b.N; i++ {\n        fmt.Sprintf(\"hello\")\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "func BenchmarkHello(b *testing.B) {\n    for i := 0; i \u003c b.N; i++ {\n        fmt.Sprintf(\"hello\")\n    }\n}",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156207979,
+        "id": "153f8ff9-1382-450f-80f7-a9a396a1ad21",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156207979,
+        "parent_id": "18b5addd-ea97-4787-8170-a8de1ad485ac",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Then run the test with the profile flag"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Then run the test with the profile flag"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156207979,
+        "id": "b742fe09-08c5-4dbe-97de-821d13b88c08",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156207979,
+        "parent_id": "18b5addd-ea97-4787-8170-a8de1ad485ac",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "go test -cpuprofile cpu.prof -bench=."
+            ]
+          ]
+        },
+        "type": "quote",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "go test -cpuprofile cpu.prof -bench=."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156207980,
+        "id": "fd720a96-0fe8-4e73-ba6a-98f1944e52f6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156207980,
+        "parent_id": "18b5addd-ea97-4787-8170-a8de1ad485ac",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "And the benchmarks will be run and create a prof file with filename cpu.prof (in the above example)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "And the benchmarks will be run and create a prof file with filename cpu.prof (in the above example)."
+          }
+        ]
+      }
+    ],
+    "title": "Using Benchmarks to Create Profile",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

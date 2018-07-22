@@ -1,0 +1,373 @@
+{
+  "ID": "d0976f3c-277e-4a6d-a8a3-3a066c1a6410",
+  "Page": {
+    "alive": true,
+    "content": [
+      "7ed6c3c6-a813-47c1-bdb6-6e63d45f3a27",
+      "31003972-be80-4ffe-9f68-9212c3395a87",
+      "0a1d0d0b-da94-4bc7-9a22-0bb51c6fe18a",
+      "636cfbc6-5eaa-49d7-ba9e-eb398461f0cf",
+      "20bc9b45-f92c-4a93-a75b-18950cefe5ab",
+      "9878ef90-05e0-4f3d-8293-ca01e2e2334f",
+      "8ef3e2cf-f28d-4329-9a05-6a3a19c2d007",
+      "8c2cd1a9-418a-49a5-963b-b31ea06e36ff",
+      "d7e97c4f-642c-4ac2-95b9-b49762cf5577",
+      "9dae046d-8937-4540-b7a7-12c6824f1e2e",
+      "414d6dd6-c1d1-4968-a099-a6d6e8893a4e"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156215176,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "d0976f3c-277e-4a6d-a8a3-3a066c1a6410",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532212819153,
+    "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Defining separate behaviors in different platforms"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 30,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212787501,
+        "id": "7ed6c3c6-a813-47c1-bdb6-6e63d45f3a27",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212799093,
+        "parent_id": "d0976f3c-277e-4a6d-a8a3-3a066c1a6410",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 267"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 20,
+        "inline_content": [
+          {
+            "Text": "$Id: 267"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212796370,
+        "id": "31003972-be80-4ffe-9f68-9212c3395a87",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212796706,
+        "parent_id": "d0976f3c-277e-4a6d-a8a3-3a066c1a6410",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 8,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212793345,
+        "id": "0a1d0d0b-da94-4bc7-9a22-0bb51c6fe18a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212793876,
+        "parent_id": "d0976f3c-277e-4a6d-a8a3-3a066c1a6410",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 26889"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 8,
+        "inline_content": [
+          {
+            "Text": "$SOId: 26889"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212791530,
+        "id": "636cfbc6-5eaa-49d7-ba9e-eb398461f0cf",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212791530,
+        "parent_id": "d0976f3c-277e-4a6d-a8a3-3a066c1a6410",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212790250,
+        "id": "20bc9b45-f92c-4a93-a75b-18950cefe5ab",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212791284,
+        "parent_id": "d0976f3c-277e-4a6d-a8a3-3a066c1a6410",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Different platforms can have separate implementations of the same method. This example also illustrates how build tags and file suffixes can be used together."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Different platforms can have separate implementations of the same method. This example also illustrates how build tags and file suffixes can be used together."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156215175,
+        "id": "9878ef90-05e0-4f3d-8293-ca01e2e2334f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156215175,
+        "parent_id": "d0976f3c-277e-4a6d-a8a3-3a066c1a6410",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "File "
+            ],
+            [
+              "main.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "File "
+          },
+          {
+            "Text": "main.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156215175,
+        "id": "8ef3e2cf-f28d-4329-9a05-6a3a19c2d007",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212823829,
+        "parent_id": "d0976f3c-277e-4a6d-a8a3-3a066c1a6410",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport \"fmt\"\n\nfunc main() {\n    fmt.Println(\"Hello World from Conditional Compilation Doc!\")\n    printDetails()\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport \"fmt\"\n\nfunc main() {\n    fmt.Println(\"Hello World from Conditional Compilation Doc!\")\n    printDetails()\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156215175,
+        "id": "8c2cd1a9-418a-49a5-963b-b31ea06e36ff",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156215175,
+        "parent_id": "d0976f3c-277e-4a6d-a8a3-3a066c1a6410",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "details.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "details.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156215175,
+        "id": "d7e97c4f-642c-4ac2-95b9-b49762cf5577",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212826947,
+        "parent_id": "d0976f3c-277e-4a6d-a8a3-3a066c1a6410",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// +build !windows\n\npackage main\n\nimport \"fmt\"\n\nfunc printDetails() {\n    fmt.Println(\"Some specific details that cannot be found on Windows\")\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// +build !windows\n\npackage main\n\nimport \"fmt\"\n\nfunc printDetails() {\n    fmt.Println(\"Some specific details that cannot be found on Windows\")\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156215175,
+        "id": "9dae046d-8937-4540-b7a7-12c6824f1e2e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156215175,
+        "parent_id": "d0976f3c-277e-4a6d-a8a3-3a066c1a6410",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "details_windows.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "details_windows.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156215176,
+        "id": "414d6dd6-c1d1-4968-a099-a6d6e8893a4e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212829779,
+        "parent_id": "d0976f3c-277e-4a6d-a8a3-3a066c1a6410",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport \"fmt\"\n\nfunc printDetails() {\n    fmt.Println(\"Windows specific details\")\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport \"fmt\"\n\nfunc printDetails() {\n    fmt.Println(\"Windows specific details\")\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Defining separate behaviors in different platforms",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

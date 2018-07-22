@@ -1,0 +1,318 @@
+{
+  "ID": "190b9599-b7f8-4ba0-a3c1-ae68c336354c",
+  "Page": {
+    "alive": true,
+    "content": [
+      "5ac25c91-aceb-46ec-af39-7ecfa8d82550",
+      "9fc5d76a-5fac-4e19-a981-16179e481533",
+      "2fa1d2fa-42b6-4af2-bbc0-e32ae4e56af5",
+      "530809e2-ad31-4289-8a0b-89d835baf8e1",
+      "cb3e9344-7086-40d4-a9f5-26a1a98b539f",
+      "a458255e-ebed-4ccf-8c94-83ab47730812",
+      "592f74eb-2bad-41ba-87be-aeb8ea214086"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156083114,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "190b9599-b7f8-4ba0-a3c1-ae68c336354c",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532206379510,
+    "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Package naming best practices"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 26,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206366418,
+        "id": "5ac25c91-aceb-46ec-af39-7ecfa8d82550",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236736384,
+        "parent_id": "190b9599-b7f8-4ba0-a3c1-ae68c336354c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 158"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 158"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206368031,
+        "id": "9fc5d76a-5fac-4e19-a981-16179e481533",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236737658,
+        "parent_id": "190b9599-b7f8-4ba0-a3c1-ae68c336354c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 6680"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 6680"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206369552,
+        "id": "2fa1d2fa-42b6-4af2-bbc0-e32ae4e56af5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206369949,
+        "parent_id": "190b9599-b7f8-4ba0-a3c1-ae68c336354c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156083112,
+        "id": "530809e2-ad31-4289-8a0b-89d835baf8e1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156083112,
+        "parent_id": "190b9599-b7f8-4ba0-a3c1-ae68c336354c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It’s best if package name is the same as the name of last path element of import path."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It’s best if package name is the same as the name of last path element of import path."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156083113,
+        "id": "cb3e9344-7086-40d4-a9f5-26a1a98b539f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156083113,
+        "parent_id": "190b9599-b7f8-4ba0-a3c1-ae68c336354c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If your GitHub account is "
+            ],
+            [
+              "github.com/kjk",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and you’re writing package "
+            ],
+            [
+              "markdown",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", it’s import path should be "
+            ],
+            [
+              "github.com/kjk/markdown",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If your GitHub account is "
+          },
+          {
+            "Text": "github.com/kjk",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and you’re writing package "
+          },
+          {
+            "Text": "markdown",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", it’s import path should be "
+          },
+          {
+            "Text": "github.com/kjk/markdown",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156083114,
+        "id": "a458255e-ebed-4ccf-8c94-83ab47730812",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156083114,
+        "parent_id": "190b9599-b7f8-4ba0-a3c1-ae68c336354c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A common mistake is to include "
+            ],
+            [
+              "go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " as part of import path e.g. naming the package "
+            ],
+            [
+              "markdown",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and giving it import path "
+            ],
+            [
+              "github.com/kjk/go-markdown",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A common mistake is to include "
+          },
+          {
+            "Text": "go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " as part of import path e.g. naming the package "
+          },
+          {
+            "Text": "markdown",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and giving it import path "
+          },
+          {
+            "Text": "github.com/kjk/go-markdown",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206379510,
+        "id": "592f74eb-2bad-41ba-87be-aeb8ea214086",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206379510,
+        "parent_id": "190b9599-b7f8-4ba0-a3c1-ae68c336354c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Package naming best practices",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

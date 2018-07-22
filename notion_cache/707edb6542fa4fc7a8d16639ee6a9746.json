@@ -1,0 +1,490 @@
+{
+  "ID": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
+  "Page": {
+    "alive": true,
+    "content": [
+      "6c8311e7-8133-43eb-a768-8f8b7fa44802",
+      "c7a34a3f-3376-4baf-b68b-ba6554b97510",
+      "0dd664d5-31eb-4687-b8af-bdc4d1f50654",
+      "41cdf6f0-8e5a-47d0-8ad3-a1c91ac890fd",
+      "7e677a4f-edb1-419b-9934-eb226649272e",
+      "3cc2fc18-2a1e-48ef-96c4-29b708611c86",
+      "e9e72bd5-0577-45d2-b536-294897169a9f",
+      "3f70f254-afe6-4685-86ca-45a4cbca6b33",
+      "d2d3c0f7-9101-4e14-9a97-a8006e3950ea",
+      "646bc127-2f7a-4250-9f4f-190beba106dd",
+      "8b7e3279-90d9-40c3-a8c3-b24c478e6d66",
+      "66730f0c-6b5c-4111-bb87-e19ace307e3c"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155945189,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234620297,
+    "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Zero values"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194812364,
+        "id": "6c8311e7-8133-43eb-a768-8f8b7fa44802",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233172241,
+        "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 29"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 29"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194814126,
+        "id": "c7a34a3f-3376-4baf-b68b-ba6554b97510",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233173507,
+        "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 6069"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 6069"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194816585,
+        "id": "0dd664d5-31eb-4687-b8af-bdc4d1f50654",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194816597,
+        "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155945185,
+        "id": "41cdf6f0-8e5a-47d0-8ad3-a1c91ac890fd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155945185,
+        "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Variables in Go are always initialized with a known value even if not explicitly assigned in source code."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Variables in Go are always initialized with a known value even if not explicitly assigned in source code."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155945185,
+        "id": "7e677a4f-edb1-419b-9934-eb226649272e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155945185,
+        "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Each Go type has a zero value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Each Go type has a zero value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155945186,
+        "id": "3cc2fc18-2a1e-48ef-96c4-29b708611c86",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155945186,
+        "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Variables that are not explicitly initialized (assigned an explicit value) will have a value equal to the zero value for their type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Variables that are not explicitly initialized (assigned an explicit value) will have a value equal to the zero value for their type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155945186,
+        "id": "e9e72bd5-0577-45d2-b536-294897169a9f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155945186,
+        "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is different from C/C++, where variables that are not explicitly assigned have undefined values."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is different from C/C++, where variables that are not explicitly assigned have undefined values."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155945186,
+        "id": "3f70f254-afe6-4685-86ca-45a4cbca6b33",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155945186,
+        "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The values of zero type are unsurprising:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The values of zero type are unsurprising:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155945188,
+        "id": "d2d3c0f7-9101-4e14-9a97-a8006e3950ea",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155945188,
+        "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "type"
+            ],
+            [
+              "zero value"
+            ],
+            [
+              "bool"
+            ],
+            [
+              "false"
+            ],
+            [
+              "integers"
+            ],
+            [
+              "0"
+            ],
+            [
+              "floating poing numbers"
+            ],
+            [
+              "0.0"
+            ],
+            [
+              "string"
+            ],
+            [
+              "“”"
+            ],
+            [
+              "pointer"
+            ],
+            [
+              "nil"
+            ],
+            [
+              "slice"
+            ],
+            [
+              "nil"
+            ],
+            [
+              "map"
+            ],
+            [
+              "nil"
+            ],
+            [
+              "interface"
+            ],
+            [
+              "nil"
+            ],
+            [
+              "channel"
+            ],
+            [
+              "nil"
+            ],
+            [
+              "array"
+            ],
+            [
+              "all elements have zero values"
+            ],
+            [
+              "struct"
+            ],
+            [
+              "all members set to zero value of their type"
+            ],
+            [
+              "function"
+            ],
+            [
+              "nil"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "type"
+          },
+          {
+            "Text": "zero value"
+          },
+          {
+            "Text": "bool"
+          },
+          {
+            "Text": "false"
+          },
+          {
+            "Text": "integers"
+          },
+          {
+            "Text": "0"
+          },
+          {
+            "Text": "floating poing numbers"
+          },
+          {
+            "Text": "0.0"
+          },
+          {
+            "Text": "string"
+          },
+          {
+            "Text": "“”"
+          },
+          {
+            "Text": "pointer"
+          },
+          {
+            "Text": "nil"
+          },
+          {
+            "Text": "slice"
+          },
+          {
+            "Text": "nil"
+          },
+          {
+            "Text": "map"
+          },
+          {
+            "Text": "nil"
+          },
+          {
+            "Text": "interface"
+          },
+          {
+            "Text": "nil"
+          },
+          {
+            "Text": "channel"
+          },
+          {
+            "Text": "nil"
+          },
+          {
+            "Text": "array"
+          },
+          {
+            "Text": "all elements have zero values"
+          },
+          {
+            "Text": "struct"
+          },
+          {
+            "Text": "all members set to zero value of their type"
+          },
+          {
+            "Text": "function"
+          },
+          {
+            "Text": "nil"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155945189,
+        "id": "646bc127-2f7a-4250-9f4f-190beba106dd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155945189,
+        "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Said differently:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Said differently:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155945189,
+        "id": "8b7e3279-90d9-40c3-a8c3-b24c478e6d66",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155945189,
+        "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file zero_values.go output sha1:7bed196df8157c429f9c3ad7801b0e69f53485e5 goplayground:9B0IqtjU0RF"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file zero_values.go output sha1:7bed196df8157c429f9c3ad7801b0e69f53485e5 goplayground:9B0IqtjU0RF"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532234620297,
+        "id": "66730f0c-6b5c-4111-bb87-e19ace307e3c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234620297,
+        "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Zero values",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

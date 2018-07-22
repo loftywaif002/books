@@ -1,0 +1,501 @@
+{
+  "ID": "45b65e6b-54af-4a5a-bcef-372212c676d0",
+  "Page": {
+    "alive": true,
+    "content": [
+      "a0a57c33-fd11-4a9d-bd6b-8a9ab6a35a46",
+      "1a5ca39e-bc1c-4de9-88d2-6b74f064bd53",
+      "dba64408-2bdc-48c2-8c95-29e210b2d867",
+      "a3ebead7-8015-48e6-bf01-8a3271b8f9b7",
+      "c426844d-3be7-4421-9026-83891ded2fca",
+      "ec1dadce-2783-4362-8e81-dbdfe791b14a",
+      "fd80022c-75bb-48bd-a09e-4fe2ef2880b3",
+      "4e0f64ec-02a4-4f46-a9e6-ef2f3bba15b9",
+      "941a3ed5-e8e4-409f-98ee-60e14f45430b",
+      "6ed8d32f-452c-4a23-b3e3-59fa42e2a6a7",
+      "e608d33c-b481-4347-92b6-783d79e580ba",
+      "f43661ef-88a9-4003-af15-d28a15b31440",
+      "fc8687aa-a01e-437f-afb7-9d4ed4573ad3"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155958201,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234348162,
+    "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Compare strings"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 37,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195472177,
+        "id": "a0a57c33-fd11-4a9d-bd6b-8a9ab6a35a46",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234322252,
+        "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 42"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 42"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195473723,
+        "id": "1a5ca39e-bc1c-4de9-88d2-6b74f064bd53",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234341894,
+        "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 29828"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 20,
+        "inline_content": [
+          {
+            "Text": "$SOId: 29828"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155958194,
+        "id": "dba64408-2bdc-48c2-8c95-29e210b2d867",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234340642,
+        "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Compare strings with ==, \u003e and \u003c"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 29,
+        "inline_content": [
+          {
+            "Text": "Compare strings with ==, \u003e and \u003c"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155958195,
+        "id": "a3ebead7-8015-48e6-bf01-8a3271b8f9b7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155958195,
+        "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file comparing_strings.go output sha1:9540ac92a6c53c2019488a472f6cefccc1b43fb2 goplayground:qtnZB5CG_A1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file comparing_strings.go output sha1:9540ac92a6c53c2019488a472f6cefccc1b43fb2 goplayground:qtnZB5CG_A1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155958195,
+        "id": "c426844d-3be7-4421-9026-83891ded2fca",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155958195,
+        "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Comparison is performed on raw bytes."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Comparison is performed on raw bytes."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155958195,
+        "id": "ec1dadce-2783-4362-8e81-dbdfe791b14a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234343636,
+        "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This works as you would expect for ascii (i.e. english) text but might not be what you want when strings use mixed case (e.g. “abba” is \u003e “Zorro”) or use letters from non-english alphabets."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 3,
+        "inline_content": [
+          {
+            "Text": "This works as you would expect for ascii (i.e. english) text but might not be what you want when strings use mixed case (e.g. “abba” is \u003e “Zorro”) or use letters from non-english alphabets."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155958195,
+        "id": "fd80022c-75bb-48bd-a09e-4fe2ef2880b3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234336990,
+        "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Compare with "
+            ],
+            [
+              "strings.Compare",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Compare with "
+          },
+          {
+            "Text": "strings.Compare",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155958199,
+        "id": "4e0f64ec-02a4-4f46-a9e6-ef2f3bba15b9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155958199,
+        "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can also compare with "
+            ],
+            [
+              "strings.Compare",
+              [
+                [
+                  "a",
+                  "https://golang.org/pkg/strings/#Compare"
+                ]
+              ]
+            ],
+            [
+              " but use "
+            ],
+            [
+              "==",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "\u003e",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "\u003c",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " instead as it has the same semantics."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can also compare with "
+          },
+          {
+            "Text": "strings.Compare",
+            "Link": "https://golang.org/pkg/strings/#Compare"
+          },
+          {
+            "Text": " but use "
+          },
+          {
+            "Text": "==",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "\u003e",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "\u003c",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " instead as it has the same semantics."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155958200,
+        "id": "941a3ed5-e8e4-409f-98ee-60e14f45430b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155958200,
+        "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Case-insensitive compare"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Case-insensitive compare"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155958200,
+        "id": "6ed8d32f-452c-4a23-b3e3-59fa42e2a6a7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155958200,
+        "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sometimes you want “Go” to equal “go”, which is not the case when using "
+            ],
+            [
+              "==",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". You can do that using "
+            ],
+            [
+              "strings.EqualFold",
+              [
+                [
+                  "a",
+                  "https://golang.org/pkg/strings/#EqualFold"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Sometimes you want “Go” to equal “go”, which is not the case when using "
+          },
+          {
+            "Text": "==",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". You can do that using "
+          },
+          {
+            "Text": "strings.EqualFold",
+            "Link": "https://golang.org/pkg/strings/#EqualFold"
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155958201,
+        "id": "e608d33c-b481-4347-92b6-783d79e580ba",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155958201,
+        "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file comparing_strings2.go output sha1:51339082471b12126cf7caafcb5ade233a384518 goplayground:KiQPmLSCmY4"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file comparing_strings2.go output sha1:51339082471b12126cf7caafcb5ade233a384518 goplayground:KiQPmLSCmY4"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155958201,
+        "id": "f43661ef-88a9-4003-af15-d28a15b31440",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155958201,
+        "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The exact rule is: both string are considered UTF-8-encoded strings and characters are compared using Unicode case-folding."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The exact rule is: both string are considered UTF-8-encoded strings and characters are compared using Unicode case-folding."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532234348162,
+        "id": "fc8687aa-a01e-437f-afb7-9d4ed4573ad3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234348162,
+        "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      }
+    ],
+    "title": "Compare strings",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,217 @@
+{
+  "ID": "bfb8f73b-6fd2-4333-b5a0-de5631d7c38e",
+  "Page": {
+    "alive": true,
+    "content": [
+      "02676161-9910-4cb5-b286-7e6b49f8a2de",
+      "1f6023de-aa2b-4b7c-87f1-f2cfc9bd68c3",
+      "c510cc1b-4ac0-4131-b69c-625a4b5a6e65",
+      "95102fd9-ae9c-4ed7-be2c-35dc883cffcf",
+      "a8dae8bc-08e4-4c47-aa94-d0021ce5e4c9",
+      "acefc1f7-8bf4-41cb-8541-6dc6507698d7"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156272960,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "bfb8f73b-6fd2-4333-b5a0-de5631d7c38e",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532215042855,
+    "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Getting token from HTTP Authorization header"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215025332,
+        "id": "02676161-9910-4cb5-b286-7e6b49f8a2de",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215032904,
+        "parent_id": "bfb8f73b-6fd2-4333-b5a0-de5631d7c38e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 314"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 314"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215027654,
+        "id": "1f6023de-aa2b-4b7c-87f1-f2cfc9bd68c3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215032472,
+        "parent_id": "bfb8f73b-6fd2-4333-b5a0-de5631d7c38e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215028911,
+        "id": "c510cc1b-4ac0-4131-b69c-625a4b5a6e65",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215031872,
+        "parent_id": "bfb8f73b-6fd2-4333-b5a0-de5631d7c38e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 31141"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 31141"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215030711,
+        "id": "95102fd9-ae9c-4ed7-be2c-35dc883cffcf",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215031184,
+        "parent_id": "bfb8f73b-6fd2-4333-b5a0-de5631d7c38e",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156272958,
+        "id": "a8dae8bc-08e4-4c47-aa94-d0021ce5e4c9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215045976,
+        "parent_id": "bfb8f73b-6fd2-4333-b5a0-de5631d7c38e",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type contextKey string\n\nconst (\n    // JWTTokenContextKey holds the key used to store a JWT Token in the\n    // context.\n    JWTTokenContextKey contextKey = \"JWTToken\"\n\n    // JWTClaimsContextKey holds the key used to store the JWT Claims in the\n    // context.\n    JWTClaimsContextKey contextKey = \"JWTClaims\"\n)\n\n// ToHTTPContext moves JWT token from request header to context.\nfunc ToHTTPContext() http.RequestFunc {\n    return func(ctx context.Context, r *stdhttp.Request) context.Context {\n        token, ok := extractTokenFromAuthHeader(r.Header.Get(\"Authorization\"))\n        if !ok {\n            return ctx\n        }\n\n        return context.WithValue(ctx, JWTTokenContextKey, token)\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type contextKey string\n\nconst (\n    // JWTTokenContextKey holds the key used to store a JWT Token in the\n    // context.\n    JWTTokenContextKey contextKey = \"JWTToken\"\n\n    // JWTClaimsContextKey holds the key used to store the JWT Claims in the\n    // context.\n    JWTClaimsContextKey contextKey = \"JWTClaims\"\n)\n\n// ToHTTPContext moves JWT token from request header to context.\nfunc ToHTTPContext() http.RequestFunc {\n    return func(ctx context.Context, r *stdhttp.Request) context.Context {\n        token, ok := extractTokenFromAuthHeader(r.Header.Get(\"Authorization\"))\n        if !ok {\n            return ctx\n        }\n\n        return context.WithValue(ctx, JWTTokenContextKey, token)\n    }\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156272960,
+        "id": "acefc1f7-8bf4-41cb-8541-6dc6507698d7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156272960,
+        "parent_id": "bfb8f73b-6fd2-4333-b5a0-de5631d7c38e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "(From "
+            ],
+            [
+              "go-kit/kit",
+              [
+                [
+                  "a",
+                  "https://github.com/go-kit/kit/blob/master/auth/jwt/transport.go"
+                ]
+              ]
+            ],
+            [
+              ", courtesy of Peter Bourgon)"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "(From "
+          },
+          {
+            "Text": "go-kit/kit",
+            "Link": "https://github.com/go-kit/kit/blob/master/auth/jwt/transport.go"
+          },
+          {
+            "Text": ", courtesy of Peter Bourgon)"
+          }
+        ]
+      }
+    ],
+    "title": "Getting token from HTTP Authorization header",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

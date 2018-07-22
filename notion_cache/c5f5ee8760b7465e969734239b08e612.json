@@ -1,0 +1,390 @@
+{
+  "ID": "c5f5ee87-60b7-465e-9697-34239b08e612",
+  "Page": {
+    "alive": true,
+    "content": [
+      "8b976b48-812d-44ed-a263-9c5106cceabc",
+      "fb394b9a-4586-40e7-a57d-c05272c639ca",
+      "ba412d3b-d949-4947-85af-9f98993d3684",
+      "6e9829fb-d1cb-4ef8-aab1-0296e792dd13",
+      "6496955a-8126-4b20-9933-49eb726748af",
+      "cebc501c-8859-4d95-9f81-ef68620412ad",
+      "cb51fd74-d333-4001-a9f5-72e7fb21b0e7",
+      "47f349be-be3c-4ae2-a9e8-d079a4b8b4a8",
+      "2382dc4e-4b0b-492c-b005-da123b736481",
+      "c71c0a32-512c-41f0-8bb5-0bad90f90916"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156004155,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "c5f5ee87-60b7-465e-9697-34239b08e612",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235324918,
+    "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Basic declaration"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196824820,
+        "id": "8b976b48-812d-44ed-a263-9c5106cceabc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235325755,
+        "parent_id": "c5f5ee87-60b7-465e-9697-34239b08e612",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 81"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 81"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196827353,
+        "id": "fb394b9a-4586-40e7-a57d-c05272c639ca",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235326544,
+        "parent_id": "c5f5ee87-60b7-465e-9697-34239b08e612",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1254"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1254"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196831020,
+        "id": "ba412d3b-d949-4947-85af-9f98993d3684",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196831020,
+        "parent_id": "c5f5ee87-60b7-465e-9697-34239b08e612",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196828878,
+        "id": "6e9829fb-d1cb-4ef8-aab1-0296e792dd13",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196829855,
+        "parent_id": "c5f5ee87-60b7-465e-9697-34239b08e612",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A basic struct is declared as follows:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "A basic struct is declared as follows:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156004154,
+        "id": "6496955a-8126-4b20-9933-49eb726748af",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156004154,
+        "parent_id": "c5f5ee87-60b7-465e-9697-34239b08e612",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file declaring_structs.go output sha1:4ecaedf9b0c9c347afebac3d046cee4d9b4bfee6 goplayground:iF8rNujJcx6"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file declaring_structs.go output sha1:4ecaedf9b0c9c347afebac3d046cee4d9b4bfee6 goplayground:iF8rNujJcx6"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156004155,
+        "id": "cebc501c-8859-4d95-9f81-ef68620412ad",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156004155,
+        "parent_id": "c5f5ee87-60b7-465e-9697-34239b08e612",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Each value is called a field."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Each value is called a field."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156004155,
+        "id": "cb51fd74-d333-4001-a9f5-72e7fb21b0e7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156004155,
+        "parent_id": "c5f5ee87-60b7-465e-9697-34239b08e612",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Fields are usually written one per line, with the field’s name preceeding its type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Fields are usually written one per line, with the field’s name preceeding its type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156004155,
+        "id": "47f349be-be3c-4ae2-a9e8-d079a4b8b4a8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156004155,
+        "parent_id": "c5f5ee87-60b7-465e-9697-34239b08e612",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Consecutive fields of the same type may be combined, as "
+            ],
+            [
+              "FirstName",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "LastName",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in the above example."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Consecutive fields of the same type may be combined, as "
+          },
+          {
+            "Text": "FirstName",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "LastName",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in the above example."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156004155,
+        "id": "2382dc4e-4b0b-492c-b005-da123b736481",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156004155,
+        "parent_id": "c5f5ee87-60b7-465e-9697-34239b08e612",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Field names that start with upper case ("
+            ],
+            [
+              "FirstName",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "Email",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ") are public i.e. accesible by all code."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Field names that start with upper case ("
+          },
+          {
+            "Text": "FirstName",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "Email",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ") are public i.e. accesible by all code."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156004155,
+        "id": "c71c0a32-512c-41f0-8bb5-0bad90f90916",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156004155,
+        "parent_id": "c5f5ee87-60b7-465e-9697-34239b08e612",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Field names that start with lower case ("
+            ],
+            [
+              "userID",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ") are private and only accessible by code in the same package."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Field names that start with lower case ("
+          },
+          {
+            "Text": "userID",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ") are private and only accessible by code in the same package."
+          }
+        ]
+      }
+    ],
+    "title": "Basic declaration",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,215 @@
+{
+  "ID": "2daca7f7-0f3b-4ee2-ab55-07253ce7851f",
+  "Page": {
+    "alive": true,
+    "content": [
+      "94657105-42ed-4f04-aee0-8893b7cd4ff9",
+      "b44a6595-9c78-45d1-969b-5085165f332c",
+      "c78d87af-ae55-45ce-9a6b-e5aba689b3a9",
+      "2bf3d919-f503-473a-b956-14ff0da36b7f",
+      "e6e42213-109b-43cb-8424-0116fa634245",
+      "ef10b860-2fa7-4cf3-ac3c-35a7ad34b518"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156214187,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "2daca7f7-0f3b-4ee2-ab55-07253ce7851f",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532212773824,
+    "parent_id": "46593e7f-95ef-4e47-bfa6-0b882cb71c93",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "File suffix"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212754924,
+        "id": "94657105-42ed-4f04-aee0-8893b7cd4ff9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212756928,
+        "parent_id": "2daca7f7-0f3b-4ee2-ab55-07253ce7851f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 266"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 266"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212756928,
+        "id": "b44a6595-9c78-45d1-969b-5085165f332c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212758765,
+        "parent_id": "2daca7f7-0f3b-4ee2-ab55-07253ce7851f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212758765,
+        "id": "c78d87af-ae55-45ce-9a6b-e5aba689b3a9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212760632,
+        "parent_id": "2daca7f7-0f3b-4ee2-ab55-07253ce7851f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 26888"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 26888"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212762695,
+        "id": "2bf3d919-f503-473a-b956-14ff0da36b7f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212762695,
+        "parent_id": "2daca7f7-0f3b-4ee2-ab55-07253ce7851f",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212760632,
+        "id": "e6e42213-109b-43cb-8424-0116fa634245",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212762248,
+        "parent_id": "2daca7f7-0f3b-4ee2-ab55-07253ce7851f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you name your file "
+            ],
+            [
+              "lib_linux.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", all the content in that file will only be compiled in linux environments:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "If you name your file "
+          },
+          {
+            "Text": "lib_linux.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", all the content in that file will only be compiled in linux environments:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156214187,
+        "id": "ef10b860-2fa7-4cf3-ac3c-35a7ad34b518",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212768264,
+        "parent_id": "2daca7f7-0f3b-4ee2-ab55-07253ce7851f",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package lib\n\nvar OnlyCompiledInLinux string"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package lib\n\nvar OnlyCompiledInLinux string",
+        "code_language": "Go"
+      }
+    ],
+    "title": "File suffix",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

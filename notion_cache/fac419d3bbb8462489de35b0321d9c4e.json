@@ -1,0 +1,271 @@
+{
+  "ID": "fac419d3-bbb8-4624-89de-35b0321d9c4e",
+  "Page": {
+    "alive": true,
+    "content": [
+      "8f2376a0-7964-4235-98ab-7d05a72cd3da",
+      "fbbe328b-c945-4e7a-a1b5-42120143b52a",
+      "5911bb29-931d-40c4-b211-b67a17c188d7",
+      "22e594a2-1be3-4c08-8c81-6efd1877b353",
+      "2c2d5711-48ae-4e9d-a9c7-2ec18ea1d928",
+      "35aaa39c-cc7e-4599-a9b1-7a4259204704",
+      "f05e1fb8-985f-48cf-b8b9-ddbd256fac12",
+      "4ebb48d3-f2f0-4127-a1c9-7ed7b1053cf1"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156264158,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "fac419d3-bbb8-4624-89de-35b0321d9c4e",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532214915908,
+    "parent_id": "307fa1e6-11a1-4819-9b56-b002fddddb27",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Creating, signing, and encoding a JWT token using the HMAC signing method"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214896823,
+        "id": "8f2376a0-7964-4235-98ab-7d05a72cd3da",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214905004,
+        "parent_id": "fac419d3-bbb8-4624-89de-35b0321d9c4e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 311"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 311"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214898483,
+        "id": "fbbe328b-c945-4e7a-a1b5-42120143b52a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214904453,
+        "parent_id": "fac419d3-bbb8-4624-89de-35b0321d9c4e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 0"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214899891,
+        "id": "5911bb29-931d-40c4-b211-b67a17c188d7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214903508,
+        "parent_id": "fac419d3-bbb8-4624-89de-35b0321d9c4e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 31138"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 31138"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532214901850,
+        "id": "22e594a2-1be3-4c08-8c81-6efd1877b353",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214901861,
+        "parent_id": "fac419d3-bbb8-4624-89de-35b0321d9c4e",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156264157,
+        "id": "2c2d5711-48ae-4e9d-a9c7-2ec18ea1d928",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532214918689,
+        "parent_id": "fac419d3-bbb8-4624-89de-35b0321d9c4e",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "// Create a new token object, specifying signing method and the claims\n// you would like it to contain.\ntoken := jwt.NewWithClaims(jwt.SigningMethodHS256, jwt.MapClaims{\n    \"foo\": \"bar\",\n    \"nbf\": time.Date(2015, 10, 10, 12, 0, 0, 0, time.UTC).Unix(),\n})\n\n// Sign and get the complete encoded token as a string using the secret\ntokenString, err := token.SignedString(hmacSampleSecret)\n\nfmt.Println(tokenString, err)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "// Create a new token object, specifying signing method and the claims\n// you would like it to contain.\ntoken := jwt.NewWithClaims(jwt.SigningMethodHS256, jwt.MapClaims{\n    \"foo\": \"bar\",\n    \"nbf\": time.Date(2015, 10, 10, 12, 0, 0, 0, time.UTC).Unix(),\n})\n\n// Sign and get the complete encoded token as a string using the secret\ntokenString, err := token.SignedString(hmacSampleSecret)\n\nfmt.Println(tokenString, err)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156264157,
+        "id": "35aaa39c-cc7e-4599-a9b1-7a4259204704",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156264157,
+        "parent_id": "fac419d3-bbb8-4624-89de-35b0321d9c4e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Output:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Output:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156264157,
+        "id": "f05e1fb8-985f-48cf-b8b9-ddbd256fac12",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156264157,
+        "parent_id": "fac419d3-bbb8-4624-89de-35b0321d9c4e",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmb28iOiJiYXIiLCJuYmYiOjE0NDQ0Nzg0MDB9.u1riaD1rW97opCoAuRCTy4w58Br-Zk-bh7vLiRIsrpU \u003cnil\u003e"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 1,
+        "code": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmb28iOiJiYXIiLCJuYmYiOjE0NDQ0Nzg0MDB9.u1riaD1rW97opCoAuRCTy4w58Br-Zk-bh7vLiRIsrpU \u003cnil\u003e",
+        "code_language": "Plain Text"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156264158,
+        "id": "4ebb48d3-f2f0-4127-a1c9-7ed7b1053cf1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156264158,
+        "parent_id": "fac419d3-bbb8-4624-89de-35b0321d9c4e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "(From the "
+            ],
+            [
+              "documentation",
+              [
+                [
+                  "a",
+                  "https://godoc.org/github.com/dgrijalva/jwt-go#ex-New--Hmac"
+                ]
+              ]
+            ],
+            [
+              ", courtesy of Dave Grijalva.)"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "(From the "
+          },
+          {
+            "Text": "documentation",
+            "Link": "https://godoc.org/github.com/dgrijalva/jwt-go#ex-New--Hmac"
+          },
+          {
+            "Text": ", courtesy of Dave Grijalva.)"
+          }
+        ]
+      }
+    ],
+    "title": "Creating, signing, and encoding a JWT token using the HMAC signing method",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,253 @@
+{
+  "ID": "323e5881-a349-496d-96ab-e51bc755b4cb",
+  "Page": {
+    "alive": true,
+    "content": [
+      "5beb111d-ad96-4e62-85eb-66537b070c86",
+      "bd0688bc-c67d-4cbd-a041-297b40eae6ed",
+      "82714956-2997-4981-9910-d3aa4c6ba5be",
+      "0e0d632d-023c-4963-be57-046856e8ad3d",
+      "71d1f119-544f-4c33-8611-b7a620e4318c",
+      "b023d9b1-c087-4c5e-840b-6226dc525466"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156165143,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "323e5881-a349-496d-96ab-e51bc755b4cb",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532210825702,
+    "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "reflect.Kind"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210812547,
+        "id": "5beb111d-ad96-4e62-85eb-66537b070c86",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210816246,
+        "parent_id": "323e5881-a349-496d-96ab-e51bc755b4cb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 229"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 229"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210816246,
+        "id": "bd0688bc-c67d-4cbd-a041-297b40eae6ed",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210819413,
+        "parent_id": "323e5881-a349-496d-96ab-e51bc755b4cb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: rd6000hd"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: rd6000hd"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210820156,
+        "id": "82714956-2997-4981-9910-d3aa4c6ba5be",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210820169,
+        "parent_id": "323e5881-a349-496d-96ab-e51bc755b4cb",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156165142,
+        "id": "0e0d632d-023c-4963-be57-046856e8ad3d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156165142,
+        "parent_id": "323e5881-a349-496d-96ab-e51bc755b4cb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Function "
+            ],
+            [
+              "Kind()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " on "
+            ],
+            [
+              "reflect.Value",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " returns "
+            ],
+            [
+              "reflect.Kind",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " type describing type of the value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Function "
+          },
+          {
+            "Text": "Kind()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " on "
+          },
+          {
+            "Text": "reflect.Value",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " returns "
+          },
+          {
+            "Text": "reflect.Kind",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " type describing type of the value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156165143,
+        "id": "71d1f119-544f-4c33-8611-b7a620e4318c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156165143,
+        "parent_id": "323e5881-a349-496d-96ab-e51bc755b4cb",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here are all possible values:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Here are all possible values:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156165143,
+        "id": "b023d9b1-c087-4c5e-840b-6226dc525466",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210829882,
+        "parent_id": "323e5881-a349-496d-96ab-e51bc755b4cb",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "type Kind uint\n\nconst (\n    Invalid Kind = iota\n    Bool\n    Int\n    Int8\n    Int16\n    Int32\n    Int64\n    Uint\n    Uint8\n    Uint16\n    Uint32\n    Uint64\n    Uintptr\n    Float32\n    Float64\n    Complex64\n    Complex128\n    Array\n    Chan\n    Func\n    Interface\n    Map\n    Ptr\n    Slice\n    String\n    Struct\n    UnsafePointer\n)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "type Kind uint\n\nconst (\n    Invalid Kind = iota\n    Bool\n    Int\n    Int8\n    Int16\n    Int32\n    Int64\n    Uint\n    Uint8\n    Uint16\n    Uint32\n    Uint64\n    Uintptr\n    Float32\n    Float64\n    Complex64\n    Complex128\n    Array\n    Chan\n    Func\n    Interface\n    Map\n    Ptr\n    Slice\n    String\n    Struct\n    UnsafePointer\n)",
+        "code_language": "Go"
+      }
+    ],
+    "title": "reflect.Kind",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

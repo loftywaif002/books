@@ -1,0 +1,1676 @@
+{
+  "ID": "05239fc0-69c3-463d-abc5-32b9d808612e",
+  "Page": {
+    "alive": true,
+    "content": [
+      "6b94bbce-9739-424a-97c7-d4426e9c12c0",
+      "d2cdcb8d-05b8-467b-b680-b618505bc32b",
+      "64ac9a29-3f59-42ec-8aa4-789d072e04bf",
+      "fec62f76-1d96-4e0c-bc0a-756b45b4f02f",
+      "f8b12d82-b786-41a8-88f2-5d690e650ee0",
+      "36c2b9b0-8e5b-4a07-845b-2a24d1644431",
+      "b157e52e-85f9-417e-b5aa-8cfc5e187ab5",
+      "7f8bcf04-6954-46c1-ae4d-22db9b847d6f",
+      "b25f07ac-7152-47bf-b86f-2d6152105355",
+      "f476a2af-fd0e-4741-99f5-8d14a3e90e30",
+      "ba10b3e2-7e68-4e40-95fc-b45c403ca89f",
+      "795db8e1-0a2e-4e2d-b480-3ae727e339e9",
+      "cec76dcb-8142-4682-9428-3c557471aa1c",
+      "d541062c-03f3-4660-bb63-befec1b6da6e",
+      "cf3f187d-d525-49e7-94c8-1afd9b7d57a4",
+      "2453f13f-7ee0-4226-b1e4-933a3ac4ada9",
+      "c43734fe-18a0-41be-ba3f-0bd121415ddb",
+      "bda6da63-9d22-4e49-818d-ca0d438cf4c7",
+      "16afc41e-e706-4b07-8e51-6f5ee62926e7",
+      "fcfa5120-732a-4006-8e7e-956b7b68d352",
+      "7a28b9c7-d394-49d3-8397-cf77b0d83d9b",
+      "be768aef-c97b-4656-baf9-123d9ca58d79",
+      "7b499381-a8ae-494a-82c4-299220b1f2f1",
+      "ad0dab96-a9a1-4545-937c-2110eb885a97",
+      "9f4ce6b4-1dff-43f0-946d-335f884f2667",
+      "9ee806e5-866f-4504-ba14-ab1297aa4034",
+      "6e4400cc-9393-4b59-a6bc-f4fd7a2d4cb5",
+      "c119dae6-d298-4cc5-91e2-336d9cdb7d34",
+      "088a1755-aa58-4ab8-8a5e-3116dec90d48",
+      "f05e6444-544a-4ee3-8bf9-3e4382486ddc",
+      "6ed6e5bf-8e16-4666-8c48-6fe89a55a895",
+      "75a42f88-cc8d-4f81-9b52-fb15235134a5",
+      "a7040b16-3c27-4677-ac73-879753242126",
+      "fc9a4a7a-4680-4d04-bdd1-d12d50313e6e",
+      "5281c7f2-5c62-4bf3-91a6-7c1816512ddb",
+      "bae573f8-76a2-4fde-a273-e79cf9a7c0fb",
+      "c9a15535-8087-4026-8862-cc380a4a6d63",
+      "8c792edf-06f2-427e-afbb-032c8d9889c7",
+      "ade3548e-4e9e-4eab-88da-9d45df3e910c",
+      "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+      "49e0d8b7-9e2d-4347-98e8-f4e42e6d1e7e"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156096136,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207086381,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Parse command line arguments"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207068068,
+        "id": "6b94bbce-9739-424a-97c7-d4426e9c12c0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207089483,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Search: flags"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Search: flags"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207070644,
+        "id": "d2cdcb8d-05b8-467b-b680-b618505bc32b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207073939,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 171"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 171"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207073939,
+        "id": "64ac9a29-3f59-42ec-8aa4-789d072e04bf",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207078380,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4023"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4023"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207078380,
+        "id": "fec62f76-1d96-4e0c-bc0a-756b45b4f02f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207078886,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096128,
+        "id": "f8b12d82-b786-41a8-88f2-5d690e650ee0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096128,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Package "
+            ],
+            [
+              "flag",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/flag/"
+                ]
+              ]
+            ],
+            [
+              " in standard library is for parsing cmd-line arguments:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Package "
+          },
+          {
+            "Text": "flag",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/flag/"
+          },
+          {
+            "Text": " in standard library is for parsing cmd-line arguments:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096128,
+        "id": "36c2b9b0-8e5b-4a07-845b-2a24d1644431",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096128,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index.go output noplayground"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096128,
+        "id": "b157e52e-85f9-417e-b5aa-8cfc5e187ab5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096128,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Output above is a result of calling "
+            ],
+            [
+              "go run $file -echo echo-arg additional arg",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Output above is a result of calling "
+          },
+          {
+            "Text": "go run $file -echo echo-arg additional arg",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096128,
+        "id": "7f8bcf04-6954-46c1-ae4d-22db9b847d6f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096128,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Defining arguments"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Defining arguments"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096129,
+        "id": "b25f07ac-7152-47bf-b86f-2d6152105355",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096129,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Let’s say your program has an integer "
+            ],
+            [
+              "-retries",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " option."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Let’s say your program has an integer "
+          },
+          {
+            "Text": "-retries",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " option."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096129,
+        "id": "f476a2af-fd0e-4741-99f5-8d14a3e90e30",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096129,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You register such option with "
+            ],
+            [
+              "flag",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package using:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You register such option with "
+          },
+          {
+            "Text": "flag",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package using:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096129,
+        "id": "ba10b3e2-7e68-4e40-95fc-b45c403ca89f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236999290,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var flgRetries int\ndefaultRetries := 0\nusage := \"retries specifies number of times to retry the operation\"\nflag.IntVar(\u0026flgRetries, \"retries\", defaultRetries, usage)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var flgRetries int\ndefaultRetries := 0\nusage := \"retries specifies number of times to retry the operation\"\nflag.IntVar(\u0026flgRetries, \"retries\", defaultRetries, usage)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096129,
+        "id": "795db8e1-0a2e-4e2d-b480-3ae727e339e9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096129,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "There are functions for other common types:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "There are functions for other common types:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096130,
+        "id": "cec76dcb-8142-4682-9428-3c557471aa1c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096130,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "flag.BoolVar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "flag.BoolVar",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096130,
+        "id": "d541062c-03f3-4660-bb63-befec1b6da6e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096130,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "flag.DurationVar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "flag.DurationVar",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096130,
+        "id": "cf3f187d-d525-49e7-94c8-1afd9b7d57a4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096130,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "flag.Float64Var",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "flag.Float64Var",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096131,
+        "id": "2453f13f-7ee0-4226-b1e4-933a3ac4ada9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096131,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "flag.IntVar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "flag.UIntVar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "flag.Int64Var",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", "
+            ],
+            [
+              "flag.UInt64Var",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "flag.IntVar",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "flag.UIntVar",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "flag.Int64Var",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", "
+          },
+          {
+            "Text": "flag.UInt64Var",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096131,
+        "id": "c43734fe-18a0-41be-ba3f-0bd121415ddb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096131,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "flag.StringVar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "flag.StringVar",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096131,
+        "id": "bda6da63-9d22-4e49-818d-ca0d438cf4c7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096131,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you register int argument with name "
+            ],
+            [
+              "retries",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", the way to provide it on cmd-line is "
+            ],
+            [
+              "-retries ${value}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "-retries=${value}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you register int argument with name "
+          },
+          {
+            "Text": "retries",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", the way to provide it on cmd-line is "
+          },
+          {
+            "Text": "-retries ${value}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "-retries=${value}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096131,
+        "id": "16afc41e-e706-4b07-8e51-6f5ee62926e7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096131,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "POSIX variant "
+            ],
+            [
+              "--retries",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or Windows variant "
+            ],
+            [
+              "/retries",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " are "
+            ],
+            [
+              "not",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " recognized."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "POSIX variant "
+          },
+          {
+            "Text": "--retries",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or Windows variant "
+          },
+          {
+            "Text": "/retries",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " are "
+          },
+          {
+            "Text": "not",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " recognized."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096131,
+        "id": "fcfa5120-732a-4006-8e7e-956b7b68d352",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096131,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For boolean values you can say: "
+            ],
+            [
+              "-help",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " (implicitly true), "
+            ],
+            [
+              "-help=true",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "-help=false",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For boolean values you can say: "
+          },
+          {
+            "Text": "-help",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " (implicitly true), "
+          },
+          {
+            "Text": "-help=true",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "-help=false",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096132,
+        "id": "7a28b9c7-d394-49d3-8397-cf77b0d83d9b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096132,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "-help false",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is not a valid form for boolean variables."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "-help false",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is not a valid form for boolean variables."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096132,
+        "id": "be768aef-c97b-4656-baf9-123d9ca58d79",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096132,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Parsing and accessing remaining arguments"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Parsing and accessing remaining arguments"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096132,
+        "id": "7b499381-a8ae-494a-82c4-299220b1f2f1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096132,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "After parsing arguments, call "
+            ],
+            [
+              "flag.Parse()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "After parsing arguments, call "
+          },
+          {
+            "Text": "flag.Parse()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096132,
+        "id": "ad0dab96-a9a1-4545-937c-2110eb885a97",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096132,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Parsing fails if:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Parsing fails if:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096132,
+        "id": "9f4ce6b4-1dff-43f0-946d-335f884f2667",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096132,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "unknown flag was given on command-line"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "unknown flag was given on command-line"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096132,
+        "id": "9ee806e5-866f-4504-ba14-ab1297aa4034",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096132,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "a flag didn’t parse based on its type (e.g. it was registered as int but the value was not a valid number)"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "a flag didn’t parse based on its type (e.g. it was registered as int but the value was not a valid number)"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096133,
+        "id": "6e4400cc-9393-4b59-a6bc-f4fd7a2d4cb5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096133,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In case of failure, help text describing flags is shown and program exits with error code 2."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In case of failure, help text describing flags is shown and program exits with error code 2."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096133,
+        "id": "c119dae6-d298-4cc5-91e2-336d9cdb7d34",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096133,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can explicitly print help text using "
+            ],
+            [
+              "flag.Usage()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". This is often triggered by "
+            ],
+            [
+              "-help",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " flag."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can explicitly print help text using "
+          },
+          {
+            "Text": "flag.Usage()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". This is often triggered by "
+          },
+          {
+            "Text": "-help",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " flag."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096133,
+        "id": "088a1755-aa58-4ab8-8a5e-3116dec90d48",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096133,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Help text is based on usage text provided in "
+            ],
+            [
+              "flag.IntVar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and others."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Help text is based on usage text provided in "
+          },
+          {
+            "Text": "flag.IntVar",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and others."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096133,
+        "id": "f05e6444-544a-4ee3-8bf9-3e4382486ddc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096133,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Command-line arguments that don’t start with "
+            ],
+            [
+              "-",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " are untouched and can be accessed with "
+            ],
+            [
+              "flag.Args()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Command-line arguments that don’t start with "
+          },
+          {
+            "Text": "-",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " are untouched and can be accessed with "
+          },
+          {
+            "Text": "flag.Args()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096133,
+        "id": "6ed6e5bf-8e16-4666-8c48-6fe89a55a895",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096133,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Limitations"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Limitations"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096134,
+        "id": "75a42f88-cc8d-4f81-9b52-fb15235134a5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096134,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Features missing from "
+            ],
+            [
+              "flag",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " package:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Features missing from "
+          },
+          {
+            "Text": "flag",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " package:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096134,
+        "id": "a7040b16-3c27-4677-ac73-879753242126",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096134,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "no support for POSIX style "
+            ],
+            [
+              "--name",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", only "
+            ],
+            [
+              "-name",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is supported"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "no support for POSIX style "
+          },
+          {
+            "Text": "--name",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", only "
+          },
+          {
+            "Text": "-name",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is supported"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096134,
+        "id": "fc9a4a7a-4680-4d04-bdd1-d12d50313e6e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096134,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "no support for short alternatives e.g. "
+            ],
+            [
+              "-n",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " being synonym with "
+            ],
+            [
+              "--name",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "no support for short alternatives e.g. "
+          },
+          {
+            "Text": "-n",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " being synonym with "
+          },
+          {
+            "Text": "--name",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096135,
+        "id": "5281c7f2-5c62-4bf3-91a6-7c1816512ddb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096135,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "no suport for Windows style "
+            ],
+            [
+              "/name",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "no suport for Windows style "
+          },
+          {
+            "Text": "/name",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096135,
+        "id": "bae573f8-76a2-4fde-a273-e79cf9a7c0fb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096135,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you need those features, your options are:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you need those features, your options are:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096135,
+        "id": "c9a15535-8087-4026-8862-cc380a4a6d63",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236988605,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "access "
+            ],
+            [
+              "raw cmd-line arguments",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Raw-access-to-command-line-arguments-38aac629ecf147c1b0563b754b1cbd69"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "access "
+          },
+          {
+            "Text": "raw cmd-line arguments",
+            "Link": "https://www.notion.so/kjkpublic/Raw-access-to-command-line-arguments-38aac629ecf147c1b0563b754b1cbd69"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156096136,
+        "id": "8c792edf-06f2-427e-afbb-032c8d9889c7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156096136,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "use a "
+            ],
+            [
+              "third party library",
+              [
+                [
+                  "a",
+                  "173"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "use a "
+          },
+          {
+            "Text": "third party library",
+            "Link": "173"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207055514,
+        "id": "ade3548e-4e9e-4eab-88da-9d45df3e910c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207055994,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156097123,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207122547,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Raw access to command line arguments"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Raw access to command line arguments",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156099993,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "49e0d8b7-9e2d-4347-98e8-f4e42e6d1e7e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207151426,
+        "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Libraries for advanced parsing of command-line arguments"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Libraries for advanced parsing of command-line arguments",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Parse command line arguments",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

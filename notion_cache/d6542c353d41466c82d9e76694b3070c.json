@@ -1,0 +1,326 @@
+{
+  "ID": "d6542c35-3d41-466c-82d9-e76694b3070c",
+  "Page": {
+    "alive": true,
+    "content": [
+      "7509b51f-038b-406b-932b-cf9fe396d796",
+      "7f3fca8f-d3ab-47fa-b350-1cde6a43d947",
+      "9cd48cb5-2ea9-4a20-9467-fe42b6fb6f7a",
+      "e5c9b142-2a3e-40ab-a01b-3093c025e339",
+      "237d8c7a-737b-4fa8-819b-8d3e643677b6",
+      "732fe2ca-48a8-4d7e-b1c9-93175eeb68b7",
+      "0267f7be-aac3-4912-88ee-d05811adebbc",
+      "06bbc012-2271-4253-955a-3a71456c2421",
+      "38b46a41-39e6-4ff6-885f-1f2f4ed872df",
+      "4891c950-ca88-4575-9006-b7acbf12c3d0"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155968178,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "d6542c35-3d41-466c-82d9-e76694b3070c",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234421570,
+    "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Read file line by line"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195718616,
+        "id": "7509b51f-038b-406b-932b-cf9fe396d796",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234422307,
+        "parent_id": "d6542c35-3d41-466c-82d9-e76694b3070c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 49"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 49"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195720401,
+        "id": "7f3fca8f-d3ab-47fa-b350-1cde6a43d947",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234423030,
+        "parent_id": "d6542c35-3d41-466c-82d9-e76694b3070c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 5eq100ld"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 5eq100ld"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195723195,
+        "id": "9cd48cb5-2ea9-4a20-9467-fe42b6fb6f7a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195723206,
+        "parent_id": "d6542c35-3d41-466c-82d9-e76694b3070c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155968174,
+        "id": "e5c9b142-2a3e-40ab-a01b-3093c025e339",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155968174,
+        "parent_id": "d6542c35-3d41-466c-82d9-e76694b3070c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Often we need to read a file line by line."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Often we need to read a file line by line."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155968174,
+        "id": "237d8c7a-737b-4fa8-819b-8d3e643677b6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155968174,
+        "parent_id": "d6542c35-3d41-466c-82d9-e76694b3070c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Read file into memory and split into lines"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Read file into memory and split into lines"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155968174,
+        "id": "732fe2ca-48a8-4d7e-b1c9-93175eeb68b7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155968174,
+        "parent_id": "d6542c35-3d41-466c-82d9-e76694b3070c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file read_file_as_lines.go output sha1:5aefd1e7d42fc700b0d037708467351d7ae1b6fa goplayground:g0N-gfT4K2Z"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file read_file_as_lines.go output sha1:5aefd1e7d42fc700b0d037708467351d7ae1b6fa goplayground:g0N-gfT4K2Z"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155968174,
+        "id": "0267f7be-aac3-4912-88ee-d05811adebbc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155968174,
+        "parent_id": "d6542c35-3d41-466c-82d9-e76694b3070c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Iterate over lines in a file"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Iterate over lines in a file"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155968174,
+        "id": "06bbc012-2271-4253-955a-3a71456c2421",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155968174,
+        "parent_id": "d6542c35-3d41-466c-82d9-e76694b3070c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It’s more efficient to only process one line at a time, as opposed to reading the whole file into memory."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It’s more efficient to only process one line at a time, as opposed to reading the whole file into memory."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155968178,
+        "id": "38b46a41-39e6-4ff6-885f-1f2f4ed872df",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155968178,
+        "parent_id": "d6542c35-3d41-466c-82d9-e76694b3070c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can do that using "
+            ],
+            [
+              "bufio.Scanner",
+              [
+                [
+                  "c"
+                ],
+                [
+                  "a",
+                  "https://golang.org/pkg/bufio/#Scanner"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can do that using "
+          },
+          {
+            "Text": "bufio.Scanner",
+            "AttrFlags": 2,
+            "Link": "https://golang.org/pkg/bufio/#Scanner"
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155968178,
+        "id": "4891c950-ca88-4575-9006-b7acbf12c3d0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195735090,
+        "parent_id": "d6542c35-3d41-466c-82d9-e76694b3070c",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func IterLinesInFile(filePath string) error {\n    file, err := os.Open(filePath)\n    if err != nil {\n        return err\n    }\n    defer file.Close()\n    scanner := bufio.NewScanner(file)\n    // Scan() reads next line and returns false when reached end or error\n    for scanner.Scan() {\n        line := scanner.Text()\n        // process the line\n    }\n    // check if Scan() finished because of error or because it reached end of file\n    return scanner.Err()\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func IterLinesInFile(filePath string) error {\n    file, err := os.Open(filePath)\n    if err != nil {\n        return err\n    }\n    defer file.Close()\n    scanner := bufio.NewScanner(file)\n    // Scan() reads next line and returns false when reached end or error\n    for scanner.Scan() {\n        line := scanner.Text()\n        // process the line\n    }\n    // check if Scan() finished because of error or because it reached end of file\n    return scanner.Err()\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Read file line by line",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

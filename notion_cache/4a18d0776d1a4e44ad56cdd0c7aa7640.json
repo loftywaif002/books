@@ -1,0 +1,656 @@
+{
+  "ID": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+  "Page": {
+    "alive": true,
+    "content": [
+      "850d522a-e12e-4837-a3bb-da78996cd9f0",
+      "87d37d74-0e17-4ce1-b2b4-72affdae791f",
+      "6bcbf2b0-9715-42d9-9fc1-49ebc2d99535",
+      "2588591c-de5a-492b-bd68-662ebf5405f8",
+      "78bfa892-73f7-42f3-8a87-77801619a31d",
+      "ec6c6983-5100-4824-aa00-8c0fdf343d24",
+      "daa88d54-87d6-4f93-8918-3610a1993833",
+      "c36aa41e-354a-4244-b148-3181550b32a8",
+      "1b70d1f1-b174-49c7-b8ce-b68b2095e4cf",
+      "48bb0e44-a6c0-4314-932d-19541345a67c",
+      "8252875d-74b4-4b82-9f94-84116d5163b8",
+      "6f83c9b3-97a5-4469-a45d-07e73e5aea98",
+      "69e2db8b-539c-4bf4-9e4f-fb56c8731f48",
+      "44a0045f-b151-4156-9d57-5bb9f7513d2d",
+      "a7b456b0-9af9-4152-933e-8d36c24016be",
+      "ebb618ad-ec8e-4b12-807d-14cbdacf9fce",
+      "8be22ccb-c46a-4eaa-9a0b-7e9c71e08d58",
+      "a8d7a486-0ec8-441e-ba78-5c309178c56f",
+      "aac7c21a-5df6-4d91-9ab5-381d1cfa3d5a"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155982022,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532302961065,
+    "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Length and capacity"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 26,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196102096,
+        "id": "850d522a-e12e-4837-a3bb-da78996cd9f0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234734344,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 61"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 61"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196104479,
+        "id": "87d37d74-0e17-4ce1-b2b4-72affdae791f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234735051,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3561"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3561"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196107539,
+        "id": "6bcbf2b0-9715-42d9-9fc1-49ebc2d99535",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196107539,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196106013,
+        "id": "2588591c-de5a-492b-bd68-662ebf5405f8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196107332,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Slices have both length and capacity. The length of a slice is the number of elements "
+            ],
+            [
+              "currently",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " in the slice, while the capacity is the number of elements the slice "
+            ],
+            [
+              "can hold",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              " before needing to be reallocated."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Slices have both length and capacity. The length of a slice is the number of elements "
+          },
+          {
+            "Text": "currently",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " in the slice, while the capacity is the number of elements the slice "
+          },
+          {
+            "Text": "can hold",
+            "AttrFlags": 4
+          },
+          {
+            "Text": " before needing to be reallocated."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982018,
+        "id": "78bfa892-73f7-42f3-8a87-77801619a31d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155982018,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When creating a slice using the built-in "
+            ],
+            [
+              "make()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function, you can specify its length, and optionally its capacity. If the capacity is not explicitly specified, it will default to the value of the specified length."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When creating a slice using the built-in "
+          },
+          {
+            "Text": "make()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function, you can specify its length, and optionally its capacity. If the capacity is not explicitly specified, it will default to the value of the specified length."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982018,
+        "id": "ec6c6983-5100-4824-aa00-8c0fdf343d24",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196082212,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var s = make([]int, 3, 5) // length 3, capacity 5"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var s = make([]int, 3, 5) // length 3, capacity 5",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982019,
+        "id": "daa88d54-87d6-4f93-8918-3610a1993833",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155982019,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can check the length of a slice with the built-in "
+            ],
+            [
+              "len()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can check the length of a slice with the built-in "
+          },
+          {
+            "Text": "len()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982019,
+        "id": "c36aa41e-354a-4244-b148-3181550b32a8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196084884,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var n = len(s) // n == 3"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var n = len(s) // n == 3",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982019,
+        "id": "1b70d1f1-b174-49c7-b8ce-b68b2095e4cf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155982019,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can check the capacity with the built-in "
+            ],
+            [
+              "cap()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can check the capacity with the built-in "
+          },
+          {
+            "Text": "cap()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982019,
+        "id": "48bb0e44-a6c0-4314-932d-19541345a67c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196087175,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var c = cap(s) // c == 5"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var c = cap(s) // c == 5",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982020,
+        "id": "8252875d-74b4-4b82-9f94-84116d5163b8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155982020,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Elements created by "
+            ],
+            [
+              "make()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " are set to the zero value for the element type of the slice:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Elements created by "
+          },
+          {
+            "Text": "make()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " are set to the zero value for the element type of the slice:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982020,
+        "id": "6f83c9b3-97a5-4469-a45d-07e73e5aea98",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196089292,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "for idx, val := range s {\n    fmt.Println(idx, val)\n}\n// output:\n// 0 0\n// 1 0\n// 2 0"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "for idx, val := range s {\n    fmt.Println(idx, val)\n}\n// output:\n// 0 0\n// 1 0\n// 2 0",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982021,
+        "id": "69e2db8b-539c-4bf4-9e4f-fb56c8731f48",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155982021,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You cannot access elements beyond the length of a slice, even if the index is within capacity:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You cannot access elements beyond the length of a slice, even if the index is within capacity:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982021,
+        "id": "44a0045f-b151-4156-9d57-5bb9f7513d2d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196091828,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var x = s[3] // panic: runtime error: index out of range"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var x = s[3] // panic: runtime error: index out of range",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982022,
+        "id": "a7b456b0-9af9-4152-933e-8d36c24016be",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155982022,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "However, as long as the capacity exceeds the length, you can append new elements without reallocating:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "However, as long as the capacity exceeds the length, you can append new elements without reallocating:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982022,
+        "id": "ebb618ad-ec8e-4b12-807d-14cbdacf9fce",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196094800,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var t = []int{3, 4}\ns = append(s, t) // s is now []int{0, 0, 0, 3, 4}\nn = len(s) // n == 5\nc = cap(s) // c == 5"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var t = []int{3, 4}\ns = append(s, t) // s is now []int{0, 0, 0, 3, 4}\nn = len(s) // n == 5\nc = cap(s) // c == 5",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982022,
+        "id": "8be22ccb-c46a-4eaa-9a0b-7e9c71e08d58",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155982022,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you append to a slice which lacks the capacity to accept the new elements, the underlying array will be reallocated for you with sufficient capacity:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you append to a slice which lacks the capacity to accept the new elements, the underlying array will be reallocated for you with sufficient capacity:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982022,
+        "id": "a8d7a486-0ec8-441e-ba78-5c309178c56f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196097870,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var u = []int{5, 6}\ns = append(s, u) // s is now []int{0, 0, 0, 3, 4, 5, 6}\nn = len(s) // n == 7\nc = cap(s) // c \u003e 5"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var u = []int{5, 6}\ns = append(s, u) // s is now []int{0, 0, 0, 3, 4, 5, 6}\nn = len(s) // n == 7\nc = cap(s) // c \u003e 5",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982022,
+        "id": "aac7c21a-5df6-4d91-9ab5-381d1cfa3d5a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155982022,
+        "parent_id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It is, therefore, generally good practice to allocate sufficient capacity when first creating a slice, if you know how much space you’ll need, to avoid unnecessary reallocations."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It is, therefore, generally good practice to allocate sufficient capacity when first creating a slice, if you know how much space you’ll need, to avoid unnecessary reallocations."
+          }
+        ]
+      }
+    ],
+    "title": "Length and capacity",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

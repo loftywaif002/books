@@ -1,0 +1,981 @@
+{
+  "ID": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+  "Page": {
+    "alive": true,
+    "content": [
+      "33002ab5-548e-47b3-aacb-c408ee9fda74",
+      "6fd24016-1996-4824-b2f3-05ec968dc3bf",
+      "6858fc0d-e3d5-442b-9df0-c0c4205f610c",
+      "b8837cce-db41-47ed-91d8-f34c670f856a",
+      "4afe2a65-fae1-45d6-8810-7b6705621669",
+      "e9fff331-2500-43ed-ba31-a25eb35878e6",
+      "8f16ceaa-72e6-4d25-8b76-0bb954c1fbb8",
+      "bc875d15-2e46-4e00-bebc-392f9a1b3e3e",
+      "ca2c2b17-ceb8-464f-8491-1aa99f90ff0c",
+      "f592c209-73ed-423b-8810-9f25efae624f",
+      "21f7b75e-0e36-489f-8028-d5672ba24009",
+      "370312ac-8077-4a2f-851d-19f663a0fcef",
+      "46d9b00a-21ad-4bcd-a3b9-ed74bbcd35b0",
+      "3872f19a-1d95-4230-8077-c6252e7f5459",
+      "ed6ac872-1ec2-464c-9f69-a976b755db33",
+      "1eab614d-e9b4-4fd1-bec1-e0374ac1be91",
+      "32886d10-d8a6-40fc-80aa-fa28f363201c",
+      "b8786423-1bc4-4ed5-9e33-44856cf98055",
+      "0da2dbb6-41c0-426f-80cb-2edec81d880c",
+      "e4520115-5293-45f1-81ac-fe4f49fb4689",
+      "343991d4-36f8-4328-9b83-20c64e367213",
+      "5ca33aa6-594f-428d-8477-a7945a2bdf82",
+      "34711937-bd09-4421-8b71-1a21f89b4daa",
+      "0a4d55d3-55f8-4e13-a7b0-d1e5e7069ab6",
+      "53e5e655-75cd-4944-9c2a-2f94f81cbd8b",
+      "2262f9f2-b4e7-4f36-b0be-a4add7851b7b",
+      "2e585042-df00-49fa-9a81-c418ecdb6b04"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156126136,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532208264218,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "YAML"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 18,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208253662,
+        "id": "33002ab5-548e-47b3-aacb-c408ee9fda74",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208256057,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 193"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 193"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208256057,
+        "id": "6fd24016-1996-4824-b2f3-05ec968dc3bf",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208259278,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2503"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2503"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208259278,
+        "id": "6858fc0d-e3d5-442b-9df0-c0c4205f610c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208260056,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126130,
+        "id": "b8837cce-db41-47ed-91d8-f34c670f856a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126130,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "YAML",
+              [
+                [
+                  "a",
+                  "http://yaml.org/"
+                ]
+              ]
+            ],
+            [
+              " is a popular format for serializing data in a human friendly format. Think JSON but easier to read."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "YAML",
+            "Link": "http://yaml.org/"
+          },
+          {
+            "Text": " is a popular format for serializing data in a human friendly format. Think JSON but easier to read."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126130,
+        "id": "4afe2a65-fae1-45d6-8810-7b6705621669",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126130,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Thanks to its expressivness and readability, YAML is popular as a format for configuration files."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Thanks to its expressivness and readability, YAML is popular as a format for configuration files."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126131,
+        "id": "e9fff331-2500-43ed-ba31-a25eb35878e6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126131,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It’s also used in more complex scenarios like driving "
+            ],
+            [
+              "Ansible",
+              [
+                [
+                  "a",
+                  "https://www.ansible.com/"
+                ]
+              ]
+            ],
+            [
+              " server automation."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It’s also used in more complex scenarios like driving "
+          },
+          {
+            "Text": "Ansible",
+            "Link": "https://www.ansible.com/"
+          },
+          {
+            "Text": " server automation."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126131,
+        "id": "8f16ceaa-72e6-4d25-8b76-0bb954c1fbb8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126131,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "There is no package in standard library for hanlding YAML format but there are community libraries including "
+            ],
+            [
+              "gopkg.in/yaml.v2",
+              [
+                [
+                  "a",
+                  "http://gopkg.in/yaml.v2"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "There is no package in standard library for hanlding YAML format but there are community libraries including "
+          },
+          {
+            "Text": "gopkg.in/yaml.v2",
+            "Link": "http://gopkg.in/yaml.v2"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126132,
+        "id": "bc875d15-2e46-4e00-bebc-392f9a1b3e3e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126132,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Reading YAML file into a Go struct"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Reading YAML file into a Go struct"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126132,
+        "id": "ca2c2b17-ceb8-464f-8491-1aa99f90ff0c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126132,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file data.yml noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file data.yml noplayground"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126132,
+        "id": "f592c209-73ed-423b-8810-9f25efae624f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126132,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file yaml_deserialize.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file yaml_deserialize.go output noplayground"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126132,
+        "id": "21f7b75e-0e36-489f-8028-d5672ba24009",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126132,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "YAML decoding is very similar to "
+            ],
+            [
+              "JSON decoding",
+              [
+                [
+                  "a",
+                  "182"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "YAML decoding is very similar to "
+          },
+          {
+            "Text": "JSON decoding",
+            "Link": "182"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126132,
+        "id": "370312ac-8077-4a2f-851d-19f663a0fcef",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126132,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you know the structure of YAML file, you can define structs that mirror this structure and pass a pointer to a struct describing top-level structure to "
+            ],
+            [
+              "yaml.Decoder.Decode()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " function (or "
+            ],
+            [
+              "yaml.Unmarshal()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " if decoding from "
+            ],
+            [
+              "[]byte",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " slice)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you know the structure of YAML file, you can define structs that mirror this structure and pass a pointer to a struct describing top-level structure to "
+          },
+          {
+            "Text": "yaml.Decoder.Decode()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " function (or "
+          },
+          {
+            "Text": "yaml.Unmarshal()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " if decoding from "
+          },
+          {
+            "Text": "[]byte",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " slice)."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126133,
+        "id": "46d9b00a-21ad-4bcd-a3b9-ed74bbcd35b0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126133,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "YAML decoder does intelligent mapping between struct field names and names in YAML file so that e.g. "
+            ],
+            [
+              "name",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " value in YAML is decoded into field "
+            ],
+            [
+              "Name",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in a struct."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "YAML decoder does intelligent mapping between struct field names and names in YAML file so that e.g. "
+          },
+          {
+            "Text": "name",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " value in YAML is decoded into field "
+          },
+          {
+            "Text": "Name",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in a struct."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126134,
+        "id": "3872f19a-1d95-4230-8077-c6252e7f5459",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126134,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It’s best to create explicit mappings using "
+            ],
+            [
+              "yaml",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " struct tags. I only omitted them from the example to illustrate the behavior when they are not specified."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It’s best to create explicit mappings using "
+          },
+          {
+            "Text": "yaml",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " struct tags. I only omitted them from the example to illustrate the behavior when they are not specified."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126134,
+        "id": "ed6ac872-1ec2-464c-9f69-a976b755db33",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126134,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Writing Go struct to YAML file"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Writing Go struct to YAML file"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126134,
+        "id": "1eab614d-e9b4-4fd1-bec1-e0374ac1be91",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126134,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file yaml_serialize.go output sha1:c69c304984394d3765680a32c6573bc4e1faaeed goplayground:dGHkgP4rNQ4"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file yaml_serialize.go output sha1:c69c304984394d3765680a32c6573bc4e1faaeed goplayground:dGHkgP4rNQ4"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126134,
+        "id": "32886d10-d8a6-40fc-80aa-fa28f363201c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126134,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "yaml.Marshal",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " takes interface{} as an argument. You can pass any Go value, it’ll be wrapped into interface{} with their type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "yaml.Marshal",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " takes interface{} as an argument. You can pass any Go value, it’ll be wrapped into interface{} with their type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126134,
+        "id": "b8786423-1bc4-4ed5-9e33-44856cf98055",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126134,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Marshaller will use reflection to inspect passed value and encode it as YAML strings."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Marshaller will use reflection to inspect passed value and encode it as YAML strings."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126134,
+        "id": "0da2dbb6-41c0-426f-80cb-2edec81d880c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126134,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When serializing structs, only exported fields (whose names start with capital letter) are serialized / deserialized."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When serializing structs, only exported fields (whose names start with capital letter) are serialized / deserialized."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126134,
+        "id": "e4520115-5293-45f1-81ac-fe4f49fb4689",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126134,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In our example, fullName is not serialized."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In our example, fullName is not serialized."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126134,
+        "id": "343991d4-36f8-4328-9b83-20c64e367213",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126134,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Structs are serialized as YAML dictionaries. By default dictionary keys are the same as struct field names."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Structs are serialized as YAML dictionaries. By default dictionary keys are the same as struct field names."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126135,
+        "id": "5ca33aa6-594f-428d-8477-a7945a2bdf82",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126135,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Struct field Name is serialized under dictionary key Name."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Struct field Name is serialized under dictionary key Name."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126135,
+        "id": "34711937-bd09-4421-8b71-1a21f89b4daa",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126135,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can provide custom mappings with struct tags."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can provide custom mappings with struct tags."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126135,
+        "id": "0a4d55d3-55f8-4e13-a7b0-d1e5e7069ab6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126135,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can attach arbitrary struct tags string to struct fields."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can attach arbitrary struct tags string to struct fields."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126136,
+        "id": "53e5e655-75cd-4944-9c2a-2f94f81cbd8b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126136,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "yaml:\"age\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " instructs YAML encoder / decoder to use name "
+            ],
+            [
+              "age",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " for dictionary key representing field "
+            ],
+            [
+              "Age",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "yaml:\"age\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " instructs YAML encoder / decoder to use name "
+          },
+          {
+            "Text": "age",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " for dictionary key representing field "
+          },
+          {
+            "Text": "Age",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126136,
+        "id": "2262f9f2-b4e7-4f36-b0be-a4add7851b7b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126136,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When serializing structs, passing the value and a pointer to it generates the same result."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When serializing structs, passing the value and a pointer to it generates the same result."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156126136,
+        "id": "2e585042-df00-49fa-9a81-c418ecdb6b04",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156126136,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Passing a pointer is more efficient because passing by value creates unnecessary copy."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Passing a pointer is more efficient because passing by value creates unnecessary copy."
+          }
+        ]
+      }
+    ],
+    "title": "YAML",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

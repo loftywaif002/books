@@ -1,0 +1,762 @@
+{
+  "ID": "590d9205-2f00-4d34-aa38-22270da73eb3",
+  "Page": {
+    "alive": true,
+    "content": [
+      "b8b32af1-4893-4d49-921e-71f2cdc21135",
+      "89155169-5fc5-4a52-9697-fa4dc76b268f",
+      "df906c30-a090-42b5-a2cc-8f21539f7c9e",
+      "963cfe8b-bf63-481d-9211-d50f56eedf6a",
+      "3ddefd79-e574-4431-92cb-8f766a5e8de3",
+      "3fc72c92-7ade-4135-9c92-f069f7cc3718",
+      "03cfb63e-61a2-450f-ac75-b5cc503a0810",
+      "7d0a70e2-5296-46d8-b0a9-a7d276512e6a",
+      "85d690d4-2e3b-45d0-8b04-9a9716bb4b98",
+      "e4682acb-d2ab-4d03-a0a3-07105d525be2",
+      "03620f1c-0659-49cf-9bef-8cf94d0aca9b",
+      "e2607deb-c4ce-48c9-8b36-b57e4bc541f5",
+      "5b14dcb2-5575-4ae8-991e-2c360ea4b83c",
+      "6f4fcf46-ad86-4e63-a8bd-a2571991db4e",
+      "c14f3c00-afd7-49b3-a0d7-2b9dee919bf9",
+      "10592553-1efc-4592-b255-4fa5ac4c5007",
+      "3ee17f1d-147c-4d04-8eec-623cc867e0a8",
+      "489c97c1-02cc-4878-a982-66bd24383497",
+      "fb1742f7-a255-4e08-96cd-0649160b5dd1"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155946183,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234085371,
+    "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Type aliases"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194909028,
+        "id": "b8b32af1-4893-4d49-921e-71f2cdc21135",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234086136,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 30"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 30"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194910794,
+        "id": "89155169-5fc5-4a52-9697-fa4dc76b268f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234086978,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 901000v5"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 901000v5"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194913172,
+        "id": "df906c30-a090-42b5-a2cc-8f21539f7c9e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194913184,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155946178,
+        "id": "963cfe8b-bf63-481d-9211-d50f56eedf6a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155946178,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Type aliases were introduced in Go 1.9 to make "
+            ],
+            [
+              "code refactoring",
+              [
+                [
+                  "a",
+                  "https://talks.golang.org/2016/refactor.article"
+                ]
+              ]
+            ],
+            [
+              " easier."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Type aliases were introduced in Go 1.9 to make "
+          },
+          {
+            "Text": "code refactoring",
+            "Link": "https://talks.golang.org/2016/refactor.article"
+          },
+          {
+            "Text": " easier."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155946178,
+        "id": "3ddefd79-e574-4431-92cb-8f766a5e8de3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155946178,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Imagine you have package "
+            ],
+            [
+              "foo",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " that exports type "
+            ],
+            [
+              "Bar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Imagine you have package "
+          },
+          {
+            "Text": "foo",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " that exports type "
+          },
+          {
+            "Text": "Bar",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155946179,
+        "id": "3fc72c92-7ade-4135-9c92-f069f7cc3718",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155946179,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You want to rename type "
+            ],
+            [
+              "Bar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to "
+            ],
+            [
+              "NewBar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You want to rename type "
+          },
+          {
+            "Text": "Bar",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to "
+          },
+          {
+            "Text": "NewBar",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155946179,
+        "id": "03cfb63e-61a2-450f-ac75-b5cc503a0810",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155946179,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Without type aliases you would have to change all the packages that use "
+            ],
+            [
+              "foo.Bar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to use "
+            ],
+            [
+              "foo.NewBar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " at the same time you’re renaming the type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Without type aliases you would have to change all the packages that use "
+          },
+          {
+            "Text": "foo.Bar",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to use "
+          },
+          {
+            "Text": "foo.NewBar",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " at the same time you’re renaming the type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155946179,
+        "id": "7d0a70e2-5296-46d8-b0a9-a7d276512e6a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155946179,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "With type aliases you can split this into a 2 step process."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "With type aliases you can split this into a 2 step process."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155946180,
+        "id": "85d690d4-2e3b-45d0-8b04-9a9716bb4b98",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155946180,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "First update dependencies by introducing an alias for "
+            ],
+            [
+              "foo.Bar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and replacing all uses of "
+            ],
+            [
+              "foo.Bar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " with the alias."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "First update dependencies by introducing an alias for "
+          },
+          {
+            "Text": "foo.Bar",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and replacing all uses of "
+          },
+          {
+            "Text": "foo.Bar",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " with the alias."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155946181,
+        "id": "e4682acb-d2ab-4d03-a0a3-07105d525be2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194923177,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "import \"foo\"\ntype Bar = foo.Bar // Bar is now an alias of foo.Bar"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "import \"foo\"\ntype Bar = foo.Bar // Bar is now an alias of foo.Bar",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155946181,
+        "id": "03620f1c-0659-49cf-9bef-8cf94d0aca9b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155946181,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Now you can rename "
+            ],
+            [
+              "foo.Bar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to "
+            ],
+            [
+              "foo.NewBar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and update the alias:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Now you can rename "
+          },
+          {
+            "Text": "foo.Bar",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to "
+          },
+          {
+            "Text": "foo.NewBar",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and update the alias:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155946181,
+        "id": "e2607deb-c4ce-48c9-8b36-b57e4bc541f5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194931111,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "import \"foo\"\ntype Bar = foo.NewBar"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "import \"foo\"\ntype Bar = foo.NewBar",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155946181,
+        "id": "5b14dcb2-5575-4ae8-991e-2c360ea4b83c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155946181,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is a much smaller change."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "This is a much smaller change."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155946182,
+        "id": "6f4fcf46-ad86-4e63-a8bd-a2571991db4e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155946182,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can now gradually get rid of the alias and use the new "
+            ],
+            [
+              "foo.NewBar",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " type directly."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can now gradually get rid of the alias and use the new "
+          },
+          {
+            "Text": "foo.NewBar",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " type directly."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155946182,
+        "id": "c14f3c00-afd7-49b3-a0d7-2b9dee919bf9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155946182,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The process sounds like a hassle, but in large code bases it can be a better approach than renaming everything at once."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The process sounds like a hassle, but in large code bases it can be a better approach than renaming everything at once."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155946182,
+        "id": "10592553-1efc-4592-b255-4fa5ac4c5007",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155946182,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It’s tempting to use type aliases for other things, but you should resist."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It’s tempting to use type aliases for other things, but you should resist."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155946182,
+        "id": "3ee17f1d-147c-4d04-8eec-623cc867e0a8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155946182,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Type aliases add a layer of indirection, which hurts readability of the code. There should be a good reason to use them."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Type aliases add a layer of indirection, which hurts readability of the code. There should be a good reason to use them."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155946183,
+        "id": "489c97c1-02cc-4878-a982-66bd24383497",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155946183,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To learn more, you can "
+            ],
+            [
+              "read the spec",
+              [
+                [
+                  "a",
+                  "https://github.com/golang/proposal/blob/master/design/18130-type-alias.md"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To learn more, you can "
+          },
+          {
+            "Text": "read the spec",
+            "Link": "https://github.com/golang/proposal/blob/master/design/18130-type-alias.md"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194932902,
+        "id": "fb1742f7-a255-4e08-96cd-0649160b5dd1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194932902,
+        "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Type aliases",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

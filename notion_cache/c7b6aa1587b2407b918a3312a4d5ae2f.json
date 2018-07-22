@@ -1,0 +1,197 @@
+{
+  "ID": "c7b6aa15-87b2-407b-918a-3312a4d5ae2f",
+  "Page": {
+    "alive": true,
+    "content": [
+      "babd8bd9-3645-43f9-8ff8-7450fa718b07",
+      "3daa11c4-aa32-497a-a703-c82aeaf2d38c",
+      "5106c407-14a1-4012-8263-5f7ea7c8c7c2",
+      "4a6c7858-3684-4150-b73c-e6a20e3b6d56",
+      "cb5419e9-c8bf-40a5-92ed-ef9cea99ecf5",
+      "2f38167f-dad4-4617-86da-6da547135425"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156147156,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "c7b6aa15-87b2-407b-918a-3312a4d5ae2f",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532209114318,
+    "parent_id": "96e61372-84ae-4460-a282-7f456b4cf62c",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Serving content using ServeMux"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209099592,
+        "id": "babd8bd9-3645-43f9-8ff8-7450fa718b07",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209104182,
+        "parent_id": "c7b6aa15-87b2-407b-918a-3312a4d5ae2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 211"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 211"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209104182,
+        "id": "3daa11c4-aa32-497a-a703-c82aeaf2d38c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209106132,
+        "parent_id": "c7b6aa15-87b2-407b-918a-3312a4d5ae2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209106132,
+        "id": "5106c407-14a1-4012-8263-5f7ea7c8c7c2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209107919,
+        "parent_id": "c7b6aa15-87b2-407b-918a-3312a4d5ae2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 8164"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 8164"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209109510,
+        "id": "4a6c7858-3684-4150-b73c-e6a20e3b6d56",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209109510,
+        "parent_id": "c7b6aa15-87b2-407b-918a-3312a4d5ae2f",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532209107919,
+        "id": "cb5419e9-c8bf-40a5-92ed-ef9cea99ecf5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209109279,
+        "parent_id": "c7b6aa15-87b2-407b-918a-3312a4d5ae2f",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A simple static file server would look like this:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "A simple static file server would look like this:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156147156,
+        "id": "2f38167f-dad4-4617-86da-6da547135425",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532209095845,
+        "parent_id": "c7b6aa15-87b2-407b-918a-3312a4d5ae2f",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport (\n    \"net/http\"\n)\n\nfunc main() {\n    muxer := http.NewServeMux()\n    fileServerCss := http.FileServer(http.Dir(\"src/css\"))\n    fileServerJs := http.FileServer(http.Dir(\"src/js\"))\n    fileServerHtml := http.FileServer(http.Dir(\"content\"))\n    muxer.Handle(\"/\", fileServerHtml)\n    muxer.Handle(\"/css\", fileServerCss)\n    muxer.Handle(\"/js\", fileServerJs)\n    http.ListenAndServe(\":8080\", muxer)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport (\n    \"net/http\"\n)\n\nfunc main() {\n    muxer := http.NewServeMux()\n    fileServerCss := http.FileServer(http.Dir(\"src/css\"))\n    fileServerJs := http.FileServer(http.Dir(\"src/js\"))\n    fileServerHtml := http.FileServer(http.Dir(\"content\"))\n    muxer.Handle(\"/\", fileServerHtml)\n    muxer.Handle(\"/css\", fileServerCss)\n    muxer.Handle(\"/js\", fileServerJs)\n    http.ListenAndServe(\":8080\", muxer)\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Serving content using ServeMux",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,374 @@
+{
+  "ID": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
+  "Page": {
+    "alive": true,
+    "content": [
+      "18cf58d1-6399-4571-bc19-79963ced24ec",
+      "0694b7e1-dd82-43f0-a8d1-8b6947ebc5e4",
+      "a811cd9a-fe19-4ee3-a450-10eb76fd87e3",
+      "1d41aa24-49c4-4dd3-86d9-96cffc1604e7",
+      "3ff1c5ff-4acb-4cb7-8250-1ae1e054c20f",
+      "afb6fae9-4e08-4fd0-8384-300f4d92da45",
+      "aebdbe21-1c75-42ad-aa83-f1843044b1b9",
+      "2381037e-8874-4db7-80df-fe0472d99885",
+      "393a4717-4330-4998-b25d-388a8ff7556f",
+      "e6085895-f34a-4fb7-beb5-5f0e460ea905",
+      "1ac75368-0907-4689-b3f8-041d7a2b1e4a"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155948196,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234131552,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Variables"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 24,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194990612,
+        "id": "18cf58d1-6399-4571-bc19-79963ced24ec",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234132396,
+        "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 32"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 32"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194992186,
+        "id": "0694b7e1-dd82-43f0-a8d1-8b6947ebc5e4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234133234,
+        "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 674"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 674"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194994326,
+        "id": "a811cd9a-fe19-4ee3-a450-10eb76fd87e3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194994337,
+        "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155948196,
+        "id": "1d41aa24-49c4-4dd3-86d9-96cffc1604e7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234155272,
+        "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Variable declaration follows ${"
+            ],
+            [
+              "name}",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " ${"
+            ],
+            [
+              "type}",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " format."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 49,
+        "inline_content": [
+          {
+            "Text": "Variable declaration follows ${"
+          },
+          {
+            "Text": "name}",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " ${"
+          },
+          {
+            "Text": "type}",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " format."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155948196,
+        "id": "3ff1c5ff-4acb-4cb7-8250-1ae1e054c20f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155948196,
+        "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It’s a different order than C. On the plus side it’s more consistent and complex declarations are easier to write."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It’s a different order than C. On the plus side it’s more consistent and complex declarations are easier to write."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155948196,
+        "id": "afb6fae9-4e08-4fd0-8384-300f4d92da45",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155948196,
+        "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Various ways of defining variables:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Various ways of defining variables:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155948196,
+        "id": "aebdbe21-1c75-42ad-aa83-f1843044b1b9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155948196,
+        "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index.go sha1:db9723cae93aaeb7bd5d572c3a6c6cdbacab8d9e goplayground:H3LjiprdgBF"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index.go sha1:db9723cae93aaeb7bd5d572c3a6c6cdbacab8d9e goplayground:H3LjiprdgBF"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194981920,
+        "id": "2381037e-8874-4db7-80df-fe0472d99885",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194981920,
+        "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155949285,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "393a4717-4330-4998-b25d-388a8ff7556f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234161807,
+        "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Basic variable declaration"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Basic variable declaration",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155950237,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234169402,
+        "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Multiple variable assignment"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Multiple variable assignment",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155951167,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "1ac75368-0907-4689-b3f8-041d7a2b1e4a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234177284,
+        "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Blank identifier"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 21,
+        "title": "Blank identifier",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Variables",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,315 @@
+{
+  "ID": "07297cd7-2ed7-4f8a-aa4f-f89103022e43",
+  "Page": {
+    "alive": true,
+    "content": [
+      "8e8d3ee5-b470-4512-98c6-789f73d9379b",
+      "e2ed6ad7-9498-49ec-aed7-9187b7de5d07",
+      "e4593475-0511-4759-af06-b0e6e500a4e1",
+      "ae9de81d-daa7-4f0e-aeca-f2747341b6d7",
+      "d26485eb-d3f2-4111-956b-1d445c2594d8",
+      "7a2f545e-d42a-4d0b-a9f0-9f7c0c570826",
+      "60fcd2e5-477a-4dbd-be8c-b41388bc260b",
+      "f123a6f3-9501-4727-89b6-729ce4ef8b86"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156205195,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "07297cd7-2ed7-4f8a-aa4f-f89103022e43",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532212499306,
+    "parent_id": "83dc1f9b-6ec0-4d25-a2d2-e7357b6bebba",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Basic cpu and memory profiling"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 22,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156205180,
+        "id": "8e8d3ee5-b470-4512-98c6-789f73d9379b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212486114,
+        "parent_id": "07297cd7-2ed7-4f8a-aa4f-f89103022e43",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Title: Basic cpu and memory profiling"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 3,
+        "inline_content": [
+          {
+            "Text": "Title: Basic cpu and memory profiling"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212486114,
+        "id": "e2ed6ad7-9498-49ec-aed7-9187b7de5d07",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212488544,
+        "parent_id": "07297cd7-2ed7-4f8a-aa4f-f89103022e43",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 259"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 259"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212488544,
+        "id": "e4593475-0511-4759-af06-b0e6e500a4e1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212491358,
+        "parent_id": "07297cd7-2ed7-4f8a-aa4f-f89103022e43",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: 1"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$Score: 1"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212491358,
+        "id": "ae9de81d-daa7-4f0e-aeca-f2747341b6d7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212493541,
+        "parent_id": "07297cd7-2ed7-4f8a-aa4f-f89103022e43",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 25406"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 25406"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212494767,
+        "id": "d26485eb-d3f2-4111-956b-1d445c2594d8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212494767,
+        "parent_id": "07297cd7-2ed7-4f8a-aa4f-f89103022e43",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532212493541,
+        "id": "7a2f545e-d42a-4d0b-a9f0-9f7c0c570826",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212494335,
+        "parent_id": "07297cd7-2ed7-4f8a-aa4f-f89103022e43",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Add the following code in you main program."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Add the following code in you main program."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156205195,
+        "id": "60fcd2e5-477a-4dbd-be8c-b41388bc260b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532212482332,
+        "parent_id": "07297cd7-2ed7-4f8a-aa4f-f89103022e43",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "var cpuprofile = flag.String(\"cpuprofile\", \"\", \"write cpu profile `file`\")\nvar memprofile = flag.String(\"memprofile\", \"\", \"write memory profile to `file`\")\n\nfunc main() {\n    flag.Parse()\n    if *cpuprofile != \"\" {\n        f, err := os.Create(*cpuprofile)\n        if err != nil {\n            log.Fatal(\"could not create CPU profile: \", err)\n        }\n        if err := pprof.StartCPUProfile(f); err != nil {\n            log.Fatal(\"could not start CPU profile: \", err)\n        }\n        defer pprof.StopCPUProfile()\n    }\n    ...\n    if *memprofile != \"\" {\n        f, err := os.Create(*memprofile)\n        if err != nil {\n            log.Fatal(\"could not create memory profile: \", err)\n        }\n        runtime.GC() // get up-to-date statistics\n        if err := pprof.WriteHeapProfile(f); err != nil {\n            log.Fatal(\"could not write memory profile: \", err)\n        }\n        f.Close()\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "var cpuprofile = flag.String(\"cpuprofile\", \"\", \"write cpu profile `file`\")\nvar memprofile = flag.String(\"memprofile\", \"\", \"write memory profile to `file`\")\n\nfunc main() {\n    flag.Parse()\n    if *cpuprofile != \"\" {\n        f, err := os.Create(*cpuprofile)\n        if err != nil {\n            log.Fatal(\"could not create CPU profile: \", err)\n        }\n        if err := pprof.StartCPUProfile(f); err != nil {\n            log.Fatal(\"could not start CPU profile: \", err)\n        }\n        defer pprof.StopCPUProfile()\n    }\n    ...\n    if *memprofile != \"\" {\n        f, err := os.Create(*memprofile)\n        if err != nil {\n            log.Fatal(\"could not create memory profile: \", err)\n        }\n        runtime.GC() // get up-to-date statistics\n        if err := pprof.WriteHeapProfile(f); err != nil {\n            log.Fatal(\"could not write memory profile: \", err)\n        }\n        f.Close()\n    }\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156205195,
+        "id": "f123a6f3-9501-4727-89b6-729ce4ef8b86",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156205195,
+        "parent_id": "07297cd7-2ed7-4f8a-aa4f-f89103022e43",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "After that "
+            ],
+            [
+              "build",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " the go program if added in main "
+            ],
+            [
+              "go build main.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". Run main program with flags defined in code "
+            ],
+            [
+              "main.exe -cpuprofile cpu.prof -memprof mem.prof",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". If the profiling is done for test cases run the tests with same flags "
+            ],
+            [
+              "go test -cpuprofile cpu.prof -memprofile mem.prof",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "After that "
+          },
+          {
+            "Text": "build",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " the go program if added in main "
+          },
+          {
+            "Text": "go build main.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". Run main program with flags defined in code "
+          },
+          {
+            "Text": "main.exe -cpuprofile cpu.prof -memprof mem.prof",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". If the profiling is done for test cases run the tests with same flags "
+          },
+          {
+            "Text": "go test -cpuprofile cpu.prof -memprofile mem.prof",
+            "AttrFlags": 2
+          }
+        ]
+      }
+    ],
+    "title": "Basic cpu and memory profiling",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

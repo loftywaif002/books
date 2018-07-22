@@ -1,0 +1,475 @@
+{
+  "ID": "6461fef8-092a-4515-8959-bddbaad99bce",
+  "Page": {
+    "alive": true,
+    "content": [
+      "6a3c0ac4-a1a6-4d5b-81fd-be4ed4e739c3",
+      "7c2b56a7-5c66-41f5-88f7-8ee0c56625ec",
+      "19deda40-fa7e-42f2-b8cd-12325aedfc86",
+      "c61c2c26-cb13-485f-9f59-4797525d2bb5",
+      "8e3d826f-e805-425d-b1a1-16a0e1e5384a",
+      "54ec5b78-b9ee-462d-af94-bcf85597b1a6",
+      "f7282697-d015-4b07-b3a7-a2e8d9bf9387",
+      "b7cccd40-2169-494e-b6a6-b1c8764db6cd",
+      "8c11ce7a-d129-4411-8709-fac2328e0b0a",
+      "bb118a63-3465-4a42-a081-6ac453d15a85",
+      "4e8a0ae0-208b-45cb-8182-c56baed518e8",
+      "ea050c4f-edff-42f7-83f9-2443c16b99df",
+      "5414e0b5-c4fb-4f3f-9ed2-335467425b6d",
+      "22f58226-4cdd-4675-b8d5-7b06c73b406b",
+      "190b9599-b7f8-4ba0-a3c1-ae68c336354c"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156078118,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "6461fef8-092a-4515-8959-bddbaad99bce",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532206163973,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Packages"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 34,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206150217,
+        "id": "6a3c0ac4-a1a6-4d5b-81fd-be4ed4e739c3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236689658,
+        "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 153"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 153"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206152486,
+        "id": "7c2b56a7-5c66-41f5-88f7-8ee0c56625ec",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236690441,
+        "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 401"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 401"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206156236,
+        "id": "19deda40-fa7e-42f2-b8cd-12325aedfc86",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206156236,
+        "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206154444,
+        "id": "c61c2c26-cb13-485f-9f59-4797525d2bb5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206155884,
+        "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A package in Go represents a unit of related code."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "A package in Go represents a unit of related code."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156078117,
+        "id": "8e3d826f-e805-425d-b1a1-16a0e1e5384a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156078117,
+        "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In other languages packages are called libraries."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In other languages packages are called libraries."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156078117,
+        "id": "54ec5b78-b9ee-462d-af94-bcf85597b1a6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156078117,
+        "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A package consists of multiple files but they all have to be in the same directory."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A package consists of multiple files but they all have to be in the same directory."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156078117,
+        "id": "f7282697-d015-4b07-b3a7-a2e8d9bf9387",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156078117,
+        "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Larger libraries can split into multiple sub-packages."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Larger libraries can split into multiple sub-packages."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156078117,
+        "id": "b7cccd40-2169-494e-b6a6-b1c8764db6cd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156078117,
+        "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go standard library is provided as a set of packages."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Go standard library is provided as a set of packages."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156078117,
+        "id": "8c11ce7a-d129-4411-8709-fac2328e0b0a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156078117,
+        "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A package is identified by import path e.g. "
+            ],
+            [
+              "github.com/gomarkdown/markdown",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is an import path of a package that parses markdown format."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "A package is identified by import path e.g. "
+          },
+          {
+            "Text": "github.com/gomarkdown/markdown",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is an import path of a package that parses markdown format."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206158667,
+        "id": "bb118a63-3465-4a42-a081-6ac453d15a85",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206158667,
+        "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156079163,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "4e8a0ae0-208b-45cb-8182-c56baed518e8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236704218,
+        "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Installing packages locally with go get"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 28,
+        "title": "Installing packages locally with go get",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156080150,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "ea050c4f-edff-42f7-83f9-2443c16b99df",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236713191,
+        "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Importing packages"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 28,
+        "title": "Importing packages",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156081181,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "5414e0b5-c4fb-4f3f-9ed2-335467425b6d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206291395,
+        "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Creating a package"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 26,
+        "title": "Creating a package",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156082123,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "22f58226-4cdd-4675-b8d5-7b06c73b406b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206350696,
+        "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Package initialization"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 40,
+        "title": "Package initialization",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156083114,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "190b9599-b7f8-4ba0-a3c1-ae68c336354c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206379510,
+        "parent_id": "6461fef8-092a-4515-8959-bddbaad99bce",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Package naming best practices"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 26,
+        "title": "Package naming best practices",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Packages",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

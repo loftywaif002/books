@@ -1,0 +1,312 @@
+{
+  "ID": "34ce9d67-983f-4a20-8ada-20bd5dca1f33",
+  "Page": {
+    "alive": true,
+    "content": [
+      "9b5dbcae-16a4-4962-8faf-7ee9d24044a0",
+      "1daf40d1-fb2d-425e-ace3-60922c057d44",
+      "3a249b64-f9e2-4ac1-ba90-77f45536ca70",
+      "5c23a1c9-1b0a-425b-b0d3-00490a8ab05c",
+      "250e45c5-9ceb-41e5-8dcc-bc6c3931a0cf",
+      "aceaded6-854b-4455-9359-e1bab8ea712a",
+      "3741b0c1-c3ff-4bbb-b43f-73dee0d2c44a"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156071198,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "34ce9d67-983f-4a20-8ada-20bd5dca1f33",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236590906,
+    "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Non-blocking receive with select"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205906403,
+        "id": "9b5dbcae-16a4-4962-8faf-7ee9d24044a0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236591707,
+        "parent_id": "34ce9d67-983f-4a20-8ada-20bd5dca1f33",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 146"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 146"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205908629,
+        "id": "1daf40d1-fb2d-425e-ace3-60922c057d44",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236592454,
+        "parent_id": "34ce9d67-983f-4a20-8ada-20bd5dca1f33",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 80100096"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 80100096"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205911485,
+        "id": "3a249b64-f9e2-4ac1-ba90-77f45536ca70",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205911485,
+        "parent_id": "34ce9d67-983f-4a20-8ada-20bd5dca1f33",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205910331,
+        "id": "5c23a1c9-1b0a-425b-b0d3-00490a8ab05c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205911166,
+        "parent_id": "34ce9d67-983f-4a20-8ada-20bd5dca1f33",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can use "
+            ],
+            [
+              "default",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " part of "
+            ],
+            [
+              "select",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statement to do a non-blocking wait."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "You can use "
+          },
+          {
+            "Text": "default",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " part of "
+          },
+          {
+            "Text": "select",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statement to do a non-blocking wait."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156071197,
+        "id": "250e45c5-9ceb-41e5-8dcc-bc6c3931a0cf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156071197,
+        "parent_id": "34ce9d67-983f-4a20-8ada-20bd5dca1f33",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file non_blocking_wait.go output sha1:a6f654f50355fa2d2f23b635c97b6b042d0772e0 goplayground:DZjC_jJXuWj"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file non_blocking_wait.go output sha1:a6f654f50355fa2d2f23b635c97b6b042d0772e0 goplayground:DZjC_jJXuWj"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156071198,
+        "id": "aceaded6-854b-4455-9359-e1bab8ea712a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156071198,
+        "parent_id": "34ce9d67-983f-4a20-8ada-20bd5dca1f33",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "During first iteration of "
+            ],
+            [
+              "for",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " loop "
+            ],
+            [
+              "select",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " immediately ends up in "
+            ],
+            [
+              "default",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " clause because channel is empty."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "During first iteration of "
+          },
+          {
+            "Text": "for",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " loop "
+          },
+          {
+            "Text": "select",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " immediately ends up in "
+          },
+          {
+            "Text": "default",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " clause because channel is empty."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156071198,
+        "id": "3741b0c1-c3ff-4bbb-b43f-73dee0d2c44a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156071198,
+        "parent_id": "34ce9d67-983f-4a20-8ada-20bd5dca1f33",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We send a value to the channel there so the next select will pick up the value from the channel."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We send a value to the channel there so the next select will pick up the value from the channel."
+          }
+        ]
+      }
+    ],
+    "title": "Non-blocking receive with select",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

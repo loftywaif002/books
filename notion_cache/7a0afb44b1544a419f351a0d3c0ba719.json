@@ -1,0 +1,508 @@
+{
+  "ID": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+  "Page": {
+    "alive": true,
+    "content": [
+      "6ff0ede4-1b96-403d-84a0-87d4e1a4a995",
+      "363d749a-e78b-4ac3-9049-f70d409d33ba",
+      "b6255382-32ae-4a1d-a5b9-adc4c8ffe5e5",
+      "54e53739-f18f-43c8-80ac-5b444d92069f",
+      "612cd17c-21b8-4aa5-a084-0fecdf2a4646",
+      "93b6667a-a7b9-4adf-965b-0dcbf3847e49",
+      "e79abd4a-15a5-4e60-8053-ad190e1046b8",
+      "23b0b340-eb3d-4848-8f51-1307cf787dfc",
+      "0f08c0b0-affa-476c-a114-9db478e3123f",
+      "36028d52-0216-4b31-ad07-a9166bf7c722",
+      "3d6a095e-1029-4be3-af3c-fe535fbc0d03",
+      "2d6b2b42-8f59-44a7-baf9-0fd55cf2932a",
+      "bcbce60f-0d41-4aec-8e1e-ef5b6b62477e",
+      "3d51ed7d-daa9-415c-86c4-5410bcfbf61a"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156163325,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532210783433,
+    "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Structs"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 19,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210773772,
+        "id": "6ff0ede4-1b96-403d-84a0-87d4e1a4a995",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210775911,
+        "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 227"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 227"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532210775911,
+        "id": "363d749a-e78b-4ac3-9049-f70d409d33ba",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532210778649,
+        "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 6071"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 6071"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156163321,
+        "id": "b6255382-32ae-4a1d-a5b9-adc4c8ffe5e5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156163321,
+        "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "List fields of a struct"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "List fields of a struct"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156163322,
+        "id": "54e53739-f18f-43c8-80ac-5b444d92069f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156163322,
+        "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using reflection we can list all fields of a struct."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Using reflection we can list all fields of a struct."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156163322,
+        "id": "612cd17c-21b8-4aa5-a084-0fecdf2a4646",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156163322,
+        "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file enum_struct_fields_simple.go output sha1:9538eecc07c20cd6c0ce463e54670f82dc6e6061 goplayground:21KyxJi0sNK"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file enum_struct_fields_simple.go output sha1:9538eecc07c20cd6c0ce463e54670f82dc6e6061 goplayground:21KyxJi0sNK"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156163323,
+        "id": "93b6667a-a7b9-4adf-965b-0dcbf3847e49",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156163323,
+        "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using reflection we can only access values ("
+            ],
+            [
+              "v.Interface{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ") of exported fields."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Using reflection we can only access values ("
+          },
+          {
+            "Text": "v.Interface{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ") of exported fields."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156163323,
+        "id": "e79abd4a-15a5-4e60-8053-ad190e1046b8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156163323,
+        "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Exported fields are fields with names starting with upper case ("
+            ],
+            [
+              "FirstName",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "Age",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " are exported, "
+            ],
+            [
+              "lastName",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is not)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Exported fields are fields with names starting with upper case ("
+          },
+          {
+            "Text": "FirstName",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "Age",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " are exported, "
+          },
+          {
+            "Text": "lastName",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is not)."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156163323,
+        "id": "23b0b340-eb3d-4848-8f51-1307cf787dfc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156163323,
+        "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Field is exported if "
+            ],
+            [
+              "reflect.StructField.PkgPath == \"\"",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Field is exported if "
+          },
+          {
+            "Text": "reflect.StructField.PkgPath == \"\"",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156163324,
+        "id": "0f08c0b0-affa-476c-a114-9db478e3123f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156163324,
+        "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "List fields of a struct recursively"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "List fields of a struct recursively"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156163324,
+        "id": "36028d52-0216-4b31-ad07-a9166bf7c722",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156163324,
+        "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Inspecting a struct is inherently recursive process."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Inspecting a struct is inherently recursive process."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156163325,
+        "id": "3d6a095e-1029-4be3-af3c-fe535fbc0d03",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156163325,
+        "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You have to chase pointers and recurse into embedded structures."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You have to chase pointers and recurse into embedded structures."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156163325,
+        "id": "2d6b2b42-8f59-44a7-baf9-0fd55cf2932a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156163325,
+        "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In real programs inspecting structures using reflections would be recursive."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In real programs inspecting structures using reflections would be recursive."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156163325,
+        "id": "bcbce60f-0d41-4aec-8e1e-ef5b6b62477e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156163325,
+        "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file enum_struct_fields.go output sha1:15a48e2a1c07d976ad58570626543420ecfef224 goplayground:tmplO4Fkru7"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file enum_struct_fields.go output sha1:15a48e2a1c07d976ad58570626543420ecfef224 goplayground:tmplO4Fkru7"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156163325,
+        "id": "3d51ed7d-daa9-415c-86c4-5410bcfbf61a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156163325,
+        "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can access not only"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can access not only"
+          }
+        ]
+      }
+    ],
+    "title": "Structs",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

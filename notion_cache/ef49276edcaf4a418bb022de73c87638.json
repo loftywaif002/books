@@ -1,0 +1,799 @@
+{
+  "ID": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+  "Page": {
+    "alive": true,
+    "content": [
+      "e87403fb-9191-48d4-8394-54d194d09d05",
+      "e7178058-d483-4038-b07b-917a1a1aff33",
+      "2233cf66-b8b3-4b61-84d7-5b95af5a60a5",
+      "3ca47d57-d040-43f9-ae22-0d54a7c948df",
+      "ed95d0e1-0c6e-4c16-ae96-e626271b5e85",
+      "83d72a36-ef2b-45e7-bfb3-d90fcbf925aa",
+      "c8eed319-f4fb-44b0-9c88-6902e0f2b8f2",
+      "e36626de-7feb-4988-9dcb-3619f8e09ddf",
+      "6a0450b7-1b62-4321-bb5e-131a61271c3a",
+      "72cbdfe5-2e54-4d77-a926-ff3519f04128",
+      "b39e29d0-ad57-4d5c-b088-79909af1f0bf",
+      "83d61089-fb8e-4181-b24e-47dd2f083328",
+      "76838770-18e8-45a1-aa42-20b644f27eb6",
+      "0f277bae-1e58-4092-845f-2a3193498abf",
+      "8a058b9c-4534-46cb-b6c0-1faebd70ae59",
+      "3d3718ca-780a-4cae-80d1-9934f0e7284d",
+      "d9d5ffdc-69ad-47e9-b8e8-32a10dc7d327",
+      "b1c2e409-6d9e-4a41-9d11-a8c5c1902ce1",
+      "fef141d1-0cf8-4219-9b19-ac667130e29f",
+      "319c9d1c-439e-4a78-a819-78e3c434c85b",
+      "980ac7fe-d541-48df-9d7b-dc1d0adae69e",
+      "d3c3b411-ba20-4ff9-8127-82f834cf6893",
+      "ae5c6756-9b59-4282-b8bd-5c333bacbdc5",
+      "8cb883a5-7454-4c2a-9e53-f49ae926be32"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156088238,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532206624022,
+    "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Directory operations"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 29,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206578164,
+        "id": "e87403fb-9191-48d4-8394-54d194d09d05",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236773433,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 163"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 163"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206579623,
+        "id": "e7178058-d483-4038-b07b-917a1a1aff33",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236774469,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 9310"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 9310"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206582535,
+        "id": "2233cf66-b8b3-4b61-84d7-5b95af5a60a5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206619385,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Create directory"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 13,
+        "inline_content": [
+          {
+            "Text": "Create directory"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088234,
+        "id": "3ca47d57-d040-43f9-ae22-0d54a7c948df",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236778662,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "dir := \"my_dir\"\nerr := os.Mkdir(dir, 0755)\nif err != nil {\n    fmt.Printf(\"os.Mkdir('%s') failed with '%s'\\n\", dir)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "dir := \"my_dir\"\nerr := os.Mkdir(dir, 0755)\nif err != nil {\n    fmt.Printf(\"os.Mkdir('%s') failed with '%s'\\n\", dir)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088234,
+        "id": "ed95d0e1-0c6e-4c16-ae96-e626271b5e85",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236780963,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "dir := filepath.Join(\"topdir\", \"subdir\")\nerr := os.MkdirAll(dir, 0755)\nif err != nil {\n    fmt.Printf(\"os.MkdirAll('%s') failed with '%s'\\n\", dir)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "dir := filepath.Join(\"topdir\", \"subdir\")\nerr := os.MkdirAll(dir, 0755)\nif err != nil {\n    fmt.Printf(\"os.MkdirAll('%s') failed with '%s'\\n\", dir)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088234,
+        "id": "83d72a36-ef2b-45e7-bfb3-d90fcbf925aa",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088234,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "os.Mkdir",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " only succeeds if parent directory of dir already exists."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "os.Mkdir",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " only succeeds if parent directory of dir already exists."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088235,
+        "id": "c8eed319-f4fb-44b0-9c88-6902e0f2b8f2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088235,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "os.MkdirAll",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " will create all intermediary directories."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "os.MkdirAll",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " will create all intermediary directories."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088235,
+        "id": "e36626de-7feb-4988-9dcb-3619f8e09ddf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088235,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "0755",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " describes permissions for the directory."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "0755",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " describes permissions for the directory."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088235,
+        "id": "6a0450b7-1b62-4321-bb5e-131a61271c3a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088235,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Those are Unix style permissions in octal format."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Those are Unix style permissions in octal format."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088235,
+        "id": "72cbdfe5-2e54-4d77-a926-ff3519f04128",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088235,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Let’s deconstruct parts of "
+            ],
+            [
+              "0755",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " * 0 means this is a number in octal format. That means that each number is in 0-7 range (compare to regular decimal notation where each number is in 0-9 range) * 7 is permissions for the creator of the file. It’s a bitmask 4 + 2 + 1. 4 means read permissions, 2 means write permission, 1 means that directory can be traversed. When combined it means read/write/traverse access * 5 is permissions for the group that user belongs to. I.e. every user that also belongs to the same group will have those permissions. 4 + 1 means read and traverse permissions, but not write permissions * last 5 is for everyone. Again, 5 means read and traverse permissions"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Let’s deconstruct parts of "
+          },
+          {
+            "Text": "0755",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " * 0 means this is a number in octal format. That means that each number is in 0-7 range (compare to regular decimal notation where each number is in 0-9 range) * 7 is permissions for the creator of the file. It’s a bitmask 4 + 2 + 1. 4 means read permissions, 2 means write permission, 1 means that directory can be traversed. When combined it means read/write/traverse access * 5 is permissions for the group that user belongs to. I.e. every user that also belongs to the same group will have those permissions. 4 + 1 means read and traverse permissions, but not write permissions * last 5 is for everyone. Again, 5 means read and traverse permissions"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088235,
+        "id": "b39e29d0-ad57-4d5c-b088-79909af1f0bf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088235,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Delete directory"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Delete directory"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088235,
+        "id": "83d61089-fb8e-4181-b24e-47dd2f083328",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236820869,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "dir := \"my_dir\"\nerr := os.Remove(dir)\nif err != nil {\n    fmt.Printf(\"os.Remove('%s') failed with '%s'\\n\", path, err)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "dir := \"my_dir\"\nerr := os.Remove(dir)\nif err != nil {\n    fmt.Printf(\"os.Remove('%s') failed with '%s'\\n\", path, err)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088236,
+        "id": "76838770-18e8-45a1-aa42-20b644f27eb6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088236,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "os.Remove",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " only works for empty directories i.e. directories without any files of sub-directories."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "os.Remove",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " only works for empty directories i.e. directories without any files of sub-directories."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088236,
+        "id": "0f277bae-1e58-4092-845f-2a3193498abf",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236824026,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "dir := \"my_dir\"\nerr := os.RemoveAll(dir)\nif err != nil {\n    fmt.Printf(\"os.RemoveAll('%s') failed with '%s'\\n\", path, err)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "dir := \"my_dir\"\nerr := os.RemoveAll(dir)\nif err != nil {\n    fmt.Printf(\"os.RemoveAll('%s') failed with '%s'\\n\", path, err)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088236,
+        "id": "8a058b9c-4534-46cb-b6c0-1faebd70ae59",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088236,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "os.RemoveAll",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " removes the directory and all its children (files and sub-directories)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "os.RemoveAll",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " removes the directory and all its children (files and sub-directories)."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088236,
+        "id": "3d3718ca-780a-4cae-80d1-9934f0e7284d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088236,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "List files in a directory"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "List files in a directory"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088236,
+        "id": "d9d5ffdc-69ad-47e9-b8e8-32a10dc7d327",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088236,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To list files and directories in a given directory we can use "
+            ],
+            [
+              "ioutil.ReadDir",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To list files and directories in a given directory we can use "
+          },
+          {
+            "Text": "ioutil.ReadDir",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088236,
+        "id": "b1c2e409-6d9e-4a41-9d11-a8c5c1902ce1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088236,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file dir_list_files.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file dir_list_files.go output noplayground"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088237,
+        "id": "fef141d1-0cf8-4219-9b19-ac667130e29f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088237,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "List files recursively"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "List files recursively"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088237,
+        "id": "319c9d1c-439e-4a78-a819-78e3c434c85b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088237,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file filepath_walk.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file filepath_walk.go output noplayground"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088237,
+        "id": "980ac7fe-d541-48df-9d7b-dc1d0adae69e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088237,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To visit files in a directory recursively use "
+            ],
+            [
+              "filepath.Walk",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To visit files in a directory recursively use "
+          },
+          {
+            "Text": "filepath.Walk",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088238,
+        "id": "d3c3b411-ba20-4ff9-8127-82f834cf6893",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088238,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You provide a callback function that will be called for every file and directory under directory."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You provide a callback function that will be called for every file and directory under directory."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088238,
+        "id": "ae5c6756-9b59-4282-b8bd-5c333bacbdc5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088238,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Callback function is called even for files/directories that we can’t read e.g. due to insufficient permissions."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Callback function is called even for files/directories that we can’t read e.g. due to insufficient permissions."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156088238,
+        "id": "8cb883a5-7454-4c2a-9e53-f49ae926be32",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156088238,
+        "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can end traversal early by returning non-nil error from callback function."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can end traversal early by returning non-nil error from callback function."
+          }
+        ]
+      }
+    ],
+    "title": "Directory operations",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

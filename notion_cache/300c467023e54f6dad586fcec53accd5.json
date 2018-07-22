@@ -1,0 +1,233 @@
+{
+  "ID": "300c4670-23e5-4f6d-ad58-6fcec53accd5",
+  "Page": {
+    "alive": true,
+    "content": [
+      "5bb3e1ef-9338-466b-8557-270e2d464bef",
+      "0968cbc2-7501-4ac9-aa09-04ddf20aa495",
+      "cd8fa42c-7596-4d8f-8a98-24ce5620085c",
+      "09b5d8bb-c21d-4dd3-bc20-05ccbdb7c6ec",
+      "2eee5bd0-6da0-47f8-8f2e-bfbbb233937a",
+      "df89d3a2-4d21-4de0-8b76-6da608e07f74"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155964168,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "300c4670-23e5-4f6d-ad58-6fcec53accd5",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234381734,
+    "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Split and join strings"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195615482,
+        "id": "5bb3e1ef-9338-466b-8557-270e2d464bef",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234382609,
+        "parent_id": "300c4670-23e5-4f6d-ad58-6fcec53accd5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 45"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 45"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195617259,
+        "id": "0968cbc2-7501-4ac9-aa09-04ddf20aa495",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234383847,
+        "parent_id": "300c4670-23e5-4f6d-ad58-6fcec53accd5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 5eq100s7"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 5eq100s7"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195619813,
+        "id": "cd8fa42c-7596-4d8f-8a98-24ce5620085c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195619825,
+        "parent_id": "300c4670-23e5-4f6d-ad58-6fcec53accd5",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155964168,
+        "id": "09b5d8bb-c21d-4dd3-bc20-05ccbdb7c6ec",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155964168,
+        "parent_id": "300c4670-23e5-4f6d-ad58-6fcec53accd5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can split a string into a "
+            ],
+            [
+              "[]string",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " slice and join it back into a string."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can split a string into a "
+          },
+          {
+            "Text": "[]string",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " slice and join it back into a string."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155964168,
+        "id": "2eee5bd0-6da0-47f8-8f2e-bfbbb233937a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155964168,
+        "parent_id": "300c4670-23e5-4f6d-ad58-6fcec53accd5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file split_join.go output sha1:2d51e4552b5146775491406975805d3a047620f9 goplayground:HCjanF_4FQW"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file split_join.go output sha1:2d51e4552b5146775491406975805d3a047620f9 goplayground:HCjanF_4FQW"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155964168,
+        "id": "df89d3a2-4d21-4de0-8b76-6da608e07f74",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155964168,
+        "parent_id": "300c4670-23e5-4f6d-ad58-6fcec53accd5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Joining a slice of strings is faster that using "
+            ],
+            [
+              "+",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Joining a slice of strings is faster that using "
+          },
+          {
+            "Text": "+",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      }
+    ],
+    "title": "Split and join strings",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,706 @@
+{
+  "ID": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+  "Page": {
+    "alive": true,
+    "content": [
+      "ed24a49a-150d-4817-bf47-6355b9241f65",
+      "dcb01310-16ce-4450-ae0f-c9a6b8574e89",
+      "c5fb4302-3e81-4bb2-802f-6d9e482a9c67",
+      "9db3ada7-add4-4d62-8b1b-e1bc50d02fd2",
+      "00ed0fa8-6a71-4486-8563-87985e8c4c08",
+      "bed6cca9-decb-4a4f-8c6d-0bf2097c984c",
+      "eecdb8a7-21ea-4639-b118-5aadee6b6ab0",
+      "db231f20-aa23-4480-ad52-a86453b25bd2",
+      "b835570c-371f-47f9-8573-e519f8668e70",
+      "2355909b-dd89-4580-b9e2-081ec6681864",
+      "b7e3bb4c-034c-4589-817e-5ec20dc72e4f",
+      "6a014d68-1609-4d6d-bd75-24dd5775724d",
+      "7b590c9d-f7e4-4e4b-9adc-de1ce014b1c4",
+      "37924b34-138e-4f6d-addb-e48302ae6482",
+      "2e1e1049-c655-43fd-a43e-8da2d248b0f7",
+      "d673ce04-f900-488a-a7f6-ff932760500e",
+      "c9003ad3-f2b7-48c8-a244-78ee5d6961e4"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156289132,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532215526248,
+    "parent_id": "f2028ab7-4a35-4cf2-ba6a-86acfb813356",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "go build"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215510902,
+        "id": "ed24a49a-150d-4817-bf47-6355b9241f65",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215520217,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 325"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 325"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215512553,
+        "id": "dcb01310-16ce-4450-ae0f-c9a6b8574e89",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215518249,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 17006"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 17006"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215517479,
+        "id": "c5fb4302-3e81-4bb2-802f-6d9e482a9c67",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215517479,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532215514543,
+        "id": "9db3ada7-add4-4d62-8b1b-e1bc50d02fd2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215515554,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "go build",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " will compile a program into an executable file."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "go build",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " will compile a program into an executable file."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156289129,
+        "id": "00ed0fa8-6a71-4486-8563-87985e8c4c08",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156289129,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To demonstrate, we will use a simple Hello World example main.go:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To demonstrate, we will use a simple Hello World example main.go:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156289129,
+        "id": "bed6cca9-decb-4a4f-8c6d-0bf2097c984c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215529929,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "package main\n\nimport fmt\n\nfunc main() {\n    fmt.Println(\"Hello, World!\")\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "package main\n\nimport fmt\n\nfunc main() {\n    fmt.Println(\"Hello, World!\")\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156289129,
+        "id": "eecdb8a7-21ea-4639-b118-5aadee6b6ab0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156289129,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To compile the program run: "
+            ],
+            [
+              "go build main.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To compile the program run: "
+          },
+          {
+            "Text": "go build main.go",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156289130,
+        "id": "db231f20-aa23-4480-ad52-a86453b25bd2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156289130,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "build",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " creates an executable program, in this case: "
+            ],
+            [
+              "main",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "main.exe",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". You can then run this file to see the output "
+            ],
+            [
+              "Hello, World!",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". You can also copy it to a similar system that doesn’t have Go installed, "
+            ],
+            [
+              "make it executable",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              ", and run it there."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "build",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " creates an executable program, in this case: "
+          },
+          {
+            "Text": "main",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "main.exe",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". You can then run this file to see the output "
+          },
+          {
+            "Text": "Hello, World!",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". You can also copy it to a similar system that doesn’t have Go installed, "
+          },
+          {
+            "Text": "make it executable",
+            "AttrFlags": 4
+          },
+          {
+            "Text": ", and run it there."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156289130,
+        "id": "b835570c-371f-47f9-8573-e519f8668e70",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156289130,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Specify OS or Architecture in build:"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Specify OS or Architecture in build:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156289131,
+        "id": "2355909b-dd89-4580-b9e2-081ec6681864",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156289131,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can specify what system or architecture to build by modifying the "
+            ],
+            [
+              "env",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " before "
+            ],
+            [
+              "build",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can specify what system or architecture to build by modifying the "
+          },
+          {
+            "Text": "env",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " before "
+          },
+          {
+            "Text": "build",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156289131,
+        "id": "b7e3bb4c-034c-4589-817e-5ec20dc72e4f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215544856,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ env GOOS=linux go build main.go # builds for Linux\n$ env GOARCH=arm go build main.go # builds for ARM architecture"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 11,
+        "code": "$ env GOOS=linux go build main.go # builds for Linux\n$ env GOARCH=arm go build main.go # builds for ARM architecture",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156289131,
+        "id": "6a014d68-1609-4d6d-bd75-24dd5775724d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156289131,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Build multiple files"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Build multiple files"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156289131,
+        "id": "7b590c9d-f7e4-4e4b-9adc-de1ce014b1c4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156289131,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If your package is split into multiple files "
+            ],
+            [
+              "and",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " the package name is "
+            ],
+            [
+              "main",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " (that is, "
+            ],
+            [
+              "it is not an importable package",
+              [
+                [
+                  "i"
+                ]
+              ]
+            ],
+            [
+              "), you must specify all the files to build:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If your package is split into multiple files "
+          },
+          {
+            "Text": "and",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " the package name is "
+          },
+          {
+            "Text": "main",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " (that is, "
+          },
+          {
+            "Text": "it is not an importable package",
+            "AttrFlags": 4
+          },
+          {
+            "Text": "), you must specify all the files to build:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156289131,
+        "id": "37924b34-138e-4f6d-addb-e48302ae6482",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215541105,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Shell"
+            ]
+          ],
+          "title": [
+            [
+              "$ go build main.go assets.go # outputs an executable: main"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 7,
+        "code": "$ go build main.go assets.go # outputs an executable: main",
+        "code_language": "Shell"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156289132,
+        "id": "2e1e1049-c655-43fd-a43e-8da2d248b0f7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156289132,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Building a package"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Building a package"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156289132,
+        "id": "d673ce04-f900-488a-a7f6-ff932760500e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156289132,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To build a package called "
+            ],
+            [
+              "main",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", you can simply use:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To build a package called "
+          },
+          {
+            "Text": "main",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", you can simply use:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156289132,
+        "id": "c9003ad3-f2b7-48c8-a244-78ee5d6961e4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532215548150,
+        "parent_id": "efce7a0e-6a5d-4498-8701-0bfd88ab6f94",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
+          "title": [
+            [
+              "$ go build . # outputs an executable with name as the name of enclosing folder"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 5,
+        "code": "$ go build . # outputs an executable with name as the name of enclosing folder",
+        "code_language": "Plain Text"
+      }
+    ],
+    "title": "go build",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

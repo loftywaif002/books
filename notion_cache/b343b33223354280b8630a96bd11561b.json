@@ -1,0 +1,198 @@
+{
+  "ID": "b343b332-2335-4280-b863-0a96bd11561b",
+  "Page": {
+    "alive": true,
+    "content": [
+      "2203ffcb-64e3-40b5-a612-d0353f147145",
+      "3a0502a9-d909-438e-bf48-f50d61ac48b3",
+      "7b6ca1bd-ab05-4de4-8262-83e267b43d40",
+      "c2ad95a7-3beb-4761-a7f0-5d69459015db",
+      "4505df52-5307-4219-89ab-a355a86f31b9",
+      "ea679a6b-7f16-4d3f-977c-d8e1e97b2d02"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156119194,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "b343b332-2335-4280-b863-0a96bd11561b",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532208005939,
+    "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Hybrid XML parsing: combine pull and unmarshal"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 81,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207974916,
+        "id": "2203ffcb-64e3-40b5-a612-d0353f147145",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207979741,
+        "parent_id": "b343b332-2335-4280-b863-0a96bd11561b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 330"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 330"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207976898,
+        "id": "3a0502a9-d909-438e-bf48-f50d61ac48b3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207977746,
+        "parent_id": "b343b332-2335-4280-b863-0a96bd11561b",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156119193,
+        "id": "7b6ca1bd-ab05-4de4-8262-83e267b43d40",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532237186926,
+        "parent_id": "b343b332-2335-4280-b863-0a96bd11561b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Pull parsing",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Pull-streaming-XML-parsing-737850eefd45462e807a2c0dc7b83430"
+                ]
+              ]
+            ],
+            [
+              " is efficient but tedious."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Pull parsing",
+            "Link": "https://www.notion.so/kjkpublic/Pull-streaming-XML-parsing-737850eefd45462e807a2c0dc7b83430"
+          },
+          {
+            "Text": " is efficient but tedious."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156119194,
+        "id": "c2ad95a7-3beb-4761-a7f0-5d69459015db",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156119194,
+        "parent_id": "b343b332-2335-4280-b863-0a96bd11561b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can combine pull parsing with decoding into a struct."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "We can combine pull parsing with decoding into a struct."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156119194,
+        "id": "4505df52-5307-4219-89ab-a355a86f31b9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156119194,
+        "parent_id": "b343b332-2335-4280-b863-0a96bd11561b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file hybrid_parse.go output sha1:981e098c53d734dcc6655093941b4abbff321db0 goplayground:38v55-LW_m2"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file hybrid_parse.go output sha1:981e098c53d734dcc6655093941b4abbff321db0 goplayground:38v55-LW_m2"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208005939,
+        "id": "ea679a6b-7f16-4d3f-977c-d8e1e97b2d02",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208005939,
+        "parent_id": "b343b332-2335-4280-b863-0a96bd11561b",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Hybrid XML parsing: combine pull and unmarshal",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

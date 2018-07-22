@@ -1,0 +1,355 @@
+{
+  "ID": "96ffd933-7d0e-4185-941f-db0974fcf1b8",
+  "Page": {
+    "alive": true,
+    "content": [
+      "c2b6c659-da4b-47e0-91ec-f43eddf9104b",
+      "2d68b7d8-8c76-47cc-be7f-f9d33f44b36d",
+      "6d001202-20ac-4b3e-a8af-ac8537daad3f",
+      "f51facc2-f670-4d22-936d-eb3aeec433a3",
+      "74f7277c-916e-4a45-b16a-ad9a883ae464",
+      "4e89d0ac-f716-4bb1-a9d1-c7834237d4a4",
+      "034bf8d1-daaa-4e16-b6ff-3ac4190262b2",
+      "7b9e5590-be09-4c1b-a4e0-0bc15b6ba71b",
+      "b02dd6d0-35c8-4e89-826c-07616aaf5649",
+      "b74bdd57-c356-4bd4-9fc7-2801a0894812"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156133140,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "96ffd933-7d0e-4185-941f-db0974fcf1b8",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532208615287,
+    "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "HTTP POST"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208604746,
+        "id": "c2b6c659-da4b-47e0-91ec-f43eddf9104b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208606798,
+        "parent_id": "96ffd933-7d0e-4185-941f-db0974fcf1b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 200"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 200"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208606798,
+        "id": "2d68b7d8-8c76-47cc-be7f-f9d33f44b36d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208609350,
+        "parent_id": "96ffd933-7d0e-4185-941f-db0974fcf1b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4643"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4643"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532208609996,
+        "id": "6d001202-20ac-4b3e-a8af-ac8537daad3f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532208610008,
+        "parent_id": "96ffd933-7d0e-4185-941f-db0974fcf1b8",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156133138,
+        "id": "f51facc2-f670-4d22-936d-eb3aeec433a3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156133138,
+        "parent_id": "96ffd933-7d0e-4185-941f-db0974fcf1b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "HTTP POST sends binary data to the server."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "HTTP POST sends binary data to the server."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156133139,
+        "id": "74f7277c-916e-4a45-b16a-ad9a883ae464",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156133139,
+        "parent_id": "96ffd933-7d0e-4185-941f-db0974fcf1b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "How this data is interpreted by the server depends on the value of "
+            ],
+            [
+              "Content-Type",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " header."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "How this data is interpreted by the server depends on the value of "
+          },
+          {
+            "Text": "Content-Type",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " header."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156133139,
+        "id": "4e89d0ac-f716-4bb1-a9d1-c7834237d4a4",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156133139,
+        "parent_id": "96ffd933-7d0e-4185-941f-db0974fcf1b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "HTTP POST with url-encoded data"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "HTTP POST with url-encoded data"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156133139,
+        "id": "034bf8d1-daaa-4e16-b6ff-3ac4190262b2",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156133139,
+        "parent_id": "96ffd933-7d0e-4185-941f-db0974fcf1b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "HTTP POST is most often used to submit filled forms data in HTML page to the server."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "HTTP POST is most often used to submit filled forms data in HTML page to the server."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156133139,
+        "id": "7b9e5590-be09-4c1b-a4e0-0bc15b6ba71b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156133139,
+        "parent_id": "96ffd933-7d0e-4185-941f-db0974fcf1b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Form data is a dictionary of key/value pairs where key is a string and value is array of strings (most often array with a single element)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Form data is a dictionary of key/value pairs where key is a string and value is array of strings (most often array with a single element)."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156133140,
+        "id": "b02dd6d0-35c8-4e89-826c-07616aaf5649",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156133140,
+        "parent_id": "96ffd933-7d0e-4185-941f-db0974fcf1b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Form key/value pairs are most often sent as url-encoded data with "
+            ],
+            [
+              "Content-Type",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " of "
+            ],
+            [
+              "application/x-www-form-urlencoded",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Form key/value pairs are most often sent as url-encoded data with "
+          },
+          {
+            "Text": "Content-Type",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " of "
+          },
+          {
+            "Text": "application/x-www-form-urlencoded",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156133140,
+        "id": "b74bdd57-c356-4bd4-9fc7-2801a0894812",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156133140,
+        "parent_id": "96ffd933-7d0e-4185-941f-db0974fcf1b8",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file http_post_url_encoded.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file http_post_url_encoded.go output noplayground"
+          }
+        ]
+      }
+    ],
+    "title": "HTTP POST",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

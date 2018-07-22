@@ -1,0 +1,184 @@
+{
+  "ID": "4ef2f951-df5f-4c2f-a229-ddb74e372823",
+  "Page": {
+    "alive": true,
+    "content": [
+      "a9dae1a1-93c2-4b0c-b04e-a046742b28fd",
+      "fd3e4692-ef4d-4efd-b7a6-83aebee4f6a4",
+      "cdd48169-4022-4d87-9953-dd542b9d33d8",
+      "e09115e5-ba45-4892-ac58-735b01a1c961",
+      "32b5ee33-6e52-4479-ae6a-ac8da706bf97",
+      "c77d776d-1072-4339-8e17-44569eaa069c"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156111082,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "4ef2f951-df5f-4c2f-a229-ddb74e372823",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207605467,
+    "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Decoding into anonymous structs"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207576735,
+        "id": "a9dae1a1-93c2-4b0c-b04e-a046742b28fd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207580731,
+        "parent_id": "4ef2f951-df5f-4c2f-a229-ddb74e372823",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 184"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 184"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207580731,
+        "id": "fd3e4692-ef4d-4efd-b7a6-83aebee4f6a4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207584073,
+        "parent_id": "4ef2f951-df5f-4c2f-a229-ddb74e372823",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 7911"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 7911"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207584073,
+        "id": "cdd48169-4022-4d87-9953-dd542b9d33d8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207584586,
+        "parent_id": "4ef2f951-df5f-4c2f-a229-ddb74e372823",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156111081,
+        "id": "e09115e5-ba45-4892-ac58-735b01a1c961",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156111081,
+        "parent_id": "4ef2f951-df5f-4c2f-a229-ddb74e372823",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When parsing into a struct we can avoid declaring struct types by using anonymous structs."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "When parsing into a struct we can avoid declaring struct types by using anonymous structs."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156111082,
+        "id": "32b5ee33-6e52-4479-ae6a-ac8da706bf97",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207591311,
+        "parent_id": "4ef2f951-df5f-4c2f-a229-ddb74e372823",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file anon_structs.go output sha1:810f6bf36d0efdab4fcc9856e0579b9dfea28359 goplayground:kAaY__JB9-s"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "@file anon_structs.go output sha1:810f6bf36d0efdab4fcc9856e0579b9dfea28359 goplayground:kAaY__JB9-s"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207599424,
+        "id": "c77d776d-1072-4339-8e17-44569eaa069c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207599424,
+        "parent_id": "4ef2f951-df5f-4c2f-a229-ddb74e372823",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Decoding into anonymous structs",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

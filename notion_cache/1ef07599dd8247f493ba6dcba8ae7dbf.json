@@ -1,0 +1,400 @@
+{
+  "ID": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+  "Page": {
+    "alive": true,
+    "content": [
+      "beb469f0-c642-47a4-b23c-544903026628",
+      "39dfd1f7-1833-4596-86fe-4c7651ab9e7e",
+      "dd46b5b8-aa61-4f1a-bb18-d02a9d31b26a",
+      "30dca6c2-2947-40c1-88e0-1e6d5d5cf358",
+      "02b16686-da00-4811-a65f-ec77ffd11aa0",
+      "31721ced-32cb-488a-a084-3751ac134068",
+      "2177f036-24fd-484c-a297-019bd2f83200",
+      "7f4b53e2-408e-4f98-ab48-5ab5a29eca13",
+      "6dda3381-7368-4c22-85cf-21e769e62c93",
+      "ce096b4e-b8ff-44d2-b6f0-cd8904174175",
+      "d4de8477-e062-4c50-b0cf-fafe8847293b",
+      "fcc939ab-95bb-4600-8524-fb165e7ef0e6"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155970205,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234493073,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Pointers"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 26,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195810598,
+        "id": "beb469f0-c642-47a4-b23c-544903026628",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234494105,
+        "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 51"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 51"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195812432,
+        "id": "39dfd1f7-1833-4596-86fe-4c7651ab9e7e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234494880,
+        "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1239"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1239"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195816195,
+        "id": "dd46b5b8-aa61-4f1a-bb18-d02a9d31b26a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195816195,
+        "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195814327,
+        "id": "30dca6c2-2947-40c1-88e0-1e6d5d5cf358",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195815967,
+        "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go has pointers, like C++. A pointer to a variable is the address of that variable in memory."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Go has pointers, like C++. A pointer to a variable is the address of that variable in memory."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155970203,
+        "id": "02b16686-da00-4811-a65f-ec77ffd11aa0",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155970203,
+        "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Unlike C++, Go doesn’t allow pointer arithmetic. You can’t add or substract from pointers."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Unlike C++, Go doesn’t allow pointer arithmetic. You can’t add or substract from pointers."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155970204,
+        "id": "31721ced-32cb-488a-a084-3751ac134068",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234508961,
+        "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A "
+            ],
+            [
+              "zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of a pointer is "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "A "
+          },
+          {
+            "Text": "zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of a pointer is "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155970205,
+        "id": "2177f036-24fd-484c-a297-019bd2f83200",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155970205,
+        "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Basics of pointers:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Basics of pointers:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155970205,
+        "id": "7f4b53e2-408e-4f98-ab48-5ab5a29eca13",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155970205,
+        "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file index.go output sha1:75e8c923b28ace7ef669c63f68cdbd6102399ff3 goplayground:XSdbT3RvDMQ"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file index.go output sha1:75e8c923b28ace7ef669c63f68cdbd6102399ff3 goplayground:XSdbT3RvDMQ"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195805474,
+        "id": "6dda3381-7368-4c22-85cf-21e769e62c93",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195805474,
+        "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155971237,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "ce096b4e-b8ff-44d2-b6f0-cd8904174175",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234519336,
+        "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Basics of pointers"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "Basics of pointers",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155972121,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "d4de8477-e062-4c50-b0cf-fafe8847293b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234541942,
+        "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Dereferencing pointers"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 25,
+        "title": "Dereferencing pointers",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155973230,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234559616,
+        "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Pointer vs. value methods"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 29,
+        "title": "Pointer vs. value methods",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "Pointers",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

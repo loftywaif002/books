@@ -1,0 +1,370 @@
+{
+  "ID": "92cbd178-0963-4770-84f3-467b40250f97",
+  "Page": {
+    "alive": true,
+    "content": [
+      "9fcf5b55-fd2d-4445-b6dc-0a842ec62419",
+      "95c3e41e-6066-40cc-8d46-7a96228b9914",
+      "1a1d4fc5-eb7c-4a21-a094-67a0d3564de7",
+      "e14e54ac-aee6-4f07-811e-23567c89cf7b",
+      "d634f601-fb1a-4f1a-a433-0c627e36c0c1",
+      "5765db30-a044-4bb6-9305-9fc0dddda20a",
+      "086ffe09-05fb-43ae-9cfa-d88b65a07643",
+      "19fa8c71-b497-4635-a093-f35916175054",
+      "14ca80ea-02e9-4a39-b210-b6809f0327ff",
+      "7895af19-1603-4a8a-b4d5-900c2bfe6df3",
+      "d4e5cb4e-6168-4adf-88df-a316f48066a1"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156073232,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "92cbd178-0963-4770-84f3-467b40250f97",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236626181,
+    "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Checking if channel has data available"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205962705,
+        "id": "9fcf5b55-fd2d-4445-b6dc-0a842ec62419",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236605079,
+        "parent_id": "92cbd178-0963-4770-84f3-467b40250f97",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 148"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 148"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205964587,
+        "id": "95c3e41e-6066-40cc-8d46-7a96228b9914",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236605836,
+        "parent_id": "92cbd178-0963-4770-84f3-467b40250f97",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 801000tb"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 801000tb"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205966579,
+        "id": "1a1d4fc5-eb7c-4a21-a094-67a0d3564de7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205968746,
+        "parent_id": "92cbd178-0963-4770-84f3-467b40250f97",
+        "parent_table": "block",
+        "type": "text",
+        "version": 10
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156073230,
+        "id": "e14e54ac-aee6-4f07-811e-23567c89cf7b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156073230,
+        "parent_id": "92cbd178-0963-4770-84f3-467b40250f97",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Receiving on a channel blocks if there is no data in the channel."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Receiving on a channel blocks if there is no data in the channel."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156073230,
+        "id": "d634f601-fb1a-4f1a-a433-0c627e36c0c1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156073230,
+        "parent_id": "92cbd178-0963-4770-84f3-467b40250f97",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "What if you don’t want to block?"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "What if you don’t want to block?"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156073230,
+        "id": "5765db30-a044-4bb6-9305-9fc0dddda20a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156073230,
+        "parent_id": "92cbd178-0963-4770-84f3-467b40250f97",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You might be tempted to check if channel has data before doing a receive."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You might be tempted to check if channel has data before doing a receive."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156073230,
+        "id": "086ffe09-05fb-43ae-9cfa-d88b65a07643",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156073230,
+        "parent_id": "92cbd178-0963-4770-84f3-467b40250f97",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can’t do that."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You can’t do that."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156073231,
+        "id": "19fa8c71-b497-4635-a093-f35916175054",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156073231,
+        "parent_id": "92cbd178-0963-4770-84f3-467b40250f97",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For one, it couldn’t possibly work correctly."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For one, it couldn’t possibly work correctly."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156073231,
+        "id": "14ca80ea-02e9-4a39-b210-b6809f0327ff",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156073231,
+        "parent_id": "92cbd178-0963-4770-84f3-467b40250f97",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Between the time you check for availability and the time you do a receive, some other goroutine could have picked up the value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Between the time you check for availability and the time you do a receive, some other goroutine could have picked up the value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156073231,
+        "id": "7895af19-1603-4a8a-b4d5-900c2bfe6df3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236639843,
+        "parent_id": "92cbd178-0963-4770-84f3-467b40250f97",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you want to avoid infinite waiting, you can add a "
+            ],
+            [
+              "timeout ",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Timeout-reading-from-channel-with-select-0739fee2c89f48679858e43b098d0a9d"
+                ]
+              ]
+            ],
+            [
+              "or do a "
+            ],
+            [
+              "non-blocking wait",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Non-blocking-receive-with-select-34ce9d67983f4a208ada20bd5dca1f33"
+                ]
+              ]
+            ],
+            [
+              " by using "
+            ],
+            [
+              "select",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 7,
+        "inline_content": [
+          {
+            "Text": "If you want to avoid infinite waiting, you can add a "
+          },
+          {
+            "Text": "timeout ",
+            "Link": "https://www.notion.so/kjkpublic/Timeout-reading-from-channel-with-select-0739fee2c89f48679858e43b098d0a9d"
+          },
+          {
+            "Text": "or do a "
+          },
+          {
+            "Text": "non-blocking wait",
+            "Link": "https://www.notion.so/kjkpublic/Non-blocking-receive-with-select-34ce9d67983f4a208ada20bd5dca1f33"
+          },
+          {
+            "Text": " by using "
+          },
+          {
+            "Text": "select",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532236626181,
+        "id": "d4e5cb4e-6168-4adf-88df-a316f48066a1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236626181,
+        "parent_id": "92cbd178-0963-4770-84f3-467b40250f97",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Checking if channel has data available",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

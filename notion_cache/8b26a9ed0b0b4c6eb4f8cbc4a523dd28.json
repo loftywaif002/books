@@ -1,0 +1,279 @@
+{
+  "ID": "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28",
+  "Page": {
+    "alive": true,
+    "content": [
+      "2cea4319-da48-4b9f-927f-af4beda86adc",
+      "ef3f7799-8a00-421a-b4be-e5a900acf561",
+      "edd7e58a-17e2-4849-8694-59950fb21ed1",
+      "132fc30b-8337-4b40-81c8-f37fb9250a46",
+      "688cea85-9fba-410a-8f29-004437ae2b72",
+      "7a2bf58e-91be-4421-80e2-10bdb5c5bf66",
+      "bc919b93-981f-408e-bc21-f77c2f90a260",
+      "18465196-c138-4df3-8304-6c71186c23fe",
+      "fb4216bf-0f8d-4bb5-8555-e3a9dbcb14a7"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156013132,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235469230,
+    "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Methods"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 25,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197163639,
+        "id": "2cea4319-da48-4b9f-927f-af4beda86adc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235466712,
+        "parent_id": "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 89"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 89"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197165337,
+        "id": "ef3f7799-8a00-421a-b4be-e5a900acf561",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235467385,
+        "parent_id": "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 1257"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 1257"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197168460,
+        "id": "edd7e58a-17e2-4849-8694-59950fb21ed1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197168460,
+        "parent_id": "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532197166903,
+        "id": "132fc30b-8337-4b40-81c8-f37fb9250a46",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532197167904,
+        "parent_id": "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Struct methods are functions attached to structs:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Struct methods are functions attached to structs:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156013131,
+        "id": "688cea85-9fba-410a-8f29-004437ae2b72",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156013131,
+        "parent_id": "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file methods.go output sha1:aff9579292ce1e92613e9fd085e90f71e6278acc goplayground:xp3FjKhUefO"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file methods.go output sha1:aff9579292ce1e92613e9fd085e90f71e6278acc goplayground:xp3FjKhUefO"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156013131,
+        "id": "7a2bf58e-91be-4421-80e2-10bdb5c5bf66",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156013131,
+        "parent_id": "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The only difference is the addition of the method receiver."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "The only difference is the addition of the method receiver."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156013131,
+        "id": "bc919b93-981f-408e-bc21-f77c2f90a260",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156013131,
+        "parent_id": "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It may be declared either as an instance of the type or a pointer to an instance of the type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It may be declared either as an instance of the type or a pointer to an instance of the type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156013132,
+        "id": "18465196-c138-4df3-8304-6c71186c23fe",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156013132,
+        "parent_id": "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Since "
+            ],
+            [
+              "SetName()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " mutates the instance, the receiver must be a pointer in order to effect a permanent change in the instance."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Since "
+          },
+          {
+            "Text": "SetName()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " mutates the instance, the receiver must be a pointer in order to effect a permanent change in the instance."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532235469230,
+        "id": "fb4216bf-0f8d-4bb5-8555-e3a9dbcb14a7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235469230,
+        "parent_id": "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Methods",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

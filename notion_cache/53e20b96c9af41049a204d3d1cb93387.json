@@ -1,0 +1,427 @@
+{
+  "ID": "53e20b96-c9af-4104-9a20-4d3d1cb93387",
+  "Page": {
+    "alive": true,
+    "content": [
+      "5e69d1d5-a8ec-43f6-a0d5-12b29fe2a437",
+      "c050c857-9515-4300-8808-7b6359be30c5",
+      "1cff4666-fe61-4896-80e3-c663521d8897",
+      "8f890e24-be7a-4ed7-b356-b9dfe162a78c",
+      "6c78e88c-de55-42b5-82d5-2c76178cdc89",
+      "11932888-d519-4d04-92d7-9758a94c59e8",
+      "f8da03bf-7e1b-45a0-b860-62f975a17c4d",
+      "d9ef4f48-fe90-462c-8eca-efaa2e025894",
+      "a00cd9af-0fad-4871-ac02-91252babb128",
+      "6bf2a71a-fcb9-408d-b5c2-aff77534549a",
+      "6bfc305c-7e7a-40f8-98f2-9c30005f28e1",
+      "2f3f8867-2c13-46d3-a05a-6fde90e9a31c"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155941226,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "53e20b96-c9af-4104-9a20-4d3d1cb93387",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532233893955,
+    "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Empty interface"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194702823,
+        "id": "5e69d1d5-a8ec-43f6-a0d5-12b29fe2a437",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233876978,
+        "parent_id": "53e20b96-c9af-4104-9a20-4d3d1cb93387",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 25"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 25"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194704340,
+        "id": "c050c857-9515-4300-8808-7b6359be30c5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233878184,
+        "parent_id": "53e20b96-c9af-4104-9a20-4d3d1cb93387",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 90100072"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 90100072"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532194707184,
+        "id": "1cff4666-fe61-4896-80e3-c663521d8897",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532194707196,
+        "parent_id": "53e20b96-c9af-4104-9a20-4d3d1cb93387",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155941224,
+        "id": "8f890e24-be7a-4ed7-b356-b9dfe162a78c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155941224,
+        "parent_id": "53e20b96-c9af-4104-9a20-4d3d1cb93387",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Type "
+            ],
+            [
+              "interface{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is called an empty interface."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Type "
+          },
+          {
+            "Text": "interface{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is called an empty interface."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155941224,
+        "id": "6c78e88c-de55-42b5-82d5-2c76178cdc89",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155941224,
+        "parent_id": "53e20b96-c9af-4104-9a20-4d3d1cb93387",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "By definition it’s an "
+            ],
+            [
+              "interface",
+              [
+                [
+                  "a",
+                  "24"
+                ]
+              ]
+            ],
+            [
+              " with no methods defined."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "By definition it’s an "
+          },
+          {
+            "Text": "interface",
+            "Link": "24"
+          },
+          {
+            "Text": " with no methods defined."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155941225,
+        "id": "11932888-d519-4d04-92d7-9758a94c59e8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155941225,
+        "parent_id": "53e20b96-c9af-4104-9a20-4d3d1cb93387",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "That means that every type conforms to an empty interface."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "That means that every type conforms to an empty interface."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155941225,
+        "id": "f8da03bf-7e1b-45a0-b860-62f975a17c4d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155941225,
+        "parent_id": "53e20b96-c9af-4104-9a20-4d3d1cb93387",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go "
+            ],
+            [
+              "interface{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is used as a dynamic type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In Go "
+          },
+          {
+            "Text": "interface{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is used as a dynamic type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155941225,
+        "id": "d9ef4f48-fe90-462c-8eca-efaa2e025894",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155941225,
+        "parent_id": "53e20b96-c9af-4104-9a20-4d3d1cb93387",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It’s similar to an object in C# or Java because it combines a type and a value into a single value."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It’s similar to an object in C# or Java because it combines a type and a value into a single value."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155941225,
+        "id": "a00cd9af-0fad-4871-ac02-91252babb128",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155941225,
+        "parent_id": "53e20b96-c9af-4104-9a20-4d3d1cb93387",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Empty interface is also how you implement a union type in Go."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Empty interface is also how you implement a union type in Go."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155941225,
+        "id": "6bf2a71a-fcb9-408d-b5c2-aff77534549a",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233892973,
+        "parent_id": "53e20b96-c9af-4104-9a20-4d3d1cb93387",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of empty interface is nil."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of empty interface is nil."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155941225,
+        "id": "6bfc305c-7e7a-40f8-98f2-9c30005f28e1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233925609,
+        "parent_id": "53e20b96-c9af-4104-9a20-4d3d1cb93387",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Learn more about "
+            ],
+            [
+              "empty interfaces",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Empty-interface-c3315892508248fdb19b663bf8bff028"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "Learn more about "
+          },
+          {
+            "Text": "empty interfaces",
+            "Link": "https://www.notion.so/kjkpublic/Empty-interface-c3315892508248fdb19b663bf8bff028"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532233893955,
+        "id": "2f3f8867-2c13-46d3-a05a-6fde90e9a31c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532233893955,
+        "parent_id": "53e20b96-c9af-4104-9a20-4d3d1cb93387",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Empty interface",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

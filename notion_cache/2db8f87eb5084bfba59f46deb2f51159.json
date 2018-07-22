@@ -1,0 +1,914 @@
+{
+  "ID": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+  "Page": {
+    "alive": true,
+    "content": [
+      "4b9f3f13-7548-417c-bac5-62328c6fe4e9",
+      "047c0cdd-0c2e-49d7-bfa0-29deaf2302c2",
+      "ec7af84b-be6c-4551-a040-934c7986b063",
+      "d42c2c5d-cc4a-44d3-bdf5-710db446effe",
+      "8c61a33c-8e7c-462b-89b7-c16bbc68f473",
+      "acb13542-8003-45bb-b30d-ddb773d98b11",
+      "517fd1a0-4363-4b6a-b8d2-769451bdad89",
+      "b071626d-5923-4262-b7bb-e5fd4c897c6b",
+      "de01cc53-c3da-43db-b7ef-f21c8fd151e8",
+      "391301ab-effb-4603-9bab-501b4b139685",
+      "1a098b26-0c71-4dd5-8057-a56e99744136",
+      "4b1abc5d-209a-44ea-8b4b-b08f175b372f",
+      "a04d5e0a-d110-4721-9599-a2bbbe950b53",
+      "38a3baa1-a7fa-4b0b-979a-797cb1d55bcc",
+      "c57a0fb6-e6be-47f3-bd39-7d7ebc2b23ee",
+      "53545b81-feec-40ac-9f54-4ff83e9e4bad",
+      "5e392633-a430-401a-a92a-16740cc8d8b6",
+      "54e44cee-fdc1-4d42-9701-bd1890918172",
+      "bc636709-a3f2-425e-8a2f-1c3d6c020306",
+      "a7776bbc-878e-4be2-8f9f-91c96667928b",
+      "97c48363-26e3-4d67-98df-9f43941d3c6c",
+      "e8994286-123d-4991-abf8-4f302623eb1e",
+      "7c5dd6f6-e8a5-443d-998a-e641d06e6945",
+      "ade034c7-a096-431f-9740-1ec373b67a95"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156087250,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532206557385,
+    "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "File operations"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206537668,
+        "id": "4b9f3f13-7548-417c-bac5-62328c6fe4e9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236766414,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 162"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$Id: 162"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206539080,
+        "id": "047c0cdd-0c2e-49d7-bfa0-29deaf2302c2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236767443,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 3333"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 3333"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206545743,
+        "id": "ec7af84b-be6c-4551-a040-934c7986b063",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206545743,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532206541520,
+        "id": "d42c2c5d-cc4a-44d3-bdf5-710db446effe",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206544188,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Get file size"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 27,
+        "inline_content": [
+          {
+            "Text": "Get file size"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087246,
+        "id": "8c61a33c-8e7c-462b-89b7-c16bbc68f473",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087246,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file file_size.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file file_size.go output noplayground"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087246,
+        "id": "acb13542-8003-45bb-b30d-ddb773d98b11",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087246,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Instead of "
+            ],
+            [
+              "os.Stat",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " we can also use "
+            ],
+            [
+              "os.Lstat",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". The difference is that "
+            ],
+            [
+              "os.Stat",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " follows symbolic links and "
+            ],
+            [
+              "os.Lstat",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " doesn’t."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Instead of "
+          },
+          {
+            "Text": "os.Stat",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " we can also use "
+          },
+          {
+            "Text": "os.Lstat",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". The difference is that "
+          },
+          {
+            "Text": "os.Stat",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " follows symbolic links and "
+          },
+          {
+            "Text": "os.Lstat",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " doesn’t."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087247,
+        "id": "517fd1a0-4363-4b6a-b8d2-769451bdad89",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087247,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In other words: for a symbolic link "
+            ],
+            [
+              "os.Lstat",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " returns information about link and "
+            ],
+            [
+              "os.Stat",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " about the file that it links to."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "In other words: for a symbolic link "
+          },
+          {
+            "Text": "os.Lstat",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " returns information about link and "
+          },
+          {
+            "Text": "os.Stat",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " about the file that it links to."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087247,
+        "id": "b071626d-5923-4262-b7bb-e5fd4c897c6b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087247,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Get information about the file"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Get information about the file"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087247,
+        "id": "de01cc53-c3da-43db-b7ef-f21c8fd151e8",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087247,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file file_info.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file file_info.go output noplayground"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087247,
+        "id": "391301ab-effb-4603-9bab-501b4b139685",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087247,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Check if a file exists"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Check if a file exists"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087247,
+        "id": "1a098b26-0c71-4dd5-8057-a56e99744136",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087247,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file file_exists.go output noplayground"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file file_exists.go output noplayground"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087247,
+        "id": "4b1abc5d-209a-44ea-8b4b-b08f175b372f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087247,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Checking if a file exists is surprisingly tricky and it’s impossible to write a generic function that handles all the nuances."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Checking if a file exists is surprisingly tricky and it’s impossible to write a generic function that handles all the nuances."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087248,
+        "id": "a04d5e0a-d110-4721-9599-a2bbbe950b53",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087248,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here are decisions we made: * it treats files and directories the same. If a path exists and you want to distinguish between directory and a file, you would need to call "
+            ],
+            [
+              "IsDir()",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " on result of "
+            ],
+            [
+              "os.Lstat",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " * if a file is a symbolic link, do test the link or the real file it links to? We used "
+            ],
+            [
+              "os.Lstat",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " so we test the link. We could also use "
+            ],
+            [
+              "os.Stat",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " to resolve the symbolic link * “path doesn’t exist” is only one of possible errors returned by "
+            ],
+            [
+              "os.Lstat",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". Do we want to distinguish between “file doesn’t exist” and “file exists and we don’t have access”? We decided to be more informative but in some cases it would be simpler to just return a bool and always return false if "
+            ],
+            [
+              "os.Lstat",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " fails"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Here are decisions we made: * it treats files and directories the same. If a path exists and you want to distinguish between directory and a file, you would need to call "
+          },
+          {
+            "Text": "IsDir()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " on result of "
+          },
+          {
+            "Text": "os.Lstat",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " * if a file is a symbolic link, do test the link or the real file it links to? We used "
+          },
+          {
+            "Text": "os.Lstat",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " so we test the link. We could also use "
+          },
+          {
+            "Text": "os.Stat",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to resolve the symbolic link * “path doesn’t exist” is only one of possible errors returned by "
+          },
+          {
+            "Text": "os.Lstat",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ". Do we want to distinguish between “file doesn’t exist” and “file exists and we don’t have access”? We decided to be more informative but in some cases it would be simpler to just return a bool and always return false if "
+          },
+          {
+            "Text": "os.Lstat",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " fails"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087248,
+        "id": "38a3baa1-a7fa-4b0b-979a-797cb1d55bcc",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087248,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Delete a file"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Delete a file"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087249,
+        "id": "c57a0fb6-e6be-47f3-bd39-7d7ebc2b23ee",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206562163,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "path := \"foo.txt\"\nerr := os.Remove(path)\nif err != nil {\n    if os.IsNotExist(err) {\n        fmt.Printf(\"os.Remove failed because file doesn't exist\\n\")\n    } else {\n        fmt.Printf(\"os.Remove failed with '%s'\\n\", err)\n    }\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "path := \"foo.txt\"\nerr := os.Remove(path)\nif err != nil {\n    if os.IsNotExist(err) {\n        fmt.Printf(\"os.Remove failed because file doesn't exist\\n\")\n    } else {\n        fmt.Printf(\"os.Remove failed with '%s'\\n\", err)\n    }\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087249,
+        "id": "53545b81-feec-40ac-9f54-4ff83e9e4bad",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087249,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "os.Remove",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " returns an error for files that don’t exist."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "os.Remove",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " returns an error for files that don’t exist."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087249,
+        "id": "5e392633-a430-401a-a92a-16740cc8d8b6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087249,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Usually you want to ignore such errors which you can do by testing error with "
+            ],
+            [
+              "os.IsNotExist(err)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Usually you want to ignore such errors which you can do by testing error with "
+          },
+          {
+            "Text": "os.IsNotExist(err)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087249,
+        "id": "54e44cee-fdc1-4d42-9701-bd1890918172",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087249,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Rename a file"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Rename a file"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087249,
+        "id": "bc636709-a3f2-425e-8a2f-1c3d6c020306",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532206565266,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "oldPath := \"old_name.txt\"\nnewPath := \"new_name.txt\"\nerr := os.Rename(oldPath, newPath)\nif err != nil {\n    fmt.Printf(\"os.Rename failed with '%s'\\n\", err)\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "oldPath := \"old_name.txt\"\nnewPath := \"new_name.txt\"\nerr := os.Rename(oldPath, newPath)\nif err != nil {\n    fmt.Printf(\"os.Rename failed with '%s'\\n\", err)\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087250,
+        "id": "a7776bbc-878e-4be2-8f9f-91c96667928b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087250,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Copy a file"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Copy a file"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087250,
+        "id": "97c48363-26e3-4d67-98df-9f43941d3c6c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087250,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file file_copy.go sha1:2f3f1dbd0d3c95b473802cbc841610f161f8193d goplayground:Mr3njneW17O"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file file_copy.go sha1:2f3f1dbd0d3c95b473802cbc841610f161f8193d goplayground:Mr3njneW17O"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087250,
+        "id": "e8994286-123d-4991-abf8-4f302623eb1e",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087250,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Writing a generic function for copying files is tricky and it’s impossible to write a function that serves all use cases."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Writing a generic function for copying files is tricky and it’s impossible to write a function that serves all use cases."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087250,
+        "id": "7c5dd6f6-e8a5-443d-998a-e641d06e6945",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087250,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Here are policy decisions we made: * should we over-write existing files or return error if destination exists? We decided to over-write * what permissions should new file have? We decided for the simplest case of using default permissions. Another option would be to copy permissions from source or allow the caller to provide permissions"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Here are policy decisions we made: * should we over-write existing files or return error if destination exists? We decided to over-write * what permissions should new file have? We decided for the simplest case of using default permissions. Another option would be to copy permissions from source or allow the caller to provide permissions"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156087250,
+        "id": "ade034c7-a096-431f-9740-1ec373b67a95",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156087250,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you want different behavior, you will have to modify the code as needed."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you want different behavior, you will have to modify the code as needed."
+          }
+        ]
+      }
+    ],
+    "title": "File operations",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

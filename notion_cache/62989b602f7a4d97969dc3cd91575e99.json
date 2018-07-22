@@ -1,0 +1,396 @@
+{
+  "ID": "62989b60-2f7a-4d97-969d-c3cd91575e99",
+  "Page": {
+    "alive": true,
+    "content": [
+      "db99a8ea-6011-40d4-a4e0-c9baf5136022",
+      "68bc21f4-2daa-4feb-8a84-ec19f80f8d06",
+      "9d8b1a27-3322-47ff-98f7-c7cba4ff44d6",
+      "a16fd2ab-0854-4bfc-8a90-6cace9eefd4f",
+      "75d3ef10-3cf9-4e48-bb40-6556a186c03f",
+      "6064d284-392f-4d02-810d-b584d948a90b",
+      "72b31ae7-7645-4b24-b95d-72ff35401caa",
+      "3fbf8461-9731-406f-adf9-1afafef84449",
+      "15d0ad1d-4436-472c-a52c-d8aadd30eaa7",
+      "b97c13a3-dea9-4271-a129-6cc4c362d67f",
+      "89409d84-a332-46cb-8df1-f9f7320824ff",
+      "f162fa96-3811-45fc-b6eb-8b44b7b3caed"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156048596,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "62989b60-2f7a-4d97-969d-c3cd91575e99",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532236110011,
+    "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Handling an error"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205118267,
+        "id": "db99a8ea-6011-40d4-a4e0-c9baf5136022",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236111227,
+        "parent_id": "62989b60-2f7a-4d97-969d-c3cd91575e99",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 124"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 124"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205119759,
+        "id": "68bc21f4-2daa-4feb-8a84-ec19f80f8d06",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532236112118,
+        "parent_id": "62989b60-2f7a-4d97-969d-c3cd91575e99",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 2708"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 2708"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205122630,
+        "id": "9d8b1a27-3322-47ff-98f7-c7cba4ff44d6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205122630,
+        "parent_id": "62989b60-2f7a-4d97-969d-c3cd91575e99",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532205121413,
+        "id": "a16fd2ab-0854-4bfc-8a90-6cace9eefd4f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205122383,
+        "parent_id": "62989b60-2f7a-4d97-969d-c3cd91575e99",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "In Go errors can be returned from a function call. The convention is that if a method can fail, the last returned argument is an "
+            ],
+            [
+              "error",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "In Go errors can be returned from a function call. The convention is that if a method can fail, the last returned argument is an "
+          },
+          {
+            "Text": "error",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156048594,
+        "id": "75d3ef10-3cf9-4e48-bb40-6556a186c03f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205131961,
+        "parent_id": "62989b60-2f7a-4d97-969d-c3cd91575e99",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func DoAndReturnSomething() (string, error) {\n    if os.Getenv(\"ERROR\") == \"1\" {\n        return \"\", errors.New(\"The method failed\")\n    }\n\n    // The method succeeded.\n    return \"Success!\", nil\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func DoAndReturnSomething() (string, error) {\n    if os.Getenv(\"ERROR\") == \"1\" {\n        return \"\", errors.New(\"The method failed\")\n    }\n\n    // The method succeeded.\n    return \"Success!\", nil\n}",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156048595,
+        "id": "6064d284-392f-4d02-810d-b584d948a90b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156048595,
+        "parent_id": "62989b60-2f7a-4d97-969d-c3cd91575e99",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You use multiple variable assignments to check if the method failed."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "You use multiple variable assignments to check if the method failed."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156048595,
+        "id": "72b31ae7-7645-4b24-b95d-72ff35401caa",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205135005,
+        "parent_id": "62989b60-2f7a-4d97-969d-c3cd91575e99",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "result, err := DoAndReturnSomething()\nif err != nil {\n    panic(err)\n}\n\n// This is executed only if the method didn't return an error\nfmt.Println(result)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "result, err := DoAndReturnSomething()\nif err != nil {\n    panic(err)\n}\n\n// This is executed only if the method didn't return an error\nfmt.Println(result)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156048595,
+        "id": "3fbf8461-9731-406f-adf9-1afafef84449",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156048595,
+        "parent_id": "62989b60-2f7a-4d97-969d-c3cd91575e99",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you are not interested in the error, you can simply ignore it by assigning it to "
+            ],
+            [
+              "_",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you are not interested in the error, you can simply ignore it by assigning it to "
+          },
+          {
+            "Text": "_",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156048595,
+        "id": "15d0ad1d-4436-472c-a52c-d8aadd30eaa7",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205138037,
+        "parent_id": "62989b60-2f7a-4d97-969d-c3cd91575e99",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "result, _ := DoAndReturnSomething()\nfmt.Println(result)"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "result, _ := DoAndReturnSomething()\nfmt.Println(result)",
+        "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156048596,
+        "id": "b97c13a3-dea9-4271-a129-6cc4c362d67f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156048596,
+        "parent_id": "62989b60-2f7a-4d97-969d-c3cd91575e99",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Of course, ignoring an error can have serious implications. Therefore, this is generally not recommended."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Of course, ignoring an error can have serious implications. Therefore, this is generally not recommended."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156048596,
+        "id": "89409d84-a332-46cb-8df1-f9f7320824ff",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156048596,
+        "parent_id": "62989b60-2f7a-4d97-969d-c3cd91575e99",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you have multiple method calls, and one or more methods in the chain may return an error, you should propagate the error to the first level that can handle it."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "If you have multiple method calls, and one or more methods in the chain may return an error, you should propagate the error to the first level that can handle it."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156048596,
+        "id": "f162fa96-3811-45fc-b6eb-8b44b7b3caed",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532205141527,
+        "parent_id": "62989b60-2f7a-4d97-969d-c3cd91575e99",
+        "parent_table": "block",
+        "properties": {
+          "language": [
+            [
+              "Go"
+            ]
+          ],
+          "title": [
+            [
+              "func Foo() error {\n    return errors.New(\"I failed!\")\n}\n\nfunc Bar() (string, error) {\n    err := Foo()\n    if err != nil {\n        return \"\", err\n    }\n\n    return \"I succeeded\", nil\n}\n\nfunc Baz() (string, string, error) {\n    res, err := Bar()\n    if err != nil {\n        return \"\", \"\", err\n    }\n\n    return \"Foo\", \"Bar\", nil\n}"
+            ]
+          ]
+        },
+        "type": "code",
+        "version": 3,
+        "code": "func Foo() error {\n    return errors.New(\"I failed!\")\n}\n\nfunc Bar() (string, error) {\n    err := Foo()\n    if err != nil {\n        return \"\", err\n    }\n\n    return \"I succeeded\", nil\n}\n\nfunc Baz() (string, string, error) {\n    res, err := Bar()\n    if err != nil {\n        return \"\", \"\", err\n    }\n\n    return \"Foo\", \"Bar\", nil\n}",
+        "code_language": "Go"
+      }
+    ],
+    "title": "Handling an error",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

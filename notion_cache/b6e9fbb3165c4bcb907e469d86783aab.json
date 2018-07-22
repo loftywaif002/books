@@ -1,0 +1,238 @@
+{
+  "ID": "b6e9fbb3-165c-4bcb-907e-469d86783aab",
+  "Page": {
+    "alive": true,
+    "content": [
+      "f955b41e-0caf-4530-bb5a-8ade01c826eb",
+      "13d0fd25-bd5d-4e5e-be61-c3998e9bb449",
+      "124e9bcd-85a0-46f4-b94e-714b3d5217f5",
+      "06bbb609-f846-419b-8dab-08988bfb1ca6",
+      "8d954c4c-b101-4e12-87b7-134b07bc84bc",
+      "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+      "1b36c697-0278-458b-997a-65d72e2e43af"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156106101,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "b6e9fbb3-165c-4bcb-907e-469d86783aab",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532207377959,
+    "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "hex, base64 encoding"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 23,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207363334,
+        "id": "f955b41e-0caf-4530-bb5a-8ade01c826eb",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207365550,
+        "parent_id": "b6e9fbb3-165c-4bcb-907e-469d86783aab",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 179"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 179"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207365550,
+        "id": "13d0fd25-bd5d-4e5e-be61-c3998e9bb449",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207369160,
+        "parent_id": "b6e9fbb3-165c-4bcb-907e-469d86783aab",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 4492"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 16,
+        "inline_content": [
+          {
+            "Text": "$SOId: 4492"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207369160,
+        "id": "124e9bcd-85a0-46f4-b94e-714b3d5217f5",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207370407,
+        "parent_id": "b6e9fbb3-165c-4bcb-907e-469d86783aab",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Sometimes you need to encode bytes into a text."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Sometimes you need to encode bytes into a text."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156106101,
+        "id": "06bbb609-f846-419b-8dab-08988bfb1ca6",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156106101,
+        "parent_id": "b6e9fbb3-165c-4bcb-907e-469d86783aab",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Most popular encodings are hex, where each byte is represented by 2 characters and base64 where each 3 bytes are encoded as 4 characters."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Most popular encodings are hex, where each byte is represented by 2 characters and base64 where each 3 bytes are encoded as 4 characters."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532207359571,
+        "id": "8d954c4c-b101-4e12-87b7-134b07bc84bc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207359571,
+        "parent_id": "b6e9fbb3-165c-4bcb-907e-469d86783aab",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156107236,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "0b47c9a2-a532-4eeb-be33-7e846cf139d1",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207417066,
+        "parent_id": "b6e9fbb3-165c-4bcb-907e-469d86783aab",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "hex"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "hex",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156108144,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "1b36c697-0278-458b-997a-65d72e2e43af",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532207440895,
+        "parent_id": "b6e9fbb3-165c-4bcb-907e-469d86783aab",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "base64"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 23,
+        "title": "base64",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      }
+    ],
+    "title": "hex, base64 encoding",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

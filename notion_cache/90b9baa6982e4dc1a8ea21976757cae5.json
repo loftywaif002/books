@@ -1,0 +1,215 @@
+{
+  "ID": "90b9baa6-982e-4dc1-a8ea-21976757cae5",
+  "Page": {
+    "alive": true,
+    "content": [
+      "eadf2ba0-9d01-4946-9bf2-af7ad1c91936",
+      "840ac34c-adbe-4e81-af33-fbc5a68e8a70",
+      "3a106b1a-3882-40e2-b81a-415519298469",
+      "e3b8e7c5-90e9-4855-9000-2232b4be6b8b",
+      "15bb5a64-5692-40fe-8ab3-e49a02b393df",
+      "1990aa6f-7ced-4c9e-8329-6ee7a1bf3c85"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532156000114,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "90b9baa6-982e-4dc1-a8ea-21976757cae5",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532235250169,
+    "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Use map as a set"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 21,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196685863,
+        "id": "eadf2ba0-9d01-4946-9bf2-af7ad1c91936",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235250996,
+        "parent_id": "90b9baa6-982e-4dc1-a8ea-21976757cae5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 77"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 77"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196687901,
+        "id": "840ac34c-adbe-4e81-af33-fbc5a68e8a70",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532235251708,
+        "parent_id": "90b9baa6-982e-4dc1-a8ea-21976757cae5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 14398"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "$SOId: 14398"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532196691340,
+        "id": "3a106b1a-3882-40e2-b81a-415519298469",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532196691352,
+        "parent_id": "90b9baa6-982e-4dc1-a8ea-21976757cae5",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156000114,
+        "id": "e3b8e7c5-90e9-4855-9000-2232b4be6b8b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156000114,
+        "parent_id": "90b9baa6-982e-4dc1-a8ea-21976757cae5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Some languages have a native structure for sets. To make a set in Go, it’s best practice to use a map from the value type of the set to an empty struct ("
+            ],
+            [
+              "map[Type]struct{}",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ")."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Some languages have a native structure for sets. To make a set in Go, it’s best practice to use a map from the value type of the set to an empty struct ("
+          },
+          {
+            "Text": "map[Type]struct{}",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ")."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156000114,
+        "id": "15bb5a64-5692-40fe-8ab3-e49a02b393df",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156000114,
+        "parent_id": "90b9baa6-982e-4dc1-a8ea-21976757cae5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For example, with strings:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For example, with strings:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156000114,
+        "id": "1990aa6f-7ced-4c9e-8329-6ee7a1bf3c85",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532156000114,
+        "parent_id": "90b9baa6-982e-4dc1-a8ea-21976757cae5",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file maps_as_sets.go output sha1:9356d0423461567e7128b60aea266d356ef7e33b goplayground:CCCOYYSl2R0"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file maps_as_sets.go output sha1:9356d0423461567e7128b60aea266d356ef7e33b goplayground:CCCOYYSl2R0"
+          }
+        ]
+      }
+    ],
+    "title": "Use map as a set",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

@@ -1,0 +1,562 @@
+{
+  "ID": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
+  "Page": {
+    "alive": true,
+    "content": [
+      "432ed1a3-3029-49c0-92d3-1451141440ee",
+      "28a42e9b-a8e0-4630-b907-faa5b2384cee",
+      "548a9ba0-b09a-4501-b104-68e162aa23df",
+      "4a2007ef-2c71-4c99-acac-c93c96f99424",
+      "aa09f9fa-b4f1-4345-97a2-1ac61bf0f3ba",
+      "c41a870e-06a1-474d-80a8-91d7836561ac",
+      "d9aa7f07-3f14-46f4-98a4-2c023e7a2e9f",
+      "8bcb5c5a-cc88-4165-95a0-e48765c94e1b",
+      "0c67eaf9-db87-42f1-aa10-ffba555ea5c3",
+      "aa9aed1a-10f8-416d-be07-957367bcb7c5",
+      "ba545e6f-39e0-42cb-85af-55e7adaf09b9",
+      "e6639c2d-58af-4fb5-8fb4-88088644f56b",
+      "04e67ab7-9f67-444a-bf43-3bb373e49aa6"
+    ],
+    "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "created_time": 1532155977184,
+    "format": {
+      "page_full_width": true,
+      "page_small_text": true
+    },
+    "id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
+    "ignore_block_count": true,
+    "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+    "last_edited_time": 1532234689023,
+    "parent_id": "58db8c9a-5650-4dea-b2e6-1f1e0fa4a0a6",
+    "parent_table": "block",
+    "properties": {
+      "title": [
+        [
+          "Multidimensional array"
+        ]
+      ]
+    },
+    "type": "page",
+    "version": 27,
+    "content_resolved": [
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195977095,
+        "id": "432ed1a3-3029-49c0-92d3-1451141440ee",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234690084,
+        "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Id: 58"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Id: 58"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195978998,
+        "id": "28a42e9b-a8e0-4630-b907-faa5b2384cee",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234691831,
+        "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$Score: -2"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$Score: -2"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195980906,
+        "id": "548a9ba0-b09a-4501-b104-68e162aa23df",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532234695147,
+        "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "$SOId: 7303"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "$SOId: 7303"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195984134,
+        "id": "4a2007ef-2c71-4c99-acac-c93c96f99424",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195984134,
+        "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195982442,
+        "id": "aa09f9fa-b4f1-4345-97a2-1ac61bf0f3ba",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195983824,
+        "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Multidimensional arrays are basically arrays containing other arrays as elements. It is represented like "
+            ],
+            [
+              "[sizeDim1][sizeDim2]..[sizeLastDim]type",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ", replacing "
+            ],
+            [
+              "sizeDim",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " by numbers corresponding to the length of the dimension, and "
+            ],
+            [
+              "type",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " by the type of data in the multidimensional array."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Multidimensional arrays are basically arrays containing other arrays as elements. It is represented like "
+          },
+          {
+            "Text": "[sizeDim1][sizeDim2]..[sizeLastDim]type",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", replacing "
+          },
+          {
+            "Text": "sizeDim",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " by numbers corresponding to the length of the dimension, and "
+          },
+          {
+            "Text": "type",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " by the type of data in the multidimensional array."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155977183,
+        "id": "c41a870e-06a1-474d-80a8-91d7836561ac",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155977183,
+        "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "For example, "
+            ],
+            [
+              "[2][3]int",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " represents an array composed of "
+            ],
+            [
+              "2 sub arrays",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " of "
+            ],
+            [
+              "3 int typed elements",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              ". This could be used to represent a matrix of "
+            ],
+            [
+              "2 lines",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "3 columns",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "For example, "
+          },
+          {
+            "Text": "[2][3]int",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " represents an array composed of "
+          },
+          {
+            "Text": "2 sub arrays",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " of "
+          },
+          {
+            "Text": "3 int typed elements",
+            "AttrFlags": 1
+          },
+          {
+            "Text": ". This could be used to represent a matrix of "
+          },
+          {
+            "Text": "2 lines",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "3 columns",
+            "AttrFlags": 1
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155977183,
+        "id": "d9aa7f07-3f14-46f4-98a4-2c023e7a2e9f",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155977183,
+        "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It’s possible to create arrays with a lot of dimensions. For example "
+            ],
+            [
+              "var values := [2017][12][31][24][60]int",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " could store a number for each minute since Year 0."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "It’s possible to create arrays with a lot of dimensions. For example "
+          },
+          {
+            "Text": "var values := [2017][12][31][24][60]int",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " could store a number for each minute since Year 0."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155977184,
+        "id": "8bcb5c5a-cc88-4165-95a0-e48765c94e1b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155977184,
+        "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "To access the array in the example above (for example, searching for the value of “2016-01-31 at 19:42”), you would access "
+            ],
+            [
+              "values[2016][0][30][19][42]",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " (because "
+            ],
+            [
+              "array indexes start at 0",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " and not at 1 like days and months)"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "To access the array in the example above (for example, searching for the value of “2016-01-31 at 19:42”), you would access "
+          },
+          {
+            "Text": "values[2016][0][30][19][42]",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " (because "
+          },
+          {
+            "Text": "array indexes start at 0",
+            "AttrFlags": 1
+          },
+          {
+            "Text": " and not at 1 like days and months)"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155977184,
+        "id": "0c67eaf9-db87-42f1-aa10-ffba555ea5c3",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155977184,
+        "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Some examples follow:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "Some examples follow:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155977184,
+        "id": "aa9aed1a-10f8-416d-be07-957367bcb7c5",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155977184,
+        "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file multidimension_array.go output sha1:6f6d04c233a8797b3f8e844dd90333e9b113a6c7 goplayground:50YPzcT_N8u"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file multidimension_array.go output sha1:6f6d04c233a8797b3f8e844dd90333e9b113a6c7 goplayground:50YPzcT_N8u"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155977184,
+        "id": "ba545e6f-39e0-42cb-85af-55e7adaf09b9",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155977184,
+        "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file multidimension_array2.go sha1:36bc4a283726d10519e47ffb3718bbcd3b612de1 goplayground:ZOrLrGfZfW7"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file multidimension_array2.go sha1:36bc4a283726d10519e47ffb3718bbcd3b612de1 goplayground:ZOrLrGfZfW7"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155977184,
+        "id": "e6639c2d-58af-4fb5-8fb4-88088644f56b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532155977184,
+        "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "@file multidimension_array3.go sha1:8700f6b7766aa277534f63def9cd8a1cbe4e8a21 goplayground:iTvnKtbjN9L"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1,
+        "inline_content": [
+          {
+            "Text": "@file multidimension_array3.go sha1:8700f6b7766aa277534f63def9cd8a1cbe4e8a21 goplayground:iTvnKtbjN9L"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532195992180,
+        "id": "04e67ab7-9f67-444a-bf43-3bb373e49aa6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1532195992180,
+        "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      }
+    ],
+    "title": "Multidimensional array",
+    "format_page": {
+      "page_cover": "",
+      "page_cover_position": 0,
+      "page_font": "",
+      "page_full_width": true,
+      "page_icon": "",
+      "page_small_text": true
+    }
+  },
+  "Users": [
+    {
+      "email": "kkowalczyk@gmail.com",
+      "family_name": "Kowalczyk",
+      "given_name": "Krzysztof",
+      "id": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+      "locale": "en",
+      "mobile_onboarding_completed": true,
+      "onboarding_completed": true,
+      "profile_photo": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/2dcaa66c-7674-4ff6-9924-601785b63561/head-bw-640x960.png",
+      "time_zone": "America/Los_Angeles",
+      "version": 10
+    }
+  ],
+  "Collections": null,
+  "CollectionViews": null
+}

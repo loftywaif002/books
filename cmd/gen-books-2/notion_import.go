@@ -18,7 +18,7 @@ var (
 	// if true, we'll log
 	logNotionRequests = true
 
-	notionIDToPage = map[string]*notionapi.PageInfo{}
+	notionIDToPage = map[string]*notionapi.Page{}
 
 	cacheDir     = "notion_cache"
 	notionLogDir = "log"
@@ -79,7 +79,7 @@ func findSubPageIDs(blocks []*notionapi.Block) []string {
 	return res
 }
 
-func loadPageFromCache(pageID string) *notionapi.PageInfo {
+func loadPageFromCache(pageID string) *notionapi.Page {
 	if !useCacheForNotion {
 		return nil
 	}
@@ -90,21 +90,21 @@ func loadPageFromCache(pageID string) *notionapi.PageInfo {
 		return nil
 	}
 
-	var pageInfo notionapi.PageInfo
+	var pageInfo notionapi.Page
 	err = json.Unmarshal(d, &pageInfo)
 	panicIfErr(err)
-	fmt.Printf("Got %s from cache (%s)\n", pageID, pageInfo.Page.Title)
+	fmt.Printf("Got %s from cache (%s)\n", pageID, pageInfo.Root.Title)
 	return &pageInfo
 }
 
-func downloadAndCachePage(pageID string) (*notionapi.PageInfo, error) {
+func downloadAndCachePage(pageID string) (*notionapi.Page, error) {
 	//fmt.Printf("downloading page with id %s\n", pageID)
 	lf, _ := openLogFileForPageID(pageID)
 	if lf != nil {
 		defer lf.Close()
 	}
 	cachedPath := filepath.Join(cacheDir, pageID+".json")
-	res, err := notionapi.GetPageInfo(pageID)
+	res, err := notionapi.DownloadPage(pageID)
 	if err != nil {
 		return nil, err
 	}
@@ -119,8 +119,8 @@ func downloadAndCachePage(pageID string) (*notionapi.PageInfo, error) {
 	return res, nil
 }
 
-func loadNotionPages(indexPageID string) []*notionapi.PageInfo {
-	var res []*notionapi.PageInfo
+func loadNotionPages(indexPageID string) []*notionapi.Page {
+	var res []*notionapi.Page
 
 	toVisit := []string{indexPageID}
 
@@ -137,23 +137,23 @@ func loadNotionPages(indexPageID string) []*notionapi.PageInfo {
 		if page == nil {
 			page, err = downloadAndCachePage(pageID)
 			panicIfErr(err)
-			fmt.Printf("Downloaded %s %s\n", pageID, page.Page.Title)
+			fmt.Printf("Downloaded %s %s\n", pageID, page.Root.Title)
 		}
 
 		notionIDToPage[pageID] = page
 		res = append(res, page)
 
-		subPages := findSubPageIDs(page.Page.Content)
+		subPages := findSubPageIDs(page.Root.Content)
 		toVisit = append(toVisit, subPages...)
 	}
 
 	return res
 }
 
-func loadAllPages() []*notionapi.PageInfo {
+func loadAllPages() []*notionapi.Page {
 	loadNotionPages(notionGoStartPage)
 	n := len(notionIDToPage)
-	res := make([]*notionapi.PageInfo, 0, n)
+	res := make([]*notionapi.Page, 0, n)
 	for _, page := range notionIDToPage {
 		res = append(res, page)
 	}

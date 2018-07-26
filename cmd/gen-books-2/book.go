@@ -28,7 +28,7 @@ type Book struct {
 
 // Page represents a singl
 type Page struct {
-	NotionPage *notionapi.PageInfo
+	NotionPage *notionapi.Page
 	Title      string
 	// reference to parent page, nil if top-level page
 	Parent *Page
@@ -44,10 +44,10 @@ type Page struct {
 
 // extract sub page information and removes blocks that contain
 // this info
-func getSubPages(page *notionapi.PageInfo, pageIDToPage map[string]*notionapi.PageInfo) []*notionapi.PageInfo {
-	var res []*notionapi.PageInfo
+func getSubPages(page *notionapi.Page, pageIDToPage map[string]*notionapi.Page) []*notionapi.Page {
+	var res []*notionapi.Page
 	var newBlocks []*notionapi.Block
-	for _, block := range page.Page.Content {
+	for _, block := range page.Root.Content {
 		if block.Type != notionapi.BlockPage {
 			newBlocks = append(newBlocks, block)
 			continue
@@ -58,7 +58,7 @@ func getSubPages(page *notionapi.PageInfo, pageIDToPage map[string]*notionapi.Pa
 		res = append(res, subPage)
 	}
 	// this is a bit hacky as not ContentIDs is out of sync
-	page.Page.Content = newBlocks
+	page.Root.Content = newBlocks
 	return res
 }
 
@@ -104,10 +104,10 @@ func extractMetaValueFromBlock(block *notionapi.Block) *MetaValue {
 
 // extracts PageMeta and updates Block.Content to remove the blocks that
 // contained meta information
-func extractMeta(page *notionapi.PageInfo) *PageMeta {
+func extractMeta(page *notionapi.Page) *PageMeta {
 	res := &PageMeta{}
 	var newBlocks []*notionapi.Block
-	for _, block := range page.Page.Content {
+	for _, block := range page.Root.Content {
 		mv := extractMetaValueFromBlock(block)
 		if mv == nil {
 			newBlocks = append(newBlocks, block)
@@ -124,13 +124,13 @@ func extractMeta(page *notionapi.PageInfo) *PageMeta {
 		}
 	}
 	// TODO: hacky because ContentIDs is not out of synca
-	page.Page.Content = newBlocks
+	page.Root.Content = newBlocks
 	return res
 }
 
-func bookPageFromNotionPage(page *notionapi.PageInfo, pageIDToPage map[string]*notionapi.PageInfo) *Page {
+func bookPageFromNotionPage(page *notionapi.Page, pageIDToPage map[string]*notionapi.Page) *Page {
 	res := &Page{}
-	res.Title = page.Page.Title
+	res.Title = page.Root.Title
 	subPages := getSubPages(page, pageIDToPage)
 
 	for _, subPage := range subPages {
@@ -140,11 +140,11 @@ func bookPageFromNotionPage(page *notionapi.PageInfo, pageIDToPage map[string]*n
 	return res
 }
 
-func bookFromPages(startPageID string, pageIDToPage map[string]*notionapi.PageInfo) *Book {
+func bookFromPages(startPageID string, pageIDToPage map[string]*notionapi.Page) *Book {
 	page := pageIDToPage[startPageID]
-	panicIf(page.Page.Type != notionapi.BlockPage, "start block is of type '%s' and not '%s'", page.Page.Type, notionapi.BlockPage)
+	panicIf(page.Root.Type != notionapi.BlockPage, "start block is of type '%s' and not '%s'", page.Root.Type, notionapi.BlockPage)
 	book := &Book{}
-	book.Title = page.Page.Title
+	book.Title = page.Root.Title
 	pages := getSubPages(page, pageIDToPage)
 	for _, page := range pages {
 		bookPage := bookPageFromNotionPage(page, pageIDToPage)

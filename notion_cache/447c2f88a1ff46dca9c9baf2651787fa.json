@@ -1,6 +1,6 @@
 {
   "ID": "447c2f88-a1ff-46dc-a9c9-baf2651787fa",
-  "Page": {
+  "Root": {
     "alive": true,
     "content": [
       "618f9d75-71f9-4852-a057-348f7a0fd098",
@@ -85,6 +85,7 @@
       },
       {
         "alive": true,
+        "copied_from": "ce9cb693-7140-4987-b8c5-d5082ecf16ba",
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532232682040,
         "id": "8d0c80ec-35cf-4dba-a912-d41e287bfb0e",
@@ -109,6 +110,7 @@
       },
       {
         "alive": true,
+        "copied_from": "f4d631c7-3d6b-4aa0-b54f-6c4a3d48520a",
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532232682042,
         "id": "d7337e23-d69f-4c12-95db-8459835f6c41",
@@ -382,6 +384,5 @@
       "version": 10
     }
   ],
-  "Collections": null,
-  "CollectionViews": null
+  "Tables": null
 }

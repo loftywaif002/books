@@ -128,7 +128,7 @@ func extractMeta(page *notionapi.Page) *PageMeta {
 			panicIf(true, "unknown key '%s' in page with id %s", mv.Key, normalizeID(page.ID))
 		}
 	}
-	// TODO: hacky because ContentIDs is not out of synca
+	// TODO: hacky because ContentIDs is now out of sync
 	page.Root.Content = newBlocks
 	return res
 }

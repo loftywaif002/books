@@ -1,6 +1,6 @@
 {
   "ID": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
-  "Page": {
+  "Root": {
     "alive": true,
     "content": [
       "0e9834a6-c1c9-47e2-90e9-a6e3dbde4435",
@@ -101,6 +101,7 @@
       },
       {
         "alive": true,
+        "copied_from": "f72afdec-e17e-44f3-9484-9335d1fd1192",
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532232855068,
         "id": "a53a99ca-8ef7-4373-9924-441ec8b1529e",
@@ -125,6 +126,7 @@
       },
       {
         "alive": true,
+        "copied_from": "41837336-4484-415f-be2b-14798b0e282f",
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532232855095,
         "id": "2c82380b-3bac-4ba9-b924-73320c0fc4cb",
@@ -149,6 +151,7 @@
       },
       {
         "alive": true,
+        "copied_from": "b057857b-51f5-4a0c-bc31-aa71a78c33f3",
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532232855065,
         "id": "76742429-7868-46c6-9ab9-91664eaf4f40",
@@ -210,6 +213,7 @@
       },
       {
         "alive": true,
+        "copied_from": "b6615ce0-238f-4173-8398-ade2136452eb",
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532232855074,
         "id": "8838cc41-1777-4d89-ad4d-62716a68ecdf",
@@ -234,6 +238,7 @@
       },
       {
         "alive": true,
+        "copied_from": "7a5d7e28-7beb-4cc9-aea7-dfb86c14cbf5",
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532232855092,
         "id": "c1c4d0b5-f0f6-40f9-9ac7-9438b976498a",
@@ -271,6 +276,7 @@
       },
       {
         "alive": true,
+        "copied_from": "e6c59640-ffb7-42ba-be1c-5fbf4fa3a2e1",
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532232855088,
         "id": "71ab0459-7be5-477a-895a-216e3c73aa06",
@@ -301,6 +307,7 @@
       },
       {
         "alive": true,
+        "copied_from": "89b3fbcb-1123-499f-9eac-7819dd9e5f02",
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532232855094,
         "id": "739324fe-a079-4593-a8b4-c3b97c117015",
@@ -1045,6 +1052,5 @@
       "version": 10
     }
   ],
-  "Collections": null,
-  "CollectionViews": null
+  "Tables": null
 }

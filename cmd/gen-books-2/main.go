@@ -1,19 +1,15 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
 
-func panicIfErr(err error) {
-	if err != nil {
-		panic(err.Error())
-	}
-}
+	"github.com/kjk/notionapi"
+)
 
-func panicIf(cond bool, format string, args ...interface{}) {
-	if cond {
-		s := fmt.Sprintf(format, args...)
-		panic(s)
-	}
-}
+var (
+	// "https://www.notion.so/kjkpublic/Essential-Go-2cab1ed2b7a44584b56b0d3ca9b80185"
+	notionGoStartPage = "2cab1ed2b7a44584b56b0d3ca9b80185"
+)
 
 var (
 	books = []string{
@@ -22,9 +18,10 @@ var (
 )
 
 func downloadBook(bookShortName, bookName, notionStartPageID string) *Book {
-	pages := loadNotionPages(notionStartPageID)
-	fmt.Printf("Loaded %d pages for book %s\n", len(pages), bookName)
-	book := bookFromPages(notionStartPageID, notionIDToPage)
+	idToPage := map[string]*notionapi.Page{}
+	loadNotionPages(notionGoStartPage, idToPage, true)
+	fmt.Printf("Loaded %d pages for book %s\n", len(idToPage), bookName)
+	book := bookFromPages(notionStartPageID, idToPage)
 	book.Title = bookShortName
 	book.TitleLong = bookName
 	return book
@@ -37,7 +34,7 @@ func genBookFiles(book *Book) {
 func main() {
 	nBooks := len(books) / 3
 	panicIf(nBooks*3 != len(books), "bad definition of books")
-	maybeRemoveNotionCache()
+	//maybeRemoveNotionCache()
 	for i := 0; i < nBooks; i++ {
 		book := downloadBook(books[i*3], books[i*3+1], books[i*3+2])
 		genBookFiles(book)

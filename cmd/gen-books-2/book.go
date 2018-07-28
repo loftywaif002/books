@@ -42,6 +42,11 @@ type Page struct {
 	IsCurrent bool // only used when part of Siblings
 }
 
+// URL returns url of the page
+func (p *Page) URL() string {
+	return ""
+}
+
 // extract sub page information and removes blocks that contain
 // this info
 func getSubPages(page *notionapi.Page, pageIDToPage map[string]*notionapi.Page) []*notionapi.Page {

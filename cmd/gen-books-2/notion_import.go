@@ -9,6 +9,7 @@ import (
 	"path/filepath"
 	"sort"
 	"strings"
+	"time"
 
 	"github.com/kjk/notionapi"
 )
@@ -18,13 +19,8 @@ var (
 	// if true, we'll log
 	logNotionRequests = true
 
-	notionIDToPage = map[string]*notionapi.Page{}
-
 	cacheDir     = "notion_cache"
 	notionLogDir = "log"
-
-	// "https://www.notion.so/kjkpublic/Essential-Go-2cab1ed2b7a44584b56b0d3ca9b80185"
-	notionGoStartPage = "2cab1ed2b7a44584b56b0d3ca9b80185"
 )
 
 // convert 2131b10c-ebf6-4938-a127-7089ff02dbe4 to 2131b10cebf64938a1277089ff02dbe4
@@ -80,21 +76,33 @@ func findSubPageIDs(blocks []*notionapi.Block) []string {
 }
 
 func loadPageFromCache(pageID string) *notionapi.Page {
-	if !useCacheForNotion {
-		return nil
-	}
-
 	cachedPath := filepath.Join(cacheDir, pageID+".json")
 	d, err := ioutil.ReadFile(cachedPath)
 	if err != nil {
 		return nil
 	}
 
-	var pageInfo notionapi.Page
-	err = json.Unmarshal(d, &pageInfo)
+	var page notionapi.Page
+	err = json.Unmarshal(d, &page)
 	panicIfErr(err)
-	fmt.Printf("Got %s from cache (%s)\n", pageID, pageInfo.Root.Title)
-	return &pageInfo
+	return &page
+}
+
+// I got "connection reset by peer" error once so retry download 3 times, with a short sleep in-between
+func downloadPageRetry(pageID string) (*notionapi.Page, error) {
+	var res *notionapi.Page
+	var err error
+	for i := 0; i < 3; i++ {
+		if i > 0 {
+			fmt.Printf("Download %s failed with '%s'\n", pageID, err)
+			time.Sleep(3 * time.Second) // not sure if it matters
+		}
+		res, err = notionapi.DownloadPage(pageID)
+		if err == nil {
+			return res, nil
+		}
+	}
+	return nil, err
 }
 
 func downloadAndCachePage(pageID string) (*notionapi.Page, error) {
@@ -104,11 +112,11 @@ func downloadAndCachePage(pageID string) (*notionapi.Page, error) {
 		defer lf.Close()
 	}
 	cachedPath := filepath.Join(cacheDir, pageID+".json")
-	res, err := notionapi.DownloadPage(pageID)
+	page, err := downloadPageRetry(pageID)
 	if err != nil {
 		return nil, err
 	}
-	d, err := json.MarshalIndent(res, "", "  ")
+	d, err := json.MarshalIndent(page, "", "  ")
 	if err == nil {
 		err = ioutil.WriteFile(cachedPath, d, 0644)
 		panicIfErr(err)
@@ -116,48 +124,62 @@ func downloadAndCachePage(pageID string) (*notionapi.Page, error) {
 		// not a fatal error, just a warning
 		fmt.Printf("json.Marshal() on pageID '%s' failed with %s\n", pageID, err)
 	}
-	return res, nil
+	return page, nil
 }
 
-func loadNotionPages(indexPageID string) []*notionapi.Page {
-	var res []*notionapi.Page
+func notionToHTML(page *notionapi.Page) []byte {
+	gen := NewHTMLGenerator(page)
+	return gen.Gen()
+}
 
+func loadNotionPage(pageID string, getFromCache bool, n int) (*notionapi.Page, error) {
+	if getFromCache {
+		page := loadPageFromCache(pageID)
+		if page != nil {
+			fmt.Printf("Got from cache %s %s\n", pageID, page.Root.Title)
+			return page, nil
+		}
+	}
+	page, err := downloadAndCachePage(pageID)
+	if err == nil {
+		fmt.Printf("Downloaded %d %s %s\n", n, page.ID, page.Root.Title)
+	}
+	return page, err
+}
+
+func loadNotionPages(indexPageID string, idToPage map[string]*notionapi.Page, useCache bool) {
 	toVisit := []string{indexPageID}
 
+	n := 1
 	for len(toVisit) > 0 {
 		pageID := normalizeID(toVisit[0])
 		toVisit = toVisit[1:]
 
-		if _, ok := notionIDToPage[pageID]; ok {
+		if _, ok := idToPage[pageID]; ok {
 			continue
 		}
 
-		var err error
-		page := loadPageFromCache(pageID)
-		if page == nil {
-			page, err = downloadAndCachePage(pageID)
-			panicIfErr(err)
-			fmt.Printf("Downloaded %s %s\n", pageID, page.Root.Title)
-		}
+		page, err := loadNotionPage(pageID, useCache, n)
+		panicIfErr(err)
+		n++
 
-		notionIDToPage[pageID] = page
-		res = append(res, page)
+		idToPage[pageID] = page
 
 		subPages := findSubPageIDs(page.Root.Content)
 		toVisit = append(toVisit, subPages...)
 	}
-
-	return res
 }
 
-func loadAllPages() []*notionapi.Page {
-	loadNotionPages(notionGoStartPage)
-	n := len(notionIDToPage)
-	res := make([]*notionapi.Page, 0, n)
-	for _, page := range notionIDToPage {
-		res = append(res, page)
+func loadAllPages(startIDs []string, useCache bool) map[string]*notionapi.Page {
+	idToPage := map[string]*notionapi.Page{}
+	nPrev := 0
+	for _, startID := range startIDs {
+		loadNotionPages(startID, idToPage, useCache)
+		nDownloaded := len(idToPage) - nPrev
+		fmt.Printf("Downloaded %d pages\n", nDownloaded)
+		nPrev = len(idToPage)
 	}
-	return res
+	return idToPage
 }
 
 func rmFile(path string) {
@@ -173,33 +195,27 @@ func rmCached(pageID string) {
 	rmFile(filepath.Join(cacheDir, id+".json"))
 }
 
-func createNotionDirs() {
+func createNotionCacheDir() {
+	err := os.MkdirAll(cacheDir, 0755)
+	panicIfErr(err)
+}
+
+func createNotionLogDir() {
 	if logNotionRequests {
 		err := os.MkdirAll(notionLogDir, 0755)
 		panicIfErr(err)
 	}
-	{
-		err := os.MkdirAll(cacheDir, 0755)
-		panicIfErr(err)
-	}
 }
 
-func maybeRemoveNotionCache() {
-	if useCacheForNotion {
-		return
-	}
+func createNotionDirs() {
+	createNotionLogDir()
+	createNotionCacheDir()
+}
+
+func removeCachedNotion() {
 	err := os.RemoveAll(cacheDir)
 	panicIfErr(err)
 	err = os.RemoveAll(notionLogDir)
 	panicIfErr(err)
-}
-
-// this re-downloads pages from Notion by deleting cache locally
-func notionRedownload() {
-	//notionapi.DebugLog = true
-	maybeRemoveNotionCache()
 	createNotionDirs()
-
-	pages := loadAllPages()
-	fmt.Printf("Loaded %d pages\n", len(pages))
 }

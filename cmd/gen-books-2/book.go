@@ -24,6 +24,8 @@ type Book struct {
 	tocData []byte
 	// url of combined tocData and app.js
 	AppJSURL string
+
+	idToPage map[string]*Page
 }
 
 // Page represents a single page in a book
@@ -152,6 +154,7 @@ func extractMeta(page *notionapi.Page) *PageMeta {
 
 func bookPageFromNotionPage(page *notionapi.Page, pageIDToPage map[string]*notionapi.Page) *Page {
 	res := &Page{}
+	res.NotionPage = page
 	res.Title = page.Root.Title
 	res.Meta = extractMeta(page)
 	subPages := getSubPages(page, pageIDToPage)
@@ -171,5 +174,6 @@ func bookFromPages(startPageID string, pageIDToPage map[string]*notionapi.Page) 
 	book := &Book{}
 	book.Title = page.Root.Title
 	book.RootPage = bookPageFromNotionPage(page, pageIDToPage)
+
 	return book
 }

@@ -14,12 +14,12 @@ import (
 
 // HTMLGenerator is for notion -> HTML generation
 type HTMLGenerator struct {
-	f           *bytes.Buffer
-	page        *notionapi.Page
-	level       int
-	nToggle     int
-	err         error
-	idToArticle func(string) *Page
+	f       *bytes.Buffer
+	page    *notionapi.Page
+	level   int
+	nToggle int
+	err     error
+	book    *Book
 }
 
 // NewHTMLGenerator returns new HTMLGenerator
@@ -103,21 +103,52 @@ func (g *HTMLGenerator) maybeReplaceNotionLink(uri string) string {
 	if id == "" {
 		return uri
 	}
-	article := g.idToArticle(id)
-	return article.URL()
+	page := g.book.idToPage[id]
+	return page.URL()
 }
 
 func (g *HTMLGenerator) getURLAndTitleForBlock(block *notionapi.Block) (string, string) {
 	id := normalizeID(block.ID)
-	article := g.idToArticle(id)
-	if article == nil {
+	page := g.book.idToPage[id]
+	if page == nil {
 		title := block.Title
 		fmt.Printf("No article for id %s %s\n", id, title)
 		url := "/article/" + id + "/" + urlify(title)
 		return url, title
 	}
 
-	return article.URL(), article.Title
+	return page.URL(), page.Title
+}
+
+func findPageByID(book *Book, id string) *Page {
+	var res *Page
+	fn := func(page *Page) bool {
+		if strings.EqualFold(page.Meta.ID, id) {
+			res = page
+			return false
+		}
+		return true
+	}
+	iterPages(book, fn)
+	return res
+}
+
+func (g *HTMLGenerator) reportIfInvalidLink(uri string) {
+	link := g.maybeReplaceNotionLink(uri)
+	if link != uri {
+		return
+	}
+	if strings.HasPrefix(uri, "http") {
+		return
+	}
+	pageID := normalizeID(g.page.ID)
+	fmt.Printf("Found invalid link '%s' in page https://notion.so/%s", uri, pageID)
+	destPage := findPageByID(g.book, uri)
+	if destPage != nil {
+		fmt.Printf(" most likely pointing to https://notion.so/%s\n", normalizeID(destPage.NotionPage.ID))
+	} else {
+		fmt.Printf("\n")
+	}
 }
 
 func (g *HTMLGenerator) genInlineBlock(b *notionapi.InlineBlock) {
@@ -140,6 +171,7 @@ func (g *HTMLGenerator) genInlineBlock(b *notionapi.InlineBlock) {
 	}
 	skipText := false
 	if b.Link != "" {
+		g.reportIfInvalidLink(b.Link)
 		link := g.maybeReplaceNotionLink(b.Link)
 		start += fmt.Sprintf(`<a href="%s">%s</a>`, link, b.Text)
 		skipText = true
@@ -460,7 +492,8 @@ func (g *HTMLGenerator) genContent(parent *notionapi.Block) {
 	g.genBlocks(parent.Content)
 }
 
-func notionToHTML(page *notionapi.Page) []byte {
+func notionToHTML(page *notionapi.Page, book *Book) []byte {
 	gen := NewHTMLGenerator(page)
+	gen.book = book
 	return gen.Gen()
 }

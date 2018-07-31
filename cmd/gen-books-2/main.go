@@ -35,8 +35,49 @@ func downloadBook(bookShortName, bookName, notionStartPageID string) *Book {
 	return book
 }
 
+func iterPages(book *Book, onPage func(*Page) bool) {
+	processed := map[string]bool{}
+	toProcess := []*Page{book.RootPage}
+	for len(toProcess) > 0 {
+		page := toProcess[0]
+		toProcess = toProcess[1:]
+		id := normalizeID(page.NotionPage.ID)
+		if processed[id] {
+			continue
+		}
+		processed[id] = true
+		toProcess = append(toProcess, page.Pages...)
+		shouldContinue := onPage(page)
+		if !shouldContinue {
+			return
+		}
+	}
+}
+
+func buildIdTOPage(book *Book) {
+	book.idToPage = map[string]*Page{}
+	fn := func(page *Page) bool {
+		id := normalizeID(page.NotionPage.ID)
+		book.idToPage[id] = page
+		return true
+	}
+	iterPages(book, fn)
+}
+
+func bookPagesToHTML(book *Book) {
+	nProcessed := 0
+	fn := func(page *Page) bool {
+		notionToHTML(page.NotionPage, book)
+		nProcessed++
+		return true
+	}
+	iterPages(book, fn)
+	fmt.Printf("bookPagesToHTML: processed %d pages for book %s\n", nProcessed, book.TitleLong)
+}
+
 func genBookFiles(book *Book) {
-	fmt.Printf("Generating files for book %s\n", book.TitleLong)
+	buildIdTOPage(book)
+	bookPagesToHTML(book)
 }
 
 func main() {

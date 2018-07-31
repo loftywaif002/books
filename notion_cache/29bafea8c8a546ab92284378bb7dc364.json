@@ -346,7 +346,7 @@
         "id": "21f7b75e-0e36-489f-8028-d5672ba24009",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156126132,
+        "last_edited_time": 1533063587936,
         "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
         "parent_table": "block",
         "properties": {
@@ -359,7 +359,7 @@
               [
                 [
                   "a",
-                  "182"
+                  "https://www.notion.so/kjkpublic/JSON-1479bc5a08b64dbb8aa0e2f5ed17782f"
                 ]
               ]
             ],
@@ -369,14 +369,14 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 4,
         "inline_content": [
           {
             "Text": "YAML decoding is very similar to "
           },
           {
             "Text": "JSON decoding",
-            "Link": "182"
+            "Link": "https://www.notion.so/kjkpublic/JSON-1479bc5a08b64dbb8aa0e2f5ed17782f"
           },
           {
             "Text": "."

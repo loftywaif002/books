@@ -751,7 +751,7 @@
         "id": "87752082-a7e6-4b26-8267-2c951fefab0d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156117183,
+        "last_edited_time": 1533063553402,
         "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
         "parent_table": "block",
         "properties": {
@@ -789,7 +789,7 @@
                 ],
                 [
                   "a",
-                  "94"
+                  "https://www.notion.so/kjkpublic/Empty-interface-c3315892508248fdb19b663bf8bff028"
                 ]
               ]
             ],
@@ -810,7 +810,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 12,
         "inline_content": [
           {
             "Text": "Both "
@@ -832,7 +832,7 @@
           {
             "Text": "interface{}",
             "AttrFlags": 2,
-            "Link": "94"
+            "Link": "https://www.notion.so/kjkpublic/Empty-interface-c3315892508248fdb19b663bf8bff028"
           },
           {
             "Text": " as first argument. We can pass any Go value and it’ll be wrapped into "
@@ -853,7 +853,7 @@
         "id": "5dba840c-faa3-43ac-bc02-9e4f29be2fb7",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156117184,
+        "last_edited_time": 1533063564870,
         "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
         "parent_table": "block",
         "properties": {
@@ -866,7 +866,7 @@
               [
                 [
                   "a",
-                  "224"
+                  "https://www.notion.so/kjkpublic/Reflection-c7fea6b176b74c54ab35f2d8fdd56f13"
                 ]
               ]
             ],
@@ -876,14 +876,14 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 4,
         "inline_content": [
           {
             "Text": "Marshaller will use "
           },
           {
             "Text": "reflection",
-            "Link": "224"
+            "Link": "https://www.notion.so/kjkpublic/Reflection-c7fea6b176b74c54ab35f2d8fdd56f13"
           },
           {
             "Text": " to inspect passed value and encode it as XML strings."

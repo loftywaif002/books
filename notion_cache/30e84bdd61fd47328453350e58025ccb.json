@@ -181,7 +181,7 @@
         "id": "c589c5dd-7402-4bbc-bd97-5a98d2667674",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155990202,
+        "last_edited_time": 1533063971036,
         "parent_id": "30e84bdd-61fd-4732-8453-350e58025ccb",
         "parent_table": "block",
         "properties": {
@@ -193,32 +193,19 @@
               "zero value",
               [
                 [
-                  "i"
-                ],
-                [
                   "a",
-                  "73"
+                  "https://www.notion.so/kjkpublic/Zero-value-of-a-map-f7fd36d62c1b443884f83b73c72fc5ac"
                 ]
               ]
             ],
             [
-              " of ",
-              [
-                [
-                  "a",
-                  "73"
-                ]
-              ]
+              " of "
             ],
             [
               "nil",
               [
                 [
                   "c"
-                ],
-                [
-                  "a",
-                  "73"
                 ]
               ]
             ],
@@ -230,7 +217,7 @@
               [
                 [
                   "a",
-                  "131"
+                  "https://www.notion.so/kjkpublic/Panic-and-recover-dda02e368b3048a5a69b81c56bfa6dbb"
                 ]
               ]
             ],
@@ -240,31 +227,28 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 16,
         "inline_content": [
           {
             "Text": "Maps are reference types, and once defined they have a "
           },
           {
             "Text": "zero value",
-            "AttrFlags": 4,
-            "Link": "73"
+            "Link": "https://www.notion.so/kjkpublic/Zero-value-of-a-map-f7fd36d62c1b443884f83b73c72fc5ac"
           },
           {
-            "Text": " of ",
-            "Link": "73"
+            "Text": " of "
           },
           {
             "Text": "nil",
-            "AttrFlags": 2,
-            "Link": "73"
+            "AttrFlags": 2
           },
           {
             "Text": ". Writes to nil maps will cause a "
           },
           {
             "Text": "panic",
-            "Link": "131"
+            "Link": "https://www.notion.so/kjkpublic/Panic-and-recover-dda02e368b3048a5a69b81c56bfa6dbb"
           },
           {
             "Text": " and reads will always return the zero value."

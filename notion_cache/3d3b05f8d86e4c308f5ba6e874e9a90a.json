@@ -13,7 +13,8 @@
       "d1d2ee6d-45d9-4e29-9bde-3d20232ad3cd",
       "8f19f0a3-315c-40ed-9958-f255a305a2eb",
       "6bbcf7fb-647d-4fc6-8328-9c9e3210d375",
-      "0d6eb36c-1f67-4830-913a-7f50df627e73"
+      "0d6eb36c-1f67-4830-913a-7f50df627e73",
+      "f45c3e60-29d8-4760-b166-51d2e43d3bc8"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156040194,
@@ -24,7 +25,7 @@
     "id": "3d3b05f8-d86e-4c30-8f5b-a6e874e9a90a",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236020197,
+    "last_edited_time": 1533064019752,
     "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
     "parent_table": "block",
     "properties": {
@@ -35,7 +36,7 @@
       ]
     },
     "type": "page",
-    "version": 21,
+    "version": 23,
     "content_resolved": [
       {
         "alive": true,
@@ -315,7 +316,7 @@
         "id": "0d6eb36c-1f67-4830-913a-7f50df627e73",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156040194,
+        "last_edited_time": 1533064027656,
         "parent_id": "3d3b05f8-d86e-4c30-8f5b-a6e874e9a90a",
         "parent_table": "block",
         "properties": {
@@ -328,7 +329,7 @@
               [
                 [
                   "a",
-                  "118"
+                  "https://www.notion.so/kjkpublic/Closures-04b23c4e787a43b39d3f3b26fed1b355"
                 ]
               ]
             ],
@@ -338,19 +339,31 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 11,
         "inline_content": [
           {
             "Text": "Function that closes over variables is called a "
           },
           {
             "Text": "closure",
-            "Link": "118"
+            "Link": "https://www.notion.so/kjkpublic/Closures-04b23c4e787a43b39d3f3b26fed1b355"
           },
           {
             "Text": "."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1533064019752,
+        "id": "f45c3e60-29d8-4760-b166-51d2e43d3bc8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1533064019752,
+        "parent_id": "3d3b05f8-d86e-4c30-8f5b-a6e874e9a90a",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "Function literals",

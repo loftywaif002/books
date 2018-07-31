@@ -103,7 +103,7 @@
         "id": "6835f2bf-2c4f-424d-9078-b29e00b64af3",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156110147,
+        "last_edited_time": 1533064346159,
         "parent_id": "cc86ac32-2701-4af0-acd1-e44f6546c43c",
         "parent_table": "block",
         "properties": {
@@ -116,7 +116,7 @@
               [
                 [
                   "a",
-                  "182"
+                  "https://www.notion.so/kjkpublic/JSON-1479bc5a08b64dbb8aa0e2f5ed17782f"
                 ]
               ]
             ],
@@ -126,14 +126,14 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 4,
         "inline_content": [
           {
             "Text": "Parsing "
           },
           {
             "Text": "into a struct",
-            "Link": "182"
+            "Link": "https://www.notion.so/kjkpublic/JSON-1479bc5a08b64dbb8aa0e2f5ed17782f"
           },
           {
             "Text": " is very convenient but sometimes you don’t know the structure of JSON document upfront."

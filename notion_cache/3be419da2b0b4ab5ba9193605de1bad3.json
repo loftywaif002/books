@@ -108,25 +108,13 @@
         "created_time": 1532205856942,
         "id": "7e2870f7-2ef5-4eb8-8864-fbdec8e208af",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532205858143,
+        "last_edited_time": 1533064133495,
         "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "You can "
-            ],
-            [
-              "close",
-              [
-                [
-                  "a",
-                  "144"
-                ]
-              ]
-            ],
-            [
-              " a channel with "
+              "You can close a channel with "
             ],
             [
               "close(chan)",
@@ -142,17 +130,10 @@
           ]
         },
         "type": "text",
-        "version": 12,
+        "version": 14,
         "inline_content": [
           {
-            "Text": "You can "
-          },
-          {
-            "Text": "close",
-            "Link": "144"
-          },
-          {
-            "Text": " a channel with "
+            "Text": "You can close a channel with "
           },
           {
             "Text": "close(chan)",
@@ -415,7 +396,7 @@
         "id": "b6b27341-040f-409d-93c3-be81a06bfcf6",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156069201,
+        "last_edited_time": 1533064204051,
         "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
         "parent_table": "block",
         "properties": {
@@ -436,7 +417,7 @@
                 ],
                 [
                   "a",
-                  "131"
+                  "https://www.notion.so/kjkpublic/Panic-and-recover-dda02e368b3048a5a69b81c56bfa6dbb"
                 ]
               ]
             ],
@@ -451,7 +432,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 4,
         "inline_content": [
           {
             "Text": "Closing channel twice ",
@@ -460,7 +441,7 @@
           {
             "Text": "panics",
             "AttrFlags": 1,
-            "Link": "131"
+            "Link": "https://www.notion.so/kjkpublic/Panic-and-recover-dda02e368b3048a5a69b81c56bfa6dbb"
           },
           {
             "Text": ":",
@@ -500,7 +481,7 @@
         "id": "b4a1c3cc-b0d5-4add-bc9c-fe4518ef2030",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156069201,
+        "last_edited_time": 1533064178164,
         "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
         "parent_table": "block",
         "properties": {
@@ -521,7 +502,7 @@
                 ],
                 [
                   "a",
-                  "131"
+                  "https://www.notion.so/kjkpublic/Panic-and-recover-dda02e368b3048a5a69b81c56bfa6dbb"
                 ]
               ]
             ],
@@ -536,7 +517,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 4,
         "inline_content": [
           {
             "Text": "Sending to closed channel ",
@@ -545,7 +526,7 @@
           {
             "Text": "panics",
             "AttrFlags": 1,
-            "Link": "131"
+            "Link": "https://www.notion.so/kjkpublic/Panic-and-recover-dda02e368b3048a5a69b81c56bfa6dbb"
           },
           {
             "Text": ".",

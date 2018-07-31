@@ -654,7 +654,7 @@
         "id": "f717d873-ee7d-4691-a5ed-b4ef8e77f2dc",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156055186,
+        "last_edited_time": 1533064080169,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
@@ -667,7 +667,7 @@
               [
                 [
                   "a",
-                  "118"
+                  "https://www.notion.so/kjkpublic/Closures-04b23c4e787a43b39d3f3b26fed1b355"
                 ]
               ]
             ],
@@ -677,14 +677,14 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 4,
         "inline_content": [
           {
             "Text": "We can fix this by using a "
           },
           {
             "Text": "closure",
-            "Link": "118"
+            "Link": "https://www.notion.so/kjkpublic/Closures-04b23c4e787a43b39d3f3b26fed1b355"
           },
           {
             "Text": " to capture the variable:"

@@ -439,7 +439,7 @@
         "id": "b2648f58-c981-436d-b489-52f07de7610f",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156157161,
+        "last_edited_time": 1533063648754,
         "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
         "parent_table": "block",
         "properties": {
@@ -452,7 +452,7 @@
               [
                 [
                   "a",
-                  "96"
+                  "https://www.notion.so/kjkpublic/Type-switch-b81d270c56fd42e39e2ebd5f74f0413b"
                 ]
               ]
             ],
@@ -464,7 +464,7 @@
               [
                 [
                   "a",
-                  "95"
+                  "https://www.notion.so/kjkpublic/Type-assertion-e945ebc2e0074ce49cef592e6c0f956e"
                 ]
               ]
             ],
@@ -474,21 +474,21 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 7,
         "inline_content": [
           {
             "Text": "Related language-level functionality for inspecting type of an interface value at runtime is a "
           },
           {
             "Text": "type switch",
-            "Link": "96"
+            "Link": "https://www.notion.so/kjkpublic/Type-switch-b81d270c56fd42e39e2ebd5f74f0413b"
           },
           {
             "Text": " and a "
           },
           {
             "Text": "type assertion",
-            "Link": "95"
+            "Link": "https://www.notion.so/kjkpublic/Type-assertion-e945ebc2e0074ce49cef592e6c0f956e"
           },
           {
             "Text": "."
@@ -717,7 +717,7 @@
         "id": "e8833bb0-5cd8-46b2-b964-4a685fefd86a",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156157163,
+        "last_edited_time": 1533063680318,
         "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
         "parent_table": "block",
         "properties": {
@@ -730,21 +730,27 @@
               [
                 [
                   "a",
-                  "230"
+                  "https://www.notion.so/kjkpublic/Uses-for-reflection-18a01bc7d4014d33aeb20703ec4a7cc1"
                 ]
               ]
+            ],
+            [
+              "."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 6,
         "inline_content": [
           {
             "Text": "Reflection has "
           },
           {
             "Text": "several practical uses",
-            "Link": "230"
+            "Link": "https://www.notion.so/kjkpublic/Uses-for-reflection-18a01bc7d4014d33aeb20703ec4a7cc1"
+          },
+          {
+            "Text": "."
           }
         ]
       },

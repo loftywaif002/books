@@ -230,7 +230,7 @@
         "id": "574bc974-ad70-4f66-8daf-e7bb17821903",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156109175,
+        "last_edited_time": 1533063417117,
         "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
         "parent_table": "block",
         "properties": {
@@ -268,7 +268,7 @@
                 ],
                 [
                   "a",
-                  "94"
+                  "https://www.notion.so/kjkpublic/Empty-interface-c3315892508248fdb19b663bf8bff028"
                 ]
               ]
             ],
@@ -289,7 +289,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 4,
         "inline_content": [
           {
             "Text": "Both "
@@ -311,7 +311,7 @@
           {
             "Text": "interface{}",
             "AttrFlags": 2,
-            "Link": "94"
+            "Link": "https://www.notion.so/kjkpublic/Empty-interface-c3315892508248fdb19b663bf8bff028"
           },
           {
             "Text": " as first argument. We can pass any Go value, it’ll be wrapped into "
@@ -1279,7 +1279,7 @@
         "id": "6423a628-7609-42e0-a74c-ccb540ba1240",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156109181,
+        "last_edited_time": 1533063451439,
         "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
         "parent_table": "block",
         "properties": {
@@ -1292,7 +1292,7 @@
               [
                 [
                   "a",
-                  "188"
+                  "https://www.notion.so/kjkpublic/Go-to-JSON-type-mappings-408ca6bab89f4e468d58b26a951c12d7"
                 ]
               ]
             ],
@@ -1302,14 +1302,14 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 4,
         "inline_content": [
           {
             "Text": "See more in "
           },
           {
             "Text": "type mappings",
-            "Link": "188"
+            "Link": "https://www.notion.so/kjkpublic/Go-to-JSON-type-mappings-408ca6bab89f4e468d58b26a951c12d7"
           },
           {
             "Text": "."

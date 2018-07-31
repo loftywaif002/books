@@ -222,7 +222,7 @@
         "id": "c0b154a8-5635-41f5-ba96-96c04eefdd32",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156044168,
+        "last_edited_time": 1533026440503,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "properties": {
@@ -235,7 +235,7 @@
               [
                 [
                   "a",
-                  "131"
+                  "https://www.notion.so/kjkpublic/Panic-and-recover-dda02e368b3048a5a69b81c56bfa6dbb"
                 ]
               ]
             ],
@@ -245,14 +245,14 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 4,
         "inline_content": [
           {
             "Text": "Go also includes exception handling with "
           },
           {
             "Text": "panic and recover",
-            "Link": "131"
+            "Link": "https://www.notion.so/kjkpublic/Panic-and-recover-dda02e368b3048a5a69b81c56bfa6dbb"
           },
           {
             "Text": " but it’s not supposed to be used frequently."
@@ -291,7 +291,7 @@
         "id": "8e81a199-6839-4155-985d-6f159ab301ba",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156044168,
+        "last_edited_time": 1533026456365,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "properties": {
@@ -315,7 +315,7 @@
               [
                 [
                   "a",
-                  "90"
+                  "https://www.notion.so/kjkpublic/Interfaces-4f5f2959e72c431e995527b51ad7fd8e"
                 ]
               ]
             ],
@@ -336,7 +336,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 4,
         "inline_content": [
           {
             "Text": "Type "
@@ -350,7 +350,7 @@
           },
           {
             "Text": "interface",
-            "Link": "90"
+            "Link": "https://www.notion.so/kjkpublic/Interfaces-4f5f2959e72c431e995527b51ad7fd8e"
           },
           {
             "Text": " which implements "

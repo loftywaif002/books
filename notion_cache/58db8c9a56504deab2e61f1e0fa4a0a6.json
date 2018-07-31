@@ -132,7 +132,7 @@
         "id": "a1283577-c3a8-433e-b638-63206fbf1cb3",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155974141,
+        "last_edited_time": 1533026260989,
         "parent_id": "58db8c9a-5650-4dea-b2e6-1f1e0fa4a0a6",
         "parent_table": "block",
         "properties": {
@@ -145,7 +145,7 @@
               [
                 [
                   "a",
-                  "59"
+                  "https://notion.so/f400553890d34185ba795870807c2615"
                 ]
               ]
             ],
@@ -155,14 +155,14 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 4,
         "inline_content": [
           {
             "Text": "Because of that arrays in Go are rarely used. Instead "
           },
           {
             "Text": "slices",
-            "Link": "59"
+            "Link": "https://notion.so/f400553890d34185ba795870807c2615"
           },
           {
             "Text": " are used in most cases."

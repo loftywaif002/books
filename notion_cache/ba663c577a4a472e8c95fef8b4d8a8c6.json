@@ -7,13 +7,13 @@
       "e10f247a-e813-41b4-9065-5a562aab67db",
       "f295229a-856a-4ee8-8f87-6627a51b99d6",
       "9f438f62-342b-4b2c-8f4d-18505d176e8b",
-      "32c3bd7c-a7d6-423a-8cc4-0376e05b10a6",
-      "008f5a71-563b-4c14-b82f-0c3e7008bc2f",
-      "2318570e-7c3a-4cb1-8dd8-9b14a763073c",
-      "b45845d6-a862-452d-8390-87539083890c",
-      "6f73dc40-ae5c-4ac6-95eb-28318c10f399",
-      "bc7abedb-f3f9-4468-a07b-5b39a15981fd",
       "f625eebe-68d5-4b39-9b96-eb5e94bb7979",
+      "2318570e-7c3a-4cb1-8dd8-9b14a763073c",
+      "bc7abedb-f3f9-4468-a07b-5b39a15981fd",
+      "6f73dc40-ae5c-4ac6-95eb-28318c10f399",
+      "b45845d6-a862-452d-8390-87539083890c",
+      "008f5a71-563b-4c14-b82f-0c3e7008bc2f",
+      "32c3bd7c-a7d6-423a-8cc4-0376e05b10a6",
       "204e9b6e-9a0b-45d9-903f-a1043837e0d0",
       "447c2f88-a1ff-46dc-a9c9-baf2651787fa",
       "a223f756-151c-45cd-9cc6-acd2db0ebda0",
@@ -33,7 +33,7 @@
     "id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532247500329,
+    "last_edited_time": 1533018271329,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -44,7 +44,7 @@
       ]
     },
     "type": "page",
-    "version": 39,
+    "version": 57,
     "content_resolved": [
       {
         "alive": true,
@@ -147,32 +147,125 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155916239,
-        "id": "32c3bd7c-a7d6-423a-8cc4-0376e05b10a6",
+        "created_time": 1532155916240,
+        "id": "f625eebe-68d5-4b39-9b96-eb5e94bb7979",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155916239,
+        "last_edited_time": 1533018257531,
         "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "open-source",
-              [
-                [
-                  "a",
-                  "https://github.com/golang/go"
-                ]
-              ]
+              "familiar C-like syntax"
             ]
           ]
         },
         "type": "bulleted_list",
-        "version": 1,
+        "version": 4,
         "inline_content": [
           {
-            "Text": "open-source",
-            "Link": "https://github.com/golang/go"
+            "Text": "familiar C-like syntax"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155916240,
+        "id": "2318570e-7c3a-4cb1-8dd8-9b14a763073c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1533018260729,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "statically typed"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "statically typed"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155916240,
+        "id": "bc7abedb-f3f9-4468-a07b-5b39a15981fd",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1533018271329,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "language-level support for concurrency"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "language-level support for concurrency"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155916240,
+        "id": "6f73dc40-ae5c-4ac6-95eb-28318c10f399",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1533018263837,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "garbage collected"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "garbage collected"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155916240,
+        "id": "b45845d6-a862-452d-8390-87539083890c",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1533018266687,
+        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "fast"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 4,
+        "inline_content": [
+          {
+            "Text": "fast"
           }
         ]
       },
@@ -204,125 +297,32 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155916240,
-        "id": "2318570e-7c3a-4cb1-8dd8-9b14a763073c",
+        "created_time": 1532155916239,
+        "id": "32c3bd7c-a7d6-423a-8cc4-0376e05b10a6",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155916240,
+        "last_edited_time": 1533018252292,
         "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "statically typed"
+              "open-source",
+              [
+                [
+                  "a",
+                  "https://github.com/golang/go"
+                ]
+              ]
             ]
           ]
         },
         "type": "bulleted_list",
-        "version": 1,
+        "version": 4,
         "inline_content": [
           {
-            "Text": "statically typed"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155916240,
-        "id": "b45845d6-a862-452d-8390-87539083890c",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155916240,
-        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "fast"
-            ]
-          ]
-        },
-        "type": "bulleted_list",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "fast"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155916240,
-        "id": "6f73dc40-ae5c-4ac6-95eb-28318c10f399",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155916240,
-        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "garbage collected"
-            ]
-          ]
-        },
-        "type": "bulleted_list",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "garbage collected"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155916240,
-        "id": "bc7abedb-f3f9-4468-a07b-5b39a15981fd",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155916240,
-        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "language-level support for concurrency"
-            ]
-          ]
-        },
-        "type": "bulleted_list",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "language-level support for concurrency"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155916240,
-        "id": "f625eebe-68d5-4b39-9b96-eb5e94bb7979",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155916240,
-        "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "familiar C-like syntax"
-            ]
-          ]
-        },
-        "type": "bulleted_list",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "familiar C-like syntax"
+            "Text": "open-source",
+            "Link": "https://github.com/golang/go"
           }
         ]
       },
@@ -382,7 +382,7 @@
         "id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532232886642,
+        "last_edited_time": 1533018522269,
         "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
         "parent_table": "block",
         "properties": {
@@ -393,7 +393,7 @@
           ]
         },
         "type": "page",
-        "version": 61,
+        "version": 69,
         "title": "Mac OS install and setup",
         "format_page": {
           "page_cover": "",
@@ -481,7 +481,7 @@
         "id": "04e1e4f6-0a02-45e5-87a7-101d10c4f05f",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532217036329,
+        "last_edited_time": 1533018659619,
         "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
         "parent_table": "block",
         "properties": {
@@ -492,7 +492,7 @@
           ]
         },
         "type": "page",
-        "version": 37,
+        "version": 43,
         "title": "Take a guided tour",
         "format_page": {
           "page_cover": "",
@@ -580,7 +580,7 @@
         "id": "d6da4b84-81f9-4757-bae4-3be1fdfa9e73",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532217246829,
+        "last_edited_time": 1533018989859,
         "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
         "parent_table": "block",
         "properties": {
@@ -591,7 +591,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 33,
         "title": "GOPATH, GOROOT, GOBIN",
         "format_page": {
           "page_cover": "",

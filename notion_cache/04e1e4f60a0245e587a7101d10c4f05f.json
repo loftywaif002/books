@@ -8,8 +8,7 @@
       "69dac8f6-790b-44cd-9711-17d2cd6eff77",
       "bcc6ccb7-0b2b-4cbb-97fa-447a7b7f5b03",
       "7066f8f7-0338-46c6-ab1d-84e73dd948ca",
-      "0af9edde-ac1a-4c34-ad97-a2abe4210ef3",
-      "fdaa5c2a-538a-4302-812c-b1ee71fb65ec"
+      "d1bdd744-dbf7-4fb5-a181-2b2770328663"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155922238,
@@ -20,7 +19,7 @@
     "id": "04e1e4f6-0a02-45e5-87a7-101d10c4f05f",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532217036329,
+    "last_edited_time": 1533018659619,
     "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
     "parent_table": "block",
     "properties": {
@@ -31,7 +30,7 @@
       ]
     },
     "type": "page",
-    "version": 37,
+    "version": 43,
     "content_resolved": [
       {
         "alive": true,
@@ -99,13 +98,13 @@
         "created_time": 1532216983952,
         "id": "bcc6ccb7-0b2b-4cbb-97fa-447a7b7f5b03",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532217002926,
+        "last_edited_time": 1533018647944,
         "parent_id": "04e1e4f6-0a02-45e5-87a7-101d10c4f05f",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "If you're new to Go, learn the basics using interactive "
+              "If you're new to Go learn the basics using interactive "
             ],
             [
               "guided tour",
@@ -122,10 +121,10 @@
           ]
         },
         "type": "text",
-        "version": 136,
+        "version": 150,
         "inline_content": [
           {
-            "Text": "If you're new to Go, learn the basics using interactive "
+            "Text": "If you're new to Go learn the basics using interactive "
           },
           {
             "Text": "guided tour",
@@ -143,7 +142,7 @@
         "id": "7066f8f7-0338-46c6-ab1d-84e73dd948ca",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532217034233,
+        "last_edited_time": 1533018658939,
         "parent_id": "04e1e4f6-0a02-45e5-87a7-101d10c4f05f",
         "parent_table": "block",
         "properties": {
@@ -154,7 +153,7 @@
           ]
         },
         "type": "text",
-        "version": 61,
+        "version": 63,
         "inline_content": [
           {
             "Text": "It covers the basics of the language and provides interactive playground to test Go code."
@@ -164,22 +163,10 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532217036329,
-        "id": "0af9edde-ac1a-4c34-ad97-a2abe4210ef3",
+        "created_time": 1533018659619,
+        "id": "d1bdd744-dbf7-4fb5-a181-2b2770328663",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532217036329,
-        "parent_id": "04e1e4f6-0a02-45e5-87a7-101d10c4f05f",
-        "parent_table": "block",
-        "type": "text",
-        "version": 6
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532217012801,
-        "id": "fdaa5c2a-538a-4302-812c-b1ee71fb65ec",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532217012801,
+        "last_edited_time": 1533018659630,
         "parent_id": "04e1e4f6-0a02-45e5-87a7-101d10c4f05f",
         "parent_table": "block",
         "type": "text",

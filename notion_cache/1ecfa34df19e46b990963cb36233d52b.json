@@ -11,7 +11,8 @@
       "73aaf3c7-dec0-426a-a80b-82ff23e08d68",
       "44dcdb1c-c83b-4d12-92ee-2c48b2d104c9",
       "42e1b4d3-019a-4f03-b26f-55f9899f9802",
-      "dfeeb38b-7c4f-485c-82c2-2fda582c434c"
+      "dfeeb38b-7c4f-485c-82c2-2fda582c434c",
+      "2f7c82f5-e635-44f3-b98e-3c1fc82f166f"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155940156,
@@ -22,7 +23,7 @@
     "id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532233835762,
+    "last_edited_time": 1533019703422,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -33,7 +34,7 @@
       ]
     },
     "type": "page",
-    "version": 21,
+    "version": 23,
     "content_resolved": [
       {
         "alive": true,
@@ -301,6 +302,18 @@
             "Text": "."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1533019703422,
+        "id": "2f7c82f5-e635-44f3-b98e-3c1fc82f166f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1533019703422,
+        "parent_id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "Interfaces",

@@ -319,13 +319,13 @@
         "id": "40de31f6-d19c-4c3e-bb7e-a567cff4be6c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532216504108,
+        "last_edited_time": 1533018606638,
         "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "On every other OS, this will create "
+              "On every other OS this will create "
             ],
             [
               "./hello_world",
@@ -341,10 +341,10 @@
           ]
         },
         "type": "text",
-        "version": 10,
+        "version": 16,
         "inline_content": [
           {
-            "Text": "On every other OS, this will create "
+            "Text": "On every other OS this will create "
           },
           {
             "Text": "./hello_world",

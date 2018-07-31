@@ -18,7 +18,7 @@
       "76303db1-1f57-46ef-9dac-4a7c373b5bf0",
       "f13b8110-8774-4895-800e-bbf9ad9fcc7a",
       "bdcf25b3-601d-44a6-9f9f-fdd65406579c",
-      "ce7a1a7c-7819-429c-a99e-62d010602d69",
+      "4ab9b3d5-5fed-416e-a93e-66c1d5cf2a6d",
       "70762431-3a07-4e80-8ae2-53dab1f5e41b",
       "1792fb2e-c40b-4615-a304-1ce865f03232",
       "0dcb2c4e-98a9-4e29-ba22-86120170460f",
@@ -38,7 +38,7 @@
     "id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532232886642,
+    "last_edited_time": 1533018522269,
     "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
     "parent_table": "block",
     "properties": {
@@ -49,7 +49,7 @@
       ]
     },
     "type": "page",
-    "version": 61,
+    "version": 69,
     "content_resolved": [
       {
         "alive": true,
@@ -337,7 +337,7 @@
         "id": "56f4f273-252a-47bc-8aad-df3944d40d35",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155919192,
+        "last_edited_time": 1533018432307,
         "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
         "parent_table": "block",
         "properties": {
@@ -353,7 +353,7 @@
                 ],
                 [
                   "a",
-                  "10"
+                  "https://www.notion.so/kjkpublic/GOPATH-GOROOT-GOBIN-d6da4b8481f94757bae43be1fdfa9e73"
                 ]
               ]
             ],
@@ -363,7 +363,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 4,
         "inline_content": [
           {
             "Text": "After installing the compiler you need to configure "
@@ -371,7 +371,7 @@
           {
             "Text": "GOPATH",
             "AttrFlags": 2,
-            "Link": "10"
+            "Link": "https://www.notion.so/kjkpublic/GOPATH-GOROOT-GOBIN-d6da4b8481f94757bae43be1fdfa9e73"
           },
           {
             "Text": " environment variable."
@@ -559,7 +559,7 @@
         "id": "bdcf25b3-601d-44a6-9f9f-fdd65406579c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155919194,
+        "last_edited_time": 1533018522269,
         "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
         "parent_table": "block",
         "properties": {
@@ -581,7 +581,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 5,
         "inline_content": [
           {
             "Text": "Load the changes with "
@@ -598,31 +598,24 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155919194,
-        "id": "ce7a1a7c-7819-429c-a99e-62d010602d69",
-        "ignore_block_count": true,
+        "created_time": 1533018522269,
+        "id": "4ab9b3d5-5fed-416e-a93e-66c1d5cf2a6d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155919194,
+        "last_edited_time": 1533018526679,
         "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Explanation",
-              [
-                [
-                  "b"
-                ]
-              ]
+              "Explanation"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
+        "type": "sub_header",
+        "version": 17,
         "inline_content": [
           {
-            "Text": "Explanation",
-            "AttrFlags": 1
+            "Text": "Explanation"
           }
         ]
       },
@@ -834,27 +827,21 @@
         "id": "1ed47a22-e93d-4eea-8bfd-5e8cadec33ee",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155919196,
+        "last_edited_time": 1533018533375,
         "parent_id": "a223f756-151c-45cd-9cc6-acd2db0ebda0",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "More configuration",
-              [
-                [
-                  "b"
-                ]
-              ]
+              "More configuration"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
+        "type": "sub_header",
+        "version": 19,
         "inline_content": [
           {
-            "Text": "More configuration",
-            "AttrFlags": 1
+            "Text": "More configuration"
           }
         ]
       },

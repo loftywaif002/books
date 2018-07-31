@@ -402,7 +402,7 @@
         "id": "a5ebf3e1-ea83-4ff4-aec7-859d1c6c9f4c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233032593,
+        "last_edited_time": 1533018571465,
         "parent_id": "f5a60492-b5b8-4d72-b14f-28b219f9fa4c",
         "parent_table": "block",
         "properties": {
@@ -418,7 +418,7 @@
                 ],
                 [
                   "a",
-                  "10"
+                  "https://www.notion.so/kjkpublic/GOPATH-GOROOT-GOBIN-d6da4b8481f94757bae43be1fdfa9e73"
                 ]
               ]
             ],
@@ -428,7 +428,7 @@
           ]
         },
         "type": "text",
-        "version": 3,
+        "version": 6,
         "inline_content": [
           {
             "Text": "After installing the compiler you need to configure "
@@ -436,7 +436,7 @@
           {
             "Text": "GOPATH",
             "AttrFlags": 2,
-            "Link": "10"
+            "Link": "https://www.notion.so/kjkpublic/GOPATH-GOROOT-GOBIN-d6da4b8481f94757bae43be1fdfa9e73"
           },
           {
             "Text": " environment variable."

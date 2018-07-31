@@ -15,6 +15,8 @@
       "7faa69c3-1fbb-4c69-8ef2-5779ff0da09d",
       "03d18451-ca15-44a1-be17-cbace35df659",
       "8930120d-46bb-49c3-afca-ea034d10e0d5",
+      "44527232-aa4c-4e6f-b809-c1e7e9537e8c",
+      "9a8111da-91f3-46d2-974f-28bf9bfdaab7",
       "1bc6e26c-fade-4a37-bba8-4442f523b81a",
       "ff0bd84f-02ce-43bc-8c7c-be28f69fb316",
       "cd7724a7-cd60-4cbe-b633-75c16de61fd8",
@@ -31,7 +33,7 @@
     "id": "c3315892-5082-48fd-b19b-663bf8bff028",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532233934957,
+    "last_edited_time": 1533026368425,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -42,7 +44,7 @@
       ]
     },
     "type": "page",
-    "version": 27,
+    "version": 31,
     "content_resolved": [
       {
         "alive": true,
@@ -134,7 +136,7 @@
         "created_time": 1532197369884,
         "id": "32e629e8-36af-46ed-987c-eba64ebc7301",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532197370265,
+        "last_edited_time": 1533026362314,
         "parent_id": "c3315892-5082-48fd-b19b-663bf8bff028",
         "parent_table": "block",
         "properties": {
@@ -154,21 +156,21 @@
               ") is an "
             ],
             [
-              "interface",
+              "interface ",
               [
                 [
                   "a",
-                  "90"
+                  "https://www.notion.so/kjkpublic/Interfaces-4f5f2959e72c431e995527b51ad7fd8e"
                 ]
               ]
             ],
             [
-              " with no methods."
+              "with no methods."
             ]
           ]
         },
         "type": "text",
-        "version": 8,
+        "version": 11,
         "inline_content": [
           {
             "Text": "Technically speaking, an empty interface ("
@@ -181,11 +183,11 @@
             "Text": ") is an "
           },
           {
-            "Text": "interface",
-            "Link": "90"
+            "Text": "interface ",
+            "Link": "https://www.notion.so/kjkpublic/Interfaces-4f5f2959e72c431e995527b51ad7fd8e"
           },
           {
-            "Text": " with no methods."
+            "Text": "with no methods."
           }
         ]
       },
@@ -418,53 +420,83 @@
         "id": "8930120d-46bb-49c3-afca-ea034d10e0d5",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156018154,
+        "last_edited_time": 1533026364348,
         "parent_id": "c3315892-5082-48fd-b19b-663bf8bff028",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "You can query the type at runtime using: * "
-            ],
+              "You can query the type at runtime using:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 5,
+        "inline_content": [
+          {
+            "Text": "You can query the type at runtime using:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1533026364348,
+        "id": "44527232-aa4c-4e6f-b809-c1e7e9537e8c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1533026396193,
+        "parent_id": "c3315892-5082-48fd-b19b-663bf8bff028",
+        "parent_table": "block",
+        "properties": {
+          "title": [
             [
               "type assertion",
               [
                 [
                   "a",
-                  "95"
-                ]
-              ]
-            ],
-            [
-              " * "
-            ],
-            [
-              "type switch",
-              [
-                [
-                  "a",
-                  "96"
+                  "https://www.notion.so/kjkpublic/Type-assertion-e945ebc2e0074ce49cef592e6c0f956e"
                 ]
               ]
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
+        "type": "bulleted_list",
+        "version": 22,
         "inline_content": [
           {
-            "Text": "You can query the type at runtime using: * "
-          },
-          {
             "Text": "type assertion",
-            "Link": "95"
-          },
-          {
-            "Text": " * "
-          },
+            "Link": "https://www.notion.so/kjkpublic/Type-assertion-e945ebc2e0074ce49cef592e6c0f956e"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1533026368425,
+        "id": "9a8111da-91f3-46d2-974f-28bf9bfdaab7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1533026415038,
+        "parent_id": "c3315892-5082-48fd-b19b-663bf8bff028",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "type switch",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Type-switch-b81d270c56fd42e39e2ebd5f74f0413b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 15,
+        "inline_content": [
           {
             "Text": "type switch",
-            "Link": "96"
+            "Link": "https://www.notion.so/kjkpublic/Type-switch-b81d270c56fd42e39e2ebd5f74f0413b"
           }
         ]
       },

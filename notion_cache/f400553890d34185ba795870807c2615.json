@@ -166,20 +166,20 @@
         "id": "45e4c26b-aba7-461b-a300-b19c76ffc56c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532302887547,
+        "last_edited_time": 1533026287528,
         "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Memory used by slice is provided by a "
+              "Memory used by slice is provided by a"
             ],
             [
-              "fixed size array",
+              " fixed size array",
               [
                 [
                   "a",
-                  "55"
+                  "https://www.notion.so/kjkpublic/Arrays-58db8c9a56504deab2e61f1e0fa4a0a6"
                 ]
               ]
             ],
@@ -189,14 +189,14 @@
           ]
         },
         "type": "text",
-        "version": 3,
+        "version": 6,
         "inline_content": [
           {
-            "Text": "Memory used by slice is provided by a "
+            "Text": "Memory used by slice is provided by a"
           },
           {
-            "Text": "fixed size array",
-            "Link": "55"
+            "Text": " fixed size array",
+            "Link": "https://www.notion.so/kjkpublic/Arrays-58db8c9a56504deab2e61f1e0fa4a0a6"
           },
           {
             "Text": ". A slice is a view into that array."

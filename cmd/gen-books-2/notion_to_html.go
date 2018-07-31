@@ -45,25 +45,62 @@ func (g *HTMLGenerator) Gen() []byte {
 	return g.f.Bytes()
 }
 
+// only hex chars seem to be valid
+func isValidNotionIDChar(c byte) bool {
+	switch {
+	case c >= '0' && c <= '9':
+		return true
+	case c >= 'a' && c <= 'f':
+		return true
+	case c >= 'A' && c <= 'F':
+		// currently not used but just in case they change their minds
+		return true
+	}
+	return false
+}
+
 func isValidNotionID(id string) bool {
-	// TODO: more strict i.e. check all characters are hex
-	return len(id) == len("ea07db1b9bff415ab180b0525f3898f6")
+	// len("ea07db1b9bff415ab180b0525f3898f6")
+	if len(id) != 32 {
+		return false
+	}
+	for i := range id {
+		if !isValidNotionIDChar(id[i]) {
+			return false
+		}
+	}
+	return true
+}
+
+// https://www.notion.so/Advanced-web-spidering-with-Puppeteer-ea07db1b9bff415ab180b0525f3898f6
+// https://www.notion.so/c674bebe8adf44d18c3a36cc18c131e2
+// returns "" if didn't detect valid notion id in the url
+func extractNotionIDFromURL(uri string) string {
+	trimmed := strings.TrimPrefix(uri, "https://www.notion.so/")
+	if uri == trimmed {
+		return ""
+	}
+	// could be c674bebe8adf44d18c3a36cc18c131e2 from https://www.notion.so/c674bebe8adf44d18c3a36cc18c131e2
+	id := trimmed
+	parts := strings.Split(trimmed, "-")
+	n := len(parts)
+	if n >= 2 {
+		// could be ea07db1b9bff415ab180b0525f3898f6 from Advanced-web-spidering-with-Puppeteer-ea07db1b9bff415ab180b0525f3898f6
+		id = parts[n-1]
+	}
+	id = normalizeID(id)
+	if !isValidNotionID(id) {
+		return ""
+	}
+	return id
 }
 
 // change https://www.notion.so/Advanced-web-spidering-with-Puppeteer-ea07db1b9bff415ab180b0525f3898f6
 // =>
 // /article/${id}
 func (g *HTMLGenerator) maybeReplaceNotionLink(uri string) string {
-	if !strings.HasPrefix(uri, "https://www.notion.so/") {
-		return uri
-	}
-	parts := strings.Split(uri, "-")
-	n := len(parts)
-	if n < 2 {
-		return uri
-	}
-	id := normalizeID(parts[n-1])
-	if !isValidNotionID(id) {
+	id := extractNotionIDFromURL(uri)
+	if id == "" {
 		return uri
 	}
 	article := g.idToArticle(id)
@@ -421,4 +458,9 @@ func (g *HTMLGenerator) genBlocks(blocks []*notionapi.Block) {
 
 func (g *HTMLGenerator) genContent(parent *notionapi.Block) {
 	g.genBlocks(parent.Content)
+}
+
+func notionToHTML(page *notionapi.Page) []byte {
+	gen := NewHTMLGenerator(page)
+	return gen.Gen()
 }

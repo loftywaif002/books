@@ -127,16 +127,11 @@ func downloadAndCachePage(pageID string) (*notionapi.Page, error) {
 	return page, nil
 }
 
-func notionToHTML(page *notionapi.Page) []byte {
-	gen := NewHTMLGenerator(page)
-	return gen.Gen()
-}
-
 func loadNotionPage(pageID string, getFromCache bool, n int) (*notionapi.Page, error) {
 	if getFromCache {
 		page := loadPageFromCache(pageID)
 		if page != nil {
-			fmt.Printf("Got from cache %s %s\n", pageID, page.Root.Title)
+			fmt.Printf("Got %d from cache %s %s\n", n, pageID, page.Root.Title)
 			return page, nil
 		}
 	}

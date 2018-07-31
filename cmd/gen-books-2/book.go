@@ -12,7 +12,7 @@ type Book struct {
 	Title     string // "Go", "jQuery" etcc
 	titleSafe string
 	TitleLong string // "Essential Go", "Essential jQuery" etc.
-	Pages     []*Page
+	RootPage  *Page
 
 	destDir string // dir where destitation html files are
 	//SoContributors []SoContributor
@@ -26,18 +26,20 @@ type Book struct {
 	AppJSURL string
 }
 
-// Page represents a singl
+// Page represents a single page in a book
 type Page struct {
 	NotionPage *notionapi.Page
 	Title      string
 	// reference to parent page, nil if top-level page
 	Parent *Page
+	Meta   *PageMeta
 
 	BodyHTML template.HTML
 
 	// each page can contain sub-pages
 	Pages []*Page
 
+	// to easily generate toc
 	Siblings  []Page
 	IsCurrent bool // only used when part of Siblings
 }
@@ -45,6 +47,15 @@ type Page struct {
 // URL returns url of the page
 func (p *Page) URL() string {
 	return ""
+}
+
+// PageMeta describe meta-information for a page
+type PageMeta struct {
+	NotionID string
+	// for legacy pages this is an id. Might be used for redirects
+	ID              string
+	StackOverflowID string
+	Search          []string
 }
 
 // extract sub page information and removes blocks that contain
@@ -73,14 +84,6 @@ type MetaValue struct {
 	Value string
 }
 
-// PageMeta describe meta-information for a page
-type PageMeta struct {
-	// for legacy pages this is an id. Might be used for redirects
-	ID              string
-	StackOverflowID string
-	NotionID        string
-}
-
 // returns nil if this is not a meta-value block
 // meta-value block is a plain text block in format:
 // $key: value e.g. `$Id: 59`
@@ -91,7 +94,14 @@ func extractMetaValueFromBlock(block *notionapi.Block) *MetaValue {
 	if len(block.InlineContent) != 1 {
 		return nil
 	}
-	s := block.Title
+	inline := block.InlineContent[0]
+	// must be plain text
+	if !inline.IsPlain() {
+		return nil
+	}
+
+	// remove empty lines at the top
+	s := strings.TrimSpace(inline.Text)
 	if len(s) < 4 {
 		return nil
 	}
@@ -118,12 +128,19 @@ func extractMeta(page *notionapi.Page) *PageMeta {
 			newBlocks = append(newBlocks, block)
 			continue
 		}
+		//fmt.Printf("'%s' = '%s'\n", mv.Key, mv.Value)
 		switch mv.Key {
-		case "id":
+		case "$id":
 			res.ID = mv.Value
-		case "soid":
+		case "$soid":
 			res.StackOverflowID = mv.Value
-
+		case "$search":
+			res.Search = strings.Split(mv.Value, ",")
+			for i, s := range res.Search {
+				res.Search[i] = strings.TrimSpace(s)
+			}
+		case "$score":
+			// ignore
 		default:
 			panicIf(true, "unknown key '%s' in page with id %s", mv.Key, normalizeID(page.ID))
 		}
@@ -136,7 +153,10 @@ func extractMeta(page *notionapi.Page) *PageMeta {
 func bookPageFromNotionPage(page *notionapi.Page, pageIDToPage map[string]*notionapi.Page) *Page {
 	res := &Page{}
 	res.Title = page.Root.Title
+	res.Meta = extractMeta(page)
 	subPages := getSubPages(page, pageIDToPage)
+
+	//fmt.Printf("bookPageFromNotionPage: %s %s\n", normalizeID(page.ID), res.Meta.ID)
 
 	for _, subPage := range subPages {
 		bookPage := bookPageFromNotionPage(subPage, pageIDToPage)
@@ -150,10 +170,6 @@ func bookFromPages(startPageID string, pageIDToPage map[string]*notionapi.Page) 
 	panicIf(page.Root.Type != notionapi.BlockPage, "start block is of type '%s' and not '%s'", page.Root.Type, notionapi.BlockPage)
 	book := &Book{}
 	book.Title = page.Root.Title
-	pages := getSubPages(page, pageIDToPage)
-	for _, page := range pages {
-		bookPage := bookPageFromNotionPage(page, pageIDToPage)
-		book.Pages = append(book.Pages, bookPage)
-	}
+	book.RootPage = bookPageFromNotionPage(page, pageIDToPage)
 	return book
 }

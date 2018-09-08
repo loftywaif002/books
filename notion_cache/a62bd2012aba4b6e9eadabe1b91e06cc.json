@@ -7,7 +7,7 @@
       "22dbdf6d-f594-4e04-bb9b-9aa73d70720e",
       "603a2aa0-2280-4213-a51b-aaa7ed06b73c",
       "8c910999-0874-4894-9f21-aaa5820c0c67",
-      "558d9262-7aba-444a-9820-870f5d0f70dd",
+      "cbdf0775-914f-4d57-b629-a7d1a9c723ae",
       "f3a1120a-4c77-4325-abde-520235fe96ea",
       "928e7301-5fd9-4ae0-bcaa-e845aab1d5fe",
       "ecf059cc-0e21-4f19-9c65-4776b7711e7c",
@@ -24,7 +24,7 @@
     "id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532216898854,
+    "last_edited_time": 1536131319565,
     "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
     "parent_table": "block",
     "properties": {
@@ -35,7 +35,7 @@
       ]
     },
     "type": "page",
-    "version": 73,
+    "version": 87,
     "content_resolved": [
       {
         "alive": true,
@@ -143,22 +143,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532216332022,
-        "id": "558d9262-7aba-444a-9820-870f5d0f70dd",
+        "created_time": 1536131303530,
+        "format": {
+          "block_height": 192.98611450195312,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget/github.com/essentialbooks/books/blob/master/books/go/0010-getting-started/hello_world.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "cbdf0775-914f-4d57-b629-a7d1a9c723ae",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532216333875,
+        "last_edited_time": 1536131324818,
         "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://gist.github.com/kjk/7278df5c7b164fce3c949af197c961eb"
+              "https://www.onlinetool.io/gitoembed/widget/github.com/essentialbooks/books/blob/master/books/go/0010-getting-started/hello_world.go"
             ]
           ]
         },
-        "type": "gist",
-        "version": 8,
-        "source": "https://gist.github.com/kjk/7278df5c7b164fce3c949af197c961eb"
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 192.98611450195312,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget/github.com/essentialbooks/books/blob/master/books/go/0010-getting-started/hello_world.go"
+        }
       },
       {
         "alive": true,

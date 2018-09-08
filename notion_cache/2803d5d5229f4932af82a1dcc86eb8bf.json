@@ -418,7 +418,7 @@
         "id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233191559,
+        "last_edited_time": 1536372347228,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -429,7 +429,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 62,
         "title": "Booleans",
         "format_page": {
           "page_cover": "",
@@ -451,7 +451,7 @@
         "id": "cf43a457-2564-4e62-9e14-14989c572148",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233204314,
+        "last_edited_time": 1536370294701,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -462,7 +462,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 33,
         "title": "Integers",
         "format_page": {
           "page_cover": "",
@@ -484,7 +484,7 @@
         "id": "59209683-81fc-4770-8b5b-502992700043",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233217290,
+        "last_edited_time": 1536221455239,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -495,7 +495,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 54,
         "title": "Floating-point numbers",
         "format_page": {
           "page_cover": "",
@@ -517,7 +517,7 @@
         "id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233238567,
+        "last_edited_time": 1536371021876,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -528,7 +528,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 49,
         "title": "Characters and runes",
         "format_page": {
           "page_cover": "",
@@ -550,7 +550,7 @@
         "id": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233274742,
+        "last_edited_time": 1536371292053,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -561,7 +561,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 30,
         "title": "Strings",
         "format_page": {
           "page_cover": "",
@@ -583,7 +583,7 @@
         "id": "6015cf9e-3988-4538-93dc-b0032aa4b992",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233376104,
+        "last_edited_time": 1536371499076,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -594,7 +594,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 28,
         "title": "Constants",
         "format_page": {
           "page_cover": "",
@@ -649,7 +649,7 @@
         "id": "71db2a93-b2b6-48ac-8d51-09fd96fc78ac",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233469363,
+        "last_edited_time": 1536372240849,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -660,7 +660,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 36,
         "title": "Arrays",
         "format_page": {
           "page_cover": "",
@@ -682,7 +682,7 @@
         "id": "2257cc19-8999-4bee-9227-cd583a9f773d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233704518,
+        "last_edited_time": 1536372584830,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -693,7 +693,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 27,
         "title": "Slices",
         "format_page": {
           "page_cover": "",
@@ -715,7 +715,7 @@
         "id": "67151757-92a2-445d-b26d-03d366c233b8",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233750434,
+        "last_edited_time": 1536372825447,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -726,7 +726,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 45,
         "title": "Maps",
         "format_page": {
           "page_cover": "",
@@ -946,7 +946,7 @@
         "id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234620297,
+        "last_edited_time": 1536372298526,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -957,7 +957,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 35,
         "title": "Zero values",
         "format_page": {
           "page_cover": "",

@@ -9,11 +9,10 @@
       "24d9761c-54ff-4120-a997-284624687f6a",
       "a620ac36-a947-4cdb-a245-fb03ed6f9f4a",
       "e0618fe4-e3ab-4acf-adb3-a472be83e23e",
+      "eff2960a-5f6b-4c99-973e-b1b9638a592f",
+      "09a19405-bb89-40d6-b746-535e946d6f78",
       "9b578a1e-bac7-49e1-879e-b26cdf273719",
-      "cb608c6c-f6e9-41fa-a857-adf5f81c250e",
-      "2aebe644-d3ae-4e05-9eab-80eb69e56a56",
-      "d4c3f4b5-7a62-498c-bf3d-5087cb34acf3",
-      "ecbb0c95-e9db-4aff-bb63-602bb9f2825a"
+      "118dd2ab-141c-4fe7-8446-15ef4cb183d2"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155936150,
@@ -24,7 +23,7 @@
     "id": "67151757-92a2-445d-b26d-03d366c233b8",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532233750434,
+    "last_edited_time": 1536372825447,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -35,7 +34,7 @@
       ]
     },
     "type": "page",
-    "version": 25,
+    "version": 45,
     "content_resolved": [
       {
         "alive": true,
@@ -128,21 +127,21 @@
         "id": "a620ac36-a947-4cdb-a245-fb03ed6f9f4a",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155936148,
+        "last_edited_time": 1536372784263,
         "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "A map is a mapping from a value of one type to a value of another type."
+              "Map is an unordered mapping from a key to a value."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 164,
         "inline_content": [
           {
-            "Text": "A map is a mapping from a value of one type to a value of another type."
+            "Text": "Map is an unordered mapping from a key to a value."
           }
         ]
       },
@@ -174,61 +173,10 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155936148,
-        "id": "9b578a1e-bac7-49e1-879e-b26cdf273719",
-        "ignore_block_count": true,
+        "created_time": 1536372734787,
+        "id": "eff2960a-5f6b-4c99-973e-b1b9638a592f",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155936148,
-        "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Map basics:"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "Map basics:"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155936149,
-        "id": "cb608c6c-f6e9-41fa-a857-adf5f81c250e",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155936149,
-        "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file maps.go output sha1:d856c54b8ee856e6d63c797206d3daa74267fb9d goplayground:3M18bUT8XvP"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file maps.go output sha1:d856c54b8ee856e6d63c797206d3daa74267fb9d goplayground:3M18bUT8XvP"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155936150,
-        "id": "2aebe644-d3ae-4e05-9eab-80eb69e56a56",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233722930,
+        "last_edited_time": 1536372734791,
         "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
         "parent_table": "block",
         "properties": {
@@ -248,7 +196,7 @@
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Zero value",
@@ -262,11 +210,10 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155936150,
-        "id": "d4c3f4b5-7a62-498c-bf3d-5087cb34acf3",
-        "ignore_block_count": true,
+        "created_time": 1536372734788,
+        "id": "09a19405-bb89-40d6-b746-535e946d6f78",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233749345,
+        "last_edited_time": 1536372734791,
         "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
         "parent_table": "block",
         "properties": {
@@ -289,7 +236,7 @@
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Learn more about "
@@ -306,14 +253,60 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532233750434,
-        "id": "ecbb0c95-e9db-4aff-bb63-602bb9f2825a",
+        "created_time": 1532155936148,
+        "id": "9b578a1e-bac7-49e1-879e-b26cdf273719",
+        "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233750434,
+        "last_edited_time": 1536372825447,
         "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
         "parent_table": "block",
-        "type": "text",
-        "version": 4
+        "properties": {
+          "title": [
+            [
+              "Map basics"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 19,
+        "inline_content": [
+          {
+            "Text": "Map basics"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1536372818364,
+        "format": {
+          "block_height": 436.9895935058594,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fmaps.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "118dd2ab-141c-4fe7-8446-15ef4cb183d2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536372836759,
+        "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fmaps.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 436.9895935058594,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fmaps.go"
+        }
       }
     ],
     "title": "Maps",

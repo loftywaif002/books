@@ -12,11 +12,14 @@
       "8ec877c1-ba4b-443d-a4f0-fda9f510950f",
       "15c82002-ce80-4a9b-9368-8d4e86b29ad9",
       "ac7b8db0-ef31-4eb8-a837-1ae03a4b8d54",
-      "36434f71-7653-494a-a8b1-94de2d90aee3",
+      "7778c01d-b9bd-46cc-a40e-d6612c9a68d3",
       "b2d45d9d-9fe7-4e10-b7a6-36acfe38f60b",
-      "238d0c5e-b275-446b-a52a-584717bcaced",
-      "4c79de99-0d61-47b2-8301-8b7dcfcc7ebe",
-      "5ca0ea09-6d84-49b4-89e7-e049f03f87e2"
+      "c1cae71f-7af7-4077-8e77-c0ac48343714",
+      "5aa48358-8882-4eba-8b75-05a130650cb6",
+      "8c7abb8d-df76-497b-8ada-0465d42f8c55",
+      "2c541b0e-6d16-4e23-a506-164e75f79fc7",
+      "d1491acc-5979-435e-9af4-0efdd855047e",
+      "4c79de99-0d61-47b2-8301-8b7dcfcc7ebe"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155930169,
@@ -27,7 +30,7 @@
     "id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532233238567,
+    "last_edited_time": 1536371021876,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -38,7 +41,7 @@
       ]
     },
     "type": "page",
-    "version": 25,
+    "version": 49,
     "content_resolved": [
       {
         "alive": true,
@@ -340,48 +343,56 @@
         "id": "ac7b8db0-ef31-4eb8-a837-1ae03a4b8d54",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155930168,
+        "last_edited_time": 1536371070236,
         "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Iterate over string using bytes"
+              "Iterate over a string using bytes"
             ]
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 7,
         "inline_content": [
           {
-            "Text": "Iterate over string using bytes"
+            "Text": "Iterate over a string using bytes"
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155930168,
-        "id": "36434f71-7653-494a-a8b1-94de2d90aee3",
-        "ignore_block_count": true,
+        "created_time": 1536370607309,
+        "format": {
+          "block_height": 289,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fcharacters.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "7778c01d-b9bd-46cc-a40e-d6612c9a68d3",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155930168,
+        "last_edited_time": 1536370616628,
         "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file characters.go output sha1:3da66fb5895a3e079aae5bc307daa026bc933ce1 goplayground:9JMcrAOALyg"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fcharacters.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file characters.go output sha1:3da66fb5895a3e079aae5bc307daa026bc933ce1 goplayground:9JMcrAOALyg"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 289,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fcharacters.go"
+        }
       },
       {
         "alive": true,
@@ -390,46 +401,168 @@
         "id": "b2d45d9d-9fe7-4e10-b7a6-36acfe38f60b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155930168,
+        "last_edited_time": 1536371072406,
         "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Iterate over string using runes"
+              "Iterate over a string using runes"
             ]
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 7,
         "inline_content": [
           {
-            "Text": "Iterate over string using runes"
+            "Text": "Iterate over a string using runes"
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155930168,
-        "id": "238d0c5e-b275-446b-a52a-584717bcaced",
-        "ignore_block_count": true,
+        "created_time": 1536370694329,
+        "format": {
+          "block_height": 278,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fnotion%2Fbooks%2Fgo%2F0020-basic-types%2Fcharacters-2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "c1cae71f-7af7-4077-8e77-c0ac48343714",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155930168,
+        "last_edited_time": 1536370701869,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fnotion%2Fbooks%2Fgo%2F0020-basic-types%2Fcharacters-2.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 278,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fnotion%2Fbooks%2Fgo%2F0020-basic-types%2Fcharacters-2.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1536370725073,
+        "id": "5aa48358-8882-4eba-8b75-05a130650cb6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536370774744,
         "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "@file characters-2.go output sha1:86731d891f071d94c0ad19802423f4265473df70 goplayground:qLPCaibSrZC"
+              "A string is an array of bytes."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 144,
         "inline_content": [
           {
-            "Text": "@file characters-2.go output sha1:86731d891f071d94c0ad19802423f4265473df70 goplayground:qLPCaibSrZC"
+            "Text": "A string is an array of bytes."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1536370780410,
+        "id": "8c7abb8d-df76-497b-8ada-0465d42f8c55",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536370844985,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "When iterating a string as runes we assume the string is Unicode string encoded as UTF-8."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 260,
+        "inline_content": [
+          {
+            "Text": "When iterating a string as runes we assume the string is Unicode string encoded as UTF-8."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1536370845295,
+        "id": "2c541b0e-6d16-4e23-a506-164e75f79fc7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536370921048,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "UTF-8 is a variable-length encoding where a rune can be encoded as 1, 2, 3 or 4 bytes."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 338,
+        "inline_content": [
+          {
+            "Text": "UTF-8 is a variable-length encoding where a rune can be encoded as 1, 2, 3 or 4 bytes."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1536370765088,
+        "id": "d1491acc-5979-435e-9af4-0efdd855047e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536371019606,
+        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "The returned index "
+            ],
+            [
+              "i",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a byte position within the string where the rune starts. It's not a rune count."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 336,
+        "inline_content": [
+          {
+            "Text": "The returned index "
+          },
+          {
+            "Text": "i",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a byte position within the string where the rune starts. It's not a rune count."
           }
         ]
       },
@@ -440,35 +573,11 @@
         "id": "4c79de99-0d61-47b2-8301-8b7dcfcc7ebe",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155930168,
-        "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Note: When iterating over runes, the index will be the offset within the string where the rune begins, rather than the index of the rune itself."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "Note: When iterating over runes, the index will be the offset within the string where the rune begins, rather than the index of the rune itself."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532160371796,
-        "id": "5ca0ea09-6d84-49b4-89e7-e049f03f87e2",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532160371796,
+        "last_edited_time": 1536371021876,
         "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
         "parent_table": "block",
         "type": "text",
-        "version": 4
+        "version": 15
       }
     ],
     "title": "Characters and runes",

@@ -7,10 +7,11 @@
       "b0e601a4-f2df-46ea-87c0-e0074bdfe7fe",
       "ff78ed61-255b-4975-b549-6244ffdfebf1",
       "13b38b54-cb13-4e6a-b4d2-580563ca9003",
-      "e7395e67-5111-4e07-acf3-cfb11c0e67b2",
-      "47db1de1-c99e-4055-a6ff-fa2762245714",
-      "2cdce486-8b6f-4a2a-b791-8694eff9f0ed",
       "2d0759d0-f63f-4f05-bc93-ed65afa63a75",
+      "6727d437-d631-4efa-b26c-c6f5dec6e73e",
+      "f09c7c63-72b9-4a9b-a848-906e67097fa2",
+      "47db1de1-c99e-4055-a6ff-fa2762245714",
+      "f2ca7ada-ffa8-4d2e-a5b8-61d51b905849",
       "9de80953-118b-451b-b762-3a69d2f393c3"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -22,7 +23,7 @@
     "id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532233191559,
+    "last_edited_time": 1536372347228,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -33,7 +34,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 62,
     "content_resolved": [
       {
         "alive": true,
@@ -102,7 +103,7 @@
         "id": "13b38b54-cb13-4e6a-b4d2-580563ca9003",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155927146,
+        "last_edited_time": 1536221200158,
         "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
         "parent_table": "block",
         "properties": {
@@ -146,7 +147,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 5,
         "inline_content": [
           {
             "Text": "Value of type "
@@ -177,123 +178,11 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155927146,
-        "id": "e7395e67-5111-4e07-acf3-cfb11c0e67b2",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155927146,
-        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file booleans.go output sha1:3cc52f4f2cc3707255c29911b5e9a9b60e1f11fd goplayground:DiDp-lzNhXg"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file booleans.go output sha1:3cc52f4f2cc3707255c29911b5e9a9b60e1f11fd goplayground:DiDp-lzNhXg"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155927148,
-        "id": "47db1de1-c99e-4055-a6ff-fa2762245714",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1533019230371,
-        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Size of "
-            ],
-            [
-              "bool",
-              [
-                [
-                  "c"
-                ]
-              ]
-            ],
-            [
-              " variable (e.g. when part of a "
-            ],
-            [
-              "struct",
-              [
-                [
-                  "a",
-                  "https://www.notion.so/kjkpublic/Structures-1d09d455930f440e910eac9866619f67"
-                ]
-              ]
-            ],
-            [
-              ") is 1 byte."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 4,
-        "inline_content": [
-          {
-            "Text": "Size of "
-          },
-          {
-            "Text": "bool",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " variable (e.g. when part of a "
-          },
-          {
-            "Text": "struct",
-            "Link": "https://www.notion.so/kjkpublic/Structures-1d09d455930f440e910eac9866619f67"
-          },
-          {
-            "Text": ") is 1 byte."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155927148,
-        "id": "2cdce486-8b6f-4a2a-b791-8694eff9f0ed",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155927148,
-        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file booleans-2.go output sha1:872c6cd5d3907f9459329028f440f113dc980e13 goplayground:Ucs5pvMhE4V"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file booleans-2.go output sha1:872c6cd5d3907f9459329028f440f113dc980e13 goplayground:Ucs5pvMhE4V"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155927148,
         "id": "2d0759d0-f63f-4f05-bc93-ed65afa63a75",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233190757,
+        "last_edited_time": 1536372340867,
         "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
         "parent_table": "block",
         "properties": {
@@ -335,7 +224,7 @@
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 7,
         "inline_content": [
           {
             "Text": "Zero value",
@@ -359,6 +248,146 @@
             "Text": "."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1536372347228,
+        "id": "6727d437-d631-4efa-b26c-c6f5dec6e73e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536372347250,
+        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1536221166558,
+        "format": {
+          "block_height": 279,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fbooleans.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "f09c7c63-72b9-4a9b-a848-906e67097fa2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536221173196,
+        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fbooleans.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 279,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fbooleans.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155927148,
+        "id": "47db1de1-c99e-4055-a6ff-fa2762245714",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536131691814,
+        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Size of "
+            ],
+            [
+              "bool",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " variable (e.g. when part of a "
+            ],
+            [
+              "struct",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Structures-1d09d455930f440e910eac9866619f67"
+                ]
+              ]
+            ],
+            [
+              ") is 1 byte."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 6,
+        "inline_content": [
+          {
+            "Text": "Size of "
+          },
+          {
+            "Text": "bool",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " variable (e.g. when part of a "
+          },
+          {
+            "Text": "struct",
+            "Link": "https://www.notion.so/kjkpublic/Structures-1d09d455930f440e910eac9866619f67"
+          },
+          {
+            "Text": ") is 1 byte."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1536221182995,
+        "format": {
+          "block_height": 299,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fbooleans-2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "f2ca7ada-ffa8-4d2e-a5b8-61d51b905849",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536221220581,
+        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fbooleans-2.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 299,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fbooleans-2.go"
+        }
       },
       {
         "alive": true,

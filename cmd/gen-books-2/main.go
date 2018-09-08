@@ -54,7 +54,7 @@ func iterPages(book *Book, onPage func(*Page) bool) {
 	}
 }
 
-func buildIdTOPage(book *Book) {
+func buildIDToPage(book *Book) {
 	book.idToPage = map[string]*Page{}
 	fn := func(page *Page) bool {
 		id := normalizeID(page.NotionPage.ID)
@@ -76,7 +76,7 @@ func bookPagesToHTML(book *Book) {
 }
 
 func genBookFiles(book *Book) {
-	buildIdTOPage(book)
+	buildIDToPage(book)
 	bookPagesToHTML(book)
 }
 

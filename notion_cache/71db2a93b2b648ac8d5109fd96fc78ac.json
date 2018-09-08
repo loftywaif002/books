@@ -7,9 +7,11 @@
       "b4565540-3b07-4a3c-907c-f58025b07b7b",
       "87c763d7-cb93-460c-a982-58b03ef26543",
       "64a902e7-231c-4fbd-af94-849a0d312ab7",
-      "4f5805ea-edca-4004-ba2f-be38b6f54e1a",
-      "e6e1f38a-6f36-4e75-9236-d527c7b86004",
+      "ec830979-49e4-4dfa-9789-800070918d13",
+      "42c748d9-54a9-4444-8647-1675bbd69ab3",
+      "bcffd5a4-5167-4831-a091-c4f2af52a188",
       "3c4360b5-2f6f-41ed-aae1-34d224edc895",
+      "87e48065-d3a2-4351-b153-df102eb07217",
       "57adf630-b074-49c5-8c2d-bda2e1e02854",
       "ab01021f-ce4c-444f-95da-9fb70eed8e4b",
       "019c3c72-3441-474b-b2b2-d7190798142d"
@@ -23,7 +25,7 @@
     "id": "71db2a93-b2b6-48ac-8d51-09fd96fc78ac",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532233469363,
+    "last_edited_time": 1536372240849,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -34,7 +36,7 @@
       ]
     },
     "type": "page",
-    "version": 21,
+    "version": 36,
     "content_resolved": [
       {
         "alive": true,
@@ -103,38 +105,37 @@
         "id": "64a902e7-231c-4fbd-af94-849a0d312ab7",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155934119,
+        "last_edited_time": 1536372170793,
         "parent_id": "71db2a93-b2b6-48ac-8d51-09fd96fc78ac",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Arrays in Go have a fixed sized. They can’t grow."
+              "Arrays in Go have a fixed sized. As such they are used rarely."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 365,
         "inline_content": [
           {
-            "Text": "Arrays in Go have a fixed sized. They can’t grow."
+            "Text": "Arrays in Go have a fixed sized. As such they are used rarely."
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155934121,
-        "id": "4f5805ea-edca-4004-ba2f-be38b6f54e1a",
-        "ignore_block_count": true,
+        "created_time": 1536372170793,
+        "id": "ec830979-49e4-4dfa-9789-800070918d13",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1533063802204,
+        "last_edited_time": 1536372240849,
         "parent_id": "71db2a93-b2b6-48ac-8d51-09fd96fc78ac",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "They are used rarely. Instead in most cases we use "
+              "In most cases we use "
             ],
             [
               "slices",
@@ -146,108 +147,32 @@
               ]
             ],
             [
-              "."
+              " which can grow and shrink their size."
             ]
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 92,
         "inline_content": [
           {
-            "Text": "They are used rarely. Instead in most cases we use "
+            "Text": "In most cases we use "
           },
           {
             "Text": "slices",
             "Link": "https://www.notion.so/kjkpublic/Slices-2257cc1989994bee9227cd583a9f773d"
           },
           {
-            "Text": "."
+            "Text": " which can grow and shrink their size."
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155934121,
-        "id": "e6e1f38a-6f36-4e75-9236-d527c7b86004",
-        "ignore_block_count": true,
+        "created_time": 1536372066401,
+        "id": "42c748d9-54a9-4444-8647-1675bbd69ab3",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155934121,
-        "parent_id": "71db2a93-b2b6-48ac-8d51-09fd96fc78ac",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "A slice is growable and implemented as a view into its underlying array."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "A slice is growable and implemented as a view into its underlying array."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155934122,
-        "id": "3c4360b5-2f6f-41ed-aae1-34d224edc895",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155934122,
-        "parent_id": "71db2a93-b2b6-48ac-8d51-09fd96fc78ac",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Array basics:"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "Array basics:"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155934122,
-        "id": "57adf630-b074-49c5-8c2d-bda2e1e02854",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155934122,
-        "parent_id": "71db2a93-b2b6-48ac-8d51-09fd96fc78ac",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file arrays.go output sha1:8824b8dc01bf1d44d35c30053c7a4fb2d049c257 goplayground:sg72vy6F-ci"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file arrays.go output sha1:8824b8dc01bf1d44d35c30053c7a4fb2d049c257 goplayground:sg72vy6F-ci"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155934122,
-        "id": "ab01021f-ce4c-444f-95da-9fb70eed8e4b",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233498213,
+        "last_edited_time": 1536372087104,
         "parent_id": "71db2a93-b2b6-48ac-8d51-09fd96fc78ac",
         "parent_table": "block",
         "properties": {
@@ -262,30 +187,29 @@
               ]
             ],
             [
-              " of array is array where all values have zero value."
+              " of array is array with values set to their zero value."
             ]
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 102,
         "inline_content": [
           {
             "Text": "Zero value",
             "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
           },
           {
-            "Text": " of array is array where all values have zero value."
+            "Text": " of array is array with values set to their zero value."
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155934122,
-        "id": "019c3c72-3441-474b-b2b2-d7190798142d",
-        "ignore_block_count": true,
+        "created_time": 1536372071841,
+        "id": "bcffd5a4-5167-4831-a091-c4f2af52a188",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233527295,
+        "last_edited_time": 1536372072181,
         "parent_id": "71db2a93-b2b6-48ac-8d51-09fd96fc78ac",
         "parent_table": "block",
         "properties": {
@@ -308,7 +232,7 @@
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 8,
         "inline_content": [
           {
             "Text": "Learn more about "
@@ -321,6 +245,103 @@
             "Text": "."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155934122,
+        "id": "3c4360b5-2f6f-41ed-aae1-34d224edc895",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536372045636,
+        "parent_id": "71db2a93-b2b6-48ac-8d51-09fd96fc78ac",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Array basics"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "Array basics"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1536372048509,
+        "format": {
+          "block_height": 291,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Farrays.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "87e48065-d3a2-4351-b153-df102eb07217",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536372054372,
+        "parent_id": "71db2a93-b2b6-48ac-8d51-09fd96fc78ac",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Farrays.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 291,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Farrays.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155934122,
+        "id": "57adf630-b074-49c5-8c2d-bda2e1e02854",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536372058947,
+        "parent_id": "71db2a93-b2b6-48ac-8d51-09fd96fc78ac",
+        "parent_table": "block",
+        "type": "text",
+        "version": 3
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155934122,
+        "id": "ab01021f-ce4c-444f-95da-9fb70eed8e4b",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536372063556,
+        "parent_id": "71db2a93-b2b6-48ac-8d51-09fd96fc78ac",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155934122,
+        "id": "019c3c72-3441-474b-b2b2-d7190798142d",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536372068891,
+        "parent_id": "71db2a93-b2b6-48ac-8d51-09fd96fc78ac",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
       }
     ],
     "title": "Arrays",

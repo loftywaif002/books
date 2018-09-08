@@ -12,13 +12,14 @@
       "be06bea1-0901-4920-9371-a10f866d5d3d",
       "50735a8c-7579-4093-aeda-8c97a97ebbf9",
       "fac6f92a-7097-4063-9692-4991f7f2c537",
-      "0875441d-d6c3-4d40-bb07-9e3187498d21",
+      "20284139-c069-4245-b012-e3cd3004a429",
       "c96232ae-8557-431c-9273-206a9d1ea6f0",
-      "4bd13981-cd30-402c-a4c0-418f1cfae433",
+      "d28ea560-8992-44af-9b46-120b144aa632",
       "f553949f-7b4f-4215-8176-83d3f7943cd0",
       "8b74c980-cfec-42e5-b4e6-e64bbb383558",
-      "206e461a-060e-4774-91b1-acc8cd798912",
+      "65a1a34e-0db9-4f4f-bf01-a925a2c8cf9c",
       "0875b4ed-f243-49d4-9cc1-921bdbfd1422",
+      "eaeccc6f-7139-4d9d-9974-7c7b4f10ded0",
       "65a294e7-0724-4d12-8b20-5503b5893ed9"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -30,7 +31,7 @@
     "id": "59209683-81fc-4770-8b5b-502992700043",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532233217290,
+    "last_edited_time": 1536221455239,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -41,7 +42,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 54,
     "content_resolved": [
       {
         "alive": true,
@@ -343,13 +344,13 @@
         "id": "fac6f92a-7097-4063-9692-4991f7f2c537",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155929189,
+        "last_edited_time": 1536369044703,
         "parent_id": "59209683-81fc-4770-8b5b-502992700043",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Convert floats to strings with "
+              "Convert float to string with "
             ],
             [
               "FormatFloat",
@@ -362,10 +363,10 @@
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 12,
         "inline_content": [
           {
-            "Text": "Convert floats to strings with "
+            "Text": "Convert float to string with "
           },
           {
             "Text": "FormatFloat",
@@ -376,27 +377,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155929189,
-        "id": "0875441d-d6c3-4d40-bb07-9e3187498d21",
-        "ignore_block_count": true,
+        "created_time": 1536220882846,
+        "format": {
+          "block_height": 387.9965515136719,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "20284139-c069-4245-b012-e3cd3004a429",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155929189,
+        "last_edited_time": 1536221337189,
         "parent_id": "59209683-81fc-4770-8b5b-502992700043",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file floating-point.go output sha1:56e9167e71cb198163749fa33494cf86cdf99072 goplayground:uql4Zc8Fiaz"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file floating-point.go output sha1:56e9167e71cb198163749fa33494cf86cdf99072 goplayground:uql4Zc8Fiaz"
-          }
-        ]
+        "type": "embed",
+        "version": 14,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 387.9965515136719,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point.go"
+        }
       },
       {
         "alive": true,
@@ -405,13 +414,13 @@
         "id": "c96232ae-8557-431c-9273-206a9d1ea6f0",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155929189,
+        "last_edited_time": 1536369047365,
         "parent_id": "59209683-81fc-4770-8b5b-502992700043",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Convert floats to strings with "
+              "Convert float to string with "
             ],
             [
               "Sprintf",
@@ -424,10 +433,10 @@
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 9,
         "inline_content": [
           {
-            "Text": "Convert floats to strings with "
+            "Text": "Convert float to string with "
           },
           {
             "Text": "Sprintf",
@@ -438,27 +447,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155929190,
-        "id": "4bd13981-cd30-402c-a4c0-418f1cfae433",
-        "ignore_block_count": true,
+        "created_time": 1536220926115,
+        "format": {
+          "block_height": 267.9930725097656,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "d28ea560-8992-44af-9b46-120b144aa632",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155929190,
+        "last_edited_time": 1536221346509,
         "parent_id": "59209683-81fc-4770-8b5b-502992700043",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file floating-point-2.go output sha1:1051e611b391fe2419a211e2b54d0d6b5af137e6 goplayground:x25ikHfZM0T"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-2.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file floating-point-2.go output sha1:1051e611b391fe2419a211e2b54d0d6b5af137e6 goplayground:x25ikHfZM0T"
-          }
-        ]
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 267.9930725097656,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-2.go"
+        }
       },
       {
         "alive": true,
@@ -528,7 +545,7 @@
         "id": "8b74c980-cfec-42e5-b4e6-e64bbb383558",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155929190,
+        "last_edited_time": 1536220970949,
         "parent_id": "59209683-81fc-4770-8b5b-502992700043",
         "parent_table": "block",
         "properties": {
@@ -547,7 +564,7 @@
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Convert string to float with "
@@ -561,27 +578,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155929190,
-        "id": "206e461a-060e-4774-91b1-acc8cd798912",
-        "ignore_block_count": true,
+        "created_time": 1536220941521,
+        "format": {
+          "block_height": 378.9930725097656,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-3.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "65a1a34e-0db9-4f4f-bf01-a925a2c8cf9c",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155929190,
+        "last_edited_time": 1536221354008,
         "parent_id": "59209683-81fc-4770-8b5b-502992700043",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file floating-point-3.go output sha1:8d0c3f0446d9e36beab7c86e3f37420c336ea29f goplayground:EBIWcKWRw2p"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-3.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file floating-point-3.go output sha1:8d0c3f0446d9e36beab7c86e3f37420c336ea29f goplayground:EBIWcKWRw2p"
-          }
-        ]
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 378.9930725097656,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-3.go"
+        }
       },
       {
         "alive": true,
@@ -623,27 +648,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1536220976321,
+        "format": {
+          "block_height": 383.9861145019531,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-4.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "eaeccc6f-7139-4d9d-9974-7c7b4f10ded0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536221361478,
+        "parent_id": "59209683-81fc-4770-8b5b-502992700043",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-4.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 383.9861145019531,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-4.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155929190,
         "id": "65a294e7-0724-4d12-8b20-5503b5893ed9",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155929190,
+        "last_edited_time": 1536220992245,
         "parent_id": "59209683-81fc-4770-8b5b-502992700043",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file floating-point-4.go output sha1:e9ddfc64925c7cbee478571a4b0ca3278c7bc421 goplayground:E3FzIjRMDmr"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file floating-point-4.go output sha1:e9ddfc64925c7cbee478571a4b0ca3278c7bc421 goplayground:E3FzIjRMDmr"
-          }
-        ]
+        "version": 3
       }
     ],
     "title": "Floating-point numbers",

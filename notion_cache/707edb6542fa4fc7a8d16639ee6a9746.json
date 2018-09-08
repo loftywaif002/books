@@ -13,6 +13,7 @@
       "3f70f254-afe6-4685-86ca-45a4cbca6b33",
       "d2d3c0f7-9101-4e14-9a97-a8006e3950ea",
       "646bc127-2f7a-4250-9f4f-190beba106dd",
+      "3e5fe73a-765a-49a6-9e58-4a738969b8c7",
       "8b7e3279-90d9-40c3-a8c3-b24c478e6d66",
       "66730f0c-6b5c-4111-bb87-e19ace307e3c"
     ],
@@ -25,7 +26,7 @@
     "id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234620297,
+    "last_edited_time": 1536372298526,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -36,7 +37,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 35,
     "content_resolved": [
       {
         "alive": true,
@@ -426,27 +427,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1536372290202,
+        "format": {
+          "block_height": 662.99658203125,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fzero_values.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "3e5fe73a-765a-49a6-9e58-4a738969b8c7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1536372307652,
+        "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fzero_values.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 662.99658203125,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fzero_values.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155945189,
         "id": "8b7e3279-90d9-40c3-a8c3-b24c478e6d66",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155945189,
+        "last_edited_time": 1536131765470,
         "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file zero_values.go output sha1:7bed196df8157c429f9c3ad7801b0e69f53485e5 goplayground:9B0IqtjU0RF"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file zero_values.go output sha1:7bed196df8157c429f9c3ad7801b0e69f53485e5 goplayground:9B0IqtjU0RF"
-          }
-        ]
+        "version": 3
       },
       {
         "alive": true,

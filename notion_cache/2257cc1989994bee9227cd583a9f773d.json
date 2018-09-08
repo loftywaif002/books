@@ -7,7 +7,7 @@
       "99efe3a6-c027-47f0-8b4f-6b02b89209d4",
       "9f6fd4cb-b427-4345-b87a-968ab479be2d",
       "1d54f6d3-1ba3-4ead-8bfc-bc79a2582482",
-      "ab036b57-e2ad-4499-8f4e-36c521b3a1ad",
+      "b2686817-9eb9-4402-8a45-9f87a31e6a31",
       "f40b724a-61a3-4113-90d8-74d142d20445",
       "65bf4737-8384-445c-9f85-afc1bac82188",
       "cd7e938b-3b67-4675-9a4c-6e13429c46b7"
@@ -21,7 +21,7 @@
     "id": "2257cc19-8999-4bee-9227-cd583a9f773d",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532233704518,
+    "last_edited_time": 1536372584830,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -32,7 +32,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 27,
     "content_resolved": [
       {
         "alive": true,
@@ -101,38 +101,55 @@
         "id": "1d54f6d3-1ba3-4ead-8bfc-bc79a2582482",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155935113,
+        "last_edited_time": 1536372543650,
         "parent_id": "2257cc19-8999-4bee-9227-cd583a9f773d",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "A slice in Go is used where you would use an array in most other languages like Ruby or C#."
+              "A slice in Go is used where you would use an array in most other languages like Ruby, Python or C# or "
+            ],
+            [
+              "std::vector",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in C++."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 77,
         "inline_content": [
           {
-            "Text": "A slice in Go is used where you would use an array in most other languages like Ruby or C#."
+            "Text": "A slice in Go is used where you would use an array in most other languages like Ruby, Python or C# or "
+          },
+          {
+            "Text": "std::vector",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in C++."
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155935114,
-        "id": "ab036b57-e2ad-4499-8f4e-36c521b3a1ad",
-        "ignore_block_count": true,
+        "created_time": 1536372546245,
+        "id": "b2686817-9eb9-4402-8a45-9f87a31e6a31",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233684614,
+        "last_edited_time": 1536372612729,
         "parent_id": "2257cc19-8999-4bee-9227-cd583a9f773d",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "A slice is a view into underlying "
+              "A slice can grow and shrink in size. It's implemented a view into underlying fixed size "
             ],
             [
               "array",
@@ -149,10 +166,10 @@
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 240,
         "inline_content": [
           {
-            "Text": "A slice is a view into underlying "
+            "Text": "A slice can grow and shrink in size. It's implemented a view into underlying fixed size "
           },
           {
             "Text": "array",

@@ -18,7 +18,7 @@ func makeRenderHookCodeBlock(defaultLang string) html.RenderNodeFunc {
 		if false {
 			fmt.Printf("lang: '%s', code: %s\n", lang, string(codeBlock.Literal[:16]))
 			io.WriteString(w, "\n<pre class=\"chroma\"><code>")
-			//html.EscapeHTML(w, codeBlock.Literal)
+			html.EscapeHTML(w, codeBlock.Literal)
 			io.WriteString(w, "</code></pre>\n")
 		} else {
 			htmlHighlight(w, string(codeBlock.Literal), lang, defaultLang)

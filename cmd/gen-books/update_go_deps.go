@@ -20,22 +20,15 @@ This is meant to be run once on startup.
 */
 
 var (
-	updatedImports = make(map[string]bool)
+	updatedImports = map[string]bool{}
 )
 
-// TODO: white-list more domains?
 func shouldUpdatePackage(name string) bool {
-	switch {
-	case strings.HasPrefix(name, "github.com/"):
-		return true
-	case strings.HasPrefix(name, "gopkg.in/"):
-		return true
-	case strings.HasPrefix(name, "gitlab.com/"):
-		return true
-	case strings.HasPrefix(name, "golang.org/"):
-		return true
-	}
-	return false
+	// we don't want to update built-in packages (like "fmt")
+	// we assume that non-built-in packages must include domain name
+	// in the name and domain name must contain ".", while built-in package
+	// will not
+	return strings.Contains(name, ".")
 }
 
 func updateImport(importSpec *ast.ImportSpec) {

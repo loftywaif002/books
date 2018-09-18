@@ -133,6 +133,18 @@ func (p *Page) URL() string {
 	return ""
 }
 
+func findSourceFileForEmbedURL(page *Page, uri string) *EmbeddedSourceFile {
+	for _, f := range page.SourceFiles {
+		if f.EmbedURL == uri {
+			if f.FileExists {
+				return f
+			}
+			return nil
+		}
+	}
+	return nil
+}
+
 // extract sub page information and removes blocks that contain
 // this info
 func getSubPages(page *notionapi.Page, pageIDToPage map[string]*notionapi.Page) []*notionapi.Page {

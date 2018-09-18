@@ -15,7 +15,7 @@ import (
 // HTMLGenerator is for notion -> HTML generation
 type HTMLGenerator struct {
 	f       *bytes.Buffer
-	page    *notionapi.Page
+	page    *Page
 	level   int
 	nToggle int
 	err     error
@@ -23,7 +23,7 @@ type HTMLGenerator struct {
 }
 
 // NewHTMLGenerator returns new HTMLGenerator
-func NewHTMLGenerator(page *notionapi.Page) *HTMLGenerator {
+func NewHTMLGenerator(page *Page) *HTMLGenerator {
 	return &HTMLGenerator{
 		f:    &bytes.Buffer{},
 		page: page,
@@ -32,13 +32,13 @@ func NewHTMLGenerator(page *notionapi.Page) *HTMLGenerator {
 
 // Gen returns generated HTML
 func (g *HTMLGenerator) Gen() []byte {
-	page := g.page.Root
-	f := page.FormatPage
+	rootPage := g.page.NotionPage.Root
+	f := rootPage.FormatPage
 	g.writeString(`<p></p>`)
 	if f != nil && f.PageFont == "mono" {
 		g.writeString(`<div style="font-family: monospace">`)
 	}
-	g.genContent(g.page.Root)
+	g.genContent(rootPage)
 	if f != nil && f.PageFont == "mono" {
 		g.writeString(`</div>`)
 	}
@@ -255,7 +255,13 @@ func propsValueToText(v interface{}) string {
 }
 
 func (g *HTMLGenerator) genEmbed(block *notionapi.Block) {
+	uri := block.FormatEmbed.DisplaySource
+	f := findSourceFileForEmbedURL(g.page, uri)
+	if f == nil {
+		return
+	}
 	// TODO: implement me
+	fmt.Printf("genEmbed() uri: %s\n", uri)
 }
 
 func (g *HTMLGenerator) genCollectionView(block *notionapi.Block) {
@@ -498,7 +504,7 @@ func (g *HTMLGenerator) genContent(parent *notionapi.Block) {
 	g.genBlocks(parent.Content)
 }
 
-func notionToHTML(page *notionapi.Page, book *Book) []byte {
+func notionToHTML(page *Page, book *Book) []byte {
 	gen := NewHTMLGenerator(page)
 	gen.book = book
 	return gen.Gen()

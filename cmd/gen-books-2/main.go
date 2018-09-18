@@ -20,7 +20,7 @@ var (
 	}
 )
 
-func parseCmdLineFlags() {
+func parseFlags() {
 	flag.BoolVar(&flgNoCache, "no-cache", false, "if true, disables cache for notion")
 	flag.Parse()
 }
@@ -81,7 +81,7 @@ func genBookFiles(book *Book) {
 }
 
 func main() {
-	parseCmdLineFlags()
+	parseFlags()
 
 	//flgNoCache = true
 

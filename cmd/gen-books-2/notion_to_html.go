@@ -123,7 +123,7 @@ func (g *HTMLGenerator) getURLAndTitleForBlock(block *notionapi.Block) (string, 
 func findPageByID(book *Book, id string) *Page {
 	var res *Page
 	fn := func(page *Page) bool {
-		if strings.EqualFold(page.Meta.ID, id) {
+		if strings.EqualFold(page.ID, id) {
 			res = page
 			return false
 		}

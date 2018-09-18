@@ -67,7 +67,7 @@ func buildIDToPage(book *Book) {
 func bookPagesToHTML(book *Book) {
 	nProcessed := 0
 	fn := func(page *Page) bool {
-		notionToHTML(page.NotionPage, book)
+		notionToHTML(page, book)
 		nProcessed++
 		return true
 	}

@@ -4,14 +4,24 @@ import (
 	"flag"
 	"fmt"
 
+	"html/template"
+
 	"github.com/kjk/notionapi"
+	"github.com/tdewolff/minify"
 )
 
 var (
 	// "https://www.notion.so/kjkpublic/Essential-Go-2cab1ed2b7a44584b56b0d3ca9b80185"
 	notionGoStartPage = "2cab1ed2b7a44584b56b0d3ca9b80185"
 
-	flgNoCache bool
+	flgAnalytics string
+	flgNoCache   bool
+
+	allBookDirs       []string
+	soUserIDToNameMap map[int]string
+	googleAnalytics   template.HTML
+	doMinify          bool
+	minifier          *minify.M
 )
 
 var (
@@ -20,7 +30,33 @@ var (
 	}
 )
 
+const (
+	// https://www.netlify.com/docs/headers-and-basic-auth/#custom-headers
+	netlifyHeaders = `
+# long-lived caching
+/s/*
+  Cache-Control: max-age=31536000
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+`
+)
+
+const (
+	googleAnalyticsTmpl = `<script async src="https://www.googletagmanager.com/gtag/js?id=%s"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '%s')
+    </script>
+`
+)
+
 func parseFlags() {
+	flag.StringVar(&flgAnalytics, "analytics", "", "google analytics code")
+
 	flag.BoolVar(&flgNoCache, "no-cache", false, "if true, disables cache for notion")
 	flag.Parse()
 }

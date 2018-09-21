@@ -22,7 +22,6 @@ import (
 )
 
 var (
-	flgAnalytics          string
 	flgPreview            bool
 	flgUpdateGoPlayground bool
 	flgUpdateOutput       bool
@@ -30,39 +29,10 @@ var (
 	flgForce              bool
 	flgUpdateGoDeps       bool
 	flgGenID              bool
-	allBookDirs           []string
-	soUserIDToNameMap     map[int]string
-	googleAnalytics       template.HTML
-	doMinify              bool
-	minifier              *minify.M
-)
 
-const (
-	// https://www.netlify.com/docs/headers-and-basic-auth/#custom-headers
-	netlifyHeaders = `
-# long-lived caching
-/s/*
-  Cache-Control: max-age=31536000
-/*
-  X-Content-Type-Options: nosniff
-  X-Frame-Options: DENY
-  X-XSS-Protection: 1; mode=block
-`
-)
-
-const (
-	googleAnalyticsTmpl = `<script async src="https://www.googletagmanager.com/gtag/js?id=%s"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '%s')
-    </script>
-`
 )
 
 func parseFlags() {
-	flag.StringVar(&flgAnalytics, "analytics", "", "google analytics code")
 	flag.BoolVar(&flgPreview, "preview", false, "if true will start watching for file changes and re-build everything")
 	flag.BoolVar(&flgUpdateGoPlayground, "update-go-playground", false, "if true will upgrade links to go playground")
 	flag.BoolVar(&flgUpdateOutput, "update-output", false, "if true, will update ouput files in cached_output")

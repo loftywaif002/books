@@ -279,10 +279,6 @@ func main() {
 	parseFlags()
 
 	if false {
-		regenIDSAndExit()
-	}
-
-	if false {
 		genTwitterImagesAndExit()
 	}
 

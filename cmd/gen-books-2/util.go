@@ -254,3 +254,87 @@ func urlJoin(s1, s2 string) string {
 	}
 	return s1 + "/" + s2
 }
+
+// removes empty lines from the beginning and end of the array
+func trimEmptyLines(lines []string) []string {
+	for len(lines) > 0 && len(lines[0]) == 0 {
+		lines = lines[1:]
+	}
+
+	for len(lines) > 0 && len(lines[len(lines)-1]) == 0 {
+		lines = lines[:len(lines)-1]
+	}
+
+	n := len(lines)
+	res := make([]string, 0, n)
+	prevWasEmpty := false
+	for i := 0; i < n; i++ {
+		l := lines[i]
+		shouldAppend := l != "" || !prevWasEmpty
+		prevWasEmpty = l == ""
+		if shouldAppend {
+			res = append(res, l)
+		}
+	}
+	return res
+}
+
+func countStartChars(s string, c byte) int {
+	for i := range s {
+		if s[i] != c {
+			return i
+		}
+	}
+	return len(s)
+}
+
+// remove longest common space/tab prefix on non-empty lines
+func shiftLines(lines []string) {
+	maxTabPrefix := 1024
+	maxSpacePrefix := 1024
+	// first determine how much we can remove
+	for _, line := range lines {
+		if len(line) == 0 {
+			continue
+		}
+		n := countStartChars(line, ' ')
+		if n > 0 {
+			if n < maxSpacePrefix {
+				maxSpacePrefix = n
+			}
+			continue
+		}
+		n = countStartChars(line, '\t')
+		if n > 0 {
+			if n < maxTabPrefix {
+				maxTabPrefix = n
+			}
+			continue
+		}
+		// if doesn't start with space or tab, early abort
+		return
+	}
+	if maxSpacePrefix == 1024 && maxTabPrefix == 1024 {
+		return
+	}
+
+	toRemove := maxSpacePrefix
+	if maxTabPrefix != 1024 {
+		toRemove = maxTabPrefix
+	}
+	if toRemove == 0 {
+		return
+	}
+
+	for i, line := range lines {
+		if len(line) == 0 {
+			continue
+		}
+		lines[i] = line[toRemove:]
+	}
+}
+
+// replace potentially windows paths \foo\bar into unix paths /foo/bar
+func toUnixPath(s string) string {
+	return strings.Replace(s, `\`, "/", -1)
+}

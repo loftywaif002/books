@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"os/exec"
 	"path/filepath"
-	"strconv"
 	"strings"
 
 	"github.com/google/shlex"
@@ -27,85 +26,6 @@ func isShowStart(s string) bool {
 func isShowEnd(s string) bool {
 	s = strings.ToLower(strings.TrimSpace(s))
 	return s == showEndLine
-}
-
-func countStartChars(s string, c byte) int {
-	for i := range s {
-		if s[i] != c {
-			return i
-		}
-	}
-	return len(s)
-}
-
-// remove longest common space/tab prefix on non-empty lines
-func shiftLines(lines []string) {
-	maxTabPrefix := 1024
-	maxSpacePrefix := 1024
-	// first determine how much we can remove
-	for _, line := range lines {
-		if len(line) == 0 {
-			continue
-		}
-		n := countStartChars(line, ' ')
-		if n > 0 {
-			if n < maxSpacePrefix {
-				maxSpacePrefix = n
-			}
-			continue
-		}
-		n = countStartChars(line, '\t')
-		if n > 0 {
-			if n < maxTabPrefix {
-				maxTabPrefix = n
-			}
-			continue
-		}
-		// if doesn't start with space or tab, early abort
-		return
-	}
-	if maxSpacePrefix == 1024 && maxTabPrefix == 1024 {
-		return
-	}
-
-	toRemove := maxSpacePrefix
-	if maxTabPrefix != 1024 {
-		toRemove = maxTabPrefix
-	}
-	if toRemove == 0 {
-		return
-	}
-
-	for i, line := range lines {
-		if len(line) == 0 {
-			continue
-		}
-		lines[i] = line[toRemove:]
-	}
-}
-
-// removes empty lines from the beginning and end of the array
-func trimEmptyLines(lines []string) []string {
-	for len(lines) > 0 && len(lines[0]) == 0 {
-		lines = lines[1:]
-	}
-
-	for len(lines) > 0 && len(lines[len(lines)-1]) == 0 {
-		lines = lines[:len(lines)-1]
-	}
-
-	n := len(lines)
-	res := make([]string, 0, n)
-	prevWasEmpty := false
-	for i := 0; i < n; i++ {
-		l := lines[i]
-		shouldAppend := l != "" || !prevWasEmpty
-		prevWasEmpty = l == ""
-		if shouldAppend {
-			res = append(res, l)
-		}
-	}
-	return res
 }
 
 func extractCodeSnippets(path string) ([]string, error) {
@@ -174,119 +94,9 @@ func getLangFromFileExt(fileName string) string {
 	return ""
 }
 
-// replace potentially windows paths \foo\bar into unix paths /foo/bar
-func toUnixPath(s string) string {
-	return strings.Replace(s, `\`, "/", -1)
-}
-
 // convert local path like books/go/foo.go into path to the file in a github repo
 func getGitHubPathForFile(path string) string {
 	return "https://github.com/essentialbooks/books/blob/master/" + toUnixPath(path)
-}
-
-// FileDirective describes result of parsing
-// @file ${fileName} output allow_error
-type FileDirective struct {
-	FileName       string
-	WithOutput     bool
-	AllowError     bool
-	LineLimit      int
-	NoPlayground   bool
-	Sha1Hex        string
-	GoPlaygroundID string
-}
-
-// String serializes FileDirective back to string format
-func (fd *FileDirective) String() string {
-	s := fmt.Sprintf("@file %s", fd.FileName)
-	if fd.WithOutput {
-		s += " output"
-	}
-	if fd.AllowError {
-		s += " allow_error"
-	}
-	if fd.NoPlayground {
-		return s + " no_playground"
-	}
-	if fd.Sha1Hex != "" {
-		s += " sha1:" + fd.Sha1Hex
-	}
-	if fd.GoPlaygroundID != "" {
-		s += " goplayground:" + fd.GoPlaygroundID
-	}
-	if fd.LineLimit != 0 {
-		s += " limit:" + strconv.Itoa(fd.LineLimit)
-	}
-	return s
-}
-
-// parseFileDirective parses line like:
-// @file ${fileName} [output] [allow_error] [no_playground] [noplayground] [sha1:${sha1}] [goplayground:${playgroundID}]
-// into FileDirective
-func parseFileDirective(line string) (*FileDirective, error) {
-	line = strings.TrimSpace(line)
-	u.PanicIf(!strings.HasPrefix(line, "@file"))
-	parts := strings.Split(line, " ")
-	if len(parts) < 2 {
-		return nil, fmt.Errorf("invalid @file line: '%s'", line)
-	}
-	if parts[0] != "@file" {
-		return nil, fmt.Errorf("invalid @file line: '%s'", line)
-	}
-	res := &FileDirective{}
-	parts = parts[1:]
-	res.FileName = parts[0]
-	parts = parts[1:]
-	for _, s := range parts {
-		if len(s) == 0 {
-			continue
-		}
-		s = strings.TrimSpace(s)
-		switch {
-		case s == "output":
-			res.WithOutput = true
-		case s == "allow_error":
-			res.AllowError = true
-		case s == "no_playground" || s == "noplayground":
-			res.NoPlayground = true
-		case strings.HasPrefix(s, "sha1:"):
-			parts := strings.Split(s, ":")
-			if len(parts) != 2 {
-				return nil, fmt.Errorf("invalid sha1 in '%s'", line)
-			}
-			sha1Hex := parts[1]
-			// 20 bytes * 2 bytes per char in hex encoding
-			if len(sha1Hex) != 40 {
-				return nil, fmt.Errorf("invalid sha1: in '%s'", line)
-			}
-			res.Sha1Hex = sha1Hex
-		case strings.HasPrefix(s, "goplayground:"):
-			parts := strings.Split(s, ":")
-			if len(parts) != 2 {
-				return nil, fmt.Errorf("invalid playground: in '%s'", line)
-			}
-			res.GoPlaygroundID = parts[1]
-		case strings.HasPrefix(s, "limit:"):
-			parts := strings.Split(s, ":")
-			if len(parts) != 2 {
-				return nil, fmt.Errorf("invalid limit: in '%s'", line)
-			}
-			n, err := strconv.Atoi(parts[1])
-			if err != nil {
-				return nil, fmt.Errorf("invalid limit: in '%s'", line)
-			}
-			res.LineLimit = n
-		default:
-			return nil, fmt.Errorf("invalid @file line: '%s', unknown option '%s'", line, s)
-		}
-	}
-
-	// currently only Go files suport playground
-	ext := strings.ToLower(filepath.Ext(res.FileName))
-	if ext != ".go" {
-		res.NoPlayground = true
-	}
-	return res, nil
 }
 
 // ${baseDir} is books/go/

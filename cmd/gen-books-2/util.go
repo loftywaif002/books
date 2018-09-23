@@ -338,3 +338,8 @@ func shiftLines(lines []string) {
 func toUnixPath(s string) string {
 	return strings.Replace(s, `\`, "/", -1)
 }
+
+func dataToLines(d []byte) []string {
+	s := string(d)
+	return strings.Split(s, "\n")
+}

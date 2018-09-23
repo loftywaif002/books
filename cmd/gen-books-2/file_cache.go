@@ -20,6 +20,7 @@ type FileContent struct {
 	Content []byte
 	Lines   []string
 
+	directive     *FileDirective
 	sha1HexCached string
 }
 
@@ -31,34 +32,51 @@ func (f *FileContent) Sha1Hex() string {
 	return f.sha1HexCached
 }
 
-var (
-	filePathToFileContent = make(map[string]*FileContent)
-	muFileCache           sync.Mutex
-)
+// FileCache is a cache of files based on their paths
+type FileCache struct {
+	pathToFileContent map[string]*FileContent
+	mu                sync.Mutex
+}
 
-func cacheFile(path string, info os.FileInfo) (*FileContent, error) {
+// NewFileCache creates FileCache
+func NewFileCache() *FileCache {
+	return &FileCache{
+		pathToFileContent: map[string]*FileContent{},
+	}
+}
+
+func (c *FileCache) cacheFile(path string, info os.FileInfo) (*FileContent, error) {
 	d, err := common.ReadFileNormalized(path)
 	if err != nil {
 		return nil, err
 	}
 	s := string(d)
 	lines := strings.Split(s, "\n")
+	var directive *FileDirective
+	if len(lines) > 0 {
+		directive, err = parseFileDirective(lines[0])
+		panicIfErr(err)
+		if directive != nil {
+			lines = lines[1:]
+		}
+	}
 	fc := &FileContent{
-		Path:    path,
-		Size:    info.Size(),
-		ModTime: info.ModTime(),
-		Content: d,
-		Lines:   lines,
+		Path:      path,
+		Size:      info.Size(),
+		ModTime:   info.ModTime(),
+		Content:   d,
+		Lines:     lines,
+		directive: directive,
 	}
 
-	muFileCache.Lock()
-	filePathToFileContent[path] = fc
-	muFileCache.Unlock()
+	c.mu.Lock()
+	c.pathToFileContent[path] = fc
+	c.mu.Unlock()
 
 	return fc, nil
 }
 
-func cacheFileIfChanged(path string, info os.FileInfo) (*FileContent, error) {
+func (c *FileCache) cacheFileIfChanged(path string, info os.FileInfo) (*FileContent, error) {
 	var err error
 	if info == nil {
 		info, err = os.Stat(path)
@@ -66,34 +84,41 @@ func cacheFileIfChanged(path string, info os.FileInfo) (*FileContent, error) {
 			return nil, err
 		}
 	}
-	muFileCache.Lock()
-	fc, ok := filePathToFileContent[path]
-	muFileCache.Unlock()
+	c.mu.Lock()
+	fc, ok := c.pathToFileContent[path]
+	c.mu.Unlock()
 
 	if !ok || fc.Size != info.Size() || fc.ModTime != info.ModTime() {
-		return cacheFile(path, info)
+		return c.cacheFile(path, info)
 	}
 	return fc, nil
 }
 
-func loadFileCached(path string) (*FileContent, error) {
-	return cacheFileIfChanged(path, nil)
+func (c *FileCache) loadFileCached(path string) (*FileContent, error) {
+	return c.cacheFileIfChanged(path, nil)
 }
 
-func cacheFilesInDir(dir string) error {
+func cacheFilesInDir(dir string, allowFile func(string) bool) (*FileCache, error) {
 	timeStart := time.Now()
+	cache := NewFileCache()
 	defer func() {
 		fmt.Printf("cacheFilesInDir '%s' took %s\n", dir, time.Since(timeStart))
 	}()
-	res := filepath.Walk(dir, func(path string, info os.FileInfo, err error) error {
+	err := filepath.Walk(dir, func(path string, info os.FileInfo, err error) error {
 		if err != nil {
 			return err
 		}
 		if info.IsDir() {
 			return nil
 		}
-		_, err = cacheFileIfChanged(path, info)
+		allow := true
+		if allowFile != nil {
+			allow = allowFile(path)
+		}
+		if allow {
+			_, err = cache.cacheFileIfChanged(path, info)
+		}
 		return err
 	})
-	return res
+	return cache, err
 }

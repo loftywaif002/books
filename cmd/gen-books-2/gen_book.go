@@ -86,18 +86,15 @@ func execTemplateToFileSilentMaybeMust(name string, data interface{}, path strin
 	maybePanicIfErr(err)
 
 	d := buf.Bytes()
-	panic("NYI")
-	/*
-		if doMinify {
-			d2, err := minifier.Bytes("text/html", d)
-			maybePanicIfErr(err)
-			if err == nil {
-				totalHTMLBytes += len(d)
-				totalHTMLBytesMinified += len(d2)
-				d = d2
-			}
+	if doMinify {
+		d2, err := minifier.Bytes("text/html", d)
+		maybePanicIfErr(err)
+		if err == nil {
+			totalHTMLBytes += len(d)
+			totalHTMLBytesMinified += len(d2)
+			d = d2
 		}
-	*/
+	}
 	err = ioutil.WriteFile(path, d, 0644)
 	maybePanicIfErr(err)
 }

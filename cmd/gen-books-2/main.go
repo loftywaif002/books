@@ -3,21 +3,19 @@ package main
 import (
 	"flag"
 	"fmt"
+	"path/filepath"
 
 	"html/template"
 
+	"github.com/essentialbooks/books/pkg/common"
 	"github.com/kjk/notionapi"
 	"github.com/tdewolff/minify"
 )
 
 var (
-	// "https://www.notion.so/kjkpublic/Essential-Go-2cab1ed2b7a44584b56b0d3ca9b80185"
-	notionGoStartPage = "2cab1ed2b7a44584b56b0d3ca9b80185"
-
 	flgAnalytics string
 	flgNoCache   bool
 
-	allBookDirs       []string
 	soUserIDToNameMap map[int]string
 	googleAnalytics   template.HTML
 	doMinify          bool
@@ -25,8 +23,14 @@ var (
 )
 
 var (
-	books = []string{
-		"Go", "Essential Go", notionGoStartPage,
+	books = []*Book{
+		&Book{
+			Title:     "Go",
+			TitleLong: "Essential Go",
+			SourceDir: filepath.Join("books", "go"),
+			// "https://www.notion.so/kjkpublic/Essential-Go-2cab1ed2b7a44584b56b0d3ca9b80185"
+			NotionStartPageID: "2cab1ed2b7a44584b56b0d3ca9b80185",
+		},
 	}
 )
 
@@ -61,14 +65,12 @@ func parseFlags() {
 	flag.Parse()
 }
 
-func downloadBook(bookShortName, bookName, notionStartPageID string) *Book {
-	idToPage := map[string]*notionapi.Page{}
-	loadNotionPages(notionGoStartPage, idToPage, !flgNoCache)
-	fmt.Printf("Loaded %d pages for book %s\n", len(idToPage), bookName)
-	book := bookFromPages(notionStartPageID, idToPage)
-	book.Title = bookShortName
-	book.TitleLong = bookName
-	return book
+func downloadBook(book *Book) {
+	notionStartPageID := book.NotionStartPageID
+	book.pageIDToPage = map[string]*notionapi.Page{}
+	loadNotionPages(notionStartPageID, book.pageIDToPage, !flgNoCache)
+	fmt.Printf("Loaded %d pages for book %s\n", len(book.pageIDToPage), book.Title)
+	bookFromPages(book)
 }
 
 func iterPages(book *Book, onPage func(*Page) bool) {
@@ -121,11 +123,12 @@ func main() {
 
 	//flgNoCache = true
 
-	nBooks := len(books) / 3
-	panicIf(nBooks*3 != len(books), "bad definition of books")
 	//maybeRemoveNotionCache()
-	for i := 0; i < nBooks; i++ {
-		book := downloadBook(books[i*3], books[i*3+1], books[i*3+2])
+	for _, book := range books {
+		book.titleSafe = common.MakeURLSafe(book.Title)
+		book.destDir = filepath.Join(destEssentialDir)
+
+		downloadBook(book)
 		genBookFiles(book)
 	}
 }

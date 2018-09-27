@@ -390,20 +390,22 @@ func (g *HTMLGenerator) genBlock(block *notionapi.Block) {
 		g.currHeaderID++
 		h := HeadingInfo{
 			Text: genInlineBlocksText(block.InlineContent),
-			ID:   strconv.Itoa(g.currHeaderID),
+			// TODO: ID should be url-ified text
+			ID: strconv.Itoa(g.currHeaderID),
 		}
 		g.page.Headings = append(g.page.Headings, h)
-		start := fmt.Sprintf(`<h1 class="hdr%s">`, levelCls)
+		start := fmt.Sprintf(`<h1 class="hdr%s" id="%s">`, levelCls, h.ID)
 		close := `</h1>`
 		g.genBlockSurrouded(block, start, close)
 	case notionapi.BlockSubHeader:
 		g.currHeaderID++
 		h := HeadingInfo{
 			Text: genInlineBlocksText(block.InlineContent),
-			ID:   strconv.Itoa(g.currHeaderID),
+			// TODO: ID should be url-ified text
+			ID: strconv.Itoa(g.currHeaderID),
 		}
 		g.page.Headings = append(g.page.Headings, h)
-		start := fmt.Sprintf(`<h2 class="hdr%s">`, levelCls)
+		start := fmt.Sprintf(`<h2 class="hdr%s" id="%s">`, levelCls, h.ID)
 		close := `</h2>`
 		g.genBlockSurrouded(block, start, close)
 	case notionapi.BlockTodo:

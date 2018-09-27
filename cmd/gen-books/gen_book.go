@@ -2,10 +2,13 @@ package main
 
 import (
 	"bytes"
+	"fmt"
 	"html/template"
 	"io/ioutil"
 	"log"
+	"os"
 	"path/filepath"
+	"time"
 )
 
 const (
@@ -118,4 +121,60 @@ func getPageCommon() PageCommon {
 		PathMainCSS:    pathMainCSS,
 		PathFaviconICO: pathFaviconICO,
 	}
+}
+
+func buildIDToPage(book *Book) {
+	book.idToPage = map[string]*Page{}
+	fn := func(page *Page) bool {
+		id := normalizeID(page.NotionPage.ID)
+		book.idToPage[id] = page
+		return true
+	}
+	iterPages(book, fn)
+}
+
+func bookPagesToHTML(book *Book) {
+	nProcessed := 0
+	fn := func(page *Page) bool {
+		notionToHTML(page, book)
+		nProcessed++
+		return true
+	}
+	iterPages(book, fn)
+	fmt.Printf("bookPagesToHTML: processed %d pages for book %s\n", nProcessed, book.TitleLong)
+}
+
+func genBook(book *Book) {
+	fmt.Printf("Started genering book %s\n", book.Title)
+	timeStart := time.Now()
+
+	buildIDToPage(book)
+	bookPagesToHTML(book)
+
+	genBookTOCSearchMust(book)
+
+	// generate index.html for the book
+	err := os.MkdirAll(book.destDir(), 0755)
+	maybePanicIfErr(err)
+	if err != nil {
+		return
+	}
+
+	d := struct {
+		PageCommon
+		Book *Book
+	}{
+		PageCommon: getPageCommon(),
+		Book:       book,
+	}
+
+	path := filepath.Join(book.destDir(), "index.html")
+	execTemplateToFileSilentMaybeMust("book_index.tmpl.html", d, path)
+
+	path = filepath.Join(book.destDir(), "404.html")
+	execTemplateToFileSilentMaybeMust("404.tmpl.html", d, path)
+
+	addSitemapURL(book.CanonnicalURL())
+
+	fmt.Printf("Generated book '%s' in %s\n", book.Title, time.Since(timeStart))
 }

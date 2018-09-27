@@ -240,7 +240,8 @@ func buildIDToPage(book *Book) {
 func bookPagesToHTML(book *Book) {
 	nProcessed := 0
 	fn := func(page *Page) bool {
-		notionToHTML(page, book)
+		html := notionToHTML(page, book)
+		page.BodyHTML = template.HTML(string(html))
 		nProcessed++
 		return true
 	}

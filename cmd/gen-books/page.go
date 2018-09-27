@@ -25,6 +25,9 @@ type Page struct {
 	// reference to parent page, nil if top-level page
 	Parent *Page
 
+	Book *Book
+
+	No int // TODO: fill it up
 	// meta information extracted from page blocks
 	NotionID string
 	// for legacy pages this is an id. Might be used for redirects
@@ -50,8 +53,17 @@ type Page struct {
 
 // URL returns url of the page
 func (p *Page) URL() string {
-	panic("NYI")
-	return ""
+	book := p.Book
+	bookTitle := book.Dir // should this be book.titleSafe ?
+	id := p.NotionID
+	title := urlify(p.Title)
+	// /essentail/go/${id}-title
+	return fmt.Sprintf("/essential/%s/%s-%s", bookTitle, id, title)
+}
+
+// CanonnicalURL returns full url including host
+func (p *Page) CanonnicalURL() string {
+	return urlJoin(siteBaseURL, p.URL())
 }
 
 func reverseStringSlice(a []string) {
@@ -276,7 +288,7 @@ func extractEmbeddedSourceFiles(p *Page) {
 	}
 }
 
-func bookPageFromNotionPage(page *notionapi.Page, pageIDToPage map[string]*notionapi.Page) *Page {
+func bookPageFromNotionPage(book *Book, page *notionapi.Page, pageIDToPage map[string]*notionapi.Page) *Page {
 	res := &Page{}
 	res.NotionPage = page
 	res.Title = page.Root.Title
@@ -287,7 +299,8 @@ func bookPageFromNotionPage(page *notionapi.Page, pageIDToPage map[string]*notio
 	// fmt.Printf("bookPageFromNotionPage: %s %s\n", normalizeID(page.ID), res.Meta.ID)
 
 	for _, subPage := range subPages {
-		bookPage := bookPageFromNotionPage(subPage, pageIDToPage)
+		bookPage := bookPageFromNotionPage(book, subPage, pageIDToPage)
+		bookPage.Book = book
 		res.Pages = append(res.Pages, bookPage)
 	}
 	return res
@@ -298,5 +311,5 @@ func bookFromPages(book *Book) {
 	page := book.pageIDToPage[startPageID]
 	panicIf(page.Root.Type != notionapi.BlockPage, "start block is of type '%s' and not '%s'", page.Root.Type, notionapi.BlockPage)
 	book.Title = page.Root.Title
-	book.RootPage = bookPageFromNotionPage(page, book.pageIDToPage)
+	book.RootPage = bookPageFromNotionPage(book, page, book.pageIDToPage)
 }

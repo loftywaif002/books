@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"io/ioutil"
 	"path/filepath"
 	"strings"
 	"sync"
@@ -20,7 +21,7 @@ type SoContributor struct {
 
 // Book represents a book
 type Book struct {
-	FileNameBase string // TODO: possibly not needed
+	//FileNameBase string // TODO: possibly not needed
 
 	Title     string // "Go", "jQuery" etcc
 	titleSafe string
@@ -127,6 +128,36 @@ func (b *Book) ChaptersCount() int {
 	panic("NYI")
 	return 0
 	// return len(b.Chapters)
+}
+
+func updateBookAppJS(book *Book) {
+	srcName := fmt.Sprintf("app-%s.js", book.titleSafe)
+	path := filepath.Join("tmpl", "app.js")
+	d, err := ioutil.ReadFile(path)
+	maybePanicIfErr(err)
+	if err != nil {
+		return
+	}
+	if doMinify {
+		d2, err := minifier.Bytes("text/javascript", d)
+		maybePanicIfErr(err)
+		if err == nil {
+			fmt.Printf("Minified %s from %d => %d (saved %d)\n", srcName, len(d), len(d2), len(d)-len(d2))
+			d = d2
+		}
+	}
+
+	d = append(book.tocData, d...)
+	sha1Hex := u.Sha1HexOfBytes(d)
+	name := nameToSha1Name(srcName, sha1Hex)
+	dst := filepath.Join("www", "s", name)
+	err = ioutil.WriteFile(dst, d, 0644)
+	maybePanicIfErr(err)
+	if err != nil {
+		return
+	}
+	book.AppJSURL = "/s/" + name
+	fmt.Printf("Created %s\n", dst)
 }
 
 // EmbeddedSourceFile represents source file present in the repository

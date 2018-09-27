@@ -6,12 +6,15 @@ import (
 	"io/ioutil"
 	"os"
 	"path/filepath"
+	"runtime"
 	"strings"
+	"time"
 
 	"html/template"
 
 	"github.com/essentialbooks/books/pkg/common"
 	"github.com/kjk/notionapi"
+	"github.com/kjk/u"
 	"github.com/tdewolff/minify"
 )
 
@@ -97,30 +100,10 @@ func iterPages(book *Book, onPage func(*Page) bool) {
 	}
 }
 
-func buildIDToPage(book *Book) {
-	book.idToPage = map[string]*Page{}
-	fn := func(page *Page) bool {
-		id := normalizeID(page.NotionPage.ID)
-		book.idToPage[id] = page
-		return true
-	}
-	iterPages(book, fn)
-}
-
-func bookPagesToHTML(book *Book) {
-	nProcessed := 0
-	fn := func(page *Page) bool {
-		notionToHTML(page, book)
-		nProcessed++
-		return true
-	}
-	iterPages(book, fn)
-	fmt.Printf("bookPagesToHTML: processed %d pages for book %s\n", nProcessed, book.TitleLong)
-}
-
-func genBookFiles(book *Book) {
-	buildIDToPage(book)
-	bookPagesToHTML(book)
+func loadSOUserMappingsMust() {
+	path := filepath.Join("stack-overflow-docs-dump", "users.json.gz")
+	err := common.JSONDecodeGzipped(path, &soUserIDToNameMap)
+	u.PanicIfErr(err)
 }
 
 func genNetlifyHeaders() {
@@ -142,10 +125,104 @@ func genNetlifyRedirects() {
 	panicIfErr(err)
 }
 
+// TODO: probably more
+func getDefaultLangForBook(bookName string) string {
+	s := strings.ToLower(bookName)
+	switch s {
+	case "go":
+		return "go"
+	case "android":
+		return "java"
+	case "ios":
+		return "ObjectiveC"
+	case "microsoft sql server":
+		return "sql"
+	case "node.js":
+		return "javascript"
+	case "mysql":
+		return "sql"
+	case ".net framework":
+		return "c#"
+	}
+	return s
+}
+
+func getBookDirs() []string {
+	dirs, err := common.GetDirs("books")
+	u.PanicIfErr(err)
+	return dirs
+}
+
+func shouldCopyImage(path string) bool {
+	return !strings.Contains(path, "@2x")
+}
+
+func copyFilesRecur(dstDir, srcDir string, shouldCopyFunc func(path string) bool) {
+	createDirMust(dstDir)
+	fileInfos, err := ioutil.ReadDir(srcDir)
+	u.PanicIfErr(err)
+	for _, fi := range fileInfos {
+		name := fi.Name()
+		if fi.IsDir() {
+			dst := filepath.Join(dstDir, name)
+			src := filepath.Join(srcDir, name)
+			copyFilesRecur(dst, src, shouldCopyFunc)
+			continue
+		}
+
+		src := filepath.Join(srcDir, name)
+		dst := filepath.Join(dstDir, name)
+		shouldCopy := true
+		if shouldCopyFunc != nil {
+			shouldCopy = shouldCopyFunc(src)
+		}
+		if !shouldCopy {
+			continue
+		}
+		if pathExists(dst) {
+			continue
+		}
+		copyFileMust(dst, src)
+	}
+}
+
+func copyCoversMust() {
+	copyFilesRecur(filepath.Join("www", "covers"), "covers", shouldCopyImage)
+}
+
+func getAlmostMaxProcs() int {
+	// leave some juice for other programs
+	nProcs := runtime.NumCPU() - 2
+	if nProcs < 1 {
+		return 1
+	}
+	return nProcs
+}
+
+func genAllBooks() {
+	nProcs := getAlmostMaxProcs()
+
+	timeStart := time.Now()
+	clearSitemapURLS()
+	copyCoversMust()
+
+	copyToWwwAsSha1MaybeMust("main.css")
+	copyToWwwAsSha1MaybeMust("app.js")
+	copyToWwwAsSha1MaybeMust("favicon.ico")
+
+	for _, book := range books {
+		genBook(book)
+	}
+	writeSitemap()
+	fmt.Printf("Used %d procs, finished generating all books in %s\n", nProcs, time.Since(timeStart))
+}
+
 func main() {
 	parseFlags()
 
 	//flgNoCache = true
+
+	loadSOUserMappingsMust()
 
 	os.RemoveAll("www")
 	createDirMust(filepath.Join("www", "s"))
@@ -155,10 +232,10 @@ func main() {
 	//maybeRemoveNotionCache()
 	for _, book := range books {
 		book.titleSafe = common.MakeURLSafe(book.Title)
-
 		downloadBook(book)
-		genBookFiles(book)
 	}
+
+	genAllBooks()
 
 	if flgPreview {
 		startPreview()

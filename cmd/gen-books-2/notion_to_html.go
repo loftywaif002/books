@@ -14,35 +14,13 @@ import (
 
 // HTMLGenerator is for notion -> HTML generation
 type HTMLGenerator struct {
-	f       *bytes.Buffer
-	page    *Page
-	level   int
-	nToggle int
-	err     error
-	book    *Book
-}
-
-// NewHTMLGenerator returns new HTMLGenerator
-func NewHTMLGenerator(page *Page) *HTMLGenerator {
-	return &HTMLGenerator{
-		f:    &bytes.Buffer{},
-		page: page,
-	}
-}
-
-// Gen returns generated HTML
-func (g *HTMLGenerator) Gen() []byte {
-	rootPage := g.page.NotionPage.Root
-	f := rootPage.FormatPage
-	g.writeString(`<p></p>`)
-	if f != nil && f.PageFont == "mono" {
-		g.writeString(`<div style="font-family: monospace">`)
-	}
-	g.genContent(rootPage)
-	if f != nil && f.PageFont == "mono" {
-		g.writeString(`</div>`)
-	}
-	return g.f.Bytes()
+	f            *bytes.Buffer
+	page         *Page
+	level        int
+	nToggle      int
+	err          error
+	book         *Book
+	currHeaderID int
 }
 
 // only hex chars seem to be valid
@@ -201,6 +179,14 @@ func (g *HTMLGenerator) genInlineBlocks(blocks []*notionapi.InlineBlock) {
 	for _, block := range blocks {
 		g.genInlineBlock(block)
 	}
+}
+
+func genInlineBlocksText(blocks []*notionapi.InlineBlock) string {
+	var a []string
+	for _, b := range blocks {
+		a = append(a, b.Text)
+	}
+	return strings.Join(a, "")
 }
 
 func (g *HTMLGenerator) genBlockSurrouded(block *notionapi.Block, start, close string) {
@@ -401,10 +387,22 @@ func (g *HTMLGenerator) genBlock(block *notionapi.Block) {
 		close := `</p>`
 		g.genBlockSurrouded(block, start, close)
 	case notionapi.BlockHeader:
+		g.currHeaderID++
+		h := HeadingInfo{
+			Text: genInlineBlocksText(block.InlineContent),
+			ID:   strconv.Itoa(g.currHeaderID),
+		}
+		g.page.Headings = append(g.page.Headings, h)
 		start := fmt.Sprintf(`<h1 class="hdr%s">`, levelCls)
 		close := `</h1>`
 		g.genBlockSurrouded(block, start, close)
 	case notionapi.BlockSubHeader:
+		g.currHeaderID++
+		h := HeadingInfo{
+			Text: genInlineBlocksText(block.InlineContent),
+			ID:   strconv.Itoa(g.currHeaderID),
+		}
+		g.page.Headings = append(g.page.Headings, h)
 		start := fmt.Sprintf(`<h2 class="hdr%s">`, levelCls)
 		close := `</h2>`
 		g.genBlockSurrouded(block, start, close)
@@ -504,8 +502,26 @@ func (g *HTMLGenerator) genContent(parent *notionapi.Block) {
 	g.genBlocks(parent.Content)
 }
 
+// Gen returns generated HTML
+func (g *HTMLGenerator) Gen() []byte {
+	rootPage := g.page.NotionPage.Root
+	f := rootPage.FormatPage
+	g.writeString(`<p></p>`)
+	if f != nil && f.PageFont == "mono" {
+		g.writeString(`<div style="font-family: monospace">`)
+	}
+	g.genContent(rootPage)
+	if f != nil && f.PageFont == "mono" {
+		g.writeString(`</div>`)
+	}
+	return g.f.Bytes()
+}
+
 func notionToHTML(page *Page, book *Book) []byte {
-	gen := NewHTMLGenerator(page)
-	gen.book = book
+	gen := HTMLGenerator{
+		f:    &bytes.Buffer{},
+		book: book,
+		page: page,
+	}
 	return gen.Gen()
 }

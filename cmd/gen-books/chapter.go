@@ -37,23 +37,6 @@ func (c *Chapter) CanonnicalURL() string {
 	return urlJoin(siteBaseURL, c.URL())
 }
 
-// GitHubText returns text we display in GitHub box
-func (c *Chapter) GitHubText() string {
-	return "Edit on GitHub"
-}
-
-// GitHubURL returns url to GitHub repo
-func (c *Chapter) GitHubURL() string {
-	return c.Book.GitHubURL() + "/" + c.ChapterDir
-}
-
-// GitHubEditURL returns url to edit 000-index.md document
-func (c *Chapter) GitHubEditURL() string {
-	bookDir := filepath.Base(c.Book.destDir)
-	uri := gitHubBaseURL + "/blob/master/books/" + bookDir
-	return uri + "/" + c.ChapterDir + "/000-index.md"
-}
-
 // GitHubIssueURL returns link for reporting an issue about an article on githbu
 // https://github.com/essentialbooks/books/issues/new?title=${title}&body=${body}&labels=docs"
 func (c *Chapter) GitHubIssueURL() string {

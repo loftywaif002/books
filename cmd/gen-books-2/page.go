@@ -11,6 +11,13 @@ import (
 	"github.com/kjk/notionapi"
 )
 
+// HeadingInfo describes header/sub header
+type HeadingInfo struct {
+	Text string
+	// TODO: id is no longer used
+	ID string
+}
+
 // Page represents a single page in a book
 type Page struct {
 	NotionPage *notionapi.Page
@@ -23,7 +30,7 @@ type Page struct {
 	// for legacy pages this is an id. Might be used for redirects
 	ID              string
 	StackOverflowID string
-	Search          []string
+	Search          []string // was SearchSynonyms
 
 	// extracted from embed blocks
 	SourceFiles []*EmbeddedSourceFile
@@ -34,13 +41,39 @@ type Page struct {
 	Pages []*Page
 
 	// to easily generate toc
-	Siblings  []Page
-	IsCurrent bool // only used when part of Siblings
+	Siblings  []Page // note: a copy so that IsCurrent is valid
+	IsCurrent bool   // only used when part of Siblings
+
+	// filled during html generation
+	Headings []HeadingInfo
 }
 
 // URL returns url of the page
 func (p *Page) URL() string {
+	panic("NYI")
 	return ""
+}
+
+func reverseStringSlice(a []string) {
+	n := len(a) / 2
+	for i := 0; i < n; i++ {
+		a[i], a[n-i] = a[n-i], a[i]
+	}
+}
+
+// PageTitle returns title for the page
+// We want this to be unique for SEO purposes
+func (p *Page) PageTitle() string {
+	var a []string
+	for p != nil {
+		t := p.Title
+		if t != "" {
+			a = append(a, t)
+		}
+		p = p.Parent
+	}
+	reverseStringSlice(a)
+	return strings.Join(a, " / ")
 }
 
 func findSourceFileForEmbedURL(page *Page, uri string) *EmbeddedSourceFile {

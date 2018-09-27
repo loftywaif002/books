@@ -21,14 +21,12 @@ func gen404TopLevel() {
 func genIndex(books []*Book) {
 	d := struct {
 		PageCommon
-		Books      []*Book
-		GitHubText string
-		GitHubURL  string
+		Books []*Book
+		//GitHubText string
+		//GitHubURL  string
 	}{
 		PageCommon: getPageCommon(),
 		Books:      books,
-		GitHubText: "GitHub",
-		GitHubURL:  gitHubBaseURL,
 	}
 	path := filepath.Join(destDir, "index.html")
 	execTemplateToFileMaybeMust("index.tmpl.html", d, path)

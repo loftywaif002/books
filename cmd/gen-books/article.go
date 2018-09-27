@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"html/template"
 	"path/filepath"
-	"strings"
 )
 
 // MarkdownFile represents info common to Article and Chapter
@@ -80,37 +79,12 @@ func (a *Article) CanonnicalURL() string {
 	return urlJoin(siteBaseURL, a.URL())
 }
 
-// GitHubText returns text we display in GitHub box
-func (a *Article) GitHubText() string {
-	return "Edit on GitHub"
-}
-
-// GitHubURL returns url to GitHub repo
-func (a *Article) GitHubURL() string {
-	uri := a.Chapter.GitHubURL() + "/" + filepath.Base(a.Path)
-	uri = strings.Replace(uri, "/tree/", "/blob/", -1)
-	return uri
-}
-
-// GitHubEditURL returns url to editing this article on GitHub
-// same as GitHubURL because we don't want to automatically fork
-// the repo as would happen if we used /edit/ url
-func (a *Article) GitHubEditURL() string {
-	return a.GitHubURL()
-}
-
 // GitHubIssueURL returns link for reporting an issue about an article on githbu
 // https://github.com/essentialbooks/books/issues/new?title=${title}&body=${body}&labels=docs"
 func (a *Article) GitHubIssueURL() string {
 	title := fmt.Sprintf("Issue for article '%s'", a.Title)
 	body := fmt.Sprintf("From URL: %s\nFile: %s\n", a.CanonnicalURL(), a.GitHubEditURL())
 	return gitHubBaseURL + fmt.Sprintf("/issues/new?title=%s&body=%s&labels=docs", title, body)
-}
-
-// PageTitle returns title for the page
-// We want this to be unique for SEO purposes
-func (a *Article) PageTitle() string {
-	return a.Title + " in chapter '" + a.Chapter.Title + "'"
 }
 
 func (a *Article) destFilePath() string {

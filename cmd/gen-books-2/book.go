@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"path/filepath"
 	"strings"
 	"sync"
 
@@ -60,16 +59,6 @@ func (b *Book) ContributorCount() int {
 // ContributorsURL returns url of the chapter that lists contributors
 func (b *Book) ContributorsURL() string {
 	return b.URL() + "/contributors"
-}
-
-// GitHubText returns text we show in GitHub link
-func (b *Book) GitHubText() string {
-	return "Edit on GitHub"
-}
-
-// GitHubURL returns link to GitHub for this book
-func (b *Book) GitHubURL() string {
-	return gitHubBaseURL + "/tree/master/books/" + filepath.Base(b.destDir)
 }
 
 // URL returns url of the book, used in index.tmpl.html

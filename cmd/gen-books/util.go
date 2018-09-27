@@ -10,8 +10,6 @@ import (
 	"path/filepath"
 	"runtime"
 	"strings"
-
-	"github.com/kjk/u"
 )
 
 func panicIfErr(err error) {
@@ -122,7 +120,7 @@ func maybePanicIfErr(err error) {
 		return
 	}
 	if !softErrorMode {
-		u.PanicIfErr(err)
+		panicIfErr(err)
 	}
 	errors = append(errors, err.Error())
 }
@@ -196,7 +194,7 @@ func isDirectory(path string) bool {
 
 func createDirMust(dir string) {
 	err := os.MkdirAll(dir, 0755)
-	u.PanicIfErr(err)
+	panicIfErr(err)
 }
 
 func copyFile(dst, src string) error {
@@ -216,7 +214,7 @@ func copyFile(dst, src string) error {
 
 func copyFileMust(dst, src string) {
 	err := copyFile(dst, src)
-	u.PanicIfErr(err)
+	panicIfErr(err)
 }
 
 func getDirsRecur(dir string) ([]string, error) {

@@ -3,7 +3,10 @@ package main
 import (
 	"flag"
 	"fmt"
+	"io/ioutil"
+	"os"
 	"path/filepath"
+	"strings"
 
 	"html/template"
 
@@ -14,6 +17,7 @@ import (
 
 var (
 	flgAnalytics string
+	flgPreview   bool
 	flgNoCache   bool
 
 	soUserIDToNameMap map[int]string
@@ -27,7 +31,7 @@ var (
 		&Book{
 			Title:     "Go",
 			TitleLong: "Essential Go",
-			SourceDir: filepath.Join("books", "go"),
+			Dir:       "go",
 			// "https://www.notion.so/kjkpublic/Essential-Go-2cab1ed2b7a44584b56b0d3ca9b80185"
 			NotionStartPageID: "2cab1ed2b7a44584b56b0d3ca9b80185",
 		},
@@ -60,6 +64,7 @@ const (
 
 func parseFlags() {
 	flag.StringVar(&flgAnalytics, "analytics", "", "google analytics code")
+	flag.BoolVar(&flgPreview, "preview", false, "if true will start watching for file changes and re-build everything")
 
 	flag.BoolVar(&flgNoCache, "no-cache", false, "if true, disables cache for notion")
 	flag.Parse()
@@ -118,17 +123,45 @@ func genBookFiles(book *Book) {
 	bookPagesToHTML(book)
 }
 
+func genNetlifyHeaders() {
+	path := filepath.Join("www", "_headers")
+	err := ioutil.WriteFile(path, []byte(netlifyHeaders), 0644)
+	panicIfErr(err)
+}
+
+func genNetlifyRedirects() {
+	// add redirects for each book
+	var a []string
+	for _, b := range books {
+		s := fmt.Sprintf(`/essential/%s/* /essential/%s/404.html 404`, b.Dir, b.Dir)
+		a = append(a, s)
+	}
+	s := strings.Join(a, "\n")
+	path := filepath.Join("www", "_redirects")
+	err := ioutil.WriteFile(path, []byte(s), 0644)
+	panicIfErr(err)
+}
+
 func main() {
 	parseFlags()
 
 	//flgNoCache = true
 
+	os.RemoveAll("www")
+	createDirMust(filepath.Join("www", "s"))
+	genNetlifyHeaders()
+	genNetlifyRedirects()
+
 	//maybeRemoveNotionCache()
 	for _, book := range books {
 		book.titleSafe = common.MakeURLSafe(book.Title)
-		book.destDir = filepath.Join(destEssentialDir)
 
 		downloadBook(book)
 		genBookFiles(book)
 	}
+
+	if flgPreview {
+		startPreview()
+	}
+
 }

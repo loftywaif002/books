@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"path/filepath"
 	"strings"
 	"sync"
 
@@ -32,8 +33,7 @@ type Book struct {
 	idToPage map[string]*Page
 
 	fileCache      *FileCache
-	SourceDir      string // dir where source markdown files are
-	destDir        string // dir where destitation html files are
+	Dir            string // directory name for the book e.g. "go"
 	SoContributors []SoContributor
 
 	cachedArticlesCount int
@@ -49,6 +49,16 @@ type Book struct {
 	// for concurrency
 	sem chan bool
 	wg  sync.WaitGroup
+}
+
+// SourceDir is where source files for a given book are
+func (b *Book) SourceDir() string {
+	return filepath.Join("books", b.Dir)
+}
+
+// this is where html etc. files for a book end up
+func (b *Book) destDir() string {
+	return filepath.Join(destEssentialDir, "books", b.Dir)
 }
 
 // ContributorCount returns number of contributors

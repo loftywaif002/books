@@ -59,7 +59,7 @@ func (b *Book) SourceDir() string {
 
 // this is where html etc. files for a book end up
 func (b *Book) destDir() string {
-	return filepath.Join(destEssentialDir, "books", b.Dir)
+	return filepath.Join(destEssentialDir, b.Dir)
 }
 
 // ContributorCount returns number of contributors
@@ -70,6 +70,16 @@ func (b *Book) ContributorCount() int {
 // ContributorsURL returns url of the chapter that lists contributors
 func (b *Book) ContributorsURL() string {
 	return b.URL() + "/contributors"
+}
+
+// GitHubText returns text we show in GitHub link
+func (b *Book) GitHubText() string {
+	return "Edit on GitHub"
+}
+
+// GitHubURL returns link to GitHub for this book
+func (b *Book) GitHubURL() string {
+	return gitHubBaseURL + "/tree/master/books/" + filepath.Base(b.destDir())
 }
 
 // URL returns url of the book, used in index.tmpl.html
@@ -105,29 +115,32 @@ func (b *Book) CoverTwitterFullURL() string {
 	return urlJoin(siteBaseURL, coverURL)
 }
 
+func (b *Book) Chapters() []*Page {
+	return b.RootPage.Pages
+}
+
+func countPagesRecur(pages []*Page) int {
+	n := len(pages)
+	for _, page := range pages {
+		n += countPagesRecur(page.Pages)
+	}
+	return n
+}
+
 // ArticlesCount returns total number of articles
+// TODO: rename to PagesCount
 func (b *Book) ArticlesCount() int {
 	if b.cachedArticlesCount != 0 {
 		return b.cachedArticlesCount
 	}
-	panic("NYI")
-	n := 0
-	/*
-		for _, ch := range b.Chapters {
-			n += len(ch.Articles)
-		}
-		// each chapter has 000-index.md which is also an article
-		n += len(b.Chapters)
-	*/
+	n := countPagesRecur(b.RootPage.Pages)
 	b.cachedArticlesCount = n
 	return n
 }
 
 // ChaptersCount returns number of chapters
 func (b *Book) ChaptersCount() int {
-	panic("NYI")
-	return 0
-	// return len(b.Chapters)
+	return len(b.RootPage.Pages)
 }
 
 func updateBookAppJS(book *Book) {

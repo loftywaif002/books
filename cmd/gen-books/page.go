@@ -14,8 +14,7 @@ import (
 // HeadingInfo describes header/sub header
 type HeadingInfo struct {
 	Text string
-	// TODO: id is no longer used
-	ID string
+	ID   string
 }
 
 // Page represents a single page in a book
@@ -27,7 +26,7 @@ type Page struct {
 
 	Book *Book
 
-	No int // TODO: fill it up
+	No int
 	// meta information extracted from page blocks
 	NotionID string
 	// for legacy pages this is an id. Might be used for redirects
@@ -43,12 +42,32 @@ type Page struct {
 	// each page can contain sub-pages
 	Pages []*Page
 
-	// to easily generate toc
-	Siblings  []Page // note: a copy so that IsCurrent is valid
-	IsCurrent bool   // only used when part of Siblings
+	ChapterDir string // TODO: no such thing anymore
 
 	// filled during html generation
 	Headings []HeadingInfo
+
+	// TODO: those should come from notion_cache and downloaded during download
+	// step to notion_cache
+	images []string
+}
+
+// Siblings returns siblings of the page, to easily generate toc
+func (p *Page) Siblings() []*Page {
+	if p.Parent == nil {
+		return nil
+	}
+	return p.Parent.Pages
+}
+
+// Body is a temporary alias for BodyHTML
+func (p *Page) Body() template.HTML {
+	return p.BodyHTML
+}
+
+// HTML is a temporary alias for BodyHTML
+func (p *Page) HTML() template.HTML {
+	return p.BodyHTML
 }
 
 // URL returns url of the page
@@ -66,11 +85,39 @@ func (p *Page) CanonnicalURL() string {
 	return urlJoin(siteBaseURL, p.URL())
 }
 
-func reverseStringSlice(a []string) {
-	n := len(a) / 2
-	for i := 0; i < n; i++ {
-		a[i], a[n-i] = a[n-i], a[i]
-	}
+// GitHubText returns text we display in GitHub box
+func (p *Page) GitHubText() string {
+	return "Edit on GitHub"
+}
+
+// GitHubURL returns url to GitHub repo
+func (p *Page) GitHubURL() string {
+	return p.Book.GitHubURL() + "/" + p.ChapterDir
+}
+
+// GitHubEditURL returns url to edit 000-index.md document
+func (p *Page) GitHubEditURL() string {
+	bookDir := filepath.Base(p.Book.destDir())
+	uri := gitHubBaseURL + "/blob/master/books/" + bookDir
+	return uri + "/" + p.ChapterDir + "/000-index.md"
+}
+
+// GitHubIssueURL returns link for reporting an issue about an article on githbu
+// https://github.com/essentialbooks/books/issues/new?title=${title}&body=${body}&labels=docs"
+func (p *Page) GitHubIssueURL() string {
+	title := fmt.Sprintf("Issue for chapter '%s'", p.Title)
+	body := fmt.Sprintf("From URL: %s\nFile: %s\n", p.CanonnicalURL(), p.GitHubEditURL())
+	return gitHubBaseURL + fmt.Sprintf("/issues/new?title=%s&body=%s&labels=docs", title, body)
+}
+
+func (p *Page) destFilePath() string {
+	title := urlify(p.Title)
+	fileName := p.NotionID + "-" + title + ".html"
+	return filepath.Join(destEssentialDir, p.Book.Dir, fileName)
+}
+
+func (p *Page) destImagePath(name string) string {
+	return filepath.Join(destEssentialDir, p.Book.Dir, name)
 }
 
 // PageTitle returns title for the page
@@ -291,6 +338,7 @@ func extractEmbeddedSourceFiles(p *Page) {
 func bookPageFromNotionPage(book *Book, page *notionapi.Page, pageIDToPage map[string]*notionapi.Page) *Page {
 	res := &Page{}
 	res.NotionPage = page
+	res.NotionID = normalizeID(page.ID)
 	res.Title = page.Root.Title
 	extractMeta(res)
 	extractEmbeddedSourceFiles(res)
@@ -298,9 +346,10 @@ func bookPageFromNotionPage(book *Book, page *notionapi.Page, pageIDToPage map[s
 
 	// fmt.Printf("bookPageFromNotionPage: %s %s\n", normalizeID(page.ID), res.Meta.ID)
 
-	for _, subPage := range subPages {
+	for i, subPage := range subPages {
 		bookPage := bookPageFromNotionPage(book, subPage, pageIDToPage)
 		bookPage.Book = book
+		bookPage.No = i + 1
 		res.Pages = append(res.Pages, bookPage)
 	}
 	return res

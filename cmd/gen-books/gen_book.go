@@ -123,6 +123,110 @@ func getPageCommon() PageCommon {
 	}
 }
 
+func gen404TopLevel() {
+	d := struct {
+		PageCommon
+		Book *Book
+	}{
+		PageCommon: getPageCommon(),
+	}
+	path := filepath.Join(destDir, "404.html")
+	execTemplateToFileMaybeMust("404.tmpl.html", d, path)
+}
+
+func genIndex(books []*Book) {
+	d := struct {
+		PageCommon
+		Books      []*Book
+		GitHubText string
+		GitHubURL  string
+	}{
+		PageCommon: getPageCommon(),
+		Books:      books,
+		GitHubText: "GitHub",
+		GitHubURL:  gitHubBaseURL,
+	}
+	path := filepath.Join(destDir, "index.html")
+	execTemplateToFileMaybeMust("index.tmpl.html", d, path)
+}
+
+func genIndexGrid(books []*Book) {
+	d := struct {
+		PageCommon
+		Books []*Book
+	}{
+		PageCommon: getPageCommon(),
+		Books:      books,
+	}
+	path := filepath.Join(destDir, "index-grid.html")
+	execTemplateToFileMaybeMust("index-grid.tmpl.html", d, path)
+}
+
+func genFeedback() {
+	d := getPageCommon()
+	fmt.Printf("writing feedback.html\n")
+	path := filepath.Join(destDir, "feedback.html")
+	execTemplateToFileMaybeMust("feedback.tmpl.html", d, path)
+}
+
+func genAbout() {
+	d := getPageCommon()
+	fmt.Printf("writing about.html\n")
+	path := filepath.Join(destDir, "about.html")
+	execTemplateToFileMaybeMust("about.tmpl.html", d, path)
+}
+
+// TODO: consolidate chapter/article html
+func genArticle(page *Page, currChapNo int, currArticleNo int) {
+	addSitemapURL(page.CanonnicalURL())
+
+	d := struct {
+		PageCommon
+		*Page
+		// TODO: Chapter is temporary
+		Chapter          *Page
+		CurrentChapterNo int
+		CurrentArticleNo int
+	}{
+		PageCommon:       getPageCommon(),
+		Page:             page,
+		Chapter:          page,
+		CurrentChapterNo: currChapNo,
+		CurrentArticleNo: currArticleNo,
+	}
+
+	path := page.destFilePath()
+	execTemplateToFileSilentMaybeMust("article.tmpl.html", d, path)
+}
+
+func genChapter(page *Page, currNo int) {
+	addSitemapURL(page.CanonnicalURL())
+	for i, article := range page.Pages {
+		genArticle(article, currNo, i)
+	}
+
+	path := page.destFilePath()
+	d := struct {
+		PageCommon
+		*Page
+		// TODO: Chapter is temporary
+		Chapter          *Page
+		CurrentChapterNo int
+	}{
+		PageCommon:       getPageCommon(),
+		Page:             page,
+		Chapter:          page,
+		CurrentChapterNo: currNo,
+	}
+	execTemplateToFileSilentMaybeMust("chapter.tmpl.html", d, path)
+
+	for _, imagePath := range page.images {
+		imageName := filepath.Base(imagePath)
+		dst := page.destImagePath(imageName)
+		copyFileMaybeMust(dst, imagePath)
+	}
+}
+
 func buildIDToPage(book *Book) {
 	book.idToPage = map[string]*Page{}
 	fn := func(page *Page) bool {
@@ -175,6 +279,10 @@ func genBook(book *Book) {
 	execTemplateToFileSilentMaybeMust("404.tmpl.html", d, path)
 
 	addSitemapURL(book.CanonnicalURL())
+
+	for i, chapter := range book.Chapters() {
+		genChapter(chapter, i+1)
+	}
 
 	fmt.Printf("Generated book '%s' in %s\n", book.Title, time.Since(timeStart))
 }

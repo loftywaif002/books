@@ -209,6 +209,11 @@ func genAllBooks() {
 	copyToWwwAsSha1MaybeMust("main.css")
 	copyToWwwAsSha1MaybeMust("app.js")
 	copyToWwwAsSha1MaybeMust("favicon.ico")
+	genIndex(books)
+	genIndexGrid(books)
+	gen404TopLevel()
+	genAbout()
+	genFeedback()
 
 	for _, book := range books {
 		genBook(book)

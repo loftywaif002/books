@@ -341,3 +341,10 @@ func dataToLines(d []byte) []string {
 	s := string(d)
 	return strings.Split(s, "\n")
 }
+
+func reverseStringSlice(a []string) {
+	n := len(a) / 2
+	for i := 0; i < n; i++ {
+		a[i], a[n-i] = a[n-i], a[i]
+	}
+}

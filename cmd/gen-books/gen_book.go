@@ -229,23 +229,21 @@ func genChapter(page *Page, currNo int) {
 
 func buildIDToPage(book *Book) {
 	book.idToPage = map[string]*Page{}
-	fn := func(page *Page) bool {
+	pages := book.GetAllPages()
+	for _, page := range pages {
 		id := normalizeID(page.NotionPage.ID)
 		book.idToPage[id] = page
-		return true
 	}
-	iterPages(book, fn)
 }
 
 func bookPagesToHTML(book *Book) {
 	nProcessed := 0
-	fn := func(page *Page) bool {
+	pages := book.GetAllPages()
+	for _, page := range pages {
 		html := notionToHTML(page, book)
 		page.BodyHTML = template.HTML(string(html))
 		nProcessed++
-		return true
 	}
-	iterPages(book, fn)
 	fmt.Printf("bookPagesToHTML: processed %d pages for book %s\n", nProcessed, book.TitleLong)
 }
 

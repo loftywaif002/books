@@ -29,9 +29,8 @@ func genNetlifyHeaders() {
 func genNetlifyRedirectsForBook(b *Book) []string {
 	var res []string
 
-	// TODO: this should be recursive. Maybe add a way to iterate over all pages
-	// in a book
-	for _, page := range b.RootPage.Pages {
+	pages := b.GetAllPages()
+	for _, page := range pages {
 		id := page.NotionID
 		s := fmt.Sprintf(`/essential/%s/%s* /essential/%s/404.html 404`, b.Dir, id, b.Dir)
 		// TODO: also add redirects for old article ids (only needed for Go book)

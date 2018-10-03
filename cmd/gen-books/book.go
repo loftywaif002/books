@@ -29,15 +29,14 @@ type Book struct {
 
 	NotionStartPageID string
 	pageIDToPage      map[string]*notionapi.Page
-	RootPage          *Page
+	RootPage          *Page   // a tree of pages
+	cachedPages       []*Page // pages flattened into an array
 
 	idToPage map[string]*Page
 
 	fileCache      *FileCache
 	Dir            string // directory name for the book e.g. "go"
 	SoContributors []SoContributor
-
-	cachedArticlesCount int
 
 	defaultLang string // default programming language for programming examples
 	knownUrls   []string
@@ -119,23 +118,32 @@ func (b *Book) Chapters() []*Page {
 	return b.RootPage.Pages
 }
 
-func countPagesRecur(pages []*Page) int {
-	n := len(pages)
-	for _, page := range pages {
-		n += countPagesRecur(page.Pages)
+func (b *Book) GetAllPages() []*Page {
+	// to prevent infinite recursion if pages show up twice (shouldn't happen)
+	if len(b.cachedPages) > 0 {
+		return b.cachedPages
 	}
-	return n
+	if b.RootPage == nil {
+		return nil
+	}
+	seen := map[*Page]bool{}
+	pages := []*Page{b.RootPage}
+	curr := 0
+	for curr < len(pages) {
+		page := pages[curr]
+		curr++
+		if seen[page] {
+			continue
+		}
+		seen[page] = true
+		pages = append(pages, page.Pages...)
+	}
+	return pages
 }
 
-// ArticlesCount returns total number of articles
-// TODO: rename to PagesCount
-func (b *Book) ArticlesCount() int {
-	if b.cachedArticlesCount != 0 {
-		return b.cachedArticlesCount
-	}
-	n := countPagesRecur(b.RootPage.Pages)
-	b.cachedArticlesCount = n
-	return n
+// PagesCount returns total number of articles
+func (b *Book) PagesCount() int {
+	return len(b.GetAllPages()) - 1 // don't count top page
 }
 
 // ChaptersCount returns number of chapters

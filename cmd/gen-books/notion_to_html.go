@@ -99,16 +99,13 @@ func (g *HTMLGenerator) getURLAndTitleForBlock(block *notionapi.Block) (string, 
 }
 
 func findPageByID(book *Book, id string) *Page {
-	var res *Page
-	fn := func(page *Page) bool {
+	pages := book.GetAllPages()
+	for _, page := range pages {
 		if strings.EqualFold(page.ID, id) {
-			res = page
-			return false
+			return page
 		}
-		return true
 	}
-	iterPages(book, fn)
-	return res
+	return nil
 }
 
 func (g *HTMLGenerator) reportIfInvalidLink(uri string) {

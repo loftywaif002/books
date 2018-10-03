@@ -68,25 +68,6 @@ func downloadBook(book *Book) {
 	bookFromPages(book)
 }
 
-func iterPages(book *Book, onPage func(*Page) bool) {
-	processed := map[string]bool{}
-	toProcess := []*Page{book.RootPage}
-	for len(toProcess) > 0 {
-		page := toProcess[0]
-		toProcess = toProcess[1:]
-		id := normalizeID(page.NotionPage.ID)
-		if processed[id] {
-			continue
-		}
-		processed[id] = true
-		toProcess = append(toProcess, page.Pages...)
-		shouldContinue := onPage(page)
-		if !shouldContinue {
-			return
-		}
-	}
-}
-
 func loadSOUserMappingsMust() {
 	path := filepath.Join("stack-overflow-docs-dump", "users.json.gz")
 	err := common.JSONDecodeGzipped(path, &soUserIDToNameMap)

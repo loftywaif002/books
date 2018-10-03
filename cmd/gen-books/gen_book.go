@@ -276,6 +276,9 @@ func genBook(book *Book) {
 	path := filepath.Join(book.destDir(), "index.html")
 	execTemplateToFileSilentMaybeMust("book_index.tmpl.html", d, path)
 
+	// TODO: per-book 404 should link to top of book, not top of website
+	// and now that we generate redirects for each page id, we don't need
+	// javascript for doing redirects
 	path = filepath.Join(book.destDir(), "404.html")
 	execTemplateToFileSilentMaybeMust("404.tmpl.html", d, path)
 

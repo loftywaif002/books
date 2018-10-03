@@ -23,7 +23,7 @@ func copyToWwwAsSha1MaybeMust(srcName string) {
 	case "favicon.ico":
 		dstPtr = &pathFaviconICO
 	default:
-		u.PanicIf(true, "unknown srcName '%s'", srcName)
+		panicIf(true, "unknown srcName '%s'", srcName)
 	}
 	src := filepath.Join("tmpl", srcName)
 	d, err := ioutil.ReadFile(src)

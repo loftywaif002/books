@@ -42,19 +42,6 @@ var (
 )
 
 const (
-	// https://www.netlify.com/docs/headers-and-basic-auth/#custom-headers
-	netlifyHeaders = `
-# long-lived caching
-/s/*
-  Cache-Control: max-age=31536000
-/*
-  X-Content-Type-Options: nosniff
-  X-Frame-Options: DENY
-  X-XSS-Protection: 1; mode=block
-`
-)
-
-const (
 	googleAnalyticsTmpl = `<script async src="https://www.googletagmanager.com/gtag/js?id=%s"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -104,25 +91,6 @@ func loadSOUserMappingsMust() {
 	path := filepath.Join("stack-overflow-docs-dump", "users.json.gz")
 	err := common.JSONDecodeGzipped(path, &soUserIDToNameMap)
 	u.PanicIfErr(err)
-}
-
-func genNetlifyHeaders() {
-	path := filepath.Join("www", "_headers")
-	err := ioutil.WriteFile(path, []byte(netlifyHeaders), 0644)
-	panicIfErr(err)
-}
-
-func genNetlifyRedirects() {
-	// add redirects for each book
-	var a []string
-	for _, b := range books {
-		s := fmt.Sprintf(`/essential/%s/* /essential/%s/404.html 404`, b.Dir, b.Dir)
-		a = append(a, s)
-	}
-	s := strings.Join(a, "\n")
-	path := filepath.Join("www", "_redirects")
-	err := ioutil.WriteFile(path, []byte(s), 0644)
-	panicIfErr(err)
 }
 
 // TODO: probably more
@@ -231,8 +199,6 @@ func main() {
 
 	os.RemoveAll("www")
 	createDirMust(filepath.Join("www", "s"))
-	genNetlifyHeaders()
-	genNetlifyRedirects()
 
 	//maybeRemoveNotionCache()
 	for _, book := range books {
@@ -241,6 +207,9 @@ func main() {
 	}
 
 	genAllBooks()
+
+	genNetlifyHeaders()
+	genNetlifyRedirects()
 
 	if flgPreview {
 		startPreview()

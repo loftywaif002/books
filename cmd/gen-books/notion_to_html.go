@@ -438,7 +438,13 @@ func (g *HTMLGenerator) genBlock(block *notionapi.Block) {
 			%s
 			</pre>`, levelCls, block.CodeLanguage, levelCls, code)
 		*/
-		htmlHighlight(g.f, string(block.Code), block.CodeLanguage, "")
+		var tmp bytes.Buffer
+		htmlHighlight(&tmp, string(block.Code), block.CodeLanguage, "")
+		d := tmp.Bytes()
+		var info CodeBlockInfo
+		// TODO: set Lang, GitHubURI and PlaygroundURI
+		s := fixupHTMLCodeBlock(string(d), &info)
+		g.f.WriteString(s)
 	case notionapi.BlockBookmark:
 		fmt.Fprintf(g.f, `<div class="bookmark %s">Bookmark to %s</div>`+"\n", levelCls, block.Link)
 	case notionapi.BlockGist:

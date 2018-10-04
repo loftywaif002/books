@@ -244,6 +244,15 @@ func (g *HTMLGenerator) genEmbed(block *notionapi.Block) {
 		return
 	}
 	// TODO: implement me
+	/*
+		var tmp bytes.Buffer
+		htmlHighlight(&tmp, string(block.Code), block.CodeLanguage, "")
+		d := tmp.Bytes()
+		var info CodeBlockInfo
+		// TODO: set Lang, GitHubURI and PlaygroundURI
+		s := fixupHTMLCodeBlock(string(d), &info)
+		g.f.WriteString(s)
+	*/
 	fmt.Printf("genEmbed() uri: %s\n", uri)
 }
 

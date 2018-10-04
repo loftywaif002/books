@@ -69,10 +69,10 @@
 
       <div class="toc-header">Chapters</div>
       <div class="chapters-toc">
-        {{range .Book.RootPage.Pages}}
+        {{range $pageNo, $page := .Book.RootPage.Pages}}
         <div class="chapters-toc-item">
-          <span class="chap-no">{{.No}}</span>
-          <a href="{{.URL}}">{{.Title}}</a>
+          <span class="chap-no">{{inc $pageNo}}</span>
+          <a href="{{$page.URL}}">{{$page.Title}}</a>
         </div>
         {{end}}
       </div>
@@ -80,15 +80,15 @@
       <div class="toc-header">Table Of Contents</div>
 
       <div>
-        {{range .Book.RootPage.Pages}}
-        <div id="chap-{{.No}}">
-          <!-- <span class="chap-no">{{.No}}.</span> -->
-          <a href="{{.URL}}">{{.Title}}</a>
+        {{range $idx, $page := .Book.RootPage.Pages}}
+        <div id="chap-{{$idx}}">
+          <!-- <span class="chap-no">{{$idx}}.</span> -->
+          <a href="{{$page.URL}}">{{$page.Title}}</a>
         </div>
         <div>
-          {{range .Pages}}
+          {{range $page.Pages}}
           <div class="toc-article">
-            <!-- <span class="chap-no">{{.No}}.</span> -->
+            <!-- <span class="chap-no">.No.</span> -->
             <a href="{{.URL}}">{{.Title}}</a>
           </div>
           {{end}}
@@ -117,7 +117,7 @@
     </div>
   </footer>
 
-  <!-- aboslutely positioned elements -->
+  <!-- absolutely positioned elements -->
   <div id="search-results-window">
     <div id="search-results">
     </div>

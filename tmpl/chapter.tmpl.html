@@ -62,7 +62,7 @@
         &nbsp;Essential Books</a>
     </div>
     <div class="page__header__center">
-      <input id="search-input" placeholder="Search Essential {{.Book.Title}}. Tip: press '/'.">
+      <input id="search-input" placeholder="Search {{.Book.Title}}. Tip: press '/'.">
     </div>
     <div class="page__header__right">
     </div>
@@ -75,7 +75,7 @@
     <div class="article">
       <div class="article-top-hdr">
         <span>
-          <a href="{{.Book.URL}}">Essential {{.Book.Title}}</a>
+          <a href="{{.Book.URL}}">{{.Book.Title}}</a>
         </span>
         <span class="article-contribute">
           <a href="{{.SuggestEditURL}}" target="_blank">
@@ -102,11 +102,10 @@
       <div class="chapter-toc">
         {{if .Pages}}
         <div>
-          <b>{{.Chapter.Title}}/</b>
+          <b>{{.Page.Title}}/</b>
         </div>
         {{end}}
         <div style="padding-left: 16px">
-
           {{range .Pages}}
           <div>
             <!--
@@ -161,7 +160,7 @@
     </div>
   </footer>
 
-  <!-- aboslutely positioned elements -->
+  <!-- absolutely positioned elements -->
   <div id="search-results-window">
     <div id="search-results">
     </div>

@@ -23,8 +23,9 @@ type SoContributor struct {
 type Book struct {
 	//FileNameBase string // TODO: possibly not needed
 
-	Title     string // "Go", "jQuery" etcc
+	Title     string // "Essential Go", "Essential jQuery" etcc
 	titleSafe string
+	// TODO: remove TitleLong
 	TitleLong string // "Essential Go", "Essential jQuery" etc.
 
 	NotionStartPageID string
@@ -114,10 +115,12 @@ func (b *Book) CoverTwitterFullURL() string {
 	return urlJoin(siteBaseURL, coverURL)
 }
 
+// Chapters returns pages that are top-level chapters
 func (b *Book) Chapters() []*Page {
 	return b.RootPage.Pages
 }
 
+// GetAllPages returns all pages, flattened
 func (b *Book) GetAllPages() []*Page {
 	// to prevent infinite recursion if pages show up twice (shouldn't happen)
 	if len(b.cachedPages) > 0 {
@@ -136,6 +139,10 @@ func (b *Book) GetAllPages() []*Page {
 			continue
 		}
 		seen[page] = true
+		for i, p := range page.Pages {
+			p.Parent = page
+			p.No = i
+		}
 		pages = append(pages, page.Pages...)
 	}
 	return pages

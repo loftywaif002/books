@@ -62,7 +62,7 @@
         &nbsp;Essential Books</a>
     </div>
     <div class="page__header__center">
-      <input id="search-input" placeholder="Search Essential {{.Book.Title}}. Tip: press '/'.">
+      <input id="search-input" placeholder="Search {{.Book.Title}}. Tip: press '/'.">
     </div>
     <div class="page__header__right">
     </div>
@@ -77,8 +77,8 @@
     <div class="article">
       <div class="article-top-hdr">
         <span>
-          <a href="{{.Book.URL}}" class="breadcrumbs__item">Essential {{.Book.Title}}</a>
-          <a href="{{.Chapter.URL}}">{{.Chapter.Title}}</a>
+          <a href="{{.Book.URL}}" class="breadcrumbs__item">{{.Book.Title}}</a>
+          <a href="{{.Parent.URL}}">{{.Parent.Title}}</a>
         </span>
 
         <span class="article-contribute">
@@ -105,22 +105,22 @@
 
       <div class="chapter-toc">
         <div>
-          <a href="{{.Chapter.URL}}">{{.Chapter.Title}}/</a>
+          <a href="{{.Parent.URL}}">{{.Parent.Title}}/</a>
         </div>
         <div style="padding-left: 16px">
-          {{range .Siblings}} {{if eq .No $currArticleNo}}
+          {{range $idx, $page := .Siblings}} {{if eq $idx $currArticleNo}}
           <div>
             <!--
-              <span class="chap-no">{{.No}}</span>
+              <span class="chap-no">.No</span>
             -->
-            <span class="is-current">{{.Title}}</span>
+            <span class="is-current">{{$page.Title}}</span>
           </div>
           {{else}}
           <div>
             <!--
-               <span class="chap-no">{{.No}}</span>
+               <span class="chap-no">.No</span>
             -->
-            <a href="{{.URL}}">{{.Title}}</a>
+            <a href="{{$page.URL}}">{{$page.Title}}</a>
           </div>
           {{end}} {{end}}
         </div>
@@ -135,15 +135,15 @@
         <div class="toc-header">Table Of Contents</div>
 
         <div class="chapters-toc">
-          {{range .Book.Chapters}} {{if eq $currChapterNo .No}}
+          {{range $idx, $page := .Book.Chapters}} {{if eq $currChapterNo $idx}}
           <div class="chapters-toc-item">
-            <span class="chap-no">{{.No}}</span>
-            <span class="is-current">{{.Title}}</span>
+            <span class="chap-no">{{inc $idx}}</span>
+            <span class="is-current">{{$page.Title}}</span>
           </div>
           {{else}}
           <div class="chapters-toc-item">
-            <span class="chap-no">{{.No}}</span>
-            <a href="{{.URL}}">{{.Title}}</a>
+            <span class="chap-no">{{inc $idx}}</span>
+            <a href="{{.URL}}">{{$page.Title}}</a>
           </div>
           {{end}} {{end}}
         </div>
@@ -159,7 +159,7 @@
     </div>
     <div class="share-me">
       <a href="https://twitter.com/intent/tweet?text={{.Book.ShareOnTwitterText}}&url={{.Book.CanonnicalURL}}&via=kjk">Share
-        <b>{{.Book.TitleLong}}</b> on&nbsp;
+        <b>{{.Book.Title}}</b> on&nbsp;
         <svg class="icon-twitter">
           <use xlink:href="#icon-twitter"></use>
         </svg>
@@ -170,7 +170,7 @@
     </div>
   </footer>
 
-  <!-- aboslutely positioned elements -->
+  <!-- absolutely positioned elements -->
   <div id="search-results-window">
     <div id="search-results">
     </div>

@@ -344,10 +344,9 @@ func bookPageFromNotionPage(book *Book, page *notionapi.Page, pageIDToPage map[s
 
 	// fmt.Printf("bookPageFromNotionPage: %s %s\n", normalizeID(page.ID), res.Meta.ID)
 
-	for i, subPage := range subPages {
+	for _, subPage := range subPages {
 		bookPage := bookPageFromNotionPage(book, subPage, pageIDToPage)
 		bookPage.Book = book
-		bookPage.No = i + 1
 		res.Pages = append(res.Pages, bookPage)
 	}
 	return res

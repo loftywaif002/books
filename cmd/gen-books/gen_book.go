@@ -50,6 +50,15 @@ func tmplPath(name string) string {
 	return filepath.Join(tmplDir, name)
 }
 
+var (
+	funcMap = template.FuncMap{
+		// The name "inc" is what the function will be called in the template text.
+		"inc": func(i int) int {
+			return i + 1
+		},
+	}
+)
+
 func loadTemplateHelperMaybeMust(name string, ref **template.Template) *template.Template {
 	res := *ref
 	if res != nil {
@@ -57,7 +66,7 @@ func loadTemplateHelperMaybeMust(name string, ref **template.Template) *template
 	}
 	path := tmplPath(name)
 	//fmt.Printf("loadTemplateHelperMust: %s\n", path)
-	t, err := template.ParseFiles(path)
+	t, err := template.New(name).Funcs(funcMap).ParseFiles(path)
 	maybePanicIfErr(err)
 	if err != nil {
 		return nil
@@ -184,14 +193,11 @@ func genArticle(page *Page, currChapNo int, currArticleNo int) {
 	d := struct {
 		PageCommon
 		*Page
-		// TODO: Chapter is temporary
-		Chapter          *Page
 		CurrentChapterNo int
 		CurrentArticleNo int
 	}{
 		PageCommon:       getPageCommon(),
 		Page:             page,
-		Chapter:          page,
 		CurrentChapterNo: currChapNo,
 		CurrentArticleNo: currArticleNo,
 	}
@@ -210,13 +216,10 @@ func genChapter(page *Page, currNo int) {
 	d := struct {
 		PageCommon
 		*Page
-		// TODO: Chapter is temporary
-		Chapter          *Page
 		CurrentChapterNo int
 	}{
 		PageCommon:       getPageCommon(),
 		Page:             page,
-		Chapter:          page,
 		CurrentChapterNo: currNo,
 	}
 	execTemplateToFileSilentMaybeMust("chapter.tmpl.html", d, path)
@@ -234,6 +237,7 @@ func buildIDToPage(book *Book) {
 	for _, page := range pages {
 		id := normalizeID(page.NotionPage.ID)
 		book.idToPage[id] = page
+		page.Book = book
 	}
 }
 

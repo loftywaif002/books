@@ -70,6 +70,13 @@ func (p *Page) HTML() template.HTML {
 	return p.BodyHTML
 }
 
+// URLLastPath returns path of the URL
+func (p *Page) URLLastPath() string {
+	id := p.NotionID
+	title := urlify(p.Title)
+	return id + "-" + title
+}
+
 // URL returns url of the page
 func (p *Page) URL() string {
 	book := p.Book

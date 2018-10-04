@@ -80,19 +80,23 @@
           <a href="{{.Book.URL}}" class="breadcrumbs__item">Essential {{.Book.Title}}</a>
           <a href="{{.Chapter.URL}}">{{.Chapter.Title}}</a>
         </span>
+
         <span class="article-contribute">
-          <a href="{{.GitHubEditURL}}" target="_blank">
+          <a href="{{.SuggestEditURL}}" target="_blank">
             <svg class="icon-edit">
               <use xlink:href="#icon-edit"></use>
             </svg>
-            &nbsp;{{.GitHubText}}
+            &nbsp;{{.SuggestEditText}}
           </a>
+
+          <!--
           &nbsp; &nbsp;
           <a href="{{.GitHubIssueURL}}" target="_blank">
             <svg class="github">
               <use xlink:href="#icon-github"></use>
             </svg>
             &nbsp;File Issue</a>
+          -->
         </span>
       </div>
 

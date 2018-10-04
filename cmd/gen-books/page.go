@@ -85,9 +85,9 @@ func (p *Page) CanonnicalURL() string {
 	return urlJoin(siteBaseURL, p.URL())
 }
 
-// GitHubText returns text we display in GitHub box
-func (p *Page) GitHubText() string {
-	return "Edit on GitHub"
+// SuggestEditText returns text we display in GitHub box
+func (p *Page) SuggestEditText() string {
+	return "Suggest an edit"
 }
 
 // GitHubURL returns url to GitHub repo
@@ -95,18 +95,16 @@ func (p *Page) GitHubURL() string {
 	return p.Book.GitHubURL() + "/" + p.ChapterDir
 }
 
-// GitHubEditURL returns url to edit 000-index.md document
-func (p *Page) GitHubEditURL() string {
-	bookDir := filepath.Base(p.Book.destDir())
-	uri := gitHubBaseURL + "/blob/master/books/" + bookDir
-	return uri + "/" + p.ChapterDir + "/000-index.md"
+// SuggestEditURL returns url to edit 000-index.md document
+func (p *Page) SuggestEditURL() string {
+	return notionBaseURL + normalizeID(p.NotionID)
 }
 
 // GitHubIssueURL returns link for reporting an issue about an article on githbu
 // https://github.com/essentialbooks/books/issues/new?title=${title}&body=${body}&labels=docs"
 func (p *Page) GitHubIssueURL() string {
 	title := fmt.Sprintf("Issue for chapter '%s'", p.Title)
-	body := fmt.Sprintf("From URL: %s\nFile: %s\n", p.CanonnicalURL(), p.GitHubEditURL())
+	body := fmt.Sprintf("From URL: %s\nFile: %s\n", p.CanonnicalURL(), p.SuggestEditURL())
 	return gitHubBaseURL + fmt.Sprintf("/issues/new?title=%s&body=%s&labels=docs", title, body)
 }
 

@@ -38,6 +38,7 @@ var (
 	templates = make([]*template.Template, len(templateNames))
 
 	gitHubBaseURL = "https://github.com/essentialbooks/books"
+	notionBaseURL = "https://notion.so/"
 	siteBaseURL   = "https://www.programming-books.io"
 )
 
@@ -137,14 +138,14 @@ func gen404TopLevel() {
 func genIndex(books []*Book) {
 	d := struct {
 		PageCommon
-		Books      []*Book
-		GitHubText string
-		GitHubURL  string
+		Books           []*Book
+		SuggestEditText string
+		SuggestEditURL  string
 	}{
-		PageCommon: getPageCommon(),
-		Books:      books,
-		GitHubText: "GitHub",
-		GitHubURL:  gitHubBaseURL,
+		PageCommon:      getPageCommon(),
+		Books:           books,
+		SuggestEditText: "GitHub",
+		SuggestEditURL:  gitHubBaseURL,
 	}
 	path := filepath.Join(destDir, "index.html")
 	execTemplateToFileMaybeMust("index.tmpl.html", d, path)

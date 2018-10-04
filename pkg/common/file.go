@@ -67,22 +67,21 @@ func JSONDecodeGzipped(path string, v interface{}) error {
 	return dec.Decode(v)
 }
 
-// ReadFileAsLines reads a file as lines
-func ReadFileAsLines(path string) ([]string, error) {
-	d, err := ioutil.ReadFile(path)
-	if err != nil {
-		return nil, err
-	}
-	d = NormalizeNewlines(d)
-	s := string(d)
-	res := strings.Split(s, "\n")
-	return res, nil
-}
-
 // ReadFileNormalized reads the file and normalized newlines
 func ReadFileNormalized(path string) ([]byte, error) {
 	d, err := ioutil.ReadFile(path)
 	return NormalizeNewlines(d), err
+}
+
+// ReadFileAsLines reads a file as lines
+func ReadFileAsLines(path string) ([]string, error) {
+	d, err := ReadFileNormalized(path)
+	if err != nil {
+		return nil, err
+	}
+	s := string(d)
+	res := strings.Split(s, "\n")
+	return res, nil
 }
 
 // GetDirs returns all sub-directories in a dir

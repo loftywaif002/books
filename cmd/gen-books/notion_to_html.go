@@ -240,6 +240,8 @@ func propsValueToText(v interface{}) string {
 func (g *HTMLGenerator) genEmbed(block *notionapi.Block) {
 	uri := block.FormatEmbed.DisplaySource
 	f := findSourceFileForEmbedURL(g.page, uri)
+	// currently we only handle source code file embeds but might handle
+	// others (graphs etc.)
 	if f == nil {
 		fmt.Printf("genEmbed: didn't find source file for url %s\n", uri)
 		return

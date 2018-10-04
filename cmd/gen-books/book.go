@@ -4,10 +4,8 @@ import (
 	"fmt"
 	"io/ioutil"
 	"path/filepath"
-	"strings"
 	"sync"
 
-	"github.com/essentialbooks/books/pkg/common"
 	"github.com/kjk/notionapi"
 	"github.com/kjk/u"
 )
@@ -25,7 +23,7 @@ type Book struct {
 
 	Title     string // "Essential Go", "Essential jQuery" etcc
 	titleSafe string
-	// TODO: remove TitleLong
+	// TODO: remove TitleLong since Title is the same
 	TitleLong string // "Essential Go", "Essential jQuery" etc.
 
 	NotionStartPageID string
@@ -35,7 +33,6 @@ type Book struct {
 
 	idToPage map[string]*Page
 
-	fileCache      *FileCache
 	Dir            string // directory name for the book e.g. "go"
 	SoContributors []SoContributor
 
@@ -186,66 +183,4 @@ func updateBookAppJS(book *Book) {
 	}
 	book.AppJSURL = "/s/" + name
 	fmt.Printf("Created %s\n", dst)
-}
-
-// EmbeddedSourceFile represents source file present in the repository
-// and embedded via https://www.onlinetool.io/gitoembed/
-type EmbeddedSourceFile struct {
-	EmbedURL string
-
-	// name of the file
-	FileName string
-	// full path of the file
-	Path string
-
-	FileExists bool
-
-	// content of the file after filtering
-	Lines         []string
-	cachedData    []byte
-	cachedSha1Hex string
-}
-
-// Data returns content of the file
-func (f *EmbeddedSourceFile) Data() []byte {
-	if len(f.cachedData) == 0 {
-		s := strings.Join(f.Lines, "\n")
-		f.cachedData = []byte(s)
-	}
-	return f.cachedData
-}
-
-// RealSha1Hex returns hex version of sha1 of file content
-func (f *EmbeddedSourceFile) RealSha1Hex() string {
-	if f.cachedSha1Hex == "" {
-		f.cachedSha1Hex = u.Sha1HexOfBytes(f.Data())
-	}
-	return f.cachedSha1Hex
-}
-
-func readFilteredSourceFile(path string) ([]string, error) {
-	d, err := common.ReadFileNormalized(path)
-	if err != nil {
-		return nil, err
-	}
-	lines := dataToLines(d)
-	lines = removeAnnotationLines(lines)
-	return lines, nil
-}
-
-// we don't want to show our // :show annotations in snippets
-func removeAnnotationLines(lines []string) []string {
-	var res []string
-	prevWasEmpty := false
-	for _, l := range lines {
-		if strings.Contains(l, "// :show ") {
-			continue
-		}
-		if len(l) == 0 && prevWasEmpty {
-			continue
-		}
-		prevWasEmpty = len(l) == 0
-		res = append(res, l)
-	}
-	return res
 }

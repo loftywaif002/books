@@ -3,8 +3,6 @@ package main
 import (
 	"fmt"
 	"html/template"
-	"net/url"
-	"os"
 	"path/filepath"
 	"strings"
 
@@ -35,7 +33,7 @@ type Page struct {
 	Search          []string // was SearchSynonyms
 
 	// extracted from embed blocks
-	SourceFiles []*EmbeddedSourceFile
+	SourceFiles []*SourceFile
 
 	BodyHTML template.HTML
 
@@ -140,7 +138,7 @@ func (p *Page) PageTitle() string {
 	return strings.Join(a, " / ")
 }
 
-func findSourceFileForEmbedURL(page *Page, uri string) *EmbeddedSourceFile {
+func findSourceFileForEmbedURL(page *Page, uri string) *SourceFile {
 	for _, f := range page.SourceFiles {
 		if f.EmbedURL == uri {
 			if f.FileExists {
@@ -271,88 +269,21 @@ func extractMeta(p *Page) {
 	removeBlocks(page, toRemove)
 }
 
-// https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fbooleans.go
-// to:
-// books/go/0020-basic-types/booleans.go
-// returns empty string if doesn't conform to what we expect
-func gitoembedToRelativePath(uri string) string {
-	parsed, err := url.Parse(uri)
-	if err != nil {
-		return ""
-	}
-	switch parsed.Host {
-	case "www.onlinetool.io", "onlinetool.io":
-		// do nothing
-	default:
-		return ""
-	}
-	path := parsed.Path
-	if path != "/gitoembed/widget" {
-		return ""
-	}
-	uri = parsed.Query().Get("url")
-	// https://github.com/essentialbooks/books/blob/master/books/go/0020-basic-types/booleans.go
-	parsed, err = url.Parse(uri)
-	if parsed.Host != "github.com" {
-		return ""
-	}
-	path = strings.TrimPrefix(parsed.Path, "/essentialbooks/books/")
-	if path == parsed.Path {
-		return ""
-	}
-	// blob/master/books/go/0020-basic-types/booleans.go
-	path = strings.TrimPrefix(path, "blob/")
-	// master/books/go/0020-basic-types/booleans.go
-	// those are branch names. Should I just strip first 2 elements from the path?
-	path = strings.TrimPrefix(path, "master/")
-	path = strings.TrimPrefix(path, "notion/")
-	// books/go/0020-basic-types/booleans.go
-	return path
-}
-
-func extractEmbeddedSourceFiles(p *Page) {
-	wd, err := os.Getwd()
-	panicIfErr(err)
-	page := p.NotionPage
-	for _, block := range page.Root.Content {
-		if block.Type != notionapi.BlockEmbed {
-			continue
-		}
-		uri := block.FormatEmbed.DisplaySource
-		f := &EmbeddedSourceFile{
-			EmbedURL: uri,
-		}
-		p.SourceFiles = append(p.SourceFiles, f)
-		relativePath := gitoembedToRelativePath(uri)
-		if relativePath == "" {
-			fmt.Printf("Couldn't parse embed uri '%s'\n", uri)
-			continue
-		}
-		// fmt.Printf("Embed uri: %s, relativePath: %s\n", uri, relativePath)
-		f.FileName = filepath.Base(relativePath)
-		f.Path = filepath.Join(wd, relativePath)
-		f.Lines, err = readFilteredSourceFile(f.Path)
-		if err != nil {
-			fmt.Printf("Failed to read '%s' extracted from '%s', error: %s\n", f.Path, uri, err)
-			continue
-		}
-		f.FileExists = true
-	}
-}
-
-func bookPageFromNotionPage(book *Book, page *notionapi.Page, pageIDToPage map[string]*notionapi.Page) *Page {
+// recursively build a Page for each notionapi.Page by extracting
+// information from notionapi.Page
+func bookPageFromNotionPage(book *Book, page *notionapi.Page) *Page {
 	res := &Page{}
 	res.NotionPage = page
 	res.NotionID = normalizeID(page.ID)
 	res.Title = page.Root.Title
 	extractMeta(res)
-	extractEmbeddedSourceFiles(res)
-	subPages := getSubPages(page, pageIDToPage)
+	extractSourceFiles(res)
+	subPages := getSubPages(page, book.pageIDToPage)
 
 	// fmt.Printf("bookPageFromNotionPage: %s %s\n", normalizeID(page.ID), res.Meta.ID)
 
 	for _, subPage := range subPages {
-		bookPage := bookPageFromNotionPage(book, subPage, pageIDToPage)
+		bookPage := bookPageFromNotionPage(book, subPage)
 		bookPage.Book = book
 		res.Pages = append(res.Pages, bookPage)
 	}
@@ -364,5 +295,5 @@ func bookFromPages(book *Book) {
 	page := book.pageIDToPage[startPageID]
 	panicIf(page.Root.Type != notionapi.BlockPage, "start block is of type '%s' and not '%s'", page.Root.Type, notionapi.BlockPage)
 	book.Title = page.Root.Title
-	book.RootPage = bookPageFromNotionPage(book, page, book.pageIDToPage)
+	book.RootPage = bookPageFromNotionPage(book, page)
 }

@@ -11,7 +11,7 @@
       "3cc2fc18-2a1e-48ef-96c4-29b708611c86",
       "e9e72bd5-0577-45d2-b536-294897169a9f",
       "3f70f254-afe6-4685-86ca-45a4cbca6b33",
-      "d2d3c0f7-9101-4e14-9a97-a8006e3950ea",
+      "3cf65ca8-bb23-462c-ae67-4e4074997f44",
       "646bc127-2f7a-4250-9f4f-190beba106dd",
       "3e5fe73a-765a-49a6-9e58-4a738969b8c7",
       "8b7e3279-90d9-40c3-a8c3-b24c478e6d66",
@@ -26,7 +26,7 @@
     "id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1536372298526,
+    "last_edited_time": 1538716020502,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -37,7 +37,7 @@
       ]
     },
     "type": "page",
-    "version": 35,
+    "version": 59,
     "content_resolved": [
       {
         "alive": true,
@@ -206,7 +206,7 @@
         "id": "3f70f254-afe6-4685-86ca-45a4cbca6b33",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155945186,
+        "last_edited_time": 1538716020502,
         "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
         "parent_table": "block",
         "properties": {
@@ -217,7 +217,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 5,
         "inline_content": [
           {
             "Text": "The values of zero type are unsurprising:"
@@ -226,176 +226,390 @@
       },
       {
         "alive": true,
+        "collection_id": "45fa7ca7-6133-4435-8750-75e545bdbef7",
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155945188,
-        "id": "d2d3c0f7-9101-4e14-9a97-a8006e3950ea",
-        "ignore_block_count": true,
+        "created_time": 1538715716864,
+        "id": "3cf65ca8-bb23-462c-ae67-4e4074997f44",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155945188,
+        "last_edited_time": 1538715716864,
         "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "type"
-            ],
-            [
-              "zero value"
-            ],
-            [
-              "bool"
-            ],
-            [
-              "false"
-            ],
-            [
-              "integers"
-            ],
-            [
-              "0"
-            ],
-            [
-              "floating poing numbers"
-            ],
-            [
-              "0.0"
-            ],
-            [
-              "string"
-            ],
-            [
-              "“”"
-            ],
-            [
-              "pointer"
-            ],
-            [
-              "nil"
-            ],
-            [
-              "slice"
-            ],
-            [
-              "nil"
-            ],
-            [
-              "map"
-            ],
-            [
-              "nil"
-            ],
-            [
-              "interface"
-            ],
-            [
-              "nil"
-            ],
-            [
-              "channel"
-            ],
-            [
-              "nil"
-            ],
-            [
-              "array"
-            ],
-            [
-              "all elements have zero values"
-            ],
-            [
-              "struct"
-            ],
-            [
-              "all members set to zero value of their type"
-            ],
-            [
-              "function"
-            ],
-            [
-              "nil"
+        "type": "collection_view",
+        "version": 4,
+        "view_ids": [
+          "9420f563-fe16-45bf-b940-549db352f4a7"
+        ],
+        "collection_views": [
+          {
+            "CollectionView": {
+              "id": "9420f563-fe16-45bf-b940-549db352f4a7",
+              "alive": true,
+              "format": {
+                "table_properties": [
+                  {
+                    "width": 359,
+                    "visible": true,
+                    "property": "title"
+                  },
+                  {
+                    "width": 232,
+                    "visible": true,
+                    "property": "vZ-,"
+                  }
+                ],
+                "table_wrap": true
+              },
+              "name": "Default View",
+              "page_sort": [
+                "4b740dd5-3d80-4195-bcd0-f8d6c7b19f38",
+                "17914b98-5308-45e4-a56e-7a50f8c57131",
+                "2dee1e24-c551-4a26-8e3f-d947e4df7649",
+                "122ce5af-980b-47ed-8ae3-032b327d0a96",
+                "2ee596f5-719a-4b6e-9657-12f9f5537035",
+                "2f59a01c-32c9-40be-acb2-4280457519a9",
+                "95b1babb-8272-40a6-a9d4-660bcde3e690",
+                "6cf7a9da-f13e-43bb-8f53-106f266a9aa9",
+                "deeebc97-eafa-4943-a310-dc428305d5d7",
+                "0e478b0c-478a-4102-a5d8-409d2d444a50",
+                "b3977145-6412-4a13-961c-12fcc833b6bf",
+                "94e8f66e-baf3-43f0-a047-e2fb798d3057"
+              ],
+              "parent_id": "3cf65ca8-bb23-462c-ae67-4e4074997f44",
+              "parent_table": "block",
+              "query": {
+                "aggregate": null
+              },
+              "type": "table",
+              "version": 76
+            },
+            "Collection": {
+              "alive": true,
+              "format": {
+                "collection_page_properties": [
+                  {
+                    "property": "vZ-,",
+                    "visible": true
+                  },
+                  {
+                    "property": "[c(+",
+                    "visible": true
+                  }
+                ]
+              },
+              "id": "45fa7ca7-6133-4435-8750-75e545bdbef7",
+              "name": null,
+              "parent_id": "3cf65ca8-bb23-462c-ae67-4e4074997f44",
+              "parent_table": "block",
+              "schema": {
+                "title": {
+                  "name": "type",
+                  "options": null,
+                  "type": "title"
+                },
+                "vZ-,": {
+                  "name": "zero value",
+                  "options": [
+                    {
+                      "color": "brown",
+                      "id": "d994879d-f3f1-4c5a-a7d1-f09225fa39bd",
+                      "value": "false"
+                    }
+                  ],
+                  "type": "text"
+                }
+              },
+              "version": 7
+            },
+            "CollectionRows": [
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538715716864,
+                "id": "4b740dd5-3d80-4195-bcd0-f8d6c7b19f38",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538715806691,
+                "parent_id": "45fa7ca7-6133-4435-8750-75e545bdbef7",
+                "parent_table": "collection",
+                "properties": {
+                  "title": [
+                    [
+                      "bool"
+                    ]
+                  ],
+                  "vZ-,": [
+                    [
+                      "false"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 33
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538715716864,
+                "id": "17914b98-5308-45e4-a56e-7a50f8c57131",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538715811890,
+                "parent_id": "45fa7ca7-6133-4435-8750-75e545bdbef7",
+                "parent_table": "collection",
+                "properties": {
+                  "title": [
+                    [
+                      "integers"
+                    ]
+                  ],
+                  "vZ-,": [
+                    [
+                      "0"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 21
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538715716864,
+                "id": "2dee1e24-c551-4a26-8e3f-d947e4df7649",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538715822499,
+                "parent_id": "45fa7ca7-6133-4435-8750-75e545bdbef7",
+                "parent_table": "collection",
+                "properties": {
+                  "title": [
+                    [
+                      "floating point numbers"
+                    ]
+                  ],
+                  "vZ-,": [
+                    [
+                      "0.0"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 73
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538715822916,
+                "id": "122ce5af-980b-47ed-8ae3-032b327d0a96",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538715826411,
+                "parent_id": "45fa7ca7-6133-4435-8750-75e545bdbef7",
+                "parent_table": "collection",
+                "properties": {
+                  "title": [
+                    [
+                      "string"
+                    ]
+                  ],
+                  "vZ-,": [
+                    [
+                      "\"\""
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 20
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538715826811,
+                "id": "2ee596f5-719a-4b6e-9657-12f9f5537035",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538715830690,
+                "parent_id": "45fa7ca7-6133-4435-8750-75e545bdbef7",
+                "parent_table": "collection",
+                "properties": {
+                  "title": [
+                    [
+                      "pointer"
+                    ]
+                  ],
+                  "vZ-,": [
+                    [
+                      "nil"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 24
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538715831987,
+                "id": "2f59a01c-32c9-40be-acb2-4280457519a9",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538715844370,
+                "parent_id": "45fa7ca7-6133-4435-8750-75e545bdbef7",
+                "parent_table": "collection",
+                "properties": {
+                  "title": [
+                    [
+                      "slice"
+                    ]
+                  ],
+                  "vZ-,": [
+                    [
+                      "nil"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 20
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538715844626,
+                "id": "95b1babb-8272-40a6-a9d4-660bcde3e690",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538715889618,
+                "parent_id": "45fa7ca7-6133-4435-8750-75e545bdbef7",
+                "parent_table": "collection",
+                "properties": {
+                  "title": [
+                    [
+                      "map"
+                    ]
+                  ],
+                  "vZ-,": [
+                    [
+                      "nil"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 16
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538715889865,
+                "id": "6cf7a9da-f13e-43bb-8f53-106f266a9aa9",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538715894016,
+                "parent_id": "45fa7ca7-6133-4435-8750-75e545bdbef7",
+                "parent_table": "collection",
+                "properties": {
+                  "title": [
+                    [
+                      "interface"
+                    ]
+                  ],
+                  "vZ-,": [
+                    [
+                      "nil"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 28
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538715894362,
+                "id": "deeebc97-eafa-4943-a310-dc428305d5d7",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538715963812,
+                "parent_id": "45fa7ca7-6133-4435-8750-75e545bdbef7",
+                "parent_table": "collection",
+                "properties": {
+                  "title": [
+                    [
+                      "channel"
+                    ]
+                  ],
+                  "vZ-,": [
+                    [
+                      "nil"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 24
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538715964092,
+                "id": "0e478b0c-478a-4102-a5d8-409d2d444a50",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538715975459,
+                "parent_id": "45fa7ca7-6133-4435-8750-75e545bdbef7",
+                "parent_table": "collection",
+                "properties": {
+                  "title": [
+                    [
+                      "array"
+                    ]
+                  ],
+                  "vZ-,": [
+                    [
+                      "all elements have zero value"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 86
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538715975702,
+                "id": "b3977145-6412-4a13-961c-12fcc833b6bf",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538715984266,
+                "parent_id": "45fa7ca7-6133-4435-8750-75e545bdbef7",
+                "parent_table": "collection",
+                "properties": {
+                  "title": [
+                    [
+                      "struct"
+                    ]
+                  ],
+                  "vZ-,": [
+                    [
+                      "all members set to zero value"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 74
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538715984436,
+                "id": "94e8f66e-baf3-43f0-a047-e2fb798d3057",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538715987499,
+                "parent_id": "45fa7ca7-6133-4435-8750-75e545bdbef7",
+                "parent_table": "collection",
+                "properties": {
+                  "title": [
+                    [
+                      "function"
+                    ]
+                  ],
+                  "vZ-,": [
+                    [
+                      "nil"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 26
+              }
             ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "type"
-          },
-          {
-            "Text": "zero value"
-          },
-          {
-            "Text": "bool"
-          },
-          {
-            "Text": "false"
-          },
-          {
-            "Text": "integers"
-          },
-          {
-            "Text": "0"
-          },
-          {
-            "Text": "floating poing numbers"
-          },
-          {
-            "Text": "0.0"
-          },
-          {
-            "Text": "string"
-          },
-          {
-            "Text": "“”"
-          },
-          {
-            "Text": "pointer"
-          },
-          {
-            "Text": "nil"
-          },
-          {
-            "Text": "slice"
-          },
-          {
-            "Text": "nil"
-          },
-          {
-            "Text": "map"
-          },
-          {
-            "Text": "nil"
-          },
-          {
-            "Text": "interface"
-          },
-          {
-            "Text": "nil"
-          },
-          {
-            "Text": "channel"
-          },
-          {
-            "Text": "nil"
-          },
-          {
-            "Text": "array"
-          },
-          {
-            "Text": "all elements have zero values"
-          },
-          {
-            "Text": "struct"
-          },
-          {
-            "Text": "all members set to zero value of their type"
-          },
-          {
-            "Text": "function"
-          },
-          {
-            "Text": "nil"
           }
         ]
       },

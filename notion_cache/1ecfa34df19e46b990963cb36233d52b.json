@@ -7,10 +7,10 @@
       "30246cb0-3932-4910-8593-cdf99cfd2953",
       "d49c4a20-9da3-4de6-9636-c69e0e19f0a4",
       "e48a1a69-9aa5-4b1f-bb56-5873ae1dbd5d",
+      "a23e614a-8838-4a27-ae2e-737a1a84ff3b",
       "5b9f1723-54cc-4a0a-9d54-50b70fa7ef78",
       "73aaf3c7-dec0-426a-a80b-82ff23e08d68",
       "44dcdb1c-c83b-4d12-92ee-2c48b2d104c9",
-      "42e1b4d3-019a-4f03-b26f-55f9899f9802",
       "dfeeb38b-7c4f-485c-82c2-2fda582c434c",
       "2f7c82f5-e635-44f3-b98e-3c1fc82f166f"
     ],
@@ -23,7 +23,7 @@
     "id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1533019703422,
+    "last_edited_time": 1538715351135,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -34,7 +34,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 27,
     "content_resolved": [
       {
         "alive": true,
@@ -124,6 +124,43 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538715348759,
+        "id": "a23e614a-8838-4a27-ae2e-737a1a84ff3b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538715349049,
+        "parent_id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of interface is nil."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 8,
+        "inline_content": [
+          {
+            "Text": "Zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of interface is nil."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155940154,
         "id": "5b9f1723-54cc-4a0a-9d54-50b70fa7ef78",
         "ignore_block_count": true,
@@ -203,7 +240,7 @@
         "id": "44dcdb1c-c83b-4d12-92ee-2c48b2d104c9",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155940155,
+        "last_edited_time": 1538715351135,
         "parent_id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
         "parent_table": "block",
         "properties": {
@@ -214,48 +251,10 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "The smaller the interface, the better."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155940156,
-        "id": "42e1b4d3-019a-4f03-b26f-55f9899f9802",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233832034,
-        "parent_id": "1ecfa34d-f19e-46b9-9096-3cb36233d52b",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Zero value",
-              [
-                [
-                  "a",
-                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
-                ]
-              ]
-            ],
-            [
-              " of interface is nil."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 8,
-        "inline_content": [
-          {
-            "Text": "Zero value",
-            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
-          },
-          {
-            "Text": " of interface is nil."
           }
         ]
       },

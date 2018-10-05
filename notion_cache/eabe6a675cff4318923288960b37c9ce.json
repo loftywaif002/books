@@ -8,8 +8,8 @@
       "1bbe4cd8-e5b0-4b2e-8a02-113d76843533",
       "e31fa664-693b-4330-9880-4b96f5e5ab64",
       "66c6a961-7b64-41b2-aba1-5fb3360ef49d",
-      "1137a33c-3621-4074-9918-82724695024c",
-      "e7f6991a-dfbb-4194-85f7-09ebcd718992"
+      "0eeb5efb-f778-40a6-b4ef-480e4ab92ca6",
+      "1137a33c-3621-4074-9918-82724695024c"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155947207,
@@ -20,7 +20,7 @@
     "id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234115451,
+    "last_edited_time": 1538716123427,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -31,7 +31,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 30,
     "content_resolved": [
       {
         "alive": true,
@@ -125,23 +125,56 @@
         "id": "66c6a961-7b64-41b2-aba1-5fb3360ef49d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155947207,
+        "last_edited_time": 1538716119457,
         "parent_id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "You have to cast between compatible types manually:"
+              "You have to explicitly cast between compatible types:"
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 41,
         "inline_content": [
           {
-            "Text": "You have to cast between compatible types manually:"
+            "Text": "You have to explicitly cast between compatible types:"
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538716082833,
+        "format": {
+          "block_height": 354,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ftype_casting.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "0eeb5efb-f778-40a6-b4ef-480e4ab92ca6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538716090497,
+        "parent_id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ftype_casting.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 354,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ftype_casting.go"
+        }
       },
       {
         "alive": true,
@@ -150,35 +183,11 @@
         "id": "1137a33c-3621-4074-9918-82724695024c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155947207,
-        "parent_id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file type_casting.go sha1:758909a77ca8bc59a212b1e1f65e49212687cee3 goplayground:xjJopezmSSw"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file type_casting.go sha1:758909a77ca8bc59a212b1e1f65e49212687cee3 goplayground:xjJopezmSSw"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532194965879,
-        "id": "e7f6991a-dfbb-4194-85f7-09ebcd718992",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532194965879,
+        "last_edited_time": 1538716123427,
         "parent_id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
         "parent_table": "block",
         "type": "text",
-        "version": 4
+        "version": 5
       }
     ],
     "title": "Type casting",

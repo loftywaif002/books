@@ -127,11 +127,16 @@ func downloadAndCachePage(pageID string) (*notionapi.Page, error) {
 	return page, nil
 }
 
+var (
+	nNotionPagesFromCache int
+)
+
 func loadNotionPage(pageID string, getFromCache bool, n int) (*notionapi.Page, error) {
 	if getFromCache {
 		page := loadPageFromCache(pageID)
 		if page != nil {
-			fmt.Printf("Got %d from cache %s %s\n", n, pageID, page.Root.Title)
+			nNotionPagesFromCache++
+			//fmt.Printf("Got %d from cache %s %s\n", n, pageID, page.Root.Title)
 			return page, nil
 		}
 	}
@@ -171,7 +176,7 @@ func loadAllPages(startIDs []string, useCache bool) map[string]*notionapi.Page {
 	for _, startID := range startIDs {
 		loadNotionPages(startID, idToPage, useCache)
 		nDownloaded := len(idToPage) - nPrev
-		fmt.Printf("Downloaded %d pages\n", nDownloaded)
+		fmt.Printf("Got %d pages, %d from cache\n", nDownloaded, nNotionPagesFromCache)
 		nPrev = len(idToPage)
 	}
 	return idToPage

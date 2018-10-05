@@ -3,51 +3,132 @@ package main
 import (
 	"fmt"
 	"net/url"
-	"os"
 	"path/filepath"
+	"strconv"
 	"strings"
 
 	"github.com/essentialbooks/books/pkg/common"
 	"github.com/kjk/notionapi"
-	"github.com/kjk/u"
 )
+
+/*
+FileDirective describes reulst of parsing a line like:
+// no output, no playground
+*/
+type FileDirective struct {
+	NoOutput     bool // "no output"
+	AllowError   bool // "allow error"
+	LineLimit    int  // limit ${n}
+	NoPlayground bool // no playground
+}
+
+/* Parses a line like:
+// no output, no playground, line ${n}, allow error
+*/
+func parseFileDirective(line string) (*FileDirective, error) {
+	line = strings.TrimSpace(line)
+	s := strings.TrimSuffix(line, "//")
+	// doesn't start with a comment, so is not a file directive
+	if s == line {
+		return nil, nil
+	}
+	res := &FileDirective{}
+	hasInfo := false
+	parts := strings.Split(s, ",")
+	for _, s := range parts {
+		s = strings.TrimSpace(s)
+		switch s {
+		case "no output":
+			res.NoOutput = true
+			hasInfo = true
+		case "no playground":
+			res.NoPlayground = true
+			hasInfo = true
+		case "allow error":
+			res.AllowError = true
+			hasInfo = true
+		default:
+			rest := strings.TrimPrefix(s, "line ")
+			if rest == s {
+				return nil, fmt.Errorf("parseFileDirective: invalid line '%s'", line)
+			}
+			n, err := strconv.Atoi(rest)
+			if err != nil {
+				return nil, fmt.Errorf("parseFileDirective: invalid line '%s'", line)
+			}
+			res.LineLimit = n
+			hasInfo = true
+		}
+	}
+	if !hasInfo {
+		return nil, nil
+	}
+	return res, nil
+}
+
+func extractFileDirective(lines []string) (*FileDirective, []string, error) {
+	directive, err := parseFileDirective(lines[0])
+	if err != nil {
+		return nil, nil, err
+	}
+	if directive == nil {
+		return &FileDirective{}, lines, nil
+	}
+	return directive, lines[1:], nil
+}
 
 // SourceFile represents source file present in the repository
 // and embedded via https://www.onlinetool.io/gitoembed/
 type SourceFile struct {
 	EmbedURL string
 
-	// name of the file
-	FileName string
 	// full path of the file
 	Path string
+	// name of the file
+	FileName string
+	// URL on GitHub for this file
+	GitHubURL string
+	// language of the file, detected from name
+	Lang string
 
-	FileExists bool
+	// optional, ":run ${cmd}" extracted from file content
+	RunCmd string
 
-	// content of the file after filtering
-	Lines         []string
-	cachedData    []byte
-	cachedSha1Hex string
+	// for Go files, this is playground id
+	GoPlaygroundID string
+
+	// optional, extracted from first line of the file
+	// allows providing meta-data instruction for this file
+	Directive *FileDirective
+
+	// raw content of the file with line endings normalized to '\n'
+	Data []byte
+
+	LinesRaw []string // Data split into lines
+
+	// LinesRaw after extracting directive, run cmd at the top
+	// and removing :show annotation lines
+	// This is the content sent to playgrounds
+	LinesFiltered []string
+
+	// the part that we want to show i.e. the parts inside
+	// :show start, :show end blocks
+	LinesCode []string
 
 	// output of running a file
 	Output []byte
 }
 
-// Data returns content of the file
-func (f *SourceFile) Data() []byte {
-	if len(f.cachedData) == 0 {
-		s := strings.Join(f.Lines, "\n")
-		f.cachedData = []byte(s)
-	}
-	return f.cachedData
+// DataFiltered returns content of the file after filtering
+func (f *SourceFile) DataFiltered() []byte {
+	s := strings.Join(f.LinesFiltered, "\n")
+	return []byte(s)
 }
 
-// RealSha1Hex returns hex version of sha1 of file content
-func (f *SourceFile) RealSha1Hex() string {
-	if f.cachedSha1Hex == "" {
-		f.cachedSha1Hex = u.Sha1HexOfBytes(f.Data())
-	}
-	return f.cachedSha1Hex
+// DataCode returns part of the file tbat we want to show
+func (f *SourceFile) DataCode() []byte {
+	s := strings.Join(f.LinesCode, "\n")
+	return []byte(s)
 }
 
 // https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fbooleans.go
@@ -106,42 +187,88 @@ func removeAnnotationLines(lines []string) []string {
 	return res
 }
 
-func readFilteredSourceFile(path string) ([]string, error) {
-	d, err := common.ReadFileNormalized(path)
+// convert local path like books/go/foo.go into path to the file in a github repo
+func getGitHubPathForFile(path string) string {
+	return "https://github.com/essentialbooks/books/blob/master/" + toUnixPath(path)
+}
+
+func setGoPlaygroundID(sf *SourceFile) error {
+	if sf.Lang != "go" {
+		return nil
+	}
+	if sf.Directive.NoPlayground {
+		return nil
+	}
+	id, err := getSha1ToGoPlaygroundIDCached(sf.DataFiltered())
+	if err != nil {
+		return err
+	}
+	sf.GoPlaygroundID = id
+	return nil
+}
+
+func loadSourceFile(path string) (*SourceFile, error) {
+	data, err := common.ReadFileNormalized(path)
 	if err != nil {
 		return nil, err
 	}
-	lines := dataToLines(d)
-	lines = removeAnnotationLines(lines)
-	return lines, nil
+	name := filepath.Base(path)
+	lang := getLangFromFileExt(filepath.Ext(path))
+	gitHubURL := getGitHubPathForFile(path)
+	sf := &SourceFile{
+		Path:      path,
+		FileName:  name,
+		Data:      data,
+		Lang:      lang,
+		GitHubURL: gitHubURL,
+	}
+	sf.LinesRaw = dataToLines(sf.Data)
+	lines := sf.LinesRaw
+	sf.RunCmd, lines = extractRunCmd(lines)
+	directive, lines, err := extractFileDirective(lines)
+	if err != nil {
+		fmt.Printf("loadSourceFile: extractFileDirective() of line '%s' failed with '%s'\n", sf.LinesRaw[0], err)
+		panicIfErr(err)
+	}
+	sf.Directive = directive
+
+	sf.LinesFiltered = removeAnnotationLines(lines)
+	sf.LinesCode, err = extractCodeSnippets(lines)
+	if err != nil {
+		fmt.Printf("loadSourceFile('%s'): extractCodeSnippets() failed with '%s'\n", path, err)
+		panicIfErr(err)
+	}
+	setGoPlaygroundID(sf)
+
+	fmt.Printf("loadSourceFile('%s'), lang: '%s', len(code): %d\n", path, lang, len(sf.DataCode()))
+
+	// TODO: get output
+	return sf, nil
 }
 
 func extractSourceFiles(p *Page) {
-	wd, err := os.Getwd()
-	panicIfErr(err)
+	//wd, err := os.Getwd()
+	//panicIfErr(err)
 	page := p.NotionPage
 	for _, block := range page.Root.Content {
 		if block.Type != notionapi.BlockEmbed {
 			continue
 		}
 		uri := block.FormatEmbed.DisplaySource
-		f := &SourceFile{
-			EmbedURL: uri,
-		}
-		p.SourceFiles = append(p.SourceFiles, f)
 		relativePath := gitoembedToRelativePath(uri)
 		if relativePath == "" {
 			fmt.Printf("Couldn't parse embed uri '%s'\n", uri)
 			continue
 		}
 		// fmt.Printf("Embed uri: %s, relativePath: %s\n", uri, relativePath)
-		f.FileName = filepath.Base(relativePath)
-		f.Path = filepath.Join(wd, relativePath)
-		f.Lines, err = readFilteredSourceFile(f.Path)
+		//path := filepath.Join(wd, relativePath)
+		path := relativePath
+		sf, err := loadSourceFile(path)
 		if err != nil {
-			fmt.Printf("Failed to read '%s' extracted from '%s', error: %s\n", f.Path, uri, err)
-			continue
+			fmt.Printf("extractSourceFiles: loadSourceFile('%s') (uri: '%s') failed with '%s'\n", path, uri, err)
+			panicIfErr(err)
 		}
-		f.FileExists = true
+		sf.EmbedURL = uri
+		p.SourceFiles = append(p.SourceFiles, sf)
 	}
 }

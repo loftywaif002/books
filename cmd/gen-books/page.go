@@ -141,10 +141,7 @@ func (p *Page) PageTitle() string {
 func findSourceFileForEmbedURL(page *Page, uri string) *SourceFile {
 	for _, f := range page.SourceFiles {
 		if f.EmbedURL == uri {
-			if f.FileExists {
-				return f
-			}
-			return nil
+			return f
 		}
 	}
 	return nil

@@ -16,12 +16,17 @@ import (
 	"github.com/kjk/notionapi"
 	"github.com/kjk/u"
 	"github.com/tdewolff/minify"
+	"github.com/tdewolff/minify/css"
+	"github.com/tdewolff/minify/html"
+	"github.com/tdewolff/minify/js"
 )
 
 var (
-	flgAnalytics string
-	flgPreview   bool
-	flgNoCache   bool
+	flgAnalytics      string
+	flgPreview        bool
+	flgNoCache        bool
+	flgRecreateOutput bool
+	flgUpdateOutput   bool
 
 	soUserIDToNameMap map[int]string
 	googleAnalytics   template.HTML
@@ -41,23 +46,26 @@ var (
 	}
 )
 
-const (
-	googleAnalyticsTmpl = `<script async src="https://www.googletagmanager.com/gtag/js?id=%s"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '%s')
-    </script>
-`
-)
-
 func parseFlags() {
 	flag.StringVar(&flgAnalytics, "analytics", "", "google analytics code")
 	flag.BoolVar(&flgPreview, "preview", false, "if true will start watching for file changes and re-build everything")
-
+	flag.BoolVar(&flgRecreateOutput, "recreate-output", false, "if true, recreates ouput files in cached_output")
+	flag.BoolVar(&flgUpdateOutput, "update-output", false, "if true, will update ouput files in cached_output")
 	flag.BoolVar(&flgNoCache, "no-cache", false, "if true, disables cache for notion")
 	flag.Parse()
+
+	if flgAnalytics != "" {
+		googleAnalyticsTmpl := `<script async src="https://www.googletagmanager.com/gtag/js?id=%s"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', '%s')
+		</script>
+	`
+		s := fmt.Sprintf(googleAnalyticsTmpl, flgAnalytics, flgAnalytics)
+		googleAnalytics = template.HTML(s)
+	}
 }
 
 func downloadBook(book *Book) {
@@ -171,15 +179,36 @@ func genAllBooks() {
 	fmt.Printf("Used %d procs, finished generating all books in %s\n", nProcs, time.Since(timeStart))
 }
 
+func initMinify() {
+	minifier = minify.New()
+	minifier.AddFunc("text/css", css.Minify)
+	minifier.AddFunc("text/html", html.Minify)
+	minifier.AddFunc("text/javascript", js.Minify)
+	// less aggresive minification because html validators
+	// report this as html errors
+	minifier.Add("text/html", &html.Minifier{
+		KeepDocumentTags: true,
+		KeepEndTags:      true,
+	})
+	doMinify = !flgPreview
+}
+
 func main() {
 	parseFlags()
 
 	//flgNoCache = true
 
+	clearErrors()
+	initMinify()
+
 	loadSOUserMappingsMust()
 
 	os.RemoveAll("www")
 	createDirMust(filepath.Join("www", "s"))
+	if flgUpdateOutput {
+		gitRemoveCachedOutputFiles()
+	}
+	reloadCachedOutputFilesMust()
 
 	//maybeRemoveNotionCache()
 	for _, book := range books {
@@ -188,9 +217,14 @@ func main() {
 	}
 
 	genAllBooks()
-
 	genNetlifyHeaders()
 	genNetlifyRedirects()
+	printAndClearErrors()
+
+	if flgUpdateOutput {
+		gitAddCachedOutputFiles()
+		return
+	}
 
 	if flgPreview {
 		startPreview()

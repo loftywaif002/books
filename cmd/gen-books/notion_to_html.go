@@ -266,7 +266,7 @@ func (g *HTMLGenerator) genEmbed(block *notionapi.Block) {
 
 	if len(f.Output) != 0 {
 		var tmp bytes.Buffer
-		code := f.DataCode()
+		code := f.Output
 		htmlHighlight(&tmp, string(code), "text", "")
 		d := tmp.Bytes()
 		info := CodeBlockInfo{

@@ -116,7 +116,7 @@ type SourceFile struct {
 	LinesCode []string
 
 	// output of running a file
-	Output []byte
+	Output string
 }
 
 // DataFiltered returns content of the file after filtering
@@ -239,7 +239,7 @@ func loadSourceFile(path string) (*SourceFile, error) {
 		panicIfErr(err)
 	}
 	setGoPlaygroundID(sf)
-
+	err = getOutputCached(sf)
 	fmt.Printf("loadSourceFile('%s'), lang: '%s', len(code): %d\n", path, lang, len(sf.DataCode()))
 
 	// TODO: get output

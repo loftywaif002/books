@@ -6,14 +6,14 @@
       "a0a57c33-fd11-4a9d-bd6b-8a9ab6a35a46",
       "1a5ca39e-bc1c-4de9-88d2-6b74f064bd53",
       "dba64408-2bdc-48c2-8c95-29e210b2d867",
-      "a3ebead7-8015-48e6-bf01-8a3271b8f9b7",
+      "2ae6a11b-c7c6-40cf-9d2b-4476ec6d32fa",
       "c426844d-3be7-4421-9026-83891ded2fca",
       "ec1dadce-2783-4362-8e81-dbdfe791b14a",
       "fd80022c-75bb-48bd-a09e-4fe2ef2880b3",
       "4e0f64ec-02a4-4f46-a9e6-ef2f3bba15b9",
       "941a3ed5-e8e4-409f-98ee-60e14f45430b",
       "6ed8d32f-452c-4a23-b3e3-59fa42e2a6a7",
-      "e608d33c-b481-4347-92b6-783d79e580ba",
+      "e30651b8-d4cc-42fa-babe-95a184fd01bc",
       "f43661ef-88a9-4003-af15-d28a15b31440",
       "fc8687aa-a01e-437f-afb7-9d4ed4573ad3"
     ],
@@ -26,7 +26,7 @@
     "id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234348162,
+    "last_edited_time": 1538720839360,
     "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
     "parent_table": "block",
     "properties": {
@@ -37,7 +37,7 @@
       ]
     },
     "type": "page",
-    "version": 37,
+    "version": 51,
     "content_resolved": [
       {
         "alive": true,
@@ -94,7 +94,7 @@
         "id": "dba64408-2bdc-48c2-8c95-29e210b2d867",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234340642,
+        "last_edited_time": 1538720802314,
         "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
         "parent_table": "block",
         "properties": {
@@ -105,7 +105,7 @@
           ]
         },
         "type": "sub_header",
-        "version": 29,
+        "version": 31,
         "inline_content": [
           {
             "Text": "Compare strings with ==, \u003e and \u003c"
@@ -115,27 +115,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155958195,
-        "id": "a3ebead7-8015-48e6-bf01-8a3271b8f9b7",
-        "ignore_block_count": true,
+        "created_time": 1538720792178,
+        "format": {
+          "block_height": 653,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fcomparing_strings.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "2ae6a11b-c7c6-40cf-9d2b-4476ec6d32fa",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155958195,
+        "last_edited_time": 1538720799467,
         "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file comparing_strings.go output sha1:9540ac92a6c53c2019488a472f6cefccc1b43fb2 goplayground:qtnZB5CG_A1"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fcomparing_strings.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file comparing_strings.go output sha1:9540ac92a6c53c2019488a472f6cefccc1b43fb2 goplayground:qtnZB5CG_A1"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 653,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fcomparing_strings.go"
+        }
       },
       {
         "alive": true,
@@ -354,7 +362,7 @@
         "id": "6ed8d32f-452c-4a23-b3e3-59fa42e2a6a7",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155958200,
+        "last_edited_time": 1538720839360,
         "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
         "parent_table": "block",
         "properties": {
@@ -388,7 +396,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Sometimes you want “Go” to equal “go”, which is not the case when using "
@@ -412,27 +420,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155958201,
-        "id": "e608d33c-b481-4347-92b6-783d79e580ba",
-        "ignore_block_count": true,
+        "created_time": 1538720830535,
+        "format": {
+          "block_height": 376,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fcomparing_strings2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "e30651b8-d4cc-42fa-babe-95a184fd01bc",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155958201,
+        "last_edited_time": 1538720837189,
         "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file comparing_strings2.go output sha1:51339082471b12126cf7caafcb5ade233a384518 goplayground:KiQPmLSCmY4"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fcomparing_strings2.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file comparing_strings2.go output sha1:51339082471b12126cf7caafcb5ade233a384518 goplayground:KiQPmLSCmY4"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 376,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fcomparing_strings2.go"
+        }
       },
       {
         "alive": true,

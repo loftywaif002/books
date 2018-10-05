@@ -248,14 +248,6 @@ func getOutputCached(sf *SourceFile) error {
 	return nil
 }
 
-func gitRemoveCachedOutputFiles() {
-	if flgRecreateOutput {
-		os.RemoveAll(cachedOutputDir)
-	}
-	err := os.MkdirAll(cachedOutputDir, 0755)
-	u.PanicIfErr(err)
-}
-
 func gitAddCachedOutputFiles() {
 	fileInfos, err := ioutil.ReadDir(cachedOutputDir)
 	u.PanicIfErr(err)

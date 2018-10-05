@@ -7,8 +7,9 @@
       "e916939c-ca66-43e0-bdc9-d4576d3e3a1b",
       "53ee6664-7713-40f1-a022-e43a77217102",
       "1b4ba918-d537-49c3-af95-9a90c6100a82",
-      "8d9c2a73-41ec-443b-8217-6e052c0f78a4",
-      "f7bed8a8-2bda-4d09-95e6-08997c8e0768",
+      "1c0427b7-95d0-4d09-b723-00a8ff60763a",
+      "3aa940d0-b526-4e45-8728-5bbd4899715e",
+      "d67bd09e-28b3-49db-8fa9-d6f6f4c96a92",
       "5f5c9b7b-6f00-43b2-8af7-c19fe7f6e550"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -20,7 +21,7 @@
     "id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234169402,
+    "last_edited_time": 1538719756639,
     "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
     "parent_table": "block",
     "properties": {
@@ -31,7 +32,7 @@
       ]
     },
     "type": "page",
-    "version": 21,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -121,36 +122,43 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155950237,
-        "id": "8d9c2a73-41ec-443b-8217-6e052c0f78a4",
-        "ignore_block_count": true,
+        "created_time": 1538719717757,
+        "format": {
+          "block_height": 377,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0030-variables%2Fmultiple_variable.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "1c0427b7-95d0-4d09-b723-00a8ff60763a",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155950237,
+        "last_edited_time": 1538719725975,
         "parent_id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file multiple_variable.go sha1:e22304502badf80b2dcf72114c23ce619fa3238e goplayground:jNBkiVxHYBw"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0030-variables%2Fmultiple_variable.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file multiple_variable.go sha1:e22304502badf80b2dcf72114c23ce619fa3238e goplayground:jNBkiVxHYBw"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 377,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0030-variables%2Fmultiple_variable.go"
+        }
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155950237,
-        "id": "f7bed8a8-2bda-4d09-95e6-08997c8e0768",
-        "ignore_block_count": true,
+        "created_time": 1538719728833,
+        "id": "3aa940d0-b526-4e45-8728-5bbd4899715e",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155950237,
+        "last_edited_time": 1538719729261,
         "parent_id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
         "parent_table": "block",
         "properties": {
@@ -161,7 +169,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 6,
         "inline_content": [
           {
             "Text": "If a function returns multiple values, you can also assign values to variables based on the function’s return values."
@@ -171,27 +179,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538719756639,
+        "format": {
+          "block_height": 416,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0030-variables%2Fmultiple_variable_2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "d67bd09e-28b3-49db-8fa9-d6f6f4c96a92",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538719765556,
+        "parent_id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0030-variables%2Fmultiple_variable_2.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 416,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0030-variables%2Fmultiple_variable_2.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155950237,
         "id": "5f5c9b7b-6f00-43b2-8af7-c19fe7f6e550",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155950237,
+        "last_edited_time": 1538719767413,
         "parent_id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file multiple_variable_2.go output sha1:8a0eeb2f0365a379e2fe9f7e874d905c35c6cd50 goplayground:Mt9NmcHGF5P"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file multiple_variable_2.go output sha1:8a0eeb2f0365a379e2fe9f7e874d905c35c6cd50 goplayground:Mt9NmcHGF5P"
-          }
-        ]
+        "version": 3
       }
     ],
     "title": "Multiple variable assignment",

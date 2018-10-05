@@ -7,22 +7,24 @@
       "eae6d433-c637-4700-a4ee-404831704593",
       "b0419375-05cd-40d9-a73c-1c52600c2899",
       "c8580c7f-ece1-4531-81d2-8fac6e1e4e30",
-      "c19cacf5-17eb-4fde-9761-c405e0ea8246",
+      "91111a38-cd54-45c0-ba18-2b8961b7966f",
       "73452e64-b977-4eca-9526-831a3357faa0",
       "9d23e79f-b022-4fdc-813c-2e0743a48db3",
-      "fcaa566e-fafa-4650-a8d5-2aa25dc2e02e",
+      "7b3ed5dd-8d3e-4509-aa37-02fcaae87e05",
       "44cb4f38-4e6f-41a7-9267-6f427ecc0b4b",
       "1e0b3732-f6dc-4033-89e9-f4c2c294ea80",
-      "cd21854f-7804-4570-bc4e-da2100f878dc",
+      "46b793ce-0c95-49b8-8823-47a2c625e7dc",
       "c593e488-cf0f-41a1-ad7e-66a7050493cf",
       "d28e3c9e-393e-4896-8dea-a1d3d814ef69",
-      "9323f681-5aab-4c86-b7fa-ad4e21d60145",
+      "41e5a850-acb0-4193-acc5-f2381c3ee2c9",
       "56963d9c-d2b7-429d-b428-8ba4b62f7ca4",
       "f7ab4024-bf55-4c96-9363-d5f04913cbcb",
-      "ac3f010b-9b4a-471a-9102-30a80410c123",
+      "ac020b36-dcd9-4c1e-81f2-917cdc3eeb23",
       "db777243-2ad0-457d-9373-3f1a910f37e3",
       "54248adb-1672-4beb-ba34-0a785324ab21",
-      "adee59dc-ee1d-43c6-ba34-33564873ed6d"
+      "c61ac769-228c-4051-8e75-01cb4a6e5890",
+      "adee59dc-ee1d-43c6-ba34-33564873ed6d",
+      "2197e62c-7dc7-4d57-9446-b72974b2290b"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155957132,
@@ -33,7 +35,7 @@
     "id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234286058,
+    "last_edited_time": 1538720751958,
     "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
     "parent_table": "block",
     "properties": {
@@ -44,7 +46,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 65,
     "content_resolved": [
       {
         "alive": true,
@@ -126,7 +128,7 @@
         "id": "c8580c7f-ece1-4531-81d2-8fac6e1e4e30",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234301889,
+        "last_edited_time": 1538720583088,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
@@ -152,7 +154,7 @@
           ]
         },
         "type": "text",
-        "version": 16,
+        "version": 18,
         "inline_content": [
           {
             "Text": "Using "
@@ -170,27 +172,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155957126,
-        "id": "c19cacf5-17eb-4fde-9761-c405e0ea8246",
-        "ignore_block_count": true,
+        "created_time": 1538720577095,
+        "format": {
+          "block_height": 388,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "91111a38-cd54-45c0-ba18-2b8961b7966f",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155957126,
+        "last_edited_time": 1538720586508,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file finding_strings.go output sha1:a47b4a300ddca07351a2b42f7e66bd358f175ca5 goplayground:1c8V7OP6HJh"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file finding_strings.go output sha1:a47b4a300ddca07351a2b42f7e66bd358f175ca5 goplayground:1c8V7OP6HJh"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 388,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings.go"
+        }
       },
       {
         "alive": true,
@@ -224,7 +234,7 @@
         "id": "9d23e79f-b022-4fdc-813c-2e0743a48db3",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155957127,
+        "last_edited_time": 1538720621855,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
@@ -250,7 +260,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Above we searched from the beginning of the string. We can also search from the end using "
@@ -268,27 +278,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155957127,
-        "id": "fcaa566e-fafa-4650-a8d5-2aa25dc2e02e",
-        "ignore_block_count": true,
+        "created_time": 1538720612763,
+        "format": {
+          "block_height": 325,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "7b3ed5dd-8d3e-4509-aa37-02fcaae87e05",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155957127,
+        "last_edited_time": 1538720619301,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file finding_strings2.go output sha1:9fa45203c4ae55075c6b726b2692c813240971e9 goplayground:iyxoEzHw4p7"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings2.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file finding_strings2.go output sha1:9fa45203c4ae55075c6b726b2692c813240971e9 goplayground:iyxoEzHw4p7"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 325,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings2.go"
+        }
       },
       {
         "alive": true,
@@ -322,7 +340,7 @@
         "id": "1e0b3732-f6dc-4033-89e9-f4c2c294ea80",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155957127,
+        "last_edited_time": 1538720650660,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
@@ -333,7 +351,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Above, we only found the first occurrence of the substring. Here’s how to find all occurrences:"
@@ -343,27 +361,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155957127,
-        "id": "cd21854f-7804-4570-bc4e-da2100f878dc",
-        "ignore_block_count": true,
+        "created_time": 1538720638823,
+        "format": {
+          "block_height": 443,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings3.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "46b793ce-0c95-49b8-8823-47a2c625e7dc",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155957127,
+        "last_edited_time": 1538720644884,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file finding_strings3.go output sha1:cd32f1eaba4a825c9d36f6fe786dc760a3caa48e goplayground:C9VJxywxROJ"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings3.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file finding_strings3.go output sha1:cd32f1eaba4a825c9d36f6fe786dc760a3caa48e goplayground:C9VJxywxROJ"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 443,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings3.go"
+        }
       },
       {
         "alive": true,
@@ -397,7 +423,7 @@
         "id": "d28e3c9e-393e-4896-8dea-a1d3d814ef69",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155957128,
+        "last_edited_time": 1538720675028,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
@@ -423,7 +449,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Using "
@@ -441,27 +467,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155957128,
-        "id": "9323f681-5aab-4c86-b7fa-ad4e21d60145",
-        "ignore_block_count": true,
+        "created_time": 1538720670144,
+        "format": {
+          "block_height": 372,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings4.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "41e5a850-acb0-4193-acc5-f2381c3ee2c9",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155957128,
+        "last_edited_time": 1538720680283,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file finding_strings4.go output sha1:6615c90c15775f6f402a176ae0d6209f494cea77 goplayground:BSLr-qaYPvJ"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings4.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file finding_strings4.go output sha1:6615c90c15775f6f402a176ae0d6209f494cea77 goplayground:BSLr-qaYPvJ"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 372,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings4.go"
+        }
       },
       {
         "alive": true,
@@ -495,7 +529,7 @@
         "id": "f7ab4024-bf55-4c96-9363-d5f04913cbcb",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155957130,
+        "last_edited_time": 1538720735484,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
@@ -521,7 +555,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Using "
@@ -539,27 +573,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155957130,
-        "id": "ac3f010b-9b4a-471a-9102-30a80410c123",
-        "ignore_block_count": true,
+        "created_time": 1538720722055,
+        "format": {
+          "block_height": 375,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings5.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "ac020b36-dcd9-4c1e-81f2-917cdc3eeb23",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155957130,
+        "last_edited_time": 1538720731925,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file finding_strings5.go output sha1:babb86fb2fbae4369e20ccc5239230d606280d66 goplayground:WgVWyWBQ_gu"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings5.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file finding_strings5.go output sha1:babb86fb2fbae4369e20ccc5239230d606280d66 goplayground:WgVWyWBQ_gu"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 375,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings5.go"
+        }
       },
       {
         "alive": true,
@@ -637,27 +679,60 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538720751958,
+        "format": {
+          "block_height": 371,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings6.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "c61ac769-228c-4051-8e75-01cb4a6e5890",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538720758655,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings6.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 371,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings6.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155957132,
         "id": "adee59dc-ee1d-43c6-ba34-33564873ed6d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155957132,
+        "last_edited_time": 1538720760475,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file finding_strings6.go output sha1:d183ea2089b304e519b217fbe51f5e4af1d8f6be goplayground:bZWDWmkNklX"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file finding_strings6.go output sha1:d183ea2089b304e519b217fbe51f5e4af1d8f6be goplayground:bZWDWmkNklX"
-          }
-        ]
+        "version": 3
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538720749665,
+        "id": "2197e62c-7dc7-4d57-9446-b72974b2290b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538720749665,
+        "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "Find string in another string",

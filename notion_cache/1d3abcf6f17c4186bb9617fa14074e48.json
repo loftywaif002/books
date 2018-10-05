@@ -15,6 +15,7 @@
       "030e8c42-39e7-4d48-a730-604d41430480",
       "8e116ab9-6e95-4c0a-bc12-0cfeae360c1c",
       "9cdc1dd8-9059-4c15-b588-94a737968c8d",
+      "be47d9c2-e715-4266-9bb5-fabc1259a2f8",
       "52ea612a-9f01-45c5-b4fd-98950a6dfb56"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -26,7 +27,7 @@
     "id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234436815,
+    "last_edited_time": 1538721389070,
     "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
     "parent_table": "block",
     "properties": {
@@ -37,7 +38,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 28,
     "content_resolved": [
       {
         "alive": true,
@@ -376,27 +377,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538721389070,
+        "format": {
+          "block_height": 486,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fnormalize_newlines.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "be47d9c2-e715-4266-9bb5-fabc1259a2f8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538721402553,
+        "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fnormalize_newlines.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 486,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fnormalize_newlines.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155969200,
         "id": "52ea612a-9f01-45c5-b4fd-98950a6dfb56",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155969200,
+        "last_edited_time": 1538721397092,
         "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file normalize_newlines.go sha1:e3dca9882e255dd24a96b8b2e7f3a688d731cdcf goplayground:Yo5PIBjvZ3A"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file normalize_newlines.go sha1:e3dca9882e255dd24a96b8b2e7f3a688d731cdcf goplayground:Yo5PIBjvZ3A"
-          }
-        ]
+        "version": 3
       }
     ],
     "title": "Normalize newlines",

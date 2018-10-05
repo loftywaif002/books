@@ -8,21 +8,22 @@
       "3692ad4e-6f58-4df3-a709-269e02107845",
       "99ecb1b3-141b-4e58-8523-5d160e88c319",
       "bc8cfbf3-19b1-4e8d-81cd-fe612201496e",
-      "4a64055e-bae1-486e-9a4d-ef465c905498",
+      "bda6d938-4ea7-4339-bc58-a2a520332464",
       "2fe9c27f-a0b8-4de6-b1bd-77230bfbc47b",
       "4c12cc2a-df07-45e5-a822-f95f17bd519a",
       "ffec3572-66ea-487b-9029-4517ebf628a5",
-      "260663b8-ca9e-4b5a-b733-19419de09565",
+      "36c03fa0-5cdb-40a8-abb0-43cf9b3515bd",
       "1b59e878-1e8e-4f0b-86bb-d8f22a118df1",
       "2f55eab6-95c3-4a2e-9d4a-9de23297305e",
-      "9c978660-d9cf-44c5-be4b-fc97bce6c126",
+      "cf9b17e3-ec28-41ac-b586-3ec99f22c4d0",
       "c16872d9-2a8c-4e69-8aa3-05506460575b",
-      "a9e028eb-1843-4975-bd03-69fd2918ce41",
+      "59f25a9e-b70d-43fe-8c15-036b80b99589",
       "fc42dab2-8b8e-4b38-a994-be1f2a5b53c7",
       "9b4429af-b8d3-491d-8bc7-7fa437c47012",
-      "3db1bd09-4c70-435a-8a02-452db5049f61",
+      "0ca8ffae-70c0-48da-9d0b-2320c94b73e6",
       "a7b1a1ef-4a86-4c4c-a71b-69fc137f2630",
       "d1e76641-21d6-4b87-b9a6-703c86570491",
+      "6d20a10b-de74-4780-9aef-9caca0b7ae66",
       "f2d972cc-2ec1-4fa7-b5bf-6c208b5776d3"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -34,7 +35,7 @@
     "id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234243760,
+    "last_edited_time": 1538720331244,
     "parent_id": "cb80712d-ca75-45da-8e0b-20762c637409",
     "parent_table": "block",
     "properties": {
@@ -45,7 +46,7 @@
       ]
     },
     "type": "page",
-    "version": 35,
+    "version": 75,
     "content_resolved": [
       {
         "alive": true,
@@ -151,7 +152,7 @@
         "id": "bc8cfbf3-19b1-4e8d-81cd-fe612201496e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155954202,
+        "last_edited_time": 1538720187458,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
@@ -162,7 +163,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Basics:"
@@ -172,27 +173,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155954202,
-        "id": "4a64055e-bae1-486e-9a4d-ef465c905498",
-        "ignore_block_count": true,
+        "created_time": 1538720160372,
+        "format": {
+          "block_height": 329,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "bda6d938-4ea7-4339-bc58-a2a520332464",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155954202,
+        "last_edited_time": 1538720170402,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file iota.go output sha1:a8b1274df4bb37c5d29db536bbf026e89f600e17 goplayground:Hom7xSeu2_V"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file iota.go output sha1:a8b1274df4bb37c5d29db536bbf026e89f600e17 goplayground:Hom7xSeu2_V"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 329,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota.go"
+        }
       },
       {
         "alive": true,
@@ -293,7 +302,7 @@
         "id": "ffec3572-66ea-487b-9029-4517ebf628a5",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155954203,
+        "last_edited_time": 1538720232179,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
@@ -304,7 +313,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Iota can be very useful when creating a bitmask. For instance, to represent the state of a network connection which may be secure, authenticated, and/or ready, we might create a bitmask like the following:"
@@ -314,27 +323,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155954203,
-        "id": "260663b8-ca9e-4b5a-b733-19419de09565",
-        "ignore_block_count": true,
+        "created_time": 1538720206765,
+        "format": {
+          "block_height": 354,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "36c03fa0-5cdb-40a8-abb0-43cf9b3515bd",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155954203,
+        "last_edited_time": 1538720217643,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file iota_2.go output sha1:6d3b494ed9a7f5412cecb9934a3f107b27511419 goplayground:PgPiSJeXXtP"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_2.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file iota_2.go output sha1:6d3b494ed9a7f5412cecb9934a3f107b27511419 goplayground:PgPiSJeXXtP"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 354,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_2.go"
+        }
       },
       {
         "alive": true,
@@ -368,7 +385,7 @@
         "id": "2f55eab6-95c3-4a2e-9d4a-9de23297305e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155954203,
+        "last_edited_time": 1538720261258,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
@@ -390,7 +407,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "The value of "
@@ -407,27 +424,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155954203,
-        "id": "9c978660-d9cf-44c5-be4b-fc97bce6c126",
-        "ignore_block_count": true,
+        "created_time": 1538720251469,
+        "format": {
+          "block_height": 325,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_3.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "cf9b17e3-ec28-41ac-b586-3ec99f22c4d0",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155954203,
+        "last_edited_time": 1538720258744,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file iota_3.go output sha1:85d09c78773f11dadfcb5b117979571188019251 goplayground:QXKxVfUW9e-"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_3.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file iota_3.go output sha1:85d09c78773f11dadfcb5b117979571188019251 goplayground:QXKxVfUW9e-"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 325,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_3.go"
+        }
       },
       {
         "alive": true,
@@ -436,7 +461,7 @@
         "id": "c16872d9-2a8c-4e69-8aa3-05506460575b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155954203,
+        "last_edited_time": 1538720285571,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
@@ -447,7 +472,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "It will also be incremented even if no constant is created at all, meaning the empty identifier can be used to skip values entirely:"
@@ -457,27 +482,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155954204,
-        "id": "a9e028eb-1843-4975-bd03-69fd2918ce41",
-        "ignore_block_count": true,
+        "created_time": 1538720278733,
+        "format": {
+          "block_height": 308,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_4.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "59f25a9e-b70d-43fe-8c15-036b80b99589",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155954204,
+        "last_edited_time": 1538720283308,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file iota_4.go output sha1:73888bb42c8811dfa670abcb058a736e93999a9e goplayground:60ov9hRLZK1"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_4.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file iota_4.go output sha1:73888bb42c8811dfa670abcb058a736e93999a9e goplayground:60ov9hRLZK1"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 308,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_4.go"
+        }
       },
       {
         "alive": true,
@@ -529,7 +562,7 @@
         "id": "9b4429af-b8d3-491d-8bc7-7fa437c47012",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155954205,
+        "last_edited_time": 1538720314232,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
@@ -577,7 +610,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Because "
@@ -609,27 +642,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155954205,
-        "id": "3db1bd09-4c70-435a-8a02-452db5049f61",
-        "ignore_block_count": true,
+        "created_time": 1538720303318,
+        "format": {
+          "block_height": 340,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_5.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "0ca8ffae-70c0-48da-9d0b-2320c94b73e6",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155954205,
+        "last_edited_time": 1538720312018,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file iota_5.go output sha1:fb4d2417b5cca2718b8e4d1e4f4faeab57b3df92 goplayground:ft9XGtyS3ur"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_5.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file iota_5.go output sha1:fb4d2417b5cca2718b8e4d1e4f4faeab57b3df92 goplayground:ft9XGtyS3ur"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 340,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_5.go"
+        }
       },
       {
         "alive": true,
@@ -733,27 +774,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538720331244,
+        "format": {
+          "block_height": 389,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_6.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "6d20a10b-de74-4780-9aef-9caca0b7ae66",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538720339159,
+        "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_6.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 389,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_6.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155954206,
         "id": "f2d972cc-2ec1-4fa7-b5bf-6c208b5776d3",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155954206,
+        "last_edited_time": 1538720340665,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file iota_6.go output sha1:20fbf7ae725e839722cff1187c46a7b1316c9da9 goplayground:QpLaWO0cLyP"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file iota_6.go output sha1:20fbf7ae725e839722cff1187c46a7b1316c9da9 goplayground:QpLaWO0cLyP"
-          }
-        ]
+        "version": 3
       }
     ],
     "title": "iota",

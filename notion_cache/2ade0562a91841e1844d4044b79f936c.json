@@ -6,8 +6,11 @@
       "1806dec4-1811-4bdc-b207-1c1a71c2e632",
       "b8932b23-3419-4c4a-a238-b2fa6a17f079",
       "278d0331-6ae4-4bef-877c-df44ca46a44a",
-      "acea174f-93eb-4b3c-84f3-b9afc31758c9",
-      "e101fde0-84fc-47ba-a382-7f7b414b6935"
+      "12f7ae96-e5bc-4828-82db-09e30ccef826",
+      "93e67adb-5bbf-4bf0-9844-99369af64077",
+      "e0d79d00-5ccc-456b-ba45-aab2a71d73bb",
+      "5d39c418-3ea8-45b5-a053-eddcd5676326",
+      "8da614f2-ced1-40f5-9f5d-03eed3b9f175"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155967169,
@@ -18,7 +21,7 @@
     "id": "2ade0562-a918-41e1-844d-4044b79f936c",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234408909,
+    "last_edited_time": 1538721248693,
     "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
     "parent_table": "block",
     "properties": {
@@ -29,7 +32,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 36,
     "content_resolved": [
       {
         "alive": true,
@@ -106,39 +109,95 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532195704959,
-        "id": "acea174f-93eb-4b3c-84f3-b9afc31758c9",
+        "created_time": 1538721220562,
+        "id": "12f7ae96-e5bc-4828-82db-09e30ccef826",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532195704959,
+        "last_edited_time": 1538721220562,
         "parent_id": "2ade0562-a918-41e1-844d-4044b79f936c",
         "parent_table": "block",
         "type": "text",
-        "version": 6
+        "version": 4
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155967169,
-        "id": "e101fde0-84fc-47ba-a382-7f7b414b6935",
-        "ignore_block_count": true,
+        "created_time": 1538721222796,
+        "format": {
+          "block_height": 317.9895935058594,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Freplace.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "93e67adb-5bbf-4bf0-9844-99369af64077",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155967169,
+        "last_edited_time": 1538721254006,
+        "parent_id": "2ade0562-a918-41e1-844d-4044b79f936c",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Freplace.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 317.9895935058594,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Freplace.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538721247147,
+        "id": "e0d79d00-5ccc-456b-ba45-aab2a71d73bb",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538721247147,
+        "parent_id": "2ade0562-a918-41e1-844d-4044b79f936c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538721246735,
+        "id": "5d39c418-3ea8-45b5-a053-eddcd5676326",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538721247706,
         "parent_id": "2ade0562-a918-41e1-844d-4044b79f936c",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "@file replace.go output sha1:99e389587a0e7676e2fe56b35b70e7fe8d6ee4dd goplayground:03B_lmMfFh5"
+              "TODO: replace using regex"
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 6,
         "inline_content": [
           {
-            "Text": "@file replace.go output sha1:99e389587a0e7676e2fe56b35b70e7fe8d6ee4dd goplayground:03B_lmMfFh5"
+            "Text": "TODO: replace using regex"
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538721248693,
+        "id": "8da614f2-ced1-40f5-9f5d-03eed3b9f175",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538721248711,
+        "parent_id": "2ade0562-a918-41e1-844d-4044b79f936c",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
       }
     ],
     "title": "Replace strings",

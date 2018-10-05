@@ -6,9 +6,11 @@ Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 function exitIfFailed { if ($LASTEXITCODE -ne 0) { exit } }
 
-go build -o ./preview.exe github.com/essentialbooks/books/cmd/gen-books
+Remove-Item -Force -ErrorAction SilentlyContinue ./gen.exe
+
+go build -o ./gen.exe ./cmd/gen-books
 exitIfFailed
 
-./preview.exe
+./gen.exe -analytics UA-113489735-1
 
-Remove-Item -Force -ErrorAction SilentlyContinue ./preview.exe
+Remove-Item -Force -ErrorAction SilentlyContinue ./gen.exe

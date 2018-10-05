@@ -32,7 +32,8 @@ func genNetlifyRedirectsForBook(b *Book) []string {
 	pages := b.GetAllPages()
 	for _, page := range pages {
 		id := page.NotionID
-		s := fmt.Sprintf(`/essential/%s/%s* /essential/%s/404.html 404`, b.Dir, id, b.Dir)
+		uri := page.URLLastPath()
+		s := fmt.Sprintf(`/essential/%s/%s* /essential/%s/%s 302`, b.Dir, id, b.Dir, uri)
 		// TODO: also add redirects for old article ids (only needed for Go book)
 		// alternatively just forget about it
 		res = append(res, s)

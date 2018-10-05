@@ -185,6 +185,10 @@ struct S, 5 field(s), size: 40 bytes
    name: 'N' type: 'int8', value: '0', offset: 32, size: 1
 
 |======|
+1857ee0b70dfb82252519f4cea9213490d4f008e:
+i: 4, i2: 0, s: , err: <nil>
+
+|======|
 1b0809fa3e95b6b18e7b8f24c7aafc62d587accc:
 Response status code: 200, text:
 {

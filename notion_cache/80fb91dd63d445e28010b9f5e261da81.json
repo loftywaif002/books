@@ -10,8 +10,9 @@
       "6e4e7ecf-a7c9-47a2-96f4-df46d15401a2",
       "692ddd64-a5f6-485e-b73d-a70e00890b0b",
       "9d14a5a5-b997-43b1-8f56-7e4ba56d5fe2",
-      "5f3722a0-7db0-4cd4-ac01-fef67cbad92b",
       "45eb3d50-1f9f-4ca6-8b1e-08ac9f0ec06a",
+      "6a7ae1b2-fbdf-453b-9e76-b5d6fa83dfff",
+      "67b2b000-7719-4b3c-ae65-c8f8b1d0fc68",
       "caf809ad-083c-4202-861d-a215926168cb",
       "30e84bdd-61fd-4732-8453-350e58025ccb",
       "2b831bac-5afc-4144-93cf-f5e06e8e4460",
@@ -23,7 +24,8 @@
       "6543212d-8e7d-4467-9711-d688dc00eb6a",
       "90b9baa6-982e-4dc1-a8ea-21976757cae5",
       "89c4539a-f43f-422c-8ccb-b720f9cfdaea",
-      "ef0d76af-9188-4e07-a1c5-a606f17a341c"
+      "ef0d76af-9188-4e07-a1c5-a606f17a341c",
+      "3d93460b-d45a-43c8-9135-8ca7a264bd8a"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155989204,
@@ -34,7 +36,7 @@
     "id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234883807,
+    "last_edited_time": 1538772816742,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -45,7 +47,7 @@
       ]
     },
     "type": "page",
-    "version": 48,
+    "version": 67,
     "content_resolved": [
       {
         "alive": true,
@@ -162,7 +164,7 @@
         "created_time": 1532234861859,
         "id": "692ddd64-a5f6-485e-b73d-a70e00890b0b",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234881837,
+        "last_edited_time": 1538772678778,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
@@ -177,19 +179,37 @@
               ]
             ],
             [
-              " of a map is nil"
+              " of a map is "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
             ]
           ]
         },
         "type": "text",
-        "version": 60,
+        "version": 70,
         "inline_content": [
           {
             "Text": "Zero value",
             "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
           },
           {
-            "Text": " of a map is nil"
+            "Text": " of a map is "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
           }
         ]
       },
@@ -200,46 +220,21 @@
         "id": "9d14a5a5-b997-43b1-8f56-7e4ba56d5fe2",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155989204,
+        "last_edited_time": 1538772772751,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "It’s called a dictionary in languages like C# or Python."
+              "Other languages call it a dictionary (C#, Python) or a hash table (C++)."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 193,
         "inline_content": [
           {
-            "Text": "It’s called a dictionary in languages like C# or Python."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155989204,
-        "id": "5f3722a0-7db0-4cd4-ac01-fef67cbad92b",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155989204,
-        "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "It’s called a hash table in C++."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "It’s called a hash table in C++."
+            "Text": "Other languages call it a dictionary (C#, Python) or a hash table (C++)."
           }
         ]
       },
@@ -266,6 +261,63 @@
             "Text": "Unlike most other languages, iteration over a map has a random order."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538772733935,
+        "id": "6a7ae1b2-fbdf-453b-9e76-b5d6fa83dfff",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538772751537,
+        "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Basics of maps:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 6,
+        "inline_content": [
+          {
+            "Text": "Basics of maps:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538772740382,
+        "format": {
+          "block_height": 727,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Findex.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "67b2b000-7719-4b3c-ae65-c8f8b1d0fc68",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538772811400,
+        "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Findex.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 727,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Findex.go"
+        }
       },
       {
         "alive": true,
@@ -389,19 +441,19 @@
         "id": "e177cb31-9729-4817-8031-4bfc62f7f565",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235123110,
+        "last_edited_time": 1538772919358,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Count number of map entries"
+              "Get map size (number of map entries)"
             ]
           ]
         },
         "type": "page",
-        "version": 23,
-        "title": "Count number of map entries",
+        "version": 90,
+        "title": "Get map size (number of map entries)",
         "format_page": {
           "page_cover": "",
           "page_cover_position": 0,
@@ -422,7 +474,7 @@
         "id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235163486,
+        "last_edited_time": 1538772972712,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
@@ -433,7 +485,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 37,
         "title": "Zero value of a map",
         "format_page": {
           "page_cover": "",
@@ -455,7 +507,7 @@
         "id": "d072e2f5-e118-4b51-88cc-80aeed96f150",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235198917,
+        "last_edited_time": 1538772999552,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
@@ -466,7 +518,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 32,
         "title": "Copy a map",
         "format_page": {
           "page_cover": "",
@@ -488,7 +540,7 @@
         "id": "c0554d1e-1b31-464a-9b5c-8463bd3c1095",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235207106,
+        "last_edited_time": 1538773304929,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
@@ -499,7 +551,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 45,
         "title": "Iterate over keys, values or both with range",
         "format_page": {
           "page_cover": "",
@@ -554,7 +606,7 @@
         "id": "90b9baa6-982e-4dc1-a8ea-21976757cae5",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235250169,
+        "last_edited_time": 1538773334870,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
@@ -565,7 +617,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 28,
         "title": "Use map as a set",
         "format_page": {
           "page_cover": "",
@@ -620,7 +672,7 @@
         "id": "ef0d76af-9188-4e07-a1c5-a606f17a341c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235263832,
+        "last_edited_time": 1538773375660,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
@@ -631,7 +683,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 30,
         "title": "Concurrent access of maps",
         "format_page": {
           "page_cover": "",
@@ -641,6 +693,18 @@
           "page_icon": "",
           "page_small_text": true
         }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538772816742,
+        "id": "3d93460b-d45a-43c8-9135-8ca7a264bd8a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538772816742,
+        "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "Maps",

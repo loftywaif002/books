@@ -16,16 +16,16 @@
       "f87bae19-a891-4764-b311-258b20ecb765",
       "4a43c500-25f0-4e43-9226-b9c671d0cea7",
       "a58e41f4-e794-4672-86b4-fc9be989a28c",
-      "dbc159b4-0f7b-4fb4-bbe6-e70027b1628b",
+      "db301d9a-ac1f-418e-aecf-dda8835149eb",
       "5ec1fe3d-dfc6-4d01-917b-50bd8418d920",
       "7df87500-f405-4270-9aa7-c471f0cd6679",
+      "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
       "a078a754-82bb-4e74-8a78-31acf0dd8f42",
       "3a371bbc-e192-452d-89d7-319753f7efa4",
       "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
       "a33c8902-27b8-4da4-9e67-9b6b7563c9ec",
       "64124d2d-3d2d-4015-9cb1-293792a3a77e",
       "ec777281-adf4-408b-a848-7dac9209b939",
-      "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
       "14c37a66-aeb6-48e7-b317-e93623700677"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -37,7 +37,7 @@
     "id": "f4005538-90d3-4185-ba79-5870807c2615",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532303099131,
+    "last_edited_time": 1538772515005,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -48,7 +48,7 @@
       ]
     },
     "type": "page",
-    "version": 53,
+    "version": 63,
     "content_resolved": [
       {
         "alive": true,
@@ -360,7 +360,7 @@
         "id": "a58e41f4-e794-4672-86b4-fc9be989a28c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155978162,
+        "last_edited_time": 1538772295451,
         "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
         "parent_table": "block",
         "properties": {
@@ -371,7 +371,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Basic of slices:"
@@ -381,27 +381,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155978162,
-        "id": "dbc159b4-0f7b-4fb4-bbe6-e70027b1628b",
-        "ignore_block_count": true,
+        "created_time": 1538772287818,
+        "format": {
+          "block_height": 316,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0080-slices%2Findex.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "db301d9a-ac1f-418e-aecf-dda8835149eb",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155978162,
+        "last_edited_time": 1538772292873,
         "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file index.go output sha1:0aad3a082470e1c324f760dbf3b616843908d2b2 goplayground:nuqqi6Y0fF6"
+              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0080-slices%2Findex.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file index.go output sha1:0aad3a082470e1c324f760dbf3b616843908d2b2 goplayground:nuqqi6Y0fF6"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 316,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0080-slices%2Findex.go"
+        }
       },
       {
         "alive": true,
@@ -439,6 +447,39 @@
         "type": "page",
         "version": 104,
         "title": "Create a slice",
+        "format_page": {
+          "page_cover": "",
+          "page_cover_position": 0,
+          "page_font": "",
+          "page_full_width": true,
+          "page_icon": "",
+          "page_small_text": true
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155982022,
+        "format": {
+          "page_full_width": true,
+          "page_small_text": true
+        },
+        "id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538772515005,
+        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Length and capacity"
+            ]
+          ]
+        },
+        "type": "page",
+        "version": 29,
+        "title": "Length and capacity",
         "format_page": {
           "page_cover": "",
           "page_cover_position": 0,
@@ -492,7 +533,7 @@
         "id": "3a371bbc-e192-452d-89d7-319753f7efa4",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234803313,
+        "last_edited_time": 1538772345536,
         "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
         "parent_table": "block",
         "properties": {
@@ -503,7 +544,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 30,
         "title": "Add slices",
         "format_page": {
           "page_cover": "",
@@ -525,7 +566,7 @@
         "id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234809035,
+        "last_edited_time": 1538772367986,
         "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
         "parent_table": "block",
         "properties": {
@@ -536,7 +577,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 28,
         "title": "Filter a slice",
         "format_page": {
           "page_cover": "",
@@ -591,7 +632,7 @@
         "id": "64124d2d-3d2d-4015-9cb1-293792a3a77e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234822789,
+        "last_edited_time": 1538772428556,
         "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
         "parent_table": "block",
         "properties": {
@@ -602,7 +643,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 28,
         "title": "Duplicate (create a copy of) a slice",
         "format_page": {
           "page_cover": "",
@@ -637,39 +678,6 @@
         "type": "page",
         "version": 28,
         "title": "Zero value of slice",
-        "format_page": {
-          "page_cover": "",
-          "page_cover_position": 0,
-          "page_font": "",
-          "page_full_width": true,
-          "page_icon": "",
-          "page_small_text": true
-        }
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155982022,
-        "format": {
-          "page_full_width": true,
-          "page_small_text": true
-        },
-        "id": "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532302961065,
-        "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Length and capacity"
-            ]
-          ]
-        },
-        "type": "page",
-        "version": 26,
-        "title": "Length and capacity",
         "format_page": {
           "page_cover": "",
           "page_cover_position": 0,

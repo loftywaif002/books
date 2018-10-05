@@ -7,6 +7,7 @@
       "337f7ea5-b1f0-49bb-8b36-15211c3f6a3f",
       "1484f4ee-299c-4f2b-9e1d-04f737addff9",
       "502e0bdc-8ba2-43fc-aa35-3c42fc199736",
+      "91bdb826-6b32-4613-9331-cb1df800fc2d",
       "63e231be-8a31-40a7-addd-a4a7ee99c2c7",
       "6b6796a0-bcb5-461e-9ba0-98585f6d94e9"
     ],
@@ -19,7 +20,7 @@
     "id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234809035,
+    "last_edited_time": 1538772367986,
     "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
     "parent_table": "block",
     "properties": {
@@ -30,7 +31,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 28,
     "content_resolved": [
       {
         "alive": true,
@@ -120,27 +121,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538772367986,
+        "format": {
+          "block_height": 376,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0080-slices%2Ffiltering_slice.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "91bdb826-6b32-4613-9331-cb1df800fc2d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538772372437,
+        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0080-slices%2Ffiltering_slice.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 376,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0080-slices%2Ffiltering_slice.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155986202,
         "id": "63e231be-8a31-40a7-addd-a4a7ee99c2c7",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155986202,
+        "last_edited_time": 1538772374424,
         "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file filtering_slice.go output sha1:50e9b620271bc3a5f45b02be9cfb01525aa7d798 goplayground:6nJnbUA0kj_Y"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file filtering_slice.go output sha1:50e9b620271bc3a5f45b02be9cfb01525aa7d798 goplayground:6nJnbUA0kj_Y"
-          }
-        ]
+        "version": 3
       },
       {
         "alive": true,

@@ -205,6 +205,7 @@ func main() {
 
 	os.RemoveAll("www")
 	createDirMust(filepath.Join("www", "s"))
+	createDirMust("log")
 
 	if flgUpdateOutput {
 		if flgRecreateOutput {

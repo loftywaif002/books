@@ -7,10 +7,11 @@
       "b6fefdf8-60a3-46bc-8636-4e6cba70e006",
       "8a67f349-9430-4d00-956e-3f07c649b3f6",
       "65f29d55-541e-47d7-9fb3-55d72f000733",
+      "34a54664-9317-4804-94c5-270dcc41ca06",
       "d6116221-ebd7-4d8e-95ef-4c52337216a2",
       "a08deac5-37f1-480e-b606-913f5f971909",
+      "e6cf2eee-2449-4ad4-89cf-164dcdf29534",
       "8e4a7f89-f7f1-48ee-807c-032ec433935d",
-      "665bcf9b-938f-4a31-9298-2b434c28fb21",
       "46803b78-c85d-415c-a043-c19c76d6d1aa"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -22,7 +23,7 @@
     "id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532235163486,
+    "last_edited_time": 1538772972712,
     "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
     "parent_table": "block",
     "properties": {
@@ -33,7 +34,7 @@
       ]
     },
     "type": "page",
-    "version": 25,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -195,27 +196,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538772943060,
+        "format": {
+          "block_height": 260,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Fzero_value.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "34a54664-9317-4804-94c5-270dcc41ca06",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538772976487,
+        "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Fzero_value.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 260,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Fzero_value.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155995912,
         "id": "d6116221-ebd7-4d8e-95ef-4c52337216a2",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155995912,
+        "last_edited_time": 1538772949653,
         "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file zero_value.go output sha1:2fdb095b28d8b58ad0bde153735ecec4c4201ea4 goplayground:MfIwOym0yKy"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file zero_value.go output sha1:2fdb095b28d8b58ad0bde153735ecec4c4201ea4 goplayground:MfIwOym0yKy"
-          }
-        ]
+        "version": 3
       },
       {
         "alive": true,
@@ -281,36 +303,44 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155995912,
-        "id": "8e4a7f89-f7f1-48ee-807c-032ec433935d",
-        "ignore_block_count": true,
+        "created_time": 1538772961492,
+        "format": {
+          "block_height": 345,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Fzero_value2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "e6cf2eee-2449-4ad4-89cf-164dcdf29534",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155995912,
+        "last_edited_time": 1538772969105,
         "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file zero_value2.go output allow_error sha1:e57d417eae9ce61d41605f144137d25a3fe3c0b0 goplayground:ALhSLNlHunv"
+              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Fzero_value2.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file zero_value2.go output allow_error sha1:e57d417eae9ce61d41605f144137d25a3fe3c0b0 goplayground:ALhSLNlHunv"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 345,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Fzero_value2.go"
+        }
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155995912,
-        "id": "665bcf9b-938f-4a31-9298-2b434c28fb21",
+        "id": "8e4a7f89-f7f1-48ee-807c-032ec433935d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155995912,
+        "last_edited_time": 1538772972712,
         "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
         "parent_table": "block",
         "properties": {
@@ -321,7 +351,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 5,
         "inline_content": [
           {
             "Text": "You should not read from or write to a zero value map."

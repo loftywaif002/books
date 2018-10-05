@@ -9,7 +9,8 @@
       "b6df0c35-a67d-4990-94f3-ad0cdcabfa30",
       "ca1422b0-0e6d-4441-9689-a7a3faac5c0d",
       "18e75490-ce3c-437f-bccf-f58613553d2d",
-      "5df54cb5-9353-4462-84e1-027f25aec43a"
+      "5df54cb5-9353-4462-84e1-027f25aec43a",
+      "117f103a-1bff-463f-891e-58249df8cd62"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155993120,
@@ -20,18 +21,18 @@
     "id": "e177cb31-9729-4817-8031-4bfc62f7f565",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532235123110,
+    "last_edited_time": 1538772919358,
     "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
     "parent_table": "block",
     "properties": {
       "title": [
         [
-          "Count number of map entries"
+          "Get map size (number of map entries)"
         ]
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 90,
     "content_resolved": [
       {
         "alive": true,
@@ -266,9 +267,21 @@
         "version": 3,
         "code": "var m map[string]int\nlen(m) // 0",
         "code_language": "Go"
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538772919358,
+        "id": "117f103a-1bff-463f-891e-58249df8cd62",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538772919358,
+        "parent_id": "e177cb31-9729-4817-8031-4bfc62f7f565",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
-    "title": "Count number of map entries",
+    "title": "Get map size (number of map entries)",
     "format_page": {
       "page_cover": "",
       "page_cover_position": 0,

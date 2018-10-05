@@ -8,9 +8,10 @@
       "bb5f41eb-1d60-4d2d-8d54-2b540ebf4276",
       "51c14d9f-7e7a-4913-b829-114fec8ff532",
       "5dcd4dd2-30fd-42b7-80da-bdacaf5233ba",
-      "7809c550-0f4a-4f7e-bb27-17d145e686c5",
+      "42db4601-95de-4d0f-a8ed-0b846d786435",
       "6ecb619e-0ebb-4871-88d1-d2eb69db3be6",
-      "ff529d9c-e367-4817-9d40-dd71ee1391ac"
+      "ff529d9c-e367-4817-9d40-dd71ee1391ac",
+      "60fe6c57-2a75-4c86-b40e-f1c894f83385"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155944164,
@@ -21,7 +22,7 @@
     "id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234041836,
+    "last_edited_time": 1538715648025,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -32,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 21,
+    "version": 30,
     "content_resolved": [
       {
         "alive": true,
@@ -126,7 +127,7 @@
         "id": "5dcd4dd2-30fd-42b7-80da-bdacaf5233ba",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155944162,
+        "last_edited_time": 1538715646465,
         "parent_id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
         "parent_table": "block",
         "properties": {
@@ -137,7 +138,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Channel basics:"
@@ -147,27 +148,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155944162,
-        "id": "7809c550-0f4a-4f7e-bb27-17d145e686c5",
-        "ignore_block_count": true,
+        "created_time": 1538715635792,
+        "format": {
+          "block_height": 332,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fchannels.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "42db4601-95de-4d0f-a8ed-0b846d786435",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155944162,
+        "last_edited_time": 1538715643580,
         "parent_id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file channels.go sha1:16306d0f4b79999c56ec3baa460985815e0de594 goplayground:IDU3P_smmjl"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fchannels.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file channels.go sha1:16306d0f4b79999c56ec3baa460985815e0de594 goplayground:IDU3P_smmjl"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 332,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fchannels.go"
+        }
       },
       {
         "alive": true,
@@ -250,6 +259,18 @@
             "Text": "."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538715648025,
+        "id": "60fe6c57-2a75-4c86-b40e-f1c894f83385",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538715648025,
+        "parent_id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "Channels",

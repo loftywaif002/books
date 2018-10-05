@@ -9,6 +9,7 @@
       "7ffd711c-6d56-4346-acb4-ab5451661178",
       "242a4b38-adec-4e0f-8362-8b6384bde059",
       "929d8e45-ba0d-4df1-81e5-09115689596f",
+      "0082eeea-abf7-41d9-a378-d8bd20730beb",
       "9d39c7f3-92d3-4369-847b-f651fa6e84c5",
       "1bcd9334-f289-40af-ae41-cf0d31273211",
       "f6863227-a71d-4485-bcad-db45917bae18",
@@ -23,7 +24,7 @@
     "id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532233943068,
+    "last_edited_time": 1538715524813,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -34,7 +35,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 28,
     "content_resolved": [
       {
         "alive": true,
@@ -174,27 +175,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538715524813,
+        "format": {
+          "block_height": 257,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fpointers.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "0082eeea-abf7-41d9-a378-d8bd20730beb",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538715532134,
+        "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fpointers.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 257,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fpointers.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155942153,
         "id": "9d39c7f3-92d3-4369-847b-f651fa6e84c5",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155942153,
+        "last_edited_time": 1538715536442,
         "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file pointers.go output sha1:102111b2ade42bb8c5942d838195a7ab483e2179 goplayground:EfKNIL0I1d6"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file pointers.go output sha1:102111b2ade42bb8c5942d838195a7ab483e2179 goplayground:EfKNIL0I1d6"
-          }
-        ]
+        "version": 3
       },
       {
         "alive": true,

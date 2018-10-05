@@ -3,12 +3,11 @@ Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 function exitIfFailed { if ($LASTEXITCODE -ne 0) { exit } }
 
-Remove-Item -Force -ErrorAction SilentlyContinue ./cmd/import-stack-overflow/import-stack-overflow
+Remove-Item -Force -ErrorAction SilentlyContinue ./importso.exe
 
-Set-Location -Path cmd/import-stack-overflow
-go build -o import-stack-overflow
-Set-Location -Path ../..
+go build -o importso.exe ./cmd/import-stack-overflow
 exitIfFailed
 
-./cmd/import-stack-overflow/import-stack-overflow $args
-Remove-Item -Force -ErrorAction SilentlyContinue ./cmd/import-stack-overflow/import-stack-overflow
+./importso.exe $args
+Remove-Item -Force -ErrorAction SilentlyContinue ./importso.exe
+

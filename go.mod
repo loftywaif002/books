@@ -10,7 +10,7 @@ require (
 	github.com/dlclark/regexp2 v1.1.6 // indirect
 	github.com/gomarkdown/markdown v0.0.0-20180907191918-6fda95a9e93f
 	github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869
-	github.com/kjk/notionapi v0.0.0-20180908100928-2bc97839a9b5
+	github.com/kjk/notionapi v0.0.0-20180920083932-ac6a64e41970
 	github.com/kjk/u v0.0.0-20170711051841-93181be023c9
 	github.com/mattn/go-isatty v0.0.4 // indirect
 	github.com/pkg/errors v0.8.0

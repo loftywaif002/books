@@ -246,17 +246,37 @@ func (g *HTMLGenerator) genEmbed(block *notionapi.Block) {
 		fmt.Printf("genEmbed: didn't find source file for url %s\n", uri)
 		return
 	}
-	// TODO: implement me
-	/*
+
+	{
 		var tmp bytes.Buffer
-		htmlHighlight(&tmp, string(block.Code), block.CodeLanguage, "")
+		code := f.DataCode()
+		lang := f.Lang
+		htmlHighlight(&tmp, string(code), lang, "")
 		d := tmp.Bytes()
-		var info CodeBlockInfo
-		// TODO: set Lang, GitHubURI and PlaygroundURI
+		info := CodeBlockInfo{
+			Lang:      f.Lang,
+			GitHubURI: f.GitHubURL,
+		}
+		if f.GoPlaygroundID != "" {
+			info.PlaygroundURI = "https://goplay.space/#" + f.GoPlaygroundID
+		}
 		s := fixupHTMLCodeBlock(string(d), &info)
 		g.f.WriteString(s)
-	*/
-	fmt.Printf("genEmbed() uri: %s\n", uri)
+	}
+
+	if len(f.Output) != 0 {
+		var tmp bytes.Buffer
+		code := f.DataCode()
+		htmlHighlight(&tmp, string(code), "text", "")
+		d := tmp.Bytes()
+		info := CodeBlockInfo{
+			Lang: "output",
+		}
+		s := fixupHTMLCodeBlock(string(d), &info)
+		g.f.WriteString(s)
+	}
+
+	//fmt.Printf("genEmbed() uri: %s\n", uri)
 }
 
 func (g *HTMLGenerator) genCollectionView(block *notionapi.Block) {

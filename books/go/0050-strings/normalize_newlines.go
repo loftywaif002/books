@@ -19,7 +19,7 @@ func NormalizeNewlines(d []byte) []byte {
 // :show end
 
 func main() {
-	d := "new\r\nline"
+	d := []byte("new\r\nline")
 	d = NormalizeNewlines(d)
 	fmt.Printf("%#v\n", string(d))
 }

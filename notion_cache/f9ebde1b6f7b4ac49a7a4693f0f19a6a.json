@@ -10,9 +10,11 @@
       "80ec251a-fac9-4745-980f-66269c7e751a",
       "cca1616c-eb84-4731-87ab-e9ca5cb984db",
       "6cb12223-8f47-4aac-b445-b35110eb75f4",
-      "7728aa14-ee84-4ca4-8988-3d328eabca9a",
+      "a6a9ba76-7f45-4190-88ed-fc70fcf59385",
       "16e8f18e-105d-473e-ba54-a7e425ba608a",
-      "e552ef68-bf07-4e69-ab1b-975022d4c2a9"
+      "a9eb6da7-7369-4058-87b2-23637368bf5c",
+      "e552ef68-bf07-4e69-ab1b-975022d4c2a9",
+      "01c9d1d5-26be-42dc-8195-a8153bfcb179"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155976118,
@@ -23,7 +25,7 @@
     "id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234680646,
+    "last_edited_time": 1538772021440,
     "parent_id": "58db8c9a-5650-4dea-b2e6-1f1e0fa4a0a6",
     "parent_table": "block",
     "properties": {
@@ -34,7 +36,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 40,
     "content_resolved": [
       {
         "alive": true,
@@ -231,7 +233,7 @@
         "id": "6cb12223-8f47-4aac-b445-b35110eb75f4",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155976117,
+        "last_edited_time": 1538772006354,
         "parent_id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
         "parent_table": "block",
         "properties": {
@@ -242,7 +244,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "For example:"
@@ -252,27 +254,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155976117,
-        "id": "7728aa14-ee84-4ca4-8988-3d328eabca9a",
-        "ignore_block_count": true,
+        "created_time": 1538771997134,
+        "format": {
+          "block_height": 391,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Farray_indexes.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "a6a9ba76-7f45-4190-88ed-fc70fcf59385",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155976117,
+        "last_edited_time": 1538772003179,
         "parent_id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file array_indexes.go output sha1:33f5350a8cc56ec861d63ae233ab9295f6a9914d goplayground:6XD0m-9WltV"
+              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Farray_indexes.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file array_indexes.go output sha1:33f5350a8cc56ec861d63ae233ab9295f6a9914d goplayground:6XD0m-9WltV"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 391,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Farray_indexes.go"
+        }
       },
       {
         "alive": true,
@@ -302,27 +312,60 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538772021440,
+        "format": {
+          "block_height": 525,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Farray_indexes2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "a9eb6da7-7369-4058-87b2-23637368bf5c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538772027616,
+        "parent_id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Farray_indexes2.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 525,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Farray_indexes2.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155976118,
         "id": "e552ef68-bf07-4e69-ab1b-975022d4c2a9",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155976118,
+        "last_edited_time": 1538772029253,
         "parent_id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file array_indexes2.go output sha1:85b388de6ff2dcc3fbe68828164dbb4fdd96860d goplayground:ynkxqipMcV7"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file array_indexes2.go output sha1:85b388de6ff2dcc3fbe68828164dbb4fdd96860d goplayground:ynkxqipMcV7"
-          }
-        ]
+        "version": 3
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538772016953,
+        "id": "01c9d1d5-26be-42dc-8195-a8153bfcb179",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538772016953,
+        "parent_id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "Array indexes",

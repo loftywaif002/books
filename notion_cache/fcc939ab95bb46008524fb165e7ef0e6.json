@@ -10,13 +10,13 @@
       "c7e038a6-9c50-4ea8-9314-f7dbe5e00d3a",
       "c9af6ce8-0680-47ad-abdd-9191d3723a00",
       "269ba7e3-5013-4f41-b017-5d418ffa4330",
-      "d7144aa2-cb7b-451b-802d-367b58202e69",
+      "78a1de50-5461-4f42-85b2-c14e23c9e580",
       "336e80f1-5083-4fe4-9dca-f01383712795",
       "1def7b5e-8960-4822-8364-b408e0226ed7",
       "59d0d46d-fc0a-43c2-8bac-046cf28f136c",
       "dee7d1a8-c6a3-4b09-8397-032753e8aafc",
       "928048f8-0a38-44f8-80d0-a508d6c52937",
-      "ac0a9928-20e5-4ab3-9e22-dec6ec5d5532",
+      "3e83c6c9-5e35-408a-af61-284e6963850d",
       "98fc5135-455e-4b02-ba55-d6b4639d57f4",
       "2278cfb4-eaa2-45f1-82b1-50d3ce2bd577",
       "88d8c008-c817-4dd2-8b8d-ad5e85b02f4d",
@@ -31,7 +31,7 @@
     "id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234559616,
+    "last_edited_time": 1538771773597,
     "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
     "parent_table": "block",
     "properties": {
@@ -42,7 +42,7 @@
       ]
     },
     "type": "page",
-    "version": 29,
+    "version": 43,
     "content_resolved": [
       {
         "alive": true,
@@ -218,7 +218,7 @@
         "id": "269ba7e3-5013-4f41-b017-5d418ffa4330",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155973227,
+        "last_edited_time": 1538771744332,
         "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
         "parent_table": "block",
         "properties": {
@@ -229,7 +229,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "You can see this in this example:"
@@ -239,27 +239,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155973227,
-        "id": "d7144aa2-cb7b-451b-802d-367b58202e69",
-        "ignore_block_count": true,
+        "created_time": 1538771737172,
+        "format": {
+          "block_height": 546,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0060-pointers%2Fpointer_methods.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "78a1de50-5461-4f42-85b2-c14e23c9e580",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155973227,
+        "last_edited_time": 1538771742300,
         "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file pointer_methods.go output sha1:db09cfa9a5d39dd638eda6b7eab0e658c0642dee goplayground:hHqYV-X605Z"
+              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0060-pointers%2Fpointer_methods.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file pointer_methods.go output sha1:db09cfa9a5d39dd638eda6b7eab0e658c0642dee goplayground:hHqYV-X605Z"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 546,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0060-pointers%2Fpointer_methods.go"
+        }
       },
       {
         "alive": true,
@@ -387,7 +395,7 @@
         "id": "928048f8-0a38-44f8-80d0-a508d6c52937",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155973229,
+        "last_edited_time": 1538771773597,
         "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
         "parent_table": "block",
         "properties": {
@@ -398,7 +406,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "You can see this in this example:"
@@ -408,27 +416,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155973229,
-        "id": "ac0a9928-20e5-4ab3-9e22-dec6ec5d5532",
-        "ignore_block_count": true,
+        "created_time": 1538771758535,
+        "format": {
+          "block_height": 571,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0060-pointers%2Fvalue_methods.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "3e83c6c9-5e35-408a-af61-284e6963850d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155973229,
+        "last_edited_time": 1538771775926,
         "parent_id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file value_methods.go output sha1:22bffb5e9cb5efd7631839d4296d1203cb5fc568 goplayground:OuqIxPF10ef"
+              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0060-pointers%2Fvalue_methods.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file value_methods.go output sha1:22bffb5e9cb5efd7631839d4296d1203cb5fc568 goplayground:OuqIxPF10ef"
-          }
-        ]
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 571,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0060-pointers%2Fvalue_methods.go"
+        }
       },
       {
         "alive": true,

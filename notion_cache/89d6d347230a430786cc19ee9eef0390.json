@@ -10,6 +10,7 @@
       "348f90d2-180b-4bc2-95a8-3730797f4ad5",
       "5f862105-d375-45d9-9eae-46b1b4521f5f",
       "6bced4ae-5403-4738-9d2d-d644bfbed4fd",
+      "878c2f15-2282-4f6b-8e0f-a7c875c688c9",
       "a2436966-e07c-464d-af18-76d2dbaf9098"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -21,7 +22,7 @@
     "id": "89d6d347-230a-4307-86cc-19ee9eef0390",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234674182,
+    "last_edited_time": 1538771970272,
     "parent_id": "58db8c9a-5650-4dea-b2e6-1f1e0fa4a0a6",
     "parent_table": "block",
     "properties": {
@@ -32,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 28,
     "content_resolved": [
       {
         "alive": true,
@@ -322,27 +323,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538771970272,
+        "format": {
+          "block_height": 712,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Fcreating_arrays.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "878c2f15-2282-4f6b-8e0f-a7c875c688c9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538771976439,
+        "parent_id": "89d6d347-230a-4307-86cc-19ee9eef0390",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Fcreating_arrays.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 712,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Fcreating_arrays.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155975149,
         "id": "a2436966-e07c-464d-af18-76d2dbaf9098",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155975149,
+        "last_edited_time": 1538771978712,
         "parent_id": "89d6d347-230a-4307-86cc-19ee9eef0390",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file creating_arrays.go output sha1:41073e023bad52902324f22742030dcb397b3777 goplayground:GrPLrDE2Gdt"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file creating_arrays.go output sha1:41073e023bad52902324f22742030dcb397b3777 goplayground:GrPLrDE2Gdt"
-          }
-        ]
+        "version": 3
       }
     ],
     "title": "Create array",

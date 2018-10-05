@@ -10,11 +10,13 @@
       "02b16686-da00-4811-a65f-ec77ffd11aa0",
       "31721ced-32cb-488a-a084-3751ac134068",
       "2177f036-24fd-484c-a297-019bd2f83200",
+      "8fd139ea-23ef-4e8c-acce-2f821489d91c",
       "7f4b53e2-408e-4f98-ab48-5ab5a29eca13",
       "6dda3381-7368-4c22-85cf-21e769e62c93",
       "ce096b4e-b8ff-44d2-b6f0-cd8904174175",
       "d4de8477-e062-4c50-b0cf-fafe8847293b",
-      "fcc939ab-95bb-4600-8524-fb165e7ef0e6"
+      "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
+      "d5ac5f98-35c6-4942-ac79-33a5cb48d7bb"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155970205,
@@ -25,7 +27,7 @@
     "id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234493073,
+    "last_edited_time": 1538771573622,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -36,7 +38,7 @@
       ]
     },
     "type": "page",
-    "version": 26,
+    "version": 33,
     "content_resolved": [
       {
         "alive": true,
@@ -129,21 +131,21 @@
         "id": "02b16686-da00-4811-a65f-ec77ffd11aa0",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155970203,
+        "last_edited_time": 1538722146980,
         "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Unlike C++, Go doesn’t allow pointer arithmetic. You can’t add or substract from pointers."
+              "Unlike C++, Go doesn’t allow pointer arithmetic. You can’t add to or subtract from pointers."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 9,
         "inline_content": [
           {
-            "Text": "Unlike C++, Go doesn’t allow pointer arithmetic. You can’t add or substract from pointers."
+            "Text": "Unlike C++, Go doesn’t allow pointer arithmetic. You can’t add to or subtract from pointers."
           }
         ]
       },
@@ -154,16 +156,13 @@
         "id": "31721ced-32cb-488a-a084-3751ac134068",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234508961,
+        "last_edited_time": 1538723538029,
         "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "A "
-            ],
-            [
-              "zero value",
+              "Zero value",
               [
                 [
                   "a",
@@ -188,13 +187,10 @@
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 28,
         "inline_content": [
           {
-            "Text": "A "
-          },
-          {
-            "Text": "zero value",
+            "Text": "Zero value",
             "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
           },
           {
@@ -237,27 +233,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538771573622,
+        "format": {
+          "block_height": 417,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0060-pointers%2Findex.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "8fd139ea-23ef-4e8c-acce-2f821489d91c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538771585626,
+        "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0060-pointers%2Findex.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 417,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0060-pointers%2Findex.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155970205,
         "id": "7f4b53e2-408e-4f98-ab48-5ab5a29eca13",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155970205,
+        "last_edited_time": 1538771580113,
         "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file index.go output sha1:75e8c923b28ace7ef669c63f68cdbd6102399ff3 goplayground:XSdbT3RvDMQ"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file index.go output sha1:75e8c923b28ace7ef669c63f68cdbd6102399ff3 goplayground:XSdbT3RvDMQ"
-          }
-        ]
+        "version": 3
       },
       {
         "alive": true,
@@ -282,7 +299,7 @@
         "id": "ce096b4e-b8ff-44d2-b6f0-cd8904174175",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234519336,
+        "last_edited_time": 1538771658203,
         "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
         "parent_table": "block",
         "properties": {
@@ -293,7 +310,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 37,
         "title": "Basics of pointers",
         "format_page": {
           "page_cover": "",
@@ -315,7 +332,7 @@
         "id": "d4de8477-e062-4c50-b0cf-fafe8847293b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234541942,
+        "last_edited_time": 1538771710942,
         "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
         "parent_table": "block",
         "properties": {
@@ -326,7 +343,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 30,
         "title": "Dereferencing pointers",
         "format_page": {
           "page_cover": "",
@@ -348,7 +365,7 @@
         "id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234559616,
+        "last_edited_time": 1538771773597,
         "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
         "parent_table": "block",
         "properties": {
@@ -359,7 +376,7 @@
           ]
         },
         "type": "page",
-        "version": 29,
+        "version": 43,
         "title": "Pointer vs. value methods",
         "format_page": {
           "page_cover": "",
@@ -369,6 +386,18 @@
           "page_icon": "",
           "page_small_text": true
         }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538722149626,
+        "id": "d5ac5f98-35c6-4942-ac79-33a5cb48d7bb",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538722149626,
+        "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "Pointers",

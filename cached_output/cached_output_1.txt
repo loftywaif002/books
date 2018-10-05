@@ -378,6 +378,10 @@ setIntPtrWithString panicked with 'reflect: call of reflect.Value.SetString on i
 f: 1.234100
 
 |======|
+3cf55b62a2efea5f78fe0916ea6345c3742b1b51:
+[2][4][3][2]string{[4][3][2]string{[3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}}, [4][3][2]string{[3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}}}
+
+|======|
 3dcb9b70beb7ef43c5a4249787d9be3f49eb59f6:
 doc: map[string]interface {}{"name":"Jane", "age":24, "city":"ny"}
 name: "Jane"
@@ -1079,6 +1083,10 @@ routine 6 finished
 routine 7 finished
 routine 8 finished
 main finished
+
+|======|
+b2c91a29ff0657ad6e5262bb324c5fd3ddb0bc6d:
+[2][4][3][2]string{[4][3][2]string{[3][2]string{[2]string{"All zero indexes", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}}, [4][3][2]string{[3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", "All indexes to max"}}}}
 
 |======|
 b356e0b915964a1504f5a83b87095f46a297995e:

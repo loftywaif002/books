@@ -1,3 +1,4 @@
+// no playground
 package main
 
 import (

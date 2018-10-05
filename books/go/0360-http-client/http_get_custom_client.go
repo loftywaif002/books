@@ -1,3 +1,4 @@
+// allow error, no playground
 package main
 
 import (

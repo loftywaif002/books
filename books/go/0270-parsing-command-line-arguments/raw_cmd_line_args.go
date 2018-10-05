@@ -1,4 +1,5 @@
 // :run go run $file -echo echo-arg additional arg
+// no playground
 package main
 
 import (

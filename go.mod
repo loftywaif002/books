@@ -7,6 +7,7 @@ require (
 	github.com/alecthomas/repr v0.0.0-20180920225502-7ed41413b477 // indirect
 	github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc
 	github.com/danwakefield/fnmatch v0.0.0-20160403171240-cbb64ac3d964 // indirect
+	github.com/derekparker/delve v1.1.0 // indirect
 	github.com/dlclark/regexp2 v1.1.6 // indirect
 	github.com/gomarkdown/markdown v0.0.0-20180907191918-6fda95a9e93f
 	github.com/google/shlex v0.0.0-20150127133951-6f45313302b9

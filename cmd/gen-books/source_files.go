@@ -240,9 +240,7 @@ func loadSourceFile(path string) (*SourceFile, error) {
 	}
 	setGoPlaygroundID(sf)
 	err = getOutputCached(sf)
-	fmt.Printf("loadSourceFile('%s'), lang: '%s', len(code): %d\n", path, lang, len(sf.DataCode()))
-
-	// TODO: get output
+	fmt.Printf("loadSourceFile('%s'), lang: '%s': %d\n", path, lang)
 	return sf, nil
 }
 

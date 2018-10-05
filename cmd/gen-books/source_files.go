@@ -41,7 +41,7 @@ func parseFileDirective(line string) (*FileDirective, error) {
 		case "no output":
 			res.NoOutput = true
 			hasInfo = true
-		case "no playground":
+		case "no playground", "noplayground":
 			res.NoPlayground = true
 			hasInfo = true
 		case "allow error":

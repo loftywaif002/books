@@ -1,4 +1,5 @@
 // :run go run -race $file
+// allow error
 package main
 
 import (

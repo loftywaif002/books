@@ -1,3 +1,4 @@
+// allow error
 package main
 
 func main() {

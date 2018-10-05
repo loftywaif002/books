@@ -228,8 +228,10 @@ func main() {
 
 	if flgUpdateOutput {
 		saveCachedOutputFiles()
-		gitAddCachedOutputFiles()
-		return
+		if !flgPreview {
+			gitAddCachedOutputFiles()
+			return
+		}
 	}
 
 	if flgPreview {

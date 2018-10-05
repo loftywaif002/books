@@ -222,6 +222,7 @@ func main() {
 	printAndClearErrors()
 
 	if flgUpdateOutput {
+		saveCachedOutputFiles()
 		gitAddCachedOutputFiles()
 		return
 	}

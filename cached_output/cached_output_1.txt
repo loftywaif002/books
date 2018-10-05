@@ -1,3 +1,8 @@
+03a625cb629a04ae327b1b5d6476cac59b8e1e1c:
+f32: 1.3E+00
+f64: 8.1234e+00
+
+|======|
 03ed766a1f67638ffe2cf94ead362f031365e29e:
 'hey' is in greetings
 
@@ -24,6 +29,21 @@ a[0]: 3
 elRef.CanAddr(): true
 elRef.CanSet(): true
 a: [3 5 8]
+
+|======|
+06d51f27fa295890b49d304a6db7d3bfd40de019:
+zero bool:       false
+zero int:        0
+zero f32:        0
+zero string:     ""
+zero ptr:        <nil>
+zero slice:      []uint32(nil)
+zero map:        map[string]int(nil)
+zero interface:  <nil>
+zero channel:    <nil>
+zero array:      [0 0 0 0 0]
+zero struct:     main.struc{a:0, b:""}
+zero function:   <nil>
 
 |======|
 073b9baaf272070a3b24f8df5f3239c52f7d12ec:
@@ -915,6 +935,10 @@ Value: 5. Type: 'pointer to pointer to int' i.e. '**int'.
 
 
 |======|
+9fff70175d6488a750f789f2a6aaae216de3ba4c:
+f64: 1.234100
+
+|======|
 a0ae0ab967ab9b8335775d8599f603788bc33765:
 m["foo"] = 
 ok: false
@@ -1145,6 +1169,16 @@ c4cb0ff0e0cf28070bb008ef05f573d842a0ed36:
 didTimeout: true, err: signal: killed
 
 |======|
+c54a3645e4a64bd2f14d1c96596e87f9a54924dc:
+sum of strings
+'string
+literal
+with	escape characters
+raw string literal
+which doesnt't recgonize escape characters like \n
+'
+
+|======|
 c595aab5e5dd9ed7fa5ceb1581ed1813a093726f:
 key: three, value: 3
 key: five, value: 5
@@ -1239,6 +1273,10 @@ date,price,name
 2013-02-08,"15,07",GOOG
 2013-02-09,"15,09",GOOG
 
+
+|======|
+da6b9306f059bb8aa5a0adc0ac4d0ef6a90f02e9:
+n: 3
 
 |======|
 da72683a18e6698c532d3dd9bd2c73e3d4dde426:

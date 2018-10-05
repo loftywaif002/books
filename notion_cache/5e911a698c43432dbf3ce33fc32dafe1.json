@@ -5,11 +5,9 @@
     "content": [
       "18cf58d1-6399-4571-bc19-79963ced24ec",
       "0694b7e1-dd82-43f0-a8d1-8b6947ebc5e4",
-      "a811cd9a-fe19-4ee3-a450-10eb76fd87e3",
-      "1d41aa24-49c4-4dd3-86d9-96cffc1604e7",
-      "3ff1c5ff-4acb-4cb7-8250-1ae1e054c20f",
+      "05d83e0a-8294-41f8-8dc3-1cef3d9ee1f7",
       "afb6fae9-4e08-4fd0-8384-300f4d92da45",
-      "aebdbe21-1c75-42ad-aa83-f1843044b1b9",
+      "f7647942-138e-4bb6-85c9-80dca14a2647",
       "2381037e-8874-4db7-80df-fe0472d99885",
       "393a4717-4330-4998-b25d-388a8ff7556f",
       "e6085895-f34a-4fb7-beb5-5f0e460ea905",
@@ -24,7 +22,7 @@
     "id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234131552,
+    "last_edited_time": 1538719592025,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -35,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 24,
+    "version": 43,
     "content_resolved": [
       {
         "alive": true,
@@ -88,100 +86,14 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532194994326,
-        "id": "a811cd9a-fe19-4ee3-a450-10eb76fd87e3",
+        "created_time": 1538719582152,
+        "id": "05d83e0a-8294-41f8-8dc3-1cef3d9ee1f7",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532194994337,
+        "last_edited_time": 1538719592025,
         "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
         "parent_table": "block",
         "type": "text",
-        "version": 6
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155948196,
-        "id": "1d41aa24-49c4-4dd3-86d9-96cffc1604e7",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234155272,
-        "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Variable declaration follows ${"
-            ],
-            [
-              "name}",
-              [
-                [
-                  "b"
-                ]
-              ]
-            ],
-            [
-              " ${"
-            ],
-            [
-              "type}",
-              [
-                [
-                  "b"
-                ]
-              ]
-            ],
-            [
-              " format."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 49,
-        "inline_content": [
-          {
-            "Text": "Variable declaration follows ${"
-          },
-          {
-            "Text": "name}",
-            "AttrFlags": 1
-          },
-          {
-            "Text": " ${"
-          },
-          {
-            "Text": "type}",
-            "AttrFlags": 1
-          },
-          {
-            "Text": " format."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155948196,
-        "id": "3ff1c5ff-4acb-4cb7-8250-1ae1e054c20f",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155948196,
-        "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "It’s a different order than C. On the plus side it’s more consistent and complex declarations are easier to write."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "It’s a different order than C. On the plus side it’s more consistent and complex declarations are easier to write."
-          }
-        ]
+        "version": 14
       },
       {
         "alive": true,
@@ -190,7 +102,7 @@
         "id": "afb6fae9-4e08-4fd0-8384-300f4d92da45",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155948196,
+        "last_edited_time": 1538719523939,
         "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
         "parent_table": "block",
         "properties": {
@@ -201,7 +113,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Various ways of defining variables:"
@@ -211,27 +123,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155948196,
-        "id": "aebdbe21-1c75-42ad-aa83-f1843044b1b9",
-        "ignore_block_count": true,
+        "created_time": 1538719509650,
+        "format": {
+          "block_height": 820.9861450195312,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0030-variables%2Findex.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "f7647942-138e-4bb6-85c9-80dca14a2647",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155948196,
+        "last_edited_time": 1538719599324,
         "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file index.go sha1:db9723cae93aaeb7bd5d572c3a6c6cdbacab8d9e goplayground:H3LjiprdgBF"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0030-variables%2Findex.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file index.go sha1:db9723cae93aaeb7bd5d572c3a6c6cdbacab8d9e goplayground:H3LjiprdgBF"
-          }
-        ]
+        "type": "embed",
+        "version": 14,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 820.9861450195312,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0030-variables%2Findex.go"
+        }
       },
       {
         "alive": true,
@@ -256,7 +176,7 @@
         "id": "393a4717-4330-4998-b25d-388a8ff7556f",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234161807,
+        "last_edited_time": 1538719656375,
         "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
         "parent_table": "block",
         "properties": {
@@ -267,7 +187,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 28,
         "title": "Basic variable declaration",
         "format_page": {
           "page_cover": "",
@@ -289,7 +209,7 @@
         "id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234169402,
+        "last_edited_time": 1538719756639,
         "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
         "parent_table": "block",
         "properties": {
@@ -300,7 +220,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 37,
         "title": "Multiple variable assignment",
         "format_page": {
           "page_cover": "",
@@ -322,7 +242,7 @@
         "id": "1ac75368-0907-4689-b3f8-041d7a2b1e4a",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234177284,
+        "last_edited_time": 1538719840078,
         "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
         "parent_table": "block",
         "properties": {
@@ -333,7 +253,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 33,
         "title": "Blank identifier",
         "format_page": {
           "page_cover": "",

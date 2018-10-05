@@ -205,8 +205,13 @@ func main() {
 
 	os.RemoveAll("www")
 	createDirMust(filepath.Join("www", "s"))
+
 	if flgUpdateOutput {
-		gitRemoveCachedOutputFiles()
+		if flgRecreateOutput {
+			os.RemoveAll(cachedOutputDir)
+		}
+		err := os.MkdirAll(cachedOutputDir, 0755)
+		panicIfErr(err)
 	}
 	reloadCachedOutputFilesMust()
 

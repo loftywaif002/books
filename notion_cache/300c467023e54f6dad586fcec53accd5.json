@@ -7,7 +7,7 @@
       "0968cbc2-7501-4ac9-aa09-04ddf20aa495",
       "cd8fa42c-7596-4d8f-8a98-24ce5620085c",
       "09b5d8bb-c21d-4dd3-bc20-05ccbdb7c6ec",
-      "2eee5bd0-6da0-47f8-8f2e-bfbbb233937a",
+      "2edc0001-5a4c-4408-8674-5cea6deb9966",
       "df89d3a2-4d21-4de0-8b76-6da608e07f74"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -19,7 +19,7 @@
     "id": "300c4670-23e5-4f6d-ad58-6fcec53accd5",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234381734,
+    "last_edited_time": 1538721090623,
     "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
     "parent_table": "block",
     "properties": {
@@ -30,7 +30,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 30,
     "content_resolved": [
       {
         "alive": true,
@@ -138,27 +138,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155964168,
-        "id": "2eee5bd0-6da0-47f8-8f2e-bfbbb233937a",
-        "ignore_block_count": true,
+        "created_time": 1538721077155,
+        "format": {
+          "block_height": 367,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fsplit_join.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "2edc0001-5a4c-4408-8674-5cea6deb9966",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155964168,
+        "last_edited_time": 1538721086906,
         "parent_id": "300c4670-23e5-4f6d-ad58-6fcec53accd5",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file split_join.go output sha1:2d51e4552b5146775491406975805d3a047620f9 goplayground:HCjanF_4FQW"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fsplit_join.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file split_join.go output sha1:2d51e4552b5146775491406975805d3a047620f9 goplayground:HCjanF_4FQW"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 367,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fsplit_join.go"
+        }
       },
       {
         "alive": true,

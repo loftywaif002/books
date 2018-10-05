@@ -8,6 +8,7 @@
       "b392d710-2016-44cb-9f28-5f73fd5fcbe3",
       "dd719bc9-5b2c-4f8a-b361-b9a64eccf838",
       "d8799061-e33b-4d19-9f26-15802554155c",
+      "4de41b80-cf0f-417a-b060-4d1d0b66f0ce",
       "806d52f6-5aaa-4d76-ab72-1544d7bb1ee4"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -19,7 +20,7 @@
     "id": "4af21f3b-f1f7-4c10-bdbe-f02408ffa43b",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234353186,
+    "last_edited_time": 1538720868406,
     "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
     "parent_table": "block",
     "properties": {
@@ -30,7 +31,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 28,
     "content_resolved": [
       {
         "alive": true,
@@ -144,27 +145,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538720868406,
+        "format": {
+          "block_height": 328.9895935058594,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fconvert_case.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "4de41b80-cf0f-417a-b060-4d1d0b66f0ce",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538720883021,
+        "parent_id": "4af21f3b-f1f7-4c10-bdbe-f02408ffa43b",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fconvert_case.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 328.9895935058594,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fconvert_case.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532155959124,
         "id": "806d52f6-5aaa-4d76-ab72-1544d7bb1ee4",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155959124,
+        "last_edited_time": 1538720879048,
         "parent_id": "4af21f3b-f1f7-4c10-bdbe-f02408ffa43b",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file convert_case.go output sha1:2b671174f922a34ae2f56898c99948d2c8143b70 goplayground:FENXIfvXhN_M"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file convert_case.go output sha1:2b671174f922a34ae2f56898c99948d2c8143b70 goplayground:FENXIfvXhN_M"
-          }
-        ]
+        "version": 3
       }
     ],
     "title": "Convert to lower case or upper case",

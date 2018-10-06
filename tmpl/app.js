@@ -70,9 +70,7 @@ function viewClear() {
   storeClear(keyIndexView);
 }
 
-// nav = navigateToURL, we want this to be short
-// because it's used in
-function nav(targetEl) {
+function navigateToURL(targetEl) {
   //console.log("nav:", targetEl);
   var el = document.getElementById("toc");
   //console.log("el:", el);
@@ -82,7 +80,7 @@ function nav(targetEl) {
 
 // rv = rememberView but short because it's part of url
 function rv(view) {
-  console.log("rv:", view);
+  //console.log("rv:", view);
   viewSet(view);
 }
 
@@ -303,15 +301,14 @@ function triggerUIRebuild() {
 }
 
 function requestRebuildUI(now) {
-  // debounce the requests
+  // collapse multiple requests into one
   if (rebuildUITimer != null) {
-    window.cancelAnimationFrame(rebuildUITimer);
-    rebuildUITimer = null;
+    return;
   }
   if (now) {
     triggerUIRebuild();
   } else {
-    window.requestAnimationFrame(triggerUIRebuild);
+    rebuildUITimer = window.requestAnimationFrame(triggerUIRebuild);
   }
 }
 
@@ -321,12 +318,9 @@ function setState(newState, now = false) {
   for (var k in newState) {
     vOld = currentState[k];
     vNew = newState[k];
-    if (stateChanged) {
-      // avoid calling areValuesEqual if we're updating the state anyway
-      currentState[k] = vNew;
-    } else if (!Object.is(vOld, vNew)) {
+    currentState[k] = vNew;
+    if (!stateChanged && !Object.is(vOld, vNew)) {
       stateChanged = true;
-      currentState[k] = vNew;
     }
   }
   if (stateChanged) {
@@ -589,7 +583,7 @@ function notExpandedSvg() {
 
 var aOpt = {
   cls: "toc-link",
-  onclick: "nav(this)",
+  onclick: "navigateToURL(this)",
 };
 
 function genTocExpanded(tocItem, tocItemIdx, level, isCurrent) {
@@ -971,37 +965,57 @@ function getTocItemFromElementId(id) {
   return extractIntID(id);
 }
 
-// if search result item is
-function onClick(ev) {
-  var el = ev.target;
-  if (el.id === "blur-overlay") {
-    dismissSearch();
-    ev.stopPropagation();
-    return;
-  }
-
-  /*
-  We want to detect 2 kinds of clicks:
-    - on search results
-    - on toc item
-  Since a child element might be clicked, we need to
-  traverse up until we find desired parent or top
-  of document
-  */
+// If we clicked on search result list, navigate to that result.
+function trySearchResultNavigate(el) {
+  // Since a child element might be clicked, we need to traverse up until
+  // we find desired parent or top of document.
   while (el) {
     var idx = getIdxFromSearchResultElementId(el.id);
     if (idx >= 0) {
       navigateToSearchResult(idx);
-      ev.stopPropagation();
-      return;
-    }
-    idx = getTocItemFromElementId(el.id);
-    if (idx >= 0) {
-      toggleTocItem(idx);
-      ev.stopPropagation();
-      return;
+      return true;
     }
     el = el.parentNode;
+  }
+  return false;
+}
+
+// If we clicked on toc item, collapse or expand it.
+function tryToggleTocItem(el) {
+  // Since a child element might be clicked, we need to traverse up until
+  // we find desired parent or top of document.
+  while (el) {
+    var idx = getTocItemFromElementId(el.id);
+    if (idx >= 0) {
+      toggleTocItem(idx);
+      return true;
+    }
+    el = el.parentNode;
+  }
+  return false
+}
+
+// have to do navigation in onMouseDown because when done in onClick,
+// the blur event from input element swallows following onclick, so
+// I had to click twice on search result
+function onMouseDown(ev) {
+  var el = ev.target;
+  //console.log("onMouseDown ev:", ev, "el:", el);
+  if (trySearchResultNavigate(el)) {
+    return;
+  }
+}
+
+function onClick(ev) {
+  var el = ev.target;
+  //console.log("onClick ev:", ev, "el:", el);
+  if (el.id === "blur-overlay") {
+    dismissSearch();
+    return;
+  }
+
+  if (tryToggleTocItem(el)) {
+    return;
   }
   // possibly dismiss search results
   setState({
@@ -1047,7 +1061,7 @@ function onKeySlash(ev) {
   setState({
     searchInputFocused: true
   });
-  ev.preventDefault();
+  //ev.preventDefault();
 }
 
 function onEscape(ev) {
@@ -1116,24 +1130,27 @@ function onSearchInputFocus(ev) {
 }
 
 function onSearchInputBlur(ev) {
+  var el = ev.target;
+  //console.log("onSearchInputBlur, ev:", ev, "el:", el);
   setState({
     searchInputFocused: false
   });
-  ev.preventDefault();
 }
 
 function start() {
   //console.log("started");
 
-  document.addEventListener("keydown", onKeyDown, true);
+  document.addEventListener("keydown", onKeyDown);
 
   var el = getSearchInputElement();
-  el.addEventListener("input", onSearchInputChanged, true);
-  el.addEventListener("focus", onSearchInputFocus, true);
-  el.addEventListener("blur", onSearchInputBlur, true);
+  el.addEventListener("input", onSearchInputChanged);
+  el.addEventListener("focus", onSearchInputFocus);
+  el.addEventListener("blur", onSearchInputBlur);
 
-  document.addEventListener("mousemove", onMouseMove, true);
-  document.addEventListener("click", onClick, false);
+  document.addEventListener("mousemove", onMouseMove);
+  document.addEventListener("mousedown", onMouseDown);
+  document.addEventListener("click", onClick);
+
 
   var uri = getLocationLastElement();
   if (!isChapterOrArticleURL(uri)) {
@@ -1150,7 +1167,7 @@ function start() {
   }
   var scrollTop = scrollPosGet() || -1;
   if (scrollTop >= 0) {
-    console.log("scrollTop:", scrollTop);
+    //console.log("scrollTop:", scrollTop);
     var el = document.getElementById("toc");
     el.scrollTop = scrollTop;
     scrollPosClear();

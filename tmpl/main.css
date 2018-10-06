@@ -774,6 +774,9 @@ pre.chroma {
 /* when #toc is hovered on with mouse, increase the contrast
    of link color.
    TODO: not sure about this, flickers when going to another page.
+   Maybe use mouseover and mouseout events
+   https://developer.mozilla.org/en-US/docs/Web/Events/mouseover
+   https://developer.mozilla.org/en-US/docs/Web/Events/mouseout
 */
 #toc:hover .toc-link {
   color: black;

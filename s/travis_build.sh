@@ -1,8 +1,7 @@
 #!/bin/bash
 set -u -e -o pipefail -o verbose
 
-GO111MODULE=on
-
+export GO111MODULE=on
 go build -o gen-books ./cmd/gen-books
 
 ./gen-books -analytics UA-113489735-1

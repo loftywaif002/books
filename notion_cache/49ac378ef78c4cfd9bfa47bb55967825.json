@@ -7,11 +7,11 @@
       "ab881977-6734-4722-88fd-f8085f482d25",
       "c06c0090-82db-4543-bfbd-1d555e30aadb",
       "7ffd711c-6d56-4346-acb4-ab5451661178",
+      "1bcd9334-f289-40af-ae41-cf0d31273211",
       "242a4b38-adec-4e0f-8362-8b6384bde059",
       "929d8e45-ba0d-4df1-81e5-09115689596f",
       "0082eeea-abf7-41d9-a378-d8bd20730beb",
       "9d39c7f3-92d3-4369-847b-f651fa6e84c5",
-      "1bcd9334-f289-40af-ae41-cf0d31273211",
       "f6863227-a71d-4485-bcad-db45917bae18",
       "bb2e2850-5568-4bf7-9581-9503c9f187fd"
     ],
@@ -24,7 +24,7 @@
     "id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538715524813,
+    "last_edited_time": 1538806386690,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -35,7 +35,7 @@
       ]
     },
     "type": "page",
-    "version": 28,
+    "version": 31,
     "content_resolved": [
       {
         "alive": true,
@@ -119,6 +119,44 @@
         "inline_content": [
           {
             "Text": "A pointer to a type is the address of the value of that type in memory."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532155942155,
+        "id": "1bcd9334-f289-40af-ae41-cf0d31273211",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538806386690,
+        "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zero value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+                ]
+              ]
+            ],
+            [
+              " of a pointer is nil."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 7,
+        "inline_content": [
+          {
+            "Text": "Zero value",
+            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
+          },
+          {
+            "Text": " of a pointer is nil."
           }
         ]
       },
@@ -217,44 +255,6 @@
         "parent_table": "block",
         "type": "text",
         "version": 3
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155942155,
-        "id": "1bcd9334-f289-40af-ae41-cf0d31273211",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233959107,
-        "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Zero value",
-              [
-                [
-                  "a",
-                  "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
-                ]
-              ]
-            ],
-            [
-              " of a pointer is nil."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 4,
-        "inline_content": [
-          {
-            "Text": "Zero value",
-            "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
-          },
-          {
-            "Text": " of a pointer is nil."
-          }
-        ]
       },
       {
         "alive": true,

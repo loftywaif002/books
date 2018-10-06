@@ -5,11 +5,18 @@
     "content": [
       "27458d7f-218d-48db-800b-9befc68b4085",
       "337f7ea5-b1f0-49bb-8b36-15211c3f6a3f",
+      "fa6c86a7-8f0a-4872-b5a4-873678761973",
       "1484f4ee-299c-4f2b-9e1d-04f737addff9",
-      "502e0bdc-8ba2-43fc-aa35-3c42fc199736",
+      "ec64efe8-4966-4c8b-a4c4-510da29a5b50",
+      "ec62741c-c756-48b3-b753-5054db66971c",
+      "23a0bfc5-bf50-4fde-8aa7-d8ad1f4e95c9",
+      "d784f10c-4f79-4c60-b3e0-ba0392537df3",
+      "7a676824-5d63-4be9-ba48-ad67de487ffb",
+      "bba1a1df-37b6-4b1d-9f7c-37a80852d92c",
+      "b57cfab4-0699-4573-9c73-a005c2919d29",
+      "395f8332-0826-477d-a4b9-84d864bdff73",
       "91bdb826-6b32-4613-9331-cb1df800fc2d",
-      "63e231be-8a31-40a7-addd-a4a7ee99c2c7",
-      "6b6796a0-bcb5-461e-9ba0-98585f6d94e9"
+      "97b08632-2687-4212-be8f-ed52077cca25"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155986202,
@@ -20,7 +27,7 @@
     "id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538772367986,
+    "last_edited_time": 1538808140958,
     "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
     "parent_table": "block",
     "properties": {
@@ -31,7 +38,7 @@
       ]
     },
     "type": "page",
-    "version": 28,
+    "version": 70,
     "content_resolved": [
       {
         "alive": true,
@@ -84,37 +91,204 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532196253071,
-        "id": "1484f4ee-299c-4f2b-9e1d-04f737addff9",
+        "created_time": 1538807563445,
+        "id": "fa6c86a7-8f0a-4872-b5a4-873678761973",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532196253083,
+        "last_edited_time": 1538807563445,
         "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
         "parent_table": "block",
         "type": "text",
-        "version": 6
+        "version": 4
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155986201,
-        "id": "502e0bdc-8ba2-43fc-aa35-3c42fc199736",
-        "ignore_block_count": true,
+        "created_time": 1532196253071,
+        "id": "1484f4ee-299c-4f2b-9e1d-04f737addff9",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155986201,
+        "last_edited_time": 1538807868128,
         "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "To filter a slice without allocating a new underlying array:"
+              "Go doesn't have a generic functionality for filtering slices so we have to do it the old-fashioned way:"
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 376,
         "inline_content": [
           {
-            "Text": "To filter a slice without allocating a new underlying array:"
+            "Text": "Go doesn't have a generic functionality for filtering slices so we have to do it the old-fashioned way:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538807880558,
+        "id": "ec64efe8-4966-4c8b-a4c4-510da29a5b50",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538807890726,
+        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "create a new slice for the result"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 89,
+        "inline_content": [
+          {
+            "Text": "create a new slice for the result"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538807868128,
+        "id": "ec62741c-c756-48b3-b753-5054db66971c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538807905318,
+        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "iterate over all elements of original slice"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 135,
+        "inline_content": [
+          {
+            "Text": "iterate over all elements of original slice"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538807871767,
+        "id": "23a0bfc5-bf50-4fde-8aa7-d8ad1f4e95c9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538807909286,
+        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "check if element should be retained or rejected"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 76,
+        "inline_content": [
+          {
+            "Text": "check if element should be retained or rejected"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538807906399,
+        "id": "d784f10c-4f79-4c60-b3e0-ba0392537df3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538807928843,
+        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "if should be retained, append to result"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 100,
+        "inline_content": [
+          {
+            "Text": "if should be retained, append to result"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538808049414,
+        "id": "7a676824-5d63-4be9-ba48-ad67de487ffb",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538808049414,
+        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538808048847,
+        "id": "bba1a1df-37b6-4b1d-9f7c-37a80852d92c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538808057279,
+        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "// TODO: link filter_slice_simple.go"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 80,
+        "inline_content": [
+          {
+            "Text": "// TODO: link filter_slice_simple.go"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538808082027,
+        "id": "b57cfab4-0699-4573-9c73-a005c2919d29",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538808082027,
+        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538808072159,
+        "id": "395f8332-0826-477d-a4b9-84d864bdff73",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538808137391,
+        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can do it more efficiently by re-using underlying array of the slice because we know that the result will always be smaller than original slice:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 374,
+        "inline_content": [
+          {
+            "Text": "We can do it more efficiently by re-using underlying array of the slice because we know that the result will always be smaller than original slice:"
           }
         ]
       },
@@ -154,27 +328,26 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155986202,
-        "id": "63e231be-8a31-40a7-addd-a4a7ee99c2c7",
-        "ignore_block_count": true,
+        "created_time": 1538808140342,
+        "id": "97b08632-2687-4212-be8f-ed52077cca25",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772374424,
+        "last_edited_time": 1538808228127,
         "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
         "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This avoids allocating a new array for the result but is also more dangerous. The original slice is now modified but we might use it as "
+            ]
+          ]
+        },
         "type": "text",
-        "version": 3
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532196258562,
-        "id": "6b6796a0-bcb5-461e-9ba0-98585f6d94e9",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532196258562,
-        "parent_id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
-        "parent_table": "block",
-        "type": "text",
-        "version": 4
+        "version": 406,
+        "inline_content": [
+          {
+            "Text": "This avoids allocating a new array for the result but is also more dangerous. The original slice is now modified but we might use it as "
+          }
+        ]
       }
     ],
     "title": "Filter a slice",

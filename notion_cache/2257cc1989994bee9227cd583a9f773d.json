@@ -143,13 +143,13 @@
         "created_time": 1536372546245,
         "id": "b2686817-9eb9-4402-8a45-9f87a31e6a31",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536372612729,
+        "last_edited_time": 1538806291514,
         "parent_id": "2257cc19-8999-4bee-9227-cd583a9f773d",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "A slice can grow and shrink in size. It's implemented a view into underlying fixed size "
+              "A slice can grow and shrink in size. It's implemented as a view into underlying fixed size "
             ],
             [
               "array",
@@ -166,10 +166,10 @@
           ]
         },
         "type": "text",
-        "version": 240,
+        "version": 246,
         "inline_content": [
           {
-            "Text": "A slice can grow and shrink in size. It's implemented a view into underlying fixed size "
+            "Text": "A slice can grow and shrink in size. It's implemented as a view into underlying fixed size "
           },
           {
             "Text": "array",
@@ -187,7 +187,7 @@
         "id": "f40b724a-61a3-4113-90d8-74d142d20445",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233555624,
+        "last_edited_time": 1538806323350,
         "parent_id": "2257cc19-8999-4bee-9227-cd583a9f773d",
         "parent_table": "block",
         "properties": {
@@ -202,19 +202,19 @@
               ]
             ],
             [
-              " of slice is nil."
+              " of a slice is nil."
             ]
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 8,
         "inline_content": [
           {
             "Text": "Zero value",
             "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
           },
           {
-            "Text": " of slice is nil."
+            "Text": " of a slice is nil."
           }
         ]
       },

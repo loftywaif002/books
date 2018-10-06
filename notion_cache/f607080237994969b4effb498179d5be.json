@@ -5,16 +5,13 @@
     "content": [
       "d76937cc-e2bd-4152-9a40-a324b80b9d88",
       "97d83374-8e1b-4e01-ac84-5d1f665f57b2",
+      "40707565-8cbc-4475-8558-2d0e1e97a213",
       "29ab2aec-daca-4a1f-be48-35be091626dd",
-      "314b8c37-9e80-4c5e-b941-92382a0c6645",
       "c3397f0a-69c3-4a0f-82e2-80942982ed62",
       "730a2eb8-a00c-4b93-85a9-677080546463",
       "166f58b8-5ab0-4267-9e8f-b78320b5d0ef",
       "48bbc5ee-2377-41a5-b8c5-22de29b4f8d2",
-      "acde6cc1-7a89-4859-be14-c1816afaa66c",
-      "045f26ce-c1f1-4c6b-956a-7e4cc7b79215",
-      "5e49b6ab-ed29-4b9f-8401-8196aa44c259",
-      "2727328b-14b8-45ef-903c-50d3f85eac87"
+      "5e49b6ab-ed29-4b9f-8401-8196aa44c259"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156237157,
@@ -25,7 +22,7 @@
     "id": "f6070802-3799-4969-b4ef-fb498179d5be",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532213858718,
+    "last_edited_time": 1538804282946,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -36,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 40,
     "content_resolved": [
       {
         "alive": true,
@@ -89,37 +86,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532213844974,
-        "id": "29ab2aec-daca-4a1f-be48-35be091626dd",
+        "created_time": 1538804282946,
+        "id": "40707565-8cbc-4475-8558-2d0e1e97a213",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532213845383,
+        "last_edited_time": 1538804282946,
         "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
         "parent_table": "block",
         "type": "text",
-        "version": 8
+        "version": 4
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156237156,
-        "id": "314b8c37-9e80-4c5e-b941-92382a0c6645",
-        "ignore_block_count": true,
+        "created_time": 1532213844974,
+        "id": "29ab2aec-daca-4a1f-be48-35be091626dd",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156237156,
+        "last_edited_time": 1538804288538,
         "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Remarks"
+              "TODO: update for go modules"
             ]
           ]
         },
-        "type": "sub_header",
-        "version": 1,
+        "type": "text",
+        "version": 64,
         "inline_content": [
           {
-            "Text": "Remarks"
+            "Text": "TODO: update for go modules"
           }
         ]
       },
@@ -285,72 +281,6 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156238165,
-        "format": {
-          "page_full_width": true,
-          "page_small_text": true
-        },
-        "id": "acde6cc1-7a89-4859-be14-c1816afaa66c",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532213936288,
-        "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Use govendor to add external packages"
-            ]
-          ]
-        },
-        "type": "page",
-        "version": 25,
-        "title": "Use govendor to add external packages",
-        "format_page": {
-          "page_cover": "",
-          "page_cover_position": 0,
-          "page_font": "",
-          "page_full_width": true,
-          "page_icon": "",
-          "page_small_text": true
-        }
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156239354,
-        "format": {
-          "page_full_width": true,
-          "page_small_text": true
-        },
-        "id": "045f26ce-c1f1-4c6b-956a-7e4cc7b79215",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532213961799,
-        "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Using trash to manage ./vendor"
-            ]
-          ]
-        },
-        "type": "page",
-        "version": 25,
-        "title": "Using trash to manage ./vendor",
-        "format_page": {
-          "page_cover": "",
-          "page_cover_position": 0,
-          "page_font": "",
-          "page_full_width": true,
-          "page_icon": "",
-          "page_small_text": true
-        }
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532156240218,
         "format": {
           "page_full_width": true,
@@ -372,39 +302,6 @@
         "type": "page",
         "version": 25,
         "title": " Use golang/dep",
-        "format_page": {
-          "page_cover": "",
-          "page_cover_position": 0,
-          "page_font": "",
-          "page_full_width": true,
-          "page_icon": "",
-          "page_small_text": true
-        }
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156241201,
-        "format": {
-          "page_full_width": true,
-          "page_small_text": true
-        },
-        "id": "2727328b-14b8-45ef-903c-50d3f85eac87",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532214044607,
-        "parent_id": "f6070802-3799-4969-b4ef-fb498179d5be",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "vendor.json using Govendor tool"
-            ]
-          ]
-        },
-        "type": "page",
-        "version": 20,
-        "title": "vendor.json using Govendor tool",
         "format_page": {
           "page_cover": "",
           "page_cover_position": 0,

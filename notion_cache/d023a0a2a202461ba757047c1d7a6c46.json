@@ -5,10 +5,11 @@
     "content": [
       "c92d0840-5f60-4d78-9bab-a3985c75a128",
       "cf9666c6-27e0-4316-94ba-ad36fab9ef20",
-      "df1a000f-bbf4-4479-b115-56c874c8ba05",
-      "422e3de9-ab2f-4adb-acd4-233b428211f7",
+      "064f02b0-0324-4bf7-8560-53598c86ad3d",
+      "f24b190e-e38e-408a-b20a-de0258b8e8d1",
       "f3516f84-6236-4aef-8a47-82ff313203e5",
-      "637b78a7-a2c1-4587-9820-45fe27692ee8"
+      "637b78a7-a2c1-4587-9820-45fe27692ee8",
+      "16f5e1f1-e9f5-4a53-b50f-6868425b03cd"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156029118,
@@ -19,7 +20,7 @@
     "id": "d023a0a2-a202-461b-a757-047c1d7a6c46",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532235800784,
+    "last_edited_time": 1538782946409,
     "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
     "parent_table": "block",
     "properties": {
@@ -30,7 +31,7 @@
       ]
     },
     "type": "page",
-    "version": 25,
+    "version": 34,
     "content_resolved": [
       {
         "alive": true,
@@ -83,39 +84,47 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532204208211,
-        "id": "df1a000f-bbf4-4479-b115-56c874c8ba05",
+        "created_time": 1538782939014,
+        "id": "064f02b0-0324-4bf7-8560-53598c86ad3d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532204208828,
+        "last_edited_time": 1538782945059,
         "parent_id": "d023a0a2-a202-461b-a757-047c1d7a6c46",
         "parent_table": "block",
         "type": "text",
-        "version": 10
+        "version": 6
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156029118,
-        "id": "422e3de9-ab2f-4adb-acd4-233b428211f7",
-        "ignore_block_count": true,
+        "created_time": 1538782940018,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0140-for-while-loops%2Ftimed_loop.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "f24b190e-e38e-408a-b20a-de0258b8e8d1",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156029118,
+        "last_edited_time": 1538782942044,
         "parent_id": "d023a0a2-a202-461b-a757-047c1d7a6c46",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file timed_loop.go sha1:8faf8e66cd61da9bec85ef7486e881589c8352c6 goplayground:m7rcR9wFLLx"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0140-for-while-loops%2Ftimed_loop.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file timed_loop.go sha1:8faf8e66cd61da9bec85ef7486e881589c8352c6 goplayground:m7rcR9wFLLx"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0140-for-while-loops%2Ftimed_loop.go"
+        }
       },
       {
         "alive": true,
@@ -178,6 +187,18 @@
             "Text": " returns a channel that will be signalled after a given timeout."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538782946409,
+        "id": "16f5e1f1-e9f5-4a53-b50f-6868425b03cd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538782946409,
+        "parent_id": "d023a0a2-a202-461b-a757-047c1d7a6c46",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "Timed loop",

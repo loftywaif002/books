@@ -8,7 +8,7 @@
       "64ac9a29-3f59-42ec-8aa4-789d072e04bf",
       "fec62f76-1d96-4e0c-bc0a-756b45b4f02f",
       "f8b12d82-b786-41a8-88f2-5d690e650ee0",
-      "36c2b9b0-8e5b-4a07-845b-2a24d1644431",
+      "c157f6fd-853b-4909-ba4e-bf3f7ae5a866",
       "b157e52e-85f9-417e-b5aa-8cfc5e187ab5",
       "7f8bcf04-6954-46c1-ae4d-22db9b847d6f",
       "b25f07ac-7152-47bf-b86f-2d6152105355",
@@ -54,7 +54,7 @@
     "id": "05239fc0-69c3-463d-abc5-32b9d808612e",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532207086381,
+    "last_edited_time": 1538788589687,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -65,7 +65,7 @@
       ]
     },
     "type": "page",
-    "version": 25,
+    "version": 32,
     "content_resolved": [
       {
         "alive": true,
@@ -158,7 +158,7 @@
         "id": "f8b12d82-b786-41a8-88f2-5d690e650ee0",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156096128,
+        "last_edited_time": 1538788589687,
         "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
         "parent_table": "block",
         "properties": {
@@ -184,7 +184,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Package "
@@ -202,27 +202,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156096128,
-        "id": "36c2b9b0-8e5b-4a07-845b-2a24d1644431",
-        "ignore_block_count": true,
+        "created_time": 1538788585217,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0270-parsing-command-line-arguments%2Findex.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "c157f6fd-853b-4909-ba4e-bf3f7ae5a866",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156096128,
+        "last_edited_time": 1538788587539,
         "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file index.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0270-parsing-command-line-arguments%2Findex.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file index.go output noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0270-parsing-command-line-arguments%2Findex.go"
+        }
       },
       {
         "alive": true,
@@ -1591,7 +1599,7 @@
         "id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532207122547,
+        "last_edited_time": 1538788629949,
         "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
         "parent_table": "block",
         "properties": {
@@ -1602,7 +1610,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 28,
         "title": "Raw access to command line arguments",
         "format_page": {
           "page_cover": "",

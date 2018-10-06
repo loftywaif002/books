@@ -14,7 +14,7 @@
       "b77138d6-96ec-40d9-a8c8-a46c4e08d928",
       "53b1ad9a-8d81-47c7-b49b-68ec3c909ace",
       "6732d7b2-d64e-41c0-ba48-9b981f100ddd",
-      "88a4c932-73ea-4ad1-9dff-1cc2e8cc256c"
+      "6dda912f-6849-490e-af74-874f271b02ab"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156070181,
@@ -25,7 +25,7 @@
     "id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236584981,
+    "last_edited_time": 1538786662394,
     "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
     "parent_table": "block",
     "properties": {
@@ -36,7 +36,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 35,
     "content_resolved": [
       {
         "alive": true,
@@ -279,7 +279,7 @@
         "id": "6732d7b2-d64e-41c0-ba48-9b981f100ddd",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156070181,
+        "last_edited_time": 1538786662394,
         "parent_id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
         "parent_table": "block",
         "properties": {
@@ -290,7 +290,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "By allowing producer to proceed independently of the consumer we can speed up some scenarios."
@@ -300,27 +300,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156070181,
-        "id": "88a4c932-73ea-4ad1-9dff-1cc2e8cc256c",
-        "ignore_block_count": true,
+        "created_time": 1538786658792,
+        "format": {
+          "block_height": 930,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fbuffered.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "6dda912f-6849-490e-af74-874f271b02ab",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156070181,
+        "last_edited_time": 1538786678345,
         "parent_id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file buffered.go output sha1:5b8c9ab73348e82432090937388cb2ab02a36ecd goplayground:D_dv_uhNYBR"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fbuffered.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file buffered.go output sha1:5b8c9ab73348e82432090937388cb2ab02a36ecd goplayground:D_dv_uhNYBR"
-          }
-        ]
+        "type": "embed",
+        "version": 18,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 930,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fbuffered.go"
+        }
       }
     ],
     "title": "Buffered vs. unbuffered channels",

@@ -7,15 +7,14 @@
       "7a1d374a-9d07-47f3-aed2-cc99aa2d0a89",
       "dff1dc5f-0810-4d1e-a018-27f0fe263561",
       "792f8e9c-3efe-4275-9722-c41137766448",
-      "e366d47c-a706-4cda-9085-81e7734183ae",
+      "0f0fec8f-83c3-4bf4-9778-3f9fd142094d",
       "5cd33d20-a024-42db-835c-566558303bb2",
       "c6b6c5b2-03f1-4c49-9884-5d3e05d7b180",
       "e9f64972-2430-4302-a241-02a6207fc764",
-      "305be51b-4963-405e-8591-2122e90ba6a2",
+      "3048259b-32cd-4058-ac38-853fab6887aa",
       "80652fa5-940e-42c2-90e2-72b1976d17d5",
       "85c990a3-9032-49a4-bbae-90b0f68da092",
-      "eb976da5-fe3c-49f1-bfa2-920aebac7701",
-      "e5c2c278-fc02-4020-870c-cf94241681f6"
+      "c2d1e8c7-8974-44b0-8c2b-e8ed2d2f3046"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156108144,
@@ -26,7 +25,7 @@
     "id": "1b36c697-0278-458b-997a-65d72e2e43af",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532207440895,
+    "last_edited_time": 1538789213208,
     "parent_id": "b6e9fbb3-165c-4bcb-907e-469d86783aab",
     "parent_table": "block",
     "properties": {
@@ -37,7 +36,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 42,
     "content_resolved": [
       {
         "alive": true,
@@ -118,7 +117,7 @@
         "id": "792f8e9c-3efe-4275-9722-c41137766448",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156108141,
+        "last_edited_time": 1538789178563,
         "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
         "parent_table": "block",
         "properties": {
@@ -173,7 +172,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "We can encode a "
@@ -211,27 +210,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156108142,
-        "id": "e366d47c-a706-4cda-9085-81e7734183ae",
-        "ignore_block_count": true,
+        "created_time": 1538789175296,
+        "format": {
+          "block_height": 480,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0300-hex-base64%2Fbase64.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "0f0fec8f-83c3-4bf4-9778-3f9fd142094d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156108142,
+        "last_edited_time": 1538789220036,
         "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file base64.go output sha1:ffc00d5cc31a71ad03f4157429df36714138ef55 goplayground:-6ZTG6fOfMx"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0300-hex-base64%2Fbase64.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file base64.go output sha1:ffc00d5cc31a71ad03f4157429df36714138ef55 goplayground:-6ZTG6fOfMx"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 480,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0300-hex-base64%2Fbase64.go"
+        }
       },
       {
         "alive": true,
@@ -290,7 +297,7 @@
         "id": "e9f64972-2430-4302-a241-02a6207fc764",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156108142,
+        "last_edited_time": 1538789195032,
         "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
         "parent_table": "block",
         "properties": {
@@ -301,7 +308,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Given that urls are important those days we have a variant of base64 encoding that doesn’t have that flaw:"
@@ -311,27 +318,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156108142,
-        "id": "305be51b-4963-405e-8591-2122e90ba6a2",
-        "ignore_block_count": true,
+        "created_time": 1538789191412,
+        "format": {
+          "block_height": 477,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0300-hex-base64%2Fbase64_urlsafe.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "3048259b-32cd-4058-ac38-853fab6887aa",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156108142,
+        "last_edited_time": 1538789216677,
         "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file base64_urlsafe.go output sha1:4feacf35a6de39f974e187af0f019b2d7810333e goplayground:lZiY1VDCk52"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0300-hex-base64%2Fbase64_urlsafe.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file base64_urlsafe.go output sha1:4feacf35a6de39f974e187af0f019b2d7810333e goplayground:lZiY1VDCk52"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 477,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0300-hex-base64%2Fbase64_urlsafe.go"
+        }
       },
       {
         "alive": true,
@@ -365,7 +380,7 @@
         "id": "85c990a3-9032-49a4-bbae-90b0f68da092",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156108143,
+        "last_edited_time": 1538789213208,
         "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
         "parent_table": "block",
         "properties": {
@@ -398,7 +413,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "For encoding and decoding larger values in streaming mode, we can encode to an "
@@ -422,39 +437,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156108144,
-        "id": "eb976da5-fe3c-49f1-bfa2-920aebac7701",
-        "ignore_block_count": true,
+        "created_time": 1538789209994,
+        "format": {
+          "block_height": 762.9931030273438,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0300-hex-base64%2Fbase64_streaming.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "c2d1e8c7-8974-44b0-8c2b-e8ed2d2f3046",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156108144,
+        "last_edited_time": 1538789229039,
         "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file base64_streaming.go output sha1:69009501f5d7c707a737cb8e1ed82a357f373a35 goplayground:0dWCqOxiW9Y"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0300-hex-base64%2Fbase64_streaming.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file base64_streaming.go output sha1:69009501f5d7c707a737cb8e1ed82a357f373a35 goplayground:0dWCqOxiW9Y"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532207440895,
-        "id": "e5c2c278-fc02-4020-870c-cf94241681f6",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532207440895,
-        "parent_id": "1b36c697-0278-458b-997a-65d72e2e43af",
-        "parent_table": "block",
-        "type": "text",
-        "version": 4
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 762.9931030273438,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0300-hex-base64%2Fbase64_streaming.go"
+        }
       }
     ],
     "title": "base64",

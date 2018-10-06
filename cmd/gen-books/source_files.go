@@ -231,6 +231,9 @@ func loadSourceFile(path string) (*SourceFile, error) {
 		panicIfErr(err)
 	}
 	sf.Directive = directive
+	if directive.NoOutput {
+		fmt.Printf("NoOutput for '%s'\n", path)
+	}
 
 	sf.LinesFiltered = removeAnnotationLines(lines)
 	sf.LinesCode, err = extractCodeSnippets(lines)

@@ -10,7 +10,7 @@
       "ceac57ad-89e5-4efd-b603-55e66d2266e2",
       "5f255401-e1f5-468b-855b-0aaccc08359d",
       "17b6bc66-1b33-4d4a-8796-d6b836cd1928",
-      "4bae74a7-4b7d-4cf0-b97b-ada86e7dd779",
+      "4dc80eeb-97e3-40ec-9a28-3f709ea3bf85",
       "6f8f1f8b-9039-4a89-8f17-2d45f54e87f6",
       "240a56b9-bded-4203-8273-2fed90b04b2e",
       "a9ef6ba0-7f96-4700-ba30-c676fd4468b0",
@@ -47,7 +47,7 @@
     "id": "4fac57c0-9168-477a-a120-69484979f419",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236447546,
+    "last_edited_time": 1538786419784,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -58,7 +58,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -237,7 +237,7 @@
         "id": "17b6bc66-1b33-4d4a-8796-d6b836cd1928",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156066165,
+        "last_edited_time": 1538786419784,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
@@ -248,7 +248,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Basic of channels:"
@@ -258,27 +258,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156066165,
-        "id": "4bae74a7-4b7d-4cf0-b97b-ada86e7dd779",
-        "ignore_block_count": true,
+        "created_time": 1538786412093,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Findex.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "4dc80eeb-97e3-40ec-9a28-3f709ea3bf85",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156066165,
+        "last_edited_time": 1538786413976,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file index.go output sha1:5c34ffb9f92451fe53fcfb05de6b620b2afb31ee goplayground:4XuAXmrbElQ"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Findex.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file index.go output sha1:5c34ffb9f92451fe53fcfb05de6b620b2afb31ee goplayground:4XuAXmrbElQ"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Findex.go"
+        }
       },
       {
         "alive": true,
@@ -287,16 +295,13 @@
         "id": "6f8f1f8b-9039-4a89-8f17-2d45f54e87f6",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1533026570402,
+        "last_edited_time": 1538786429020,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "A "
-            ],
-            [
-              "zero value",
+              "Zero value",
               [
                 [
                   "a",
@@ -332,13 +337,10 @@
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 12,
         "inline_content": [
           {
-            "Text": "A "
-          },
-          {
-            "Text": "zero value",
+            "Text": "Zero value",
             "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
           },
           {
@@ -1083,7 +1085,7 @@
         "id": "35da4ddc-825b-498d-9067-c969effc299b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236561256,
+        "last_edited_time": 1538786461112,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
@@ -1094,7 +1096,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 30,
         "title": "Using range to read from a channel",
         "format_page": {
           "page_cover": "",
@@ -1116,7 +1118,7 @@
         "id": "0739fee2-c89f-4867-9858-e43b098d0a9d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236569676,
+        "last_edited_time": 1538786484886,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
@@ -1127,7 +1129,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 30,
         "title": "Timeout reading from channel with select",
         "format_page": {
           "page_cover": "",
@@ -1149,7 +1151,7 @@
         "id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236577254,
+        "last_edited_time": 1538786605112,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
@@ -1160,7 +1162,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 58,
         "title": "Closing channels",
         "format_page": {
           "page_cover": "",
@@ -1182,7 +1184,7 @@
         "id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236584981,
+        "last_edited_time": 1538786662394,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
@@ -1193,7 +1195,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 35,
         "title": "Buffered vs. unbuffered channels",
         "format_page": {
           "page_cover": "",
@@ -1215,7 +1217,7 @@
         "id": "34ce9d67-983f-4a20-8ada-20bd5dca1f33",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236590906,
+        "last_edited_time": 1538786698969,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
@@ -1226,7 +1228,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 30,
         "title": "Non-blocking receive with select",
         "format_page": {
           "page_cover": "",
@@ -1248,7 +1250,7 @@
         "id": "f5daa999-f513-4b9b-a9f2-d69916df292a",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532205940598,
+        "last_edited_time": 1538786718849,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
@@ -1259,7 +1261,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 30,
         "title": "Signaling channel with chan struct{}",
         "format_page": {
           "page_cover": "",
@@ -1281,7 +1283,7 @@
         "id": "92cbd178-0963-4770-84f3-467b40250f97",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236626181,
+        "last_edited_time": 1538786767625,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
@@ -1292,7 +1294,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 27,
         "title": "Checking if channel has data available",
         "format_page": {
           "page_cover": "",

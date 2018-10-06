@@ -5,10 +5,12 @@
     "content": [
       "27f7ba98-8658-46c9-a3e9-3b70a01e9a4c",
       "209f9195-e0e2-4443-84c6-513bab6e2485",
+      "27e2c13f-7c23-4f56-92d5-02078221e730",
       "5e285b88-b59b-4452-b228-82d993632875",
-      "b57f576b-b3d6-444a-8f5f-01459b45d0f9",
-      "bc65e24d-c52f-4a50-825d-4aca9137b5b5",
-      "703e805a-c9bc-49b3-a213-ab019354a70a"
+      "1ae4273e-d362-4eeb-a342-31b35bbf8301",
+      "2a2b7c4b-49f2-49e0-8303-2f85ea12727e",
+      "b7e44509-57fe-428d-bb89-63e9a4b0095f",
+      "bc65e24d-c52f-4a50-825d-4aca9137b5b5"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156046117,
@@ -19,18 +21,18 @@
     "id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236095374,
+    "last_edited_time": 1538785493583,
     "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
     "parent_table": "block",
     "properties": {
       "title": [
         [
-          "Create custom error type"
+          "Custom error types"
         ]
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 58,
     "content_resolved": [
       {
         "alive": true,
@@ -83,29 +85,28 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532205053890,
-        "id": "5e285b88-b59b-4452-b228-82d993632875",
+        "created_time": 1538785317867,
+        "id": "27e2c13f-7c23-4f56-92d5-02078221e730",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532205054452,
+        "last_edited_time": 1538785317867,
         "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
         "parent_table": "block",
         "type": "text",
-        "version": 10
+        "version": 4
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156046116,
-        "id": "b57f576b-b3d6-444a-8f5f-01459b45d0f9",
-        "ignore_block_count": true,
+        "created_time": 1532205053890,
+        "id": "5e285b88-b59b-4452-b228-82d993632875",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156046116,
+        "last_edited_time": 1538785442509,
         "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "In Go any type that implements built-in "
+              "In Go "
             ],
             [
               "error",
@@ -116,7 +117,7 @@
               ]
             ],
             [
-              " interface (i.e. "
+              " type is a built-in interface with a single method "
             ],
             [
               "Error() string",
@@ -127,31 +128,166 @@
               ]
             ],
             [
-              " method) can be used as error:"
+              "."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 292,
         "inline_content": [
           {
-            "Text": "In Go any type that implements built-in "
+            "Text": "In Go "
           },
           {
             "Text": "error",
             "AttrFlags": 2
           },
           {
-            "Text": " interface (i.e. "
+            "Text": " type is a built-in interface with a single method "
           },
           {
             "Text": "Error() string",
             "AttrFlags": 2
           },
           {
-            "Text": " method) can be used as error:"
+            "Text": "."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538785414630,
+        "id": "1ae4273e-d362-4eeb-a342-31b35bbf8301",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538785437814,
+        "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "All rules governing interfaces apply to "
+            ],
+            [
+              "error",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 140,
+        "inline_content": [
+          {
+            "Text": "All rules governing interfaces apply to "
+          },
+          {
+            "Text": "error",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538785364014,
+        "id": "2a2b7c4b-49f2-49e0-8303-2f85ea12727e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538785468237,
+        "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Among others, any type that implements "
+            ],
+            [
+              "error",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " interface can be used as value of "
+            ],
+            [
+              "error",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " type."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 184,
+        "inline_content": [
+          {
+            "Text": "Among others, any type that implements "
+          },
+          {
+            "Text": "error",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " interface can be used as value of "
+          },
+          {
+            "Text": "error",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " type."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538785305313,
+        "format": {
+          "block_height": 491,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Fcreate_custom_error.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "b7e44509-57fe-428d-bb89-63e9a4b0095f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538785314455,
+        "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Fcreate_custom_error.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 491,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Fcreate_custom_error.go"
+        }
       },
       {
         "alive": true,
@@ -160,38 +296,14 @@
         "id": "bc65e24d-c52f-4a50-825d-4aca9137b5b5",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156046117,
-        "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file create_custom_error.go output sha1:89a9cf70397bd90ebd38e6c16761c79753fdc67b goplayground:LQ_lhw9zaJP"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file create_custom_error.go output sha1:89a9cf70397bd90ebd38e6c16761c79753fdc67b goplayground:LQ_lhw9zaJP"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532236095374,
-        "id": "703e805a-c9bc-49b3-a213-ab019354a70a",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236095374,
+        "last_edited_time": 1538785493583,
         "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
         "parent_table": "block",
         "type": "text",
-        "version": 4
+        "version": 5
       }
     ],
-    "title": "Create custom error type",
+    "title": "Custom error types",
     "format_page": {
       "page_cover": "",
       "page_cover_position": 0,

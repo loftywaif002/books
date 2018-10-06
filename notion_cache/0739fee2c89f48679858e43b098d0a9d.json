@@ -9,8 +9,7 @@
       "b3fe7683-d542-4427-9b55-d625876a6921",
       "d99ea201-6029-4e21-be3d-f5c604ab43f2",
       "e4bd1ba4-e567-4e62-b281-0f0016f7ec7c",
-      "53860896-ede5-4b94-88ec-5455be646711",
-      "a4646cd8-7932-472b-95ff-478f75fe2fc3"
+      "0408217f-0677-44f0-8faf-9933a18c2a22"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156068190,
@@ -21,7 +20,7 @@
     "id": "0739fee2-c89f-4867-9858-e43b098d0a9d",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236569676,
+    "last_edited_time": 1538786484886,
     "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
     "parent_table": "block",
     "properties": {
@@ -32,7 +31,7 @@
       ]
     },
     "type": "page",
-    "version": 25,
+    "version": 30,
     "content_resolved": [
       {
         "alive": true,
@@ -186,7 +185,7 @@
         "id": "e4bd1ba4-e567-4e62-b281-0f0016f7ec7c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156068189,
+        "last_edited_time": 1538786484886,
         "parent_id": "0739fee2-c89f-4867-9858-e43b098d0a9d",
         "parent_table": "block",
         "properties": {
@@ -208,7 +207,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "It’s possible with "
@@ -225,39 +224,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156068189,
-        "id": "53860896-ede5-4b94-88ec-5455be646711",
-        "ignore_block_count": true,
+        "created_time": 1538786480773,
+        "format": {
+          "block_height": 509,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Ftimeout.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "0408217f-0677-44f0-8faf-9933a18c2a22",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156068189,
+        "last_edited_time": 1538786488556,
         "parent_id": "0739fee2-c89f-4867-9858-e43b098d0a9d",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file timeout.go output sha1:1a3592bd922445233dfa604d927c9b5ca39fcc46 goplayground:kWFgA_-fMgN"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Ftimeout.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file timeout.go output sha1:1a3592bd922445233dfa604d927c9b5ca39fcc46 goplayground:kWFgA_-fMgN"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532205844783,
-        "id": "a4646cd8-7932-472b-95ff-478f75fe2fc3",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532205844783,
-        "parent_id": "0739fee2-c89f-4867-9858-e43b098d0a9d",
-        "parent_table": "block",
-        "type": "text",
-        "version": 4
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 509,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Ftimeout.go"
+        }
       }
     ],
     "title": "Timeout reading from channel with select",

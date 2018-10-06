@@ -13,7 +13,8 @@
       "f70cac48-b286-4200-99e6-dc1c5846165d",
       "15c5558c-b107-43c6-b7f3-d58890c60146",
       "c258f698-6b02-499f-8b7a-e0650a9b64b1",
-      "68cdf19e-61dc-41c1-87cf-ecc9e6cbe563"
+      "68cdf19e-61dc-41c1-87cf-ecc9e6cbe563",
+      "f3d43904-6582-4baf-8a1c-3a4d44c8a53f"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156052551,
@@ -24,18 +25,18 @@
     "id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236132732,
+    "last_edited_time": 1538785614618,
     "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
     "parent_table": "block",
     "properties": {
       "title": [
         [
-          "Good practices for error messages"
+          "Writing good error messages"
         ]
       ]
     },
     "type": "page",
-    "version": 21,
+    "version": 71,
     "content_resolved": [
       {
         "alive": true,
@@ -300,9 +301,21 @@
             "Text": "Second version of error message includes more debugging clues: * which function generated the error * path of the file we were trying to open * the error message from os.Open() so that we can tell if it was because the file doesn’t exist or we don’t have access rights to it etc."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538785595643,
+        "id": "f3d43904-6582-4baf-8a1c-3a4d44c8a53f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538785595643,
+        "parent_id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
-    "title": "Good practices for error messages",
+    "title": "Writing good error messages",
     "format_page": {
       "page_cover": "",
       "page_cover_position": 0,

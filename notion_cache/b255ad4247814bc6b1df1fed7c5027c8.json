@@ -7,7 +7,9 @@
       "f3fece92-4bec-4baf-a9ae-c7cff45c1d51",
       "0f543ace-d3e8-4ee5-9105-ea2acc0269f3",
       "ddc842b9-cf0d-489c-9fcf-1d6dac9f602d",
-      "52ee85f2-f9ac-495b-a151-50ef005d9e68"
+      "f88db298-43f6-457a-b248-f91fba4dfa77",
+      "52ee85f2-f9ac-495b-a151-50ef005d9e68",
+      "444adbfd-0f87-401f-bc60-b762943d28f4"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156037203,
@@ -18,7 +20,7 @@
     "id": "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236001166,
+    "last_edited_time": 1538784167382,
     "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
     "parent_table": "block",
     "properties": {
@@ -29,7 +31,7 @@
       ]
     },
     "type": "page",
-    "version": 25,
+    "version": 32,
     "content_resolved": [
       {
         "alive": true,
@@ -98,41 +100,56 @@
         "id": "ddc842b9-cf0d-489c-9fcf-1d6dac9f602d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156037203,
+        "last_edited_time": 1538784181997,
         "parent_id": "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "A variadic function can be called with any number of "
-            ],
-            [
-              "trailing",
-              [
-                [
-                  "b"
-                ]
-              ]
-            ],
-            [
-              " arguments. Those elements are stored in a slice."
+              "A variadic function can be called with any number of trailing arguments. Those elements are stored in a slice."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
-            "Text": "A variadic function can be called with any number of "
-          },
-          {
-            "Text": "trailing",
-            "AttrFlags": 1
-          },
-          {
-            "Text": " arguments. Those elements are stored in a slice."
+            "Text": "A variadic function can be called with any number of trailing arguments. Those elements are stored in a slice."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538784167382,
+        "format": {
+          "block_height": 483,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Fvariadic.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "f88db298-43f6-457a-b248-f91fba4dfa77",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538784175632,
+        "parent_id": "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Fvariadic.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 483,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Fvariadic.go"
+        }
       },
       {
         "alive": true,
@@ -141,23 +158,23 @@
         "id": "52ee85f2-f9ac-495b-a151-50ef005d9e68",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156037203,
+        "last_edited_time": 1538784172560,
         "parent_id": "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file variadic.go output sha1:4c941b06fa42ee1b046063ce1c8851a9d9295356 goplayground:c4KLAlenGkW"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file variadic.go output sha1:4c941b06fa42ee1b046063ce1c8851a9d9295356 goplayground:c4KLAlenGkW"
-          }
-        ]
+        "version": 3
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538784165597,
+        "id": "444adbfd-0f87-401f-bc60-b762943d28f4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538784165597,
+        "parent_id": "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "Variadic functions",

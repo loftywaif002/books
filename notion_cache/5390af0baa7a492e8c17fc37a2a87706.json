@@ -29,6 +29,11 @@
       "be05e849-3ff8-4834-9029-14e214fd8aad",
       "13a4ee70-3bd1-46aa-8814-f5eb1a0636ee",
       "0c733606-1e70-4bd2-9150-d312b5480dc4",
+      "e93f213a-fed2-48cf-a752-7ba734a9d176",
+      "96abcf9a-d36d-4966-be7b-066bb668b0c9",
+      "575422eb-ef55-4eab-b3cd-d0164820f5c3",
+      "370ca9f2-3f34-45cc-a493-05dc8479f10d",
+      "595b3fc7-c9e5-4936-b665-3f94c76ce59a",
       "14fde9c0-9226-4a9b-84c2-ad64e4098925",
       "95f2ffa0-665c-48ff-9c31-7b0f32cb1e5c"
     ],
@@ -41,7 +46,7 @@
     "id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236758469,
+    "last_edited_time": 1538787570026,
     "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
     "parent_table": "block",
     "properties": {
@@ -52,7 +57,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 45,
     "content_resolved": [
       {
         "alive": true,
@@ -1010,7 +1015,7 @@
         "id": "0c733606-1e70-4bd2-9150-d312b5480dc4",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156086129,
+        "last_edited_time": 1538787538810,
         "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
         "parent_table": "block",
         "properties": {
@@ -1027,7 +1032,146 @@
               ]
             ],
             [
-              " * 0 means this is a number in octal format. That means that each number is in 0-7 range (compare to regular decimal notation where each number is in 0-9 range) * 6 is permissions for the creator of the file. It’s a bitmask 4 + 2. 4 means read permissions, 2 means write permission. When combined it means read/write access * 4 is permissions for the group that user belongs to. I.e. every user that also belongs to the same group will have those permissions. 4 means only read permissions * last 4 is for everyone. Again, 4 means only read permissions * for completness, 1 represents exuectuable permissions so if this is meant to be an executable file, the permissions flag would be "
+              " "
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 3,
+        "inline_content": [
+          {
+            "Text": "Let’s deconstruct parts of "
+          },
+          {
+            "Text": "0644",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " "
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538787538810,
+        "id": "e93f213a-fed2-48cf-a752-7ba734a9d176",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538787552906,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "0",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " means this is a number in octal format. That means that each number is in 0-7 range (compare to regular decimal notation where each number is in 0-9 range) "
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 31,
+        "inline_content": [
+          {
+            "Text": "0",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " means this is a number in octal format. That means that each number is in 0-7 range (compare to regular decimal notation where each number is in 0-9 range) "
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538787552906,
+        "id": "96abcf9a-d36d-4966-be7b-066bb668b0c9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538787561533,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "6 is permissions for the creator of the file. It’s a bitmask 4 + 2. 4 means read permissions, 2 means write permission. When combined it means read/write access"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 20,
+        "inline_content": [
+          {
+            "Text": "6 is permissions for the creator of the file. It’s a bitmask 4 + 2. 4 means read permissions, 2 means write permission. When combined it means read/write access"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538787561533,
+        "id": "575422eb-ef55-4eab-b3cd-d0164820f5c3",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538787566090,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "4 is permissions for the group that user belongs to. I.e. every user that also belongs to the same group will have those permissions. 4 means only read permissions"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 42,
+        "inline_content": [
+          {
+            "Text": "4 is permissions for the group that user belongs to. I.e. every user that also belongs to the same group will have those permissions. 4 means only read permissions"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538787566090,
+        "id": "370ca9f2-3f34-45cc-a493-05dc8479f10d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538787570026,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "last 4 is for everyone. Again, 4 means only read permissions"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 42,
+        "inline_content": [
+          {
+            "Text": "last 4 is for everyone. Again, 4 means only read permissions"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538787570026,
+        "id": "595b3fc7-c9e5-4936-b665-3f94c76ce59a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538787646363,
+        "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "for completeness, 1 represents executable permissions so if this is meant to be an executable file, the permissions flag would be "
             ],
             [
               "0755",
@@ -1042,18 +1186,11 @@
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
+        "type": "bulleted_list",
+        "version": 56,
         "inline_content": [
           {
-            "Text": "Let’s deconstruct parts of "
-          },
-          {
-            "Text": "0644",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " * 0 means this is a number in octal format. That means that each number is in 0-7 range (compare to regular decimal notation where each number is in 0-9 range) * 6 is permissions for the creator of the file. It’s a bitmask 4 + 2. 4 means read permissions, 2 means write permission. When combined it means read/write access * 4 is permissions for the group that user belongs to. I.e. every user that also belongs to the same group will have those permissions. 4 means only read permissions * last 4 is for everyone. Again, 4 means only read permissions * for completness, 1 represents exuectuable permissions so if this is meant to be an executable file, the permissions flag would be "
+            "Text": "for completeness, 1 represents executable permissions so if this is meant to be an executable file, the permissions flag would be "
           },
           {
             "Text": "0755",
@@ -1096,21 +1233,21 @@
         "id": "95f2ffa0-665c-48ff-9c31-7b0f32cb1e5c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156086129,
+        "last_edited_time": 1538787665335,
         "parent_id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "To manage Windows permissions you would need to use Windows API."
+              "To manage Windows permissions you need to use Windows API."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 7,
         "inline_content": [
           {
-            "Text": "To manage Windows permissions you would need to use Windows API."
+            "Text": "To manage Windows permissions you need to use Windows API."
           }
         ]
       }

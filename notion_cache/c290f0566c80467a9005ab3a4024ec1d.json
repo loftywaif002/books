@@ -10,9 +10,9 @@
       "e0d44f9f-a3b6-48c1-aca5-c9b04ced394c",
       "8db94f0b-2297-49e8-bb86-20792975d53e",
       "9cbe51c0-a63f-4780-9e52-c2c149515c06",
-      "7f9e1fa0-3122-4c3c-a8d2-ec422dd48ba8",
+      "b3707e7e-e49c-44e9-a66b-a5b1a527fd38",
       "583d3e57-7342-49f0-a396-20d8c1d120b1",
-      "91e3a724-9746-4607-96f0-12195cda665a",
+      "4240d5bb-6938-4ae1-a86b-9bb93f249297",
       "f0aaab46-1f7b-4339-afd4-263195db4375",
       "94a5e610-6480-4a1a-883d-8d4d204c747a",
       "28c5b67c-ab8e-4e73-afd7-48a7395b49ac",
@@ -30,7 +30,7 @@
     "id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532207270023,
+    "last_edited_time": 1538788915713,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -41,7 +41,7 @@
       ]
     },
     "type": "page",
-    "version": 27,
+    "version": 41,
     "content_resolved": [
       {
         "alive": true,
@@ -201,7 +201,7 @@
         "id": "9cbe51c0-a63f-4780-9e52-c2c149515c06",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156103125,
+        "last_edited_time": 1538788896426,
         "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
         "parent_table": "block",
         "properties": {
@@ -253,7 +253,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "The simplest usage is: * create "
@@ -288,27 +288,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156103125,
-        "id": "7f9e1fa0-3122-4c3c-a8d2-ec422dd48ba8",
-        "ignore_block_count": true,
+        "created_time": 1538788893825,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Findex.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "b3707e7e-e49c-44e9-a66b-a5b1a527fd38",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156103125,
+        "last_edited_time": 1538788895133,
         "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file index.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Findex.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file index.go output noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Findex.go"
+        }
       },
       {
         "alive": true,
@@ -317,7 +325,7 @@
         "id": "583d3e57-7342-49f0-a396-20d8c1d120b1",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156103126,
+        "last_edited_time": 1538788915713,
         "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
         "parent_table": "block",
         "properties": {
@@ -328,7 +336,7 @@
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "More advanced command execution"
@@ -338,27 +346,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156103126,
-        "id": "91e3a724-9746-4607-96f0-12195cda665a",
-        "ignore_block_count": true,
+        "created_time": 1538788912764,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Findex2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "4240d5bb-6938-4ae1-a86b-9bb93f249297",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156103126,
+        "last_edited_time": 1538788914366,
         "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file index2.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Findex2.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file index2.go output noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Findex2.go"
+        }
       },
       {
         "alive": true,
@@ -586,7 +602,7 @@
         "id": "0614a462-2a97-440e-b89b-c829d59e8d37",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532207296670,
+        "last_edited_time": 1538788936385,
         "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
         "parent_table": "block",
         "properties": {
@@ -597,7 +613,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 28,
         "title": "Timing out process execution",
         "format_page": {
           "page_cover": "",
@@ -619,7 +635,7 @@
         "id": "4c8b9880-2312-4d78-8137-a8519861ce3e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532207323939,
+        "last_edited_time": 1538788962970,
         "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
         "parent_table": "block",
         "properties": {
@@ -630,7 +646,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 30,
         "title": "os.Exec gotchas",
         "format_page": {
           "page_cover": "",

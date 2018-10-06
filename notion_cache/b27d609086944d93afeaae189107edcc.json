@@ -9,8 +9,9 @@
       "01b2d035-480f-449d-9b27-0f062e718500",
       "3aa7004a-5fee-4660-9455-3bf3c3b7e677",
       "e4f8bf77-6d33-4a12-9aab-5d83d2f76753",
-      "5421a70f-6ee3-4ad7-9939-b08cde605cdc",
-      "3bb4da9e-5a26-4a30-96ef-16ca38532be0"
+      "0f0b6603-182e-447a-a1b9-40ba142b3dfe",
+      "3bb4da9e-5a26-4a30-96ef-16ca38532be0",
+      "1a11cae7-36ed-424e-ab50-0e98bfe57ab9"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156051170,
@@ -21,7 +22,7 @@
     "id": "b27d6090-8694-4d93-afea-ae189107edcc",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236125012,
+    "last_edited_time": 1538785586961,
     "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
     "parent_table": "block",
     "properties": {
@@ -32,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 21,
+    "version": 30,
     "content_resolved": [
       {
         "alive": true,
@@ -151,7 +152,7 @@
         "id": "e4f8bf77-6d33-4a12-9aab-5d83d2f76753",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156051170,
+        "last_edited_time": 1538785586961,
         "parent_id": "b27d6090-8694-4d93-afea-ae189107edcc",
         "parent_table": "block",
         "properties": {
@@ -174,7 +175,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Callstacks are useful in debugging. If you’re ok with additional cost, you can use package "
@@ -191,27 +192,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156051170,
-        "id": "5421a70f-6ee3-4ad7-9939-b08cde605cdc",
-        "ignore_block_count": true,
+        "created_time": 1538785582090,
+        "format": {
+          "block_height": 523,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Fadd_callstack.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "0f0b6603-182e-447a-a1b9-40ba142b3dfe",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156051170,
+        "last_edited_time": 1538785590771,
         "parent_id": "b27d6090-8694-4d93-afea-ae189107edcc",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file add_callstack.go output sha1:66fcc0b7a810db31cd98e6be9d63ab689f760027 goplayground:aXvvLgC9960"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Fadd_callstack.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file add_callstack.go output sha1:66fcc0b7a810db31cd98e6be9d63ab689f760027 goplayground:aXvvLgC9960"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 523,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Fadd_callstack.go"
+        }
       },
       {
         "alive": true,
@@ -237,6 +246,18 @@
             "Text": "As you can see top part of the callstack includes Go runtime code."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538785578879,
+        "id": "1a11cae7-36ed-424e-ab50-0e98bfe57ab9",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538785578879,
+        "parent_id": "b27d6090-8694-4d93-afea-ae189107edcc",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "Add callstack to error messages",

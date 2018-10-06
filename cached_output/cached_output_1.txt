@@ -147,6 +147,13 @@ exit status 2
 Hello, 世界
 
 |======|
+101aa08856ce1c98cb663b2c1ae0cb5367aad780:
+"5" of type string converted to 5
+4 of type int converted to 4
+Failed to convert 8 to int
+Failed to convert "not valid int" to int
+
+|======|
 103bc756ef6bba6be9cfab216017ae450df2197e:
 total: 30
 total: 30
@@ -290,9 +297,18 @@ Month: Sep '9', '09',  4
 main.MyInt: 5
 
 |======|
+25927c339acb04af9d614dac64ea009bd2b5e872:
+didTimeout: true, err: signal: killed
+
+|======|
 26d3b14e64d541fd523eed8f7c46f802626d2573:
 1
 0
+
+|======|
+276ba4ee113e367675bf7c80d7d52de63fe8d0b5:
+File 'file_exists.go' exists: true
+File 'non-existent-file.txt' exists: false
 
 |======|
 282f9e0599d041bfab20c1607e3deb8637d7e41d:
@@ -363,6 +379,14 @@ p: { }
 p: {John Doe}
 
 p.FullName(): John Doe
+
+|======|
+38b746151d0e5649095f070ec5606b17104a1ef0:
+Name of executable: '/var/folders/v_/ksw1dqvd59v790zk2wqf_t_80000gn/T/go-build830406166/b001/exe/raw_cmd_line_args'
+Arg 0, value: '-echo'
+Arg 1, value: 'echo-arg'
+Arg 2, value: 'additional'
+Arg 3, value: 'arg'
 
 |======|
 3abdfa118c0e5526b00ecc965e9999d26c19a846:
@@ -505,6 +529,13 @@ s1 is not equal to s2
 substring of s1: in
 byte (character) at position 3 in s1: 105
 s: 1 + 3.000000 = 4
+
+|======|
+4f80881dd406cc5bb680246e1d54624b1f2fbc39:
+Path: dir_list_files.go, is dir: false, size: 394 bytes
+Path: dir_remove.go, is dir: false, size: 1255 bytes
+Path: file_copy.go, is dir: false, size: 685 bytes
+Path: file_exists.go, is dir: false, size: 775 bytes
 
 |======|
 4fa53a3288ae45d449cca99c0b36d8c0e68d0347:
@@ -721,9 +752,23 @@ main.main()
 exit status 2
 
 |======|
+764d9718427f7b5b1d5b77aab31155897d5662f0:
+Name: file_info.go
+Size: 361
+IsDir: false
+Mode: 1094540
+ModTime: 2018-10-05 19:04:58.678830646 -0700 PDT
+OS info: *syscall.Stat_t
+
+|======|
 7934f1adf4c4c3690e9e24863c8541243e20413c:
 intOp(2, 3) = 5
 intOp(2, 3) = 6
+
+|======|
+7a7648be68410edfbd85cccaecb814a4baa93d6c:
+go: downloading github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869
+2017-09-04 03:38:45
 
 |======|
 7b8bf6f19e6aa17502b2eeb7f30cbef26cb9f369:
@@ -805,6 +850,12 @@ Data: {3 hello}
 8658f09506fe5122efcbac642e2cce8dcb4b1054:
 Called longMathOp() with 200ms timeout. res; 4955, err: <nil>
 Called longMathOp() with 10ms timeout. res: 0, err: context deadline exceeded
+
+|======|
+86e55035df106d0182382cd744af071fb91cec78:
+Output:
+go version go1.11.1 darwin/amd64
+
 
 |======|
 881d5f8bf50e454b08eedf65c7fb2568ea64bd4c:
@@ -1059,6 +1110,12 @@ Remainig arg: 'additional'
 Remainig arg: 'arg'
 
 |======|
+b07dbd5849bee7d882aee433bc527984bd9250db:
+flag -echo: 'echo-arg'
+Remainig arg: 'additional'
+Remainig arg: 'arg'
+
+|======|
 b133fc6270bbcb1bf0c4c8d63e8bb1dab9cb8baf:
 s1 is not equal to s2
 s1 is equal to s1
@@ -1305,6 +1362,10 @@ Last main statement
 Function main returned
 
 |======|
+db650fc162cc178753fd4ad8b4acdf9da5a6cd0a:
+File index.go has 32 lines
+
+|======|
 dbc50260bce77105a278dceefa29375ee34d7580:
 5 is odd
 18 is even
@@ -1356,6 +1417,12 @@ resp: <nil>
 |======|
 e089c2605a40582577073581771e4256581a4666:
 stmt ('if') is either 'if' or 'for'
+
+|======|
+e1dff2b1dcb3fd24209e2bd43464615065bb637b:
+Output:
+go version go1.11.1 darwin/amd64
+
 
 |======|
 e1ed65d07fa3f1fa3bbb910455a39dc13c1aa722:
@@ -1467,6 +1534,10 @@ eeb5f0aa5105c68cb1e3a43ecde16e9f01804162:
 base64: Af86zQ==
 
 |======|
+f10e1cd19e222f5a404c1c961c3e21d41cb856fe:
+File read_lines.go has 41 lines
+
+|======|
 f1b3ce91d1df9b85b7c032c93561df4411caa781:
 Person in compact XML: <Person><Name>John</Name><age>37</age><city>SF</city></Person>
 Person in pretty-printed XML:
@@ -1475,6 +1546,12 @@ Person in pretty-printed XML:
   <age>37</age>
   <city>SF</city>
 </Person>
+
+|======|
+f1cebede30b33d156a6cd8d4bf548ecf40584321:
+Entering main
+Recovered with message bar
+Exiting main the normal way
 
 |======|
 f28f9ff30671fba68b7601fde02b37de6477a11a:

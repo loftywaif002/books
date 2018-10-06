@@ -8,6 +8,10 @@
       "f0cdca61-37ee-4087-b6c7-3e55da5edb4e",
       "0742e1e1-494b-48d6-86e7-e361e3dbbdec",
       "e367aff7-5318-4c28-b21b-146ae0185222",
+      "715985a6-cd8c-4d31-b0f0-768628b26a0e",
+      "8697434b-4ff7-4d1b-a921-974c3b216447",
+      "7501a4d3-c2d1-4a27-9dea-21211451babe",
+      "35792dee-f53a-45ca-8868-fdb81d48cbd6",
       "cbc5edfb-110c-40f6-aec0-1fd4f4065084",
       "8701dd14-9158-44b3-9535-e5dc7d480810",
       "7a0e6042-c416-411f-b801-4666c3957df4",
@@ -22,7 +26,7 @@
     "id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532207006587,
+    "last_edited_time": 1538788496361,
     "parent_id": "c4da0534-9333-4df9-9513-4741ae04f808",
     "parent_table": "block",
     "properties": {
@@ -33,7 +37,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 31,
     "content_resolved": [
       {
         "alive": true,
@@ -126,25 +130,35 @@
         "id": "e367aff7-5318-4c28-b21b-146ae0185222",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156095212,
+        "last_edited_time": 1538788485747,
         "parent_id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "In "
-            ],
-            [
-              "Go",
-              [
-                [
-                  "b"
-                ]
-              ]
-            ],
-            [
-              ", there is 4 way to compare dates: - "
-            ],
+              "In Go, there is 4 way to compare dates:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 7,
+        "inline_content": [
+          {
+            "Text": "In Go, there is 4 way to compare dates:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538788485747,
+        "id": "715985a6-cd8c-4d31-b0f0-768628b26a0e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538788489505,
+        "parent_id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
+        "parent_table": "block",
+        "properties": {
+          "title": [
             [
               "date1 == date2",
               [
@@ -165,8 +179,40 @@
               ]
             ],
             [
-              " when the 2 are the same moment - "
-            ],
+              " when the 2 are the same moment"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 21,
+        "inline_content": [
+          {
+            "Text": "date1 == date2",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", returns "
+          },
+          {
+            "Text": "true",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " when the 2 are the same moment"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538788489505,
+        "id": "8697434b-4ff7-4d1b-a921-974c3b216447",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538788492503,
+        "parent_id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
+        "parent_table": "block",
+        "properties": {
+          "title": [
             [
               "date1 != date2",
               [
@@ -187,8 +233,40 @@
               ]
             ],
             [
-              " when the 2 are different moment - "
-            ],
+              " when the 2 are different moment"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "date1 != date2",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", returns "
+          },
+          {
+            "Text": "true",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " when the 2 are different moment"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538788492503,
+        "id": "7501a4d3-c2d1-4a27-9dea-21211451babe",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538788496361,
+        "parent_id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
+        "parent_table": "block",
+        "properties": {
+          "title": [
             [
               "date1.Before(date2)",
               [
@@ -209,8 +287,40 @@
               ]
             ],
             [
-              " when the first is strictly before the second - "
-            ],
+              " when the first is strictly before the second"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "date1.Before(date2)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ", returns "
+          },
+          {
+            "Text": "true",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " when the first is strictly before the second"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538788496361,
+        "id": "35792dee-f53a-45ca-8868-fdb81d48cbd6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538788497864,
+        "parent_id": "46ee816e-0e7d-43e7-8bb9-c0cb1c01f242",
+        "parent_table": "block",
+        "properties": {
+          "title": [
             [
               "date1.After(date2)",
               [
@@ -235,61 +345,9 @@
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
+        "type": "bulleted_list",
+        "version": 12,
         "inline_content": [
-          {
-            "Text": "In "
-          },
-          {
-            "Text": "Go",
-            "AttrFlags": 1
-          },
-          {
-            "Text": ", there is 4 way to compare dates: - "
-          },
-          {
-            "Text": "date1 == date2",
-            "AttrFlags": 2
-          },
-          {
-            "Text": ", returns "
-          },
-          {
-            "Text": "true",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " when the 2 are the same moment - "
-          },
-          {
-            "Text": "date1 != date2",
-            "AttrFlags": 2
-          },
-          {
-            "Text": ", returns "
-          },
-          {
-            "Text": "true",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " when the 2 are different moment - "
-          },
-          {
-            "Text": "date1.Before(date2)",
-            "AttrFlags": 2
-          },
-          {
-            "Text": ", returns "
-          },
-          {
-            "Text": "true",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " when the first is strictly before the second - "
-          },
           {
             "Text": "date1.After(date2)",
             "AttrFlags": 2

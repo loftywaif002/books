@@ -10,15 +10,15 @@
       "c1c933c2-e740-49f6-a610-dfca6ad4b47c",
       "747e8fc4-c758-47e1-bcd6-d1ba3b0de90b",
       "36f87b48-13ce-416c-9074-9a7594b4297c",
-      "e86e808c-ca36-4d5a-b72d-257c96239cd3",
+      "e02f9636-60fd-43da-a063-dc7eaf4801b0",
       "8388b87a-6588-4900-9a9c-1c11a9606598",
-      "c80156ec-7537-4e31-b2c9-59d19fe8e7c6",
+      "b1e15c2c-444c-4636-aa58-229a8bf77947",
       "ba32fbf6-d3ae-4e1f-9b82-d6c69ade9aef",
-      "f0d48572-1f78-4741-ac65-5748f197c409",
+      "f207f96b-a254-473e-87a7-0fe457957c19",
       "b6b27341-040f-409d-93c3-be81a06bfcf6",
-      "7fa715bf-a11d-4f1c-ab88-84a9c0abe942",
+      "1b92624b-b42b-444f-b751-20b25d64d31e",
       "b4a1c3cc-b0d5-4add-bc9c-fe4518ef2030",
-      "ca0eb3d6-7e2a-4da7-8b51-47d600703403"
+      "bf0b9b50-d71d-40ca-95cd-73b64b5642be"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156069202,
@@ -29,7 +29,7 @@
     "id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236577254,
+    "last_edited_time": 1538786605112,
     "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
     "parent_table": "block",
     "properties": {
@@ -40,7 +40,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 58,
     "content_resolved": [
       {
         "alive": true,
@@ -201,7 +201,7 @@
         "id": "36f87b48-13ce-416c-9074-9a7594b4297c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156069200,
+        "last_edited_time": 1538786520045,
         "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
         "parent_table": "block",
         "properties": {
@@ -236,7 +236,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Closing a channel ends ",
@@ -255,27 +255,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156069200,
-        "id": "e86e808c-ca36-4d5a-b72d-257c96239cd3",
-        "ignore_block_count": true,
+        "created_time": 1538786517283,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fclose.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "e02f9636-60fd-43da-a063-dc7eaf4801b0",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156069200,
+        "last_edited_time": 1538786518538,
         "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file close.go output sha1:82f3912d3a0d828d24d2b3f41cb8089a44f559f2 goplayground:q3mX8S36CBK"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fclose.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file close.go output sha1:82f3912d3a0d828d24d2b3f41cb8089a44f559f2 goplayground:q3mX8S36CBK"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fclose.go"
+        }
       },
       {
         "alive": true,
@@ -284,7 +292,7 @@
         "id": "8388b87a-6588-4900-9a9c-1c11a9606598",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156069201,
+        "last_edited_time": 1538786537976,
         "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
         "parent_table": "block",
         "properties": {
@@ -300,7 +308,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "A receive from closed channels returns zero value immediately:",
@@ -311,27 +319,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156069201,
-        "id": "c80156ec-7537-4e31-b2c9-59d19fe8e7c6",
-        "ignore_block_count": true,
+        "created_time": 1538786534453,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fclose2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "b1e15c2c-444c-4636-aa58-229a8bf77947",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156069201,
+        "last_edited_time": 1538786535965,
         "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file close2.go output sha1:489b17f8a7bd30ff4e98092919951c20f4de9e54 goplayground:a16qGMRfQwq"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fclose2.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file close2.go output sha1:489b17f8a7bd30ff4e98092919951c20f4de9e54 goplayground:a16qGMRfQwq"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fclose2.go"
+        }
       },
       {
         "alive": true,
@@ -340,7 +356,7 @@
         "id": "ba32fbf6-d3ae-4e1f-9b82-d6c69ade9aef",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156069201,
+        "last_edited_time": 1538786556060,
         "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
         "parent_table": "block",
         "properties": {
@@ -356,7 +372,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "When receiving, you can optionally test if channel is closed:",
@@ -367,27 +383,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156069201,
-        "id": "f0d48572-1f78-4741-ac65-5748f197c409",
-        "ignore_block_count": true,
+        "created_time": 1538786552676,
+        "format": {
+          "block_height": 392,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fclose3.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "f207f96b-a254-473e-87a7-0fe457957c19",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156069201,
+        "last_edited_time": 1538786584242,
         "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file close3.go output sha1:2f2778e77c917d68a9a6ae0a7f51904cfb0634dd goplayground:CtXiCamXQFr"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fclose3.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file close3.go output sha1:2f2778e77c917d68a9a6ae0a7f51904cfb0634dd goplayground:CtXiCamXQFr"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 392,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fclose3.go"
+        }
       },
       {
         "alive": true,
@@ -396,7 +420,7 @@
         "id": "b6b27341-040f-409d-93c3-be81a06bfcf6",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1533064204051,
+        "last_edited_time": 1538786577650,
         "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
         "parent_table": "block",
         "properties": {
@@ -432,7 +456,7 @@
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 6,
         "inline_content": [
           {
             "Text": "Closing channel twice ",
@@ -452,27 +476,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156069201,
-        "id": "7fa715bf-a11d-4f1c-ab88-84a9c0abe942",
-        "ignore_block_count": true,
+        "created_time": 1538786573941,
+        "format": {
+          "block_height": 240,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fclose4.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "1b92624b-b42b-444f-b751-20b25d64d31e",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156069201,
+        "last_edited_time": 1538786581318,
         "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file close4.go output allow_error sha1:d57ed196ecf819fe95ebe0aeb5557c97a115ce2a goplayground:ApSna0RUYjp"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fclose4.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file close4.go output allow_error sha1:d57ed196ecf819fe95ebe0aeb5557c97a115ce2a goplayground:ApSna0RUYjp"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 240,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fclose4.go"
+        }
       },
       {
         "alive": true,
@@ -481,7 +513,7 @@
         "id": "b4a1c3cc-b0d5-4add-bc9c-fe4518ef2030",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1533064178164,
+        "last_edited_time": 1538786605112,
         "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
         "parent_table": "block",
         "properties": {
@@ -517,7 +549,7 @@
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 6,
         "inline_content": [
           {
             "Text": "Sending to closed channel ",
@@ -537,27 +569,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156069202,
-        "id": "ca0eb3d6-7e2a-4da7-8b51-47d600703403",
-        "ignore_block_count": true,
+        "created_time": 1538786600346,
+        "format": {
+          "block_height": 246.9861297607422,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fclose5.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "bf0b9b50-d71d-40ca-95cd-73b64b5642be",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156069202,
+        "last_edited_time": 1538786613054,
         "parent_id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file close5.go output allow_error sha1:fa33388968966773ecdccb154c0a2b8bd94dad96 goplayground:D9p7YgUVKM1"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fclose5.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file close5.go output allow_error sha1:fa33388968966773ecdccb154c0a2b8bd94dad96 goplayground:D9p7YgUVKM1"
-          }
-        ]
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 246.9861297607422,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fclose5.go"
+        }
       }
     ],
     "title": "Closing channels",

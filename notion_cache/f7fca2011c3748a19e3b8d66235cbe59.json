@@ -14,6 +14,7 @@
       "ebd0820e-c548-4549-be92-bee342878184",
       "9e6e2085-5b82-45bc-b08f-8440eff4eb55",
       "597d8273-d57f-48e1-a61e-6b731dc31218",
+      "bf159dc4-4b08-457f-bedf-5ade2e756e23",
       "170e9895-c92a-400a-ac69-3a15212a0f5a",
       "ca9f7c47-4425-4ca2-956b-8a312243164e",
       "7c2f26ed-f0d8-4416-9d97-ca191b9433f5",
@@ -21,10 +22,10 @@
       "5c751bad-6bec-4f91-a196-eb7f00d19574",
       "2bb81945-43ae-45da-96c9-82a08b9ea09d",
       "a75373f8-a97c-4fb4-9a12-b8a4ded82338",
-      "410b191a-80ca-446d-89d3-c7784fb33797",
+      "76281374-e1cf-482d-8037-7032e0b220b4",
       "e7773e3f-acd6-4a16-85b1-a06d59d85837",
       "21fa5a44-bd9b-4e4b-be51-acf5dbed3dc5",
-      "6b5c1654-9ad6-4b45-a9d2-3b7dbe1b5798",
+      "f09c9c18-0f20-4345-a3d9-f37c0c575821",
       "db2ca2cd-e72d-45ea-8e19-857be970b52d",
       "ead00700-6742-4993-bb40-c754426bbb58"
     ],
@@ -37,7 +38,7 @@
     "id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532207193881,
+    "last_edited_time": 1538788795893,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -48,7 +49,7 @@
       ]
     },
     "type": "page",
-    "version": 24,
+    "version": 43,
     "content_resolved": [
       {
         "alive": true,
@@ -387,27 +388,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538788749976,
+        "format": {
+          "block_height": 259,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "bf159dc4-4b08-457f-bedf-5ade2e756e23",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538788757507,
+        "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 259,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532156101177,
         "id": "170e9895-c92a-400a-ac69-3a15212a0f5a",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156101177,
+        "last_edited_time": 1538788754137,
         "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file log.go output sha1:7ec653b436ede6b3ad152a355b3e35c556119cf9 goplayground:T6IHD0uxEsC"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file log.go output sha1:7ec653b436ede6b3ad152a355b3e35c556119cf9 goplayground:T6IHD0uxEsC"
-          }
-        ]
+        "version": 3
       },
       {
         "alive": true,
@@ -645,7 +667,7 @@
         "id": "a75373f8-a97c-4fb4-9a12-b8a4ded82338",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156101178,
+        "last_edited_time": 1538788775759,
         "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
         "parent_table": "block",
         "properties": {
@@ -656,7 +678,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Log package allows changing where the log output is sent. We can log to a file:"
@@ -666,27 +688,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156101178,
-        "id": "410b191a-80ca-446d-89d3-c7784fb33797",
-        "ignore_block_count": true,
+        "created_time": 1538788771642,
+        "format": {
+          "block_height": 425,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog_file.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "76281374-e1cf-482d-8037-7032e0b220b4",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156101178,
+        "last_edited_time": 1538788781038,
         "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file log_file.go sha1:0dd5e3acabedd5087ef46852fb9848cb76a8bb71 goplayground:thVsmxVof2c"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog_file.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file log_file.go sha1:0dd5e3acabedd5087ef46852fb9848cb76a8bb71 goplayground:thVsmxVof2c"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 425,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog_file.go"
+        }
       },
       {
         "alive": true,
@@ -720,7 +750,7 @@
         "id": "21fa5a44-bd9b-4e4b-be51-acf5dbed3dc5",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156101178,
+        "last_edited_time": 1538788795893,
         "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
         "parent_table": "block",
         "properties": {
@@ -731,7 +761,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "When running on Unix, we might log to syslog:"
@@ -741,27 +771,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156101178,
-        "id": "6b5c1654-9ad6-4b45-a9d2-3b7dbe1b5798",
-        "ignore_block_count": true,
+        "created_time": 1538788792785,
+        "format": {
+          "block_height": 373,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog_syslog.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "f09c9c18-0f20-4345-a3d9-f37c0c575821",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156101178,
+        "last_edited_time": 1538788800222,
         "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file log_syslog.go sha1:f2aca065f394259d2a04e0ceab84e363493112dd goplayground:qENpElxIRMS"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog_syslog.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file log_syslog.go sha1:f2aca065f394259d2a04e0ceab84e363493112dd goplayground:qENpElxIRMS"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 373,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog_syslog.go"
+        }
       },
       {
         "alive": true,

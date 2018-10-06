@@ -13,6 +13,7 @@
       "744f6373-207c-4fa3-92f6-f02d105f62fe",
       "c211a055-f13c-4abc-b4ed-73606cf8c62d",
       "c4fa5570-4754-4c75-bfbe-c3fe69e7192e",
+      "ca4dfa56-390d-4ac5-9418-7b6c9eb61212",
       "53d6c309-025d-4028-b1e1-8e3e2b4c58e8"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -24,7 +25,7 @@
     "id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236116436,
+    "last_edited_time": 1538785532165,
     "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
     "parent_table": "block",
     "properties": {
@@ -35,7 +36,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 28,
     "content_resolved": [
       {
         "alive": true,
@@ -296,27 +297,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538785532165,
+        "format": {
+          "block_height": 905.0000610351562,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Ferrors_in_short_programs.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "ca4dfa56-390d-4ac5-9418-7b6c9eb61212",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538785562592,
+        "parent_id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Ferrors_in_short_programs.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 14,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 905.0000610351562,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Ferrors_in_short_programs.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532156050152,
         "id": "53d6c309-025d-4028-b1e1-8e3e2b4c58e8",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156050152,
+        "last_edited_time": 1538785550869,
         "parent_id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file errors_in_short_programs.go output allow_error sha1:b71b4c3a3d33c20785aa36fd6d66156649a8b5d8 goplayground:v2lHFqenkOG"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file errors_in_short_programs.go output allow_error sha1:b71b4c3a3d33c20785aa36fd6d66156649a8b5d8 goplayground:v2lHFqenkOG"
-          }
-        ]
+        "version": 3
       }
     ],
     "title": "Handling errors in short programs",

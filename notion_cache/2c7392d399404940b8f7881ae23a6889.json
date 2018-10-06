@@ -8,11 +8,17 @@
       "8dc542ad-c741-4779-9b9c-956e0ba4c102",
       "3af48925-945e-4604-90bb-42716df0db64",
       "6cd47e04-abfd-407f-ae36-5f7a8a325887",
-      "cc2f1ab7-d25e-4637-a845-d9cd0318665d",
+      "81fc8dc0-8ade-4c7b-ad0a-0af5c2ac60b3",
       "b10c6f7c-6ef4-4010-83a2-ac63d0732d7f",
       "5a0c4dee-6050-4a1c-a409-35e8abe5a8e3",
+      "d21cd44b-643f-416e-8ae9-b25a473e715c",
+      "c03e15c7-963d-4add-97d7-b8e654b6329d",
       "56c9001d-0705-46b1-b10d-89d216586724",
       "f1620504-93ae-4582-a2d7-64a094c330e9",
+      "2bf47343-c237-4f8b-b0f6-9bebe81f3e76",
+      "3cf943c2-cc9a-465b-b8bd-ccc9f61aeae0",
+      "5dbdaee4-270c-4b4f-9d03-3c8a03534de8",
+      "8a3e6e7c-35bb-41a3-accc-cf370dbd8271",
       "5c7408fb-d34a-4155-8f69-1ed7bd8e1d43",
       "263826c3-3be1-4cf9-877d-11ea1512de23"
     ],
@@ -25,7 +31,7 @@
     "id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532206966253,
+    "last_edited_time": 1538788459019,
     "parent_id": "c4da0534-9333-4df9-9513-4741ae04f808",
     "parent_table": "block",
     "properties": {
@@ -36,7 +42,7 @@
       ]
     },
     "type": "page",
-    "version": 21,
+    "version": 48,
     "content_resolved": [
       {
         "alive": true,
@@ -167,7 +173,7 @@
         "id": "6cd47e04-abfd-407f-ae36-5f7a8a325887",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156094206,
+        "last_edited_time": 1538788212116,
         "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
         "parent_table": "block",
         "properties": {
@@ -189,7 +195,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Here’s an example using "
@@ -206,27 +212,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156094206,
-        "id": "cc2f1ab7-d25e-4637-a845-d9cd0318665d",
-        "ignore_block_count": true,
+        "created_time": 1538788209050,
+        "format": {
+          "block_height": 349,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0260-time-date%2Fstrftime.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "81fc8dc0-8ade-4c7b-ad0a-0af5c2ac60b3",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156094206,
+        "last_edited_time": 1538788216018,
         "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file strftime.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0260-time-date%2Fstrftime.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file strftime.go output noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 349,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0260-time-date%2Fstrftime.go"
+        }
       },
       {
         "alive": true,
@@ -260,21 +274,83 @@
         "id": "5a0c4dee-6050-4a1c-a409-35e8abe5a8e3",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156094207,
+        "last_edited_time": 1538788220489,
         "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Unfortunately, when it comes to parsing things are not as good. There are two packages: * https://godoc.org/github.com/jeffjen/datefmt * https://godoc.org/github.com/knz/strtime"
+              "Unfortunately, when it comes to parsing things are not as good. There are two packages: "
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
-            "Text": "Unfortunately, when it comes to parsing things are not as good. There are two packages: * https://godoc.org/github.com/jeffjen/datefmt * https://godoc.org/github.com/knz/strtime"
+            "Text": "Unfortunately, when it comes to parsing things are not as good. There are two packages: "
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538788220489,
+        "id": "d21cd44b-643f-416e-8ae9-b25a473e715c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538788227943,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "https://godoc.org/github.com/jeffjen/datefmt",
+              [
+                [
+                  "a",
+                  "https://godoc.org/github.com/jeffjen/datefmt"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 25,
+        "inline_content": [
+          {
+            "Text": "https://godoc.org/github.com/jeffjen/datefmt",
+            "Link": "https://godoc.org/github.com/jeffjen/datefmt"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538788224826,
+        "id": "c03e15c7-963d-4add-97d7-b8e654b6329d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538788226776,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "https://godoc.org/github.com/knz/strtime",
+              [
+                [
+                  "a",
+                  "https://godoc.org/github.com/knz/strtime"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 18,
+        "inline_content": [
+          {
+            "Text": "https://godoc.org/github.com/knz/strtime",
+            "Link": "https://godoc.org/github.com/knz/strtime"
           }
         ]
       },
@@ -345,6 +421,252 @@
             "Text": " directives"
           }
         ]
+      },
+      {
+        "alive": true,
+        "collection_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538788273927,
+        "id": "2bf47343-c237-4f8b-b0f6-9bebe81f3e76",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538788273927,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "type": "collection_view",
+        "version": 4,
+        "view_ids": [
+          "c4e8c979-9f7b-434d-9647-78811d754be9"
+        ],
+        "collection_views": [
+          {
+            "CollectionView": {
+              "id": "c4e8c979-9f7b-434d-9647-78811d754be9",
+              "alive": true,
+              "format": {
+                "table_properties": [
+                  {
+                    "width": 276,
+                    "visible": true,
+                    "property": "title"
+                  },
+                  {
+                    "width": 307,
+                    "visible": true,
+                    "property": "*r=Z"
+                  },
+                  {
+                    "width": 247,
+                    "visible": true,
+                    "property": "m}P;"
+                  }
+                ],
+                "table_wrap": true
+              },
+              "name": "Default View",
+              "page_sort": [
+                "e004f507-b9f2-4528-877f-3f9f44ddfe70",
+                "e7b7a200-e497-41e8-941c-74104c262456",
+                "6ccb4fad-edbb-4f1d-a4f5-9d545a9f07b8",
+                "0146de3a-30f0-4f12-b912-b78000138ec2"
+              ],
+              "parent_id": "2bf47343-c237-4f8b-b0f6-9bebe81f3e76",
+              "parent_table": "block",
+              "query": {
+                "aggregate": null
+              },
+              "type": "table",
+              "version": 8
+            },
+            "Collection": {
+              "alive": true,
+              "format": {
+                "collection_page_properties": [
+                  {
+                    "property": "*r=Z",
+                    "visible": true
+                  },
+                  {
+                    "property": "m}P;",
+                    "visible": true
+                  }
+                ]
+              },
+              "id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+              "name": null,
+              "parent_id": "2bf47343-c237-4f8b-b0f6-9bebe81f3e76",
+              "parent_table": "block",
+              "schema": {
+                "*r=Z": {
+                  "name": "Meaning",
+                  "options": null,
+                  "type": "text"
+                },
+                "m}P;": {
+                  "name": "Example",
+                  "options": null,
+                  "type": "text"
+                },
+                "title": {
+                  "name": "Code",
+                  "options": null,
+                  "type": "title"
+                }
+              },
+              "version": 6
+            },
+            "CollectionRows": [
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538788273927,
+                "id": "e004f507-b9f2-4528-877f-3f9f44ddfe70",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538788385602,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Weekday as locale’s abbreviated name."
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "Mon"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%a"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 25
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538788273927,
+                "id": "e7b7a200-e497-41e8-941c-74104c262456",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538788410266,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Weekday as locale’s full name."
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "Monday"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%A"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 38
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538788273927,
+                "id": "6ccb4fad-edbb-4f1d-a4f5-9d545a9f07b8",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538788273927,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "type": "page",
+                "version": 3
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538788327846,
+                "id": "0146de3a-30f0-4f12-b912-b78000138ec2",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538788327846,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "type": "page",
+                "version": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538788418316,
+        "id": "3cf943c2-cc9a-465b-b8bd-ccc9f61aeae0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538788422995,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "TODO: finish the table"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 48,
+        "inline_content": [
+          {
+            "Text": "TODO: finish the table"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538788423331,
+        "id": "5dbdaee4-270c-4b4f-9d03-3c8a03534de8",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538788457376,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "https://www.programming-books.io/essential/go/169-format-time-like-strftime",
+              [
+                [
+                  "a",
+                  "https://www.programming-books.io/essential/go/169-format-time-like-strftime"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 8,
+        "inline_content": [
+          {
+            "Text": "https://www.programming-books.io/essential/go/169-format-time-like-strftime",
+            "Link": "https://www.programming-books.io/essential/go/169-format-time-like-strftime"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538788459019,
+        "id": "8a3e6e7c-35bb-41a3-accc-cf370dbd8271",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538788459062,
+        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
       },
       {
         "alive": true,
@@ -936,13 +1258,25 @@
         "id": "263826c3-3be1-4cf9-877d-11ea1512de23",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156094212,
+        "last_edited_time": 1538788439887,
         "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "You can also use http://www.strfti.me/ service to help you build "
+              "You can also use "
+            ],
+            [
+              "http://www.strfti.me/",
+              [
+                [
+                  "a",
+                  "http://www.strfti.me/"
+                ]
+              ]
+            ],
+            [
+              " service to help you build "
             ],
             [
               "strftime",
@@ -958,10 +1292,17 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 12,
         "inline_content": [
           {
-            "Text": "You can also use http://www.strfti.me/ service to help you build "
+            "Text": "You can also use "
+          },
+          {
+            "Text": "http://www.strfti.me/",
+            "Link": "http://www.strfti.me/"
+          },
+          {
+            "Text": " service to help you build "
           },
           {
             "Text": "strftime",

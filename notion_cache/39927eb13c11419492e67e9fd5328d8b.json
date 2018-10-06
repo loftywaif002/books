@@ -7,6 +7,7 @@
       "2993c2e3-fec9-42f4-94ab-16e612f6a289",
       "5524991f-0537-4778-8e51-345086cb74f0",
       "e62d9b21-b14d-476a-9f2a-0f44e1f45375",
+      "bb28f373-63bd-4f90-bb26-4a8b804d706d",
       "e063e057-2224-410f-a9ab-9547dd10e7dd",
       "9dbdd574-ab4f-4eda-88fb-78f97d13444e",
       "a5d7cd65-6def-4d03-ad9c-4284486f2039",
@@ -18,7 +19,8 @@
       "6477bdd3-6eba-42af-9d06-4f7f5d1a0295",
       "9c36d19e-6b24-4475-828b-01136fe4ba6d",
       "0037c57a-f6ab-461d-92e2-d65b444e3860",
-      "8dcc55d8-8870-4d07-a07f-4f179a25f7ff",
+      "20f23ec6-618c-45ef-8430-9d828ee44b4d",
+      "6524619d-5ab7-4fb1-9ecd-df9a9b1093b4",
       "e02d8165-1728-4a74-8baa-73fd14efa9c5",
       "b3617dee-1c06-4016-8303-7d8408e76a5f",
       "78f362ef-46d2-4765-b278-a8d4f57adb53",
@@ -37,7 +39,7 @@
     "id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236063986,
+    "last_edited_time": 1538785271041,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -48,7 +50,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 49,
     "content_resolved": [
       {
         "alive": true,
@@ -116,23 +118,56 @@
         "created_time": 1532204990311,
         "id": "e62d9b21-b14d-476a-9f2a-0f44e1f45375",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532204991678,
+        "last_edited_time": 1538784975653,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Basic error handling:"
+              "Basics of error handling:"
             ]
           ]
         },
         "type": "text",
-        "version": 12,
+        "version": 20,
         "inline_content": [
           {
-            "Text": "Basic error handling:"
+            "Text": "Basics of error handling:"
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538784962141,
+        "format": {
+          "block_height": 557,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Findex.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "bb28f373-63bd-4f90-bb26-4a8b804d706d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538784971269,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Findex.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 557,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Findex.go"
+        }
       },
       {
         "alive": true,
@@ -141,23 +176,11 @@
         "id": "e063e057-2224-410f-a9ab-9547dd10e7dd",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156044167,
+        "last_edited_time": 1538784966864,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file index.go output sha1:9c8715b3eb9ca0804554ce63dd9547adf96d3515 goplayground:kwfvcaObxRJ"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file index.go output sha1:9c8715b3eb9ca0804554ce63dd9547adf96d3515 goplayground:kwfvcaObxRJ"
-          }
-        ]
+        "version": 3
       },
       {
         "alive": true,
@@ -561,7 +584,7 @@
         "id": "0037c57a-f6ab-461d-92e2-d65b444e3860",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156044171,
+        "last_edited_time": 1538785036483,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "properties": {
@@ -577,7 +600,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "You should always check for errors.",
@@ -588,25 +611,84 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156044171,
-        "id": "8dcc55d8-8870-4d07-a07f-4f179a25f7ff",
-        "ignore_block_count": true,
+        "created_time": 1538785037746,
+        "id": "20f23ec6-618c-45ef-8430-9d828ee44b4d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156044171,
+        "last_edited_time": 1538785098394,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "You can often see people asking on mailing lists or StackOverflow why their code doesn’t and it would be obvious if the code didn’t skip error checking."
+              "A key to writing robust software is checking errors and handling the appropriately."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 236,
         "inline_content": [
           {
-            "Text": "You can often see people asking on mailing lists or StackOverflow why their code doesn’t and it would be obvious if the code didn’t skip error checking."
+            "Text": "A key to writing robust software is checking errors and handling the appropriately."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538785098873,
+        "id": "6524619d-5ab7-4fb1-9ecd-df9a9b1093b4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538785271041,
+        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you try to read a file and "
+            ],
+            [
+              "os.Open",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " fails and returns an error, you should check for that and act accordingly. Trying to read from "
+            ],
+            [
+              "nil",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " file object will crash the program."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 565,
+        "inline_content": [
+          {
+            "Text": "If you try to read a file and "
+          },
+          {
+            "Text": "os.Open",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " fails and returns an error, you should check for that and act accordingly. Trying to read from "
+          },
+          {
+            "Text": "nil",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " file object will crash the program."
           }
         ]
       },
@@ -666,19 +748,19 @@
         "id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236095374,
+        "last_edited_time": 1538785493583,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Create custom error type"
+              "Custom error types"
             ]
           ]
         },
         "type": "page",
-        "version": 23,
-        "title": "Create custom error type",
+        "version": 58,
+        "title": "Custom error types",
         "format_page": {
           "page_cover": "",
           "page_cover_position": 0,
@@ -765,7 +847,7 @@
         "id": "f9c634d2-6c56-4aac-9b9f-f65f2ce4eeca",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236116436,
+        "last_edited_time": 1538785532165,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "properties": {
@@ -776,7 +858,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 28,
         "title": "Handling errors in short programs",
         "format_page": {
           "page_cover": "",
@@ -798,7 +880,7 @@
         "id": "b27d6090-8694-4d93-afea-ae189107edcc",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236125012,
+        "last_edited_time": 1538785586961,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "properties": {
@@ -809,7 +891,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 30,
         "title": "Add callstack to error messages",
         "format_page": {
           "page_cover": "",
@@ -831,19 +913,19 @@
         "id": "22e433ac-5fbb-4236-b5de-e9066d4f0b12",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236132732,
+        "last_edited_time": 1538785614618,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Good practices for error messages"
+              "Writing good error messages"
             ]
           ]
         },
         "type": "page",
-        "version": 21,
-        "title": "Good practices for error messages",
+        "version": 71,
+        "title": "Writing good error messages",
         "format_page": {
           "page_cover": "",
           "page_cover_position": 0,

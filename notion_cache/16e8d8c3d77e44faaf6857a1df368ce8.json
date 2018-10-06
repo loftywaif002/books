@@ -11,7 +11,7 @@
       "1d623619-a48f-4061-9b49-de3c70899a15",
       "b8e4e074-cfe4-48cc-9032-80f44eca96f1",
       "3f2ee4c4-6a5a-4c12-adf0-99d287576740",
-      "b0468440-e186-4e77-baba-87189c356f33",
+      "500c02c6-a81a-4455-8303-210abb88b7b0",
       "038aabcf-01b6-476a-bb7e-f908dfab5a26",
       "826f45e7-b574-492d-8b67-9ef5612b2bc9",
       "f83208a0-c766-4da8-8787-d9c75d249ae6",
@@ -49,7 +49,7 @@
     "id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236282534,
+    "last_edited_time": 1538786190129,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -60,7 +60,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -229,7 +229,7 @@
         "id": "3f2ee4c4-6a5a-4c12-adf0-99d287576740",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156061204,
+        "last_edited_time": 1538786190129,
         "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
         "parent_table": "block",
         "properties": {
@@ -240,7 +240,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Here’s an example of using worker pool of goroutines and coordinating their work with channels:"
@@ -250,27 +250,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156061204,
-        "id": "b0468440-e186-4e77-baba-87189c356f33",
-        "ignore_block_count": true,
+        "created_time": 1538786185343,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Findex.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "500c02c6-a81a-4455-8303-210abb88b7b0",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156061204,
+        "last_edited_time": 1538786187337,
         "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file index.go output sha1:a4d1d5f37a28cb84a230fafab06e96384f1560f1 goplayground:7BD9mDiG0Uu"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Findex.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file index.go output sha1:a4d1d5f37a28cb84a230fafab06e96384f1560f1 goplayground:7BD9mDiG0Uu"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Findex.go"
+        }
       },
       {
         "alive": true,
@@ -1236,7 +1244,7 @@
         "id": "cf850520-3a65-4dce-af24-371d978fbed5",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236290938,
+        "last_edited_time": 1538786227349,
         "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
         "parent_table": "block",
         "properties": {
@@ -1247,7 +1255,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 32,
         "title": "Hello World goroutine",
         "format_page": {
           "page_cover": "",
@@ -1269,7 +1277,7 @@
         "id": "1bd528bb-f5dc-4155-9460-b2f9a11d6164",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236364038,
+        "last_edited_time": 1538786248092,
         "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
         "parent_table": "block",
         "properties": {
@@ -1280,7 +1288,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 32,
         "title": "Create goroutines",
         "format_page": {
           "page_cover": "",
@@ -1302,7 +1310,7 @@
         "id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236374324,
+        "last_edited_time": 1538786275548,
         "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
         "parent_table": "block",
         "properties": {
@@ -1313,7 +1321,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 30,
         "title": "Wait for goroutines to finish",
         "format_page": {
           "page_cover": "",
@@ -1335,19 +1343,19 @@
         "id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236420259,
+        "last_edited_time": 1538786330592,
         "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Limiting concurrency with semaphore"
+              "Limiting concurrency with a semaphore"
             ]
           ]
         },
         "type": "page",
-        "version": 25,
-        "title": "Limiting concurrency with semaphore",
+        "version": 36,
+        "title": "Limiting concurrency with a semaphore",
         "format_page": {
           "page_cover": "",
           "page_cover_position": 0,

@@ -12,7 +12,7 @@
       "4095ec13-624f-4a0d-a24a-24a1ca0fb017",
       "67b8cb86-256a-4ec5-a4c9-7ada254ce2c9",
       "555a469f-b333-440a-a4b8-d208bbaf3a3b",
-      "bf619871-89ef-4cbe-b87b-bace505cb8d1",
+      "7a75e233-d973-4f53-a4ad-16bff54a71b9",
       "e84620a4-8e5d-4676-9437-63f578bd0914",
       "650fd275-6c63-4276-a174-1e548c31a318",
       "2ca1efbf-f19d-4953-9d09-2f513fca0027",
@@ -32,7 +32,7 @@
     "id": "41f795bf-701d-4784-b319-7349cdb8f2de",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236648899,
+    "last_edited_time": 1538786878956,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -43,7 +43,7 @@
       ]
     },
     "type": "page",
-    "version": 41,
+    "version": 48,
     "content_resolved": [
       {
         "alive": true,
@@ -267,7 +267,7 @@
         "id": "555a469f-b333-440a-a4b8-d208bbaf3a3b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156074116,
+        "last_edited_time": 1538786878956,
         "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
         "parent_table": "block",
         "properties": {
@@ -278,7 +278,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Here’s a basic pattern that uses a map for a cache and ensures exclusive access with mutex locking:"
@@ -288,27 +288,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156074116,
-        "id": "bf619871-89ef-4cbe-b87b-bace505cb8d1",
-        "ignore_block_count": true,
+        "created_time": 1538786875557,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Findex.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "7a75e233-d973-4f53-a4ad-16bff54a71b9",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156074116,
+        "last_edited_time": 1538786877372,
         "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file index.go output sha1:6507399efba68176abf2eeb6e4fc71b0312aa36e goplayground:QlyPp-d8av8"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Findex.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file index.go output sha1:6507399efba68176abf2eeb6e4fc71b0312aa36e goplayground:QlyPp-d8av8"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Findex.go"
+        }
       },
       {
         "alive": true,
@@ -548,7 +556,7 @@
         "id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532206075094,
+        "last_edited_time": 1538786904948,
         "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
         "parent_table": "block",
         "properties": {
@@ -559,7 +567,7 @@
           ]
         },
         "type": "page",
-        "version": 26,
+        "version": 33,
         "title": "Read-Write mutes (RWMutex)",
         "format_page": {
           "page_cover": "",
@@ -614,7 +622,7 @@
         "id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532206140094,
+        "last_edited_time": 1538786932059,
         "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
         "parent_table": "block",
         "properties": {
@@ -625,7 +633,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 30,
         "title": "Detecting races",
         "format_page": {
           "page_cover": "",

@@ -8,7 +8,7 @@
       "6b796187-dbbd-43d5-aa73-13793ed2b3fc",
       "613ca276-0f27-4b1c-8689-92f9324bd466",
       "6f0c0062-d1a3-4497-8185-3ab56dc1741f",
-      "136e651b-99a4-4f94-83a7-f5d4e739e5cb",
+      "8a23dc5c-9ffd-47e5-823c-e1876ea317ab",
       "cf43ecf4-b56d-426c-82f2-1c317bba6260",
       "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
       "5390af0b-aa7a-492e-8c17-fc37a2a87706",
@@ -26,18 +26,18 @@
     "id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532206420822,
+    "last_edited_time": 1538787326269,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
       "title": [
         [
-          "File I/O"
+          "Working with files and I/O"
         ]
       ]
     },
     "type": "page",
-    "version": 34,
+    "version": 97,
     "content_resolved": [
       {
         "alive": true,
@@ -130,7 +130,7 @@
         "id": "6f0c0062-d1a3-4497-8185-3ab56dc1741f",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156084244,
+        "last_edited_time": 1538787306014,
         "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
         "parent_table": "block",
         "properties": {
@@ -141,7 +141,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "A program that opens a file, reads the whole content and closes the file:"
@@ -151,27 +151,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156084244,
-        "id": "136e651b-99a4-4f94-83a7-f5d4e739e5cb",
-        "ignore_block_count": true,
+        "created_time": 1538787301943,
+        "format": {
+          "block_height": 566,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Findex.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "8a23dc5c-9ffd-47e5-823c-e1876ea317ab",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156084244,
+        "last_edited_time": 1538787309635,
         "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file index.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Findex.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file index.go output noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 566,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Findex.go"
+        }
       },
       {
         "alive": true,
@@ -196,7 +204,7 @@
         "id": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532206472014,
+        "last_edited_time": 1538787385350,
         "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
         "parent_table": "block",
         "properties": {
@@ -207,7 +215,7 @@
           ]
         },
         "type": "page",
-        "version": 24,
+        "version": 33,
         "title": "Reading files",
         "format_page": {
           "page_cover": "",
@@ -229,7 +237,7 @@
         "id": "5390af0b-aa7a-492e-8c17-fc37a2a87706",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236758469,
+        "last_edited_time": 1538787570026,
         "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
         "parent_table": "block",
         "properties": {
@@ -240,7 +248,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 45,
         "title": "Writing files",
         "format_page": {
           "page_cover": "",
@@ -262,7 +270,7 @@
         "id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532206557385,
+        "last_edited_time": 1538787520059,
         "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
         "parent_table": "block",
         "properties": {
@@ -273,7 +281,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 54,
         "title": "File operations",
         "format_page": {
           "page_cover": "",
@@ -295,7 +303,7 @@
         "id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532206624022,
+        "last_edited_time": 1538787713736,
         "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
         "parent_table": "block",
         "properties": {
@@ -306,7 +314,7 @@
           ]
         },
         "type": "page",
-        "version": 29,
+        "version": 43,
         "title": "Directory operations",
         "format_page": {
           "page_cover": "",
@@ -384,7 +392,7 @@
         }
       }
     ],
-    "title": "File I/O",
+    "title": "Working with files and I/O",
     "format_page": {
       "page_cover": "",
       "page_cover_position": 0,

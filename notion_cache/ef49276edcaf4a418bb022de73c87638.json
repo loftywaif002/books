@@ -20,9 +20,9 @@
       "8a058b9c-4534-46cb-b6c0-1faebd70ae59",
       "3d3718ca-780a-4cae-80d1-9934f0e7284d",
       "d9d5ffdc-69ad-47e9-b8e8-32a10dc7d327",
-      "b1c2e409-6d9e-4a41-9d11-a8c5c1902ce1",
+      "4536b86c-6c88-4477-9044-a1da9c31741d",
       "fef141d1-0cf8-4219-9b19-ac667130e29f",
-      "319c9d1c-439e-4a78-a819-78e3c434c85b",
+      "09e01c57-6d27-4514-93ed-edcbb8443346",
       "980ac7fe-d541-48df-9d7b-dc1d0adae69e",
       "d3c3b411-ba20-4ff9-8127-82f834cf6893",
       "ae5c6756-9b59-4282-b8bd-5c333bacbdc5",
@@ -37,7 +37,7 @@
     "id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532206624022,
+    "last_edited_time": 1538787713736,
     "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
     "parent_table": "block",
     "properties": {
@@ -48,7 +48,7 @@
       ]
     },
     "type": "page",
-    "version": 29,
+    "version": 43,
     "content_resolved": [
       {
         "alive": true,
@@ -540,7 +540,7 @@
         "id": "d9d5ffdc-69ad-47e9-b8e8-32a10dc7d327",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156088236,
+        "last_edited_time": 1538787694554,
         "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
         "parent_table": "block",
         "properties": {
@@ -562,7 +562,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "To list files and directories in a given directory we can use "
@@ -579,27 +579,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156088236,
-        "id": "b1c2e409-6d9e-4a41-9d11-a8c5c1902ce1",
-        "ignore_block_count": true,
+        "created_time": 1538787690120,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Fdir_list_files.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "4536b86c-6c88-4477-9044-a1da9c31741d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156088236,
+        "last_edited_time": 1538787692222,
         "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file dir_list_files.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Fdir_list_files.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file dir_list_files.go output noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Fdir_list_files.go"
+        }
       },
       {
         "alive": true,
@@ -608,7 +616,7 @@
         "id": "fef141d1-0cf8-4219-9b19-ac667130e29f",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156088237,
+        "last_edited_time": 1538787713736,
         "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
         "parent_table": "block",
         "properties": {
@@ -619,7 +627,7 @@
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "List files recursively"
@@ -629,27 +637,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156088237,
-        "id": "319c9d1c-439e-4a78-a819-78e3c434c85b",
-        "ignore_block_count": true,
+        "created_time": 1538787710877,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Ffilepath_walk.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "09e01c57-6d27-4514-93ed-edcbb8443346",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156088237,
+        "last_edited_time": 1538787712434,
         "parent_id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file filepath_walk.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Ffilepath_walk.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file filepath_walk.go output noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Ffilepath_walk.go"
+        }
       },
       {
         "alive": true,

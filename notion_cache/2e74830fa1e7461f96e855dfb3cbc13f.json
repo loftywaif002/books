@@ -8,9 +8,9 @@
       "06b4cd9b-c209-478c-a7ef-379b7d9b20c7",
       "952bd5aa-23ba-43f5-8942-468c1de85670",
       "c85f9ea6-6cc2-4241-8e65-3c80bdf093d6",
-      "a45f010c-752f-49df-a91b-0e82e5c0e89b",
+      "910f075a-d697-4468-bc07-0efce4c3d62e",
       "6d8d949b-8fb9-494a-9791-596351c559d2",
-      "ffa67917-cfb0-4479-9772-3101cbced22d",
+      "1cdba475-fbbb-498c-ae13-d4eeea65002f",
       "dcae1eb8-130b-41ae-9b59-b782c55aa526",
       "6c15e0b3-bcba-4e3f-838e-94abde9367ef",
       "babe6169-8aa6-48dd-8fbc-5e7228b1ad5c",
@@ -27,7 +27,7 @@
     "id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532206803718,
+    "last_edited_time": 1538788154700,
     "parent_id": "c4da0534-9333-4df9-9513-4741ae04f808",
     "parent_table": "block",
     "properties": {
@@ -38,7 +38,7 @@
       ]
     },
     "type": "page",
-    "version": 21,
+    "version": 40,
     "content_resolved": [
       {
         "alive": true,
@@ -168,7 +168,7 @@
         "id": "c85f9ea6-6cc2-4241-8e65-3c80bdf093d6",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156092123,
+        "last_edited_time": 1538787857685,
         "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
         "parent_table": "block",
         "properties": {
@@ -179,7 +179,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Go designers came up with arguably more intuitive way of time parsing and formatting where you show a template of how you want the result to look like:"
@@ -189,27 +189,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156092123,
-        "id": "a45f010c-752f-49df-a91b-0e82e5c0e89b",
-        "ignore_block_count": true,
+        "created_time": 1538787854729,
+        "format": {
+          "block_height": 368,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0260-time-date%2Fformat.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "910f075a-d697-4468-bc07-0efce4c3d62e",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156092123,
+        "last_edited_time": 1538787861855,
         "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file format.go output sha1:2d56dbcf8e6e21620c5979ec9259843764022f4f goplayground:B_uLdROWGO6"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0260-time-date%2Fformat.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file format.go output sha1:2d56dbcf8e6e21620c5979ec9259843764022f4f goplayground:B_uLdROWGO6"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 368,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0260-time-date%2Fformat.go"
+        }
       },
       {
         "alive": true,
@@ -256,164 +264,309 @@
       },
       {
         "alive": true,
+        "collection_id": "d0453abc-8908-439a-a2dc-59e97568a31c",
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156092125,
-        "id": "ffa67917-cfb0-4479-9772-3101cbced22d",
-        "ignore_block_count": true,
+        "created_time": 1538788018045,
+        "id": "1cdba475-fbbb-498c-ae13-d4eeea65002f",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156092125,
+        "last_edited_time": 1538788018045,
         "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "template"
-            ],
-            [
-              "meaning"
-            ],
-            [
-              "2006, 06"
-            ],
-            [
-              "4 or 2 digit year"
-            ],
-            [
-              "2"
-            ],
-            [
-              "month, 1-12"
-            ],
-            [
-              "1"
-            ],
-            [
-              "day, 1-31"
-            ],
-            [
-              "15"
-            ],
-            [
-              "hour"
-            ],
-            [
-              "am, PM"
-            ],
-            [
-              "show hour in am/pm format"
-            ],
-            [
-              "4"
-            ],
-            [
-              "minute"
-            ],
-            [
-              "5"
-            ],
-            [
-              "second"
-            ],
-            [
-              "MST"
-            ],
-            [
-              "string time zone"
-            ],
-            [
-              "-0700"
-            ],
-            [
-              "numeric time zone"
-            ],
-            [
-              "Jan, January"
-            ],
-            [
-              "short or long month name"
-            ],
-            [
-              "Mon, Monday"
-            ],
-            [
-              "short or long day name"
+        "type": "collection_view",
+        "version": 4,
+        "view_ids": [
+          "5d42169a-a931-483f-80e4-cea1a9512ab5"
+        ],
+        "collection_views": [
+          {
+            "CollectionView": {
+              "id": "5d42169a-a931-483f-80e4-cea1a9512ab5",
+              "alive": true,
+              "format": {
+                "table_properties": [
+                  {
+                    "width": 361,
+                    "visible": true,
+                    "property": "title"
+                  },
+                  {
+                    "width": 353,
+                    "visible": true,
+                    "property": "$l\u003em"
+                  }
+                ],
+                "table_wrap": true
+              },
+              "name": "Default View",
+              "page_sort": [
+                "f3e0c1d3-d886-41f9-ab9a-31d47b7d8905",
+                "0c6b42b4-e771-406a-b7b9-2e5feb10bab0",
+                "ebc1a191-6d01-4bb1-b3f7-df0479e0fcf3",
+                "21f6a4c0-fedd-477c-9673-781a9de0c998",
+                "b599b3cc-efb0-41c6-8d89-8b8355fe0f37",
+                "9f3a1c97-8297-4881-8d8a-4a7cbffd7913",
+                "e667a46e-2c4f-4e9b-a746-68901d1fd2f9",
+                "613ec515-f027-4e76-abd4-0a2312a7ba81",
+                "d210b70a-e92e-44e2-bf3d-55ebf88153b5"
+              ],
+              "parent_id": "1cdba475-fbbb-498c-ae13-d4eeea65002f",
+              "parent_table": "block",
+              "query": {
+                "aggregate": null
+              },
+              "type": "table",
+              "version": 44
+            },
+            "Collection": {
+              "alive": true,
+              "format": {
+                "collection_page_properties": [
+                  {
+                    "property": "$l\u003em",
+                    "visible": true
+                  },
+                  {
+                    "property": "EP]7",
+                    "visible": true
+                  }
+                ]
+              },
+              "id": "d0453abc-8908-439a-a2dc-59e97568a31c",
+              "name": null,
+              "parent_id": "1cdba475-fbbb-498c-ae13-d4eeea65002f",
+              "parent_table": "block",
+              "schema": {
+                "$l\u003em": {
+                  "name": "meaning",
+                  "options": null,
+                  "type": "text"
+                },
+                "title": {
+                  "name": "template",
+                  "options": null,
+                  "type": "title"
+                }
+              },
+              "version": 10
+            },
+            "CollectionRows": [
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538788018045,
+                "id": "f3e0c1d3-d886-41f9-ab9a-31d47b7d8905",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538788064612,
+                "parent_id": "d0453abc-8908-439a-a2dc-59e97568a31c",
+                "parent_table": "collection",
+                "properties": {
+                  "$l\u003em": [
+                    [
+                      "4 or 2 digit year"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "2006, 06"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 7
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538788018045,
+                "id": "0c6b42b4-e771-406a-b7b9-2e5feb10bab0",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538788074478,
+                "parent_id": "d0453abc-8908-439a-a2dc-59e97568a31c",
+                "parent_table": "collection",
+                "properties": {
+                  "$l\u003em": [
+                    [
+                      "month, 1-12"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "2"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 27
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538788018045,
+                "id": "ebc1a191-6d01-4bb1-b3f7-df0479e0fcf3",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538788080733,
+                "parent_id": "d0453abc-8908-439a-a2dc-59e97568a31c",
+                "parent_table": "collection",
+                "properties": {
+                  "$l\u003em": [
+                    [
+                      "day, 1-31"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "1"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 31
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538788080983,
+                "id": "21f6a4c0-fedd-477c-9673-781a9de0c998",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538788083709,
+                "parent_id": "d0453abc-8908-439a-a2dc-59e97568a31c",
+                "parent_table": "collection",
+                "properties": {
+                  "$l\u003em": [
+                    [
+                      "hour"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "15"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 16
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538788084013,
+                "id": "b599b3cc-efb0-41c6-8d89-8b8355fe0f37",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538788087429,
+                "parent_id": "d0453abc-8908-439a-a2dc-59e97568a31c",
+                "parent_table": "collection",
+                "properties": {
+                  "$l\u003em": [
+                    [
+                      "second"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "5"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 18
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538788087782,
+                "id": "9f3a1c97-8297-4881-8d8a-4a7cbffd7913",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538788098453,
+                "parent_id": "d0453abc-8908-439a-a2dc-59e97568a31c",
+                "parent_table": "collection",
+                "properties": {
+                  "$l\u003em": [
+                    [
+                      "time zone as a string"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "MST"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 60
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538788098925,
+                "id": "e667a46e-2c4f-4e9b-a746-68901d1fd2f9",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538788119004,
+                "parent_id": "d0453abc-8908-439a-a2dc-59e97568a31c",
+                "parent_table": "collection",
+                "properties": {
+                  "$l\u003em": [
+                    [
+                      "time zone as numeric offset"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "-0700"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 148
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538788119236,
+                "id": "613ec515-f027-4e76-abd4-0a2312a7ba81",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538788133773,
+                "parent_id": "d0453abc-8908-439a-a2dc-59e97568a31c",
+                "parent_table": "collection",
+                "properties": {
+                  "$l\u003em": [
+                    [
+                      "short or long month name"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "Jan, January"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 8
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538788134037,
+                "id": "d210b70a-e92e-44e2-bf3d-55ebf88153b5",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538788142460,
+                "parent_id": "d0453abc-8908-439a-a2dc-59e97568a31c",
+                "parent_table": "collection",
+                "properties": {
+                  "$l\u003em": [
+                    [
+                      "short or long day name"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "Mon, Monday"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 70
+              }
             ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "template"
-          },
-          {
-            "Text": "meaning"
-          },
-          {
-            "Text": "2006, 06"
-          },
-          {
-            "Text": "4 or 2 digit year"
-          },
-          {
-            "Text": "2"
-          },
-          {
-            "Text": "month, 1-12"
-          },
-          {
-            "Text": "1"
-          },
-          {
-            "Text": "day, 1-31"
-          },
-          {
-            "Text": "15"
-          },
-          {
-            "Text": "hour"
-          },
-          {
-            "Text": "am, PM"
-          },
-          {
-            "Text": "show hour in am/pm format"
-          },
-          {
-            "Text": "4"
-          },
-          {
-            "Text": "minute"
-          },
-          {
-            "Text": "5"
-          },
-          {
-            "Text": "second"
-          },
-          {
-            "Text": "MST"
-          },
-          {
-            "Text": "string time zone"
-          },
-          {
-            "Text": "-0700"
-          },
-          {
-            "Text": "numeric time zone"
-          },
-          {
-            "Text": "Jan, January"
-          },
-          {
-            "Text": "short or long month name"
-          },
-          {
-            "Text": "Mon, Monday"
-          },
-          {
-            "Text": "short or long day name"
           }
         ]
       },
@@ -424,7 +577,7 @@
         "id": "dcae1eb8-130b-41ae-9b59-b782c55aa526",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156092126,
+        "last_edited_time": 1538788154700,
         "parent_id": "2e74830f-a1e7-461f-96e8-55dfb3cbc13f",
         "parent_table": "block",
         "properties": {
@@ -468,7 +621,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 8,
         "inline_content": [
           {
             "Text": "Days, months, years, hours, minutes and seconds can be zero-padded by adding 0 to format number. It’ll only be shown for numbers \u003c 10. "

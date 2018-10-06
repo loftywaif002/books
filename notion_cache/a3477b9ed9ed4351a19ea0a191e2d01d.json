@@ -12,6 +12,8 @@
       "abe09f95-f050-4dcc-9bc4-22fe2a03bcde",
       "d477fcc0-026f-4d90-a6cd-633f78ae2e3b",
       "f0e8b85f-75d5-45d3-9dbc-3e15f2894d37",
+      "7062e77a-7a2e-42df-aa67-33b76c88f20d",
+      "2b9fef0c-a8d3-4459-a63b-9a165191f059",
       "76ef4bd4-e355-4cdf-879d-046e248c7737",
       "33857e9e-49f3-44f0-8ef9-45c30f23550c"
     ],
@@ -24,7 +26,7 @@
     "id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532235116425,
+    "last_edited_time": 1538808664956,
     "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
     "parent_table": "block",
     "properties": {
@@ -35,7 +37,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 27,
     "content_resolved": [
       {
         "alive": true,
@@ -322,7 +324,7 @@
         "id": "f0e8b85f-75d5-45d3-9dbc-3e15f2894d37",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155992232,
+        "last_edited_time": 1538808660047,
         "parent_id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
         "parent_table": "block",
         "properties": {
@@ -339,34 +341,12 @@
               ]
             ],
             [
-              " typed, and will be: - "
-            ],
-            [
-              "true",
-              [
-                [
-                  "c"
-                ]
-              ]
-            ],
-            [
-              " when the value exists in the map, - "
-            ],
-            [
-              "false",
-              [
-                [
-                  "c"
-                ]
-              ]
-            ],
-            [
-              " when the map does not contains the given key."
+              " typed, and will be: "
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "This second value is "
@@ -376,21 +356,79 @@
             "AttrFlags": 2
           },
           {
-            "Text": " typed, and will be: - "
-          },
+            "Text": " typed, and will be: "
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538808660047,
+        "id": "7062e77a-7a2e-42df-aa67-33b76c88f20d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538808664956,
+        "parent_id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "true",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " when the value exists in the map"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 23,
+        "inline_content": [
           {
             "Text": "true",
             "AttrFlags": 2
           },
           {
-            "Text": " when the value exists in the map, - "
-          },
+            "Text": " when the value exists in the map"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538808664956,
+        "id": "2b9fef0c-a8d3-4459-a63b-9a165191f059",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538808669668,
+        "parent_id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "false",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " when the map does not contains the given key"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 20,
+        "inline_content": [
           {
             "Text": "false",
             "AttrFlags": 2
           },
           {
-            "Text": " when the map does not contains the given key."
+            "Text": " when the map does not contains the given key"
           }
         ]
       },

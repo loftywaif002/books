@@ -27,18 +27,18 @@
     "id": "c0554d1e-1b31-464a-9b5c-8463bd3c1095",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538773304929,
+    "last_edited_time": 1538808985128,
     "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
     "parent_table": "block",
     "properties": {
       "title": [
         [
-          "Iterate over keys, values or both with range"
+          "Iterate over a map with range"
         ]
       ]
     },
     "type": "page",
-    "version": 45,
+    "version": 99,
     "content_resolved": [
       {
         "alive": true,
@@ -351,7 +351,7 @@
         "version": 4
       }
     ],
-    "title": "Iterate over keys, values or both with range",
+    "title": "Iterate over a map with range",
     "format_page": {
       "page_cover": "",
       "page_cover_position": 0,

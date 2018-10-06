@@ -102,16 +102,13 @@
         "created_time": 1532196605808,
         "id": "65f29d55-541e-47d7-9fb3-55d72f000733",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235157165,
+        "last_edited_time": 1538808738343,
         "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "The "
-            ],
-            [
-              "zero value",
+              "Zero value",
               [
                 [
                   "a",
@@ -142,29 +139,15 @@
               ]
             ],
             [
-              " and has a length of "
-            ],
-            [
-              "0",
-              [
-                [
-                  "c"
-                ]
-              ]
-            ],
-            [
-              "."
+              ". It's length is 0."
             ]
           ]
         },
         "type": "text",
-        "version": 14,
+        "version": 121,
         "inline_content": [
           {
-            "Text": "The "
-          },
-          {
-            "Text": "zero value",
+            "Text": "Zero value",
             "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
           },
           {
@@ -182,14 +165,7 @@
             "AttrFlags": 2
           },
           {
-            "Text": " and has a length of "
-          },
-          {
-            "Text": "0",
-            "AttrFlags": 2
-          },
-          {
-            "Text": "."
+            "Text": ". It's length is 0."
           }
         ]
       },
@@ -246,13 +222,13 @@
         "id": "a08deac5-37f1-480e-b606-913f5f971909",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155995912,
+        "last_edited_time": 1538808872344,
         "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "A "
+              "Reading from a "
             ],
             [
               "nil",
@@ -263,7 +239,7 @@
               ]
             ],
             [
-              " map has no keys nor can keys be added. A "
+              " map behaves like reading from an empty map. Writing to a "
             ],
             [
               "nil",
@@ -274,29 +250,29 @@
               ]
             ],
             [
-              " map behaves like an empty map if read from, but causes a runtime panic if written to."
+              " map crashes."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 253,
         "inline_content": [
           {
-            "Text": "A "
+            "Text": "Reading from a "
           },
           {
             "Text": "nil",
             "AttrFlags": 2
           },
           {
-            "Text": " map has no keys nor can keys be added. A "
+            "Text": " map behaves like reading from an empty map. Writing to a "
           },
           {
             "Text": "nil",
             "AttrFlags": 2
           },
           {
-            "Text": " map behaves like an empty map if read from, but causes a runtime panic if written to."
+            "Text": " map crashes."
           }
         ]
       },
@@ -340,23 +316,11 @@
         "id": "8e4a7f89-f7f1-48ee-807c-032ec433935d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772972712,
+        "last_edited_time": 1538808907615,
         "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "You should not read from or write to a zero value map."
-            ]
-          ]
-        },
         "type": "text",
-        "version": 5,
-        "inline_content": [
-          {
-            "Text": "You should not read from or write to a zero value map."
-          }
-        ]
+        "version": 7
       },
       {
         "alive": true,

@@ -408,7 +408,7 @@
         "id": "a3477b9e-d9ed-4351-a19e-a0a191e2d01d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235116425,
+        "last_edited_time": 1538808664956,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
@@ -419,7 +419,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 27,
         "title": "Get value by key",
         "format_page": {
           "page_cover": "",
@@ -540,19 +540,19 @@
         "id": "c0554d1e-1b31-464a-9b5c-8463bd3c1095",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538773304929,
+        "last_edited_time": 1538808985128,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Iterate over keys, values or both with range"
+              "Iterate over a map with range"
             ]
           ]
         },
         "type": "page",
-        "version": 45,
-        "title": "Iterate over keys, values or both with range",
+        "version": 99,
+        "title": "Iterate over a map with range",
         "format_page": {
           "page_cover": "",
           "page_cover_position": 0,
@@ -573,19 +573,19 @@
         "id": "6543212d-8e7d-4467-9711-d688dc00eb6a",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235218484,
+        "last_edited_time": 1538809000915,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Delete map element"
+              "Delete from a map"
             ]
           ]
         },
         "type": "page",
-        "version": 31,
-        "title": "Delete map element",
+        "version": 61,
+        "title": "Delete from a map",
         "format_page": {
           "page_cover": "",
           "page_cover_position": 0,

@@ -3,7 +3,6 @@ package main
 import (
 	"flag"
 	"fmt"
-	"io/ioutil"
 	"os"
 	"path/filepath"
 	"runtime"
@@ -104,43 +103,8 @@ func getDefaultLangForBook(bookName string) string {
 	return s
 }
 
-func getBookDirs() []string {
-	dirs, err := common.GetDirs("books")
-	u.PanicIfErr(err)
-	return dirs
-}
-
 func shouldCopyImage(path string) bool {
 	return !strings.Contains(path, "@2x")
-}
-
-func copyFilesRecur(dstDir, srcDir string, shouldCopyFunc func(path string) bool) {
-	createDirMust(dstDir)
-	fileInfos, err := ioutil.ReadDir(srcDir)
-	u.PanicIfErr(err)
-	for _, fi := range fileInfos {
-		name := fi.Name()
-		if fi.IsDir() {
-			dst := filepath.Join(dstDir, name)
-			src := filepath.Join(srcDir, name)
-			copyFilesRecur(dst, src, shouldCopyFunc)
-			continue
-		}
-
-		src := filepath.Join(srcDir, name)
-		dst := filepath.Join(dstDir, name)
-		shouldCopy := true
-		if shouldCopyFunc != nil {
-			shouldCopy = shouldCopyFunc(src)
-		}
-		if !shouldCopy {
-			continue
-		}
-		if pathExists(dst) {
-			continue
-		}
-		copyFileMust(dst, src)
-	}
 }
 
 func copyCoversMust() {
@@ -220,6 +184,7 @@ func main() {
 	for _, book := range books {
 		book.titleSafe = common.MakeURLSafe(book.Title)
 		downloadBook(book)
+		loadSoContributorsMust(book)
 	}
 
 	genAllBooks()

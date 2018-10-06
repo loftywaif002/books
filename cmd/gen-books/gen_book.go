@@ -257,6 +257,7 @@ func genBook(book *Book) {
 	timeStart := time.Now()
 
 	buildIDToPage(book)
+	genContributorsPage(book)
 	bookPagesToHTML(book)
 
 	genBookTOCSearchMust(book)

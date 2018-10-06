@@ -40,8 +40,6 @@ type Page struct {
 	// each page can contain sub-pages
 	Pages []*Page
 
-	ChapterDir string // TODO: no such thing anymore
-
 	// filled during html generation
 	Headings []HeadingInfo
 
@@ -93,11 +91,6 @@ func (p *Page) CanonnicalURL() string {
 // SuggestEditText returns text we display in GitHub box
 func (p *Page) SuggestEditText() string {
 	return "Suggest an edit"
-}
-
-// GitHubURL returns url to GitHub repo
-func (p *Page) GitHubURL() string {
-	return p.Book.GitHubURL() + "/" + p.ChapterDir
 }
 
 // SuggestEditURL returns url to edit 000-index.md document

@@ -10,13 +10,6 @@ import (
 	"github.com/kjk/u"
 )
 
-// SoContributor describes a StackOverflow contributor
-type SoContributor struct {
-	ID      int
-	URLPart string
-	Name    string
-}
-
 // Book represents a book
 type Book struct {
 	//FileNameBase string // TODO: possibly not needed
@@ -66,7 +59,7 @@ func (b *Book) ContributorCount() int {
 
 // ContributorsURL returns url of the chapter that lists contributors
 func (b *Book) ContributorsURL() string {
-	return b.URL() + "/contributors"
+	return b.URL() + "/1-contributors"
 }
 
 // SuggestEditText returns text we show in GitHub link

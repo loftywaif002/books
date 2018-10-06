@@ -315,27 +315,6 @@ func genContributors(bookDstDir string, docID int) {
 	//fmt.Printf("Wrote %s\n", path)
 }
 
-// this generates human-readable TOC, just for easy human inspection of the book structure
-// potentially could be used to re-order book content without renaming files, just
-// moving around
-func genTOCTxtMust(path string, docID int) {
-	var lines []string
-	topics := getTopicsByDocTagID(docID)
-	for _, t := range topics {
-		s := fmt.Sprintf("%s %d", t.Title, t.Id)
-		lines = append(lines, s)
-		examples := getExamplesForTopic(docID, t.Id)
-		sortExamples(examples)
-		for _, ex := range examples {
-			s := fmt.Sprintf("  %s %d", ex.Title, ex.Id)
-			lines = append(lines, s)
-		}
-	}
-	s := strings.Join(lines, "\n")
-	err := ioutil.WriteFile(path, []byte(s), 0644)
-	u.PanicIfErr(err)
-}
-
 func importBook(docTag *DocTag, bookName string) {
 	timeStart := time.Now()
 
@@ -383,8 +362,6 @@ func importBook(docTag *DocTag, bookName string) {
 		nArticles += len(examples)
 	}
 	genContributors(bookTopDir, docTag.Id)
-	path := filepath.Join(bookTopDir, "toc.txt")
-	genTOCTxtMust(path, docTag.Id)
 
 	fmt.Printf("Imported %s (%d chapters, %d articles) in %s\n", bookName, nChapters, nArticles, time.Since(timeStart))
 }

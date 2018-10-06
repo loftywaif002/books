@@ -10,6 +10,8 @@ import (
 	"path/filepath"
 	"runtime"
 	"strings"
+
+	"github.com/kjk/u"
 )
 
 func panicIfErr(err error) {
@@ -215,6 +217,35 @@ func copyFile(dst, src string) error {
 func copyFileMust(dst, src string) {
 	err := copyFile(dst, src)
 	panicIfErr(err)
+}
+
+func copyFilesRecur(dstDir, srcDir string, shouldCopyFunc func(path string) bool) {
+	createDirMust(dstDir)
+	fileInfos, err := ioutil.ReadDir(srcDir)
+	u.PanicIfErr(err)
+	for _, fi := range fileInfos {
+		name := fi.Name()
+		if fi.IsDir() {
+			dst := filepath.Join(dstDir, name)
+			src := filepath.Join(srcDir, name)
+			copyFilesRecur(dst, src, shouldCopyFunc)
+			continue
+		}
+
+		src := filepath.Join(srcDir, name)
+		dst := filepath.Join(dstDir, name)
+		shouldCopy := true
+		if shouldCopyFunc != nil {
+			shouldCopy = shouldCopyFunc(src)
+		}
+		if !shouldCopy {
+			continue
+		}
+		if pathExists(dst) {
+			continue
+		}
+		copyFileMust(dst, src)
+	}
 }
 
 func getDirsRecur(dir string) ([]string, error) {

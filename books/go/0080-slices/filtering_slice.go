@@ -2,18 +2,23 @@ package main
 
 import "fmt"
 
-func main() {
-	// :show start
-	slice := []int{1, 2, 3, 4}
+func filterEvenValuesInPlace(a []int) []int {
 	// create a zero-length slice with the same underlying array
-	tmp := slice[:0]
+	res := a[:0]
 
-	for _, v := range slice {
+	for _, v := range a {
 		if v%2 == 0 {
 			// collect only wanted values
-			tmp = append(tmp, v)
+			res = append(res, v)
 		}
 	}
-	fmt.Printf("%#v\n", tmp)
+	return res
+}
+
+func main() {
+	// :show start
+	a := []int{1, 2, 3, 4}
+	res := filterEvenValuesInPlace(a)
+	fmt.Printf("%#v\n", res)
 	// :show end
 }

@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"net/url"
+	"os"
 	"path/filepath"
 	"strconv"
 	"strings"
@@ -27,7 +28,7 @@ type FileDirective struct {
 */
 func parseFileDirective(line string) (*FileDirective, error) {
 	line = strings.TrimSpace(line)
-	s := strings.TrimSuffix(line, "//")
+	s := strings.TrimPrefix(line, "//")
 	// doesn't start with a comment, so is not a file directive
 	if s == line {
 		return nil, nil
@@ -225,7 +226,12 @@ func loadSourceFile(path string) (*SourceFile, error) {
 	sf.LinesRaw = dataToLines(sf.Data)
 	lines := sf.LinesRaw
 	sf.RunCmd, lines = extractRunCmd(lines)
+	firstLine := lines[0]
 	directive, lines, err := extractFileDirective(lines)
+	if name == "timed_loop.go" {
+		fmt.Printf("loadSourceFile('%s'): directive: %#v\nline:'%s'\n", path, directive, firstLine)
+		os.Exit(1)
+	}
 	if err != nil {
 		fmt.Printf("loadSourceFile: extractFileDirective() of line '%s' failed with '%s'\n", sf.LinesRaw[0], err)
 		panicIfErr(err)

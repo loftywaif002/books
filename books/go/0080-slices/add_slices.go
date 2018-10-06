@@ -4,9 +4,9 @@ import "fmt"
 
 func main() {
 	// :show start
-	slice := []string{"!"}
-	slice2 := []string{"Hello", "world"}
-	slice = append(slice, slice2...)
-	fmt.Printf("%#v\n", slice)
+	a := []string{"!"}
+	a2 := []string{"Hello", "world"}
+	a = append(a, a2...)
+	fmt.Printf("a: %#v\n", a)
 	// :show end
 }

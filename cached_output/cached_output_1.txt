@@ -1,3 +1,7 @@
+0185d03ae0806edfac79293f635228b5ff337c66:
+i1: 348
+
+|======|
 03a625cb629a04ae327b1b5d6476cac59b8e1e1c:
 f32: 1.3E+00
 f64: 8.1234e+00
@@ -257,6 +261,10 @@ Score Link
 0 https://stackoverflow.com/q/49189317
 
 |======|
+1fc271a43cbca95baed3e7733dc62e3510730d4d:
+i1: -48
+
+|======|
 204ed89a73ff793637f37b8caf0d4cf131737685:
 name: 'FirstName',	type: 'string', value: John,	tag: 'my_tag:"first-name"',	json tag: ''
 name: 'lastName',	type: 'string',	value: not accessible
@@ -459,6 +467,10 @@ sqrtWorker finished
 41c50d55c01d3422f4a9ac501717ce7619bb3263:
 XML: <ShowComment><!--comment--></ShowComment>
 
+
+|======|
+444e27f2dde5fcc12103ffb68d8398735da6ad74:
+[]int{2, 4}
 
 |======|
 45a0940e7ae315dd74e55b91c35fcd4dfcf5fb9e:
@@ -920,6 +932,11 @@ non-empty slice  is: true
 nil pointer      is: false
 
 |======|
+7df06de09edfb6d7673cac79808edb3e8d7474af:
+i1: -38
+i2: 148
+
+|======|
 801d3da35f922113e507bc622e5aeb693a429ccb:
 Output:
 go version go1.10 darwin/amd64
@@ -962,6 +979,11 @@ XML: <ShowNesting><a><b><str>str</str></b></a></ShowNesting>
 |======|
 83139b79c1db6c3c00fa90847764a89ddf0011cd:
 There are 32 lines in 'read_file_as_lines.go'
+
+|======|
+847dbc98cd79baac91016c6f9682d8d6d48c9cc0:
+i1: -38
+i2: 148
 
 |======|
 85681709ab97dc5842ed9c85cda90bb7aa6d3df8:
@@ -1303,6 +1325,10 @@ zeroChan: <nil>
 zeroArray: [0 0 0 0 0]
 zeroStruct: main.struc{a:0, b:""}
 zeroFunc: <nil>
+
+|======|
+afcdf655d1377a9f1dca045fba6c1a9987bada66:
+a: []string{"!", "Hello", "world"}
 
 |======|
 b037835061f4ad66b60a1f9fb92647922ff86d45:

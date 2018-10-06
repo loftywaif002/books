@@ -27,6 +27,7 @@ var (
 	flgNoCache        bool
 	flgRecreateOutput bool
 	flgUpdateOutput   bool
+	flgRedownloadOne string
 
 	soUserIDToNameMap map[int]string
 	googleAnalytics   template.HTML
@@ -52,6 +53,7 @@ func parseFlags() {
 	flag.BoolVar(&flgRecreateOutput, "recreate-output", false, "if true, recreates ouput files in cached_output")
 	flag.BoolVar(&flgUpdateOutput, "update-output", false, "if true, will update ouput files in cached_output")
 	flag.BoolVar(&flgNoCache, "no-cache", false, "if true, disables cache for notion")
+	flag.StringVar(&flgRedownloadOne, "redownload-one", "", "notion id of a page to re-download")
 	flag.Parse()
 
 	if flgAnalytics != "" {
@@ -205,13 +207,20 @@ func main() {
 		genTwitterImagesAndExit()
 	}
 
-	initMinify()
-
-	loadSOUserMappingsMust()
-
 	os.RemoveAll("www")
 	createDirMust(filepath.Join("www", "s"))
 	createDirMust("log")
+
+	if flgRedownloadOne != "" {
+		_, err := downloadAndCachePage(flgRedownloadOne)
+		if err != nil {
+			fmt.Printf("downloadAndCachePage of '%s' failed with %s\n", flgRedownloadOne, err)
+		}
+		os.Exit(0)
+	}
+
+	initMinify()
+	loadSOUserMappingsMust()
 
 	if flgUpdateOutput {
 		if flgRecreateOutput {

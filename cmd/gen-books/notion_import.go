@@ -107,6 +107,7 @@ func downloadPageRetry(pageID string) (*notionapi.Page, error) {
 
 func downloadAndCachePage(pageID string) (*notionapi.Page, error) {
 	//fmt.Printf("downloading page with id %s\n", pageID)
+	pageID = normalizeID(pageID)
 	lf, _ := openLogFileForPageID(pageID)
 	if lf != nil {
 		defer lf.Close()

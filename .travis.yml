@@ -13,3 +13,6 @@ before_install:
 
 script:
   - ./s/travis_build.sh
+
+# Skip the install step (go get ./...) because we use modules and "go get" fails
+install: true

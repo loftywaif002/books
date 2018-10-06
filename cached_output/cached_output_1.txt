@@ -336,6 +336,15 @@ emptystr: [       ]
 structs: [{0 } {0 } {0 } {0 } {0 } {0 } {0 } {0 }]
 
 |======|
+2a1b0c09c97740dc2ab925c139cb9187b663629b:
+panic: send on closed channel
+
+goroutine 1 [running]:
+main.main()
+	/books/go/0220-channels-select/close5.go:8 +0x63
+exit status 2
+
+|======|
 2b77c2d6fece3602815cbd5dd2c20b20693905d1:
 intOp(2, 3) = 5
 intOp(2, 3) = 6
@@ -396,6 +405,20 @@ setStructPtrField: s.N: 6
 setInt panicked with 'reflect: call of reflect.Value.Elem on int Value'
 setStructField panicked with 'reflect: call of reflect.Value.Elem on struct Value'
 setIntPtrWithString panicked with 'reflect: call of reflect.Value.SetString on int Value'
+
+|======|
+3b927dcb304b2645a18fdb56e17599ade31b5ec8:
+there was an error
+panic: there was an error
+
+goroutine 1 [running]:
+main.panicWithMsg(0x10c58b4, 0x12, 0x0, 0x0, 0x0)
+	/books/go/0180-error-handling/errors_in_short_programs.go:29 +0x144
+main.PanicIfErr(0x10d8b80, 0xc00000e1e0, 0x0, 0x0, 0x0)
+	/books/go/0180-error-handling/errors_in_short_programs.go:45 +0x6c
+main.main()
+	/books/go/0180-error-handling/errors_in_short_programs.go:50 +0x91
+exit status 2
 
 |======|
 3c7e0a860a20eca837644bb2e33103661abee529:
@@ -493,6 +516,17 @@ TrimPrefix('abacdda', 'ab'): 'acdda'
 
 
 |======|
+4a200441ed265616145c140a34f5ee47e19caef1:
+m["foo"] = 
+ok: false
+panic: assignment to entry in nil map
+
+goroutine 1 [running]:
+main.main()
+	/books/go/0090-maps/zero_value2.go:16 +0x189
+exit status 2
+
+|======|
 4a679e52b4f1347d5b26a1bdbf86f8051bedc970:
 v is of type 'string'
 v is of type 'int'
@@ -517,6 +551,19 @@ key 'number4' doesn't exist in map m
 <div onlick="foo"><span>text</span></div>
 
 <div onlick="&#34;foo&#34;">&lt;span&gt;text&lt;/span&gt;</div>
+
+|======|
+4d0659410ed90e65b100dd2694ecb43dcdd3ac33:
+Exiting foo
+Exiting main
+panic: bar
+
+goroutine 1 [running]:
+main.foo()
+	/books/go/0200-panic-and-recover/panic.go:9 +0x95
+main.main()
+	/books/go/0200-panic-and-recover/panic.go:14 +0x7e
+exit status 2
 
 |======|
 4d54bad263ca3e95f2325026984bd20a03d801dd:
@@ -632,6 +679,25 @@ Unescaped:
 Slice[0]: first
 SliceNested[1][0]: 2
 Map["key"]: 5
+
+|======|
+613cac40d440cc84c0010a34fde5cc1b67274f00:
+First main statement
+Num 3
+Num 2
+Num 1
+panic: panic occurred
+
+goroutine 1 [running]:
+main.main()
+	/books/go/0190-defer/defer_basics2.go:16 +0xf0
+exit status 2
+
+|======|
+614f7d1275910c2b7fd74b0b94e790beb3847079:
+# command-line-arguments
+./verify_type_implements_interface.go:14:5: cannot use MyReadCloser literal (type *MyReadCloser) as type io.ReadCloser in assignment:
+	*MyReadCloser does not implement io.ReadCloser (missing Close method)
 
 |======|
 6206bbcf7390faebc7c06a85b94c708618173e12:
@@ -973,6 +1039,22 @@ size of bool is: 1
 []int{2, 4}
 
 |======|
+9c47982c1e9c599616820127da18275945107272:
+# command-line-arguments
+./typed_vs_untyped.go:17:6: constant 345 overflows int8
+
+|======|
+9d76f8c7f44e0445cd7943ce29f3050fbad206cc:
+panic: interface conversion: interface {} is string, not int
+
+goroutine 1 [running]:
+main.panicOnInvalidConversion(0x10a2a80, 0x10d8240)
+	/books/go/0120-empty-interface/type_assertion2.go:10 +0xbd
+main.main()
+	/books/go/0120-empty-interface/type_assertion2.go:15 +0x39
+exit status 2
+
+|======|
 9d9f49656b316b0e4aeee32d6637927791d11f75:
 # command-line-arguments
 ./verify_type_implements_interface.go:13:5: cannot use MyReadCloser literal (type *MyReadCloser) as type io.ReadCloser in assignment:
@@ -1051,6 +1133,20 @@ a7ef1624f8c6a6d40b71c4a11d89592b8c34b074:
 key: john
 key: jane
 key: mark
+
+|======|
+a83db28765d8a9353572278f02a3820aa4e233da:
+iv is of type string and has value 'string'
+iv is of type int and has value '5'
+iv is of type *int and has value '%!s(*int=0xc000014090)'
+panic: interface conversion: interface {} is string, not int
+
+goroutine 1 [running]:
+main.panicOnInvalidConversion()
+	/books/go/0120-empty-interface/type_assertion.go:27 +0x45
+main.main()
+	/books/go/0120-empty-interface/type_assertion.go:40 +0xae
+exit status 2
 
 |======|
 a87494d028e1b4bef9b7963a9c6e80bdf4a57127:
@@ -1219,6 +1315,15 @@ bb0a53a18dace5a9b13578a76d6ac8da730ed8d0:
 [6 5 4 3 5 6]
 [6 5 4 3 2 6]
 [6 5 4 3 2 1]
+
+|======|
+bf8d7915d2472e48681c54bf7b558789cb12fe31:
+panic: close of closed channel
+
+goroutine 1 [running]:
+main.main()
+	/books/go/0220-channels-select/close4.go:8 +0x57
+exit status 2
 
 |======|
 bf907308ab176717a1f06939384d0cc6151783c2:
@@ -1630,6 +1735,30 @@ XML: <ShowOmitEmpty><NonEmpty>non empty</NonEmpty></ShowOmitEmpty>
 fe9619237b53327901de45b00380e359ba73368a:
 XML: <ShowCData><![CDATA[cdata]]></ShowCData>
 
+
+|======|
+fef0fa858ba1db6fe45a8475e4b4cc3fd7cff2f7:
+==================
+WARNING: DATA RACE
+Read at 0x000001217840 by goroutine 7:
+  main.main.func1()
+      /books/go/0230-mutex/data_race.go:26 +0x6d
+
+Previous write at 0x000001217840 by goroutine 6:
+  main.main.func1()
+      /books/go/0230-mutex/data_race.go:26 +0x89
+
+Goroutine 7 (running) created at:
+  main.main()
+      /books/go/0230-mutex/data_race.go:23 +0xcd
+
+Goroutine 6 (running) created at:
+  main.main()
+      /books/go/0230-mutex/data_race.go:23 +0xcd
+==================
+n is: 570, expected: 800
+Found 1 data race(s)
+exit status 66
 
 |======|
 ffb6160c85a4ba422ec261d4abaafb38329122f4:

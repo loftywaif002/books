@@ -228,7 +228,7 @@ func loadSourceFile(path string) (*SourceFile, error) {
 	sf.RunCmd, lines = extractRunCmd(lines)
 	firstLine := lines[0]
 	directive, lines, err := extractFileDirective(lines)
-	if name == "timed_loop.go" {
+	if false && name == "timed_loop.go" {
 		fmt.Printf("loadSourceFile('%s'): directive: %#v\nline:'%s'\n", path, directive, firstLine)
 		os.Exit(1)
 	}

@@ -11,5 +11,8 @@ before_install:
   - wget https://github.com/netlify/netlifyctl/releases/download/v0.3.2/netlifyctl-linux-amd64-0.3.2.tar.gz
   - tar -xvf netlifyctl-linux-amd64-0.3.2.tar.gz
 
+# Skip the install step (go get ./...). We use modules and "go get" fails.
+install: true
+
 script:
   - ./s/travis_build.sh

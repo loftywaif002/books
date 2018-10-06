@@ -6,7 +6,7 @@
       "c0aaf5cb-192c-4e52-9c64-fbd981bebcb9",
       "5a962b89-c481-4dd2-8891-4805e6b9c0e1",
       "1e4c5b8a-8c50-4145-ba34-1e84810e6de3",
-      "c2d2fe9a-6adc-4928-aea8-e179e763b25e",
+      "750213cb-3354-4071-aa9e-45f745ea501d",
       "c15e4f32-6937-4207-a830-3bd7befd0106",
       "c84a164c-0101-479c-925d-4a9993f85214"
     ],
@@ -19,18 +19,18 @@
     "id": "59e924ef-82eb-462a-86a3-fe905d13c2ce",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532208030060,
+    "last_edited_time": 1538795856249,
     "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
     "parent_table": "block",
     "properties": {
       "title": [
         [
-          "Parse XML from filef"
+          "Parse XML from file"
         ]
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 32,
     "content_resolved": [
       {
         "alive": true,
@@ -75,7 +75,7 @@
         "id": "1e4c5b8a-8c50-4145-ba34-1e84810e6de3",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156120171,
+        "last_edited_time": 1538795849395,
         "parent_id": "59e924ef-82eb-462a-86a3-fe905d13c2ce",
         "parent_table": "block",
         "properties": {
@@ -86,7 +86,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "We can decode XML data from a file on disk."
@@ -96,27 +96,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156120171,
-        "id": "c2d2fe9a-6adc-4928-aea8-e179e763b25e",
-        "ignore_block_count": true,
+        "created_time": 1538795846018,
+        "format": {
+          "block_height": 764,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Fparse_from_file.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "750213cb-3354-4071-aa9e-45f745ea501d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156120171,
+        "last_edited_time": 1538795860105,
         "parent_id": "59e924ef-82eb-462a-86a3-fe905d13c2ce",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file parse_from_file.go output sha1:583dda60d8dd584d2e9d16466422579adf06f4be goplayground:hPVUuMEb2jt"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Fparse_from_file.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file parse_from_file.go output sha1:583dda60d8dd584d2e9d16466422579adf06f4be goplayground:hPVUuMEb2jt"
-          }
-        ]
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 764,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Fparse_from_file.go"
+        }
       },
       {
         "alive": true,
@@ -174,7 +182,7 @@
         "version": 4
       }
     ],
-    "title": "Parse XML from filef",
+    "title": "Parse XML from file",
     "format_page": {
       "page_cover": "",
       "page_cover_position": 0,

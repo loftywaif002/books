@@ -10,7 +10,7 @@
       "59886de0-5a9c-4963-9eca-787719e07831",
       "112eb7d2-4cca-49d8-89e6-94f3d3cc12eb",
       "c346c82b-821f-4f10-b25d-e9084474af45",
-      "02791703-c3b0-4287-afb3-1f2da33eae5f"
+      "8fa2856f-a0fd-4d28-8e6a-65add7e64c3f"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156137135,
@@ -21,7 +21,7 @@
     "id": "91454eda-84c1-48f9-b2a5-4af72fca172f",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532208718413,
+    "last_edited_time": 1538797261530,
     "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
     "parent_table": "block",
     "properties": {
@@ -32,7 +32,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 30,
     "content_resolved": [
       {
         "alive": true,
@@ -193,7 +193,7 @@
         "id": "c346c82b-821f-4f10-b25d-e9084474af45",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156137135,
+        "last_edited_time": 1538797261530,
         "parent_id": "91454eda-84c1-48f9-b2a5-4af72fca172f",
         "parent_table": "block",
         "properties": {
@@ -204,7 +204,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "This is how to set custom user agent:"
@@ -214,27 +214,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156137135,
-        "id": "02791703-c3b0-4287-afb3-1f2da33eae5f",
-        "ignore_block_count": true,
+        "created_time": 1538797258822,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_user_agent.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "8fa2856f-a0fd-4d28-8e6a-65add7e64c3f",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156137135,
+        "last_edited_time": 1538797259869,
         "parent_id": "91454eda-84c1-48f9-b2a5-4af72fca172f",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file http_user_agent.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_user_agent.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file http_user_agent.go output noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_user_agent.go"
+        }
       }
     ],
     "title": "Set User-Agent",

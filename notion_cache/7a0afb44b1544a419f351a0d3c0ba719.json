@@ -7,7 +7,7 @@
       "363d749a-e78b-4ac3-9049-f70d409d33ba",
       "b6255382-32ae-4a1d-a5b9-adc4c8ffe5e5",
       "54e53739-f18f-43c8-80ac-5b444d92069f",
-      "612cd17c-21b8-4aa5-a084-0fecdf2a4646",
+      "3907bdf4-8f09-4e02-8f37-8e0b5c9cb6c9",
       "93b6667a-a7b9-4adf-965b-0dcbf3847e49",
       "e79abd4a-15a5-4e60-8053-ad190e1046b8",
       "23b0b340-eb3d-4848-8f51-1307cf787dfc",
@@ -15,7 +15,7 @@
       "36028d52-0216-4b31-ad07-a9166bf7c722",
       "3d6a095e-1029-4be3-af3c-fe535fbc0d03",
       "2d6b2b42-8f59-44a7-baf9-0fd55cf2932a",
-      "bcbce60f-0d41-4aec-8e1e-ef5b6b62477e",
+      "c9952286-7151-4d35-91e9-3243a9b09c21",
       "3d51ed7d-daa9-415c-86c4-5410bcfbf61a"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -27,7 +27,7 @@
     "id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532210783433,
+    "last_edited_time": 1538798182180,
     "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
     "parent_table": "block",
     "properties": {
@@ -38,7 +38,7 @@
       ]
     },
     "type": "page",
-    "version": 19,
+    "version": 33,
     "content_resolved": [
       {
         "alive": true,
@@ -120,7 +120,7 @@
         "id": "54e53739-f18f-43c8-80ac-5b444d92069f",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156163322,
+        "last_edited_time": 1538798167533,
         "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
         "parent_table": "block",
         "properties": {
@@ -131,7 +131,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Using reflection we can list all fields of a struct."
@@ -141,27 +141,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156163322,
-        "id": "612cd17c-21b8-4aa5-a084-0fecdf2a4646",
-        "ignore_block_count": true,
+        "created_time": 1538798163865,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fenum_struct_fields_simple.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "3907bdf4-8f09-4e02-8f37-8e0b5c9cb6c9",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156163322,
+        "last_edited_time": 1538798165099,
         "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file enum_struct_fields_simple.go output sha1:9538eecc07c20cd6c0ce463e54670f82dc6e6061 goplayground:21KyxJi0sNK"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fenum_struct_fields_simple.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file enum_struct_fields_simple.go output sha1:9538eecc07c20cd6c0ce463e54670f82dc6e6061 goplayground:21KyxJi0sNK"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fenum_struct_fields_simple.go"
+        }
       },
       {
         "alive": true,
@@ -410,7 +418,7 @@
         "id": "2d6b2b42-8f59-44a7-baf9-0fd55cf2932a",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156163325,
+        "last_edited_time": 1538798182180,
         "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
         "parent_table": "block",
         "properties": {
@@ -421,7 +429,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "In real programs inspecting structures using reflections would be recursive."
@@ -431,27 +439,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156163325,
-        "id": "bcbce60f-0d41-4aec-8e1e-ef5b6b62477e",
-        "ignore_block_count": true,
+        "created_time": 1538798179223,
+        "format": {
+          "block_height": 549,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fenum_struct_fields.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "c9952286-7151-4d35-91e9-3243a9b09c21",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156163325,
+        "last_edited_time": 1538798209148,
         "parent_id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file enum_struct_fields.go output sha1:15a48e2a1c07d976ad58570626543420ecfef224 goplayground:tmplO4Fkru7"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fenum_struct_fields.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file enum_struct_fields.go output sha1:15a48e2a1c07d976ad58570626543420ecfef224 goplayground:tmplO4Fkru7"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 549,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fenum_struct_fields.go"
+        }
       },
       {
         "alive": true,

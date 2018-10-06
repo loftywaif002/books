@@ -7,7 +7,7 @@
       "fd3e4692-ef4d-4efd-b7a6-83aebee4f6a4",
       "cdd48169-4022-4d87-9953-dd542b9d33d8",
       "e09115e5-ba45-4892-ac58-735b01a1c961",
-      "32b5ee33-6e52-4479-ae6a-ac8da706bf97",
+      "41c72377-bb72-4949-a7a6-f648561b3c1b",
       "c77d776d-1072-4339-8e17-44569eaa069c"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -19,7 +19,7 @@
     "id": "4ef2f951-df5f-4c2f-a229-ddb74e372823",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532207605467,
+    "last_edited_time": 1538795158913,
     "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
     "parent_table": "block",
     "properties": {
@@ -30,7 +30,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 30,
     "content_resolved": [
       {
         "alive": true,
@@ -99,7 +99,7 @@
         "id": "e09115e5-ba45-4892-ac58-735b01a1c961",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156111081,
+        "last_edited_time": 1538795158913,
         "parent_id": "4ef2f951-df5f-4c2f-a229-ddb74e372823",
         "parent_table": "block",
         "properties": {
@@ -110,7 +110,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "When parsing into a struct we can avoid declaring struct types by using anonymous structs."
@@ -120,27 +120,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156111082,
-        "id": "32b5ee33-6e52-4479-ae6a-ac8da706bf97",
-        "ignore_block_count": true,
+        "created_time": 1538795155863,
+        "format": {
+          "block_height": 930,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fanon_structs.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "41c72377-bb72-4949-a7a6-f648561b3c1b",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532207591311,
+        "last_edited_time": 1538795173485,
         "parent_id": "4ef2f951-df5f-4c2f-a229-ddb74e372823",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file anon_structs.go output sha1:810f6bf36d0efdab4fcc9856e0579b9dfea28359 goplayground:kAaY__JB9-s"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fanon_structs.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 4,
-        "inline_content": [
-          {
-            "Text": "@file anon_structs.go output sha1:810f6bf36d0efdab4fcc9856e0579b9dfea28359 goplayground:kAaY__JB9-s"
-          }
-        ]
+        "type": "embed",
+        "version": 16,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 930,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fanon_structs.go"
+        }
       },
       {
         "alive": true,

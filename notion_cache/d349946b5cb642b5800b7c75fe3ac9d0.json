@@ -8,9 +8,9 @@
       "d560be09-b358-49f3-ad4f-47a8f288740e",
       "dc903045-52a6-4960-8d61-bd4c3a99a9be",
       "fb017f5d-9b0d-402a-97d4-2e813b7ea3e8",
-      "a24054df-bbfc-4170-b8a1-573778e3b7bc",
+      "3e9f0a28-b9db-40a2-a869-c4862e23f8f5",
       "262584b6-042c-44df-936c-0357f2d79088",
-      "ca44af08-7d6b-4b58-a747-a95a3d4bbb1e",
+      "bae2ef98-7621-4b5d-be96-59fce40b9bec",
       "7061c5b6-9a3f-4cd4-ad38-721f081b6358"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -22,7 +22,7 @@
     "id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532207639254,
+    "last_edited_time": 1538795223119,
     "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
     "parent_table": "block",
     "properties": {
@@ -33,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 21,
+    "version": 35,
     "content_resolved": [
       {
         "alive": true,
@@ -145,7 +145,7 @@
         "id": "fb017f5d-9b0d-402a-97d4-2e813b7ea3e8",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156112222,
+        "last_edited_time": 1538795200761,
         "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
         "parent_table": "block",
         "properties": {
@@ -167,7 +167,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Let’s assume we have a file called "
@@ -184,27 +184,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156112223,
-        "id": "a24054df-bbfc-4170-b8a1-573778e3b7bc",
-        "ignore_block_count": true,
+        "created_time": 1538795196799,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fdata.json",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "3e9f0a28-b9db-40a2-a869-c4862e23f8f5",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156112223,
+        "last_edited_time": 1538795198967,
         "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file data.json"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fdata.json"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file data.json"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fdata.json"
+        }
       },
       {
         "alive": true,
@@ -213,7 +221,7 @@
         "id": "262584b6-042c-44df-936c-0357f2d79088",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156112223,
+        "last_edited_time": 1538795223119,
         "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
         "parent_table": "block",
         "properties": {
@@ -224,7 +232,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "The following example reads the file and decodes the content:"
@@ -234,27 +242,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156112223,
-        "id": "ca44af08-7d6b-4b58-a747-a95a3d4bbb1e",
-        "ignore_block_count": true,
+        "created_time": 1538795219034,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fdecode_from_file.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "bae2ef98-7621-4b5d-be96-59fce40b9bec",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156112223,
+        "last_edited_time": 1538795220754,
         "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file decode_from_file.go output sha1:70fdf7f5a15715cf0a99c6805b505b8ac484cd4b goplayground:GmNPErWszVh"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fdecode_from_file.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file decode_from_file.go output sha1:70fdf7f5a15715cf0a99c6805b505b8ac484cd4b goplayground:GmNPErWszVh"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fdecode_from_file.go"
+        }
       },
       {
         "alive": true,

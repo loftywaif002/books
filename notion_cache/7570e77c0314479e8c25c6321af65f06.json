@@ -9,10 +9,10 @@
       "0960d2f3-0375-41d6-bda1-f48ad44b88b2",
       "640a182e-03a4-438a-91f6-5c402371242d",
       "a4615da9-3944-497d-93eb-8ebdeee12202",
-      "d2391b1c-5440-4cbc-b1b1-84a05c0d9258",
+      "483a983e-4c82-4181-95da-4e5b9b25c117",
       "76792273-2a47-442a-97f2-6e24ded2bcad",
       "a1eb5cc3-ad19-4295-ab03-8705d03d4096",
-      "3057e42d-7f3a-4582-8fc8-9b606c05578d",
+      "15fbe7fb-1468-4660-9e96-b2866a8eb46b",
       "dad61abb-9c8c-49eb-89d8-f8f68feae645",
       "cf988550-a6b2-4cea-9ef3-989ffd64227b"
     ],
@@ -25,7 +25,7 @@
     "id": "7570e77c-0314-479e-8c25-c6321af65f06",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532210634417,
+    "last_edited_time": 1538797922694,
     "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
     "parent_table": "block",
     "properties": {
@@ -36,7 +36,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -209,7 +209,7 @@
         "id": "a4615da9-3944-497d-93eb-8ebdeee12202",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156156172,
+        "last_edited_time": 1538797907425,
         "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
         "parent_table": "block",
         "properties": {
@@ -220,7 +220,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Inserted text is escaped based on its surrounding context which eliminates cross-site scripting bugs."
@@ -230,27 +230,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156156172,
-        "id": "d2391b1c-5440-4cbc-b1b1-84a05c0d9258",
-        "ignore_block_count": true,
+        "created_time": 1538797904593,
+        "format": {
+          "block_height": 820.9931030273438,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fhtml.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "483a983e-4c82-4181-95da-4e5b9b25c117",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156156172,
+        "last_edited_time": 1538797940396,
         "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file html.go output sha1:59b81836761f5efa1451433fb46648da7e27c678 goplayground:BC_-ZpGvIGD"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fhtml.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file html.go output sha1:59b81836761f5efa1451433fb46648da7e27c678 goplayground:BC_-ZpGvIGD"
-          }
-        ]
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 820.9931030273438,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fhtml.go"
+        }
       },
       {
         "alive": true,
@@ -284,7 +292,7 @@
         "id": "a1eb5cc3-ad19-4295-ab03-8705d03d4096",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156156173,
+        "last_edited_time": 1538797922694,
         "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
         "parent_table": "block",
         "properties": {
@@ -295,7 +303,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Sometimes you need to subvert escaping of text:"
@@ -305,27 +313,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156156173,
-        "id": "3057e42d-7f3a-4582-8fc8-9b606c05578d",
-        "ignore_block_count": true,
+        "created_time": 1538797919710,
+        "format": {
+          "block_height": 859.0000610351562,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fhtml_raw.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "15fbe7fb-1468-4660-9e96-b2866a8eb46b",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156156173,
+        "last_edited_time": 1538797931652,
         "parent_id": "7570e77c-0314-479e-8c25-c6321af65f06",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file html_raw.go output sha1:2c1d354582f6b03300f1560921ff021465146dd8 goplayground:dl8dRoGbpWU"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fhtml_raw.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file html_raw.go output sha1:2c1d354582f6b03300f1560921ff021465146dd8 goplayground:dl8dRoGbpWU"
-          }
-        ]
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 859.0000610351562,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fhtml_raw.go"
+        }
       },
       {
         "alive": true,

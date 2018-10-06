@@ -226,6 +226,14 @@ func getOutputCached(sf *SourceFile) error {
 	if sf.Directive.NoOutput {
 		return nil
 	}
+
+	path := sf.Path
+	ext := strings.ToLower(filepath.Ext(path))
+	switch ext {
+	case ".json", ".csv", ".yml", ".xml":
+		return nil
+	}
+
 	sha1Hex := u.Sha1HexOfBytes(sf.Data)
 
 	cfo := sha1ToCachedOutputFile[sha1Hex]
@@ -234,7 +242,6 @@ func getOutputCached(sf *SourceFile) error {
 		return nil
 	}
 
-	path := sf.Path
 	// fmt.Printf("loadFileCached('%s') failed with '%s'\n", outputPath, err)
 	s, err := getOutput(path, sf.RunCmd)
 	if err != nil {

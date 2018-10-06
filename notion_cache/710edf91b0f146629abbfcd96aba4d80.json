@@ -10,7 +10,7 @@
       "0cc35354-df62-4994-972d-008d7b3d7ac3",
       "8f5533de-82ca-4879-9987-e02d84df35a1",
       "d1907857-9d64-413f-bde8-cbbef0074046",
-      "92f4d288-06ba-4eb4-8df3-3fd8251d3125",
+      "f37b5d64-c584-4040-a493-3828275b6edd",
       "de7003a0-ce74-4f61-b1fe-fb169ac5e83d",
       "079efdae-1b0b-4dcc-8df5-f03f74be4019",
       "1feb2ec7-e8a6-4d0d-a94d-7f3baf9c6eaf",
@@ -23,12 +23,12 @@
       "4063f3e2-7d9e-47a9-8909-89c9e913a485",
       "81c5321e-e37c-4be0-9306-db9cffffb977",
       "afa76f4a-d5ba-4427-84a3-b2c9fa208ba9",
-      "f74dbf45-6f1a-42c1-b110-8fcd11f67908",
+      "89670e6b-6917-41a4-8959-8656df118426",
       "11afa37d-6344-4ad8-823c-91e728e39ced",
       "ee7d8fb4-69ad-445a-8e63-e23f21b78b02",
       "0ff88c0b-2d69-4f5b-9a64-8c186a1fbd7f",
       "81f70d59-d4d1-48a9-8434-4942ccddfd13",
-      "4c75a6df-8e3d-41ab-bff2-f00afe4d6c86",
+      "81e25bce-34e9-4dd5-a08b-9fa2d2490924",
       "837db9e0-8259-414c-b315-f60565323922",
       "c218ab6e-3132-4943-8e38-08add0606de3",
       "c962e9c7-465b-481e-bf1d-62de80c424b8",
@@ -50,7 +50,7 @@
     "id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532208588813,
+    "last_edited_time": 1538797102100,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -61,7 +61,7 @@
       ]
     },
     "type": "page",
-    "version": 27,
+    "version": 48,
     "content_resolved": [
       {
         "alive": true,
@@ -247,7 +247,7 @@
         "id": "d1907857-9d64-413f-bde8-cbbef0074046",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156132300,
+        "last_edited_time": 1538797063320,
         "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
         "parent_table": "block",
         "properties": {
@@ -269,7 +269,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "For simplicity this example uses "
@@ -286,27 +286,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156132300,
-        "id": "92f4d288-06ba-4eb4-8df3-3fd8251d3125",
-        "ignore_block_count": true,
+        "created_time": 1538797059464,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_get.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "f37b5d64-c584-4040-a493-3828275b6edd",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156132300,
+        "last_edited_time": 1538797061258,
         "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file http_get.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_get.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file http_get.go output noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_get.go"
+        }
       },
       {
         "alive": true,
@@ -890,7 +898,7 @@
         "id": "afa76f4a-d5ba-4427-84a3-b2c9fa208ba9",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156132306,
+        "last_edited_time": 1538797083549,
         "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
         "parent_table": "block",
         "properties": {
@@ -912,7 +920,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "It’s best not to use "
@@ -929,27 +937,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156132307,
-        "id": "f74dbf45-6f1a-42c1-b110-8fcd11f67908",
-        "ignore_block_count": true,
+        "created_time": 1538797080425,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_get_custom_client.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "89670e6b-6917-41a4-8959-8656df118426",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156132307,
+        "last_edited_time": 1538797082077,
         "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file http_get_custom_client.go output allow_error noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_get_custom_client.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file http_get_custom_client.go output allow_error noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_get_custom_client.go"
+        }
       },
       {
         "alive": true,
@@ -1051,7 +1067,7 @@
         "id": "81f70d59-d4d1-48a9-8434-4942ccddfd13",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156132307,
+        "last_edited_time": 1538797102100,
         "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
         "parent_table": "block",
         "properties": {
@@ -1062,7 +1078,7 @@
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Basic HTTP POST"
@@ -1072,27 +1088,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156132307,
-        "id": "4c75a6df-8e3d-41ab-bff2-f00afe4d6c86",
-        "ignore_block_count": true,
+        "created_time": 1538797098958,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_post.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "81e25bce-34e9-4dd5-a08b-9fa2d2490924",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156132307,
+        "last_edited_time": 1538797100625,
         "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file http_post.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_post.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file http_post.go output noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_post.go"
+        }
       },
       {
         "alive": true,
@@ -1253,7 +1277,7 @@
         "id": "96ffd933-7d0e-4185-941f-db0974fcf1b8",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532208615287,
+        "last_edited_time": 1538797150556,
         "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
         "parent_table": "block",
         "properties": {
@@ -1264,7 +1288,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 30,
         "title": "HTTP POST",
         "format_page": {
           "page_cover": "",
@@ -1286,7 +1310,7 @@
         "id": "65fe1f20-ed45-4f0c-8a2d-b99f7c2882a9",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532208649869,
+        "last_edited_time": 1538797176862,
         "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
         "parent_table": "block",
         "properties": {
@@ -1297,7 +1321,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "PUT request of JSON object",
         "format_page": {
           "page_cover": "",
@@ -1319,7 +1343,7 @@
         "id": "1ef5e00e-8e2a-4cc9-8498-20366514060b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532208671803,
+        "last_edited_time": 1538797210665,
         "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
         "parent_table": "block",
         "properties": {
@@ -1330,7 +1354,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 32,
         "title": "Timeout requests with a context",
         "format_page": {
           "page_cover": "",
@@ -1352,7 +1376,7 @@
         "id": "d13d2160-5657-42f8-bc6a-1002f675c1e6",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532208697440,
+        "last_edited_time": 1538797233153,
         "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
         "parent_table": "block",
         "properties": {
@@ -1363,7 +1387,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 30,
         "title": "GET with URL parameters and a JSON response",
         "format_page": {
           "page_cover": "",
@@ -1385,7 +1409,7 @@
         "id": "91454eda-84c1-48f9-b2a5-4af72fca172f",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532208718413,
+        "last_edited_time": 1538797261530,
         "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
         "parent_table": "block",
         "properties": {
@@ -1396,7 +1420,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 30,
         "title": "Set User-Agent",
         "format_page": {
           "page_cover": "",

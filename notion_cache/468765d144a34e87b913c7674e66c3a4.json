@@ -11,7 +11,7 @@
       "a8fa7d42-46a5-4a9f-8762-fbb9d10d2ec8",
       "647e3e9b-f070-4299-8a1f-248f63be8dca",
       "a8ecb600-10b5-4c77-9073-f14fc150432b",
-      "5315ae3e-52f1-4ad9-b25a-5c46181c8254",
+      "fd7b1f93-c019-4d27-b479-796cb22be827",
       "dc133e45-a6c0-44c5-a489-e2b1c42b783b",
       "89be5c89-83f6-47d0-9f81-b4b133f18ac7",
       "a8cb605d-ab76-414e-ab48-95d6b34da712",
@@ -20,13 +20,14 @@
       "7a39a89a-9007-4e70-8bfa-973449e04dea",
       "786d83ed-0cde-404c-a64b-2190a1ecf4de",
       "831ed9eb-6aa9-4ea9-a757-05c3e1168575",
-      "b88fc79f-05a9-486f-ac75-e7d5fdf1f6f1",
+      "6c3b9fa8-c374-4269-a073-325e8fd053b6",
       "c853a6bc-35f3-4edf-9580-340594f9034f",
       "73fcffe3-b154-4b8e-9c27-a772a2531415",
       "3f50b1be-7c52-4f1a-a85b-4eedd3bd5f92",
       "3ac0bbcb-b687-4c0b-8065-9247bfcb8640",
       "3df7ff19-9af3-49d9-b1f7-7594c431cb00",
-      "f3eef672-062b-4932-9219-beb08dfed662"
+      "f3eef672-062b-4932-9219-beb08dfed662",
+      "fe523745-c3b8-4949-9751-d9151fa8dd74"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156114234,
@@ -37,7 +38,7 @@
     "id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532207703643,
+    "last_edited_time": 1538795276108,
     "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
     "parent_table": "block",
     "properties": {
@@ -48,7 +49,7 @@
       ]
     },
     "type": "page",
-    "version": 19,
+    "version": 35,
     "content_resolved": [
       {
         "alive": true,
@@ -266,7 +267,7 @@
         "id": "a8ecb600-10b5-4c77-9073-f14fc150432b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156114225,
+        "last_edited_time": 1538795249776,
         "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
         "parent_table": "block",
         "properties": {
@@ -288,7 +289,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Here’s a custom marshalling and unmarshaling for "
@@ -305,27 +306,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156114225,
-        "id": "5315ae3e-52f1-4ad9-b25a-5c46181c8254",
-        "ignore_block_count": true,
+        "created_time": 1538795243660,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fcustom_marshal.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "fd7b1f93-c019-4d27-b479-796cb22be827",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156114225,
+        "last_edited_time": 1538795245045,
         "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file custom_marshal.go output sha1:2d8f94c56472607c83551b5df2741bddb7451a6d goplayground:QpOf0zMOctW"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fcustom_marshal.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file custom_marshal.go output sha1:2d8f94c56472607c83551b5df2741bddb7451a6d goplayground:QpOf0zMOctW"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fcustom_marshal.go"
+        }
       },
       {
         "alive": true,
@@ -583,7 +592,7 @@
         "id": "831ed9eb-6aa9-4ea9-a757-05c3e1168575",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156114228,
+        "last_edited_time": 1538795271318,
         "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
         "parent_table": "block",
         "properties": {
@@ -594,7 +603,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "To marshal private fields without making them public we can use a custom marshaller:"
@@ -604,27 +613,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156114228,
-        "id": "b88fc79f-05a9-486f-ac75-e7d5fdf1f6f1",
-        "ignore_block_count": true,
+        "created_time": 1538795266721,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fmarshal_private.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "6c3b9fa8-c374-4269-a073-325e8fd053b6",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156114228,
+        "last_edited_time": 1538795268443,
         "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file marshal_private.go output sha1:aaae4444a438ff81e36995959a675309c03890b2 goplayground:JLd2aY-_5sh"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fmarshal_private.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file marshal_private.go output sha1:aaae4444a438ff81e36995959a675309c03890b2 goplayground:JLd2aY-_5sh"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fmarshal_private.go"
+        }
       },
       {
         "alive": true,
@@ -859,6 +876,18 @@
             "Text": "JSON encoder / decoder checks if the value being encoded conforms to those interfaces and will call those functions instead of executing default logic."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538795276108,
+        "id": "fe523745-c3b8-4949-9751-d9151fa8dd74",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538795276108,
+        "parent_id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "Custom JSON marshaling",

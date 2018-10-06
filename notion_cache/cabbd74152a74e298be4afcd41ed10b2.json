@@ -9,7 +9,7 @@
       "184f27cd-1a38-4639-919c-e4f89498f7b4",
       "17cc96c8-950d-4131-b9da-8cef59a0ab74",
       "4cc6b76e-79a3-48d8-a104-80e13623d35b",
-      "3a8883da-4e02-4a23-ad26-4635c7879b0a",
+      "d0022eb1-a18c-4a6f-a9e5-ac349681ebf8",
       "4d7cef4f-37df-4f89-9eda-497b5ba2203d",
       "095fa832-ba49-44f1-8a29-bae522c49e76",
       "362a1b48-9e55-48fc-9aca-a23254669ead",
@@ -18,7 +18,7 @@
       "579dee39-cdaf-4b18-8310-63d3a7f1796d",
       "98a89e53-28aa-4da7-81e0-e5426cd31595",
       "ed81e1d4-a34b-4426-8e3e-796f45db5895",
-      "501c6337-6eea-449f-a796-2c33c4856e88",
+      "a6fc5489-71e8-4c2c-b86b-5a32152badc4",
       "636d7de3-b55f-434f-a2b6-d781b330d984",
       "d2e025c6-8e55-4d5e-8f82-2db7c386a16d",
       "1a5e26da-98e5-4e16-887a-2483bcb736c1",
@@ -43,7 +43,7 @@
     "id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532209295506,
+    "last_edited_time": 1538797556116,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -54,7 +54,7 @@
       ]
     },
     "type": "page",
-    "version": 27,
+    "version": 41,
     "content_resolved": [
       {
         "alive": true,
@@ -191,7 +191,7 @@
         "id": "4cc6b76e-79a3-48d8-a104-80e13623d35b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156150188,
+        "last_edited_time": 1538797523046,
         "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
         "parent_table": "block",
         "properties": {
@@ -224,7 +224,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Packages "
@@ -248,27 +248,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156150188,
-        "id": "3a8883da-4e02-4a23-ad26-4635c7879b0a",
-        "ignore_block_count": true,
+        "created_time": 1538797518992,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Findex.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "d0022eb1-a18c-4a6f-a9e5-ac349681ebf8",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156150188,
+        "last_edited_time": 1538797520680,
         "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file index.go output sha1:d4e591de501a5dca88fc39e911809be7cf71b12e goplayground:MQw9e5pzs4V"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Findex.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file index.go output sha1:d4e591de501a5dca88fc39e911809be7cf71b12e goplayground:MQw9e5pzs4V"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Findex.go"
+        }
       },
       {
         "alive": true,
@@ -590,7 +598,7 @@
         "id": "ed81e1d4-a34b-4426-8e3e-796f45db5895",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156150190,
+        "last_edited_time": 1538797556116,
         "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
         "parent_table": "block",
         "properties": {
@@ -612,7 +620,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Initial "
@@ -629,27 +637,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156150190,
-        "id": "501c6337-6eea-449f-a796-2c33c4856e88",
-        "ignore_block_count": true,
+        "created_time": 1538797552697,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Findex2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "a6fc5489-71e8-4c2c-b86b-5a32152badc4",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156150190,
+        "last_edited_time": 1538797554564,
         "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file index2.go output sha1:f284d0e9f2084a5966d19449621389ff70556c2f goplayground:7D79SoM0g2t"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Findex2.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file index2.go output sha1:f284d0e9f2084a5966d19449621389ff70556c2f goplayground:7D79SoM0g2t"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Findex2.go"
+        }
       },
       {
         "alive": true,
@@ -1065,7 +1081,7 @@
         "id": "49ade771-9cac-4acb-8692-826c2f72f155",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532209347010,
+        "last_edited_time": 1538797429469,
         "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
         "parent_table": "block",
         "properties": {
@@ -1076,7 +1092,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 28,
         "title": "Methods as data",
         "format_page": {
           "page_cover": "",
@@ -1098,7 +1114,7 @@
         "id": "5b30aba2-23fd-49be-9896-634263873069",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532209430994,
+        "last_edited_time": 1538797499894,
         "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
         "parent_table": "block",
         "properties": {
@@ -1109,7 +1125,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 50,
         "title": "if action",
         "format_page": {
           "page_cover": "",
@@ -1131,7 +1147,7 @@
         "id": "a5607165-a992-4553-82fc-804a092c0d90",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532209461744,
+        "last_edited_time": 1538797612122,
         "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
         "parent_table": "block",
         "properties": {
@@ -1142,7 +1158,7 @@
           ]
         },
         "type": "page",
-        "version": 19,
+        "version": 40,
         "title": "range action",
         "format_page": {
           "page_cover": "",
@@ -1164,7 +1180,7 @@
         "id": "0d2f825a-78fa-4725-9b55-92c48f773097",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532209489511,
+        "last_edited_time": 1538797872794,
         "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
         "parent_table": "block",
         "properties": {
@@ -1175,7 +1191,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 60,
         "title": "Built-in functions",
         "format_page": {
           "page_cover": "",
@@ -1197,7 +1213,7 @@
         "id": "0f5276a7-333b-442f-a05d-d9ec15eb55ea",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532210658530,
+        "last_edited_time": 1538797888018,
         "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
         "parent_table": "block",
         "properties": {
@@ -1208,7 +1224,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 28,
         "title": "Custom functions",
         "format_page": {
           "page_cover": "",
@@ -1230,7 +1246,7 @@
         "id": "7570e77c-0314-479e-8c25-c6321af65f06",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532210634417,
+        "last_edited_time": 1538797922694,
         "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
         "parent_table": "block",
         "properties": {
@@ -1241,7 +1257,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 37,
         "title": "HTML templates",
         "format_page": {
           "page_cover": "",

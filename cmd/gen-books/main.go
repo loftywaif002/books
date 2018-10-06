@@ -160,9 +160,11 @@ func initMinify() {
 func main() {
 	parseFlags()
 
-	//flgNoCache = true
+	if false {
+		// only needs to be run when we add new covers
+		genTwitterImagesAndExit()
+	}
 
-	clearErrors()
 	initMinify()
 
 	loadSOUserMappingsMust()

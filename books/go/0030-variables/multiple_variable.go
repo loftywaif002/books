@@ -1,3 +1,4 @@
+// no output
 package main
 
 func main() {

@@ -1,8 +1,9 @@
+// no output
 package main
 
 import (
-	"fmt"
 	"io"
+	"log"
 	"os"
 )
 
@@ -38,7 +39,7 @@ func main() {
 	dst := "file_copy_copy.go"
 	err := CopyFile(dst, src)
 	if err != nil {
-		fmt.Printf("CopyFile failed with '%s'\n", err)
+		log.Fatalf("CopyFile failed with '%s'\n", err)
 	}
 	os.Remove(dst)
 }

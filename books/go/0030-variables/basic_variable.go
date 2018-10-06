@@ -1,3 +1,4 @@
+// no output
 package main
 
 type Person struct {

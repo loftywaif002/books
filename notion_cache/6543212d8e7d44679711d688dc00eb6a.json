@@ -21,18 +21,18 @@
     "id": "6543212d-8e7d-4467-9711-d688dc00eb6a",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532235218484,
+    "last_edited_time": 1538809000915,
     "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
     "parent_table": "block",
     "properties": {
       "title": [
         [
-          "Delete map element"
+          "Delete from a map"
         ]
       ]
     },
     "type": "page",
-    "version": 31,
+    "version": 61,
     "content_resolved": [
       {
         "alive": true,
@@ -287,7 +287,7 @@
         "version": 4
       }
     ],
-    "title": "Delete map element",
+    "title": "Delete from a map",
     "format_page": {
       "page_cover": "",
       "page_cover_position": 0,

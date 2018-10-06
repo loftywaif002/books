@@ -206,7 +206,7 @@
         "id": "af594db6-04b4-44a7-9df5-2033a6076b0a",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235310331,
+        "last_edited_time": 1538809079958,
         "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
         "parent_table": "block",
         "properties": {
@@ -221,7 +221,7 @@
               ]
             ],
             [
-              " of "
+              " of a "
             ],
             [
               "struct",
@@ -237,14 +237,14 @@
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 12,
         "inline_content": [
           {
             "Text": "Zero value",
             "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
           },
           {
-            "Text": " of "
+            "Text": " of a "
           },
           {
             "Text": "struct",
@@ -501,19 +501,19 @@
         "id": "fc4cf2bb-9b23-45a9-a9fe-53b4ed65ae12",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235446576,
+        "last_edited_time": 1538809134719,
         "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Tags"
+              "Struct tags"
             ]
           ]
         },
         "type": "page",
-        "version": 25,
-        "title": "Tags",
+        "version": 43,
+        "title": "Struct tags",
         "format_page": {
           "page_cover": "",
           "page_cover_position": 0,

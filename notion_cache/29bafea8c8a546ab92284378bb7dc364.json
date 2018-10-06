@@ -12,13 +12,14 @@
       "8f16ceaa-72e6-4d25-8b76-0bb954c1fbb8",
       "bc875d15-2e46-4e00-bebc-392f9a1b3e3e",
       "ca2c2b17-ceb8-464f-8491-1aa99f90ff0c",
-      "f592c209-73ed-423b-8810-9f25efae624f",
+      "afeae127-2eb4-401e-9182-91115297d0ec",
+      "5e0add40-3b16-4736-af1c-ee057400db99",
       "21f7b75e-0e36-489f-8028-d5672ba24009",
       "370312ac-8077-4a2f-851d-19f663a0fcef",
       "46d9b00a-21ad-4bcd-a3b9-ed74bbcd35b0",
       "3872f19a-1d95-4230-8077-c6252e7f5459",
       "ed6ac872-1ec2-464c-9f69-a976b755db33",
-      "1eab614d-e9b4-4fd1-bec1-e0374ac1be91",
+      "b9559a9c-0f39-451c-ae8f-92f93f55808d",
       "32886d10-d8a6-40fc-80aa-fa28f363201c",
       "b8786423-1bc4-4ed5-9e33-44856cf98055",
       "0da2dbb6-41c0-426f-80cb-2edec81d880c",
@@ -40,7 +41,7 @@
     "id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532208264218,
+    "last_edited_time": 1538796803961,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -51,7 +52,7 @@
       ]
     },
     "type": "page",
-    "version": 18,
+    "version": 33,
     "content_resolved": [
       {
         "alive": true,
@@ -296,48 +297,77 @@
         "id": "ca2c2b17-ceb8-464f-8491-1aa99f90ff0c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156126132,
+        "last_edited_time": 1538796763459,
         "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file data.yml noplayground"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file data.yml noplayground"
-          }
-        ]
+        "version": 3
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156126132,
-        "id": "f592c209-73ed-423b-8810-9f25efae624f",
-        "ignore_block_count": true,
+        "created_time": 1538796759637,
+        "format": {
+          "block_height": 185,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0340-yaml%2Fdata.yml",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "afeae127-2eb4-401e-9182-91115297d0ec",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156126132,
+        "last_edited_time": 1538796766605,
         "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file yaml_deserialize.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0340-yaml%2Fdata.yml"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file yaml_deserialize.go output noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 185,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0340-yaml%2Fdata.yml"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538796736531,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0340-yaml%2Fyaml_deserialize.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "5e0add40-3b16-4736-af1c-ee057400db99",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538796738264,
+        "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0340-yaml%2Fyaml_deserialize.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0340-yaml%2Fyaml_deserialize.go"
+        }
       },
       {
         "alive": true,
@@ -573,7 +603,7 @@
         "id": "ed6ac872-1ec2-464c-9f69-a976b755db33",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156126134,
+        "last_edited_time": 1538796803961,
         "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
         "parent_table": "block",
         "properties": {
@@ -584,7 +614,7 @@
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Writing Go struct to YAML file"
@@ -594,27 +624,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156126134,
-        "id": "1eab614d-e9b4-4fd1-bec1-e0374ac1be91",
-        "ignore_block_count": true,
+        "created_time": 1538796800843,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0340-yaml%2Fyaml_serialize.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "b9559a9c-0f39-451c-ae8f-92f93f55808d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156126134,
+        "last_edited_time": 1538796802638,
         "parent_id": "29bafea8-c8a5-46ab-9228-4378bb7dc364",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file yaml_serialize.go output sha1:c69c304984394d3765680a32c6573bc4e1faaeed goplayground:dGHkgP4rNQ4"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0340-yaml%2Fyaml_serialize.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file yaml_serialize.go output sha1:c69c304984394d3765680a32c6573bc4e1faaeed goplayground:dGHkgP4rNQ4"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0340-yaml%2Fyaml_serialize.go"
+        }
       },
       {
         "alive": true,

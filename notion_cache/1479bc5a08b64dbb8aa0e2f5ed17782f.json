@@ -8,7 +8,7 @@
       "4786c006-7300-415e-8659-6314f72cdf00",
       "21166513-159c-4e1f-8eb6-c67d759dbba8",
       "d55cebc4-29c4-469c-a27f-3bb4ece1aba1",
-      "54ade7e8-b6dd-460a-8487-7d2fa88f2396",
+      "d81459d2-99fe-4a82-b34b-be81a33f448c",
       "574bc974-ad70-4f66-8daf-e7bb17821903",
       "886429f5-90f8-4754-bc4e-abfd392c8ecb",
       "be3865ae-1133-4559-b130-d5efe343f29b",
@@ -22,7 +22,7 @@
       "8856257a-8034-4905-9950-3995b37e5dd3",
       "9fb86f62-b5b3-4231-affc-b3758987428f",
       "98780d83-71d2-4258-9534-32fc0c535603",
-      "09d19f0b-acdf-4718-a955-658ea5dc2ea5",
+      "860d8ee7-9e78-49e6-bf8b-5b8f00f1726a",
       "355831c1-2cdb-4dab-97f5-d5627a0a0398",
       "fd2d1252-6cf3-467c-8843-2235c072061e",
       "8c8ecf7d-fceb-48e8-be51-470cb119126a",
@@ -52,7 +52,7 @@
     "id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532237030634,
+    "last_edited_time": 1538795104403,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -63,7 +63,7 @@
       ]
     },
     "type": "page",
-    "version": 28,
+    "version": 42,
     "content_resolved": [
       {
         "alive": true,
@@ -180,7 +180,7 @@
         "id": "d55cebc4-29c4-469c-a27f-3bb4ece1aba1",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156109174,
+        "last_edited_time": 1538795080245,
         "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
         "parent_table": "block",
         "properties": {
@@ -191,7 +191,7 @@
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Serialize a struct as JSON"
@@ -201,27 +201,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156109174,
-        "id": "54ade7e8-b6dd-460a-8487-7d2fa88f2396",
-        "ignore_block_count": true,
+        "created_time": 1538795075732,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fjson_serialize.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "d81459d2-99fe-4a82-b34b-be81a33f448c",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156109174,
+        "last_edited_time": 1538795077672,
         "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file json_serialize.go output sha1:a91894315e1a06003e4862d5fbc12003cfcd20fd goplayground:T6_VXCMeO3r"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fjson_serialize.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file json_serialize.go output sha1:a91894315e1a06003e4862d5fbc12003cfcd20fd goplayground:T6_VXCMeO3r"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fjson_serialize.go"
+        }
       },
       {
         "alive": true,
@@ -721,7 +729,7 @@
         "id": "98780d83-71d2-4258-9534-32fc0c535603",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156109178,
+        "last_edited_time": 1538795104403,
         "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
         "parent_table": "block",
         "properties": {
@@ -732,7 +740,7 @@
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Parse JSON into a struct"
@@ -742,27 +750,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156109178,
-        "id": "09d19f0b-acdf-4718-a955-658ea5dc2ea5",
-        "ignore_block_count": true,
+        "created_time": 1538795099806,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fjson_deserialize.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "860d8ee7-9e78-49e6-bf8b-5b8f00f1726a",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156109178,
+        "last_edited_time": 1538795101561,
         "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file json_deserialize.go output sha1:1adbbe8fa6abf4c08bf821b2b3e7db1c82ace85d goplayground:CllMvV6twjM"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fjson_deserialize.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file json_deserialize.go output sha1:1adbbe8fa6abf4c08bf821b2b3e7db1c82ace85d goplayground:CllMvV6twjM"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fjson_deserialize.go"
+        }
       },
       {
         "alive": true,
@@ -1339,7 +1355,7 @@
         "id": "cc86ac32-2701-4af0-acd1-e44f6546c43c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532207563083,
+        "last_edited_time": 1538795136819,
         "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
         "parent_table": "block",
         "properties": {
@@ -1350,7 +1366,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 28,
         "title": "Parsing arbitrary JSON documents",
         "format_page": {
           "page_cover": "",
@@ -1372,7 +1388,7 @@
         "id": "4ef2f951-df5f-4c2f-a229-ddb74e372823",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532207605467,
+        "last_edited_time": 1538795158913,
         "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
         "parent_table": "block",
         "properties": {
@@ -1383,7 +1399,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 30,
         "title": "Decoding into anonymous structs",
         "format_page": {
           "page_cover": "",
@@ -1405,7 +1421,7 @@
         "id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532207639254,
+        "last_edited_time": 1538795223119,
         "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
         "parent_table": "block",
         "properties": {
@@ -1416,7 +1432,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 35,
         "title": "Decoding JSON from a file",
         "format_page": {
           "page_cover": "",
@@ -1471,7 +1487,7 @@
         "id": "468765d1-44a3-4e87-b913-c7674e66c3a4",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532207703643,
+        "last_edited_time": 1538795276108,
         "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
         "parent_table": "block",
         "properties": {
@@ -1482,7 +1498,7 @@
           ]
         },
         "type": "page",
-        "version": 19,
+        "version": 35,
         "title": "Custom JSON marshaling",
         "format_page": {
           "page_cover": "",
@@ -1504,7 +1520,7 @@
         "id": "408ca6ba-b89f-4e46-8d58-b26a951c12d7",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532237155541,
+        "last_edited_time": 1538795428120,
         "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
         "parent_table": "block",
         "properties": {
@@ -1515,7 +1531,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 37,
         "title": "Go to JSON type mappings",
         "format_page": {
           "page_cover": "",

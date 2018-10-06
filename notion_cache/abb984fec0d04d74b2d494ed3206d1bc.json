@@ -9,8 +9,9 @@
       "35776a32-5c06-4d62-a99e-0138bfce268d",
       "71941809-7ab3-4209-97b6-b6eec6d7b1a5",
       "455e232b-6b01-40d0-9f65-5269cf695638",
-      "ffb482f5-7f73-4d58-acaf-0964235f82b4",
+      "765f586e-aea2-41a0-bb8f-f3ea4b8ceca1",
       "924e7f5d-264c-4aee-8f79-33ae199fc159",
+      "d849e832-e49f-453f-84d4-cd2550cd7604",
       "e482d6b6-2773-44f5-8d7c-c13f6ad5b3bc",
       "3532030f-4001-46a8-ab2e-3bddff3b612a",
       "43910ec0-fdd2-453c-88ce-0143bbd98b07",
@@ -21,7 +22,7 @@
       "aca42c58-f30e-47dc-ade8-5456b7d4472e",
       "98f9a2ab-91b4-486c-b28e-f315fd515dd8",
       "27caa52a-cb5f-479e-b975-3d59cbf50e84",
-      "c81b78f7-2f35-4ad3-afd9-51c28c2c8a20",
+      "49e4fddf-ba17-40d7-ba0f-986b74b4ed17",
       "82e5dda9-853f-4f67-8cec-d8fa9396f434",
       "df2af867-fe45-4cd5-ae95-9f48fc222d3b",
       "2b7d689e-8660-475d-b415-eb1fc39e98b3",
@@ -42,7 +43,7 @@
     "id": "abb984fe-c0d0-4d74-b2d4-94ed3206d1bc",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532208234880,
+    "last_edited_time": 1538796663213,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -53,7 +54,7 @@
       ]
     },
     "type": "page",
-    "version": 22,
+    "version": 38,
     "content_resolved": [
       {
         "alive": true,
@@ -216,27 +217,28 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156124241,
-        "id": "ffb482f5-7f73-4d58-acaf-0964235f82b4",
-        "ignore_block_count": true,
+        "created_time": 1538796582940,
+        "id": "765f586e-aea2-41a0-bb8f-f3ea4b8ceca1",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156124241,
+        "last_edited_time": 1538796597497,
         "parent_id": "abb984fe-c0d0-4d74-b2d4-94ed3206d1bc",
         "parent_table": "block",
         "properties": {
+          "language": [
+            [
+              "Plain Text"
+            ]
+          ],
           "title": [
             [
-              "@file stocks.csv limit:5"
+              "date,open,high,low,close,volume,Name\n2013-02-08,15.07,15.12,14.63,14.75,8407500,AAL\n2013-02-11,14.89,15.01,14.26,14.46,8882000,AAL\n2013-02-12,14.45,14.51,14.1,14.27,8126000,AAL\n2013-02-13,14.3,14.94,14.25,14.66,10259500,AAL"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file stocks.csv limit:5"
-          }
-        ]
+        "type": "code",
+        "version": 23,
+        "code": "date,open,high,low,close,volume,Name\n2013-02-08,15.07,15.12,14.63,14.75,8407500,AAL\n2013-02-11,14.89,15.01,14.26,14.46,8882000,AAL\n2013-02-12,14.45,14.51,14.1,14.27,8126000,AAL\n2013-02-13,14.3,14.94,14.25,14.66,10259500,AAL",
+        "code_language": "Plain Text"
       },
       {
         "alive": true,
@@ -245,23 +247,44 @@
         "id": "924e7f5d-264c-4aee-8f79-33ae199fc159",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156124242,
+        "last_edited_time": 1538796636494,
+        "parent_id": "abb984fe-c0d0-4d74-b2d4-94ed3206d1bc",
+        "parent_table": "block",
+        "type": "text",
+        "version": 3
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538796624013,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0330-cvs%2Fread_csv.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "d849e832-e49f-453f-84d4-cd2550cd7604",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538796627290,
         "parent_id": "abb984fe-c0d0-4d74-b2d4-94ed3206d1bc",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file read_csv.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0330-cvs%2Fread_csv.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file read_csv.go output noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0330-cvs%2Fread_csv.go"
+        }
       },
       {
         "alive": true,
@@ -617,7 +640,7 @@
         "id": "27caa52a-cb5f-479e-b975-3d59cbf50e84",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156124244,
+        "last_edited_time": 1538796663213,
         "parent_id": "abb984fe-c0d0-4d74-b2d4-94ed3206d1bc",
         "parent_table": "block",
         "properties": {
@@ -628,7 +651,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Let’s now write simplified stock quotes to a CSV file:"
@@ -638,27 +661,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156124244,
-        "id": "c81b78f7-2f35-4ad3-afd9-51c28c2c8a20",
-        "ignore_block_count": true,
+        "created_time": 1538796658894,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0330-cvs%2Fwrite_csv.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "49e4fddf-ba17-40d7-ba0f-986b74b4ed17",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156124244,
+        "last_edited_time": 1538796661216,
         "parent_id": "abb984fe-c0d0-4d74-b2d4-94ed3206d1bc",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file write_csv.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0330-cvs%2Fwrite_csv.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file write_csv.go output noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0330-cvs%2Fwrite_csv.go"
+        }
       },
       {
         "alive": true,

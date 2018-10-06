@@ -7,8 +7,7 @@
       "a95cc681-e98f-4ae6-ae70-bc783053f1cb",
       "5df3ff1d-9ee1-4558-bc33-2ea72a90ba12",
       "1bc0fa18-a2df-4c78-b37b-fb90237a7bb1",
-      "48c37507-7ec4-478f-8c04-190e7414cfc1",
-      "fb58daaf-8366-4cbe-a1c2-c7fb549db0f8"
+      "22a5f607-e2f1-45fd-adab-ea6018aa83cd"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156136163,
@@ -19,7 +18,7 @@
     "id": "d13d2160-5657-42f8-bc6a-1002f675c1e6",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532208697440,
+    "last_edited_time": 1538797233153,
     "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
     "parent_table": "block",
     "properties": {
@@ -30,7 +29,7 @@
       ]
     },
     "type": "page",
-    "version": 25,
+    "version": 30,
     "content_resolved": [
       {
         "alive": true,
@@ -98,7 +97,7 @@
         "created_time": 1532208686386,
         "id": "1bc0fa18-a2df-4c78-b37b-fb90237a7bb1",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532208687389,
+        "last_edited_time": 1538797233153,
         "parent_id": "d13d2160-5657-42f8-bc6a-1002f675c1e6",
         "parent_table": "block",
         "properties": {
@@ -109,7 +108,7 @@
           ]
         },
         "type": "text",
-        "version": 12,
+        "version": 14,
         "inline_content": [
           {
             "Text": "This example shows how to properly encode URL parameters for GET request and parse JSON output returned by Stack Exchange API returning information about Stack Overflow posts."
@@ -119,39 +118,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156136163,
-        "id": "48c37507-7ec4-478f-8c04-190e7414cfc1",
-        "ignore_block_count": true,
+        "created_time": 1538797229769,
+        "format": {
+          "block_height": 930,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_get_json.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "22a5f607-e2f1-45fd-adab-ea6018aa83cd",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156136163,
+        "last_edited_time": 1538797242668,
         "parent_id": "d13d2160-5657-42f8-bc6a-1002f675c1e6",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file http_get_json.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_get_json.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file http_get_json.go output noplayground"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532208697440,
-        "id": "fb58daaf-8366-4cbe-a1c2-c7fb549db0f8",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532208697440,
-        "parent_id": "d13d2160-5657-42f8-bc6a-1002f675c1e6",
-        "parent_table": "block",
-        "type": "text",
-        "version": 4
+        "type": "embed",
+        "version": 14,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 930,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_get_json.go"
+        }
       }
     ],
     "title": "GET with URL parameters and a JSON response",

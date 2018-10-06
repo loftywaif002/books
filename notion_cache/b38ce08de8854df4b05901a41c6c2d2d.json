@@ -11,12 +11,13 @@
       "9b156c69-00d6-4ed2-b698-01f8ef929c79",
       "dd1b9fce-7b51-4286-a6cd-33d5b9e2a6d1",
       "75fd1ffa-1258-45a4-a2c2-f497b89d66c9",
-      "a80a3663-0737-42d1-a6a1-93c7107990c4",
       "526af01f-2b0a-4552-8539-7dbaa64fe1ed",
       "fa9c5d71-25e0-43e6-b6e1-4fadba51df96",
       "532c8fa1-f2f1-4b56-91df-bdeed2a578df",
       "5bea333e-2909-420a-ae66-789755d879fd",
-      "61a5b70b-ef8d-447a-8588-5b1d92970ce6"
+      "61a5b70b-ef8d-447a-8588-5b1d92970ce6",
+      "e7ccc9be-3c5b-4c3a-96d9-230bf7405b17",
+      "ed2ebf84-c898-4434-8ca9-aa40943f7777"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156172227,
@@ -27,7 +28,7 @@
     "id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532210981489,
+    "last_edited_time": 1538798560708,
     "parent_id": "b58d1314-5f92-4c11-afcf-00aa10d71364",
     "parent_table": "block",
     "properties": {
@@ -38,7 +39,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 29,
     "content_resolved": [
       {
         "alive": true,
@@ -231,26 +232,6 @@
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532156172225,
-        "id": "a80a3663-0737-42d1-a6a1-93c7107990c4",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156172225,
-        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
-        "parent_table": "block",
-        "properties": {
-          "source": [
-            [
-              "90100016-context-tree.png"
-            ]
-          ]
-        },
-        "type": "image",
-        "version": 1
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156172225,
         "id": "526af01f-2b0a-4552-8539-7dbaa64fe1ed",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -371,6 +352,58 @@
             "Text": "The cancelation signal flow is represented by the grey edges."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538798541893,
+        "id": "e7ccc9be-3c5b-4c3a-96d9-230bf7405b17",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538798541893,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538798560708,
+        "file_ids": [
+          "ef04cc6b-0989-4385-ac7f-af5f09a034c8"
+        ],
+        "format": {
+          "block_width": 357,
+          "block_height": 443,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef04cc6b-0989-4385-ac7f-af5f09a034c8/90100016-context-tree.png",
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_aspect_ratio": 1.2408963585434174,
+          "block_preserve_scale": true
+        },
+        "id": "ed2ebf84-c898-4434-8ca9-aa40943f7777",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538798561749,
+        "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef04cc6b-0989-4385-ac7f-af5f09a034c8/90100016-context-tree.png"
+            ]
+          ]
+        },
+        "type": "image",
+        "version": 11,
+        "format_image": {
+          "block_aspect_ratio": 1.2408963585434174,
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_preserve_scale": true,
+          "block_width": 357,
+          "display_source": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef04cc6b-0989-4385-ac7f-af5f09a034c8/90100016-context-tree.png",
+          "image_url": "https://www.notion.so/image/https:%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fef04cc6b-0989-4385-ac7f-af5f09a034c8%2F90100016-context-tree.png"
+        }
       }
     ],
     "title": "Context is a tree of values",

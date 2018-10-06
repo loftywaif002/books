@@ -7,13 +7,13 @@
       "f9ee9664-2a10-4ba8-ad38-2b609c284c3e",
       "f796c3f4-a0bc-4659-bc87-8b15ace51a7f",
       "79403c8d-ee2b-4899-abac-f027f0e64f7e",
-      "5a72ea83-2e53-4f16-af58-a5d0e2e26896",
+      "2aff7d55-6b29-4008-93fa-d4f4ad47ae7e",
       "d4233cf1-62a7-41b3-890d-c80b291f3674",
       "06218053-149a-4d0e-ada4-2a0556df1273",
-      "ca6f3c4a-5df3-4383-b1ed-29b16b0f8d86",
+      "d1a94046-9002-4151-9cea-f8a0d18813e2",
       "85c6154f-3e48-46dc-aea0-2079b5a3c84f",
       "2789eee4-2ad7-452e-aadd-0a3b87c86d15",
-      "fe7e6853-7053-4716-a005-c23f36c58f81"
+      "54bf7427-1242-466c-9e67-bb952d22730d"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156152201,
@@ -24,7 +24,7 @@
     "id": "5b30aba2-23fd-49be-9896-634263873069",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532209430994,
+    "last_edited_time": 1538797499894,
     "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
     "parent_table": "block",
     "properties": {
@@ -35,7 +35,7 @@
       ]
     },
     "type": "page",
-    "version": 25,
+    "version": 50,
     "content_resolved": [
       {
         "alive": true,
@@ -104,7 +104,7 @@
         "id": "79403c8d-ee2b-4899-abac-f027f0e64f7e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156152199,
+        "last_edited_time": 1538797456938,
         "parent_id": "5b30aba2-23fd-49be-9896-634263873069",
         "parent_table": "block",
         "properties": {
@@ -126,7 +126,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "To conditionally render parts of the template, use "
@@ -143,27 +143,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156152200,
-        "id": "5a72ea83-2e53-4f16-af58-a5d0e2e26896",
-        "ignore_block_count": true,
+        "created_time": 1538797453792,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fif.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "2aff7d55-6b29-4008-93fa-d4f4ad47ae7e",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156152200,
+        "last_edited_time": 1538797455240,
         "parent_id": "5b30aba2-23fd-49be-9896-634263873069",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file if.go output sha1:01dc196565b5e4fdfb8c6ce923ffc753b6239acc goplayground:mcVhMbPtV9T"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fif.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file if.go output sha1:01dc196565b5e4fdfb8c6ce923ffc753b6239acc goplayground:mcVhMbPtV9T"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fif.go"
+        }
       },
       {
         "alive": true,
@@ -197,7 +205,7 @@
         "id": "06218053-149a-4d0e-ada4-2a0556df1273",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156152200,
+        "last_edited_time": 1538797478736,
         "parent_id": "5b30aba2-23fd-49be-9896-634263873069",
         "parent_table": "block",
         "properties": {
@@ -219,7 +227,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Templating uses “truthy” logic for deciding what values are true or false in the context of "
@@ -236,27 +244,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156152200,
-        "id": "ca6f3c4a-5df3-4383-b1ed-29b16b0f8d86",
-        "ignore_block_count": true,
+        "created_time": 1538797472444,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fif2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "d1a94046-9002-4151-9cea-f8a0d18813e2",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156152200,
+        "last_edited_time": 1538797475599,
         "parent_id": "5b30aba2-23fd-49be-9896-634263873069",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file if2.go output sha1:ce4fdad0dbaa80360959af98f1fd362fd03ed030 goplayground:s8GCT7H34EL"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fif2.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file if2.go output sha1:ce4fdad0dbaa80360959af98f1fd362fd03ed030 goplayground:s8GCT7H34EL"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fif2.go"
+        }
       },
       {
         "alive": true,
@@ -290,7 +306,7 @@
         "id": "2789eee4-2ad7-452e-aadd-0a3b87c86d15",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156152201,
+        "last_edited_time": 1538797499894,
         "parent_id": "5b30aba2-23fd-49be-9896-634263873069",
         "parent_table": "block",
         "properties": {
@@ -301,7 +317,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 5,
         "inline_content": [
           {
             "Text": "Truthy logic is useful when we want to show different text if a list of items is empty:"
@@ -311,27 +327,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156152201,
-        "id": "fe7e6853-7053-4716-a005-c23f36c58f81",
-        "ignore_block_count": true,
+        "created_time": 1538797494068,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fif_empty_slice.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "54bf7427-1242-466c-9e67-bb952d22730d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156152201,
+        "last_edited_time": 1538797495244,
         "parent_id": "5b30aba2-23fd-49be-9896-634263873069",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file if_empty_slice.go output sha1:ea01ab225c326934713d5cf909bce693fd8a057c goplayground:7xSoiyH0QDJ"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fif_empty_slice.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file if_empty_slice.go output sha1:ea01ab225c326934713d5cf909bce693fd8a057c goplayground:7xSoiyH0QDJ"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fif_empty_slice.go"
+        }
       }
     ],
     "title": "if action",

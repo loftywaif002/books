@@ -7,9 +7,9 @@
       "ca34dcf8-9b4e-428e-8e29-957fe4c4f69a",
       "9774a7ed-7f24-4887-ba28-37ca67983c89",
       "5c35d902-026b-456c-acd1-9e7722f92132",
-      "ee556e85-7f8a-476b-83e0-292a59922479",
+      "092066b8-e861-4446-b100-03255b71d431",
       "27641976-7d2a-474f-8330-4e10247d4ade",
-      "0f55a69b-40b5-4f18-a29d-370020a68abe",
+      "223a02c3-314c-4db8-8c8e-81f88f7aaf2c",
       "57edf98c-f8a9-4884-b9d7-643190c6c7d8"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -21,7 +21,7 @@
     "id": "408ca6ba-b89f-4e46-8d58-b26a951c12d7",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532237155541,
+    "last_edited_time": 1538795428120,
     "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
     "parent_table": "block",
     "properties": {
@@ -32,7 +32,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -121,104 +121,240 @@
       },
       {
         "alive": true,
+        "collection_id": "ee6dac61-4162-44cf-bfd9-0aa6f52398db",
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156115234,
-        "id": "ee556e85-7f8a-476b-83e0-292a59922479",
-        "ignore_block_count": true,
+        "created_time": 1538795303225,
+        "id": "092066b8-e861-4446-b100-03255b71d431",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156115234,
+        "last_edited_time": 1538795303225,
         "parent_id": "408ca6ba-b89f-4e46-8d58-b26a951c12d7",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "JSON Type"
-            ],
-            [
-              "Go Concrete Type"
-            ],
-            [
-              "boolean"
-            ],
-            [
-              "bool"
-            ],
-            [
-              "numbers"
-            ],
-            [
-              "float64 or int"
-            ],
-            [
-              "string"
-            ],
-            [
-              "string"
-            ],
-            [
-              "array"
-            ],
-            [
-              "slice"
-            ],
-            [
-              "dictionary"
-            ],
-            [
-              "struct"
-            ],
-            [
-              "null"
-            ],
-            [
-              "nil"
+        "type": "collection_view",
+        "version": 4,
+        "view_ids": [
+          "32a1892c-d7a4-4af3-8cba-b026dc6e0ca4"
+        ],
+        "collection_views": [
+          {
+            "CollectionView": {
+              "id": "32a1892c-d7a4-4af3-8cba-b026dc6e0ca4",
+              "alive": true,
+              "format": {
+                "table_properties": [
+                  {
+                    "width": 276,
+                    "visible": true,
+                    "property": "title"
+                  },
+                  {
+                    "width": 0,
+                    "visible": true,
+                    "property": "X}lo"
+                  },
+                  {
+                    "width": 0,
+                    "visible": true,
+                    "property": "Hw_\""
+                  }
+                ],
+                "table_wrap": true
+              },
+              "name": "Default View",
+              "page_sort": [
+                "95c83b7b-f6a4-4431-93c2-a40cce7ab0a8",
+                "7a81901f-795e-433b-91e8-b5564b1cac4d",
+                "051eabe3-f50a-4d91-b878-9a5969a5cdec",
+                "b9d4f0bc-265d-45ee-bf00-0d23c28297c5",
+                "b6d4cd2d-8978-42b5-a25d-427dba58d857",
+                "b27402c9-f54c-4dd6-913c-7fbd198b4064",
+                "0ef47c30-8214-424e-9f3e-968cfbdeaa44"
+              ],
+              "parent_id": "092066b8-e861-4446-b100-03255b71d431",
+              "parent_table": "block",
+              "query": {
+                "aggregate": null
+              },
+              "type": "table",
+              "version": 24
+            },
+            "Collection": {
+              "alive": true,
+              "format": {
+                "collection_page_properties": [
+                  {
+                    "property": "X}lo",
+                    "visible": true
+                  },
+                  {
+                    "property": "Hw_\"",
+                    "visible": true
+                  }
+                ]
+              },
+              "id": "ee6dac61-4162-44cf-bfd9-0aa6f52398db",
+              "name": null,
+              "parent_id": "092066b8-e861-4446-b100-03255b71d431",
+              "parent_table": "block",
+              "schema": {
+                "X}lo": {
+                  "name": "Go Concrete Type",
+                  "options": null,
+                  "type": "text"
+                },
+                "title": {
+                  "name": "JSON Type",
+                  "options": null,
+                  "type": "title"
+                }
+              },
+              "version": 8
+            },
+            "CollectionRows": [
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538795303225,
+                "id": "95c83b7b-f6a4-4431-93c2-a40cce7ab0a8",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538795343554,
+                "parent_id": "ee6dac61-4162-44cf-bfd9-0aa6f52398db",
+                "parent_table": "collection",
+                "properties": {
+                  "X}lo": [
+                    [
+                      "bool"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "boolean"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 13
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538795303225,
+                "id": "7a81901f-795e-433b-91e8-b5564b1cac4d",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538795367504,
+                "parent_id": "ee6dac61-4162-44cf-bfd9-0aa6f52398db",
+                "parent_table": "collection",
+                "properties": {
+                  "X}lo": [
+                    [
+                      "float64 or int"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "number"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 33
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538795303225,
+                "id": "051eabe3-f50a-4d91-b878-9a5969a5cdec",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538795384422,
+                "parent_id": "ee6dac61-4162-44cf-bfd9-0aa6f52398db",
+                "parent_table": "collection",
+                "properties": {
+                  "X}lo": [
+                    [
+                      "string"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "string"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 7
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538795385275,
+                "id": "b9d4f0bc-265d-45ee-bf00-0d23c28297c5",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538795394848,
+                "parent_id": "ee6dac61-4162-44cf-bfd9-0aa6f52398db",
+                "parent_table": "collection",
+                "properties": {
+                  "X}lo": [
+                    [
+                      "slice"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "array"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 36
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538795395018,
+                "id": "b6d4cd2d-8978-42b5-a25d-427dba58d857",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538795412024,
+                "parent_id": "ee6dac61-4162-44cf-bfd9-0aa6f52398db",
+                "parent_table": "collection",
+                "properties": {
+                  "X}lo": [
+                    [
+                      "map[struct]interface{} or struct"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "dictionary"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 74
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1538795412240,
+                "id": "b27402c9-f54c-4dd6-913c-7fbd198b4064",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1538795418574,
+                "parent_id": "ee6dac61-4162-44cf-bfd9-0aa6f52398db",
+                "parent_table": "collection",
+                "properties": {
+                  "X}lo": [
+                    [
+                      "nil"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "null"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 18
+              }
             ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "JSON Type"
-          },
-          {
-            "Text": "Go Concrete Type"
-          },
-          {
-            "Text": "boolean"
-          },
-          {
-            "Text": "bool"
-          },
-          {
-            "Text": "numbers"
-          },
-          {
-            "Text": "float64 or int"
-          },
-          {
-            "Text": "string"
-          },
-          {
-            "Text": "string"
-          },
-          {
-            "Text": "array"
-          },
-          {
-            "Text": "slice"
-          },
-          {
-            "Text": "dictionary"
-          },
-          {
-            "Text": "struct"
-          },
-          {
-            "Text": "null"
-          },
-          {
-            "Text": "nil"
           }
         ]
       },
@@ -229,7 +365,7 @@
         "id": "27641976-7d2a-474f-8330-4e10247d4ade",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156115236,
+        "last_edited_time": 1538795296421,
         "parent_id": "408ca6ba-b89f-4e46-8d58-b26a951c12d7",
         "parent_table": "block",
         "properties": {
@@ -240,7 +376,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Here’s how they look in practice:"
@@ -250,27 +386,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156115237,
-        "id": "0f55a69b-40b5-4f18-a29d-370020a68abe",
-        "ignore_block_count": true,
+        "created_time": 1538795293587,
+        "format": {
+          "block_height": 793.9931030273438,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Ftype_mapping.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "223a02c3-314c-4db8-8c8e-81f88f7aaf2c",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156115237,
+        "last_edited_time": 1538795440821,
         "parent_id": "408ca6ba-b89f-4e46-8d58-b26a951c12d7",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file type_mapping.go output sha1:98f4f0fb3439e97bc8e73268a73dbb378a9990c9 goplayground:F36DkvViH06"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Ftype_mapping.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file type_mapping.go output sha1:98f4f0fb3439e97bc8e73268a73dbb378a9990c9 goplayground:F36DkvViH06"
-          }
-        ]
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 793.9931030273438,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Ftype_mapping.go"
+        }
       },
       {
         "alive": true,

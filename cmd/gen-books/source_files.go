@@ -45,7 +45,7 @@ func parseFileDirective(line string) (*FileDirective, error) {
 		case "no playground", "noplayground":
 			res.NoPlayground = true
 			hasInfo = true
-		case "allow error":
+		case "allow error", "allow_error":
 			res.AllowError = true
 			hasInfo = true
 		default:
@@ -229,7 +229,7 @@ func loadSourceFile(path string) (*SourceFile, error) {
 	firstLine := lines[0]
 	directive, lines, err := extractFileDirective(lines)
 	if false && name == "timed_loop.go" {
-		fmt.Printf("loadSourceFile('%s'): directive: %#v\nline:'%s'\n", path, directive, firstLine)
+		fmt.Printf("loadSourceFile: '%s', directive: %#v\nline:'%s'\n", path, directive, firstLine)
 		os.Exit(1)
 	}
 	if err != nil {
@@ -244,12 +244,12 @@ func loadSourceFile(path string) (*SourceFile, error) {
 	sf.LinesFiltered = removeAnnotationLines(lines)
 	sf.LinesCode, err = extractCodeSnippets(lines)
 	if err != nil {
-		fmt.Printf("loadSourceFile('%s'): extractCodeSnippets() failed with '%s'\n", path, err)
+		fmt.Printf("loadSourceFile: '%s', extractCodeSnippets() failed with '%s'\n", path, err)
 		panicIfErr(err)
 	}
 	setGoPlaygroundID(sf)
 	err = getOutputCached(sf)
-	fmt.Printf("loadSourceFile('%s'), lang: '%s'\n", path, lang)
+	fmt.Printf("loadSourceFile: '%s', lang: '%s'\n", path, lang)
 	return sf, nil
 }
 

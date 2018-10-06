@@ -21,7 +21,7 @@
       "205cf4cf-f601-4b33-ac3c-e64633150fe0",
       "eed0712f-590c-4e88-a96d-7cfb0a3f9515",
       "73a37dd5-b336-4c68-a079-238c073f37f6",
-      "1e81bf57-d217-411f-8e9a-e3bd9efd9c46",
+      "e2267e80-f0de-4be8-8f00-b48d955c4365",
       "efee8e82-c675-4b68-8e0d-24cecc306064",
       "d71c0aad-d448-4df9-9e7b-3a1e5c83d5bb",
       "62c2445b-cc02-47b9-b742-9ff7495a7d26",
@@ -38,7 +38,7 @@
     "id": "b58d1314-5f92-4c11-afcf-00aa10d71364",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532210881964,
+    "last_edited_time": 1538798417122,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -49,7 +49,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -709,7 +709,7 @@
         "id": "73a37dd5-b336-4c68-a079-238c073f37f6",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1533063775976,
+        "last_edited_time": 1538798417122,
         "parent_id": "b58d1314-5f92-4c11-afcf-00aa10d71364",
         "parent_table": "block",
         "properties": {
@@ -732,7 +732,7 @@
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 6,
         "inline_content": [
           {
             "Text": "Repeating an example from "
@@ -749,27 +749,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156167144,
-        "id": "1e81bf57-d217-411f-8e9a-e3bd9efd9c46",
-        "ignore_block_count": true,
+        "created_time": 1538798412424,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_timeout.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "e2267e80-f0de-4be8-8f00-b48d955c4365",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156167144,
+        "last_edited_time": 1538798413933,
         "parent_id": "b58d1314-5f92-4c11-afcf-00aa10d71364",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file ../0360-http-client/http_timeout.go output allow_error noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_timeout.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file ../0360-http-client/http_timeout.go output allow_error noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_timeout.go"
+        }
       },
       {
         "alive": true,
@@ -819,7 +827,7 @@
         "id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532210909029,
+        "last_edited_time": 1538798482255,
         "parent_id": "b58d1314-5f92-4c11-afcf-00aa10d71364",
         "parent_table": "block",
         "properties": {
@@ -830,7 +838,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 35,
         "title": "Context with value",
         "format_page": {
           "page_cover": "",
@@ -852,7 +860,7 @@
         "id": "8cc69d74-2351-4479-80b3-a547a37741c0",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532210929700,
+        "last_edited_time": 1538798501894,
         "parent_id": "b58d1314-5f92-4c11-afcf-00aa10d71364",
         "parent_table": "block",
         "properties": {
@@ -863,7 +871,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 28,
         "title": "Writing cancellable functions",
         "format_page": {
           "page_cover": "",
@@ -885,7 +893,7 @@
         "id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532210981489,
+        "last_edited_time": 1538798560708,
         "parent_id": "b58d1314-5f92-4c11-afcf-00aa10d71364",
         "parent_table": "block",
         "properties": {
@@ -896,7 +904,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 29,
         "title": "Context is a tree of values",
         "format_page": {
           "page_cover": "",

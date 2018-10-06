@@ -8,7 +8,7 @@
       "1a38f763-f3ed-4a59-945c-b1a4d0ea6159",
       "0c5c89e4-c237-4863-8dac-5b1d42846b40",
       "79351d89-3323-4f88-9472-06b5ce786f09",
-      "eba12815-e61c-4474-b249-e2cdf2ab5cd8",
+      "ab4aec53-af38-48db-b024-96b17787ffda",
       "9f8fb3ab-b36c-47dc-a781-2da9b355f69b",
       "179105ef-264e-42ec-8f23-1f44eb3a56be",
       "9867e9e3-8f6f-4d8d-90bf-72dc3ec934b0",
@@ -19,7 +19,7 @@
       "4e00686a-a9be-454e-806d-70bdbba1cee5",
       "5f95ccf2-380b-4a73-9b16-dc02900fc0dd",
       "67c5b416-516c-4133-a403-f68c4fa79ac9",
-      "5dffb033-1762-4521-9020-99ce2c78d3ef",
+      "74b4e4c6-e3fc-462f-a6c5-fb4f806a0978",
       "87752082-a7e6-4b26-8267-2c951fefab0d",
       "5dba840c-faa3-43ac-bc02-9e4f29be2fb7",
       "b926088d-f48c-44e6-86b0-be7ab933ee68",
@@ -51,7 +51,7 @@
     "id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532207928619,
+    "last_edited_time": 1538795768387,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -62,7 +62,7 @@
       ]
     },
     "type": "page",
-    "version": 25,
+    "version": 39,
     "content_resolved": [
       {
         "alive": true,
@@ -180,7 +180,7 @@
         "id": "79351d89-3323-4f88-9472-06b5ce786f09",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156117176,
+        "last_edited_time": 1538795736615,
         "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
         "parent_table": "block",
         "properties": {
@@ -213,7 +213,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Parsing XML is similar to parsing JSON. You define structures that map to the structure of XML and unmarshal from "
@@ -237,27 +237,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156117176,
-        "id": "eba12815-e61c-4474-b249-e2cdf2ab5cd8",
-        "ignore_block_count": true,
+        "created_time": 1538795732934,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Funmarshal_simple.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "ab4aec53-af38-48db-b024-96b17787ffda",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156117176,
+        "last_edited_time": 1538795735053,
         "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file unmarshal_simple.go output sha1:32254e64f0145fbc199c82613444ac313a54beae goplayground:1nB6hJ_EuU2"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Funmarshal_simple.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file unmarshal_simple.go output sha1:32254e64f0145fbc199c82613444ac313a54beae goplayground:1nB6hJ_EuU2"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Funmarshal_simple.go"
+        }
       },
       {
         "alive": true,
@@ -701,7 +709,7 @@
         "id": "67c5b416-516c-4133-a403-f68c4fa79ac9",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156117183,
+        "last_edited_time": 1538795768387,
         "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
         "parent_table": "block",
         "properties": {
@@ -712,7 +720,7 @@
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Serialize a struct as XML"
@@ -722,27 +730,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156117183,
-        "id": "5dffb033-1762-4521-9020-99ce2c78d3ef",
-        "ignore_block_count": true,
+        "created_time": 1538795763256,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Fmarshal_simple.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "74b4e4c6-e3fc-462f-a6c5-fb4f806a0978",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156117183,
+        "last_edited_time": 1538795765116,
         "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file marshal_simple.go output sha1:399c70c8b4462adfef0eb8cdf0a52fe7c2c1e43c goplayground:U3BoXM0mqnI"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Fmarshal_simple.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file marshal_simple.go output sha1:399c70c8b4462adfef0eb8cdf0a52fe7c2c1e43c goplayground:U3BoXM0mqnI"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Fmarshal_simple.go"
+        }
       },
       {
         "alive": true,
@@ -1359,7 +1375,7 @@
         "id": "737850ee-fd45-462e-807a-2c0dc7b83430",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532207949898,
+        "last_edited_time": 1538795801581,
         "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
         "parent_table": "block",
         "properties": {
@@ -1370,7 +1386,7 @@
           ]
         },
         "type": "page",
-        "version": 19,
+        "version": 26,
         "title": "Pull (streaming) XML parsing",
         "format_page": {
           "page_cover": "",
@@ -1392,7 +1408,7 @@
         "id": "b343b332-2335-4280-b863-0a96bd11561b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532208005939,
+        "last_edited_time": 1538795828684,
         "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
         "parent_table": "block",
         "properties": {
@@ -1403,7 +1419,7 @@
           ]
         },
         "type": "page",
-        "version": 81,
+        "version": 93,
         "title": "Hybrid XML parsing: combine pull and unmarshal",
         "format_page": {
           "page_cover": "",
@@ -1425,19 +1441,19 @@
         "id": "59e924ef-82eb-462a-86a3-fe905d13c2ce",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532208030060,
+        "last_edited_time": 1538795856249,
         "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Parse XML from filef"
+              "Parse XML from file"
             ]
           ]
         },
         "type": "page",
-        "version": 23,
-        "title": "Parse XML from filef",
+        "version": 32,
+        "title": "Parse XML from file",
         "format_page": {
           "page_cover": "",
           "page_cover_position": 0,
@@ -1458,7 +1474,7 @@
         "id": "7d0ad68b-65cd-4074-aa98-85b63da9e3b0",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532208050353,
+        "last_edited_time": 1538796046436,
         "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
         "parent_table": "block",
         "properties": {
@@ -1469,7 +1485,7 @@
           ]
         },
         "type": "page",
-        "version": 19,
+        "version": 82,
         "title": "Configuring XML parsing and serialization",
         "format_page": {
           "page_cover": "",
@@ -1491,7 +1507,7 @@
         "id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532208071472,
+        "last_edited_time": 1538796071764,
         "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
         "parent_table": "block",
         "properties": {
@@ -1502,7 +1518,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 28,
         "title": "Custom XML marshaling",
         "format_page": {
           "page_cover": "",

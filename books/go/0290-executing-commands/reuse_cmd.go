@@ -1,4 +1,4 @@
-// no playground
+// no playground, allow error
 package main
 
 import (

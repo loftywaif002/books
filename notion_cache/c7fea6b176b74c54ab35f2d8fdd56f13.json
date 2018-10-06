@@ -16,7 +16,7 @@
       "9dc2ef82-ffed-4d61-9792-66f6c9dc763a",
       "7ef0c358-705b-4eb6-abc8-396b57813b93",
       "b2648f58-c981-436d-b489-52f07de7610f",
-      "9bf33ca4-897c-4398-9d6a-62fd1e0ed87f",
+      "a3da4684-cca0-400c-85d8-45707befa8bb",
       "c218267d-2238-4008-9702-8ebbe14652bf",
       "634d211a-fd6a-45eb-b67a-c9a935f69e21",
       "2738416a-0c80-4049-96cf-7196aaea4d79",
@@ -39,7 +39,7 @@
     "id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532210708640,
+    "last_edited_time": 1538798060433,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -50,7 +50,7 @@
       ]
     },
     "type": "page",
-    "version": 36,
+    "version": 43,
     "content_resolved": [
       {
         "alive": true,
@@ -439,7 +439,7 @@
         "id": "b2648f58-c981-436d-b489-52f07de7610f",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1533063648754,
+        "last_edited_time": 1538798060433,
         "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
         "parent_table": "block",
         "properties": {
@@ -474,7 +474,7 @@
           ]
         },
         "type": "text",
-        "version": 7,
+        "version": 9,
         "inline_content": [
           {
             "Text": "Related language-level functionality for inspecting type of an interface value at runtime is a "
@@ -498,27 +498,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156157161,
-        "id": "9bf33ca4-897c-4398-9d6a-62fd1e0ed87f",
-        "ignore_block_count": true,
+        "created_time": 1538798057935,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fbasic_reflect.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "a3da4684-cca0-400c-85d8-45707befa8bb",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156157161,
+        "last_edited_time": 1538798059300,
         "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file basic_reflect.go output sha1:c164a42797cd3ec1b68efb45fa6847faadc0ae02 goplayground:Au4CaDPt60b"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fbasic_reflect.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file basic_reflect.go output sha1:c164a42797cd3ec1b68efb45fa6847faadc0ae02 goplayground:Au4CaDPt60b"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fbasic_reflect.go"
+        }
       },
       {
         "alive": true,
@@ -777,7 +785,7 @@
         "id": "fb02383e-7719-45cf-a227-c82fa10d799b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532210737828,
+        "last_edited_time": 1538798122157,
         "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
         "parent_table": "block",
         "properties": {
@@ -788,7 +796,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 42,
         "title": "Primitive types",
         "format_page": {
           "page_cover": "",
@@ -810,7 +818,7 @@
         "id": "94e7d8ad-c934-40e0-b356-9e56e32dcc22",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532210762894,
+        "last_edited_time": 1538798142814,
         "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
         "parent_table": "block",
         "properties": {
@@ -821,7 +829,7 @@
           ]
         },
         "type": "page",
-        "version": 21,
+        "version": 28,
         "title": "Pointers",
         "format_page": {
           "page_cover": "",
@@ -843,7 +851,7 @@
         "id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532210783433,
+        "last_edited_time": 1538798182180,
         "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
         "parent_table": "block",
         "properties": {
@@ -854,7 +862,7 @@
           ]
         },
         "type": "page",
-        "version": 19,
+        "version": 33,
         "title": "Structs",
         "format_page": {
           "page_cover": "",
@@ -876,7 +884,7 @@
         "id": "212a6742-4138-4507-84f5-5939f26353ee",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532210803017,
+        "last_edited_time": 1538798247984,
         "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
         "parent_table": "block",
         "properties": {
@@ -887,7 +895,7 @@
           ]
         },
         "type": "page",
-        "version": 19,
+        "version": 33,
         "title": "Slice",
         "format_page": {
           "page_cover": "",

@@ -10,7 +10,7 @@
       "94ae08be-8eb6-4021-839e-e97c41963a9e",
       "097c5566-7ba2-425b-b613-a9d52148f082",
       "e36cf55f-5c66-484a-a931-0f9504a3033d",
-      "588124e3-bed7-4094-8562-d2177d65890c",
+      "02869057-e31e-46c8-9a42-288f04995136",
       "080df4a5-c39b-4669-a4b0-50102af5b012",
       "f1a99525-fdb6-4b26-8123-fe56ecc9e02c",
       "0f8f8273-bd13-44e6-af21-3d2914e7cfd0",
@@ -29,7 +29,7 @@
     "id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532208071472,
+    "last_edited_time": 1538796071764,
     "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
     "parent_table": "block",
     "properties": {
@@ -40,7 +40,7 @@
       ]
     },
     "type": "page",
-    "version": 21,
+    "version": 28,
     "content_resolved": [
       {
         "alive": true,
@@ -98,7 +98,7 @@
         "id": "f19d97eb-1523-42a5-823c-cd834775c188",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156122209,
+        "last_edited_time": 1538796165839,
         "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
         "parent_table": "block",
         "properties": {
@@ -109,7 +109,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 6,
         "inline_content": [
           {
             "Text": "Sometimes a type doesn’t have an obvious mapping to JSON."
@@ -234,13 +234,13 @@
         "id": "e36cf55f-5c66-484a-a931-0f9504a3033d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156122210,
+        "last_edited_time": 1538796131578,
         "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Here’s a custom marshalling and unmarshaling for "
+              "Here’s a custom marshalling and unmarshalling for "
             ],
             [
               "time.Time",
@@ -256,10 +256,10 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 13,
         "inline_content": [
           {
-            "Text": "Here’s a custom marshalling and unmarshaling for "
+            "Text": "Here’s a custom marshalling and unmarshalling for "
           },
           {
             "Text": "time.Time",
@@ -273,27 +273,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156122210,
-        "id": "588124e3-bed7-4094-8562-d2177d65890c",
-        "ignore_block_count": true,
+        "created_time": 1538796067418,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Fcustom_marshal.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "02869057-e31e-46c8-9a42-288f04995136",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156122210,
+        "last_edited_time": 1538796069183,
         "parent_id": "aa8105fe-264b-4b19-8647-cbc718480ba1",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file custom_marshal.go output sha1:5cb8ceb6932fda1a702750ce8b2511aa1a308042 goplayground:_eobj4Tx_vS"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Fcustom_marshal.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file custom_marshal.go output sha1:5cb8ceb6932fda1a702750ce8b2511aa1a308042 goplayground:_eobj4Tx_vS"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Fcustom_marshal.go"
+        }
       },
       {
         "alive": true,

@@ -287,7 +287,12 @@ func (g *HTMLGenerator) genCollectionView(block *notionapi.Block) {
 	for _, col := range columns {
 		colName := col.Property
 		colInfo := viewInfo.Collection.CollectionSchema[colName]
-		name := colInfo.Name
+		name := ""
+		if colInfo != nil {
+			name = colInfo.Name
+		} else {
+			fmt.Printf("Missing colInfo in block ID '%s'\n", block.ID)
+		}
 		s += `<th>` + html.EscapeString(name) + `</th>`
 	}
 	s += `</tr></thead>`

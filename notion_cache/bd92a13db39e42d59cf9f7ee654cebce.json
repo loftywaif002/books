@@ -37,18 +37,18 @@
     "id": "bd92a13d-b39e-42d5-9cf9-f7ee654cebce",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236272320,
+    "last_edited_time": 1538786068464,
     "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
     "parent_table": "block",
     "properties": {
       "title": [
         [
-          "Panic use cases"
+          "Use cases for panic"
         ]
       ]
     },
     "type": "page",
-    "version": 21,
+    "version": 57,
     "content_resolved": [
       {
         "alive": true,
@@ -818,7 +818,7 @@
         ]
       }
     ],
-    "title": "Panic use cases",
+    "title": "Use cases for panic",
     "format_page": {
       "page_cover": "",
       "page_cover_position": 0,

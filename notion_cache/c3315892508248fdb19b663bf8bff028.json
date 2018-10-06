@@ -19,7 +19,7 @@
       "9a8111da-91f3-46d2-974f-28bf9bfdaab7",
       "1bc6e26c-fade-4a37-bba8-4442f523b81a",
       "ff0bd84f-02ce-43bc-8c7c-be28f69fb316",
-      "cd7724a7-cd60-4cbe-b633-75c16de61fd8",
+      "40e023ff-e5b7-41f3-849a-e3cab58bc179",
       "344753d2-47e9-4343-a02a-5e466cc59c6e",
       "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
       "b81d270c-56fd-42e3-9e2e-bd5f74f0413b"
@@ -33,7 +33,7 @@
     "id": "c3315892-5082-48fd-b19b-663bf8bff028",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1533026368425,
+    "last_edited_time": 1538781411108,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -44,7 +44,7 @@
       ]
     },
     "type": "page",
-    "version": 31,
+    "version": 38,
     "content_resolved": [
       {
         "alive": true,
@@ -545,7 +545,7 @@
         "id": "ff0bd84f-02ce-43bc-8c7c-be28f69fb316",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156018154,
+        "last_edited_time": 1538781411108,
         "parent_id": "c3315892-5082-48fd-b19b-663bf8bff028",
         "parent_table": "block",
         "properties": {
@@ -556,7 +556,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Basic example:"
@@ -566,27 +566,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156018155,
-        "id": "cd7724a7-cd60-4cbe-b633-75c16de61fd8",
-        "ignore_block_count": true,
+        "created_time": 1538781405667,
+        "format": {
+          "block_height": 495,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0120-empty-interface%2Findex.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "40e023ff-e5b7-41f3-849a-e3cab58bc179",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156018155,
+        "last_edited_time": 1538781414787,
         "parent_id": "c3315892-5082-48fd-b19b-663bf8bff028",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file index.go output sha1:d0df50dae2e229e7436bc7bfb0d158624fc1830b goplayground:ScwPsMsm6tT"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0120-empty-interface%2Findex.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file index.go output sha1:d0df50dae2e229e7436bc7bfb0d158624fc1830b goplayground:ScwPsMsm6tT"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 495,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0120-empty-interface%2Findex.go"
+        }
       },
       {
         "alive": true,
@@ -611,7 +619,7 @@
         "id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235656076,
+        "last_edited_time": 1538781550633,
         "parent_id": "c3315892-5082-48fd-b19b-663bf8bff028",
         "parent_table": "block",
         "properties": {
@@ -622,7 +630,7 @@
           ]
         },
         "type": "page",
-        "version": 27,
+        "version": 39,
         "title": "Type assertion",
         "format_page": {
           "page_cover": "",
@@ -644,7 +652,7 @@
         "id": "b81d270c-56fd-42e3-9e2e-bd5f74f0413b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235664535,
+        "last_edited_time": 1538782226961,
         "parent_id": "c3315892-5082-48fd-b19b-663bf8bff028",
         "parent_table": "block",
         "properties": {
@@ -655,7 +663,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 28,
         "title": "Type switch",
         "format_page": {
           "page_cover": "",

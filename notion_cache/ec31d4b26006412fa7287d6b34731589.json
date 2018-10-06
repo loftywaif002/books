@@ -11,16 +11,16 @@
       "7c2ca2d1-e917-4001-80c0-1923a901726c",
       "533b1ba8-4a93-41fb-9e56-8c796a2d1631",
       "c87f945d-5904-455a-b61d-8be45eae98bb",
-      "ef52ba68-ea94-4b5f-92af-19ad7969b5ae",
+      "9b897c02-1b7f-4f55-9444-d374c94e40af",
       "00838bc6-46bc-4f9c-bb4f-fb534d4575d0",
       "eea57e50-6c8e-46c1-bd98-ef74715e653e",
-      "c0793f02-363b-4a4d-aed0-d17adb97d43a",
+      "c8f78d5c-a08b-402e-bf70-3b8e9b802a0e",
       "cf939c79-1ac7-40df-b405-2d5f1411f93f",
       "a880b7d3-b143-4e51-a29d-a5514e98fedb",
       "7a050fff-add0-4778-8b45-315756c4a195",
       "a66d10df-e3b7-46f1-8d99-c2d15f38b0fc",
       "f717d873-ee7d-4691-a5ed-b4ef8e77f2dc",
-      "699eaa5d-f911-4ff8-837f-ce3770a1ac9f",
+      "82a35244-f0a2-44db-98a3-2eaa93283220",
       "1b73cd61-c50c-4917-8e41-d49c8fe52954"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -32,7 +32,7 @@
     "id": "ec31d4b2-6006-412f-a728-7d6b34731589",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236192160,
+    "last_edited_time": 1538785866663,
     "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
     "parent_table": "block",
     "properties": {
@@ -43,7 +43,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 44,
     "content_resolved": [
       {
         "alive": true,
@@ -229,7 +229,7 @@
         "id": "c87f945d-5904-455a-b61d-8be45eae98bb",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156055183,
+        "last_edited_time": 1538785823202,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
@@ -262,7 +262,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "In other words: deferred calls are executed when exiting a function not when executing block created with "
@@ -286,27 +286,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156055184,
-        "id": "ef52ba68-ea94-4b5f-92af-19ad7969b5ae",
-        "ignore_block_count": true,
+        "created_time": 1538785819271,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "9b897c02-1b7f-4f55-9444-d374c94e40af",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156055184,
+        "last_edited_time": 1538785820457,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file defer_gotcha.go output sha1:56723587ae20f269117036508b8fd5905b3b58e9 goplayground:6ivihpJbkZb"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file defer_gotcha.go output sha1:56723587ae20f269117036508b8fd5905b3b58e9 goplayground:6ivihpJbkZb"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha.go"
+        }
       },
       {
         "alive": true,
@@ -358,7 +366,7 @@
         "id": "eea57e50-6c8e-46c1-bd98-ef74715e653e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156055184,
+        "last_edited_time": 1538785845375,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
@@ -369,7 +377,7 @@
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Deferred function arguments"
@@ -379,27 +387,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156055184,
-        "id": "c0793f02-363b-4a4d-aed0-d17adb97d43a",
-        "ignore_block_count": true,
+        "created_time": 1538785838459,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "c8f78d5c-a08b-402e-bf70-3b8e9b802a0e",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156055184,
+        "last_edited_time": 1538785840277,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file defer_gotcha2.go output sha1:fb7c1105477451d2e56e43c432c0779fe6635108 goplayground:YnB5lleWxNa"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha2.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file defer_gotcha2.go output sha1:fb7c1105477451d2e56e43c432c0779fe6635108 goplayground:YnB5lleWxNa"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha2.go"
+        }
       },
       {
         "alive": true,
@@ -654,7 +670,7 @@
         "id": "f717d873-ee7d-4691-a5ed-b4ef8e77f2dc",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1533064080169,
+        "last_edited_time": 1538785866663,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
@@ -677,7 +693,7 @@
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 6,
         "inline_content": [
           {
             "Text": "We can fix this by using a "
@@ -694,27 +710,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156055186,
-        "id": "699eaa5d-f911-4ff8-837f-ce3770a1ac9f",
-        "ignore_block_count": true,
+        "created_time": 1538785860387,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha3.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "82a35244-f0a2-44db-98a3-2eaa93283220",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156055186,
+        "last_edited_time": 1538785861784,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file defer_gotcha3.go output sha1:debd2f22d4a3be8fbf97c4d3dbf049cbae4a1cfb goplayground:zTCIuDzpXS9"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha3.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file defer_gotcha3.go output sha1:debd2f22d4a3be8fbf97c4d3dbf049cbae4a1cfb goplayground:zTCIuDzpXS9"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha3.go"
+        }
       },
       {
         "alive": true,

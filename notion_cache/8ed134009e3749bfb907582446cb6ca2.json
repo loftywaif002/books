@@ -11,7 +11,7 @@
       "2517df36-968d-4cba-b8b4-68a68bcd84b1",
       "9790f4a0-6fd1-48f5-86f7-ebbc54f1426a",
       "14a4f1b7-29ad-47ba-bb05-d10c6213be85",
-      "0b460f52-2ad3-42b4-80fa-6314e5a4d925"
+      "a6dde1c8-0838-4b25-a071-1dd3912dfd05"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156075140,
@@ -22,7 +22,7 @@
     "id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532206075094,
+    "last_edited_time": 1538786904948,
     "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
     "parent_table": "block",
     "properties": {
@@ -33,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 26,
+    "version": 33,
     "content_resolved": [
       {
         "alive": true,
@@ -255,7 +255,7 @@
         "id": "14a4f1b7-29ad-47ba-bb05-d10c6213be85",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156075139,
+        "last_edited_time": 1538786904948,
         "parent_id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
         "parent_table": "block",
         "properties": {
@@ -266,7 +266,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Here’s a cache variant that uses read-write lock:"
@@ -276,27 +276,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156075139,
-        "id": "0b460f52-2ad3-42b4-80fa-6314e5a4d925",
-        "ignore_block_count": true,
+        "created_time": 1538786901117,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Frwlock.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "a6dde1c8-0838-4b25-a071-1dd3912dfd05",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156075139,
+        "last_edited_time": 1538786903286,
         "parent_id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file rwlock.go output sha1:ca40aabb9f1852ae977bc6020a13ade42d4d0b75 goplayground:HEsolwLu-0d"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Frwlock.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file rwlock.go output sha1:ca40aabb9f1852ae977bc6020a13ade42d4d0b75 goplayground:HEsolwLu-0d"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Frwlock.go"
+        }
       }
     ],
     "title": "Read-Write mutes (RWMutex)",

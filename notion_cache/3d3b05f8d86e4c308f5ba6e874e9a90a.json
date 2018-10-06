@@ -8,11 +8,11 @@
       "fc3d1268-28a0-4fe1-b716-13a46c67057a",
       "068fa3bb-c8ca-44d8-aa0f-b83b4f7a0361",
       "1042f3da-0ac8-4efa-b1cd-9102d4bb73e2",
-      "6a4188e9-e89e-4609-9aa4-b92885b7439b",
+      "ff497857-a0ab-406c-bb19-44d352bde26c",
       "d1cf5e18-6b3f-4742-900b-55fbfc8689b2",
-      "d1d2ee6d-45d9-4e29-9bde-3d20232ad3cd",
+      "826c9569-d7bb-46e1-86a3-81337c9d2513",
       "8f19f0a3-315c-40ed-9958-f255a305a2eb",
-      "6bbcf7fb-647d-4fc6-8328-9c9e3210d375",
+      "4e26b40f-4876-4c41-a918-76353fa6ec22",
       "0d6eb36c-1f67-4830-913a-7f50df627e73",
       "f45c3e60-29d8-4760-b166-51d2e43d3bc8"
     ],
@@ -25,7 +25,7 @@
     "id": "3d3b05f8-d86e-4c30-8f5b-a6e874e9a90a",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1533064019752,
+    "last_edited_time": 1538784551045,
     "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
     "parent_table": "block",
     "properties": {
@@ -36,7 +36,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 44,
     "content_resolved": [
       {
         "alive": true,
@@ -148,7 +148,7 @@
         "id": "1042f3da-0ac8-4efa-b1cd-9102d4bb73e2",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156040192,
+        "last_edited_time": 1538784498249,
         "parent_id": "3d3b05f8-d86e-4c30-8f5b-a6e874e9a90a",
         "parent_table": "block",
         "properties": {
@@ -159,7 +159,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Simplest example of a function literal:"
@@ -169,27 +169,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156040192,
-        "id": "6a4188e9-e89e-4609-9aa4-b92885b7439b",
-        "ignore_block_count": true,
+        "created_time": 1538784493831,
+        "format": {
+          "block_height": 271,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Ffunction_literal.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "ff497857-a0ab-406c-bb19-44d352bde26c",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156040192,
+        "last_edited_time": 1538784500958,
         "parent_id": "3d3b05f8-d86e-4c30-8f5b-a6e874e9a90a",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file function_literal.go output sha1:4fad807c897dd63cf0ab9991f707e92a779972e4 goplayground:BWL7hfMGKxh"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Ffunction_literal.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file function_literal.go output sha1:4fad807c897dd63cf0ab9991f707e92a779972e4 goplayground:BWL7hfMGKxh"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 271,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Ffunction_literal.go"
+        }
       },
       {
         "alive": true,
@@ -198,7 +206,7 @@
         "id": "d1cf5e18-6b3f-4742-900b-55fbfc8689b2",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156040192,
+        "last_edited_time": 1538784527158,
         "parent_id": "3d3b05f8-d86e-4c30-8f5b-a6e874e9a90a",
         "parent_table": "block",
         "properties": {
@@ -209,7 +217,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Function literal with arguments:"
@@ -219,27 +227,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156040193,
-        "id": "d1d2ee6d-45d9-4e29-9bde-3d20232ad3cd",
-        "ignore_block_count": true,
+        "created_time": 1538784518611,
+        "format": {
+          "block_height": 278,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Ffunction_literal2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "826c9569-d7bb-46e1-86a3-81337c9d2513",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156040193,
+        "last_edited_time": 1538784526188,
         "parent_id": "3d3b05f8-d86e-4c30-8f5b-a6e874e9a90a",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file function_literal2.go output sha1:b1287a42459723bad4a9817225aea6391154c84b goplayground:35zR7cUfvBt"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Ffunction_literal2.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file function_literal2.go output sha1:b1287a42459723bad4a9817225aea6391154c84b goplayground:35zR7cUfvBt"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 278,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Ffunction_literal2.go"
+        }
       },
       {
         "alive": true,
@@ -248,13 +264,13 @@
         "id": "8f19f0a3-315c-40ed-9958-f255a305a2eb",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156040193,
+        "last_edited_time": 1538784597292,
         "parent_id": "3d3b05f8-d86e-4c30-8f5b-a6e874e9a90a",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Function literal closing over variable "
+              "Function literal using a variable ("
             ],
             [
               "str",
@@ -265,49 +281,57 @@
               ]
             ],
             [
-              ":"
+              ") defined outside the function:"
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 127,
         "inline_content": [
           {
-            "Text": "Function literal closing over variable "
+            "Text": "Function literal using a variable ("
           },
           {
             "Text": "str",
             "AttrFlags": 2
           },
           {
-            "Text": ":"
+            "Text": ") defined outside the function:"
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156040193,
-        "id": "6bbcf7fb-647d-4fc6-8328-9c9e3210d375",
-        "ignore_block_count": true,
+        "created_time": 1538784541344,
+        "format": {
+          "block_height": 296,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Ffunction_literal3.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "4e26b40f-4876-4c41-a918-76353fa6ec22",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156040193,
+        "last_edited_time": 1538784548418,
         "parent_id": "3d3b05f8-d86e-4c30-8f5b-a6e874e9a90a",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file function_literal3.go output sha1:26b13caaa692a3ccaa68c9d863c8bca0cdfd2728 goplayground:jD6pfOUE8vK"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Ffunction_literal3.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file function_literal3.go output sha1:26b13caaa692a3ccaa68c9d863c8bca0cdfd2728 goplayground:jD6pfOUE8vK"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 296,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Ffunction_literal3.go"
+        }
       },
       {
         "alive": true,
@@ -316,16 +340,16 @@
         "id": "0d6eb36c-1f67-4830-913a-7f50df627e73",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1533064027656,
+        "last_edited_time": 1538784648892,
         "parent_id": "3d3b05f8-d86e-4c30-8f5b-a6e874e9a90a",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Function that closes over variables is called a "
+              "Functions using variables defined outside the function are called "
             ],
             [
-              "closure",
+              "closures",
               [
                 [
                   "a",
@@ -339,13 +363,13 @@
           ]
         },
         "type": "text",
-        "version": 11,
+        "version": 216,
         "inline_content": [
           {
-            "Text": "Function that closes over variables is called a "
+            "Text": "Functions using variables defined outside the function are called "
           },
           {
-            "Text": "closure",
+            "Text": "closures",
             "Link": "https://www.notion.so/kjkpublic/Closures-04b23c4e787a43b39d3f3b26fed1b355"
           },
           {

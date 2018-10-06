@@ -1,3 +1,4 @@
+// no output
 package main
 
 import (
@@ -7,7 +8,7 @@ import (
 
 func main() {
 	// :show start
-	for _ = range time.Tick(time.Second * 3) {
+	for range time.Tick(time.Second * 3) {
 		fmt.Println("Ticking every 3 seconds")
 	}
 	// :show end

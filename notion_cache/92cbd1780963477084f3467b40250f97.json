@@ -10,8 +10,6 @@
       "d634f601-fb1a-4f1a-a433-0c627e36c0c1",
       "5765db30-a044-4bb6-9305-9fc0dddda20a",
       "086ffe09-05fb-43ae-9cfa-d88b65a07643",
-      "19fa8c71-b497-4635-a093-f35916175054",
-      "14ca80ea-02e9-4a39-b210-b6809f0327ff",
       "7895af19-1603-4a8a-b4d5-900c2bfe6df3",
       "d4e5cb4e-6168-4adf-88df-a316f48066a1"
     ],
@@ -24,7 +22,7 @@
     "id": "92cbd178-0963-4770-84f3-467b40250f97",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236626181,
+    "last_edited_time": 1538786767625,
     "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
     "parent_table": "block",
     "properties": {
@@ -35,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 27,
     "content_resolved": [
       {
         "alive": true,
@@ -179,71 +177,21 @@
         "id": "086ffe09-05fb-43ae-9cfa-d88b65a07643",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156073230,
+        "last_edited_time": 1538786767799,
         "parent_id": "92cbd178-0963-4770-84f3-467b40250f97",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "You can’t do that."
+              "You can’t do that in Go as it couldn’t possibly work correctly. Between the time you check for availability and the time you do a receive, some other goroutine could have picked up the value."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 37,
         "inline_content": [
           {
-            "Text": "You can’t do that."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156073231,
-        "id": "19fa8c71-b497-4635-a093-f35916175054",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156073231,
-        "parent_id": "92cbd178-0963-4770-84f3-467b40250f97",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "For one, it couldn’t possibly work correctly."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "For one, it couldn’t possibly work correctly."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156073231,
-        "id": "14ca80ea-02e9-4a39-b210-b6809f0327ff",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156073231,
-        "parent_id": "92cbd178-0963-4770-84f3-467b40250f97",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Between the time you check for availability and the time you do a receive, some other goroutine could have picked up the value."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "Between the time you check for availability and the time you do a receive, some other goroutine could have picked up the value."
+            "Text": "You can’t do that in Go as it couldn’t possibly work correctly. Between the time you check for availability and the time you do a receive, some other goroutine could have picked up the value."
           }
         ]
       },

@@ -9,8 +9,9 @@
       "e15021dc-75fd-4445-995d-3e5d77be4125",
       "0ac3162d-0ea5-4bd8-9c9a-68e7e65a44fc",
       "a9d6c84a-2d93-4694-81d0-66861a4fa91f",
-      "61f930b6-a438-4ce1-bc9d-6290038c025e",
-      "7e24f813-a0c3-4c83-9e09-6ec5922eb18e"
+      "d5f0789f-8ac6-4a44-9dec-018601dcfa93",
+      "7e24f813-a0c3-4c83-9e09-6ec5922eb18e",
+      "751b898a-d210-42b5-89eb-687116c4ef88"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156059185,
@@ -21,7 +22,7 @@
     "id": "b1c01148-435b-4774-850c-16e17a2784ab",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236263802,
+    "last_edited_time": 1538786019795,
     "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
     "parent_table": "block",
     "properties": {
@@ -32,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 32,
     "content_resolved": [
       {
         "alive": true,
@@ -150,7 +151,7 @@
         "id": "a9d6c84a-2d93-4694-81d0-66861a4fa91f",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156059184,
+        "last_edited_time": 1538786019795,
         "parent_id": "b1c01148-435b-4774-850c-16e17a2784ab",
         "parent_table": "block",
         "properties": {
@@ -161,7 +162,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "In most situations, returning an error in this fashion rather than exiting the program on a panic is only useful for development or testing purposes."
@@ -171,27 +172,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156059185,
-        "id": "61f930b6-a438-4ce1-bc9d-6290038c025e",
-        "ignore_block_count": true,
+        "created_time": 1538786015694,
+        "format": {
+          "block_height": 780.9791870117188,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0200-panic-and-recover%2Frecover_from_panic.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "d5f0789f-8ac6-4a44-9dec-018601dcfa93",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156059185,
+        "last_edited_time": 1538786046272,
         "parent_id": "b1c01148-435b-4774-850c-16e17a2784ab",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file recover_from_panic.go sha1:ab6601777f01ec5d49b4c66e514293d25b7924d2 goplayground:95E7lZz5Ayt"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0200-panic-and-recover%2Frecover_from_panic.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file recover_from_panic.go sha1:ab6601777f01ec5d49b4c66e514293d25b7924d2 goplayground:95E7lZz5Ayt"
-          }
-        ]
+        "type": "embed",
+        "version": 14,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 780.9791870117188,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0200-panic-and-recover%2Frecover_from_panic.go"
+        }
       },
       {
         "alive": true,
@@ -217,6 +226,18 @@
             "Text": "The use of a separate function (rather than closure) allows re-use of the same function in other functions prone to panic."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538786013673,
+        "id": "751b898a-d210-42b5-89eb-687116c4ef88",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538786013673,
+        "parent_id": "b1c01148-435b-4774-850c-16e17a2784ab",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "Recovering from panic",

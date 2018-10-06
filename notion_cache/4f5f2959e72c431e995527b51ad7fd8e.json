@@ -13,6 +13,7 @@
       "3e41b436-e275-4cf3-99b9-6a3b71b5cd52",
       "588591d3-eaeb-447c-be4a-3c97ed7e26eb",
       "1c2ec132-ca3a-4e45-8235-b51e2f025747",
+      "53c26f38-b768-4780-9555-7b12c6ab3b0b",
       "e950cc3a-fcdc-425c-8a86-243a13d3346c",
       "27bdfa3c-3842-4979-9949-af7b3a3b7be6",
       "fc1ca26b-233b-4f49-b4f6-4384c6b855df",
@@ -32,7 +33,7 @@
     "id": "4f5f2959-e72c-431e-9955-27b51ad7fd8e",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532233864646,
+    "last_edited_time": 1538781179660,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -43,7 +44,7 @@
       ]
     },
     "type": "page",
-    "version": 26,
+    "version": 31,
     "content_resolved": [
       {
         "alive": true,
@@ -374,27 +375,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538781179660,
+        "format": {
+          "block_height": 806.9965515136719,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0110-interfaces%2Findex.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "53c26f38-b768-4780-9555-7b12c6ab3b0b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538781196349,
+        "parent_id": "4f5f2959-e72c-431e-9955-27b51ad7fd8e",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0110-interfaces%2Findex.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 806.9965515136719,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0110-interfaces%2Findex.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532156014154,
         "id": "e950cc3a-fcdc-425c-8a86-243a13d3346c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156014154,
+        "last_edited_time": 1538781186349,
         "parent_id": "4f5f2959-e72c-431e-9955-27b51ad7fd8e",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file index.go output sha1:4211ae2b94a999a48fd954197938d1b8dec96086 goplayground:ba83kFxk4Yg"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file index.go output sha1:4211ae2b94a999a48fd954197938d1b8dec96086 goplayground:ba83kFxk4Yg"
-          }
-        ]
+        "version": 3
       },
       {
         "alive": true,
@@ -676,7 +698,7 @@
         "id": "eeaf42c1-e477-40c0-a73e-eba560552558",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235554521,
+        "last_edited_time": 1538781232754,
         "parent_id": "4f5f2959-e72c-431e-9955-27b51ad7fd8e",
         "parent_table": "block",
         "properties": {
@@ -687,7 +709,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 30,
         "title": "Testing Interface Implementation",
         "format_page": {
           "page_cover": "",

@@ -7,7 +7,7 @@
       "5c25e0df-32ae-47da-aba7-a729d2da1e83",
       "2ee7ffd9-e0f7-4382-ba15-936fa3d8b253",
       "ba26d2b5-c823-4241-b839-cfc8686dc34e",
-      "54e51147-5203-4270-ace4-07a22bbe8fad",
+      "bd311e83-c390-4274-ba54-d2337d73bcd2",
       "a43732cb-bd2c-48d5-995a-3ed8f4fee7e7"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -19,7 +19,7 @@
     "id": "4eb5f7b0-ca13-4959-97e6-24a6639d3eea",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532235358665,
+    "last_edited_time": 1538781010766,
     "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
     "parent_table": "block",
     "properties": {
@@ -30,7 +30,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 30,
     "content_resolved": [
       {
         "alive": true,
@@ -98,7 +98,7 @@
         "created_time": 1532196878640,
         "id": "ba26d2b5-c823-4241-b839-cfc8686dc34e",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532196879877,
+        "last_edited_time": 1538781010766,
         "parent_id": "4eb5f7b0-ca13-4959-97e6-24a6639d3eea",
         "parent_table": "block",
         "properties": {
@@ -109,7 +109,7 @@
           ]
         },
         "type": "text",
-        "version": 12,
+        "version": 14,
         "inline_content": [
           {
             "Text": "You can create anonymous structs:"
@@ -119,27 +119,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156006154,
-        "id": "54e51147-5203-4270-ace4-07a22bbe8fad",
-        "ignore_block_count": true,
+        "created_time": 1538781002078,
+        "format": {
+          "block_height": 357,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0100-structs%2Fanonymous_structs.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "bd311e83-c390-4274-ba54-d2337d73bcd2",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156006154,
+        "last_edited_time": 1538781007512,
         "parent_id": "4eb5f7b0-ca13-4959-97e6-24a6639d3eea",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file anonymous_structs.go output sha1:c8b21ddc04c420bb9950fa31b53ef3e34e504229 goplayground:jVIX1n0WHhP"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0100-structs%2Fanonymous_structs.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file anonymous_structs.go output sha1:c8b21ddc04c420bb9950fa31b53ef3e34e504229 goplayground:jVIX1n0WHhP"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 357,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0100-structs%2Fanonymous_structs.go"
+        }
       },
       {
         "alive": true,

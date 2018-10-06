@@ -12,7 +12,9 @@
       "7a9c70ec-815f-4a78-ade4-1b96a2e2ff20",
       "6abc5100-e2eb-4111-83be-704f3cbb29de",
       "ad9d4c51-c0b3-4c3a-9e4b-609743b0d233",
-      "8da0de8d-ef9b-4e58-b30f-d51bc85f283d"
+      "1119e3d4-ecbc-4cfd-a4d4-a1ef6c7fcc5e",
+      "8da0de8d-ef9b-4e58-b30f-d51bc85f283d",
+      "b4f48396-0ac3-41bb-911c-6fd6dd1bf84c"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156058104,
@@ -23,7 +25,7 @@
     "id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236256584,
+    "last_edited_time": 1538785992961,
     "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
     "parent_table": "block",
     "properties": {
@@ -34,7 +36,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 35,
     "content_resolved": [
       {
         "alive": true,
@@ -317,7 +319,7 @@
         "id": "ad9d4c51-c0b3-4c3a-9e4b-609743b0d233",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156058104,
+        "last_edited_time": 1538785991602,
         "parent_id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
         "parent_table": "block",
         "properties": {
@@ -350,7 +352,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 14,
         "inline_content": [
           {
             "Text": "If the program is not currently panicking, "
@@ -374,27 +376,60 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538785992961,
+        "format": {
+          "block_height": 502,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0200-panic-and-recover%2Frecover.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "1119e3d4-ecbc-4cfd-a4d4-a1ef6c7fcc5e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538785999812,
+        "parent_id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0200-panic-and-recover%2Frecover.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 502,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0200-panic-and-recover%2Frecover.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532156058104,
         "id": "8da0de8d-ef9b-4e58-b30f-d51bc85f283d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156058104,
+        "last_edited_time": 1538785996435,
         "parent_id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file recover.go output allow_error sha1:ba674277f82c6107183ec396d126a5e8986aef8d goplayground:bDVlskHRjxL"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file recover.go output allow_error sha1:ba674277f82c6107183ec396d126a5e8986aef8d goplayground:bDVlskHRjxL"
-          }
-        ]
+        "version": 3
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538785987969,
+        "id": "b4f48396-0ac3-41bb-911c-6fd6dd1bf84c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538785987969,
+        "parent_id": "7f077b92-cb0d-43ef-9607-d850a2ea32ed",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "Recover",

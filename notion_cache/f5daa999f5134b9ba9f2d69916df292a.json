@@ -9,7 +9,7 @@
       "44502060-be92-4241-90eb-22f8a780baf3",
       "b0e7cdfc-5835-45fa-9308-0b1509acbd43",
       "256bc9d7-bb02-46a2-92d9-4d50bbe1e569",
-      "91ed5205-0c77-49b8-acd0-0952033d8a2d"
+      "5058baff-90f6-446d-802d-25fb9393fe4c"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156072108,
@@ -20,7 +20,7 @@
     "id": "f5daa999-f513-4b9b-a9f2-d69916df292a",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532205940598,
+    "last_edited_time": 1538786718849,
     "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
     "parent_table": "block",
     "properties": {
@@ -31,7 +31,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 30,
     "content_resolved": [
       {
         "alive": true,
@@ -167,7 +167,7 @@
         "id": "256bc9d7-bb02-46a2-92d9-4d50bbe1e569",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156072108,
+        "last_edited_time": 1538786718849,
         "parent_id": "f5daa999-f513-4b9b-a9f2-d69916df292a",
         "parent_table": "block",
         "properties": {
@@ -178,7 +178,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Signaling channel is often used as a way to tell goroutines to finish."
@@ -188,27 +188,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156072108,
-        "id": "91ed5205-0c77-49b8-acd0-0952033d8a2d",
-        "ignore_block_count": true,
+        "created_time": 1538786715630,
+        "format": {
+          "block_height": 573,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fsignaling.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "5058baff-90f6-446d-802d-25fb9393fe4c",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156072108,
+        "last_edited_time": 1538786724504,
         "parent_id": "f5daa999-f513-4b9b-a9f2-d69916df292a",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file signaling.go output sha1:7f7da2bbadcc59979a3e25cb68e673371d544b75 goplayground:hfnNu-JX1uc"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fsignaling.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file signaling.go output sha1:7f7da2bbadcc59979a3e25cb68e673371d544b75 goplayground:hfnNu-JX1uc"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 573,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fsignaling.go"
+        }
       }
     ],
     "title": "Signaling channel with chan struct{}",

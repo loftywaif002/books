@@ -11,11 +11,14 @@
       "acb13542-8003-45bb-b30d-ddb773d98b11",
       "517fd1a0-4363-4b6a-b8d2-769451bdad89",
       "b071626d-5923-4262-b7bb-e5fd4c897c6b",
-      "de01cc53-c3da-43db-b7ef-f21c8fd151e8",
+      "83081dea-a8a6-496a-9166-1ca94a6f49c6",
       "391301ab-effb-4603-9bab-501b4b139685",
-      "1a098b26-0c71-4dd5-8057-a56e99744136",
+      "05028178-838f-4e12-b77a-d943b30aec0c",
       "4b1abc5d-209a-44ea-8b4b-b08f175b372f",
       "a04d5e0a-d110-4721-9599-a2bbbe950b53",
+      "72308a9a-ecff-43d0-b351-4f42e80d436e",
+      "96c6ea27-aa38-474c-9ef3-0810bee2b845",
+      "6fae5b54-c2ea-4691-b9d6-5e308945c08a",
       "38a3baa1-a7fa-4b0b-979a-797cb1d55bcc",
       "c57a0fb6-e6be-47f3-bd39-7d7ebc2b23ee",
       "53545b81-feec-40ac-9f54-4ff83e9e4bad",
@@ -23,9 +26,11 @@
       "54e44cee-fdc1-4d42-9701-bd1890918172",
       "bc636709-a3f2-425e-8a2f-1c3d6c020306",
       "a7776bbc-878e-4be2-8f9f-91c96667928b",
-      "97c48363-26e3-4d67-98df-9f43941d3c6c",
+      "8493fb19-bd7d-472a-9cff-00ad2735680f",
       "e8994286-123d-4991-abf8-4f302623eb1e",
       "7c5dd6f6-e8a5-443d-998a-e641d06e6945",
+      "79334c79-47d3-442a-b318-5c2c3b4e9f55",
+      "9517fcab-1089-4a65-848f-14c6222ae29f",
       "ade034c7-a096-431f-9740-1ec373b67a95"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -37,7 +42,7 @@
     "id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532206557385,
+    "last_edited_time": 1538787520059,
     "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
     "parent_table": "block",
     "properties": {
@@ -48,7 +53,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 54,
     "content_resolved": [
       {
         "alive": true,
@@ -324,7 +329,7 @@
         "id": "b071626d-5923-4262-b7bb-e5fd4c897c6b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156087247,
+        "last_edited_time": 1538787441341,
         "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
         "parent_table": "block",
         "properties": {
@@ -335,7 +340,7 @@
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Get information about the file"
@@ -345,27 +350,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156087247,
-        "id": "de01cc53-c3da-43db-b7ef-f21c8fd151e8",
-        "ignore_block_count": true,
+        "created_time": 1538787437804,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Ffile_info.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "83081dea-a8a6-496a-9166-1ca94a6f49c6",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156087247,
+        "last_edited_time": 1538787439575,
         "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file file_info.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Ffile_info.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file file_info.go output noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Ffile_info.go"
+        }
       },
       {
         "alive": true,
@@ -374,7 +387,7 @@
         "id": "391301ab-effb-4603-9bab-501b4b139685",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156087247,
+        "last_edited_time": 1538787467133,
         "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
         "parent_table": "block",
         "properties": {
@@ -385,7 +398,7 @@
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Check if a file exists"
@@ -395,27 +408,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156087247,
-        "id": "1a098b26-0c71-4dd5-8057-a56e99744136",
-        "ignore_block_count": true,
+        "created_time": 1538787461464,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Ffile_exists.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "05028178-838f-4e12-b77a-d943b30aec0c",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156087247,
+        "last_edited_time": 1538787463307,
         "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file file_exists.go output noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Ffile_exists.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file file_exists.go output noplayground"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Ffile_exists.go"
+        }
       },
       {
         "alive": true,
@@ -449,13 +470,37 @@
         "id": "a04d5e0a-d110-4721-9599-a2bbbe950b53",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156087248,
+        "last_edited_time": 1538787471246,
         "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Here are decisions we made: * it treats files and directories the same. If a path exists and you want to distinguish between directory and a file, you would need to call "
+              "Here are decisions we made: "
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 3,
+        "inline_content": [
+          {
+            "Text": "Here are decisions we made: "
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538787471246,
+        "id": "72308a9a-ecff-43d0-b351-4f42e80d436e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538787477493,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "it treats files and directories the same. If a path exists and you want to distinguish between directory and a file, you would need to call "
             ],
             [
               "IsDir()",
@@ -475,9 +520,41 @@
                   "c"
                 ]
               ]
-            ],
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 19,
+        "inline_content": [
+          {
+            "Text": "it treats files and directories the same. If a path exists and you want to distinguish between directory and a file, you would need to call "
+          },
+          {
+            "Text": "IsDir()",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " on result of "
+          },
+          {
+            "Text": "os.Lstat",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538787477493,
+        "id": "96c6ea27-aa38-474c-9ef3-0810bee2b845",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538787483364,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
             [
-              " * if a file is a symbolic link, do test the link or the real file it links to? We used "
+              "if a file is a symbolic link, do test the link or the real file it links to? We used "
             ],
             [
               "os.Lstat",
@@ -499,7 +576,45 @@
               ]
             ],
             [
-              " to resolve the symbolic link * “path doesn’t exist” is only one of possible errors returned by "
+              " to resolve the symbolic link"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 14,
+        "inline_content": [
+          {
+            "Text": "if a file is a symbolic link, do test the link or the real file it links to? We used "
+          },
+          {
+            "Text": "os.Lstat",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " so we test the link. We could also use "
+          },
+          {
+            "Text": "os.Stat",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " to resolve the symbolic link"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538787483364,
+        "id": "6fae5b54-c2ea-4691-b9d6-5e308945c08a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538787484532,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "“path doesn’t exist” is only one of possible errors returned by "
             ],
             [
               "os.Lstat",
@@ -525,39 +640,11 @@
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
+        "type": "bulleted_list",
+        "version": 12,
         "inline_content": [
           {
-            "Text": "Here are decisions we made: * it treats files and directories the same. If a path exists and you want to distinguish between directory and a file, you would need to call "
-          },
-          {
-            "Text": "IsDir()",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " on result of "
-          },
-          {
-            "Text": "os.Lstat",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " * if a file is a symbolic link, do test the link or the real file it links to? We used "
-          },
-          {
-            "Text": "os.Lstat",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " so we test the link. We could also use "
-          },
-          {
-            "Text": "os.Stat",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " to resolve the symbolic link * “path doesn’t exist” is only one of possible errors returned by "
+            "Text": "“path doesn’t exist” is only one of possible errors returned by "
           },
           {
             "Text": "os.Lstat",
@@ -766,7 +853,7 @@
         "id": "a7776bbc-878e-4be2-8f9f-91c96667928b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156087250,
+        "last_edited_time": 1538787510652,
         "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
         "parent_table": "block",
         "properties": {
@@ -777,7 +864,7 @@
           ]
         },
         "type": "sub_header",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Copy a file"
@@ -787,27 +874,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156087250,
-        "id": "97c48363-26e3-4d67-98df-9f43941d3c6c",
-        "ignore_block_count": true,
+        "created_time": 1538787507012,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Ffile_copy.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "8493fb19-bd7d-472a-9cff-00ad2735680f",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156087250,
+        "last_edited_time": 1538787508878,
         "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file file_copy.go sha1:2f3f1dbd0d3c95b473802cbc841610f161f8193d goplayground:Mr3njneW17O"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Ffile_copy.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file file_copy.go sha1:2f3f1dbd0d3c95b473802cbc841610f161f8193d goplayground:Mr3njneW17O"
-          }
-        ]
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Ffile_copy.go"
+        }
       },
       {
         "alive": true,
@@ -841,21 +936,69 @@
         "id": "7c5dd6f6-e8a5-443d-998a-e641d06e6945",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156087250,
+        "last_edited_time": 1538787515483,
         "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Here are policy decisions we made: * should we over-write existing files or return error if destination exists? We decided to over-write * what permissions should new file have? We decided for the simplest case of using default permissions. Another option would be to copy permissions from source or allow the caller to provide permissions"
+              "Here are policy decisions we made:"
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 5,
         "inline_content": [
           {
-            "Text": "Here are policy decisions we made: * should we over-write existing files or return error if destination exists? We decided to over-write * what permissions should new file have? We decided for the simplest case of using default permissions. Another option would be to copy permissions from source or allow the caller to provide permissions"
+            "Text": "Here are policy decisions we made:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538787515483,
+        "id": "79334c79-47d3-442a-b318-5c2c3b4e9f55",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538787520059,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "should we over-write existing files or return error if destination exists? We decided to over-write"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 19,
+        "inline_content": [
+          {
+            "Text": "should we over-write existing files or return error if destination exists? We decided to over-write"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538787520059,
+        "id": "9517fcab-1089-4a65-848f-14c6222ae29f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538787521084,
+        "parent_id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "what permissions should new file have? We decided for the simplest case of using default permissions. Another option would be to copy permissions from source or allow the caller to provide permissions"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 12,
+        "inline_content": [
+          {
+            "Text": "what permissions should new file have? We decided for the simplest case of using default permissions. Another option would be to copy permissions from source or allow the caller to provide permissions"
           }
         ]
       },

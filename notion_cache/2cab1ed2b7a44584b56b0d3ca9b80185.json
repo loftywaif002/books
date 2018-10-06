@@ -402,7 +402,7 @@
         "id": "61280245-4798-470c-a5c5-741d90543d22",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233809578,
+        "last_edited_time": 1538780939258,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -413,7 +413,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "Structs",
         "format_page": {
           "page_cover": "",
@@ -435,7 +435,7 @@
         "id": "4f5f2959-e72c-431e-9955-27b51ad7fd8e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233864646,
+        "last_edited_time": 1538781179660,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -446,7 +446,7 @@
           ]
         },
         "type": "page",
-        "version": 26,
+        "version": 31,
         "title": "Interfaces",
         "format_page": {
           "page_cover": "",
@@ -468,7 +468,7 @@
         "id": "c3315892-5082-48fd-b19b-663bf8bff028",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1533026368425,
+        "last_edited_time": 1538781411108,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -479,7 +479,7 @@
           ]
         },
         "type": "page",
-        "version": 31,
+        "version": 38,
         "title": "Empty interface",
         "format_page": {
           "page_cover": "",
@@ -501,7 +501,7 @@
         "id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235704911,
+        "last_edited_time": 1538782546032,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -512,7 +512,7 @@
           ]
         },
         "type": "page",
-        "version": 35,
+        "version": 47,
         "title": "if, switch, goto",
         "format_page": {
           "page_cover": "",
@@ -534,7 +534,7 @@
         "id": "ad923a2f-bd99-4701-844a-f2d688d30548",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235762307,
+        "last_edited_time": 1538782886426,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -545,7 +545,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 65,
         "title": "for, while loops",
         "format_page": {
           "page_cover": "",
@@ -567,7 +567,7 @@
         "id": "c522a628-7288-4110-bcc3-00db67e0e9ad",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235952225,
+        "last_edited_time": 1538783325209,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -578,7 +578,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 50,
         "title": "range statement",
         "format_page": {
           "page_cover": "",
@@ -600,7 +600,7 @@
         "id": "64647277-99a0-4611-a891-be7ca4877f8c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235985774,
+        "last_edited_time": 1538784093198,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -611,7 +611,7 @@
           ]
         },
         "type": "page",
-        "version": 28,
+        "version": 43,
         "title": "Functions",
         "format_page": {
           "page_cover": "",
@@ -633,7 +633,7 @@
         "id": "503ddd46-a485-4315-a889-73b8db780fba",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236047972,
+        "last_edited_time": 1538784832437,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -644,7 +644,7 @@
           ]
         },
         "type": "page",
-        "version": 18,
+        "version": 32,
         "title": "Methods",
         "format_page": {
           "page_cover": "",
@@ -666,7 +666,7 @@
         "id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236063986,
+        "last_edited_time": 1538785271041,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -677,7 +677,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 49,
         "title": "Error handling",
         "format_page": {
           "page_cover": "",
@@ -765,7 +765,7 @@
         "id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236282534,
+        "last_edited_time": 1538786190129,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -776,7 +776,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "Concurrency",
         "format_page": {
           "page_cover": "",
@@ -798,7 +798,7 @@
         "id": "4fac57c0-9168-477a-a120-69484979f419",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236447546,
+        "last_edited_time": 1538786419784,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -809,7 +809,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "Channels and select",
         "format_page": {
           "page_cover": "",
@@ -831,7 +831,7 @@
         "id": "41f795bf-701d-4784-b319-7349cdb8f2de",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236648899,
+        "last_edited_time": 1538786878956,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -842,7 +842,7 @@
           ]
         },
         "type": "page",
-        "version": 41,
+        "version": 48,
         "title": "Mutex",
         "format_page": {
           "page_cover": "",
@@ -897,19 +897,19 @@
         "id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532206420822,
+        "last_edited_time": 1538787326269,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "File I/O"
+              "Working with files and I/O"
             ]
           ]
         },
         "type": "page",
-        "version": 34,
-        "title": "File I/O",
+        "version": 97,
+        "title": "Working with files and I/O",
         "format_page": {
           "page_cover": "",
           "page_cover_position": 0,
@@ -963,7 +963,7 @@
         "id": "05239fc0-69c3-463d-abc5-32b9d808612e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532207086381,
+        "last_edited_time": 1538788589687,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -974,7 +974,7 @@
           ]
         },
         "type": "page",
-        "version": 25,
+        "version": 32,
         "title": "Parse command line arguments",
         "format_page": {
           "page_cover": "",
@@ -996,7 +996,7 @@
         "id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532207193881,
+        "last_edited_time": 1538788795893,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -1007,7 +1007,7 @@
           ]
         },
         "type": "page",
-        "version": 24,
+        "version": 43,
         "title": "Logging",
         "format_page": {
           "page_cover": "",
@@ -1029,7 +1029,7 @@
         "id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532207270023,
+        "last_edited_time": 1538788915713,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -1040,7 +1040,7 @@
           ]
         },
         "type": "page",
-        "version": 27,
+        "version": 41,
         "title": "Executing commands",
         "format_page": {
           "page_cover": "",

@@ -223,6 +223,9 @@ func getOutput(path string, runCmd string) (string, error) {
 // This is useful when e.g. executing "go run" on a program that is
 // intentionally not valid.
 func getOutputCached(sf *SourceFile) error {
+	if sf.Directive.NoOutput {
+		return nil
+	}
 	sha1Hex := u.Sha1HexOfBytes(sf.Data)
 
 	cfo := sha1ToCachedOutputFile[sha1Hex]

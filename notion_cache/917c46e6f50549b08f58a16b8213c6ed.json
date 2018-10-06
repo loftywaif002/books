@@ -7,10 +7,11 @@
       "25deec2b-63a4-4918-8dca-5ef63f4988fa",
       "d97f03da-b8b7-497e-b0f5-c0999f62c76b",
       "b18df200-f3a8-4aa4-9d5e-efe1c3fb4163",
-      "97b757ba-727f-43f3-b9e1-928033380fdb",
+      "59e894ac-f42a-49b6-a15b-0ee52428441d",
       "4a8ca681-10d5-4081-86fe-209e90761c1f",
       "f9ef3467-d731-4415-a9ee-646dc35560ff",
       "53bf1d38-ab89-4abe-9488-62035aef0cc0",
+      "69b0e4bc-83d9-41d1-8218-17efa0f717c2",
       "df48260d-9784-4643-afd6-7889861fe797",
       "c84dc80b-7da6-482f-8045-7ef73f9c0fb9"
     ],
@@ -23,7 +24,7 @@
     "id": "917c46e6-f505-49b0-8f58-a16b8213c6ed",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532235977120,
+    "last_edited_time": 1538783926624,
     "parent_id": "c522a628-7288-4110-bcc3-00db67e0e9ad",
     "parent_table": "block",
     "properties": {
@@ -34,7 +35,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 35,
     "content_resolved": [
       {
         "alive": true,
@@ -103,7 +104,7 @@
         "id": "b18df200-f3a8-4aa4-9d5e-efe1c3fb4163",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156034098,
+        "last_edited_time": 1538783911102,
         "parent_id": "917c46e6-f505-49b0-8f58-a16b8213c6ed",
         "parent_table": "block",
         "properties": {
@@ -125,7 +126,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "Iterating over a channel with "
@@ -142,27 +143,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156034098,
-        "id": "97b757ba-727f-43f3-b9e1-928033380fdb",
-        "ignore_block_count": true,
+        "created_time": 1538783905729,
+        "format": {
+          "block_height": 462,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_channel.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "59e894ac-f42a-49b6-a15b-0ee52428441d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156034098,
+        "last_edited_time": 1538783934246,
         "parent_id": "917c46e6-f505-49b0-8f58-a16b8213c6ed",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file range_channel.go output sha1:7de9518cba8b38b2ee3b93750ce36a7555002ba5 goplayground:8b7cqlSMnHb"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_channel.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file range_channel.go output sha1:7de9518cba8b38b2ee3b93750ce36a7555002ba5 goplayground:8b7cqlSMnHb"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 462,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_channel.go"
+        }
       },
       {
         "alive": true,
@@ -254,27 +263,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538783926624,
+        "format": {
+          "block_height": 487,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_channel2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "69b0e4bc-83d9-41d1-8218-17efa0f717c2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538783938292,
+        "parent_id": "917c46e6-f505-49b0-8f58-a16b8213c6ed",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_channel2.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 487,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_channel2.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532156034099,
         "id": "df48260d-9784-4643-afd6-7889861fe797",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156034099,
+        "last_edited_time": 1538783940514,
         "parent_id": "917c46e6-f505-49b0-8f58-a16b8213c6ed",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file range_channel2.go output sha1:e4e103c6e7b3917ca30ad9f0cdc36a4fbb30c618 goplayground:I-H-fNb5ml6"
-            ]
-          ]
-        },
         "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file range_channel2.go output sha1:e4e103c6e7b3917ca30ad9f0cdc36a4fbb30c618 goplayground:I-H-fNb5ml6"
-          }
-        ]
+        "version": 3
       },
       {
         "alive": true,

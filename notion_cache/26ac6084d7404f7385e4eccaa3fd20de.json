@@ -13,7 +13,7 @@
       "0b245560-93ab-4228-a024-e29e546978ba",
       "b4492807-5e67-4b9a-a4cc-67de9bd74dcb",
       "62811c2f-68d6-4168-928f-788faa2bb776",
-      "0befe8d1-26e3-4153-a4b3-c03b396453ed",
+      "beb93884-7a5c-4d99-b7a3-82dd90f994a7",
       "c1744bde-b607-4c8f-8532-404ed0ac01ba",
       "70f3e3e8-f0e5-47d0-b712-3bcc343baafc",
       "9dbbed64-5fb2-4c53-b79a-fa9c971be642"
@@ -27,18 +27,18 @@
     "id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236420259,
+    "last_edited_time": 1538786330592,
     "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
     "parent_table": "block",
     "properties": {
       "title": [
         [
-          "Limiting concurrency with semaphore"
+          "Limiting concurrency with a semaphore"
         ]
       ]
     },
     "type": "page",
-    "version": 25,
+    "version": 36,
     "content_resolved": [
       {
         "alive": true,
@@ -256,48 +256,56 @@
         "id": "62811c2f-68d6-4168-928f-788faa2bb776",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156065163,
+        "last_edited_time": 1538786322775,
         "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Here’s an example of using a channel acting as a semaphore to limit number of gouroutines active at any given time:"
+              "Here’s an example of using a channel acting as a semaphore to limit number of goroutines active at any given time:"
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 5,
         "inline_content": [
           {
-            "Text": "Here’s an example of using a channel acting as a semaphore to limit number of gouroutines active at any given time:"
+            "Text": "Here’s an example of using a channel acting as a semaphore to limit number of goroutines active at any given time:"
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156065163,
-        "id": "0befe8d1-26e3-4153-a4b3-c03b396453ed",
-        "ignore_block_count": true,
+        "created_time": 1538786304434,
+        "format": {
+          "block_height": 726.9931030273438,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Flimit_with_semaphore.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "beb93884-7a5c-4d99-b7a3-82dd90f994a7",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156065163,
+        "last_edited_time": 1538786316253,
         "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file limit_with_semaphore.go output sha1:04794d86e54ca971a32e096a6b1ad936f3566d29 goplayground:HLtenC1w2yO"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Flimit_with_semaphore.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file limit_with_semaphore.go output sha1:04794d86e54ca971a32e096a6b1ad936f3566d29 goplayground:HLtenC1w2yO"
-          }
-        ]
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 726.9931030273438,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Flimit_with_semaphore.go"
+        }
       },
       {
         "alive": true,
@@ -404,7 +412,7 @@
         "version": 4
       }
     ],
-    "title": "Limiting concurrency with semaphore",
+    "title": "Limiting concurrency with a semaphore",
     "format_page": {
       "page_cover": "",
       "page_cover_position": 0,

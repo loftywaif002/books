@@ -7,8 +7,7 @@
       "d875f26c-b1f7-43a1-b8cc-d41ad6da0e87",
       "a21f18bf-ae96-4d18-8181-8fb00eda6084",
       "51dd30e4-d891-4c8d-9210-a2789489dfad",
-      "05e7e696-0d79-4741-8582-dfdd2eee9fc9",
-      "032bc23c-6575-4da6-a17e-fe21aa376687"
+      "fd550203-4d45-4b78-95cf-b1103bebc205"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156105215,
@@ -19,7 +18,7 @@
     "id": "4c8b9880-2312-4d78-8137-a8519861ce3e",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532207323939,
+    "last_edited_time": 1538788962970,
     "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
     "parent_table": "block",
     "properties": {
@@ -30,7 +29,7 @@
       ]
     },
     "type": "page",
-    "version": 25,
+    "version": 30,
     "content_resolved": [
       {
         "alive": true,
@@ -124,7 +123,7 @@
         "id": "51dd30e4-d891-4c8d-9210-a2789489dfad",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156105215,
+        "last_edited_time": 1538788962970,
         "parent_id": "4c8b9880-2312-4d78-8137-a8519861ce3e",
         "parent_table": "block",
         "properties": {
@@ -179,7 +178,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "An "
@@ -217,39 +216,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156105215,
-        "id": "05e7e696-0d79-4741-8582-dfdd2eee9fc9",
-        "ignore_block_count": true,
+        "created_time": 1538788958447,
+        "format": {
+          "block_height": 430.9930725097656,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Freuse_cmd.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "fd550203-4d45-4b78-95cf-b1103bebc205",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156105215,
+        "last_edited_time": 1538788973652,
         "parent_id": "4c8b9880-2312-4d78-8137-a8519861ce3e",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "@file reuse_cmd.go output allow_error noplayground"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Freuse_cmd.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file reuse_cmd.go output allow_error noplayground"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532207323939,
-        "id": "032bc23c-6575-4da6-a17e-fe21aa376687",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532207323939,
-        "parent_id": "4c8b9880-2312-4d78-8137-a8519861ce3e",
-        "parent_table": "block",
-        "type": "text",
-        "version": 4
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 430.9930725097656,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Freuse_cmd.go"
+        }
       }
     ],
     "title": "os.Exec gotchas",

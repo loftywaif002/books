@@ -5,14 +5,15 @@
     "content": [
       "6b4036d0-c1b7-47bc-8a79-043ad0d13b79",
       "c641052c-1621-40b1-9fa4-1b447f149b7e",
+      "85b5a99d-9831-4394-84b6-97801dff43aa",
       "0f89c19d-3236-41c3-8744-fa4cad38bcc5",
-      "72513e81-b4e9-495b-8a3a-ef48e6c3337f",
       "c27e375b-5999-4366-b60a-f914ac1eba54",
-      "56dbf83f-28ec-44a1-8215-3c597cd9226e",
-      "42990930-0d3f-4416-b115-41b319123e89",
+      "3526bbb4-ac0d-4535-b4c1-bf3057262f87",
       "80ca524c-e9c9-42b1-95e1-360e07cd5948",
       "aba77e42-39df-49ee-9cc3-934108161914",
-      "22c16dbf-0667-4b6d-b977-dfe8cb099297"
+      "22c16dbf-0667-4b6d-b977-dfe8cb099297",
+      "5072d21e-d1b9-4b5d-b136-1cd629883a77",
+      "5719113f-c53b-418e-8f1d-80ebcc6f2ff7"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156039144,
@@ -23,7 +24,7 @@
     "id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236013595,
+    "last_edited_time": 1538784475015,
     "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
     "parent_table": "block",
     "properties": {
@@ -34,7 +35,7 @@
       ]
     },
     "type": "page",
-    "version": 21,
+    "version": 41,
     "content_resolved": [
       {
         "alive": true,
@@ -87,37 +88,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532204489688,
-        "id": "0f89c19d-3236-41c3-8744-fa4cad38bcc5",
+        "created_time": 1538784375330,
+        "id": "85b5a99d-9831-4394-84b6-97801dff43aa",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532204490272,
+        "last_edited_time": 1538784375330,
         "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
         "parent_table": "block",
         "type": "text",
-        "version": 10
+        "version": 4
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156039141,
-        "id": "72513e81-b4e9-495b-8a3a-ef48e6c3337f",
-        "ignore_block_count": true,
+        "created_time": 1532204489688,
+        "id": "0f89c19d-3236-41c3-8744-fa4cad38bcc5",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156039141,
+        "last_edited_time": 1538784413264,
         "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Return values can be assigned to a local variable."
+              "You can name returned values in which case they act as implicit local variable."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 234,
         "inline_content": [
           {
-            "Text": "Return values can be assigned to a local variable."
+            "Text": "You can name returned values in which case they act as implicit local variable."
           }
         ]
       },
@@ -128,7 +128,7 @@
         "id": "c27e375b-5999-4366-b60a-f914ac1eba54",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156039141,
+        "last_edited_time": 1538784445640,
         "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
         "parent_table": "block",
         "properties": {
@@ -161,7 +161,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "An empty "
@@ -185,52 +185,35 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156039142,
-        "id": "56dbf83f-28ec-44a1-8215-3c597cd9226e",
-        "ignore_block_count": true,
+        "created_time": 1538784273014,
+        "format": {
+          "block_height": 480,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Fnamed_return_values.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "3526bbb4-ac0d-4535-b4c1-bf3057262f87",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156039142,
+        "last_edited_time": 1538784279997,
         "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
         "parent_table": "block",
         "properties": {
-          "title": [
+          "source": [
             [
-              "Naked return statements should be used only in short functions as they harm readability in longer functions:"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Fnamed_return_values.go"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "Naked return statements should be used only in short functions as they harm readability in longer functions:"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156039142,
-        "id": "42990930-0d3f-4416-b115-41b319123e89",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156039142,
-        "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "@file named_return_values.go output sha1:02946dc012fe64e4490cdc382b63d9024efe929a goplayground:s3zX6fDUijB"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "@file named_return_values.go output sha1:02946dc012fe64e4490cdc382b63d9024efe929a goplayground:s3zX6fDUijB"
-          }
-        ]
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 480,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Fnamed_return_values.go"
+        }
       },
       {
         "alive": true,
@@ -264,39 +247,21 @@
         "id": "aba77e42-39df-49ee-9cc3-934108161914",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156039144,
+        "last_edited_time": 1538784291263,
         "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "parenthesis around the return values are "
-            ],
-            [
-              "mandatory",
-              [
-                [
-                  "b"
-                ]
-              ]
-            ],
-            [
-              "."
+              "parenthesis around the return values are mandatory"
             ]
           ]
         },
         "type": "bulleted_list",
-        "version": 1,
+        "version": 5,
         "inline_content": [
           {
-            "Text": "parenthesis around the return values are "
-          },
-          {
-            "Text": "mandatory",
-            "AttrFlags": 1
-          },
-          {
-            "Text": "."
+            "Text": "parenthesis around the return values are mandatory"
           }
         ]
       },
@@ -307,7 +272,7 @@
         "id": "22c16dbf-0667-4b6d-b977-dfe8cb099297",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156039144,
+        "last_edited_time": 1538784292767,
         "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
         "parent_table": "block",
         "properties": {
@@ -324,12 +289,12 @@
               ]
             ],
             [
-              " statement must always be provided."
+              " statement must always be provided"
             ]
           ]
         },
         "type": "bulleted_list",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "empty "
@@ -339,9 +304,45 @@
             "AttrFlags": 2
           },
           {
-            "Text": " statement must always be provided."
+            "Text": " statement must always be provided"
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538784293948,
+        "id": "5072d21e-d1b9-4b5d-b136-1cd629883a77",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538784474384,
+        "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using named return values is considered a bad practice that hinders readability, especially in longer function. Explicit is better than implicit."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 338,
+        "inline_content": [
+          {
+            "Text": "Using named return values is considered a bad practice that hinders readability, especially in longer function. Explicit is better than implicit."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538784475015,
+        "id": "5719113f-c53b-418e-8f1d-80ebcc6f2ff7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538784475036,
+        "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
       }
     ],
     "title": "Named return values",

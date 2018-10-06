@@ -124,21 +124,21 @@
         "id": "8bcdb2f6-4f5a-408a-b011-88f1fc3586b2",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233400771,
+        "last_edited_time": 1538806242383,
         "parent_id": "0ef5f6ac-fd44-4de7-9a47-f906f53e1250",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Go doesn’t have a notion of enumerations."
+              "Go doesn’t provide enumerations."
             ]
           ]
         },
         "type": "text",
-        "version": 69,
+        "version": 112,
         "inline_content": [
           {
-            "Text": "Go doesn’t have a notion of enumerations."
+            "Text": "Go doesn’t provide enumerations."
           }
         ]
       },

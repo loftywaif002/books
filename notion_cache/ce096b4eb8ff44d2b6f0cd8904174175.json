@@ -153,16 +153,13 @@
         "id": "86d6587e-d098-47f8-8128-fc4f68457eef",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538771627633,
+        "last_edited_time": 1538807138055,
         "parent_id": "ce096b4e-b8ff-44d2-b6f0-cd8904174175",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "A "
-            ],
-            [
-              "zero value",
+              "Zero value",
               [
                 [
                   "a",
@@ -187,13 +184,10 @@
           ]
         },
         "type": "text",
-        "version": 6,
+        "version": 14,
         "inline_content": [
           {
-            "Text": "A "
-          },
-          {
-            "Text": "zero value",
+            "Text": "Zero value",
             "Link": "https://www.notion.so/kjkpublic/Zero-values-707edb6542fa4fc7a8d16639ee6a9746"
           },
           {

@@ -107,21 +107,21 @@
         "id": "448c0c74-a527-4cbe-8556-bebc229ba123",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155951165,
+        "last_edited_time": 1538806741014,
         "parent_id": "1ac75368-0907-4689-b3f8-041d7a2b1e4a",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "To help avoid mistakes, the Go compiler doesn’t allow unused variables."
+              "To help avoid mistakes Go compiler doesn’t allow unused variables."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 11,
         "inline_content": [
           {
-            "Text": "To help avoid mistakes, the Go compiler doesn’t allow unused variables."
+            "Text": "To help avoid mistakes Go compiler doesn’t allow unused variables."
           }
         ]
       },

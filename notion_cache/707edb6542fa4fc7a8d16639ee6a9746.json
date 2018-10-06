@@ -8,7 +8,6 @@
       "0dd664d5-31eb-4687-b8af-bdc4d1f50654",
       "41cdf6f0-8e5a-47d0-8ad3-a1c91ac890fd",
       "7e677a4f-edb1-419b-9934-eb226649272e",
-      "3cc2fc18-2a1e-48ef-96c4-29b708611c86",
       "e9e72bd5-0577-45d2-b536-294897169a9f",
       "3f70f254-afe6-4685-86ca-45a4cbca6b33",
       "3cf65ca8-bb23-462c-ae67-4e4074997f44",
@@ -26,7 +25,7 @@
     "id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538716020502,
+    "last_edited_time": 1538806539704,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -37,7 +36,7 @@
       ]
     },
     "type": "page",
-    "version": 59,
+    "version": 61,
     "content_resolved": [
       {
         "alive": true,
@@ -106,21 +105,21 @@
         "id": "41cdf6f0-8e5a-47d0-8ad3-a1c91ac890fd",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155945185,
+        "last_edited_time": 1538806544579,
         "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Variables in Go are always initialized with a known value even if not explicitly assigned in source code."
+              "Variables in Go are initialized with a known value if not explicitly assigned."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 111,
         "inline_content": [
           {
-            "Text": "Variables in Go are always initialized with a known value even if not explicitly assigned in source code."
+            "Text": "Variables in Go are initialized with a known value if not explicitly assigned."
           }
         ]
       },
@@ -131,46 +130,21 @@
         "id": "7e677a4f-edb1-419b-9934-eb226649272e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155945185,
+        "last_edited_time": 1538806539704,
         "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Each Go type has a zero value."
+              "That value is knows as zero value."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 91,
         "inline_content": [
           {
-            "Text": "Each Go type has a zero value."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155945186,
-        "id": "3cc2fc18-2a1e-48ef-96c4-29b708611c86",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155945186,
-        "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Variables that are not explicitly initialized (assigned an explicit value) will have a value equal to the zero value for their type."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "Variables that are not explicitly initialized (assigned an explicit value) will have a value equal to the zero value for their type."
+            "Text": "That value is knows as zero value."
           }
         ]
       },

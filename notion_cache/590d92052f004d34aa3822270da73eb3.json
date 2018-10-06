@@ -32,7 +32,7 @@
     "id": "590d9205-2f00-4d34-aa38-22270da73eb3",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532234085371,
+    "last_edited_time": 1538806683034,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -43,7 +43,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 26,
     "content_resolved": [
       {
         "alive": true,
@@ -156,13 +156,13 @@
         "id": "3ddefd79-e574-4431-92cb-8f766a5e8de3",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155946178,
+        "last_edited_time": 1538806610262,
         "parent_id": "590d9205-2f00-4d34-aa38-22270da73eb3",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Imagine you have package "
+              "Imagine you have a package "
             ],
             [
               "foo",
@@ -189,10 +189,10 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 5,
         "inline_content": [
           {
-            "Text": "Imagine you have package "
+            "Text": "Imagine you have a package "
           },
           {
             "Text": "foo",

@@ -34,9 +34,19 @@ func genNetlifyRedirectsForBook(b *Book) []string {
 		id := page.NotionID
 		uri := page.URLLastPath()
 		s := fmt.Sprintf(`/essential/%s/%s* /essential/%s/%s 302`, b.Dir, id, b.Dir, uri)
-		// TODO: also add redirects for old article ids (only needed for Go book)
-		// alternatively just forget about it
 		res = append(res, s)
+	}
+
+	if b.Dir == "go" {
+		// only for Go book, add redirect from old ids to new ones
+		for _, page := range pages {
+			if page.ID == "" {
+				continue
+			}
+			uri := page.URLLastPath()
+			s := fmt.Sprintf(`/essential/%s/%s-* /essential/%s/%s 302`, b.Dir, page.ID, b.Dir, uri)
+			res = append(res, s)
+		}
 	}
 
 	// catch-all redirect for all other missing pages

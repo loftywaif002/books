@@ -1053,6 +1053,11 @@ ToTitle(s): 'MIXED CASE'
 Decoded YAML dependencies: []main.Dependency{main.Dependency{Name:"apache", Version:"1.2.3", RepositoryURL:"http://example.com/charts"}, main.Dependency{Name:"mysql", Version:"3.2.1", RepositoryURL:"http://another.example.com/charts"}}
 
 |======|
+89f13677cda53bcffb14f5a795c40225dbd61591:
+5 is odd
+18 is even
+
+|======|
 8b25b88d5aa670effe9d3638f7b29aa77fb95fad:
 i2: 0
 i2: 2

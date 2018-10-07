@@ -19,15 +19,17 @@
       "e5d537c1-f269-4953-92cd-0139d5288453",
       "c711c9ea-4949-4eaf-8f23-995dc8864757",
       "9474a6a9-7056-428a-b690-f95ad055361a",
+      "ecf86a57-5521-4b35-895d-68cd01f6c72c",
       "5f8de916-99dd-40eb-9dd4-ebfd6aacb462",
       "fecc45b6-4a1b-48d5-8526-4dfc77223ad7",
+      "956eb480-d9ad-4874-833d-356d7cabb02e",
       "fcbc6344-fa59-4428-8146-1056de58f197",
       "0fafe319-0473-43dc-9e28-1b16a0618912",
       "bb5797ee-7add-4d3b-b833-47afaed508d1",
       "6411da09-bd3d-47b0-aa58-62f9be4bd6a4",
       "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
       "49423454-c8ba-4e64-913f-772f59fb7027",
-      "d023a0a2-a202-461b-a757-047c1d7a6c46"
+      "9355388b-ca33-4b2b-bc01-00038f42ab1b"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156025299,
@@ -38,7 +40,7 @@
     "id": "ad923a2f-bd99-4701-844a-f2d688d30548",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538782886426,
+    "last_edited_time": 1538887630281,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -49,7 +51,7 @@
       ]
     },
     "type": "page",
-    "version": 65,
+    "version": 73,
     "content_resolved": [
       {
         "alive": true,
@@ -250,21 +252,21 @@
         "id": "cc4c815a-2996-4acf-90e7-3e89b5112f36",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156025297,
+        "last_edited_time": 1538887500114,
         "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Every loop statement is optional."
+              "Every part of loop statement is optional."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 37,
         "inline_content": [
           {
-            "Text": "Every loop statement is optional."
+            "Text": "Every part of loop statement is optional."
           }
         ]
       },
@@ -275,7 +277,7 @@
         "id": "00db7921-3a21-4c62-9417-3a2f7d5aeb4d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538782783533,
+        "last_edited_time": 1538887520962,
         "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
         "parent_table": "block",
         "properties": {
@@ -291,7 +293,7 @@
           ]
         },
         "type": "text",
-        "version": 3,
+        "version": 25,
         "inline_content": [
           {
             "Text": "Without initialization statement",
@@ -519,6 +521,18 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538887531428,
+        "id": "ecf86a57-5521-4b35-895d-68cd01f6c72c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538887531428,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532156025298,
         "id": "5f8de916-99dd-40eb-9dd4-ebfd6aacb462",
         "ignore_block_count": true,
@@ -583,11 +597,23 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538887536665,
+        "id": "956eb480-d9ad-4874-833d-356d7cabb02e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538887536665,
+        "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532156025299,
         "id": "fcbc6344-fa59-4428-8146-1056de58f197",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538782886426,
+        "last_edited_time": 1538887666304,
         "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
         "parent_table": "block",
         "properties": {
@@ -604,7 +630,7 @@
               ]
             ],
             [
-              " loop with ",
+              " loop over a slice with ",
               [
                 [
                   "b"
@@ -625,14 +651,14 @@
           ]
         },
         "type": "text",
-        "version": 3,
+        "version": 29,
         "inline_content": [
           {
             "Text": "for",
             "AttrFlags": 3
           },
           {
-            "Text": " loop with ",
+            "Text": " loop over a slice with ",
             "AttrFlags": 1
           },
           {
@@ -763,7 +789,7 @@
         "id": "49423454-c8ba-4e64-913f-772f59fb7027",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235792881,
+        "last_edited_time": 1538887002897,
         "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
         "parent_table": "block",
         "properties": {
@@ -774,7 +800,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 25,
         "title": "while loop",
         "format_page": {
           "page_cover": "",
@@ -788,35 +814,14 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156029118,
-        "format": {
-          "page_full_width": true,
-          "page_small_text": true
-        },
-        "id": "d023a0a2-a202-461b-a757-047c1d7a6c46",
-        "ignore_block_count": true,
+        "created_time": 1538887630281,
+        "id": "9355388b-ca33-4b2b-bc01-00038f42ab1b",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538782946409,
+        "last_edited_time": 1538887630281,
         "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
         "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Timed loop"
-            ]
-          ]
-        },
-        "type": "page",
-        "version": 34,
-        "title": "Timed loop",
-        "format_page": {
-          "page_cover": "",
-          "page_cover_position": 0,
-          "page_font": "",
-          "page_full_width": true,
-          "page_icon": "",
-          "page_small_text": true
-        }
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "for, while loops",

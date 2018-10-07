@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 // :show start
-func gotoIfOdd(n int) {
+func printIsOdd(n int) {
 	if n%2 == 1 {
 		goto isOdd
 	}
@@ -14,9 +14,11 @@ isOdd:
 	fmt.Printf("%d is odd\n", n)
 }
 
-func main() {
-	gotoIfOdd(5)
-	gotoIfOdd(18)
-}
-
 // :show end
+
+func main() {
+	// :show start
+	printIsOdd(5)
+	printIsOdd(18)
+	// :show end
+}

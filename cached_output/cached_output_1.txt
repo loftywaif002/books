@@ -200,6 +200,13 @@ struct S, 5 field(s), size: 40 bytes
 i: 4, i2: 0, s: , err: <nil>
 
 |======|
+1874121ab1c4312b30bdb08d614684bfc018b140:
+value for key 'number3' is 3
+key 'number4' doesn't exist in map
+deleted key 'number3
+key 'number3' doesn't exist in map
+
+|======|
 1b0809fa3e95b6b18e7b8f24c7aafc62d587accc:
 Response status code: 200, text:
 {

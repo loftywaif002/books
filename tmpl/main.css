@@ -770,7 +770,7 @@ pre.chroma {
   text-overflow: ellipsis;
 
   overflow-x: hidden;
-  color: rgba(150, 150, 150, 201);
+  color: rgb(88, 88, 88);
 }
 
 .bold .toc-link {
@@ -784,9 +784,11 @@ pre.chroma {
    https://developer.mozilla.org/en-US/docs/Web/Events/mouseover
    https://developer.mozilla.org/en-US/docs/Web/Events/mouseout
 */
+/*
 #toc:hover .toc-link {
   color: black;
 }
+*/
 
 /*
 Source higligh from chroma https://github.com/alecthomas/chroma

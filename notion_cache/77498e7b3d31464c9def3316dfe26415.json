@@ -7,21 +7,19 @@
       "5ce6bbfb-7b08-463f-b857-55a3af11c585",
       "9537bb77-00d4-4009-900b-5a39422f88a7",
       "6bd7d47d-f3a7-47c2-a340-218370eb3190",
-      "682251d5-e773-483d-9ebf-518b9535f147",
-      "5ac3df0d-3e74-4a0f-8c7b-c5a03d280f6a",
-      "94c76329-932d-4157-881f-d008cdae4c48",
-      "87a2cd4b-4f90-48b9-9579-e9917d2d8b93",
-      "97079822-6c87-44c1-8bd8-fc85e7d606cc",
-      "7bb92f6f-e770-457a-9857-f011e51bd13f",
-      "8ec9257c-993d-4463-b735-633536b58a31",
-      "63aa1078-6454-4de1-9bdc-99d441c1513b",
-      "f28185e2-245d-4507-b7ea-a4b48e4e8727",
+      "31d468c4-fdd3-474c-91b0-09ca406b5fce",
+      "9de0c10d-a620-4dca-86b9-e24b17f120c9",
+      "b0dc4cd3-c668-4c1d-b62a-1c45ccaa3a39",
+      "767e5dc0-6d60-4c32-a6a8-a32f84789f6b",
+      "4a58b50c-93f8-4f70-bb37-f39c7de8a250",
+      "66055cab-6e69-445d-9e41-9e26c258a19c",
+      "b9f80cb1-1251-454c-a903-d3ef348aebf1",
+      "a029c9c8-c13f-44b7-b965-62297fffe510",
+      "1a9b3f8f-815b-4626-be27-3944aee5b8c7",
       "83ae8777-c47e-40bb-aea3-9cde629df335",
       "6874c54e-9d5f-4e4d-b38f-f9efbcc2c8b8",
-      "25f3213d-28e2-47ae-a86d-7f513944cf59",
       "4a840141-6e9c-4e63-9b3d-5e6acd9bd80d",
       "aff96c5b-9b4f-40e6-920f-6e0f53ae0f46",
-      "24b3f0de-947e-4c02-8e72-839f7f156b83",
       "91c97f61-5548-479b-86a8-d25ec2624051",
       "e9b38632-de10-404f-9dfa-f385a99a0b19"
     ],
@@ -34,7 +32,7 @@
     "id": "77498e7b-3d31-464c-9def-3316dfe26415",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532235736999,
+    "last_edited_time": 1538892255956,
     "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
     "parent_table": "block",
     "properties": {
@@ -45,7 +43,7 @@
       ]
     },
     "type": "page",
-    "version": 27,
+    "version": 90,
     "content_resolved": [
       {
         "alive": true,
@@ -152,112 +150,76 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023175,
-        "id": "682251d5-e773-483d-9ebf-518b9535f147",
-        "ignore_block_count": true,
+        "created_time": 1538891806816,
+        "format": {
+          "block_height": 368.0000305175781,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fcase.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "31d468c4-fdd3-474c-91b0-09ca406b5fce",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532203228080,
+        "last_edited_time": 1538892016673,
         "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
         "parent_table": "block",
         "properties": {
-          "language": [
+          "source": [
             [
-              "Go"
-            ]
-          ],
-          "title": [
-            [
-              "switch a + b {\ncase c:\n    // do something\ncase d:\n    // do something else\ndefault:\n    // do something entirely different\n}"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fcase.go"
             ]
           ]
         },
-        "type": "code",
-        "version": 3,
-        "code": "switch a + b {\ncase c:\n    // do something\ncase d:\n    // do something else\ndefault:\n    // do something entirely different\n}",
-        "code_language": "Go"
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 368.0000305175781,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fcase.go"
+        }
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023175,
-        "id": "5ac3df0d-3e74-4a0f-8c7b-c5a03d280f6a",
-        "ignore_block_count": true,
+        "created_time": 1538890570721,
+        "id": "9de0c10d-a620-4dca-86b9-e24b17f120c9",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156023175,
+        "last_edited_time": 1538890888171,
         "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "The above example is equivalent to:"
+              "fallthrough"
             ]
           ]
         },
-        "type": "text",
-        "version": 1,
+        "type": "header",
+        "version": 60,
         "inline_content": [
           {
-            "Text": "The above example is equivalent to:"
+            "Text": "fallthrough"
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023175,
-        "id": "94c76329-932d-4157-881f-d008cdae4c48",
-        "ignore_block_count": true,
+        "created_time": 1538890889153,
+        "id": "b0dc4cd3-c668-4c1d-b62a-1c45ccaa3a39",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532203231399,
-        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
-        "parent_table": "block",
-        "properties": {
-          "language": [
-            [
-              "Go"
-            ]
-          ],
-          "title": [
-            [
-              "if a + b == c {\n    // do something\n} else if a + b == d {\n    // do something else\n} else {\n    // do something entirely different\n}"
-            ]
-          ]
-        },
-        "type": "code",
-        "version": 3,
-        "code": "if a + b == c {\n    // do something\n} else if a + b == d {\n    // do something else\n} else {\n    // do something entirely different\n}",
-        "code_language": "Go"
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023175,
-        "id": "87a2cd4b-4f90-48b9-9579-e9917d2d8b93",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156023175,
-        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
-        "parent_table": "block",
-        "type": "divider",
-        "version": 1
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023176,
-        "id": "97079822-6c87-44c1-8bd8-fc85e7d606cc",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156023176,
+        "last_edited_time": 1538891180886,
         "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "The "
+              "Unlike most other languages like C++ or Java, you don't have to use "
             ],
             [
-              "default",
+              "break",
               [
                 [
                   "c"
@@ -265,66 +227,98 @@
               ]
             ],
             [
-              " clause is optional and will be executed if and only if none of the cases compare true, even if it does not appear last, which is acceptable. The following is semantically the same as the first example:"
+              " to stop one "
+            ],
+            [
+              "case",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " into continuing execution in following "
+            ],
+            [
+              "case",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 408,
         "inline_content": [
           {
-            "Text": "The "
+            "Text": "Unlike most other languages like C++ or Java, you don't have to use "
           },
           {
-            "Text": "default",
+            "Text": "break",
             "AttrFlags": 2
           },
           {
-            "Text": " clause is optional and will be executed if and only if none of the cases compare true, even if it does not appear last, which is acceptable. The following is semantically the same as the first example:"
+            "Text": " to stop one "
+          },
+          {
+            "Text": "case",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " into continuing execution in following "
+          },
+          {
+            "Text": "case",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023176,
-        "id": "7bb92f6f-e770-457a-9857-f011e51bd13f",
-        "ignore_block_count": true,
+        "created_time": 1538891181854,
+        "id": "767e5dc0-6d60-4c32-a6a8-a32f84789f6b",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532203235945,
+        "last_edited_time": 1538891200396,
         "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
         "parent_table": "block",
         "properties": {
-          "language": [
-            [
-              "Go"
-            ]
-          ],
           "title": [
             [
-              "switch a + b {\ndefault:\n    // do something entirely different\ncase c:\n    // do something\ncase d:\n    // do something else\n}"
+              "Such default behavior is a frequent source of bugs."
             ]
           ]
         },
-        "type": "code",
-        "version": 3,
-        "code": "switch a + b {\ndefault:\n    // do something entirely different\ncase c:\n    // do something\ncase d:\n    // do something else\n}",
-        "code_language": "Go"
+        "type": "text",
+        "version": 144,
+        "inline_content": [
+          {
+            "Text": "Such default behavior is a frequent source of bugs."
+          }
+        ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023176,
-        "id": "8ec9257c-993d-4463-b735-633536b58a31",
-        "ignore_block_count": true,
+        "created_time": 1538891200685,
+        "id": "4a58b50c-93f8-4f70-bb37-f39c7de8a250",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156023176,
+        "last_edited_time": 1538892076798,
         "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "This could be useful if you intend to use the "
+              "Instead in Go you can ask for such behavior with "
             ],
             [
               "fallthrough",
@@ -335,10 +329,98 @@
               ]
             ],
             [
-              " statement in the "
+              ":"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 172,
+        "inline_content": [
+          {
+            "Text": "Instead in Go you can ask for such behavior with "
+          },
+          {
+            "Text": "fallthrough",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ":"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538891837534,
+        "format": {
+          "block_height": 356.9965515136719,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Ffallthrough.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "66055cab-6e69-445d-9e41-9e26c258a19c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538892020329,
+        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Ffallthrough.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 356.9965515136719,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Ffallthrough.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538892050792,
+        "id": "b9f80cb1-1251-454c-a903-d3ef348aebf1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538892075363,
+        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Switch on strings"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 75,
+        "inline_content": [
+          {
+            "Text": "Switch on strings"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538892094346,
+        "id": "a029c9c8-c13f-44b7-b965-62297fffe510",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538892140406,
+        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Switch in Go is more flexible than in languages like C++ or Java. For example, we can "
             ],
             [
-              "default",
+              "switch",
               [
                 [
                   "c"
@@ -346,71 +428,57 @@
               ]
             ],
             [
-              " clause, which must be the last statement in a case and causes program execution to proceed to the next case:"
+              " on strings:"
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 338,
         "inline_content": [
           {
-            "Text": "This could be useful if you intend to use the "
+            "Text": "Switch in Go is more flexible than in languages like C++ or Java. For example, we can "
           },
           {
-            "Text": "fallthrough",
+            "Text": "switch",
             "AttrFlags": 2
           },
           {
-            "Text": " statement in the "
-          },
-          {
-            "Text": "default",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " clause, which must be the last statement in a case and causes program execution to proceed to the next case:"
+            "Text": " on strings:"
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023176,
-        "id": "63aa1078-6454-4de1-9bdc-99d441c1513b",
-        "ignore_block_count": true,
+        "created_time": 1538892255956,
+        "format": {
+          "block_height": 335.0000305175781,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fswitch_string.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "1a9b3f8f-815b-4626-be27-3944aee5b8c7",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532203239663,
+        "last_edited_time": 1538892265042,
         "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
         "parent_table": "block",
         "properties": {
-          "language": [
+          "source": [
             [
-              "Go"
-            ]
-          ],
-          "title": [
-            [
-              "switch a + b {\ndefault:\n    // do something entirely different, but then also do something\n    fallthrough\ncase c:\n    // do something\ncase d:\n    // do something else\n}"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fswitch_string.go"
             ]
           ]
         },
-        "type": "code",
-        "version": 3,
-        "code": "switch a + b {\ndefault:\n    // do something entirely different, but then also do something\n    fallthrough\ncase c:\n    // do something\ncase d:\n    // do something else\n}",
-        "code_language": "Go"
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023176,
-        "id": "f28185e2-245d-4507-b7ea-a4b48e4e8727",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156023176,
-        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
-        "parent_table": "block",
-        "type": "divider",
-        "version": 1
+        "type": "embed",
+        "version": 12,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 335.0000305175781,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fswitch_string.go"
+        }
       },
       {
         "alive": true,
@@ -486,23 +554,10 @@
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532156023176,
-        "id": "25f3213d-28e2-47ae-a86d-7f513944cf59",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156023176,
-        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
-        "parent_table": "block",
-        "type": "divider",
-        "version": 1
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023176,
         "id": "4a840141-6e9c-4e63-9b3d-5e6acd9bd80d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156023176,
+        "last_edited_time": 1538891977734,
         "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
         "parent_table": "block",
         "properties": {
@@ -524,7 +579,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 5,
         "inline_content": [
           {
             "Text": "Switch statements support a simple statement similar to "
@@ -564,19 +619,6 @@
         "version": 3,
         "code": "switch n := getNumber(); n {\ncase 1:\n    // do something\ncase 2:\n    // do something else\n}",
         "code_language": "Go"
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023177,
-        "id": "24b3f0de-947e-4c02-8e72-839f7f156b83",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156023177,
-        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
-        "parent_table": "block",
-        "type": "divider",
-        "version": 1
       },
       {
         "alive": true,

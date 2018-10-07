@@ -5,6 +5,7 @@ import (
 )
 
 // :show start
+
 // MyError is a custom error type
 type MyError struct {
 	msg string
@@ -14,12 +15,11 @@ func (e *MyError) Error() string {
 	return e.msg
 }
 
-func printError(err error) {
-	fmt.Printf("%s\n", err)
-}
+// :show end
 
 func main() {
-	printError(&MyError{msg: "custom error type"})
+	// :show start
+	var err error = &MyError{msg: "This is custom error type"}
+	fmt.Printf("err: %s\n", err)
+	// :show end
 }
-
-// :show end

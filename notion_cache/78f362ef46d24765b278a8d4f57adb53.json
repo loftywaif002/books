@@ -10,7 +10,10 @@
       "1ae4273e-d362-4eeb-a342-31b35bbf8301",
       "2a2b7c4b-49f2-49e0-8303-2f85ea12727e",
       "b7e44509-57fe-428d-bb89-63e9a4b0095f",
-      "bc65e24d-c52f-4a50-825d-4aca9137b5b5"
+      "48063536-6367-4b23-a06c-bbf5d52eae3b",
+      "bc65e24d-c52f-4a50-825d-4aca9137b5b5",
+      "39d83f19-3a63-4325-bd48-85c307aff6ce",
+      "568f07c3-bebe-49a1-892a-a1dbf2e8e330"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156046117,
@@ -21,7 +24,7 @@
     "id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538785493583,
+    "last_edited_time": 1538895794580,
     "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
     "parent_table": "block",
     "properties": {
@@ -32,7 +35,7 @@
       ]
     },
     "type": "page",
-    "version": 58,
+    "version": 64,
     "content_resolved": [
       {
         "alive": true,
@@ -292,15 +295,156 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538895794580,
+        "id": "48063536-6367-4b23-a06c-bbf5d52eae3b",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538895847206,
+        "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Why use custom type in addition to "
+            ],
+            [
+              "built-in ways of creating errors",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Creating-error-values-b3617dee1c06401683037d8408e76a5f"
+                ]
+              ]
+            ],
+            [
+              "?"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 170,
+        "inline_content": [
+          {
+            "Text": "Why use custom type in addition to "
+          },
+          {
+            "Text": "built-in ways of creating errors",
+            "Link": "https://www.notion.so/kjkpublic/Creating-error-values-b3617dee1c06401683037d8408e76a5f"
+          },
+          {
+            "Text": "?"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532156046117,
         "id": "bc65e24d-c52f-4a50-825d-4aca9137b5b5",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785493583,
+        "last_edited_time": 1538895858529,
         "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
         "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Potential use cases are:"
+            ]
+          ]
+        },
         "type": "text",
-        "version": 5
+        "version": 251,
+        "inline_content": [
+          {
+            "Text": "Potential use cases are:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538895717230,
+        "id": "39d83f19-3a63-4325-bd48-85c307aff6ce",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538895869738,
+        "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "wrap existing error and add more information, like a call stack"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 231,
+        "inline_content": [
+          {
+            "Text": "wrap existing error and add more information, like a call stack"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538895748668,
+        "id": "568f07c3-bebe-49a1-892a-a1dbf2e8e330",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538895967413,
+        "parent_id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "add structured information to the error. Code handling the error can check for custom type using "
+            ],
+            [
+              "type assertion",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Type-assertion-e945ebc2e0074ce49cef592e6c0f956e"
+                ]
+              ]
+            ],
+            [
+              " or "
+            ],
+            [
+              "type switch",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Type-switch-b81d270c56fd42e39e2ebd5f74f0413b"
+                ]
+              ]
+            ],
+            [
+              " and access this information"
+            ]
+          ]
+        },
+        "type": "bulleted_list",
+        "version": 414,
+        "inline_content": [
+          {
+            "Text": "add structured information to the error. Code handling the error can check for custom type using "
+          },
+          {
+            "Text": "type assertion",
+            "Link": "https://www.notion.so/kjkpublic/Type-assertion-e945ebc2e0074ce49cef592e6c0f956e"
+          },
+          {
+            "Text": " or "
+          },
+          {
+            "Text": "type switch",
+            "Link": "https://www.notion.so/kjkpublic/Type-switch-b81d270c56fd42e39e2ebd5f74f0413b"
+          },
+          {
+            "Text": " and access this information"
+          }
+        ]
       }
     ],
     "title": "Custom error types",

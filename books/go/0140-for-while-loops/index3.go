@@ -4,10 +4,10 @@ import "fmt"
 
 func main() {
 	// :show start
-	i3 := 0
-	for ; ; i3 += 2 {
-		fmt.Printf("i3: %d\n", i3)
-		if i3 >= 5 {
+	i := 0
+	for ; ; i += 2 {
+		fmt.Printf("i: %d\n", i)
+		if i >= 5 {
 			break
 		}
 	}

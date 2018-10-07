@@ -219,7 +219,6 @@ func main() {
 			os.Exit(1)
 		}
 		// and fallthrough to re-generate books
-		flgUpdateOutput = true
 	}
 
 	initMinify()
@@ -245,20 +244,11 @@ func main() {
 	genNetlifyRedirects()
 	printAndClearErrors()
 
-	if flgRedownloadOne != "" {
+	if flgUpdateOutput || flgRedownloadOne != "" {
 		saveCachedOutputFiles()
-	}
-
-	if flgUpdateOutput {
-		saveCachedOutputFiles()
-		if !flgPreview {
-			gitAddCachedOutputFiles()
-			return
-		}
 	}
 
 	if flgPreview {
 		startPreview()
 	}
-
 }

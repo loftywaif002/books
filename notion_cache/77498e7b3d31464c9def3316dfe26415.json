@@ -8,6 +8,7 @@
       "9537bb77-00d4-4009-900b-5a39422f88a7",
       "6bd7d47d-f3a7-47c2-a340-218370eb3190",
       "31d468c4-fdd3-474c-91b0-09ca406b5fce",
+      "83fe24fb-01b1-4e26-b6e6-fad5b31fd3b0",
       "9de0c10d-a620-4dca-86b9-e24b17f120c9",
       "b0dc4cd3-c668-4c1d-b62a-1c45ccaa3a39",
       "767e5dc0-6d60-4c32-a6a8-a32f84789f6b",
@@ -15,13 +16,21 @@
       "66055cab-6e69-445d-9e41-9e26c258a19c",
       "b9f80cb1-1251-454c-a903-d3ef348aebf1",
       "a029c9c8-c13f-44b7-b965-62297fffe510",
+      "93b91497-6c1b-452d-b4be-1b93d3a8cc01",
       "1a9b3f8f-815b-4626-be27-3944aee5b8c7",
-      "83ae8777-c47e-40bb-aea3-9cde629df335",
-      "6874c54e-9d5f-4e4d-b38f-f9efbcc2c8b8",
-      "4a840141-6e9c-4e63-9b3d-5e6acd9bd80d",
-      "aff96c5b-9b4f-40e6-920f-6e0f53ae0f46",
-      "91c97f61-5548-479b-86a8-d25ec2624051",
-      "e9b38632-de10-404f-9dfa-f385a99a0b19"
+      "580b1e48-d46a-4945-856b-f80ca197cbf2",
+      "0d4e9b93-13ee-4cf7-bd2d-e689309de19d",
+      "febba416-954d-49b3-aedc-3578b711c914",
+      "e52c9d25-cd8f-4555-881b-7d9b01ce018c",
+      "f1e5dea8-b0c6-4409-9023-67f58b53a689",
+      "725fa12d-081f-4fa7-b901-7dbb2ebfbf0a",
+      "d9bb87ba-2708-4518-b2ab-c00a470c0c26",
+      "865eaa56-27df-4347-a514-f6ca1a2338d4",
+      "d485b1b0-2a18-4f16-aaf4-2bf5979441ce",
+      "251e0de4-08e1-4a74-a9e0-d4d64c2cb27e",
+      "fe65362d-706e-49ab-9fab-f71822d6ef22",
+      "747c57e7-0591-4d26-b64b-5dccac3f4a0a",
+      "c3d7d4d8-aad7-4b3e-9a70-d98a1eac5130"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156023177,
@@ -32,7 +41,7 @@
     "id": "77498e7b-3d31-464c-9def-3316dfe26415",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538892255956,
+    "last_edited_time": 1538894019309,
     "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
     "parent_table": "block",
     "properties": {
@@ -43,7 +52,7 @@
       ]
     },
     "type": "page",
-    "version": 90,
+    "version": 161,
     "content_resolved": [
       {
         "alive": true,
@@ -179,6 +188,84 @@
           "block_preserve_scale": false,
           "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fcase.go"
         }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538892409979,
+        "id": "83fe24fb-01b1-4e26-b6e6-fad5b31fd3b0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538893157751,
+        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Notice "
+            ],
+            [
+              "case",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " can handle multiple values ("
+            ],
+            [
+              "1",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " and "
+            ],
+            [
+              "3",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " in above example)."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 296,
+        "inline_content": [
+          {
+            "Text": "Notice "
+          },
+          {
+            "Text": "case",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " can handle multiple values ("
+          },
+          {
+            "Text": "1",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " and "
+          },
+          {
+            "Text": "3",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " in above example)."
+          }
+        ]
       },
       {
         "alive": true,
@@ -387,21 +474,21 @@
         "created_time": 1538892050792,
         "id": "b9f80cb1-1251-454c-a903-d3ef348aebf1",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538892075363,
+        "last_edited_time": 1538892478744,
         "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Switch on strings"
+              "switch on strings"
             ]
           ]
         },
         "type": "header",
-        "version": 75,
+        "version": 79,
         "inline_content": [
           {
-            "Text": "Switch on strings"
+            "Text": "switch on strings"
           }
         ]
       },
@@ -411,13 +498,37 @@
         "created_time": 1538892094346,
         "id": "a029c9c8-c13f-44b7-b965-62297fffe510",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538892140406,
+        "last_edited_time": 1538893161407,
         "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Switch in Go is more flexible than in languages like C++ or Java. For example, we can "
+              "Switch in Go is more flexible than in languages like C++ or Java. "
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 340,
+        "inline_content": [
+          {
+            "Text": "Switch in Go is more flexible than in languages like C++ or Java. "
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538893161407,
+        "id": "93b91497-6c1b-452d-b4be-1b93d3a8cc01",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538893163856,
+        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We can "
             ],
             [
               "switch",
@@ -433,10 +544,10 @@
           ]
         },
         "type": "text",
-        "version": 338,
+        "version": 36,
         "inline_content": [
           {
-            "Text": "Switch in Go is more flexible than in languages like C++ or Java. For example, we can "
+            "Text": "We can "
           },
           {
             "Text": "switch",
@@ -483,20 +594,40 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023176,
-        "id": "83ae8777-c47e-40bb-aea3-9cde629df335",
-        "ignore_block_count": true,
+        "created_time": 1538892464384,
+        "id": "580b1e48-d46a-4945-856b-f80ca197cbf2",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156023176,
+        "last_edited_time": 1538893076414,
         "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "An empty switch expression is implicitly "
-            ],
+              "empty switch expression"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 97,
+        "inline_content": [
+          {
+            "Text": "empty switch expression"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538892482946,
+        "id": "0d4e9b93-13ee-4cf7-bd2d-e689309de19d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538893243606,
+        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
+        "parent_table": "block",
+        "properties": {
+          "title": [
             [
-              "true",
+              "switch",
               [
                 [
                   "c"
@@ -504,69 +635,10 @@
               ]
             ],
             [
-              ":"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "An empty switch expression is implicitly "
-          },
-          {
-            "Text": "true",
-            "AttrFlags": 2
-          },
-          {
-            "Text": ":"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023176,
-        "id": "6874c54e-9d5f-4e4d-b38f-f9efbcc2c8b8",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532203242294,
-        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
-        "parent_table": "block",
-        "properties": {
-          "language": [
-            [
-              "Go"
-            ]
-          ],
-          "title": [
-            [
-              "switch {\ncase a + b == c:\n    // do something\ncase a + b == d:\n    // do something else\n}"
-            ]
-          ]
-        },
-        "type": "code",
-        "version": 3,
-        "code": "switch {\ncase a + b == c:\n    // do something\ncase a + b == d:\n    // do something else\n}",
-        "code_language": "Go"
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023176,
-        "id": "4a840141-6e9c-4e63-9b3d-5e6acd9bd80d",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538891977734,
-        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Switch statements support a simple statement similar to "
+              " expression can be empty in which case "
             ],
             [
-              "if",
+              "case",
               [
                 [
                   "c"
@@ -574,103 +646,413 @@
               ]
             ],
             [
-              " statements:"
+              " can be a boolean expression, not just a constant:"
             ]
           ]
         },
         "type": "text",
-        "version": 5,
+        "version": 416,
         "inline_content": [
           {
-            "Text": "Switch statements support a simple statement similar to "
-          },
-          {
-            "Text": "if",
+            "Text": "switch",
             "AttrFlags": 2
           },
           {
-            "Text": " statements:"
+            "Text": " expression can be empty in which case "
+          },
+          {
+            "Text": "case",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " can be a boolean expression, not just a constant:"
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023177,
-        "id": "aff96c5b-9b4f-40e6-920f-6e0f53ae0f46",
-        "ignore_block_count": true,
+        "created_time": 1538893262524,
+        "format": {
+          "block_height": 518,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fswitch_empty.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "febba416-954d-49b3-aedc-3578b711c914",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532203246031,
+        "last_edited_time": 1538893271859,
         "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
         "parent_table": "block",
         "properties": {
-          "language": [
+          "source": [
             [
-              "Go"
-            ]
-          ],
-          "title": [
-            [
-              "switch n := getNumber(); n {\ncase 1:\n    // do something\ncase 2:\n    // do something else\n}"
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fswitch_empty.go"
             ]
           ]
         },
-        "type": "code",
-        "version": 3,
-        "code": "switch n := getNumber(); n {\ncase 1:\n    // do something\ncase 2:\n    // do something else\n}",
-        "code_language": "Go"
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 518,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fswitch_empty.go"
+        }
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023177,
-        "id": "91c97f61-5548-479b-86a8-d25ec2624051",
-        "ignore_block_count": true,
+        "created_time": 1538893088589,
+        "id": "e52c9d25-cd8f-4555-881b-7d9b01ce018c",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156023177,
+        "last_edited_time": 1538893089037,
+        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
+        "parent_table": "block",
+        "type": "text",
+        "version": 8
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538892600432,
+        "id": "f1e5dea8-b0c6-4409-9023-67f58b53a689",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538893297914,
         "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Cases can be combined in a comma-separated list if they share the same logic:"
+              "order of evaluation of "
+            ],
+            [
+              "case",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " "
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 83,
+        "inline_content": [
+          {
+            "Text": "order of evaluation of "
+          },
+          {
+            "Text": "case",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " "
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538892599097,
+        "id": "725fa12d-081f-4fa7-b901-7dbb2ebfbf0a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538893369077,
+        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "What happens if more than one "
+            ],
+            [
+              "case",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " statement evaluates as true?"
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 178,
         "inline_content": [
           {
-            "Text": "Cases can be combined in a comma-separated list if they share the same logic:"
+            "Text": "What happens if more than one "
+          },
+          {
+            "Text": "case",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " statement evaluates as true?"
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156023177,
-        "id": "e9b38632-de10-404f-9dfa-f385a99a0b19",
-        "ignore_block_count": true,
+        "created_time": 1538893369876,
+        "id": "d9bb87ba-2708-4518-b2ab-c00a470c0c26",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532203248975,
+        "last_edited_time": 1538893406747,
         "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
         "parent_table": "block",
         "properties": {
-          "language": [
-            [
-              "Go"
-            ]
-          ],
           "title": [
             [
-              "switch a + b {\ncase c, d:\n    // do something\ndefault:\n    // do something entirely different\n}"
+              "In the above example "
+            ],
+            [
+              "6",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " matches both "
+            ],
+            [
+              "n \u003e 0 \u0026\u0026 n%3 == 0",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " expression and "
+            ],
+            [
+              "n ≥ 4",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " expression."
             ]
           ]
         },
-        "type": "code",
-        "version": 3,
-        "code": "switch a + b {\ncase c, d:\n    // do something\ndefault:\n    // do something entirely different\n}",
-        "code_language": "Go"
+        "type": "text",
+        "version": 231,
+        "inline_content": [
+          {
+            "Text": "In the above example "
+          },
+          {
+            "Text": "6",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " matches both "
+          },
+          {
+            "Text": "n \u003e 0 \u0026\u0026 n%3 == 0",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " expression and "
+          },
+          {
+            "Text": "n ≥ 4",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " expression."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538893407115,
+        "id": "865eaa56-27df-4347-a514-f6ca1a2338d4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538893483877,
+        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "As you can see, only one "
+            ],
+            [
+              "case",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is executed, the one defined first."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 302,
+        "inline_content": [
+          {
+            "Text": "As you can see, only one "
+          },
+          {
+            "Text": "case",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is executed, the one defined first."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538893302369,
+        "id": "d485b1b0-2a18-4f16-aaf4-2bf5979441ce",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538894019309,
+        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "assignment in switch"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 67,
+        "inline_content": [
+          {
+            "Text": "assignment in switch"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538893999672,
+        "format": {
+          "block_height": 445,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fswitch_assign.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "251e0de4-08e1-4a74-a9e0-d4d64c2cb27e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538894005742,
+        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fswitch_assign.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 445,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fswitch_assign.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538893566238,
+        "id": "fe65362d-706e-49ab-9fab-f71822d6ef22",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538894021703,
+        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "switch on type of variable"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 96,
+        "inline_content": [
+          {
+            "Text": "switch on type of variable"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538893575404,
+        "id": "747c57e7-0591-4d26-b64b-5dccac3f4a0a",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538893670113,
+        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Switch can also dispatch based on "
+            ],
+            [
+              "type of the value",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Type-switch-b81d270c56fd42e39e2ebd5f74f0413b"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 272,
+        "inline_content": [
+          {
+            "Text": "Switch can also dispatch based on "
+          },
+          {
+            "Text": "type of the value",
+            "Link": "https://www.notion.so/kjkpublic/Type-switch-b81d270c56fd42e39e2ebd5f74f0413b"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538893671517,
+        "id": "c3d7d4d8-aad7-4b3e-9a70-d98a1eac5130",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538893671517,
+        "parent_id": "77498e7b-3d31-464c-9def-3316dfe26415",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "switch statement",

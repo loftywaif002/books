@@ -212,11 +212,13 @@ func main() {
 	createDirMust("log")
 
 	if flgRedownloadOne != "" {
+		// download a single page from notion and re-generate content
 		_, err := downloadAndCachePage(flgRedownloadOne)
 		if err != nil {
 			fmt.Printf("downloadAndCachePage of '%s' failed with %s\n", flgRedownloadOne, err)
+			os.Exit(1)
 		}
-		os.Exit(0)
+		// and fallthrough to re-generate books
 	}
 
 	initMinify()
@@ -235,6 +237,9 @@ func main() {
 	for _, book := range books {
 		book.titleSafe = common.MakeURLSafe(book.Title)
 		downloadBook(book)
+	}
+
+	for _, book := range books {
 		loadSoContributorsMust(book)
 	}
 

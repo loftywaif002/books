@@ -163,6 +163,13 @@ total: 30
 total: 30
 
 |======|
+11dcb3f249d25cb58b77ee89f8286c3d1b40b427:
+n is 3, divisible by 3
+n is 4 (>= 4)
+n is 6, divisible by 3
+default: n is 1
+
+|======|
 12b56d94694ebc470fdbab3a82273554bb5e4c7f:
 a: 0, b: 2
 
@@ -585,6 +592,10 @@ f32: 1.3E+00
 f64: 8.1234e+00
 
 |======|
+4ba0945f6f2c62c62c3b7efbf3d9db8e7a39f3d7:
+case 1, 2, 3: n is 1
+
+|======|
 4c937840feff21cd227fe44666adb4122a4b35af:
 value of number3 is 3
 key 'number4' doesn't exist in map m
@@ -1001,6 +1012,11 @@ XML: <ShowNesting><a><b><str>str</str></b></a></ShowNesting>
 
 
 |======|
+82cd47cdf96e2bef6caeae292d3396d6ecddaa9a:
+case 1
+caes 2
+
+|======|
 83139b79c1db6c3c00fa90847764a89ddf0011cd:
 There are 32 lines in 'read_file_as_lines.go'
 
@@ -1351,6 +1367,10 @@ acbd4158c0709417f2ab81c6d3dae3a8d29e5780:
 'gone' is equal 'GoNe' when ignoring case
 
 |======|
+ad96a578afb9747ce4ee49b5e4cc3a8e6d23fc69:
+a is 1 or 3
+
+|======|
 aee080990dce122a8dc598e3bc2839ba247f6b6d:
 zeroBool: false
 zeroInt: 0
@@ -1597,6 +1617,10 @@ key: five
 cbb243f7a9920d4cdd348c50bee16e2532409bec:
 2
 2
+
+|======|
+ccb9bdd1e2e04fdc04cbd6d9ffc9d5bd766e7578:
+s is 'foo'
 
 |======|
 cd88fae66b137115974609078ab23681e519f3ae:

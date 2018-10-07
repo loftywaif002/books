@@ -26,7 +26,7 @@ func main() {
 	fmt.Printf("zero f32:        %v\n", zeroF32)
 	fmt.Printf("zero string:     %#v\n", zeroStr)
 	fmt.Printf("zero ptr:        %v\n", zeroPtr)
-	fmt.Printf("zero slice:      %#v\n", zeroSlice)
+	fmt.Printf("zero slice:      %v\n", zeroSlice)
 	fmt.Printf("zero map:        %#v\n", zeroMap)
 	fmt.Printf("zero interface:  %v\n", zeroInterface)
 	fmt.Printf("zero channel:    %v\n", zeroChan)

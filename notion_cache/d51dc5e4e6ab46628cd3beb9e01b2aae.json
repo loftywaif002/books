@@ -7,9 +7,11 @@
       "6d7f15e9-3dbd-4a16-9e66-5b0924d74a5d",
       "114a4428-a5cf-4b57-be49-a5e9a736e517",
       "231b09b1-cd68-4df9-9b73-cc4c9308e07d",
-      "f2dff9e3-b98d-4418-b53f-9c32dd074496",
       "fc22fc0e-1950-43c0-aa9c-f5a3622f7d36",
-      "5997e14a-844a-43f4-ac4d-e8dac1586529"
+      "7cb5e1eb-712d-416f-8332-db7153cc1506",
+      "5f79950d-ca96-49ce-8293-086b02762132",
+      "ba5f12b2-bc9f-4ad1-924c-517b89ca6009",
+      "dda0524c-4d8c-45a2-851e-96070c9002e7"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156024114,
@@ -20,7 +22,7 @@
     "id": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538782618798,
+    "last_edited_time": 1538888450639,
     "parent_id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
     "parent_table": "block",
     "properties": {
@@ -31,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 28,
+    "version": 39,
     "content_resolved": [
       {
         "alive": true,
@@ -99,7 +101,7 @@
         "created_time": 1532203284763,
         "id": "231b09b1-cd68-4df9-9b73-cc4c9308e07d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532203286276,
+        "last_edited_time": 1538888369152,
         "parent_id": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
         "parent_table": "block",
         "properties": {
@@ -121,7 +123,7 @@
           ]
         },
         "type": "text",
-        "version": 12,
+        "version": 14,
         "inline_content": [
           {
             "Text": "A "
@@ -132,67 +134,6 @@
           },
           {
             "Text": " statement transfers control to the statement with the corresponding label within the same function."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156024113,
-        "id": "f2dff9e3-b98d-4418-b53f-9c32dd074496",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156024113,
-        "parent_id": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Executing the "
-            ],
-            [
-              "goto",
-              [
-                [
-                  "c"
-                ]
-              ]
-            ],
-            [
-              " statement must not cause any variables to come into scope that were not already in scope at the point of the "
-            ],
-            [
-              "goto",
-              [
-                [
-                  "c"
-                ]
-              ]
-            ],
-            [
-              "."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "Executing the "
-          },
-          {
-            "Text": "goto",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " statement must not cause any variables to come into scope that were not already in scope at the point of the "
-          },
-          {
-            "Text": "goto",
-            "AttrFlags": 2
-          },
-          {
-            "Text": "."
           }
         ]
       },
@@ -232,15 +173,95 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156024114,
-        "id": "5997e14a-844a-43f4-ac4d-e8dac1586529",
-        "ignore_block_count": true,
+        "created_time": 1538888365750,
+        "id": "7cb5e1eb-712d-416f-8332-db7153cc1506",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538782622857,
+        "last_edited_time": 1538888365750,
         "parent_id": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
         "parent_table": "block",
         "type": "text",
-        "version": 3
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538888345984,
+        "id": "5f79950d-ca96-49ce-8293-086b02762132",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538888447232,
+        "parent_id": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "goto",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " can't skip over variable declaration:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 122,
+        "inline_content": [
+          {
+            "Text": "goto",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " can't skip over variable declaration:"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538888348478,
+        "format": {
+          "block_height": 302,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fgoto2.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "ba5f12b2-bc9f-4ad1-924c-517b89ca6009",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538888454982,
+        "parent_id": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fgoto2.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 302,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0130-if-switch-goto%2Fgoto2.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538888450639,
+        "id": "dda0524c-4d8c-45a2-851e-96070c9002e7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538888450639,
+        "parent_id": "d51dc5e4-e6ab-4662-8cd3-beb9e01b2aae",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "goto statements",

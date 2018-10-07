@@ -173,6 +173,11 @@ Medium: 1
 High: 2
 
 |======|
+13c25eef9774d5084b795085de5367a3f0891cc9:
+# command-line-arguments
+./goto2.go:8:7: goto end jumps over declaration of a at ./goto2.go:9:4
+
+|======|
 13f2d5701a48bb1e85a42763f6644adbe00b6aa7:
 i5: 0
 i5: 2
@@ -371,6 +376,12 @@ exit status 2
 2018/10/05 22:20:27 http.DefaultClient.Do() failed with:
 'Get https://httpbin.org/delay/3: context deadline exceeded'
 exit status 1
+
+|======|
+2b56deb559bda91a1712ec726d289bee750ffd24:
+i: 0
+i: 2
+i: 4
 
 |======|
 2b77c2d6fece3602815cbd5dd2c20b20693905d1:
@@ -908,6 +919,12 @@ intOp(2, 3) = 5
 intOp(2, 3) = 6
 
 |======|
+79a337246ee535e87eb6c5090448a748a441a606:
+i: 0
+i: 2
+i: 4
+
+|======|
 7a7648be68410edfbd85cccaecb814a4baa93d6c:
 go: downloading github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869
 2017-09-04 03:38:45
@@ -1426,6 +1443,11 @@ main.main()
 exit status 2
 
 |======|
+b53e73a2f9f89485da55d6380c6ca78e67bca466:
+# command-line-arguments
+./goto2.go:8:7: goto end jumps over declaration of a at ./goto2.go:9:4
+
+|======|
 b584a977dccaccb64b580993978b353ccffc5135:
 main.People{Person:[]main.Person{main.Person{Age:34, FirstName:"John", Address:main.Address{City:(*string)(0xc42000e3f0), State:"CA"}}, main.Person{Age:23, FirstName:"Julia", Address:main.Address{City:(*string)(nil), State:""}}}}
 
@@ -1468,6 +1490,11 @@ bb0a53a18dace5a9b13578a76d6ac8da730ed8d0:
 [6 5 4 3 5 6]
 [6 5 4 3 2 6]
 [6 5 4 3 2 1]
+
+|======|
+bd6fc1955acf3ce31e07a183a3a738273d879f2f:
+# command-line-arguments
+./goto2.go:8:7: goto end jumps over declaration of a at ./goto2.go:9:4
 
 |======|
 bf8d7915d2472e48681c54bf7b558789cb12fe31:
@@ -1556,6 +1583,12 @@ c93241c36a27a41b14acc3e905ceb2c438950d09:
 'is hello there?' contains 'hello'
 
 |======|
+c9913734fafe830af092d24bd727816c4e338a68:
+i: 0
+i: 2
+i: 4
+
+|======|
 caefdba615d6e54c39e64147fc516235196c1f06:
 key: three
 key: five
@@ -1596,6 +1629,12 @@ cde97106b07ef39f2c7606bd196c6099fda2b3f2:
 |======|
 d126733259bde546087a67d1dcdf1380f619b288:
 s2: 'replaced string replaced'
+
+|======|
+d1ad59798c7c221abdd7ca47bdfe28ee8482a8a0:
+i: 0
+i: 2
+i: 4
 
 |======|
 d34829e9206538637670821f915965ed806c180a:
@@ -1870,6 +1909,13 @@ f5e6e0df71e733d8b863db50b7fd40e3d257b14b:
 Rune at byte position 0 is U+65E5 '日'
 Rune at byte position 3 is U+672C '本'
 Rune at byte position 6 is U+8A9E '語'
+
+|======|
+f6f06b7c71fa05a6e6a126303ff4d08e61f8b5f2:
+i: 0
+i: 2
+i: 4
+i: 6
 
 |======|
 f84577116b5d022c08b86833f2a06800554c3636:

@@ -9,5 +9,5 @@ func main() {
 	a := 3
 	fmt.Printf("a: %d\n", a)
 end:
-	// :show end}
+	// :show end
 }

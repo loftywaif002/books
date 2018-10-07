@@ -1178,6 +1178,21 @@ File file_size.go is 500 bytes in size
 ./typed_vs_untyped.go:17:6: constant 345 overflows int8
 
 |======|
+9d63716a1139b86ed8a3f89e629bc5d07462a86b:
+zero bool:       false
+zero int:        0
+zero f32:        0
+zero string:     ""
+zero ptr:        <nil>
+zero slice:      []
+zero map:        map[string]int(nil)
+zero interface:  <nil>
+zero channel:    <nil>
+zero array:      [0 0 0 0 0]
+zero struct:     main.struc{a:0, b:""}
+zero function:   <nil>
+
+|======|
 9d76f8c7f44e0445cd7943ce29f3050fbad206cc:
 panic: interface conversion: interface {} is string, not int
 

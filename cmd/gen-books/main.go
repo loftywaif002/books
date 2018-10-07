@@ -219,6 +219,7 @@ func main() {
 			os.Exit(1)
 		}
 		// and fallthrough to re-generate books
+		flgUpdateOutput = true
 	}
 
 	initMinify()
@@ -233,13 +234,9 @@ func main() {
 	}
 	reloadCachedOutputFilesMust()
 
-	//maybeRemoveNotionCache()
 	for _, book := range books {
 		book.titleSafe = common.MakeURLSafe(book.Title)
 		downloadBook(book)
-	}
-
-	for _, book := range books {
 		loadSoContributorsMust(book)
 	}
 
@@ -247,6 +244,10 @@ func main() {
 	genNetlifyHeaders()
 	genNetlifyRedirects()
 	printAndClearErrors()
+
+	if flgRedownloadOne != "" {
+		saveCachedOutputFiles()
+	}
 
 	if flgUpdateOutput {
 		saveCachedOutputFiles()

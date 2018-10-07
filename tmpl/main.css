@@ -536,6 +536,12 @@ hr.toc-sep {
   margin-left: -8px;
   */
   font-size: 0.9em;
+
+  /* add visual indication that this is the end of the article */
+  /* TODO: doesn't look good if the last element is code snippet with output */
+  border-top: 1px solid rgba(1, 1, 1, 0.1);
+  border-top-style: dotted;
+  padding-top: 1em;
 }
 
 .chapters-toc {

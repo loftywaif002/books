@@ -24,7 +24,6 @@ type Page struct {
 
 	Book *Book
 
-	No int
 	// meta information extracted from page blocks
 	NotionID string
 	// for legacy pages this is an id. Might be used for redirects

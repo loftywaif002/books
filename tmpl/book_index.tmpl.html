@@ -82,13 +82,13 @@
       <div>
         {{range $idx, $page := .Book.RootPage.Pages}}
         <div id="chap-{{$idx}}">
-          <!-- <span class="chap-no">{{$idx}}.</span> -->
+          <!-- <span class="chap-no">{{inc $idx}}.</span> -->
           <a href="{{$page.URL}}">{{$page.Title}}</a>
         </div>
         <div>
           {{range $page.Pages}}
           <div class="toc-article">
-            <!-- <span class="chap-no">.No.</span> -->
+            <!-- <span class="chap-no">{{inc $idx}}</span> -->
             <a href="{{.URL}}">{{.Title}}</a>
           </div>
           {{end}}

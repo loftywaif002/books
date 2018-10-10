@@ -111,14 +111,14 @@
           {{range $idx, $page := .Siblings}} {{if eq $idx $currArticleNo}}
           <div>
             <!--
-              <span class="chap-no">.No</span>
+              <span class="chap-no">{{inc $idx}}</span>
             -->
             <span class="is-current">{{$page.Title}}</span>
           </div>
           {{else}}
           <div>
             <!--
-               <span class="chap-no">.No</span>
+               <span class="chap-no">{{inc $idx}}</span>
             -->
             <a href="{{$page.URL}}">{{$page.Title}}</a>
           </div>

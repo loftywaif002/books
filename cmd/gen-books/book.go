@@ -129,9 +129,8 @@ func (b *Book) GetAllPages() []*Page {
 			continue
 		}
 		seen[page] = true
-		for i, p := range page.Pages {
+		for _, p := range page.Pages {
 			p.Parent = page
-			p.No = i
 		}
 		pages = append(pages, page.Pages...)
 	}

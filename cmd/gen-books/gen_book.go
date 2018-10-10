@@ -289,7 +289,7 @@ func genBook(book *Book) {
 	addSitemapURL(book.CanonnicalURL())
 
 	for i, chapter := range book.Chapters() {
-		genChapter(chapter, i+1)
+		genChapter(chapter, i)
 	}
 
 	fmt.Printf("Generated book '%s' in %s\n", book.Title, time.Since(timeStart))

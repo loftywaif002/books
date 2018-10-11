@@ -6,6 +6,16 @@
       "8969ab00-0115-47b2-a31d-212826f6d933",
       "cebbde1e-7b85-489e-982d-cedb2d72b941",
       "3f01358c-b693-4409-a552-05942a939e51",
+      "5eb3df6e-604b-489b-974d-d563b6fab068",
+      "f9a44253-4a11-4f29-ba43-a5ce2c80c3eb",
+      "55e10341-121c-4076-89ec-f0b02f8aaea2",
+      "c2a52f6a-89f4-48db-9321-6dcdcb188688",
+      "aa3d082a-eb11-466c-9749-ad77abac7a6f",
+      "6f56c40f-6d18-4c0d-879c-8f7a9fbcf545",
+      "06da6b23-d924-412b-848a-4cc9dfdf6480",
+      "f97ba832-b80a-44c8-bed2-d13f0d533286",
+      "06b66d2d-e9d2-4e34-ac8b-0b24f199c8cc",
+      "9728d52f-5700-4b24-badf-39b13d5c1ccd",
       "8c9b829e-7ad8-4b34-90f1-2981274b6832",
       "329f7fd6-93eb-47f5-a132-2c5f56e7ae8c"
     ],
@@ -18,7 +28,7 @@
     "id": "fab58749-d09b-4e3a-ab2c-ca8cfa606765",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538721187343,
+    "last_edited_time": 1539248603244,
     "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
     "parent_table": "block",
     "properties": {
@@ -29,7 +39,7 @@
       ]
     },
     "type": "page",
-    "version": 25,
+    "version": 58,
     "content_resolved": [
       {
         "alive": true,
@@ -61,7 +71,7 @@
         "created_time": 1532195658226,
         "id": "cebbde1e-7b85-489e-982d-cedb2d72b941",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532234416363,
+        "last_edited_time": 1539248450633,
         "parent_id": "fab58749-d09b-4e3a-ab2c-ca8cfa606765",
         "parent_table": "block",
         "properties": {
@@ -72,7 +82,7 @@
           ]
         },
         "type": "text",
-        "version": 14,
+        "version": 16,
         "inline_content": [
           {
             "Text": "$SOId: 5eq100r9"
@@ -85,7 +95,359 @@
         "created_time": 1538721183918,
         "id": "3f01358c-b693-4409-a552-05942a939e51",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538721183918,
+        "last_edited_time": 1539247094306,
+        "parent_id": "fab58749-d09b-4e3a-ab2c-ca8cfa606765",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using fmt.Sscanf"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 79,
+        "inline_content": [
+          {
+            "Text": "Using fmt.Sscanf"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539247094520,
+        "id": "5eb3df6e-604b-489b-974d-d563b6fab068",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539247901126,
+        "parent_id": "fab58749-d09b-4e3a-ab2c-ca8cfa606765",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "fmt.Sscanf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is the reverse of "
+            ],
+            [
+              "fmt.Sprintf",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Format-text-7c4373926cc549d78a764c61682e6516"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ". Given a string and formatting directive you can parse string into components."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 301,
+        "inline_content": [
+          {
+            "Text": "fmt.Sscanf",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is the reverse of "
+          },
+          {
+            "Text": "fmt.Sprintf",
+            "AttrFlags": 2,
+            "Link": "https://www.notion.so/kjkpublic/Format-text-7c4373926cc549d78a764c61682e6516"
+          },
+          {
+            "Text": ". Given a string and formatting directive you can parse string into components."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539247979088,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fsscanf_simple.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "f9a44253-4a11-4f29-ba43-a5ce2c80c3eb",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539247981216,
+        "parent_id": "fab58749-d09b-4e3a-ab2c-ca8cfa606765",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fsscanf_simple.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fsscanf_simple.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539247996218,
+        "id": "55e10341-121c-4076-89ec-f0b02f8aaea2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539247996218,
+        "parent_id": "fab58749-d09b-4e3a-ab2c-ca8cfa606765",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539247994734,
+        "id": "c2a52f6a-89f4-48db-9321-6dcdcb188688",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539248085926,
+        "parent_id": "fab58749-d09b-4e3a-ab2c-ca8cfa606765",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "fmt.Sscanf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " supports the same formatting directives as "
+            ],
+            [
+              "fmt.Sprintf",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Format-text-7c4373926cc549d78a764c61682e6516"
+                ],
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 185,
+        "inline_content": [
+          {
+            "Text": "fmt.Sscanf",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " supports the same formatting directives as "
+          },
+          {
+            "Text": "fmt.Sprintf",
+            "AttrFlags": 2,
+            "Link": "https://www.notion.so/kjkpublic/Format-text-7c4373926cc549d78a764c61682e6516"
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539248087297,
+        "id": "aa3d082a-eb11-466c-9749-ad77abac7a6f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539248227061,
+        "parent_id": "fab58749-d09b-4e3a-ab2c-ca8cfa606765",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If formatting string doesn't match parsed string, "
+            ],
+            [
+              "fmt.Sscanf",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " returns an error. In our examples the error is "
+            ],
+            [
+              "EOF",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " because we wanted to extract more values than were in the string."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 392,
+        "inline_content": [
+          {
+            "Text": "If formatting string doesn't match parsed string, "
+          },
+          {
+            "Text": "fmt.Sscanf",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " returns an error. In our examples the error is "
+          },
+          {
+            "Text": "EOF",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " because we wanted to extract more values than were in the string."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539248227693,
+        "id": "6f56c40f-6d18-4c0d-879c-8f7a9fbcf545",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539248244969,
+        "parent_id": "fab58749-d09b-4e3a-ab2c-ca8cfa606765",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Using strings.Split"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 83,
+        "inline_content": [
+          {
+            "Text": "Using strings.Split"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539247994159,
+        "id": "06da6b23-d924-412b-848a-4cc9dfdf6480",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539248603244,
+        "parent_id": "fab58749-d09b-4e3a-ab2c-ca8cfa606765",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "string.Split",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " allows to split a string by a separator."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 271,
+        "inline_content": [
+          {
+            "Text": "string.Split",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " allows to split a string by a separator."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539248403827,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fsplit.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "f97ba832-b80a-44c8-bed2-d13f0d533286",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539248405919,
+        "parent_id": "fab58749-d09b-4e3a-ab2c-ca8cfa606765",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fsplit.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fsplit.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539248596171,
+        "id": "06b66d2d-e9d2-4e34-ac8b-0b24f199c8cc",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539248596208,
+        "parent_id": "fab58749-d09b-4e3a-ab2c-ca8cfa606765",
+        "parent_table": "block",
+        "type": "text",
+        "version": 6
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539247993400,
+        "id": "9728d52f-5700-4b24-badf-39b13d5c1ccd",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539247993400,
         "parent_id": "fab58749-d09b-4e3a-ab2c-ca8cfa606765",
         "parent_table": "block",
         "type": "text",
@@ -97,21 +459,21 @@
         "created_time": 1532195661101,
         "id": "8c9b829e-7ad8-4b34-90f1-2981274b6832",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538721185167,
+        "last_edited_time": 1539248463587,
         "parent_id": "fab58749-d09b-4e3a-ab2c-ca8cfa606765",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "TODO: write about fmt.Sscanf, tokenizer, string.Split"
+              "TODO: tokenizer"
             ]
           ]
         },
         "type": "text",
-        "version": 8,
+        "version": 84,
         "inline_content": [
           {
-            "Text": "TODO: write about fmt.Sscanf, tokenizer, string.Split"
+            "Text": "TODO: tokenizer"
           }
         ]
       },

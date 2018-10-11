@@ -1525,6 +1525,10 @@ bb0a53a18dace5a9b13578a76d6ac8da730ed8d0:
 [6 5 4 3 2 1]
 
 |======|
+bc186a4a81d53dfdbed05dc7d186a355d4451d88:
+a: []string{"this", " is", " a", " string"}
+
+|======|
 bd6fc1955acf3ce31e07a183a3a738273d879f2f:
 # command-line-arguments
 ./goto2.go:8:7: goto end jumps over declaration of a at ./goto2.go:9:4
@@ -1975,6 +1979,11 @@ f94b339e4d0603d62712a1e78cf4ddcffd4dcd8c:
 Byte at index 0 is s (0x73)
 Byte at index 1 is t (0x74)
 Byte at index 2 is r (0x72)
+
+|======|
+f9ccd164eeb18fb637c6fd7d8310d45d010a61ee:
+i: 48, f: 123.450000, extracted 2 values
+second fmt.Sscanf failed with EOF
 
 |======|
 fa1d134788406e223925632843459dac66305b8b:

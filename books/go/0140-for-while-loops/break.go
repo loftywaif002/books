@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	// show start
+	// :show start
 	i := 0
 	for {
 		i++
@@ -12,5 +12,5 @@ func main() {
 		}
 		fmt.Printf("i: %d\n", i)
 	}
-	// show end
+	// :show end
 }

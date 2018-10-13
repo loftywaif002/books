@@ -7,15 +7,14 @@
       "9487bf58-b1d3-429e-a9a8-dc698e2cc960",
       "90fb5a28-99f3-47e6-a41e-89eec416ce1c",
       "f282e6bf-6505-4b06-bc9c-9d4f2c6b0ee5",
-      "809bc090-e690-4f90-b38d-a3fb2e57de90",
       "7cc42ed9-3d18-4037-b1b1-3457c58a9d07",
       "bdc6e4a7-f087-47a8-addc-5b940a9a61b0",
       "ccaebde5-5bf1-44e2-ab66-835f4385a99d",
-      "32fcc8e0-f9a4-43b6-995d-afc0c0e16980",
-      "7c135f2e-3352-4c7a-b56d-2410e7bb668c",
+      "6cd8d541-f6fe-43d4-acf0-1c0624cc7c9a",
       "9931476b-8cf0-437d-9dbf-b0020886ec62",
       "a6f01d47-472b-4df8-b3f7-8cf7705f1cb2",
       "75e59fe6-de62-4f39-856f-bd96637fcb4f",
+      "c85caa98-b24c-4287-8e3f-719ead5f1974",
       "b6966b6f-6834-4264-a40e-7f9da38e8404",
       "b8e61a53-1951-436e-a485-18c77697c930",
       "ec31d4b2-6006-412f-a728-7d6b34731589"
@@ -29,7 +28,7 @@
     "id": "20bfd8fa-4545-4479-954a-6814eeeef716",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236143788,
+    "last_edited_time": 1538897412672,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -40,7 +39,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -130,42 +129,17 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156053150,
-        "id": "809bc090-e690-4f90-b38d-a3fb2e57de90",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156053150,
-        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "In C++ you would use RAII to ensure a resource is always released."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "In C++ you would use RAII to ensure a resource is always released."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532156053151,
         "id": "7cc42ed9-3d18-4037-b1b1-3457c58a9d07",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156053151,
+        "last_edited_time": 1538897284245,
         "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "In Go you use "
+              "You can use "
             ],
             [
               "defer",
@@ -176,22 +150,22 @@
               ]
             ],
             [
-              " statement."
+              " statement to place code releasing a resource close to code that acquires the resource:"
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 181,
         "inline_content": [
           {
-            "Text": "In Go you use "
+            "Text": "You can use "
           },
           {
             "Text": "defer",
             "AttrFlags": 2
           },
           {
-            "Text": " statement."
+            "Text": " statement to place code releasing a resource close to code that acquires the resource:"
           }
         ]
       },
@@ -229,7 +203,7 @@
         "id": "ccaebde5-5bf1-44e2-ab66-835f4385a99d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236173561,
+        "last_edited_time": 1538897319122,
         "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
         "parent_table": "block",
         "properties": {
@@ -260,32 +234,17 @@
               " will be called before we exit "
             ],
             [
-              "foo",
+              "foo.",
               [
                 [
                   "c"
                 ]
               ]
-            ],
-            [
-              ", even if a "
-            ],
-            [
-              "panic",
-              [
-                [
-                  "a",
-                  "https://www.notion.so/kjkpublic/Panic-and-recover-dda02e368b3048a5a69b81c56bfa6dbb"
-                ]
-              ]
-            ],
-            [
-              " happens."
             ]
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 12,
         "inline_content": [
           {
             "Text": "In the above example, "
@@ -305,29 +264,18 @@
             "Text": " will be called before we exit "
           },
           {
-            "Text": "foo",
+            "Text": "foo.",
             "AttrFlags": 2
-          },
-          {
-            "Text": ", even if a "
-          },
-          {
-            "Text": "panic",
-            "Link": "https://www.notion.so/kjkpublic/Panic-and-recover-dda02e368b3048a5a69b81c56bfa6dbb"
-          },
-          {
-            "Text": " happens."
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156053152,
-        "id": "32fcc8e0-f9a4-43b6-995d-afc0c0e16980",
-        "ignore_block_count": true,
+        "created_time": 1538897319122,
+        "id": "6cd8d541-f6fe-43d4-acf0-1c0624cc7c9a",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156053152,
+        "last_edited_time": 1538897448245,
         "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
         "parent_table": "block",
         "properties": {
@@ -355,7 +303,7 @@
               ]
             ],
             [
-              " makes it easy to audit the code to verify "
+              " makes it easy to audit the code and verify "
             ],
             [
               "Close",
@@ -366,12 +314,12 @@
               ]
             ],
             [
-              " is always called."
+              " is always called. This is especially useful for large functions with multiple exit points."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 308,
         "inline_content": [
           {
             "Text": "Placing "
@@ -388,39 +336,14 @@
             "AttrFlags": 2
           },
           {
-            "Text": " makes it easy to audit the code to verify "
+            "Text": " makes it easy to audit the code and verify "
           },
           {
             "Text": "Close",
             "AttrFlags": 2
           },
           {
-            "Text": " is always called."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156053152,
-        "id": "7c135f2e-3352-4c7a-b56d-2410e7bb668c",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156053152,
-        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "This is especially useful for large functions with multiple exit points."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "This is especially useful for large functions with multiple exit points."
+            "Text": " is always called. This is especially useful for large functions with multiple exit points."
           }
         ]
       },
@@ -431,7 +354,7 @@
         "id": "9931476b-8cf0-437d-9dbf-b0020886ec62",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156053153,
+        "last_edited_time": 1538897384938,
         "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
         "parent_table": "block",
         "properties": {
@@ -442,7 +365,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 28,
         "inline_content": [
           {
             "Text": "If deferred code is more complicated, you can use a function literal:"
@@ -483,7 +406,7 @@
         "id": "75e59fe6-de62-4f39-856f-bd96637fcb4f",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156053153,
+        "last_edited_time": 1538896211122,
         "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
         "parent_table": "block",
         "properties": {
@@ -500,12 +423,23 @@
               ]
             ],
             [
-              " statements. They’ll be called in reverse order."
+              " statements. They’ll be called in reverse order i.e. "
+            ],
+            [
+              "defer",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " declared first will be executed last."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 253,
         "inline_content": [
           {
             "Text": "You can use multiple "
@@ -515,7 +449,57 @@
             "AttrFlags": 2
           },
           {
-            "Text": " statements. They’ll be called in reverse order."
+            "Text": " statements. They’ll be called in reverse order i.e. "
+          },
+          {
+            "Text": "defer",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " declared first will be executed last."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538897289469,
+        "id": "c85caa98-b24c-4287-8e3f-719ead5f1974",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538897460934,
+        "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Deferred functions are called even if a "
+            ],
+            [
+              "panic",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Panic-and-recover-dda02e368b3048a5a69b81c56bfa6dbb"
+                ]
+              ]
+            ],
+            [
+              " happens."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 50,
+        "inline_content": [
+          {
+            "Text": "Deferred functions are called even if a "
+          },
+          {
+            "Text": "panic",
+            "Link": "https://www.notion.so/kjkpublic/Panic-and-recover-dda02e368b3048a5a69b81c56bfa6dbb"
+          },
+          {
+            "Text": " happens."
           }
         ]
       },
@@ -542,19 +526,19 @@
         "id": "b8e61a53-1951-436e-a485-18c77697c930",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785797984,
+        "last_edited_time": 1538897584168,
         "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Defer basics"
+              "Defer in depth"
             ]
           ]
         },
         "type": "page",
-        "version": 49,
-        "title": "Defer basics",
+        "version": 104,
+        "title": "Defer in depth",
         "format_page": {
           "page_cover": "",
           "page_cover_position": 0,
@@ -575,7 +559,7 @@
         "id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785866663,
+        "last_edited_time": 1538897065623,
         "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
         "parent_table": "block",
         "properties": {
@@ -586,7 +570,7 @@
           ]
         },
         "type": "page",
-        "version": 44,
+        "version": 48,
         "title": "Defer gotchas",
         "format_page": {
           "page_cover": "",

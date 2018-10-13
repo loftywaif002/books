@@ -340,13 +340,13 @@
         "id": "28370587-d57d-4c50-b77c-f30e16803c43",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156056194,
+        "last_edited_time": 1538897918873,
         "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "However, while those other languages often use exception handling for flow control, as a way to propagate errors up the call chain, using "
+              "However, while those other languages often use exceptions as a way to propagate errors up the call chain, using "
             ],
             [
               "panic",
@@ -362,10 +362,10 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 211,
         "inline_content": [
           {
-            "Text": "However, while those other languages often use exception handling for flow control, as a way to propagate errors up the call chain, using "
+            "Text": "However, while those other languages often use exceptions as a way to propagate errors up the call chain, using "
           },
           {
             "Text": "panic",
@@ -586,7 +586,7 @@
         "id": "bd92a13d-b39e-42d5-9cf9-f7ee654cebce",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786068464,
+        "last_edited_time": 1538898714846,
         "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
         "parent_table": "block",
         "properties": {
@@ -597,7 +597,7 @@
           ]
         },
         "type": "page",
-        "version": 57,
+        "version": 78,
         "title": "Use cases for panic",
         "format_page": {
           "page_cover": "",

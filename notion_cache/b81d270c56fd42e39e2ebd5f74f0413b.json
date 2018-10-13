@@ -7,6 +7,7 @@
       "9d40568d-7b0b-48be-a8bf-e2fa3d2a18d8",
       "2c5959d8-0dc4-4c8b-93ee-3e0b710a1309",
       "0500145a-75da-4464-bca0-d25da19af112",
+      "bf5c8f07-5bfd-4494-ba0a-c1ea53ed9c2e",
       "33d34ee0-c890-40fb-8bd2-32d4309ba897",
       "df61a73d-6014-4025-91ac-24c74aebf20a"
     ],
@@ -19,7 +20,7 @@
     "id": "b81d270c-56fd-42e3-9e2e-bd5f74f0413b",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538782226961,
+    "last_edited_time": 1538893747303,
     "parent_id": "c3315892-5082-48fd-b19b-663bf8bff028",
     "parent_table": "block",
     "properties": {
@@ -30,7 +31,7 @@
       ]
     },
     "type": "page",
-    "version": 28,
+    "version": 35,
     "content_resolved": [
       {
         "alive": true,
@@ -98,13 +99,13 @@
         "created_time": 1532197407528,
         "id": "0500145a-75da-4464-bca0-d25da19af112",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235681165,
+        "last_edited_time": 1538893747303,
         "parent_id": "b81d270c-56fd-42e3-9e2e-bd5f74f0413b",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Type switch achieves the same thing as "
+              "Type switch achieves similar thing as "
             ],
             [
               "type assertion",
@@ -116,22 +117,64 @@
               ]
             ],
             [
-              "."
+              ". "
             ]
           ]
         },
         "type": "text",
-        "version": 15,
+        "version": 307,
         "inline_content": [
           {
-            "Text": "Type switch achieves the same thing as "
+            "Text": "Type switch achieves similar thing as "
           },
           {
             "Text": "type assertion",
             "Link": "https://www.notion.so/kjkpublic/Type-assertion-e945ebc2e0074ce49cef592e6c0f956e"
           },
           {
-            "Text": "."
+            "Text": ". "
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538893747303,
+        "id": "bf5c8f07-5bfd-4494-ba0a-c1ea53ed9c2e",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538893747325,
+        "parent_id": "b81d270c-56fd-42e3-9e2e-bd5f74f0413b",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "If you have an "
+            ],
+            [
+              "interface",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " value you can switch based on the underlying type of the value:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 6,
+        "inline_content": [
+          {
+            "Text": "If you have an "
+          },
+          {
+            "Text": "interface",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " value you can switch based on the underlying type of the value:"
           }
         ]
       },

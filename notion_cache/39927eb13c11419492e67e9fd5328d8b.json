@@ -5,11 +5,10 @@
     "content": [
       "7c78e331-a7e5-4dbf-8efd-a18da30edb31",
       "2993c2e3-fec9-42f4-94ab-16e612f6a289",
-      "5524991f-0537-4778-8e51-345086cb74f0",
+      "9d3408aa-d63b-4456-a0b1-0279e7b2e420",
       "e62d9b21-b14d-476a-9f2a-0f44e1f45375",
       "bb28f373-63bd-4f90-bb26-4a8b804d706d",
       "e063e057-2224-410f-a9ab-9547dd10e7dd",
-      "9dbdd574-ab4f-4eda-88fb-78f97d13444e",
       "a5d7cd65-6def-4d03-ad9c-4284486f2039",
       "c0b154a8-5635-41f5-ba96-96c04eefdd32",
       "040e002b-f047-411d-8b68-728afa352438",
@@ -17,7 +16,6 @@
       "7b98b7e1-e73b-4bc2-9c57-1b3e4d91ebe4",
       "306c2295-a17a-41d6-8591-8b941695babc",
       "6477bdd3-6eba-42af-9d06-4f7f5d1a0295",
-      "9c36d19e-6b24-4475-828b-01136fe4ba6d",
       "0037c57a-f6ab-461d-92e2-d65b444e3860",
       "20f23ec6-618c-45ef-8430-9d828ee44b4d",
       "6524619d-5ab7-4fb1-9ecd-df9a9b1093b4",
@@ -39,7 +37,7 @@
     "id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538785271041,
+    "last_edited_time": 1538895523668,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -50,7 +48,7 @@
       ]
     },
     "type": "page",
-    "version": 49,
+    "version": 65,
     "content_resolved": [
       {
         "alive": true,
@@ -103,14 +101,14 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532204991938,
-        "id": "5524991f-0537-4778-8e51-345086cb74f0",
+        "created_time": 1538895311818,
+        "id": "9d3408aa-d63b-4456-a0b1-0279e7b2e420",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532204991938,
+        "last_edited_time": 1538895363001,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "type": "text",
-        "version": 4
+        "version": 6
       },
       {
         "alive": true,
@@ -176,42 +174,11 @@
         "id": "e063e057-2224-410f-a9ab-9547dd10e7dd",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538784966864,
+        "last_edited_time": 1538895372472,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "type": "text",
-        "version": 3
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156044167,
-        "id": "9dbdd574-ab4f-4eda-88fb-78f97d13444e",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156044167,
-        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Important notes about error handling:",
-              [
-                [
-                  "b"
-                ]
-              ]
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "Important notes about error handling:",
-            "AttrFlags": 1
-          }
-        ]
+        "version": 5
       },
       {
         "alive": true,
@@ -245,7 +212,7 @@
         "id": "c0b154a8-5635-41f5-ba96-96c04eefdd32",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1533026440503,
+        "last_edited_time": 1538895405471,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "properties": {
@@ -263,12 +230,12 @@
               ]
             ],
             [
-              " but it’s not supposed to be used frequently."
+              " but it should only be used very rarely."
             ]
           ]
         },
         "type": "text",
-        "version": 4,
+        "version": 137,
         "inline_content": [
           {
             "Text": "Go also includes exception handling with "
@@ -278,7 +245,7 @@
             "Link": "https://www.notion.so/kjkpublic/Panic-and-recover-dda02e368b3048a5a69b81c56bfa6dbb"
           },
           {
-            "Text": " but it’s not supposed to be used frequently."
+            "Text": " but it should only be used very rarely."
           }
         ]
       },
@@ -394,13 +361,25 @@
         "id": "7b98b7e1-e73b-4bc2-9c57-1b3e4d91ebe4",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156044169,
+        "last_edited_time": 1538895467073,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "You can use your own types as "
+              "You can "
+            ],
+            [
+              "create your own error types",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/kjkpublic/Custom-error-types-78f362ef46d24765b278a8d4f57adb53"
+                ]
+              ]
+            ],
+            [
+              " as "
             ],
             [
               "error",
@@ -449,10 +428,17 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 28,
         "inline_content": [
           {
-            "Text": "You can use your own types as "
+            "Text": "You can "
+          },
+          {
+            "Text": "create your own error types",
+            "Link": "https://www.notion.so/kjkpublic/Custom-error-types-78f362ef46d24765b278a8d4f57adb53"
+          },
+          {
+            "Text": " as "
           },
           {
             "Text": "error",
@@ -491,13 +477,13 @@
         "id": "306c2295-a17a-41d6-8591-8b941695babc",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156044169,
+        "last_edited_time": 1538895482322,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "To indicate no errors, return "
+              "To indicate no error, return "
             ],
             [
               "nil",
@@ -513,10 +499,10 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
-            "Text": "To indicate no errors, return "
+            "Text": "To indicate no error, return "
           },
           {
             "Text": "nil",
@@ -534,46 +520,21 @@
         "id": "6477bdd3-6eba-42af-9d06-4f7f5d1a0295",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156044170,
+        "last_edited_time": 1538895523668,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "If a function returns errors, it should always be the last returned value."
+              "If a function returns an error, it should always be the last returned value."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 11,
         "inline_content": [
           {
-            "Text": "If a function returns errors, it should always be the last returned value."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156044171,
-        "id": "9c36d19e-6b24-4475-828b-01136fe4ba6d",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156044171,
-        "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Often you want to propagate error value up to the caller until a point in your code where you want to handle it."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "Often you want to propagate error value up to the caller until a point in your code where you want to handle it."
+            "Text": "If a function returns an error, it should always be the last returned value."
           }
         ]
       },
@@ -715,19 +676,19 @@
         "id": "b3617dee-1c06-4016-8303-7d8408e76a5f",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236078897,
+        "last_edited_time": 1538895567328,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Creating errors"
+              "Creating error values"
             ]
           ]
         },
         "type": "page",
-        "version": 21,
-        "title": "Creating errors",
+        "version": 39,
+        "title": "Creating error values",
         "format_page": {
           "page_cover": "",
           "page_cover_position": 0,
@@ -748,7 +709,7 @@
         "id": "78f362ef-46d2-4765-b278-a8d4f57adb53",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785493583,
+        "last_edited_time": 1538895794580,
         "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
         "parent_table": "block",
         "properties": {
@@ -759,7 +720,7 @@
           ]
         },
         "type": "page",
-        "version": 58,
+        "version": 64,
         "title": "Custom error types",
         "format_page": {
           "page_cover": "",

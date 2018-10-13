@@ -227,21 +227,21 @@
         "created_time": 1538807311010,
         "id": "b968fe12-4935-48b5-b7a9-23b4272d3c67",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538807339344,
+        "last_edited_time": 1539249635075,
         "parent_id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Append a slice"
+              "Append a slice to a slice"
             ]
           ]
         },
         "type": "sub_header",
-        "version": 77,
+        "version": 99,
         "inline_content": [
           {
-            "Text": "Append a slice"
+            "Text": "Append a slice to a slice"
           }
         ]
       },

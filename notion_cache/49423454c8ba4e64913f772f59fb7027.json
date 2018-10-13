@@ -7,7 +7,6 @@
       "8d6396f8-112d-4dd8-990a-5285d9932faf",
       "26b730db-37ab-4982-b437-71537bb0f5a5",
       "508a4482-ad59-4fdb-bf57-a95d507e7948",
-      "09d643bc-4236-4c21-b372-77378c6b27d5",
       "42853912-b09b-471b-a124-8c2cb73152c3",
       "ad0ba0f4-8425-4a06-a133-4ac53fc9c13e",
       "7926c607-ea4f-434d-993f-099cbba02d48",
@@ -22,7 +21,7 @@
     "id": "49423454-c8ba-4e64-913f-772f59fb7027",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532235792881,
+    "last_edited_time": 1538887002897,
     "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
     "parent_table": "block",
     "properties": {
@@ -33,7 +32,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 25,
     "content_resolved": [
       {
         "alive": true,
@@ -101,7 +100,7 @@
         "created_time": 1532203611910,
         "id": "508a4482-ad59-4fdb-bf57-a95d507e7948",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532203613189,
+        "last_edited_time": 1538887058533,
         "parent_id": "49423454-c8ba-4e64-913f-772f59fb7027",
         "parent_table": "block",
         "properties": {
@@ -118,37 +117,8 @@
               ]
             ],
             [
-              " loops."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 12,
-        "inline_content": [
-          {
-            "Text": "Go doesn’t have "
-          },
-          {
-            "Text": "while",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " loops."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156028179,
-        "id": "09d643bc-4236-4c21-b372-77378c6b27d5",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156028179,
-        "parent_id": "49423454-c8ba-4e64-913f-772f59fb7027",
-        "parent_table": "block",
-        "properties": {
-          "title": [
+              " loops because they can be written as "
+            ],
             [
               "for",
               [
@@ -158,33 +128,25 @@
               ]
             ],
             [
-              " loop is powerful enough to express "
-            ],
-            [
-              "while",
-              [
-                [
-                  "c"
-                ]
-              ]
-            ],
-            [
               " loops."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 262,
         "inline_content": [
           {
-            "Text": "for",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " loop is powerful enough to express "
+            "Text": "Go doesn’t have "
           },
           {
             "Text": "while",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " loops because they can be written as "
+          },
+          {
+            "Text": "for",
             "AttrFlags": 2
           },
           {
@@ -224,13 +186,13 @@
         "id": "ad0ba0f4-8425-4a06-a133-4ac53fc9c13e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532203601374,
+        "last_edited_time": 1538886984343,
         "parent_id": "49423454-c8ba-4e64-913f-772f59fb7027",
         "parent_table": "block",
         "properties": {
           "language": [
             [
-              "Go"
+              "C++"
             ]
           ],
           "title": [
@@ -240,9 +202,9 @@
           ]
         },
         "type": "code",
-        "version": 3,
+        "version": 5,
         "code": "int n = 0;\nwhile (n \u003c 3) {\n    printf(\"n: %d\\n\", n);\n    n++;\n}",
-        "code_language": "Go"
+        "code_language": "C++"
       },
       {
         "alive": true,
@@ -251,13 +213,13 @@
         "id": "7926c607-ea4f-434d-993f-099cbba02d48",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156028181,
+        "last_edited_time": 1538886977352,
         "parent_id": "49423454-c8ba-4e64-913f-772f59fb7027",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "can be expressed as "
+              "can be written as "
             ],
             [
               "for",
@@ -273,10 +235,10 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 20,
         "inline_content": [
           {
-            "Text": "can be expressed as "
+            "Text": "can be written as "
           },
           {
             "Text": "for",

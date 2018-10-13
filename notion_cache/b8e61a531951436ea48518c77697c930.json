@@ -18,10 +18,7 @@
       "213f4702-bbcd-477c-84d4-51ee3595c261",
       "aa82b394-6484-49ad-bf76-f3ec99a5be46",
       "28a784bc-229e-4627-ac94-1eb5456bf304",
-      "02409bef-4a4f-4569-b83a-4415f63dce78",
-      "3ad926bd-c256-4554-9ce9-13a5137d9367",
-      "8703941f-5ae1-42c5-87da-2163ede6a845",
-      "6ce11a03-d9b4-439e-be72-2d39ef03e9cd"
+      "02409bef-4a4f-4569-b83a-4415f63dce78"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156054135,
@@ -32,18 +29,18 @@
     "id": "b8e61a53-1951-436e-a485-18c77697c930",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538785797984,
+    "last_edited_time": 1538897584168,
     "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
     "parent_table": "block",
     "properties": {
       "title": [
         [
-          "Defer basics"
+          "Defer in depth"
         ]
       ]
     },
     "type": "page",
-    "version": 49,
+    "version": 104,
     "content_resolved": [
       {
         "alive": true,
@@ -378,7 +375,7 @@
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1538785758670,
         "format": {
-          "block_height": 320,
+          "block_height": 473,
           "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics2.go",
           "block_full_width": false,
           "block_page_width": true,
@@ -386,7 +383,7 @@
         },
         "id": "10d5c99a-9cf5-4570-9748-ca3e15103b22",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785760404,
+        "last_edited_time": 1538896096299,
         "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
         "parent_table": "block",
         "properties": {
@@ -397,10 +394,10 @@
           ]
         },
         "type": "embed",
-        "version": 8,
+        "version": 10,
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
+          "block_height": 473,
           "block_page_width": true,
           "block_preserve_scale": false,
           "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics2.go"
@@ -426,13 +423,13 @@
         "id": "213f4702-bbcd-477c-84d4-51ee3595c261",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785780458,
+        "last_edited_time": 1538897756826,
         "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Note that deferred functions have their arguments evaluated at the time "
+              "Deferred functions have their arguments evaluated at the time "
             ],
             [
               "defer",
@@ -448,10 +445,10 @@
           ]
         },
         "type": "text",
-        "version": 3,
+        "version": 6,
         "inline_content": [
           {
-            "Text": "Note that deferred functions have their arguments evaluated at the time "
+            "Text": "Deferred functions have their arguments evaluated at the time "
           },
           {
             "Text": "defer",
@@ -502,7 +499,7 @@
         "id": "28a784bc-229e-4627-ac94-1eb5456bf304",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785797984,
+        "last_edited_time": 1538897557221,
         "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
         "parent_table": "block",
         "properties": {
@@ -513,7 +510,7 @@
           ]
         },
         "type": "text",
-        "version": 3,
+        "version": 7,
         "inline_content": [
           {
             "Text": "If a function has named return values, a deferred anonymous function within that function can access and update the returned value even after the function has returned:"
@@ -552,122 +549,9 @@
           "block_preserve_scale": false,
           "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics4.go"
         }
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156054134,
-        "id": "3ad926bd-c256-4554-9ce9-13a5137d9367",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156054134,
-        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Finally, a "
-            ],
-            [
-              "defer",
-              [
-                [
-                  "c"
-                ]
-              ]
-            ],
-            [
-              " statement is generally used operations that often occur together. For example: - open and close a file - connect and disconnect - lock and unlock a mutex - mark a waitgroup as done ("
-            ],
-            [
-              "defer wg.Done()",
-              [
-                [
-                  "c"
-                ]
-              ]
-            ],
-            [
-              ")"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "Finally, a "
-          },
-          {
-            "Text": "defer",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " statement is generally used operations that often occur together. For example: - open and close a file - connect and disconnect - lock and unlock a mutex - mark a waitgroup as done ("
-          },
-          {
-            "Text": "defer wg.Done()",
-            "AttrFlags": 2
-          },
-          {
-            "Text": ")"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156054134,
-        "id": "8703941f-5ae1-42c5-87da-2163ede6a845",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156054134,
-        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "This use ensures proper release of system resources irrespective of the flow of execution."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "This use ensures proper release of system resources irrespective of the flow of execution."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156054135,
-        "id": "6ce11a03-d9b4-439e-be72-2d39ef03e9cd",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532205326969,
-        "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
-        "parent_table": "block",
-        "properties": {
-          "language": [
-            [
-              "Go"
-            ]
-          ],
-          "title": [
-            [
-              "resp, err := http.Get(url)\nif err != nil {\nreturn err\n}\ndefer resp.Body.Close() // Body will always get closed"
-            ]
-          ]
-        },
-        "type": "code",
-        "version": 3,
-        "code": "resp, err := http.Get(url)\nif err != nil {\nreturn err\n}\ndefer resp.Body.Close() // Body will always get closed",
-        "code_language": "Go"
       }
     ],
-    "title": "Defer basics",
+    "title": "Defer in depth",
     "format_page": {
       "page_cover": "",
       "page_cover_position": 0,

@@ -16,12 +16,14 @@
       "eea57e50-6c8e-46c1-bd98-ef74715e653e",
       "c8f78d5c-a08b-402e-bf70-3b8e9b802a0e",
       "cf939c79-1ac7-40df-b405-2d5f1411f93f",
+      "63ea9e2c-1ec0-44e4-8cd9-fc5e70e8fe47",
       "a880b7d3-b143-4e51-a29d-a5514e98fedb",
       "7a050fff-add0-4778-8b45-315756c4a195",
       "a66d10df-e3b7-46f1-8d99-c2d15f38b0fc",
       "f717d873-ee7d-4691-a5ed-b4ef8e77f2dc",
       "82a35244-f0a2-44db-98a3-2eaa93283220",
-      "1b73cd61-c50c-4917-8e41-d49c8fe52954"
+      "1b73cd61-c50c-4917-8e41-d49c8fe52954",
+      "7d44be2b-ba84-4a5a-8bb4-486d86abb639"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156055187,
@@ -32,7 +34,7 @@
     "id": "ec31d4b2-6006-412f-a728-7d6b34731589",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538785866663,
+    "last_edited_time": 1538897065623,
     "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
     "parent_table": "block",
     "properties": {
@@ -43,7 +45,7 @@
       ]
     },
     "type": "page",
-    "version": 44,
+    "version": 48,
     "content_resolved": [
       {
         "alive": true,
@@ -288,7 +290,7 @@
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1538785819271,
         "format": {
-          "block_height": 320,
+          "block_height": 377,
           "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha.go",
           "block_full_width": false,
           "block_page_width": true,
@@ -296,7 +298,7 @@
         },
         "id": "9b897c02-1b7f-4f55-9444-d374c94e40af",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785820457,
+        "last_edited_time": 1538896229925,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
@@ -307,10 +309,10 @@
           ]
         },
         "type": "embed",
-        "version": 8,
+        "version": 10,
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
+          "block_height": 377,
           "block_page_width": true,
           "block_preserve_scale": false,
           "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha.go"
@@ -366,21 +368,21 @@
         "id": "eea57e50-6c8e-46c1-bd98-ef74715e653e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785845375,
+        "last_edited_time": 1538896494562,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Deferred function arguments"
+              "Using outside variables in defer functions"
             ]
           ]
         },
         "type": "sub_header",
-        "version": 3,
+        "version": 115,
         "inline_content": [
           {
-            "Text": "Deferred function arguments"
+            "Text": "Using outside variables in defer functions"
           }
         ]
       },
@@ -424,13 +426,13 @@
         "id": "cf939c79-1ac7-40df-b405-2d5f1411f93f",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156055185,
+        "last_edited_time": 1538896582963,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "You might have expected that this code will print "
+              "A common mistake is to think that this code will print "
             ],
             [
               "0",
@@ -452,7 +454,7 @@
               ]
             ],
             [
-              ", because those are the values of "
+              ". Those are the values of "
             ],
             [
               "i",
@@ -463,7 +465,7 @@
               ]
             ],
             [
-              " when we evaluate "
+              " when we see "
             ],
             [
               "defer",
@@ -479,10 +481,10 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 160,
         "inline_content": [
           {
-            "Text": "You might have expected that this code will print "
+            "Text": "A common mistake is to think that this code will print "
           },
           {
             "Text": "0",
@@ -496,14 +498,14 @@
             "AttrFlags": 2
           },
           {
-            "Text": ", because those are the values of "
+            "Text": ". Those are the values of "
           },
           {
             "Text": "i",
             "AttrFlags": 2
           },
           {
-            "Text": " when we evaluate "
+            "Text": " when we see "
           },
           {
             "Text": "defer",
@@ -517,17 +519,16 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156055185,
-        "id": "a880b7d3-b143-4e51-a29d-a5514e98fedb",
-        "ignore_block_count": true,
+        "created_time": 1538896552167,
+        "id": "63ea9e2c-1ec0-44e4-8cd9-fc5e70e8fe47",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156055185,
+        "last_edited_time": 1538896781135,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "This is how the code looks like after compiler rewrites the loop to implement "
+              "However, "
             ],
             [
               "defer",
@@ -538,22 +539,65 @@
               ]
             ],
             [
-              ":"
+              " creates a closure which only captures variable "
+            ],
+            [
+              "i",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " by a reference. It doesn't capture the value of the variable."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 569,
         "inline_content": [
           {
-            "Text": "This is how the code looks like after compiler rewrites the loop to implement "
+            "Text": "However, "
           },
           {
             "Text": "defer",
             "AttrFlags": 2
           },
           {
-            "Text": ":"
+            "Text": " creates a closure which only captures variable "
+          },
+          {
+            "Text": "i",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " by a reference. It doesn't capture the value of the variable."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1532156055185,
+        "id": "a880b7d3-b143-4e51-a29d-a5514e98fedb",
+        "ignore_block_count": true,
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538896917163,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "It should be become clear when we look at what code executes:"
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 315,
+        "inline_content": [
+          {
+            "Text": "It should be become clear when we look at what code executes:"
           }
         ]
       },
@@ -564,7 +608,7 @@
         "id": "7a050fff-add0-4778-8b45-315756c4a195",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532205341790,
+        "last_edited_time": 1538897060370,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
@@ -575,13 +619,13 @@
           ],
           "title": [
             [
-              "var i int\nfor i = 0; i \u003c 2; i++ {\n}\n\nfmt.Printf(\"%d\\n\", i)\nfmt.Printf(\"%d\\n\", i)"
+              "var i int\nfor i = 0; i \u003c 2; i++ {\n\t// create closure that references i by reference\n}\n\nfmt.Printf(\"%d\\n\", i) // from created by defer in second loop iteration (remember: reverse order)\nfmt.Printf(\"%d\\n\", i) // from closure created by defer in first loop iteration"
             ]
           ]
         },
         "type": "code",
-        "version": 3,
-        "code": "var i int\nfor i = 0; i \u003c 2; i++ {\n}\n\nfmt.Printf(\"%d\\n\", i)\nfmt.Printf(\"%d\\n\", i)",
+        "version": 513,
+        "code": "var i int\nfor i = 0; i \u003c 2; i++ {\n\t// create closure that references i by reference\n}\n\nfmt.Printf(\"%d\\n\", i) // from created by defer in second loop iteration (remember: reverse order)\nfmt.Printf(\"%d\\n\", i) // from closure created by defer in first loop iteration",
         "code_language": "Go"
       },
       {
@@ -670,40 +714,21 @@
         "id": "f717d873-ee7d-4691-a5ed-b4ef8e77f2dc",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785866663,
+        "last_edited_time": 1538896420341,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "We can fix this by using a "
-            ],
-            [
-              "closure",
-              [
-                [
-                  "a",
-                  "https://www.notion.so/kjkpublic/Closures-04b23c4e787a43b39d3f3b26fed1b355"
-                ]
-              ]
-            ],
-            [
-              " to capture the variable:"
+              "We can fix this by forcing a capture of the variable:"
             ]
           ]
         },
         "type": "text",
-        "version": 6,
+        "version": 177,
         "inline_content": [
           {
-            "Text": "We can fix this by using a "
-          },
-          {
-            "Text": "closure",
-            "Link": "https://www.notion.so/kjkpublic/Closures-04b23c4e787a43b39d3f3b26fed1b355"
-          },
-          {
-            "Text": " to capture the variable:"
+            "Text": "We can fix this by forcing a capture of the variable:"
           }
         ]
       },
@@ -747,23 +772,35 @@
         "id": "1b73cd61-c50c-4917-8e41-d49c8fe52954",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156055186,
+        "last_edited_time": 1538897139442,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "A closure is more expensive as it requires allocating an object to collect all the variables captured by the closure. In this case that’s the price of correctness."
+              "A closure might be slightly more expensive as it requires allocating an object to collect all the variables captured by the closure."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 53,
         "inline_content": [
           {
-            "Text": "A closure is more expensive as it requires allocating an object to collect all the variables captured by the closure. In this case that’s the price of correctness."
+            "Text": "A closure might be slightly more expensive as it requires allocating an object to collect all the variables captured by the closure."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1538897065623,
+        "id": "7d44be2b-ba84-4a5a-8bb4-486d86abb639",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1538897065623,
+        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "Defer gotchas",

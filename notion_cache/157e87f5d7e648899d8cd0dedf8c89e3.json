@@ -4,13 +4,14 @@
     "alive": true,
     "content": [
       "41f82ef1-1fb7-4992-9d5b-0a544d6cf4ef",
-      "5f4ac101-2b43-4309-ac28-90964bfd2930",
       "1edc9306-2df2-4789-b877-f8f0c717be88",
       "acc4f9a6-b061-44d4-9b4a-770f4e935786",
-      "0e897d5d-92a2-4a23-aaf8-4bf19d2b19a9",
-      "6f4dd406-1572-47f8-b01c-fdc8e14a59e3",
+      "3d2d67a1-2a32-4427-9f69-95cc220ce4fe",
+      "c75613a6-7a26-4e33-a559-6603fe5d98d4",
+      "c346c562-11b5-43ff-ba9f-9f6bcab30d55",
       "d89c8386-03b3-424d-abef-454211d007a0",
-      "b6ac68af-7c48-4b5f-a5cb-ff5e53a82edb",
+      "d0e289e4-5ebd-44a1-8f87-0b483b7ca61c",
+      "18416ecc-7e14-4efd-b80c-4be2dc5dda13",
       "2c468f17-2393-4f47-98a5-496a5d70728e",
       "66f805f5-8b60-4e57-b3da-e92fe0b64bdd"
     ],
@@ -23,7 +24,7 @@
     "id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532235784571,
+    "last_edited_time": 1539330808369,
     "parent_id": "ad923a2f-bd99-4701-844a-f2d688d30548",
     "parent_table": "block",
     "properties": {
@@ -34,7 +35,7 @@
       ]
     },
     "type": "page",
-    "version": 25,
+    "version": 57,
     "content_resolved": [
       {
         "alive": true,
@@ -42,7 +43,7 @@
         "created_time": 1532203489016,
         "id": "41f82ef1-1fb7-4992-9d5b-0a544d6cf4ef",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235785224,
+        "last_edited_time": 1539329629252,
         "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
         "parent_table": "block",
         "properties": {
@@ -53,7 +54,7 @@
           ]
         },
         "type": "text",
-        "version": 12,
+        "version": 14,
         "inline_content": [
           {
             "Text": "$Id: 103"
@@ -63,34 +64,10 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532203490629,
-        "id": "5f4ac101-2b43-4309-ac28-90964bfd2930",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235786564,
-        "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "$Score: 0"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 12,
-        "inline_content": [
-          {
-            "Text": "$Score: 0"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1532203492364,
         "id": "1edc9306-2df2-4789-b877-f8f0c717be88",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532235787646,
+        "last_edited_time": 1539329625222,
         "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
         "parent_table": "block",
         "properties": {
@@ -101,7 +78,7 @@
           ]
         },
         "type": "text",
-        "version": 12,
+        "version": 14,
         "inline_content": [
           {
             "Text": "$SOId: 23401"
@@ -114,62 +91,122 @@
         "created_time": 1532203495620,
         "id": "acc4f9a6-b061-44d4-9b4a-770f4e935786",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532203495620,
-        "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
-        "parent_table": "block",
-        "type": "text",
-        "version": 4
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532203493956,
-        "id": "0e897d5d-92a2-4a23-aaf8-4bf19d2b19a9",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532203495381,
+        "last_edited_time": 1539329608395,
         "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "The break statement, on execution makes the current loop to force exit"
+              "Break"
             ]
           ]
         },
-        "type": "text",
-        "version": 12,
+        "type": "header",
+        "version": 21,
         "inline_content": [
           {
-            "Text": "The break statement, on execution makes the current loop to force exit"
+            "Text": "Break"
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156027134,
-        "id": "6f4dd406-1572-47f8-b01c-fdc8e14a59e3",
-        "ignore_block_count": true,
+        "created_time": 1539330635502,
+        "id": "3d2d67a1-2a32-4427-9f69-95cc220ce4fe",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532203472563,
+        "last_edited_time": 1539330683210,
         "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
         "parent_table": "block",
         "properties": {
-          "language": [
-            [
-              "Go"
-            ]
-          ],
           "title": [
             [
-              "package main\n\nimport \"fmt\"\n\nfunc main() {\n    i:=0\n    for true {\n        if i\u003e2 {\n        break\n        }\n    fmt.Println(\"Iteration : \",i)\n    i++\n    }\n}"
+              "Break allows to exit  "
+            ],
+            [
+              "for",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " loop early."
             ]
           ]
         },
-        "type": "code",
-        "version": 3,
-        "code": "package main\n\nimport \"fmt\"\n\nfunc main() {\n    i:=0\n    for true {\n        if i\u003e2 {\n        break\n        }\n    fmt.Println(\"Iteration : \",i)\n    i++\n    }\n}",
-        "code_language": "Go"
+        "type": "text",
+        "version": 264,
+        "inline_content": [
+          {
+            "Text": "Break allows to exit  "
+          },
+          {
+            "Text": "for",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " loop early."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539330629370,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0140-for-while-loops%2Fbreak.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "c75613a6-7a26-4e33-a559-6603fe5d98d4",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539330691436,
+        "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0140-for-while-loops%2Fbreak.go"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 10,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0140-for-while-loops%2Fbreak.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539330695623,
+        "id": "c346c562-11b5-43ff-ba9f-9f6bcab30d55",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539330698683,
+        "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Continue"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 27,
+        "inline_content": [
+          {
+            "Text": "Continue"
+          }
+        ]
       },
       {
         "alive": true,
@@ -178,50 +215,86 @@
         "id": "d89c8386-03b3-424d-abef-454211d007a0",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156027134,
+        "last_edited_time": 1539330850246,
         "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "The continue statement, on execution moves the control to the start of the loop"
+              "Continue starts new iteration of "
+            ],
+            [
+              "for",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " loop."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 259,
         "inline_content": [
           {
-            "Text": "The continue statement, on execution moves the control to the start of the loop"
+            "Text": "Continue starts new iteration of "
+          },
+          {
+            "Text": "for",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " loop."
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156027134,
-        "id": "b6ac68af-7c48-4b5f-a5cb-ff5e53a82edb",
-        "ignore_block_count": true,
+        "created_time": 1539330731632,
+        "format": {
+          "block_height": 320,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0140-for-while-loops%2Fcontinue.go",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "d0e289e4-5ebd-44a1-8f87-0b483b7ca61c",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532203479145,
+        "last_edited_time": 1539330732800,
         "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
         "parent_table": "block",
         "properties": {
-          "language": [
+          "source": [
             [
-              "Go"
-            ]
-          ],
-          "title": [
-            [
-              "import \"fmt\"\n\nfunc main() {\n    j:=100\n    for j\u003c110 {\n        j++\n        if j%2==0 {\n        continue\n        }\n    fmt.Println(\"Var : \",j)\n    }\n}"
+              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0140-for-while-loops%2Fcontinue.go"
             ]
           ]
         },
-        "type": "code",
-        "version": 5,
-        "code": "import \"fmt\"\n\nfunc main() {\n    j:=100\n    for j\u003c110 {\n        j++\n        if j%2==0 {\n        continue\n        }\n    fmt.Println(\"Var : \",j)\n    }\n}",
-        "code_language": "Go"
+        "type": "embed",
+        "version": 8,
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 320,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0140-for-while-loops%2Fcontinue.go"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539330808369,
+        "id": "18416ecc-7e14-4efd-b80c-4be2dc5dda13",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539330824144,
+        "parent_id": "157e87f5-d7e6-4889-9d8c-d0dedf8c89e3",
+        "parent_table": "block",
+        "type": "text",
+        "version": 56
       },
       {
         "alive": true,

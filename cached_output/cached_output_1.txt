@@ -35,6 +35,11 @@ elRef.CanSet(): true
 a: [3 5 8]
 
 |======|
+06d2dfdefa89246b6ae5b8d81fd7ead7836158cf:
+i: 1
+i: 2
+
+|======|
 06d51f27fa295890b49d304a6db7d3bfd40de019:
 zero bool:       false
 zero int:        0
@@ -1439,6 +1444,11 @@ routine 6 finished
 routine 7 finished
 routine 8 finished
 main finished
+
+|======|
+b28752c59a7223624cad094e250b8d161726762f:
+i: 2
+i: 3
 
 |======|
 b2c91a29ff0657ad6e5262bb324c5fd3ddb0bc6d:

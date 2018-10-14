@@ -70,10 +70,10 @@ func parseFlags() {
 	}
 }
 
-func downloadBook(book *Book) {
+func downloadBook(c *notionapi.Client, book *Book) {
 	notionStartPageID := book.NotionStartPageID
 	book.pageIDToPage = map[string]*notionapi.Page{}
-	loadNotionPages(notionStartPageID, book.pageIDToPage, !flgNoCache)
+	loadNotionPages(c, notionStartPageID, book.pageIDToPage, !flgNoCache)
 	fmt.Printf("Loaded %d pages for book %s\n", len(book.pageIDToPage), book.Title)
 	bookFromPages(book)
 }
@@ -211,9 +211,10 @@ func main() {
 	createDirMust(filepath.Join("www", "s"))
 	createDirMust("log")
 
+	client := &notionapi.Client{}
 	if flgRedownloadOne != "" {
 		// download a single page from notion and re-generate content
-		_, err := downloadAndCachePage(flgRedownloadOne)
+		_, err := downloadAndCachePage(client, flgRedownloadOne)
 		if err != nil {
 			fmt.Printf("downloadAndCachePage of '%s' failed with %s\n", flgRedownloadOne, err)
 			os.Exit(1)
@@ -235,7 +236,7 @@ func main() {
 
 	for _, book := range books {
 		book.titleSafe = common.MakeURLSafe(book.Title)
-		downloadBook(book)
+		downloadBook(client, book)
 		loadSoContributorsMust(book)
 	}
 

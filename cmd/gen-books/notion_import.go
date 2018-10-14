@@ -40,7 +40,6 @@ func openLogFileForPageID(pageID string) (io.WriteCloser, error) {
 		fmt.Printf("os.Create('%s') failed with %s\n", path, err)
 		return nil, err
 	}
-	notionapi.Logger = f
 	return f, nil
 }
 
@@ -89,7 +88,7 @@ func loadPageFromCache(pageID string) *notionapi.Page {
 }
 
 // I got "connection reset by peer" error once so retry download 3 times, with a short sleep in-between
-func downloadPageRetry(pageID string) (*notionapi.Page, error) {
+func downloadPageRetry(c *notionapi.Client, pageID string) (*notionapi.Page, error) {
 	var res *notionapi.Page
 	var err error
 	for i := 0; i < 3; i++ {
@@ -97,7 +96,7 @@ func downloadPageRetry(pageID string) (*notionapi.Page, error) {
 			fmt.Printf("Download %s failed with '%s'\n", pageID, err)
 			time.Sleep(3 * time.Second) // not sure if it matters
 		}
-		res, err = notionapi.DownloadPage(pageID)
+		res, err = c.DownloadPage(pageID)
 		if err == nil {
 			return res, nil
 		}
@@ -105,15 +104,18 @@ func downloadPageRetry(pageID string) (*notionapi.Page, error) {
 	return nil, err
 }
 
-func downloadAndCachePage(pageID string) (*notionapi.Page, error) {
+func downloadAndCachePage(c *notionapi.Client, pageID string) (*notionapi.Page, error) {
 	//fmt.Printf("downloading page with id %s\n", pageID)
 	pageID = normalizeID(pageID)
-	lf, _ := openLogFileForPageID(pageID)
-	if lf != nil {
-		defer lf.Close()
+	c.Logger, _ = openLogFileForPageID(pageID)
+	if c.Logger != nil {
+		defer func() {
+			lf := c.Logger.(*os.File)
+			lf.Close()
+		}()
 	}
 	cachedPath := filepath.Join(cacheDir, pageID+".json")
-	page, err := downloadPageRetry(pageID)
+	page, err := downloadPageRetry(c, pageID)
 	if err != nil {
 		return nil, err
 	}
@@ -132,7 +134,7 @@ var (
 	nNotionPagesFromCache int
 )
 
-func loadNotionPage(pageID string, getFromCache bool, n int) (*notionapi.Page, error) {
+func loadNotionPage(c *notionapi.Client, pageID string, getFromCache bool, n int) (*notionapi.Page, error) {
 	if getFromCache {
 		page := loadPageFromCache(pageID)
 		if page != nil {
@@ -141,14 +143,14 @@ func loadNotionPage(pageID string, getFromCache bool, n int) (*notionapi.Page, e
 			return page, nil
 		}
 	}
-	page, err := downloadAndCachePage(pageID)
+	page, err := downloadAndCachePage(c, pageID)
 	if err == nil {
 		fmt.Printf("Downloaded %d %s %s\n", n, page.ID, page.Root.Title)
 	}
 	return page, err
 }
 
-func loadNotionPages(indexPageID string, idToPage map[string]*notionapi.Page, useCache bool) {
+func loadNotionPages(c *notionapi.Client, indexPageID string, idToPage map[string]*notionapi.Page, useCache bool) {
 	toVisit := []string{indexPageID}
 
 	n := 1
@@ -160,7 +162,7 @@ func loadNotionPages(indexPageID string, idToPage map[string]*notionapi.Page, us
 			continue
 		}
 
-		page, err := loadNotionPage(pageID, useCache, n)
+		page, err := loadNotionPage(c, pageID, useCache, n)
 		panicIfErr(err)
 		n++
 
@@ -171,11 +173,11 @@ func loadNotionPages(indexPageID string, idToPage map[string]*notionapi.Page, us
 	}
 }
 
-func loadAllPages(startIDs []string, useCache bool) map[string]*notionapi.Page {
+func loadAllPages(c *notionapi.Client, startIDs []string, useCache bool) map[string]*notionapi.Page {
 	idToPage := map[string]*notionapi.Page{}
 	nPrev := 0
 	for _, startID := range startIDs {
-		loadNotionPages(startID, idToPage, useCache)
+		loadNotionPages(c, startID, idToPage, useCache)
 		nDownloaded := len(idToPage) - nPrev
 		fmt.Printf("Got %d pages, %d from cache\n", nDownloaded, nNotionPagesFromCache)
 		nPrev = len(idToPage)

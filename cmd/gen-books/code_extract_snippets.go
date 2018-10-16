@@ -6,8 +6,6 @@ import (
 	"strings"
 )
 
-// TODO: rename to: code_extract_snippets.go
-
 const (
 	showStartLine = "// :show start"
 	showEndLine   = "// :show end"

@@ -12,6 +12,7 @@ require (
 	github.com/google/shlex v0.0.0-20150127133951-6f45313302b9
 	github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869
 	github.com/kjk/notionapi v0.0.0-20181014095046-e713d8348edd
+	github.com/kjk/siser v0.0.0-20170927035209-f1af2d1a21bb
 	github.com/kjk/u v0.0.0-20170711051841-93181be023c9
 	github.com/mattn/go-isatty v0.0.4 // indirect
 	github.com/pkg/errors v0.8.0

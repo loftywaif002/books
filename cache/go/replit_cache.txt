@@ -9,3 +9,14 @@ func main() {
 }
 
 ---
+@url: https://repl.it/@kjk1/getting-started-hello-world
+main.go:+80
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello there, 世界")
+}
+
+---

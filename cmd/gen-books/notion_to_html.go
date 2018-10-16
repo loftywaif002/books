@@ -254,33 +254,31 @@ func (g *HTMLGenerator) genReplitEmbed(block *notionapi.Block) {
 	uri := block.FormatEmbed.DisplaySource
 	uri = strings.Replace(uri, "?lite=true", "", -1)
 
-	book := g.book
-	replit := book.replitCache.replits[uri]
-	if replit == nil {
+	replit := g.book.replitCache.replits[uri]
+	if replit == nil || flgRedownloadReplit {
 		var isNew bool
 		var err error
-		replit, isNew, err = downloadAndCacheReplit(book.replitCache, uri)
+		replit, isNew, err = downloadAndCacheReplit(g.book.replitCache, uri)
 		panicIfErr(err)
 		fmt.Printf("genReplitEmbed: downloaded %s,  isNew: %v\n", uri+".zip", isNew)
 	}
-	f, err := getSourceFileFromReplit(replit)
+	f, err := getSourceFileFromReplit(g.book, replit)
 	if err != nil {
 		fmt.Printf("genReplitEmbed: getSourceFileFromReplit (name: '%s', uri: '%s') failed with '%s'\n", replit.files[0].name, uri, err)
 		panicIfErr(err)
 	}
 	f.EmbedURL = uri
 	f.PlaygroundURI = uri
-
 	g.genSourceFile(f)
 }
 
-func getSourceFileFromReplit(replit *Replit) (*SourceFile, error) {
+func getSourceFileFromReplit(b *Book, replit *Replit) (*SourceFile, error) {
 	f := &SourceFile{}
 	panicIf(len(replit.files) != 1, "for now only supports 1 file, have: %d", len(replit.files))
 	rf := replit.files[0]
 	f.Lang = getLangFromFileExt(rf.name)
 	err := setSourceFileData(f, []byte(rf.data))
-	// TODO: get output
+	err = getOutputCachedForReplit(b, replit, f)
 	return f, err
 }
 

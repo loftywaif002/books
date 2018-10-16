@@ -27,6 +27,7 @@ var (
 	flgNoCache        bool
 	flgRecreateOutput bool
 	flgUpdateOutput   bool
+	flgRedownloadReplit bool
 	flgRedownloadOne string
 
 	soUserIDToNameMap map[int]string
@@ -54,6 +55,7 @@ func parseFlags() {
 	flag.BoolVar(&flgUpdateOutput, "update-output", false, "if true, will update ouput files in cache")
 	flag.BoolVar(&flgNoCache, "no-cache", false, "if true, disables cache for notion")
 	flag.StringVar(&flgRedownloadOne, "redownload-one", "", "notion id of a page to re-download")
+	flag.BoolVar(&flgRedownloadReplit, "redownload-replit", false, "if true, redownloads replits")
 	flag.Parse()
 
 	if flgAnalytics != "" {

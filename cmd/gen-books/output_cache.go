@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"io/ioutil"
+	"os"
 	"os/exec"
 	"path/filepath"
 	"sort"
@@ -211,6 +212,49 @@ func getOutput(path string, runCmd string) (string, error) {
 	return "", fmt.Errorf("getOutput(%s): files with extension '%s' are not supported", path, ext)
 }
 
+func getOutputCachedForReplit(b *Book, replit *Replit, sf *SourceFile) error {
+	if sf.Directive.NoOutput {
+		return nil
+	}
+
+	sha1Hex := u.Sha1HexOfBytes(sf.Data)
+
+	cfo := b.sha1ToCachedOutputFile[sha1Hex]
+	if cfo != nil {
+		sf.Output = findOutputBySha1(cfo, sha1Hex)
+		return nil
+	}
+
+	// save files to temp directory
+	dir := os.TempDir()
+	defer os.RemoveAll(dir)
+
+	if len(replit.files) == 1 {
+		name := replit.files[0].name
+		path := filepath.Join(dir, name)
+
+		sf.FileName = name
+		sf.Path = path
+	}
+
+	for _, rf := range replit.files {
+		name := rf.name
+		path := filepath.Join(dir, name)
+		if sf.Path == "" && strings.HasPrefix(name, "main.") {
+			sf.FileName = name
+			sf.Path = path
+		}
+		d := []byte(rf.data)
+		err := ioutil.WriteFile(path, d, 0644)
+		if err != nil {
+			return err
+		}
+	}
+
+	panicIf(sf.Path == "", "no main file")
+	return getOutputCached(b, sf)
+}
+
 // for a given file, get output of executing this command
 // We cache this as it is the most expensive part of rebuilding books
 // If allowError is true, we silence an error from executed command
@@ -221,18 +265,18 @@ func getOutputCached(b *Book, sf *SourceFile) error {
 		return nil
 	}
 
-	path := sf.Path
-	ext := strings.ToLower(filepath.Ext(path))
-	switch ext {
-	case ".json", ".csv", ".yml", ".xml":
-		return nil
-	}
-
 	sha1Hex := u.Sha1HexOfBytes(sf.Data)
 
 	cfo := b.sha1ToCachedOutputFile[sha1Hex]
 	if cfo != nil {
 		sf.Output = findOutputBySha1(cfo, sha1Hex)
+		return nil
+	}
+
+	path := sf.Path
+	ext := strings.ToLower(filepath.Ext(path))
+	switch ext {
+	case ".json", ".csv", ".yml", ".xml":
 		return nil
 	}
 

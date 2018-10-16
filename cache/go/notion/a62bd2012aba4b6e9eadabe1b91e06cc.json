@@ -8,7 +8,6 @@
       "603a2aa0-2280-4213-a51b-aaa7ed06b73c",
       "8c910999-0874-4894-9f21-aaa5820c0c67",
       "f4a03ee4-1a88-4d02-b927-1d299391ce33",
-      "0e437d8b-8933-46af-b54c-6c1f551e9852",
       "f3a1120a-4c77-4325-abde-520235fe96ea",
       "928e7301-5fd9-4ae0-bcaa-e845aab1d5fe",
       "ecf059cc-0e21-4f19-9c65-4776b7711e7c",
@@ -25,7 +24,7 @@
     "id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1539663184783,
+    "last_edited_time": 1539685082855,
     "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
     "parent_table": "block",
     "properties": {
@@ -36,7 +35,7 @@
       ]
     },
     "type": "page",
-    "version": 113,
+    "version": 115,
     "content_resolved": [
       {
         "alive": true,
@@ -174,40 +173,6 @@
           "block_page_width": true,
           "block_preserve_scale": false,
           "display_source": "https://repl.it/@kjk1/getting-started-hello-world?lite=true"
-        }
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1537255702046,
-        "format": {
-          "block_height": 195,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0010-getting-started%2Fhello_world.go",
-          "block_full_width": false,
-          "block_page_width": true,
-          "block_preserve_scale": false
-        },
-        "id": "0e437d8b-8933-46af-b54c-6c1f551e9852",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1537255716747,
-        "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
-        "parent_table": "block",
-        "properties": {
-          "source": [
-            [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0010-getting-started%2Fhello_world.go"
-            ]
-          ]
-        },
-        "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0010-getting-started%2Fhello_world.go",
-        "format_embed": {
-          "block_full_width": false,
-          "block_height": 195,
-          "block_page_width": true,
-          "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0010-getting-started%2Fhello_world.go"
         }
       },
       {

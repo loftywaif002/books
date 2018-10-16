@@ -201,6 +201,45 @@ func initMinify() {
 	doMinify = !flgPreview
 }
 
+func findBookFromDir(dir string) *Book {
+	for _, book := range books {
+		if book.Dir == dir {
+			return book
+		}
+	}
+	return nil
+}
+
+func isNotionCachedInDir(dir string, id string) bool {
+	id = normalizeID(id)
+	files, err := ioutil.ReadDir(dir)
+	panicIfErr(err)
+	for _, fi := range files {
+		name := fi.Name()
+		if strings.HasPrefix(name, id) {
+			return true
+		}
+	}
+	return false
+}
+
+func findBookFromCachedPageID(id string) *Book {
+	files, err := ioutil.ReadDir("cache")
+	panicIfErr(err)
+	for _, fi := range files {
+		if !fi.IsDir() {
+			continue
+		}
+		dir := fi.Name()
+		book := findBookFromDir(dir)
+		panicIf(book == nil, "didn't find book for dir '%s'", dir)
+		if isNotionCachedInDir(filepath.Join("cache", dir, "notion"), id) {
+			return book
+		}
+	}
+	return nil
+}
+
 func main() {
 	parseFlags()
 
@@ -215,13 +254,19 @@ func main() {
 
 	client := &notionapi.Client{}
 	if flgRedownloadOne != "" {
-		// TODO: must pass book or auto-detect from file system
+		book := findBookFromCachedPageID(flgRedownloadOne)
+		if book == nil {
+			fmt.Printf("didn't find book for id %s\n", flgRedownloadOne)
+			os.Exit(1)
+		}
+		fmt.Printf("Downloading %s for book %s\n", flgRedownloadOne, book.Dir)
 		// download a single page from notion and re-generate content
-		_, err := downloadAndCachePage(nil, client, flgRedownloadOne)
+		_, err := downloadAndCachePage(book, client, flgRedownloadOne)
 		if err != nil {
 			fmt.Printf("downloadAndCachePage of '%s' failed with %s\n", flgRedownloadOne, err)
 			os.Exit(1)
 		}
+		flgPreview = true
 		// and fallthrough to re-generate books
 	}
 

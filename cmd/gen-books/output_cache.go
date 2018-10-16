@@ -32,7 +32,7 @@ func getCurrentOutputCacheFile(b *Book) *cachedOutputFile {
 	}
 	fileNo := len(b.cachedOutputFiles) + 1
 	name := fmt.Sprintf("cached_output_%d.txt", fileNo)
-	path := filepath.Join(b.CacheDir(), name)
+	path := filepath.Join(b.OutputCacheDir(), name)
 	cof := &cachedOutputFile{
 		path: path,
 		doc:  nil,
@@ -71,7 +71,7 @@ func cachedFileNo(path string) int {
 func reloadCachedOutputFilesMust(b *Book) {
 	b.sha1ToCachedOutputFile = make(map[string]*cachedOutputFile)
 
-	fileInfos, err := ioutil.ReadDir(b.CacheDir())
+	fileInfos, err := ioutil.ReadDir(b.OutputCacheDir())
 	u.PanicIfErr(err)
 	for _, fi := range fileInfos {
 		if fi.IsDir() {
@@ -84,7 +84,7 @@ func reloadCachedOutputFilesMust(b *Book) {
 			u.PanicIf(true, "'%s' is not a file with cached output", fi.Name())
 			continue
 		}
-		path := filepath.Join(b.CacheDir(), fi.Name())
+		path := filepath.Join(b.OutputCacheDir(), fi.Name())
 		doc, err := kvstore.ParseKVFile(path)
 		u.PanicIfErr(err)
 		f := &cachedOutputFile{

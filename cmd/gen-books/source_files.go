@@ -193,14 +193,14 @@ func getGitHubPathForFile(path string) string {
 	return "https://github.com/essentialbooks/books/blob/master/" + toUnixPath(path)
 }
 
-func setGoPlaygroundID(sf *SourceFile) error {
+func setGoPlaygroundID(b *Book, sf *SourceFile) error {
 	if sf.Lang != "go" {
 		return nil
 	}
 	if sf.Directive.NoPlayground {
 		return nil
 	}
-	id, err := getSha1ToGoPlaygroundIDCached(sf.DataFiltered())
+	id, err := getSha1ToGoPlaygroundIDCached(b, sf.DataFiltered())
 	if err != nil {
 		return err
 	}
@@ -208,7 +208,7 @@ func setGoPlaygroundID(sf *SourceFile) error {
 	return nil
 }
 
-func loadSourceFile(path string) (*SourceFile, error) {
+func loadSourceFile(b *Book, path string) (*SourceFile, error) {
 	data, err := common.ReadFileNormalized(path)
 	if err != nil {
 		return nil, err
@@ -247,13 +247,13 @@ func loadSourceFile(path string) (*SourceFile, error) {
 		fmt.Printf("loadSourceFile: '%s', extractCodeSnippets() failed with '%s'\n", path, err)
 		panicIfErr(err)
 	}
-	setGoPlaygroundID(sf)
-	err = getOutputCached(sf)
+	setGoPlaygroundID(b, sf)
+	err = getOutputCached(b, sf)
 	fmt.Printf("loadSourceFile: '%s', lang: '%s'\n", path, lang)
 	return sf, nil
 }
 
-func extractSourceFiles(p *Page) {
+func extractSourceFiles(b *Book, p *Page) {
 	//wd, err := os.Getwd()
 	//panicIfErr(err)
 	page := p.NotionPage
@@ -270,7 +270,7 @@ func extractSourceFiles(p *Page) {
 		// fmt.Printf("Embed uri: %s, relativePath: %s\n", uri, relativePath)
 		//path := filepath.Join(wd, relativePath)
 		path := relativePath
-		sf, err := loadSourceFile(path)
+		sf, err := loadSourceFile(b, path)
 		if err != nil {
 			fmt.Printf("extractSourceFiles: loadSourceFile('%s') (uri: '%s') failed with '%s'\n", path, uri, err)
 			panicIfErr(err)

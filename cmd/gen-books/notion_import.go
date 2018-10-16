@@ -19,8 +19,8 @@ var (
 	// if true, we'll log
 	logNotionRequests = true
 
-	cacheDir     = "notion_cache"
-	notionLogDir = "log"
+	notionCacheDir = "notion_cache"
+	notionLogDir   = "log"
 )
 
 // convert 2131b10c-ebf6-4938-a127-7089ff02dbe4 to 2131b10cebf64938a1277089ff02dbe4
@@ -75,7 +75,7 @@ func findSubPageIDs(blocks []*notionapi.Block) []string {
 }
 
 func loadPageFromCache(pageID string) *notionapi.Page {
-	cachedPath := filepath.Join(cacheDir, pageID+".json")
+	cachedPath := filepath.Join(notionCacheDir, pageID+".json")
 	d, err := ioutil.ReadFile(cachedPath)
 	if err != nil {
 		return nil
@@ -114,7 +114,7 @@ func downloadAndCachePage(c *notionapi.Client, pageID string) (*notionapi.Page, 
 			lf.Close()
 		}()
 	}
-	cachedPath := filepath.Join(cacheDir, pageID+".json")
+	cachedPath := filepath.Join(notionCacheDir, pageID+".json")
 	page, err := downloadPageRetry(c, pageID)
 	if err != nil {
 		return nil, err
@@ -195,11 +195,11 @@ func rmFile(path string) {
 func rmCached(pageID string) {
 	id := normalizeID(pageID)
 	rmFile(filepath.Join(notionLogDir, id+".go.log.txt"))
-	rmFile(filepath.Join(cacheDir, id+".json"))
+	rmFile(filepath.Join(notionCacheDir, id+".json"))
 }
 
 func createNotionCacheDir() {
-	err := os.MkdirAll(cacheDir, 0755)
+	err := os.MkdirAll(notionCacheDir, 0755)
 	panicIfErr(err)
 }
 
@@ -216,7 +216,7 @@ func createNotionDirs() {
 }
 
 func removeCachedNotion() {
-	err := os.RemoveAll(cacheDir)
+	err := os.RemoveAll(notionCacheDir)
 	panicIfErr(err)
 	err = os.RemoveAll(notionLogDir)
 	panicIfErr(err)

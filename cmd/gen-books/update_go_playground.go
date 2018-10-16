@@ -6,7 +6,6 @@ import (
 	"io/ioutil"
 	"net/http"
 	"os"
-	"path/filepath"
 	"strings"
 
 	"github.com/kjk/u"
@@ -14,18 +13,11 @@ import (
 	"github.com/essentialbooks/books/pkg/common"
 )
 
-var sha1ToGoPlaygroundCache *Sha1ToGoPlaygroundCache
-
 // Sha1ToGoPlaygroundCache maintains sha1 of content to go playground id cache
 type Sha1ToGoPlaygroundCache struct {
 	cachePath string
 	sha1ToID  map[string]string
 	nUpdates  int
-}
-
-func init() {
-	path := filepath.Join("cached_output", "sha1_to_go_playground_id.txt")
-	sha1ToGoPlaygroundCache = readSha1ToGoPlaygroundCache(path)
 }
 
 // appends a line to a file
@@ -120,10 +112,10 @@ func (c *Sha1ToGoPlaygroundCache) GetPlaygroundID(d []byte) (string, error) {
 	return id, nil
 }
 
-func getSha1ToGoPlaygroundIDCached(d []byte) (string, error) {
-	nUpdates := sha1ToGoPlaygroundCache.nUpdates
-	id, err := sha1ToGoPlaygroundCache.GetPlaygroundID(d)
-	if err == nil && nUpdates != sha1ToGoPlaygroundCache.nUpdates {
+func getSha1ToGoPlaygroundIDCached(b *Book, d []byte) (string, error) {
+	nUpdates := b.sha1ToGoPlaygroundCache.nUpdates
+	id, err := b.sha1ToGoPlaygroundCache.GetPlaygroundID(d)
+	if err == nil && nUpdates != b.sha1ToGoPlaygroundCache.nUpdates {
 		sha1 := u.Sha1HexOfBytes(d)
 		fmt.Printf("getSha1ToGoPlaygroundIDCached: %s => %s\n", sha1, id)
 	}

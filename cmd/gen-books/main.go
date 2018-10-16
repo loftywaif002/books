@@ -41,7 +41,7 @@ var (
 			Title:     "Go",
 			TitleLong: "Essential Go",
 			Dir:       "go",
-			// "https://www.notion.so/kjkpublic/Essential-Go-2cab1ed2b7a44584b56b0d3ca9b80185"
+			// https://www.notion.so/2cab1ed2b7a44584b56b0d3ca9b80185
 			NotionStartPageID: "2cab1ed2b7a44584b56b0d3ca9b80185",
 		},
 	}
@@ -50,8 +50,8 @@ var (
 func parseFlags() {
 	flag.StringVar(&flgAnalytics, "analytics", "", "google analytics code")
 	flag.BoolVar(&flgPreview, "preview", false, "if true will start watching for file changes and re-build everything")
-	flag.BoolVar(&flgRecreateOutput, "recreate-output", false, "if true, recreates ouput files in cached_output")
-	flag.BoolVar(&flgUpdateOutput, "update-output", false, "if true, will update ouput files in cached_output")
+	flag.BoolVar(&flgRecreateOutput, "recreate-output", false, "if true, recreates ouput files in cache")
+	flag.BoolVar(&flgUpdateOutput, "update-output", false, "if true, will update ouput files in cache")
 	flag.BoolVar(&flgNoCache, "no-cache", false, "if true, disables cache for notion")
 	flag.StringVar(&flgRedownloadOne, "redownload-one", "", "notion id of a page to re-download")
 	flag.Parse()
@@ -226,15 +226,18 @@ func main() {
 	loadSOUserMappingsMust()
 
 	if flgUpdateOutput {
+		// TODO: must be done somewhere else
 		if flgRecreateOutput {
-			os.RemoveAll(cachedOutputDir)
+			//os.RemoveAll(cachedOutputDir)
 		}
-		err := os.MkdirAll(cachedOutputDir, 0755)
-		panicIfErr(err)
 	}
-	reloadCachedOutputFilesMust()
 
 	for _, book := range books {
+		createDirMust(book.OutputCacheDir())
+		reloadCachedOutputFilesMust(book)
+		path := filepath.Join(book.OutputCacheDir(), "sha1_to_go_playground_id.txt")
+		book.sha1ToGoPlaygroundCache = readSha1ToGoPlaygroundCache(path)
+
 		book.titleSafe = common.MakeURLSafe(book.Title)
 		downloadBook(client, book)
 		loadSoContributorsMust(book)
@@ -246,7 +249,9 @@ func main() {
 	printAndClearErrors()
 
 	if flgUpdateOutput || flgRedownloadOne != "" {
-		saveCachedOutputFiles()
+		for _, b := range books {
+			saveCachedOutputFiles(b)
+		}
 	}
 
 	if flgPreview {

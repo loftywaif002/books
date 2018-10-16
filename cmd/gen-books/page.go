@@ -266,7 +266,7 @@ func bookPageFromNotionPage(book *Book, page *notionapi.Page) *Page {
 	res.NotionID = normalizeID(page.ID)
 	res.Title = page.Root.Title
 	extractMeta(res)
-	extractSourceFiles(res)
+	extractSourceFiles(book, res)
 	subPages := getSubPages(page, book.pageIDToPage)
 
 	// fmt.Printf("bookPageFromNotionPage: %s %s\n", normalizeID(page.ID), res.Meta.ID)

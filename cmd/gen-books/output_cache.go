@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"io/ioutil"
-	"os"
 	"os/exec"
 	"path/filepath"
 	"sort"
@@ -16,7 +15,6 @@ import (
 )
 
 const maxOutputFileSize = 1024 * 128 // 128 kB
-const cachedOutputDir = "cached_output"
 
 type cachedOutputFile struct {
 	path string
@@ -24,26 +22,23 @@ type cachedOutputFile struct {
 	no   int
 }
 
-var cachedOutputFiles []*cachedOutputFile
-var sha1ToCachedOutputFile map[string]*cachedOutputFile
-
-func getCurrentOutputCacheFile() *cachedOutputFile {
-	n := len(cachedOutputFiles) - 1
+func getCurrentOutputCacheFile(b *Book) *cachedOutputFile {
+	n := len(b.cachedOutputFiles) - 1
 	if n >= 0 {
-		cof := cachedOutputFiles[n]
+		cof := b.cachedOutputFiles[n]
 		if getDocSize(cof.doc) < maxOutputFileSize {
 			return cof
 		}
 	}
-	fileNo := len(cachedOutputFiles) + 1
+	fileNo := len(b.cachedOutputFiles) + 1
 	name := fmt.Sprintf("cached_output_%d.txt", fileNo)
-	path := filepath.Join(cachedOutputDir, name)
+	path := filepath.Join(b.CacheDir(), name)
 	cof := &cachedOutputFile{
 		path: path,
 		doc:  nil,
 		no:   fileNo,
 	}
-	cachedOutputFiles = append(cachedOutputFiles, cof)
+	b.cachedOutputFiles = append(b.cachedOutputFiles, cof)
 	fmt.Printf("Created new cachedOutputFile. path: '%s'\n", path)
 	return cof
 }
@@ -73,11 +68,10 @@ func cachedFileNo(path string) int {
 }
 
 // files are cached_output_${no}.txt
-func reloadCachedOutputFilesMust() {
-	os.MkdirAll(cachedOutputDir, 0755)
-	sha1ToCachedOutputFile = make(map[string]*cachedOutputFile)
+func reloadCachedOutputFilesMust(b *Book) {
+	b.sha1ToCachedOutputFile = make(map[string]*cachedOutputFile)
 
-	fileInfos, err := ioutil.ReadDir(cachedOutputDir)
+	fileInfos, err := ioutil.ReadDir(b.CacheDir())
 	u.PanicIfErr(err)
 	for _, fi := range fileInfos {
 		if fi.IsDir() {
@@ -90,7 +84,7 @@ func reloadCachedOutputFilesMust() {
 			u.PanicIf(true, "'%s' is not a file with cached output", fi.Name())
 			continue
 		}
-		path := filepath.Join(cachedOutputDir, fi.Name())
+		path := filepath.Join(b.CacheDir(), fi.Name())
 		doc, err := kvstore.ParseKVFile(path)
 		u.PanicIfErr(err)
 		f := &cachedOutputFile{
@@ -98,25 +92,25 @@ func reloadCachedOutputFilesMust() {
 			doc:  doc,
 			no:   cachedFileNo(path),
 		}
-		cachedOutputFiles = append(cachedOutputFiles, f)
+		b.cachedOutputFiles = append(b.cachedOutputFiles, f)
 	}
-	fmt.Printf("loaded %d cached output files\n", len(cachedOutputFiles))
-	if len(cachedOutputFiles) == 0 {
+	fmt.Printf("loaded %d cached output files\n", len(b.cachedOutputFiles))
+	if len(b.cachedOutputFiles) == 0 {
 		return
 	}
-	sort.Slice(cachedOutputFiles, func(i, j int) bool {
-		n1 := cachedOutputFiles[i].no
-		n2 := cachedOutputFiles[j].no
+	sort.Slice(b.cachedOutputFiles, func(i, j int) bool {
+		n1 := b.cachedOutputFiles[i].no
+		n2 := b.cachedOutputFiles[j].no
 		return n1 < n2
 	})
 	//fmt.Printf("%#v\n", cachedOutputFiles)
-	for _, cfo := range cachedOutputFiles {
+	for _, cfo := range b.cachedOutputFiles {
 		for _, kv := range cfo.doc {
 			sha1 := kv.Key
-			sha1ToCachedOutputFile[sha1] = cfo
+			b.sha1ToCachedOutputFile[sha1] = cfo
 		}
 	}
-	fmt.Printf("%d cached files\n", len(sha1ToCachedOutputFile))
+	fmt.Printf("%d cached files\n", len(b.sha1ToCachedOutputFile))
 }
 
 func findOutputBySha1(cof *cachedOutputFile, sha1Hex string) string {
@@ -147,11 +141,11 @@ func saveCachedOutputFile(cof *cachedOutputFile) {
 	fmt.Printf("Wrote '%s'\n", cof.path)
 }
 
-func saveCachedOutputFiles() {
-	for _, cof := range cachedOutputFiles {
+func saveCachedOutputFiles(b *Book) {
+	for _, cof := range b.cachedOutputFiles {
 		saveCachedOutputFile(cof)
 	}
-	reloadCachedOutputFilesMust()
+	reloadCachedOutputFilesMust(b)
 }
 
 // runs `go run ${path}` and returns captured output`
@@ -222,7 +216,7 @@ func getOutput(path string, runCmd string) (string, error) {
 // If allowError is true, we silence an error from executed command
 // This is useful when e.g. executing "go run" on a program that is
 // intentionally not valid.
-func getOutputCached(sf *SourceFile) error {
+func getOutputCached(b *Book, sf *SourceFile) error {
 	if sf.Directive.NoOutput {
 		return nil
 	}
@@ -236,7 +230,7 @@ func getOutputCached(sf *SourceFile) error {
 
 	sha1Hex := u.Sha1HexOfBytes(sf.Data)
 
-	cfo := sha1ToCachedOutputFile[sha1Hex]
+	cfo := b.sha1ToCachedOutputFile[sha1Hex]
 	if cfo != nil {
 		sf.Output = findOutputBySha1(cfo, sha1Hex)
 		return nil
@@ -253,34 +247,7 @@ func getOutputCached(sf *SourceFile) error {
 	}
 
 	fmt.Printf("Got output '%s' for '%s'\n", sha1Hex, path)
-	cof := getCurrentOutputCacheFile()
+	cof := getCurrentOutputCacheFile(b)
 	cof.doc = kvstore.ReplaceOrAppend(cof.doc, sha1Hex, s)
 	return nil
-}
-
-func gitAddCachedOutputFiles() {
-	fileInfos, err := ioutil.ReadDir(cachedOutputDir)
-	u.PanicIfErr(err)
-	for _, fi := range fileInfos {
-		if fi.IsDir() {
-			continue
-		}
-		cmd := exec.Command("git", "add", fi.Name())
-		cmd.Dir = cachedOutputDir
-		out, err := cmd.CombinedOutput()
-		cmdStr := strings.Join(cmd.Args, " ")
-		fmt.Printf("%s\n", cmdStr)
-		if err != nil {
-			fmt.Printf("'%s' failed with '%s'. Out:\n%s\n", cmdStr, err, string(out))
-			u.PanicIfErr(err)
-		}
-	}
-	cmd := exec.Command("git", "commit", "-am", "update output files")
-	cmd.Dir = cachedOutputDir
-	out, err := cmd.CombinedOutput()
-	cmdStr := strings.Join(cmd.Args, " ")
-	fmt.Printf("%s\n", cmdStr)
-	if err != nil {
-		fmt.Printf("'%s' failed with '%s'. Out:\n%s\n", cmdStr, err, string(out))
-	}
 }

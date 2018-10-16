@@ -37,9 +37,25 @@ type Book struct {
 	// url of combined tocData and app.js
 	AppJSURL string
 
+	// cache related
+	cachedOutputFiles       []*cachedOutputFile
+	sha1ToCachedOutputFile  map[string]*cachedOutputFile
+	sha1ToGoPlaygroundCache *Sha1ToGoPlaygroundCache
+
 	// for concurrency
 	sem chan bool
 	wg  sync.WaitGroup
+}
+
+// CacheDir returns a cache dir for this book
+func (b *Book) CacheDir() string {
+	panicIf(b.Dir == "", "b.Dir should not be empty")
+	return filepath.Join("cache", b.Dir)
+}
+
+// OutputCacheDir returns output cache dir for this book
+func (b *Book) OutputCacheDir() string {
+	return filepath.Join(b.CacheDir(), "output")
 }
 
 // SourceDir is where source files for a given book are

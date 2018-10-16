@@ -105,10 +105,10 @@ func reloadCachedOutputFilesMust(b *Book) {
 		return n1 < n2
 	})
 	//fmt.Printf("%#v\n", cachedOutputFiles)
-	for _, cfo := range b.cachedOutputFiles {
-		for _, kv := range cfo.doc {
+	for _, cof := range b.cachedOutputFiles {
+		for _, kv := range cof.doc {
 			sha1 := kv.Key
-			b.sha1ToCachedOutputFile[sha1] = cfo
+			b.sha1ToCachedOutputFile[sha1] = cof
 		}
 	}
 	fmt.Printf("%d cached files\n", len(b.sha1ToCachedOutputFile))
@@ -219,9 +219,10 @@ func getOutputCachedForReplit(b *Book, replit *Replit, sf *SourceFile) error {
 
 	sha1Hex := u.Sha1HexOfBytes(sf.Data)
 
-	cfo := b.sha1ToCachedOutputFile[sha1Hex]
-	if cfo != nil {
-		sf.Output = findOutputBySha1(cfo, sha1Hex)
+	cof := b.sha1ToCachedOutputFile[sha1Hex]
+	if cof != nil {
+		// is guaranteed to exist
+		sf.Output = findOutputBySha1(cof, sha1Hex)
 		return nil
 	}
 
@@ -267,9 +268,10 @@ func getOutputCached(b *Book, sf *SourceFile) error {
 
 	sha1Hex := u.Sha1HexOfBytes(sf.Data)
 
-	cfo := b.sha1ToCachedOutputFile[sha1Hex]
-	if cfo != nil {
-		sf.Output = findOutputBySha1(cfo, sha1Hex)
+	cof := b.sha1ToCachedOutputFile[sha1Hex]
+	if cof != nil {
+		// is guaranteed to exist
+		sf.Output = findOutputBySha1(cof, sha1Hex)
 		return nil
 	}
 
@@ -291,7 +293,10 @@ func getOutputCached(b *Book, sf *SourceFile) error {
 	}
 
 	fmt.Printf("Got output '%s' for '%s'\n", sha1Hex, path)
-	cof := getCurrentOutputCacheFile(b)
+	cof = getCurrentOutputCacheFile(b)
 	cof.doc = kvstore.ReplaceOrAppend(cof.doc, sha1Hex, s)
+
+	b.sha1ToCachedOutputFile[sha1Hex] = cof
+	sf.Output = s
 	return nil
 }

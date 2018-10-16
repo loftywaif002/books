@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"net/url"
-	"os"
 	"path/filepath"
 	"strconv"
 	"strings"
@@ -97,6 +96,8 @@ type SourceFile struct {
 
 	// for Go files, this is playground id
 	GoPlaygroundID string
+
+	PlaygroundURI string
 
 	// optional, extracted from first line of the file
 	// allows providing meta-data instruction for this file
@@ -205,7 +206,23 @@ func setGoPlaygroundID(b *Book, sf *SourceFile) error {
 		return err
 	}
 	sf.GoPlaygroundID = id
+	sf.PlaygroundURI = "https://goplay.space/#" + sf.GoPlaygroundID
 	return nil
+}
+
+func setSourceFileData(sf *SourceFile, data []byte) error {
+	sf.Data = data
+	sf.LinesRaw = dataToLines(sf.Data)
+	lines := sf.LinesRaw
+	sf.RunCmd, lines = extractRunCmd(lines)
+	directive, lines, err := extractFileDirective(lines)
+	if err != nil {
+		return err
+	}
+	sf.Directive = directive
+	sf.LinesFiltered = removeAnnotationLines(lines)
+	sf.LinesCode, err = extractCodeSnippets(lines)
+	return err
 }
 
 func loadSourceFile(b *Book, path string) (*SourceFile, error) {
@@ -219,33 +236,17 @@ func loadSourceFile(b *Book, path string) (*SourceFile, error) {
 	sf := &SourceFile{
 		Path:      path,
 		FileName:  name,
-		Data:      data,
 		Lang:      lang,
 		GitHubURL: gitHubURL,
 	}
-	sf.LinesRaw = dataToLines(sf.Data)
-	lines := sf.LinesRaw
-	sf.RunCmd, lines = extractRunCmd(lines)
-	firstLine := lines[0]
-	directive, lines, err := extractFileDirective(lines)
-	if false && name == "timed_loop.go" {
-		fmt.Printf("loadSourceFile: '%s', directive: %#v\nline:'%s'\n", path, directive, firstLine)
-		os.Exit(1)
-	}
-	if err != nil {
-		fmt.Printf("loadSourceFile: extractFileDirective() of line '%s' failed with '%s'\n", sf.LinesRaw[0], err)
-		panicIfErr(err)
-	}
-	sf.Directive = directive
-	if directive.NoOutput {
-		fmt.Printf("NoOutput for '%s'\n", path)
-	}
 
-	sf.LinesFiltered = removeAnnotationLines(lines)
-	sf.LinesCode, err = extractCodeSnippets(lines)
+	err = setSourceFileData(sf, data)
 	if err != nil {
-		fmt.Printf("loadSourceFile: '%s', extractCodeSnippets() failed with '%s'\n", path, err)
+		fmt.Printf("loadSourceFile: '%s', setSourceFileData() failed with '%s'\n", path, err)
 		panicIfErr(err)
+	}
+	if sf.Directive.NoOutput {
+		fmt.Printf("NoOutput for '%s'\n", path)
 	}
 	setGoPlaygroundID(b, sf)
 	err = getOutputCached(b, sf)

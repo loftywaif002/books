@@ -41,6 +41,7 @@ type Book struct {
 	cachedOutputFiles       []*cachedOutputFile
 	sha1ToCachedOutputFile  map[string]*cachedOutputFile
 	sha1ToGoPlaygroundCache *Sha1ToGoPlaygroundCache
+	replitCache             *ReplitCache
 
 	// for concurrency
 	sem chan bool
@@ -61,6 +62,11 @@ func (b *Book) OutputCacheDir() string {
 // NotionCacheDir returns output cache dir for this book
 func (b *Book) NotionCacheDir() string {
 	return filepath.Join(b.CacheDir(), "notion")
+}
+
+// ReplitCachePath returns path of the cache file for replits
+func (b *Book) ReplitCachePath() string {
+	return filepath.Join(b.CacheDir(), "replit_cache.txt")
 }
 
 // SourceDir is where source files for a given book are

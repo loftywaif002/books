@@ -105,7 +105,8 @@ func replitToRecord(r *Replit) *siser.Record {
 // it'll. Cache doesn't have to exist.
 func LoadReplitCache(path string) (*ReplitCache, error) {
 	res := &ReplitCache{
-		path: path,
+		path:    path,
+		replits: map[string]*Replit{},
 	}
 	f, err := os.Open(path)
 	if err == nil {
@@ -224,19 +225,20 @@ func zipExtract(d []byte) ([]*ReplitFile, error) {
 	return res, nil
 }
 
-func downloadAndCacheReplit(c *ReplitCache, uri string) (bool, error) {
+func downloadAndCacheReplit(c *ReplitCache, uri string) (*Replit, bool, error) {
 	fullURL := uri + ".zip"
 	d, err := httpGet(fullURL)
 	if err != nil {
-		return false, err
+		return nil, false, err
 	}
 	files, err := zipExtract(d)
 	if err != nil {
-		return false, err
+		return nil, false, err
 	}
 	r := &Replit{
 		url:   uri,
 		files: files,
 	}
-	return c.Add(r)
+	isNew, err := c.Add(r)
+	return r, isNew, err
 }

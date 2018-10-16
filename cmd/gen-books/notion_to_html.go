@@ -239,14 +239,52 @@ func propsValueToText(v interface{}) string {
 
 func (g *HTMLGenerator) genEmbed(block *notionapi.Block) {
 	uri := block.FormatEmbed.DisplaySource
-	f := findSourceFileForEmbedURL(g.page, uri)
-	// currently we only handle source code file embeds but might handle
-	// others (graphs etc.)
-	if f == nil {
-		fmt.Printf("genEmbed: didn't find source file for url %s\n", uri)
+	if strings.Contains(uri, "onlinetool.io/") {
+		g.genGitEmbed(block)
 		return
 	}
+	if strings.Contains(uri, "repl.it/") {
+		g.genReplitEmbed(block)
+		return
+	}
+	panicIf(true, "unsupported embed %s", uri)
+}
 
+func (g *HTMLGenerator) genReplitEmbed(block *notionapi.Block) {
+	uri := block.FormatEmbed.DisplaySource
+	uri = strings.Replace(uri, "?lite=true", "", -1)
+
+	book := g.book
+	replit := book.replitCache.replits[uri]
+	if replit == nil {
+		var isNew bool
+		var err error
+		replit, isNew, err = downloadAndCacheReplit(book.replitCache, uri)
+		panicIfErr(err)
+		fmt.Printf("genReplitEmbed: downloaded %s,  isNew: %v\n", uri+".zip", isNew)
+	}
+	f, err := getSourceFileFromReplit(replit)
+	if err != nil {
+		fmt.Printf("genReplitEmbed: getSourceFileFromReplit (name: '%s', uri: '%s') failed with '%s'\n", replit.files[0].name, uri, err)
+		panicIfErr(err)
+	}
+	f.EmbedURL = uri
+	f.PlaygroundURI = uri
+
+	g.genSourceFile(f)
+}
+
+func getSourceFileFromReplit(replit *Replit) (*SourceFile, error) {
+	f := &SourceFile{}
+	panicIf(len(replit.files) != 1, "for now only supports 1 file, have: %d", len(replit.files))
+	rf := replit.files[0]
+	f.Lang = getLangFromFileExt(rf.name)
+	err := setSourceFileData(f, []byte(rf.data))
+	// TODO: get output
+	return f, err
+}
+
+func (g *HTMLGenerator) genSourceFile(f *SourceFile) {
 	{
 		var tmp bytes.Buffer
 		code := f.DataCode()
@@ -257,9 +295,7 @@ func (g *HTMLGenerator) genEmbed(block *notionapi.Block) {
 			Lang:      f.Lang,
 			GitHubURI: f.GitHubURL,
 		}
-		if f.GoPlaygroundID != "" {
-			info.PlaygroundURI = "https://goplay.space/#" + f.GoPlaygroundID
-		}
+		info.PlaygroundURI = f.PlaygroundURI
 		s := fixupHTMLCodeBlock(string(d), &info)
 		g.f.WriteString(s)
 	}
@@ -275,8 +311,19 @@ func (g *HTMLGenerator) genEmbed(block *notionapi.Block) {
 		s := fixupHTMLCodeBlock(string(d), &info)
 		g.f.WriteString(s)
 	}
+}
 
-	//fmt.Printf("genEmbed() uri: %s\n", uri)
+func (g *HTMLGenerator) genGitEmbed(block *notionapi.Block) {
+	uri := block.FormatEmbed.DisplaySource
+	f := findSourceFileForEmbedURL(g.page, uri)
+	// currently we only handle source code file embeds but might handle
+	// others (graphs etc.)
+	if f == nil {
+		fmt.Printf("genEmbed: didn't find source file for url %s\n", uri)
+		return
+	}
+
+	g.genSourceFile(f)
 }
 
 func (g *HTMLGenerator) genCollectionView(block *notionapi.Block) {

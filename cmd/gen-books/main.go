@@ -233,15 +233,19 @@ func main() {
 		}
 	}
 
+	var err error
 	for _, book := range books {
+		book.titleSafe = common.MakeURLSafe(book.Title)
+
 		createDirMust(book.OutputCacheDir())
 		createDirMust(book.NotionCacheDir())
 
 		reloadCachedOutputFilesMust(book)
 		path := filepath.Join(book.OutputCacheDir(), "sha1_to_go_playground_id.txt")
 		book.sha1ToGoPlaygroundCache = readSha1ToGoPlaygroundCache(path)
+		book.replitCache, err = LoadReplitCache(book.ReplitCachePath())
+		panicIfErr(err)
 
-		book.titleSafe = common.MakeURLSafe(book.Title)
 		downloadBook(client, book)
 		loadSoContributorsMust(book)
 	}

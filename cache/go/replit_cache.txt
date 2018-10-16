@@ -1,0 +1,11 @@
+@url: https://repl.it/@kjk1/getting-started-hello-world
+main.go:+74
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, 世界")
+}
+
+---

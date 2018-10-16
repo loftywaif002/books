@@ -73,7 +73,7 @@ func parseFlags() {
 func downloadBook(c *notionapi.Client, book *Book) {
 	notionStartPageID := book.NotionStartPageID
 	book.pageIDToPage = map[string]*notionapi.Page{}
-	loadNotionPages(c, notionStartPageID, book.pageIDToPage, !flgNoCache)
+	loadNotionPages(book, c, notionStartPageID, book.pageIDToPage, !flgNoCache)
 	fmt.Printf("Loaded %d pages for book %s\n", len(book.pageIDToPage), book.Title)
 	bookFromPages(book)
 }
@@ -213,8 +213,9 @@ func main() {
 
 	client := &notionapi.Client{}
 	if flgRedownloadOne != "" {
+		// TODO: must pass book or auto-detect from file system
 		// download a single page from notion and re-generate content
-		_, err := downloadAndCachePage(client, flgRedownloadOne)
+		_, err := downloadAndCachePage(nil, client, flgRedownloadOne)
 		if err != nil {
 			fmt.Printf("downloadAndCachePage of '%s' failed with %s\n", flgRedownloadOne, err)
 			os.Exit(1)
@@ -234,6 +235,8 @@ func main() {
 
 	for _, book := range books {
 		createDirMust(book.OutputCacheDir())
+		createDirMust(book.NotionCacheDir())
+
 		reloadCachedOutputFilesMust(book)
 		path := filepath.Join(book.OutputCacheDir(), "sha1_to_go_playground_id.txt")
 		book.sha1ToGoPlaygroundCache = readSha1ToGoPlaygroundCache(path)

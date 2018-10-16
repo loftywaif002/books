@@ -19,8 +19,7 @@ var (
 	// if true, we'll log
 	logNotionRequests = true
 
-	notionCacheDir = "notion_cache"
-	notionLogDir   = "log"
+	notionLogDir = "log"
 )
 
 // convert 2131b10c-ebf6-4938-a127-7089ff02dbe4 to 2131b10cebf64938a1277089ff02dbe4
@@ -74,8 +73,8 @@ func findSubPageIDs(blocks []*notionapi.Block) []string {
 	return res
 }
 
-func loadPageFromCache(pageID string) *notionapi.Page {
-	cachedPath := filepath.Join(notionCacheDir, pageID+".json")
+func loadPageFromCache(b *Book, pageID string) *notionapi.Page {
+	cachedPath := filepath.Join(b.NotionCacheDir(), pageID+".json")
 	d, err := ioutil.ReadFile(cachedPath)
 	if err != nil {
 		return nil
@@ -104,7 +103,7 @@ func downloadPageRetry(c *notionapi.Client, pageID string) (*notionapi.Page, err
 	return nil, err
 }
 
-func downloadAndCachePage(c *notionapi.Client, pageID string) (*notionapi.Page, error) {
+func downloadAndCachePage(b *Book, c *notionapi.Client, pageID string) (*notionapi.Page, error) {
 	//fmt.Printf("downloading page with id %s\n", pageID)
 	pageID = normalizeID(pageID)
 	c.Logger, _ = openLogFileForPageID(pageID)
@@ -114,7 +113,7 @@ func downloadAndCachePage(c *notionapi.Client, pageID string) (*notionapi.Page, 
 			lf.Close()
 		}()
 	}
-	cachedPath := filepath.Join(notionCacheDir, pageID+".json")
+	cachedPath := filepath.Join(b.NotionCacheDir(), pageID+".json")
 	page, err := downloadPageRetry(c, pageID)
 	if err != nil {
 		return nil, err
@@ -134,23 +133,23 @@ var (
 	nNotionPagesFromCache int
 )
 
-func loadNotionPage(c *notionapi.Client, pageID string, getFromCache bool, n int) (*notionapi.Page, error) {
+func loadNotionPage(b *Book, c *notionapi.Client, pageID string, getFromCache bool, n int) (*notionapi.Page, error) {
 	if getFromCache {
-		page := loadPageFromCache(pageID)
+		page := loadPageFromCache(b, pageID)
 		if page != nil {
 			nNotionPagesFromCache++
 			//fmt.Printf("Got %d from cache %s %s\n", n, pageID, page.Root.Title)
 			return page, nil
 		}
 	}
-	page, err := downloadAndCachePage(c, pageID)
+	page, err := downloadAndCachePage(b, c, pageID)
 	if err == nil {
 		fmt.Printf("Downloaded %d %s %s\n", n, page.ID, page.Root.Title)
 	}
 	return page, err
 }
 
-func loadNotionPages(c *notionapi.Client, indexPageID string, idToPage map[string]*notionapi.Page, useCache bool) {
+func loadNotionPages(b *Book, c *notionapi.Client, indexPageID string, idToPage map[string]*notionapi.Page, useCache bool) {
 	toVisit := []string{indexPageID}
 
 	n := 1
@@ -162,7 +161,7 @@ func loadNotionPages(c *notionapi.Client, indexPageID string, idToPage map[strin
 			continue
 		}
 
-		page, err := loadNotionPage(c, pageID, useCache, n)
+		page, err := loadNotionPage(b, c, pageID, useCache, n)
 		panicIfErr(err)
 		n++
 
@@ -173,11 +172,11 @@ func loadNotionPages(c *notionapi.Client, indexPageID string, idToPage map[strin
 	}
 }
 
-func loadAllPages(c *notionapi.Client, startIDs []string, useCache bool) map[string]*notionapi.Page {
+func loadAllPages(b *Book, c *notionapi.Client, startIDs []string, useCache bool) map[string]*notionapi.Page {
 	idToPage := map[string]*notionapi.Page{}
 	nPrev := 0
 	for _, startID := range startIDs {
-		loadNotionPages(c, startID, idToPage, useCache)
+		loadNotionPages(b, c, startID, idToPage, useCache)
 		nDownloaded := len(idToPage) - nPrev
 		fmt.Printf("Got %d pages, %d from cache\n", nDownloaded, nNotionPagesFromCache)
 		nPrev = len(idToPage)
@@ -192,15 +191,10 @@ func rmFile(path string) {
 	}
 }
 
-func rmCached(pageID string) {
+func rmCached(b *Book, pageID string) {
 	id := normalizeID(pageID)
 	rmFile(filepath.Join(notionLogDir, id+".go.log.txt"))
-	rmFile(filepath.Join(notionCacheDir, id+".json"))
-}
-
-func createNotionCacheDir() {
-	err := os.MkdirAll(notionCacheDir, 0755)
-	panicIfErr(err)
+	rmFile(filepath.Join(b.NotionCacheDir(), id+".json"))
 }
 
 func createNotionLogDir() {
@@ -212,13 +206,12 @@ func createNotionLogDir() {
 
 func createNotionDirs() {
 	createNotionLogDir()
-	createNotionCacheDir()
 }
 
 func removeCachedNotion() {
-	err := os.RemoveAll(notionCacheDir)
-	panicIfErr(err)
-	err = os.RemoveAll(notionLogDir)
+	//err := os.RemoveAll(notionCacheDir)
+	//panicIfErr(err)
+	err := os.RemoveAll(notionLogDir)
 	panicIfErr(err)
 	createNotionDirs()
 }

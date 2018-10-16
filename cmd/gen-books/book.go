@@ -58,6 +58,11 @@ func (b *Book) OutputCacheDir() string {
 	return filepath.Join(b.CacheDir(), "output")
 }
 
+// NotionCacheDir returns output cache dir for this book
+func (b *Book) NotionCacheDir() string {
+	return filepath.Join(b.CacheDir(), "notion")
+}
+
 // SourceDir is where source files for a given book are
 func (b *Book) SourceDir() string {
 	return filepath.Join("books", b.Dir)

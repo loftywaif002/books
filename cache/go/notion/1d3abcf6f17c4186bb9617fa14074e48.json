@@ -15,7 +15,7 @@
       "030e8c42-39e7-4d48-a730-604d41430480",
       "8e116ab9-6e95-4c0a-bc12-0cfeae360c1c",
       "9cdc1dd8-9059-4c15-b588-94a737968c8d",
-      "be47d9c2-e715-4266-9bb5-fabc1259a2f8",
+      "837914f1-1ae7-425c-8299-fcebea25cd76",
       "52ea612a-9f01-45c5-b4fd-98950a6dfb56"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -27,7 +27,7 @@
     "id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538721389070,
+    "last_edited_time": 1539753781237,
     "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
     "parent_table": "block",
     "properties": {
@@ -38,7 +38,7 @@
       ]
     },
     "type": "page",
-    "version": 28,
+    "version": 35,
     "content_resolved": [
       {
         "alive": true,
@@ -377,35 +377,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538721389070,
+        "created_time": 1539753754712,
         "format": {
-          "block_height": 486,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fnormalize_newlines.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-normalize-newlines?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "be47d9c2-e715-4266-9bb5-fabc1259a2f8",
+        "id": "837914f1-1ae7-425c-8299-fcebea25cd76",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538721402553,
+        "last_edited_time": 1539753756473,
         "parent_id": "1d3abcf6-f17c-4186-bb96-17fa14074e48",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fnormalize_newlines.go"
+              "https://repl.it/@kjk1/book-normalize-newlines"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fnormalize_newlines.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-normalize-newlines",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 486,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fnormalize_newlines.go"
+          "display_source": "https://repl.it/@kjk1/book-normalize-newlines?lite=true"
         }
       },
       {

@@ -12,7 +12,7 @@
       "9d14a5a5-b997-43b1-8f56-7e4ba56d5fe2",
       "45eb3d50-1f9f-4ca6-8b1e-08ac9f0ec06a",
       "6a7ae1b2-fbdf-453b-9e76-b5d6fa83dfff",
-      "67b2b000-7719-4b3c-ae65-c8f8b1d0fc68",
+      "3cc06a12-f43f-4229-98de-38b5ee2c5a95",
       "caf809ad-083c-4202-861d-a215926168cb",
       "30e84bdd-61fd-4732-8453-350e58025ccb",
       "2b831bac-5afc-4144-93cf-f5e06e8e4460",
@@ -36,7 +36,7 @@
     "id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538873678892,
+    "last_edited_time": 1539764153339,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -47,7 +47,7 @@
       ]
     },
     "type": "page",
-    "version": 70,
+    "version": 77,
     "content_resolved": [
       {
         "alive": true,
@@ -289,35 +289,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538772740382,
+        "created_time": 1539764146014,
         "format": {
-          "block_height": 727,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Findex.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-map-basics?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "67b2b000-7719-4b3c-ae65-c8f8b1d0fc68",
+        "id": "3cc06a12-f43f-4229-98de-38b5ee2c5a95",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772811400,
+        "last_edited_time": 1539764148274,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Findex.go"
+              "https://repl.it/@kjk1/gobook-map-basics"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
-        "source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Findex.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-map-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 727,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Findex.go"
+          "display_source": "https://repl.it/@kjk1/gobook-map-basics?lite=true"
         }
       },
       {
@@ -475,7 +476,7 @@
         "id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772972712,
+        "last_edited_time": 1539764072364,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
@@ -486,7 +487,7 @@
           ]
         },
         "type": "page",
-        "version": 37,
+        "version": 51,
         "title": "Zero value of a map",
         "format_page": {
           "page_cover": "",
@@ -508,7 +509,7 @@
         "id": "d072e2f5-e118-4b51-88cc-80aeed96f150",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772999552,
+        "last_edited_time": 1539763943997,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
@@ -519,7 +520,7 @@
           ]
         },
         "type": "page",
-        "version": 32,
+        "version": 39,
         "title": "Copy a map",
         "format_page": {
           "page_cover": "",
@@ -541,7 +542,7 @@
         "id": "c0554d1e-1b31-464a-9b5c-8463bd3c1095",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538808985128,
+        "last_edited_time": 1539763858821,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
@@ -552,7 +553,7 @@
           ]
         },
         "type": "page",
-        "version": 99,
+        "version": 120,
         "title": "Iterate over a map with range",
         "format_page": {
           "page_cover": "",
@@ -607,7 +608,7 @@
         "id": "90b9baa6-982e-4dc1-a8ea-21976757cae5",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538773334870,
+        "last_edited_time": 1539763657672,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
@@ -618,7 +619,7 @@
           ]
         },
         "type": "page",
-        "version": 28,
+        "version": 35,
         "title": "Use map as a set",
         "format_page": {
           "page_cover": "",
@@ -673,7 +674,7 @@
         "id": "ef0d76af-9188-4e07-a1c5-a606f17a341c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538773375660,
+        "last_edited_time": 1539763586980,
         "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "parent_table": "block",
         "properties": {
@@ -684,7 +685,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "Concurrent access of maps",
         "format_page": {
           "page_cover": "",

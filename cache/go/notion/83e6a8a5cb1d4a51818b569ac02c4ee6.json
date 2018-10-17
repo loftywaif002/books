@@ -7,22 +7,22 @@
       "eae6d433-c637-4700-a4ee-404831704593",
       "b0419375-05cd-40d9-a73c-1c52600c2899",
       "c8580c7f-ece1-4531-81d2-8fac6e1e4e30",
-      "91111a38-cd54-45c0-ba18-2b8961b7966f",
+      "cebba19e-dbe8-4bf5-81d5-c41c2b249e85",
       "73452e64-b977-4eca-9526-831a3357faa0",
       "9d23e79f-b022-4fdc-813c-2e0743a48db3",
-      "7b3ed5dd-8d3e-4509-aa37-02fcaae87e05",
+      "71fef6f6-e322-4db0-89d4-2123d6b3d81d",
       "44cb4f38-4e6f-41a7-9267-6f427ecc0b4b",
       "1e0b3732-f6dc-4033-89e9-f4c2c294ea80",
-      "46b793ce-0c95-49b8-8823-47a2c625e7dc",
+      "be7cf56d-93ea-4b47-8b5d-f5fd0a0af1eb",
       "c593e488-cf0f-41a1-ad7e-66a7050493cf",
       "d28e3c9e-393e-4896-8dea-a1d3d814ef69",
-      "41e5a850-acb0-4193-acc5-f2381c3ee2c9",
+      "32c0ad9f-190c-46d5-b4ee-ea1009f32e71",
       "56963d9c-d2b7-429d-b428-8ba4b62f7ca4",
       "f7ab4024-bf55-4c96-9363-d5f04913cbcb",
-      "ac020b36-dcd9-4c1e-81f2-917cdc3eeb23",
+      "31bcc87e-9a7a-4944-ae07-05978dd8484f",
       "db777243-2ad0-457d-9373-3f1a910f37e3",
       "54248adb-1672-4beb-ba34-0a785324ab21",
-      "c61ac769-228c-4051-8e75-01cb4a6e5890",
+      "b0cea3bf-e23f-4b2e-81a1-d6ce557a44fa",
       "adee59dc-ee1d-43c6-ba34-33564873ed6d",
       "2197e62c-7dc7-4d57-9446-b72974b2290b"
     ],
@@ -35,7 +35,7 @@
     "id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538720751958,
+    "last_edited_time": 1539761452760,
     "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
     "parent_table": "block",
     "properties": {
@@ -46,7 +46,7 @@
       ]
     },
     "type": "page",
-    "version": 65,
+    "version": 114,
     "content_resolved": [
       {
         "alive": true,
@@ -172,35 +172,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538720577095,
+        "created_time": 1539761119154,
         "format": {
-          "block_height": 388,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-finding-strings?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "91111a38-cd54-45c0-ba18-2b8961b7966f",
+        "id": "cebba19e-dbe8-4bf5-81d5-c41c2b249e85",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720586508,
+        "last_edited_time": 1539761121532,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings.go"
+              "https://repl.it/@kjk1/book-finding-strings"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-finding-strings",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 388,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings.go"
+          "display_source": "https://repl.it/@kjk1/book-finding-strings?lite=true"
         }
       },
       {
@@ -279,35 +280,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538720612763,
+        "created_time": 1539761188664,
         "format": {
-          "block_height": 325,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings2.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-finding-strings-2?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "7b3ed5dd-8d3e-4509-aa37-02fcaae87e05",
+        "id": "71fef6f6-e322-4db0-89d4-2123d6b3d81d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720619301,
+        "last_edited_time": 1539761190081,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings2.go"
+              "https://repl.it/@kjk1/book-finding-strings-2"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings2.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-finding-strings-2",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 325,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings2.go"
+          "display_source": "https://repl.it/@kjk1/book-finding-strings-2?lite=true"
         }
       },
       {
@@ -363,35 +365,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538720638823,
+        "created_time": 1539761251276,
         "format": {
-          "block_height": 443,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings3.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-finding-strings-3?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "46b793ce-0c95-49b8-8823-47a2c625e7dc",
+        "id": "be7cf56d-93ea-4b47-8b5d-f5fd0a0af1eb",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720644884,
+        "last_edited_time": 1539761252994,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings3.go"
+              "https://repl.it/@kjk1/book-finding-strings-3"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings3.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-finding-strings-3",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 443,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings3.go"
+          "display_source": "https://repl.it/@kjk1/book-finding-strings-3?lite=true"
         }
       },
       {
@@ -470,35 +473,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538720670144,
+        "created_time": 1539761318339,
         "format": {
-          "block_height": 372,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings4.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-finding-strings-4?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "41e5a850-acb0-4193-acc5-f2381c3ee2c9",
+        "id": "32c0ad9f-190c-46d5-b4ee-ea1009f32e71",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720680283,
+        "last_edited_time": 1539761319880,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings4.go"
+              "https://repl.it/@kjk1/book-finding-strings-4"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings4.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-finding-strings-4",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 372,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings4.go"
+          "display_source": "https://repl.it/@kjk1/book-finding-strings-4?lite=true"
         }
       },
       {
@@ -577,35 +581,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538720722055,
+        "created_time": 1539761375960,
         "format": {
-          "block_height": 375,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings5.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-finding-strings-5?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "ac020b36-dcd9-4c1e-81f2-917cdc3eeb23",
+        "id": "31bcc87e-9a7a-4944-ae07-05978dd8484f",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720731925,
+        "last_edited_time": 1539761377912,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings5.go"
+              "https://repl.it/@kjk1/book-finding-strings-5"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings5.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-finding-strings-5",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 375,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings5.go"
+          "display_source": "https://repl.it/@kjk1/book-finding-strings-5?lite=true"
         }
       },
       {
@@ -684,35 +689,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538720751958,
+        "created_time": 1539761444781,
         "format": {
-          "block_height": 371,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings6.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-finding-strings-6?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "c61ac769-228c-4051-8e75-01cb4a6e5890",
+        "id": "b0cea3bf-e23f-4b2e-81a1-d6ce557a44fa",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720758655,
+        "last_edited_time": 1539761446523,
         "parent_id": "83e6a8a5-cb1d-4a51-818b-569ac02c4ee6",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings6.go"
+              "https://repl.it/@kjk1/book-finding-strings-6"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings6.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-finding-strings-6",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 371,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ffinding_strings6.go"
+          "display_source": "https://repl.it/@kjk1/book-finding-strings-6?lite=true"
         }
       },
       {

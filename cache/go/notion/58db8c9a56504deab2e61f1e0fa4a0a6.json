@@ -12,7 +12,7 @@
       "774cfb6f-9a62-45a7-955d-3364e34ea514",
       "a05e7e7b-bd96-47f0-b40e-24d3091b39c2",
       "6e8c317d-877b-47ab-a2d3-a842ff06f689",
-      "cfb656a9-cb2e-49f3-855b-2602fe2ab4bd",
+      "d6a930b0-f93b-4d5f-8e4a-e8b01a9d7258",
       "e578cdb4-5791-4776-9e11-5364f4d747bc",
       "89d6d347-230a-4307-86cc-19ee9eef0390",
       "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
@@ -27,7 +27,7 @@
     "id": "58db8c9a-5650-4dea-b2e6-1f1e0fa4a0a6",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538772148705,
+    "last_edited_time": 1539762613649,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -38,7 +38,7 @@
       ]
     },
     "type": "page",
-    "version": 31,
+    "version": 38,
     "content_resolved": [
       {
         "alive": true,
@@ -285,35 +285,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538771936840,
+        "created_time": 1539762605111,
         "format": {
-          "block_height": 427,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Findex.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-array-basic?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "cfb656a9-cb2e-49f3-855b-2602fe2ab4bd",
+        "id": "d6a930b0-f93b-4d5f-8e4a-e8b01a9d7258",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538771949072,
+        "last_edited_time": 1539762607035,
         "parent_id": "58db8c9a-5650-4dea-b2e6-1f1e0fa4a0a6",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Findex.go"
+              "https://repl.it/@kjk1/book-array-basic"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Findex.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-array-basic",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 427,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Findex.go"
+          "display_source": "https://repl.it/@kjk1/book-array-basic?lite=true"
         }
       },
       {
@@ -339,7 +340,7 @@
         "id": "89d6d347-230a-4307-86cc-19ee9eef0390",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538771970272,
+        "last_edited_time": 1539762995015,
         "parent_id": "58db8c9a-5650-4dea-b2e6-1f1e0fa4a0a6",
         "parent_table": "block",
         "properties": {
@@ -350,7 +351,7 @@
           ]
         },
         "type": "page",
-        "version": 28,
+        "version": 35,
         "title": "Create array",
         "format_page": {
           "page_cover": "",
@@ -372,7 +373,7 @@
         "id": "f9ebde1b-6f7b-4ac4-9a7a-4693f0f19a6a",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772021440,
+        "last_edited_time": 1539762940259,
         "parent_id": "58db8c9a-5650-4dea-b2e6-1f1e0fa4a0a6",
         "parent_table": "block",
         "properties": {
@@ -383,7 +384,7 @@
           ]
         },
         "type": "page",
-        "version": 40,
+        "version": 54,
         "title": "Array indexes",
         "format_page": {
           "page_cover": "",
@@ -405,7 +406,7 @@
         "id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772104995,
+        "last_edited_time": 1539762817900,
         "parent_id": "58db8c9a-5650-4dea-b2e6-1f1e0fa4a0a6",
         "parent_table": "block",
         "properties": {
@@ -416,7 +417,7 @@
           ]
         },
         "type": "page",
-        "version": 42,
+        "version": 63,
         "title": "Multidimensional array",
         "format_page": {
           "page_cover": "",

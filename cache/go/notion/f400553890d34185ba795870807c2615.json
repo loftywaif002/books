@@ -16,7 +16,7 @@
       "f87bae19-a891-4764-b311-258b20ecb765",
       "4a43c500-25f0-4e43-9226-b9c671d0cea7",
       "a58e41f4-e794-4672-86b4-fc9be989a28c",
-      "db301d9a-ac1f-418e-aecf-dda8835149eb",
+      "0ce06b2e-dc1d-4820-804f-d9538c0d52c1",
       "5ec1fe3d-dfc6-4d01-917b-50bd8418d920",
       "7df87500-f405-4270-9aa7-c471f0cd6679",
       "4a18d077-6d1a-4e44-ad56-cdd0c7aa7640",
@@ -36,7 +36,7 @@
     "id": "f4005538-90d3-4185-ba79-5870807c2615",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538807495801,
+    "last_edited_time": 1539763404574,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -47,7 +47,7 @@
       ]
     },
     "type": "page",
-    "version": 65,
+    "version": 72,
     "content_resolved": [
       {
         "alive": true,
@@ -380,35 +380,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538772287818,
+        "created_time": 1539763399177,
         "format": {
-          "block_height": 316,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0080-slices%2Findex.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-slice-basics?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "db301d9a-ac1f-418e-aecf-dda8835149eb",
+        "id": "0ce06b2e-dc1d-4820-804f-d9538c0d52c1",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772292873,
+        "last_edited_time": 1539763401157,
         "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0080-slices%2Findex.go"
+              "https://repl.it/@kjk1/book-slice-basics"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0080-slices%2Findex.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-slice-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 316,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0080-slices%2Findex.go"
+          "display_source": "https://repl.it/@kjk1/book-slice-basics?lite=true"
         }
       },
       {
@@ -500,7 +501,7 @@
         "id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538807479296,
+        "last_edited_time": 1539763343092,
         "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
         "parent_table": "block",
         "properties": {
@@ -511,7 +512,7 @@
           ]
         },
         "type": "page",
-        "version": 54,
+        "version": 61,
         "title": "Append to slice",
         "format_page": {
           "page_cover": "",
@@ -533,7 +534,7 @@
         "id": "d7afa115-4b43-4d1d-8026-69cd92c1f6cf",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538808140958,
+        "last_edited_time": 1539763280261,
         "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
         "parent_table": "block",
         "properties": {
@@ -544,7 +545,7 @@
           ]
         },
         "type": "page",
-        "version": 70,
+        "version": 84,
         "title": "Filter a slice",
         "format_page": {
           "page_cover": "",
@@ -599,7 +600,7 @@
         "id": "64124d2d-3d2d-4015-9cb1-293792a3a77e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772428556,
+        "last_edited_time": 1539763133099,
         "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
         "parent_table": "block",
         "properties": {
@@ -610,7 +611,7 @@
           ]
         },
         "type": "page",
-        "version": 28,
+        "version": 35,
         "title": "Duplicate (create a copy of) a slice",
         "format_page": {
           "page_cover": "",

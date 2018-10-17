@@ -8,7 +8,7 @@
       "373b1378-fc66-45b2-b99d-3121868d3755",
       "56155416-3a05-4d3a-bbba-6a6049f4f092",
       "160e3fdc-354a-4e52-ade5-73d27f6f07e4",
-      "4a175747-e3a1-4d70-8dc3-eeea2831e36f",
+      "fd7c1133-4d8c-49ab-9d2f-70fd9b3b37c5",
       "05c7bf9f-9bba-4131-90d3-8d92d2a012e8",
       "0fc5b556-8122-4e51-be16-8f344123594e"
     ],
@@ -21,7 +21,7 @@
     "id": "ed8b3126-eee2-4df5-9e95-16ed4ccc2acb",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538720959405,
+    "last_edited_time": 1539760667702,
     "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
     "parent_table": "block",
     "properties": {
@@ -32,7 +32,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -146,35 +146,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538720946691,
+        "created_time": 1539760657210,
         "format": {
-          "block_height": 752,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fconvert_to_number.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-convert-to-number?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "4a175747-e3a1-4d70-8dc3-eeea2831e36f",
+        "id": "fd7c1133-4d8c-49ab-9d2f-70fd9b3b37c5",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720958063,
+        "last_edited_time": 1539760659347,
         "parent_id": "ed8b3126-eee2-4df5-9e95-16ed4ccc2acb",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fconvert_to_number.go"
+              "https://repl.it/@kjk1/book-convert-to-number"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fconvert_to_number.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-convert-to-number",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 752,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fconvert_to_number.go"
+          "display_source": "https://repl.it/@kjk1/book-convert-to-number?lite=true"
         }
       },
       {

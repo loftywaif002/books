@@ -237,7 +237,7 @@
         "id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720520124,
+        "last_edited_time": 1539753577089,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -248,7 +248,7 @@
           ]
         },
         "type": "page",
-        "version": 39,
+        "version": 46,
         "title": "Strings",
         "format_page": {
           "page_cover": "",
@@ -270,7 +270,7 @@
         "id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538771573622,
+        "last_edited_time": 1539762111374,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -281,7 +281,7 @@
           ]
         },
         "type": "page",
-        "version": 33,
+        "version": 40,
         "title": "Pointers",
         "format_page": {
           "page_cover": "",
@@ -303,7 +303,7 @@
         "id": "58db8c9a-5650-4dea-b2e6-1f1e0fa4a0a6",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772148705,
+        "last_edited_time": 1539762613649,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -314,7 +314,7 @@
           ]
         },
         "type": "page",
-        "version": 31,
+        "version": 38,
         "title": "Arrays",
         "format_page": {
           "page_cover": "",
@@ -336,7 +336,7 @@
         "id": "f4005538-90d3-4185-ba79-5870807c2615",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538807495801,
+        "last_edited_time": 1539763404574,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -347,7 +347,7 @@
           ]
         },
         "type": "page",
-        "version": 65,
+        "version": 72,
         "title": "Slices",
         "format_page": {
           "page_cover": "",
@@ -369,7 +369,7 @@
         "id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538873678892,
+        "last_edited_time": 1539764153339,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -380,7 +380,7 @@
           ]
         },
         "type": "page",
-        "version": 70,
+        "version": 77,
         "title": "Maps",
         "format_page": {
           "page_cover": "",
@@ -402,7 +402,7 @@
         "id": "61280245-4798-470c-a5c5-741d90543d22",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538780939258,
+        "last_edited_time": 1539764561519,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -413,7 +413,7 @@
           ]
         },
         "type": "page",
-        "version": 37,
+        "version": 44,
         "title": "Structs",
         "format_page": {
           "page_cover": "",
@@ -435,7 +435,7 @@
         "id": "4f5f2959-e72c-431e-9955-27b51ad7fd8e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538781179660,
+        "last_edited_time": 1539764823334,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -446,7 +446,7 @@
           ]
         },
         "type": "page",
-        "version": 31,
+        "version": 38,
         "title": "Interfaces",
         "format_page": {
           "page_cover": "",
@@ -468,7 +468,7 @@
         "id": "c3315892-5082-48fd-b19b-663bf8bff028",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538781411108,
+        "last_edited_time": 1539765174396,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -479,7 +479,7 @@
           ]
         },
         "type": "page",
-        "version": 38,
+        "version": 45,
         "title": "Empty interface",
         "format_page": {
           "page_cover": "",
@@ -501,7 +501,7 @@
         "id": "fd755f13-f0fc-4e75-ad9b-9ee675e557e8",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538782546032,
+        "last_edited_time": 1539765773862,
         "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
         "parent_table": "block",
         "properties": {
@@ -512,7 +512,7 @@
           ]
         },
         "type": "page",
-        "version": 47,
+        "version": 61,
         "title": "if, switch, goto",
         "format_page": {
           "page_cover": "",

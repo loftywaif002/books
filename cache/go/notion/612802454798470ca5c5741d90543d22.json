@@ -11,7 +11,7 @@
       "daf9c280-9553-4fce-b911-5a3df46ea527",
       "af594db6-04b4-44a7-9df5-2033a6076b0a",
       "b9dcb8f4-2c6b-4700-8f1f-d4614d5dfac4",
-      "a02032d9-da7d-4d9e-8080-566753f9001d",
+      "4d492b9e-2c65-4967-993b-2b0fd1289a2a",
       "b508b3db-42f5-4faf-98bd-a4a7503f5ae0",
       "c5f5ee87-60b7-465e-9697-34239b08e612",
       "5671e408-54c3-4373-8871-639d8a79f5f0",
@@ -32,7 +32,7 @@
     "id": "61280245-4798-470c-a5c5-741d90543d22",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538780939258,
+    "last_edited_time": 1539764561519,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -43,7 +43,7 @@
       ]
     },
     "type": "page",
-    "version": 37,
+    "version": 44,
     "content_resolved": [
       {
         "alive": true,
@@ -283,35 +283,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538780929530,
+        "created_time": 1539764542613,
         "format": {
-          "block_height": 592,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0100-structs%2Findex.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-struct-basics?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "a02032d9-da7d-4d9e-8080-566753f9001d",
+        "id": "4d492b9e-2c65-4967-993b-2b0fd1289a2a",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538780936311,
+        "last_edited_time": 1539764544209,
         "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0100-structs%2Findex.go"
+              "https://repl.it/@kjk1/gobook-struct-basics"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0100-structs%2Findex.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-struct-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 592,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0100-structs%2Findex.go"
+          "display_source": "https://repl.it/@kjk1/gobook-struct-basics?lite=true"
         }
       },
       {
@@ -337,7 +338,7 @@
         "id": "c5f5ee87-60b7-465e-9697-34239b08e612",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538780974001,
+        "last_edited_time": 1539764491299,
         "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
         "parent_table": "block",
         "properties": {
@@ -348,7 +349,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "Basic declaration",
         "format_page": {
           "page_cover": "",
@@ -403,7 +404,7 @@
         "id": "4eb5f7b0-ca13-4959-97e6-24a6639d3eea",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538781010766,
+        "last_edited_time": 1539764396357,
         "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
         "parent_table": "block",
         "properties": {
@@ -414,7 +415,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "Anonymous structs",
         "format_page": {
           "page_cover": "",
@@ -601,7 +602,7 @@
         "id": "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538781065326,
+        "last_edited_time": 1539764311603,
         "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
         "parent_table": "block",
         "properties": {
@@ -612,7 +613,7 @@
           ]
         },
         "type": "page",
-        "version": 32,
+        "version": 39,
         "title": "Methods",
         "format_page": {
           "page_cover": "",

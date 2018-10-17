@@ -8,13 +8,12 @@
       "9cd48cb5-2ea9-4a20-9467-fe42b6fb6f7a",
       "e5c9b142-2a3e-40ab-a01b-3093c025e339",
       "237d8c7a-737b-4fa8-819b-8d3e643677b6",
-      "2e964ea9-e09a-4aac-8145-0ec9ff2d91d6",
+      "1229d05e-3dc8-4de8-b3cc-a2baf28f8524",
       "0267f7be-aac3-4912-88ee-d05811adebbc",
       "06bbc012-2271-4253-955a-3a71456c2421",
       "38b46a41-39e6-4ff6-885f-1f2f4ed872df",
-      "4891c950-ca88-4575-9006-b7acbf12c3d0",
+      "60611379-620a-407f-a1eb-3d0e805e008c",
       "75453acb-e534-40b8-b639-150c57c56018",
-      "2acf57d5-0a13-45eb-bb5e-91bb0ebd20c7",
       "000cd566-4fad-4b54-bb7f-2ca3399ca726"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -26,7 +25,7 @@
     "id": "d6542c35-3d41-466c-82d9-e76694b3070c",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538721362859,
+    "last_edited_time": 1539754222381,
     "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
     "parent_table": "block",
     "properties": {
@@ -37,7 +36,7 @@
       ]
     },
     "type": "page",
-    "version": 34,
+    "version": 50,
     "content_resolved": [
       {
         "alive": true,
@@ -152,35 +151,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538721288515,
+        "created_time": 1539753891223,
         "format": {
-          "block_height": 582.99658203125,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fread_file_as_lines.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-read-file-as-lines?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "2e964ea9-e09a-4aac-8145-0ec9ff2d91d6",
+        "id": "1229d05e-3dc8-4de8-b3cc-a2baf28f8524",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538721308385,
+        "last_edited_time": 1539753893232,
         "parent_id": "d6542c35-3d41-466c-82d9-e76694b3070c",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fread_file_as_lines.go"
+              "https://repl.it/@kjk1/book-read-file-as-lines"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fread_file_as_lines.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-read-file-as-lines",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 582.99658203125,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fread_file_as_lines.go"
+          "display_source": "https://repl.it/@kjk1/book-read-file-as-lines?lite=true"
         }
       },
       {
@@ -284,29 +284,37 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155968178,
-        "id": "4891c950-ca88-4575-9006-b7acbf12c3d0",
-        "ignore_block_count": true,
+        "created_time": 1539754213023,
+        "format": {
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-iter-lines-in-file?lite=true",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "60611379-620a-407f-a1eb-3d0e805e008c",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532195735090,
+        "last_edited_time": 1539754214789,
         "parent_id": "d6542c35-3d41-466c-82d9-e76694b3070c",
         "parent_table": "block",
         "properties": {
-          "language": [
+          "source": [
             [
-              "Go"
-            ]
-          ],
-          "title": [
-            [
-              "func IterLinesInFile(filePath string) error {\n    file, err := os.Open(filePath)\n    if err != nil {\n        return err\n    }\n    defer file.Close()\n    scanner := bufio.NewScanner(file)\n    // Scan() reads next line and returns false when reached end or error\n    for scanner.Scan() {\n        line := scanner.Text()\n        // process the line\n    }\n    // check if Scan() finished because of error or because it reached end of file\n    return scanner.Err()\n}"
+              "https://repl.it/@kjk1/book-iter-lines-in-file"
             ]
           ]
         },
-        "type": "code",
-        "version": 3,
-        "code": "func IterLinesInFile(filePath string) error {\n    file, err := os.Open(filePath)\n    if err != nil {\n        return err\n    }\n    defer file.Close()\n    scanner := bufio.NewScanner(file)\n    // Scan() reads next line and returns false when reached end or error\n    for scanner.Scan() {\n        line := scanner.Text()\n        // process the line\n    }\n    // check if Scan() finished because of error or because it reached end of file\n    return scanner.Err()\n}",
-        "code_language": "Go"
+        "type": "embed",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-iter-lines-in-file",
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 600,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://repl.it/@kjk1/book-iter-lines-in-file?lite=true"
+        }
       },
       {
         "alive": true,
@@ -314,35 +322,11 @@
         "created_time": 1538721349365,
         "id": "75453acb-e534-40b8-b639-150c57c56018",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538721349365,
+        "last_edited_time": 1539754222381,
         "parent_id": "d6542c35-3d41-466c-82d9-e76694b3070c",
         "parent_table": "block",
         "type": "text",
-        "version": 4
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538721303057,
-        "id": "2acf57d5-0a13-45eb-bb5e-91bb0ebd20c7",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538721353069,
-        "parent_id": "d6542c35-3d41-466c-82d9-e76694b3070c",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "TODO: version that uses a callback"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 18,
-        "inline_content": [
-          {
-            "Text": "TODO: version that uses a callback"
-          }
-        ]
+        "version": 6
       },
       {
         "alive": true,

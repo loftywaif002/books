@@ -7,7 +7,7 @@
       "26412ae5-dbd3-4905-98ac-e64cd6a3f538",
       "9d583a52-48ae-4634-b105-2d277bc936de",
       "aa39ea04-5515-4416-9c83-bee46a020653",
-      "7ef2778e-04af-42eb-9d3c-b0107dce0b41",
+      "3127a709-03c1-4114-b2e5-503b968ddcaa",
       "0f203bc4-110d-4ae4-99a7-824f3da248bd",
       "126067b1-eb67-4c96-aa00-f50d6624494b",
       "08b433dd-4414-4a95-8281-ecc78e36c5b0",
@@ -36,7 +36,7 @@
     "id": "7c437392-6cc5-49d7-8a76-4c61682e6516",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538721148441,
+    "last_edited_time": 1539760300741,
     "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
     "parent_table": "block",
     "properties": {
@@ -47,7 +47,7 @@
       ]
     },
     "type": "page",
-    "version": 28,
+    "version": 40,
     "content_resolved": [
       {
         "alive": true,
@@ -116,7 +116,7 @@
         "id": "aa39ea04-5515-4416-9c83-bee46a020653",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538721148441,
+        "last_edited_time": 1539760278598,
         "parent_id": "7c437392-6cc5-49d7-8a76-4c61682e6516",
         "parent_table": "block",
         "properties": {
@@ -142,7 +142,7 @@
           ]
         },
         "type": "text",
-        "version": 3,
+        "version": 8,
         "inline_content": [
           {
             "Text": "Go’s standard library implements C-style string formatting in the "
@@ -160,35 +160,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538721139943,
+        "created_time": 1539760281498,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fformatting_text.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-formatting-text?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "7ef2778e-04af-42eb-9d3c-b0107dce0b41",
+        "id": "3127a709-03c1-4114-b2e5-503b968ddcaa",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538721142613,
+        "last_edited_time": 1539760286423,
         "parent_id": "7c437392-6cc5-49d7-8a76-4c61682e6516",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fformatting_text.go"
+              "https://repl.it/@kjk1/book-formatting-text"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fformatting_text.go",
+        "source": "https://repl.it/@kjk1/book-formatting-text",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fformatting_text.go"
+          "display_source": "https://repl.it/@kjk1/book-formatting-text?lite=true"
         }
       },
       {

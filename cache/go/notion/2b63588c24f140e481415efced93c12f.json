@@ -7,7 +7,7 @@
       "b94c78a4-4fae-4104-8d8e-0e149f5cd763",
       "9c68f7e7-27aa-4a43-9ef4-b8673795c728",
       "1a8d492b-bb94-4c8b-a3ce-bc9671be4dc0",
-      "bd916007-729f-40b6-8bf0-b25d78102b8c",
+      "21b91fb6-3564-43eb-81b3-be8a5dbccb68",
       "a22393a6-016c-4a53-9dd6-b55c2168ba04"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -19,7 +19,7 @@
     "id": "2b63588c-24f1-40e4-8141-5efced93c12f",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538721025719,
+    "last_edited_time": 1539760485775,
     "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
     "parent_table": "block",
     "properties": {
@@ -30,7 +30,7 @@
       ]
     },
     "type": "page",
-    "version": 26,
+    "version": 33,
     "content_resolved": [
       {
         "alive": true,
@@ -120,35 +120,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538721025719,
+        "created_time": 1539760479641,
         "format": {
-          "block_height": 509,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ftrim.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-strings-tirm?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "bd916007-729f-40b6-8bf0-b25d78102b8c",
+        "id": "21b91fb6-3564-43eb-81b3-be8a5dbccb68",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538721033101,
+        "last_edited_time": 1539760481427,
         "parent_id": "2b63588c-24f1-40e4-8141-5efced93c12f",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ftrim.go"
+              "https://repl.it/@kjk1/book-strings-tirm"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ftrim.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-strings-tirm",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 509,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Ftrim.go"
+          "display_source": "https://repl.it/@kjk1/book-strings-tirm?lite=true"
         }
       },
       {

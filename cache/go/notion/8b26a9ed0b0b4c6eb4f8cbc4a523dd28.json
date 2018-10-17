@@ -7,7 +7,7 @@
       "ef3f7799-8a00-421a-b4be-e5a900acf561",
       "edd7e58a-17e2-4849-8694-59950fb21ed1",
       "132fc30b-8337-4b40-81c8-f37fb9250a46",
-      "b3b33ded-3278-4d94-ad34-77f30f7fa07a",
+      "9f021734-d12c-48cc-b7ef-1a14d994aece",
       "7a2bf58e-91be-4421-80e2-10bdb5c5bf66",
       "bc919b93-981f-408e-bc21-f77c2f90a260",
       "18465196-c138-4df3-8304-6c71186c23fe",
@@ -22,7 +22,7 @@
     "id": "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538781065326,
+    "last_edited_time": 1539764311603,
     "parent_id": "61280245-4798-470c-a5c5-741d90543d22",
     "parent_table": "block",
     "properties": {
@@ -33,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 32,
+    "version": 39,
     "content_resolved": [
       {
         "alive": true,
@@ -122,35 +122,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538781059741,
+        "created_time": 1539764284774,
         "format": {
-          "block_height": 499,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0100-structs%2Fmethods.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-struct-methods?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "b3b33ded-3278-4d94-ad34-77f30f7fa07a",
+        "id": "9f021734-d12c-48cc-b7ef-1a14d994aece",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538781069841,
+        "last_edited_time": 1539764286712,
         "parent_id": "8b26a9ed-0b0b-4c6e-b4f8-cbc4a523dd28",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0100-structs%2Fmethods.go"
+              "https://repl.it/@kjk1/gobook-struct-methods"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0100-structs%2Fmethods.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-struct-methods",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 499,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0100-structs%2Fmethods.go"
+          "display_source": "https://repl.it/@kjk1/gobook-struct-methods?lite=true"
         }
       },
       {

@@ -7,10 +7,10 @@
       "b6fefdf8-60a3-46bc-8636-4e6cba70e006",
       "8a67f349-9430-4d00-956e-3f07c649b3f6",
       "65f29d55-541e-47d7-9fb3-55d72f000733",
-      "34a54664-9317-4804-94c5-270dcc41ca06",
+      "79c3298a-8c92-4126-856e-b12838ea96d9",
       "d6116221-ebd7-4d8e-95ef-4c52337216a2",
       "a08deac5-37f1-480e-b606-913f5f971909",
-      "e6cf2eee-2449-4ad4-89cf-164dcdf29534",
+      "e3cda370-574b-444c-a3e3-005fa5b589c0",
       "8e4a7f89-f7f1-48ee-807c-032ec433935d",
       "46803b78-c85d-415c-a043-c19c76d6d1aa"
     ],
@@ -23,7 +23,7 @@
     "id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538772972712,
+    "last_edited_time": 1539764072364,
     "parent_id": "80fb91dd-63d4-45e2-8010-b9f5e261da81",
     "parent_table": "block",
     "properties": {
@@ -34,7 +34,7 @@
       ]
     },
     "type": "page",
-    "version": 37,
+    "version": 51,
     "content_resolved": [
       {
         "alive": true,
@@ -172,35 +172,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538772943060,
+        "created_time": 1539764014208,
         "format": {
-          "block_height": 260,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Fzero_value.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-map-zero-value?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "34a54664-9317-4804-94c5-270dcc41ca06",
+        "id": "79c3298a-8c92-4126-856e-b12838ea96d9",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772976487,
+        "last_edited_time": 1539764016740,
         "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Fzero_value.go"
+              "https://repl.it/@kjk1/gobook-map-zero-value"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
-        "source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Fzero_value.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-map-zero-value",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 260,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Fzero_value.go"
+          "display_source": "https://repl.it/@kjk1/gobook-map-zero-value?lite=true"
         }
       },
       {
@@ -280,35 +281,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538772961492,
+        "created_time": 1539764066132,
         "format": {
-          "block_height": 345,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Fzero_value2.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobok-map-zero-value-2?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "e6cf2eee-2449-4ad4-89cf-164dcdf29534",
+        "id": "e3cda370-574b-444c-a3e3-005fa5b589c0",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772969105,
+        "last_edited_time": 1539764067637,
         "parent_id": "f7fd36d6-2c1b-4438-84f8-3b73c72fc5ac",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Fzero_value2.go"
+              "https://repl.it/@kjk1/gobok-map-zero-value-2"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Fzero_value2.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobok-map-zero-value-2",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 345,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0090-maps%2Fzero_value2.go"
+          "display_source": "https://repl.it/@kjk1/gobok-map-zero-value-2?lite=true"
         }
       },
       {

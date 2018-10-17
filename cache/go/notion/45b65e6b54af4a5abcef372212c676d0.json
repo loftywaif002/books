@@ -6,14 +6,14 @@
       "a0a57c33-fd11-4a9d-bd6b-8a9ab6a35a46",
       "1a5ca39e-bc1c-4de9-88d2-6b74f064bd53",
       "dba64408-2bdc-48c2-8c95-29e210b2d867",
-      "2ae6a11b-c7c6-40cf-9d2b-4476ec6d32fa",
+      "ae87f729-b869-4da7-a051-8fd6b4d44fd4",
       "c426844d-3be7-4421-9026-83891ded2fca",
       "ec1dadce-2783-4362-8e81-dbdfe791b14a",
       "fd80022c-75bb-48bd-a09e-4fe2ef2880b3",
       "4e0f64ec-02a4-4f46-a9e6-ef2f3bba15b9",
       "941a3ed5-e8e4-409f-98ee-60e14f45430b",
       "6ed8d32f-452c-4a23-b3e3-59fa42e2a6a7",
-      "e30651b8-d4cc-42fa-babe-95a184fd01bc",
+      "2ddc171a-8bf1-434f-8b98-ce7571b4c6d9",
       "f43661ef-88a9-4003-af15-d28a15b31440",
       "fc8687aa-a01e-437f-afb7-9d4ed4573ad3"
     ],
@@ -26,7 +26,7 @@
     "id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538720839360,
+    "last_edited_time": 1539761027527,
     "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
     "parent_table": "block",
     "properties": {
@@ -37,7 +37,7 @@
       ]
     },
     "type": "page",
-    "version": 51,
+    "version": 72,
     "content_resolved": [
       {
         "alive": true,
@@ -115,35 +115,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538720792178,
+        "created_time": 1539760936188,
         "format": {
-          "block_height": 653,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fcomparing_strings.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-comparing-strings?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "2ae6a11b-c7c6-40cf-9d2b-4476ec6d32fa",
+        "id": "ae87f729-b869-4da7-a051-8fd6b4d44fd4",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720799467,
+        "last_edited_time": 1539760937927,
         "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fcomparing_strings.go"
+              "https://repl.it/@kjk1/book-comparing-strings"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fcomparing_strings.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-comparing-strings",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 653,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fcomparing_strings.go"
+          "display_source": "https://repl.it/@kjk1/book-comparing-strings?lite=true"
         }
       },
       {
@@ -421,35 +422,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538720830535,
+        "created_time": 1539761016612,
         "format": {
-          "block_height": 376,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fcomparing_strings2.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-comparing-strings-2?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "e30651b8-d4cc-42fa-babe-95a184fd01bc",
+        "id": "2ddc171a-8bf1-434f-8b98-ce7571b4c6d9",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720837189,
+        "last_edited_time": 1539761021103,
         "parent_id": "45b65e6b-54af-4a5a-bcef-372212c676d0",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fcomparing_strings2.go"
+              "https://repl.it/@kjk1/book-comparing-strings-2"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fcomparing_strings2.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-comparing-strings-2",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 376,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Fcomparing_strings2.go"
+          "display_source": "https://repl.it/@kjk1/book-comparing-strings-2?lite=true"
         }
       },
       {

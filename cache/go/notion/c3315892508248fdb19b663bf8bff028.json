@@ -19,7 +19,7 @@
       "9a8111da-91f3-46d2-974f-28bf9bfdaab7",
       "1bc6e26c-fade-4a37-bba8-4442f523b81a",
       "ff0bd84f-02ce-43bc-8c7c-be28f69fb316",
-      "40e023ff-e5b7-41f3-849a-e3cab58bc179",
+      "faafa7d6-cfe1-4403-aa01-19e267e975d2",
       "344753d2-47e9-4343-a02a-5e466cc59c6e",
       "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
       "b81d270c-56fd-42e3-9e2e-bd5f74f0413b"
@@ -33,7 +33,7 @@
     "id": "c3315892-5082-48fd-b19b-663bf8bff028",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538781411108,
+    "last_edited_time": 1539765174396,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -44,7 +44,7 @@
       ]
     },
     "type": "page",
-    "version": 38,
+    "version": 45,
     "content_resolved": [
       {
         "alive": true,
@@ -566,35 +566,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538781405667,
+        "created_time": 1539765147147,
         "format": {
-          "block_height": 495,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0120-empty-interface%2Findex.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-empty-interface-basics?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "40e023ff-e5b7-41f3-849a-e3cab58bc179",
+        "id": "faafa7d6-cfe1-4403-aa01-19e267e975d2",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538781414787,
+        "last_edited_time": 1539765149470,
         "parent_id": "c3315892-5082-48fd-b19b-663bf8bff028",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0120-empty-interface%2Findex.go"
+              "https://repl.it/@kjk1/gobook-empty-interface-basics"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0120-empty-interface%2Findex.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-empty-interface-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 495,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0120-empty-interface%2Findex.go"
+          "display_source": "https://repl.it/@kjk1/gobook-empty-interface-basics?lite=true"
         }
       },
       {
@@ -620,7 +621,7 @@
         "id": "e945ebc2-e007-4ce4-9cef-592e6c0f956e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538781550633,
+        "last_edited_time": 1539765109635,
         "parent_id": "c3315892-5082-48fd-b19b-663bf8bff028",
         "parent_table": "block",
         "properties": {
@@ -631,7 +632,7 @@
           ]
         },
         "type": "page",
-        "version": 39,
+        "version": 53,
         "title": "Type assertion",
         "format_page": {
           "page_cover": "",
@@ -653,7 +654,7 @@
         "id": "b81d270c-56fd-42e3-9e2e-bd5f74f0413b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538893747303,
+        "last_edited_time": 1539764985257,
         "parent_id": "c3315892-5082-48fd-b19b-663bf8bff028",
         "parent_table": "block",
         "properties": {
@@ -664,7 +665,7 @@
           ]
         },
         "type": "page",
-        "version": 35,
+        "version": 42,
         "title": "Type switch",
         "format_page": {
           "page_cover": "",

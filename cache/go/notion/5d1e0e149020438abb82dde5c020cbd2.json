@@ -12,11 +12,11 @@
       "d9aa7f07-3f14-46f4-98a4-2c023e7a2e9f",
       "8bcb5c5a-cc88-4165-95a0-e48765c94e1b",
       "0c67eaf9-db87-42f1-aa10-ffba555ea5c3",
-      "72d9715f-1ae3-4786-a4bc-4017778af9f3",
-      "aa9aed1a-10f8-416d-be07-957367bcb7c5",
-      "9f7158df-44df-46d5-81f9-cab10a100dc6",
-      "ba545e6f-39e0-42cb-85af-55e7adaf09b9",
-      "5eed6ec9-f830-4ddc-8a38-9d20de4d50d9",
+      "2ed1ec0f-5c12-420f-bb6b-19a352421f8c",
+      "06a2cfee-cc46-4684-9912-b74e4573a8e3",
+      "2ee7ba73-be7b-4dfa-8538-ca65cd059258",
+      "3bc201cd-d71a-47df-b4b5-4ab5f037a5ef",
+      "6ae03f5e-e69a-483b-b4cc-a5dbe9d15e27",
       "e6639c2d-58af-4fb5-8fb4-88088644f56b",
       "04e67ab7-9f67-444a-bf43-3bb373e49aa6"
     ],
@@ -29,7 +29,7 @@
     "id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538772104995,
+    "last_edited_time": 1539762817900,
     "parent_id": "58db8c9a-5650-4dea-b2e6-1f1e0fa4a0a6",
     "parent_table": "block",
     "properties": {
@@ -40,7 +40,7 @@
       ]
     },
     "type": "page",
-    "version": 42,
+    "version": 63,
     "content_resolved": [
       {
         "alive": true,
@@ -451,129 +451,130 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538772064274,
+        "created_time": 1539762676557,
         "format": {
-          "block_height": 523,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Fmultidimension_array.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-array-multidimension?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "72d9715f-1ae3-4786-a4bc-4017778af9f3",
+        "id": "2ed1ec0f-5c12-420f-bb6b-19a352421f8c",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772116150,
+        "last_edited_time": 1539762678223,
         "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Fmultidimension_array.go"
+              "https://repl.it/@kjk1/book-array-multidimension"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Fmultidimension_array.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-array-multidimension",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 523,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Fmultidimension_array.go"
+          "display_source": "https://repl.it/@kjk1/book-array-multidimension?lite=true"
         }
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155977184,
-        "id": "aa9aed1a-10f8-416d-be07-957367bcb7c5",
-        "ignore_block_count": true,
+        "created_time": 1539762748450,
+        "id": "06a2cfee-cc46-4684-9912-b74e4573a8e3",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772109627,
+        "last_edited_time": 1539762748450,
         "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
         "parent_table": "block",
         "type": "text",
-        "version": 3
+        "version": 4
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538772087445,
+        "created_time": 1539762749933,
         "format": {
-          "block_height": 438,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Fmultidimension_array2.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-array-multidimension-2?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "9f7158df-44df-46d5-81f9-cab10a100dc6",
+        "id": "2ee7ba73-be7b-4dfa-8538-ca65cd059258",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772119625,
+        "last_edited_time": 1539762751744,
         "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Fmultidimension_array2.go"
+              "https://repl.it/@kjk1/book-array-multidimension-2"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Fmultidimension_array2.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-array-multidimension-2",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 438,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Fmultidimension_array2.go"
+          "display_source": "https://repl.it/@kjk1/book-array-multidimension-2?lite=true"
         }
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155977184,
-        "id": "ba545e6f-39e0-42cb-85af-55e7adaf09b9",
-        "ignore_block_count": true,
+        "created_time": 1539762804030,
+        "id": "3bc201cd-d71a-47df-b4b5-4ab5f037a5ef",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772121144,
+        "last_edited_time": 1539762804030,
         "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
         "parent_table": "block",
         "type": "text",
-        "version": 3
+        "version": 4
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538772104995,
+        "created_time": 1539762805042,
         "format": {
-          "block_height": 502,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Fmultidimension_array3.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-array-multidimension-3?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "5eed6ec9-f830-4ddc-8a38-9d20de4d50d9",
+        "id": "6ae03f5e-e69a-483b-b4cc-a5dbe9d15e27",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538772124455,
+        "last_edited_time": 1539762807038,
         "parent_id": "5d1e0e14-9020-438a-bb82-dde5c020cbd2",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Fmultidimension_array3.go"
+              "https://repl.it/@kjk1/book-array-multidimension-3"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Fmultidimension_array3.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-array-multidimension-3",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 502,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0070-arrays%2Fmultidimension_array3.go"
+          "display_source": "https://repl.it/@kjk1/book-array-multidimension-3?lite=true"
         }
       },
       {

@@ -10,7 +10,7 @@
       "02b16686-da00-4811-a65f-ec77ffd11aa0",
       "31721ced-32cb-488a-a084-3751ac134068",
       "2177f036-24fd-484c-a297-019bd2f83200",
-      "8fd139ea-23ef-4e8c-acce-2f821489d91c",
+      "06d3f78a-dcc6-4891-88f8-d4ec40ea6cb5",
       "7f4b53e2-408e-4f98-ab48-5ab5a29eca13",
       "6dda3381-7368-4c22-85cf-21e769e62c93",
       "ce096b4e-b8ff-44d2-b6f0-cd8904174175",
@@ -27,7 +27,7 @@
     "id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538771573622,
+    "last_edited_time": 1539762111374,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -38,7 +38,7 @@
       ]
     },
     "type": "page",
-    "version": 33,
+    "version": 40,
     "content_resolved": [
       {
         "alive": true,
@@ -233,35 +233,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538771573622,
+        "created_time": 1539762104841,
         "format": {
-          "block_height": 417,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0060-pointers%2Findex.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-pointers-basics-2?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "8fd139ea-23ef-4e8c-acce-2f821489d91c",
+        "id": "06d3f78a-dcc6-4891-88f8-d4ec40ea6cb5",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538771585626,
+        "last_edited_time": 1539762106419,
         "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0060-pointers%2Findex.go"
+              "https://repl.it/@kjk1/book-pointers-basics-2"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
-        "source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0060-pointers%2Findex.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-pointers-basics-2",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 417,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0060-pointers%2Findex.go"
+          "display_source": "https://repl.it/@kjk1/book-pointers-basics-2?lite=true"
         }
       },
       {
@@ -300,7 +301,7 @@
         "id": "ce096b4e-b8ff-44d2-b6f0-cd8904174175",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538771658203,
+        "last_edited_time": 1539762499774,
         "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
         "parent_table": "block",
         "properties": {
@@ -311,7 +312,7 @@
           ]
         },
         "type": "page",
-        "version": 37,
+        "version": 51,
         "title": "Basics of pointers",
         "format_page": {
           "page_cover": "",
@@ -333,7 +334,7 @@
         "id": "d4de8477-e062-4c50-b0cf-fafe8847293b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538771710942,
+        "last_edited_time": 1539762346585,
         "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
         "parent_table": "block",
         "properties": {
@@ -344,7 +345,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "Dereferencing pointers",
         "format_page": {
           "page_cover": "",
@@ -366,7 +367,7 @@
         "id": "fcc939ab-95bb-4600-8524-fb165e7ef0e6",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538771773597,
+        "last_edited_time": 1539762277567,
         "parent_id": "1ef07599-dd82-47f4-93ba-6dcba8ae7dbf",
         "parent_table": "block",
         "properties": {
@@ -377,7 +378,7 @@
           ]
         },
         "type": "page",
-        "version": 43,
+        "version": 62,
         "title": "Pointer vs. value methods",
         "format_page": {
           "page_cover": "",

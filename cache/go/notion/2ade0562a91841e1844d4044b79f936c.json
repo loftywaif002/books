@@ -6,11 +6,16 @@
       "1806dec4-1811-4bdc-b207-1c1a71c2e632",
       "b8932b23-3419-4c4a-a238-b2fa6a17f079",
       "278d0331-6ae4-4bef-877c-df44ca46a44a",
-      "12f7ae96-e5bc-4828-82db-09e30ccef826",
-      "93e67adb-5bbf-4bf0-9844-99369af64077",
+      "3efa9a6e-673a-48e7-8c3b-9cf6039af6af",
+      "decdd1c5-0827-4f3b-b68e-5c5f73b2eef1",
+      "d93b2f76-0c65-415e-a022-e9c21696507a",
       "e0d79d00-5ccc-456b-ba45-aab2a71d73bb",
       "5d39c418-3ea8-45b5-a053-eddcd5676326",
-      "8da614f2-ced1-40f5-9f5d-03eed3b9f175"
+      "dc923cc7-8a65-44f3-9d41-99f214884b26",
+      "92bb38b4-b4a2-4bd9-9c75-9128b52b01d7",
+      "6475efb5-12f9-4d14-9825-27424ee5c45f",
+      "ea625119-331d-4d83-8ed6-a615d369d643",
+      "a1fa3ade-8c43-4aa4-a38b-02200fcc29b6"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155967169,
@@ -21,7 +26,7 @@
     "id": "2ade0562-a918-41e1-844d-4044b79f936c",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538721248693,
+    "last_edited_time": 1539757741757,
     "parent_id": "ccc8d069-58ae-4431-9b21-f9973716e3ca",
     "parent_table": "block",
     "properties": {
@@ -32,7 +37,7 @@
       ]
     },
     "type": "page",
-    "version": 36,
+    "version": 71,
     "content_resolved": [
       {
         "alive": true,
@@ -109,10 +114,10 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538721220562,
-        "id": "12f7ae96-e5bc-4828-82db-09e30ccef826",
+        "created_time": 1539754398188,
+        "id": "3efa9a6e-673a-48e7-8c3b-9cf6039af6af",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538721220562,
+        "last_edited_time": 1539754398188,
         "parent_id": "2ade0562-a918-41e1-844d-4044b79f936c",
         "parent_table": "block",
         "type": "text",
@@ -121,35 +126,72 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538721222796,
+        "created_time": 1539754384315,
+        "id": "decdd1c5-0827-4f3b-b68e-5c5f73b2eef1",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539754418671,
+        "parent_id": "2ade0562-a918-41e1-844d-4044b79f936c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Replace string with "
+            ],
+            [
+              "strings.Replace",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 93,
+        "inline_content": [
+          {
+            "Text": "Replace string with "
+          },
+          {
+            "Text": "strings.Replace",
+            "AttrFlags": 2
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539754386061,
         "format": {
-          "block_height": 317.9895935058594,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Freplace.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-string-replace?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "93e67adb-5bbf-4bf0-9844-99369af64077",
+        "id": "d93b2f76-0c65-415e-a022-e9c21696507a",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538721254006,
+        "last_edited_time": 1539754387733,
         "parent_id": "2ade0562-a918-41e1-844d-4044b79f936c",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Freplace.go"
+              "https://repl.it/@kjk1/book-string-replace"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Freplace.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-string-replace",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 317.9895935058594,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0050-strings%2Freplace.go"
+          "display_source": "https://repl.it/@kjk1/book-string-replace?lite=true"
         }
       },
       {
@@ -158,11 +200,59 @@
         "created_time": 1538721247147,
         "id": "e0d79d00-5ccc-456b-ba45-aab2a71d73bb",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538721247147,
+        "last_edited_time": 1539754932386,
         "parent_id": "2ade0562-a918-41e1-844d-4044b79f936c",
         "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Last argument in "
+            ],
+            [
+              "strings.Replace",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is max number of replacements. "
+            ],
+            [
+              "-1",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " means \"replace all\"."
+            ]
+          ]
+        },
         "type": "text",
-        "version": 4
+        "version": 206,
+        "inline_content": [
+          {
+            "Text": "Last argument in "
+          },
+          {
+            "Text": "strings.Replace",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is max number of replacements. "
+          },
+          {
+            "Text": "-1",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " means \"replace all\"."
+          }
+        ]
       },
       {
         "alive": true,
@@ -170,31 +260,210 @@
         "created_time": 1538721246735,
         "id": "5d39c418-3ea8-45b5-a053-eddcd5676326",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538721247706,
+        "last_edited_time": 1539757697043,
         "parent_id": "2ade0562-a918-41e1-844d-4044b79f936c",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "TODO: replace using regex"
+              "Replace string with a regular expression"
             ]
           ]
         },
-        "type": "text",
-        "version": 6,
+        "type": "header",
+        "version": 132,
         "inline_content": [
           {
-            "Text": "TODO: replace using regex"
+            "Text": "Replace string with a regular expression"
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538721248693,
-        "id": "8da614f2-ced1-40f5-9f5d-03eed3b9f175",
+        "created_time": 1539757741757,
+        "format": {
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-strings-replace-regex?lite=true",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_preserve_scale": false
+        },
+        "id": "dc923cc7-8a65-44f3-9d41-99f214884b26",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538721248711,
+        "last_edited_time": 1539757743787,
+        "parent_id": "2ade0562-a918-41e1-844d-4044b79f936c",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://repl.it/@kjk1/book-strings-replace-regex"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-strings-replace-regex",
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 600,
+          "block_page_width": true,
+          "block_preserve_scale": false,
+          "display_source": "https://repl.it/@kjk1/book-strings-replace-regex?lite=true"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539754896642,
+        "id": "92bb38b4-b4a2-4bd9-9c75-9128b52b01d7",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539757601704,
+        "parent_id": "2ade0562-a918-41e1-844d-4044b79f936c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This shows how to do strings replacements with regular expressions. "
+            ],
+            [
+              "(?U)or.*al",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " is a non-greedy ("
+            ],
+            [
+              "(?U)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " flag) regular expression that matches "
+            ],
+            [
+              "original",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " string."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 1060,
+        "inline_content": [
+          {
+            "Text": "This shows how to do strings replacements with regular expressions. "
+          },
+          {
+            "Text": "(?U)or.*al",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " is a non-greedy ("
+          },
+          {
+            "Text": "(?U)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " flag) regular expression that matches "
+          },
+          {
+            "Text": "original",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " string."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539757474939,
+        "id": "6475efb5-12f9-4d14-9825-27424ee5c45f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539757616313,
+        "parent_id": "2ade0562-a918-41e1-844d-4044b79f936c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "We replace all parts of the string matching the regex with a string "
+            ],
+            [
+              "replaced",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 10,
+        "inline_content": [
+          {
+            "Text": "We replace all parts of the string matching the regex with a string "
+          },
+          {
+            "Text": "replaced",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539757419439,
+        "id": "ea625119-331d-4d83-8ed6-a615d369d643",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539757688243,
+        "parent_id": "2ade0562-a918-41e1-844d-4044b79f936c",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Regular expression is non-greedy, meaning it matches the shortest possible string as opposed to default greedy match which looks for longest possible match."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 394,
+        "inline_content": [
+          {
+            "Text": "Regular expression is non-greedy, meaning it matches the shortest possible string as opposed to default greedy match which looks for longest possible match."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539757688555,
+        "id": "a1fa3ade-8c43-4aa4-a38b-02200fcc29b6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539757688579,
         "parent_id": "2ade0562-a918-41e1-844d-4044b79f936c",
         "parent_table": "block",
         "type": "text",

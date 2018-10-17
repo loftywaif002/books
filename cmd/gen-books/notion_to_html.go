@@ -264,7 +264,9 @@ func (g *HTMLGenerator) genReplitEmbed(block *notionapi.Block) {
 	}
 	f, err := getSourceFileFromReplit(g.book, replit)
 	if err != nil {
-		fmt.Printf("genReplitEmbed: getSourceFileFromReplit (name: '%s', uri: '%s') failed with '%s'\n", replit.files[0].name, uri, err)
+		file := replit.files[0]
+		fmt.Printf("genReplitEmbed: getSourceFileFromReplit (name: '%s', uri: '%s') failed with '%s'\n", file.name, uri, err)
+		fmt.Printf("file '%s':\n%s\n", file.name, file.data)
 		panicIfErr(err)
 	}
 	f.EmbedURL = uri

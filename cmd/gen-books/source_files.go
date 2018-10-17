@@ -254,6 +254,7 @@ func loadSourceFile(b *Book, path string) (*SourceFile, error) {
 	return sf, nil
 }
 
+// TODO: remove when all code moved to repl.it
 func extractSourceFiles(b *Book, p *Page) {
 	//wd, err := os.Getwd()
 	//panicIfErr(err)
@@ -263,6 +264,9 @@ func extractSourceFiles(b *Book, p *Page) {
 			continue
 		}
 		uri := block.FormatEmbed.DisplaySource
+		if strings.Contains(uri, "repl.it/") {
+			continue
+		}
 		relativePath := gitoembedToRelativePath(uri)
 		if relativePath == "" {
 			fmt.Printf("Couldn't parse embed uri '%s'\n", uri)

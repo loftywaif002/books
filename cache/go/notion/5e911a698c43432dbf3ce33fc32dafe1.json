@@ -7,7 +7,7 @@
       "0694b7e1-dd82-43f0-a8d1-8b6947ebc5e4",
       "05d83e0a-8294-41f8-8dc3-1cef3d9ee1f7",
       "afb6fae9-4e08-4fd0-8384-300f4d92da45",
-      "f7647942-138e-4bb6-85c9-80dca14a2647",
+      "47ae9c75-1443-4934-bbd9-0b12e03f7186",
       "2381037e-8874-4db7-80df-fe0472d99885",
       "393a4717-4330-4998-b25d-388a8ff7556f",
       "e6085895-f34a-4fb7-beb5-5f0e460ea905",
@@ -22,7 +22,7 @@
     "id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538719592025,
+    "last_edited_time": 1539748330001,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -33,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 43,
+    "version": 57,
     "content_resolved": [
       {
         "alive": true,
@@ -123,35 +123,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538719509650,
+        "created_time": 1539748322201,
         "format": {
-          "block_height": 820.9861450195312,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0030-variables%2Findex.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-define-variables?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "f7647942-138e-4bb6-85c9-80dca14a2647",
+        "id": "47ae9c75-1443-4934-bbd9-0b12e03f7186",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538719599324,
+        "last_edited_time": 1539748324038,
         "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0030-variables%2Findex.go"
+              "https://repl.it/@kjk1/book-define-variables"
             ]
           ]
         },
         "type": "embed",
-        "version": 14,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0030-variables%2Findex.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-define-variables",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 820.9861450195312,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0030-variables%2Findex.go"
+          "display_source": "https://repl.it/@kjk1/book-define-variables?lite=true"
         }
       },
       {
@@ -177,7 +178,7 @@
         "id": "393a4717-4330-4998-b25d-388a8ff7556f",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538719656375,
+        "last_edited_time": 1539748298367,
         "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
         "parent_table": "block",
         "properties": {
@@ -188,7 +189,7 @@
           ]
         },
         "type": "page",
-        "version": 28,
+        "version": 35,
         "title": "Basic variable declaration",
         "format_page": {
           "page_cover": "",
@@ -210,7 +211,7 @@
         "id": "e6085895-f34a-4fb7-beb5-5f0e460ea905",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538719756639,
+        "last_edited_time": 1539748220302,
         "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
         "parent_table": "block",
         "properties": {
@@ -221,7 +222,7 @@
           ]
         },
         "type": "page",
-        "version": 37,
+        "version": 51,
         "title": "Multiple variable assignment",
         "format_page": {
           "page_cover": "",
@@ -243,7 +244,7 @@
         "id": "1ac75368-0907-4689-b3f8-041d7a2b1e4a",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538719840078,
+        "last_edited_time": 1539748063935,
         "parent_id": "5e911a69-8c43-432d-bf3c-e33fc32dafe1",
         "parent_table": "block",
         "properties": {
@@ -254,7 +255,7 @@
           ]
         },
         "type": "page",
-        "version": 33,
+        "version": 47,
         "title": "Blank identifier",
         "format_page": {
           "page_cover": "",

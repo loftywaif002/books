@@ -8,22 +8,22 @@
       "3692ad4e-6f58-4df3-a709-269e02107845",
       "99ecb1b3-141b-4e58-8523-5d160e88c319",
       "bc8cfbf3-19b1-4e8d-81cd-fe612201496e",
-      "bda6d938-4ea7-4339-bc58-a2a520332464",
+      "b9a8c4e4-108a-43df-bcd2-83b72cad67a8",
       "2fe9c27f-a0b8-4de6-b1bd-77230bfbc47b",
       "4c12cc2a-df07-45e5-a822-f95f17bd519a",
       "ffec3572-66ea-487b-9029-4517ebf628a5",
-      "36c03fa0-5cdb-40a8-abb0-43cf9b3515bd",
+      "69e2168c-7373-4f8f-aeb9-86e6d55175ee",
       "1b59e878-1e8e-4f0b-86bb-d8f22a118df1",
       "2f55eab6-95c3-4a2e-9d4a-9de23297305e",
-      "cf9b17e3-ec28-41ac-b586-3ec99f22c4d0",
+      "9e0e13ba-86d8-4eec-9dbd-4d17812c2ac2",
       "c16872d9-2a8c-4e69-8aa3-05506460575b",
-      "59f25a9e-b70d-43fe-8c15-036b80b99589",
+      "532fd503-7ac7-446e-83b8-2b1ad665a424",
       "fc42dab2-8b8e-4b38-a994-be1f2a5b53c7",
       "9b4429af-b8d3-491d-8bc7-7fa437c47012",
-      "0ca8ffae-70c0-48da-9d0b-2320c94b73e6",
+      "81dea71e-e0d4-40e1-922f-948db0eef57b",
       "a7b1a1ef-4a86-4c4c-a71b-69fc137f2630",
       "d1e76641-21d6-4b87-b9a6-703c86570491",
-      "6d20a10b-de74-4780-9aef-9caca0b7ae66",
+      "b17a4c35-1589-4750-bf08-831d1aec6c49",
       "f2d972cc-2ec1-4fa7-b5bf-6c208b5776d3"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -35,7 +35,7 @@
     "id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538720331244,
+    "last_edited_time": 1539751412691,
     "parent_id": "cb80712d-ca75-45da-8e0b-20762c637409",
     "parent_table": "block",
     "properties": {
@@ -46,7 +46,7 @@
       ]
     },
     "type": "page",
-    "version": 75,
+    "version": 117,
     "content_resolved": [
       {
         "alive": true,
@@ -173,35 +173,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538720160372,
+        "created_time": 1539751045488,
         "format": {
-          "block_height": 329,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-iota?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "bda6d938-4ea7-4339-bc58-a2a520332464",
+        "id": "b9a8c4e4-108a-43df-bcd2-83b72cad67a8",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720170402,
+        "last_edited_time": 1539751049515,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota.go"
+              "https://repl.it/@kjk1/book-iota"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-iota",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 329,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota.go"
+          "display_source": "https://repl.it/@kjk1/book-iota?lite=true"
         }
       },
       {
@@ -324,35 +325,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538720206765,
+        "created_time": 1539751116377,
         "format": {
-          "block_height": 354,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_2.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-iota-2?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "36c03fa0-5cdb-40a8-abb0-43cf9b3515bd",
+        "id": "69e2168c-7373-4f8f-aeb9-86e6d55175ee",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720217643,
+        "last_edited_time": 1539751119287,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_2.go"
+              "https://repl.it/@kjk1/book-iota-2"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_2.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-iota-2",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 354,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_2.go"
+          "display_source": "https://repl.it/@kjk1/book-iota-2?lite=true"
         }
       },
       {
@@ -426,35 +428,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538720251469,
+        "created_time": 1539751249303,
         "format": {
-          "block_height": 325,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_3.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-iota-3?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "cf9b17e3-ec28-41ac-b586-3ec99f22c4d0",
+        "id": "9e0e13ba-86d8-4eec-9dbd-4d17812c2ac2",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720258744,
+        "last_edited_time": 1539751250968,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_3.go"
+              "https://repl.it/@kjk1/book-iota-3"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_3.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-iota-3",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 325,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_3.go"
+          "display_source": "https://repl.it/@kjk1/book-iota-3?lite=true"
         }
       },
       {
@@ -485,35 +488,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538720278733,
+        "created_time": 1539751302668,
         "format": {
-          "block_height": 308,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_4.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-iota-4?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "59f25a9e-b70d-43fe-8c15-036b80b99589",
+        "id": "532fd503-7ac7-446e-83b8-2b1ad665a424",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720283308,
+        "last_edited_time": 1539751304290,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_4.go"
+              "https://repl.it/@kjk1/book-iota-4"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_4.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-iota-4",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 308,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_4.go"
+          "display_source": "https://repl.it/@kjk1/book-iota-4?lite=true"
         }
       },
       {
@@ -646,35 +650,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538720303318,
+        "created_time": 1539751355612,
         "format": {
-          "block_height": 340,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_5.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-iota-5?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "0ca8ffae-70c0-48da-9d0b-2320c94b73e6",
+        "id": "81dea71e-e0d4-40e1-922f-948db0eef57b",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720312018,
+        "last_edited_time": 1539751357141,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_5.go"
+              "https://repl.it/@kjk1/book-iota-5"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_5.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-iota-5",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 340,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_5.go"
+          "display_source": "https://repl.it/@kjk1/book-iota-5?lite=true"
         }
       },
       {
@@ -779,35 +784,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538720331244,
+        "created_time": 1539751405070,
         "format": {
-          "block_height": 389,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_6.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-iota-6?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "6d20a10b-de74-4780-9aef-9caca0b7ae66",
+        "id": "b17a4c35-1589-4750-bf08-831d1aec6c49",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538720339159,
+        "last_edited_time": 1539751407274,
         "parent_id": "58a7d48d-4d59-472a-9a7e-6fb561771f8d",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_6.go"
+              "https://repl.it/@kjk1/book-iota-6"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_6.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-iota-6",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 389,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0040-constants%2Fiota_6.go"
+          "display_source": "https://repl.it/@kjk1/book-iota-6?lite=true"
         }
       },
       {

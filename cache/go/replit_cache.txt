@@ -480,3 +480,380 @@ func main() {
 }
 
 ---
+@url: https://repl.it/@kjk1/book-define-variables
+main.go:+1130
+package main
+
+import (
+	"bytes"
+	"fmt"
+	"io"
+)
+
+// :show start
+// declaration of a single top-level variable
+var topLevel int64 = 5
+
+// grouping of multiple top-level declarations
+var (
+	intVal int            // value is initialized with zero-value
+	str    string = "str" // assigning
+
+	// functions are first-class values so can be assigned to variables
+	// fn is variable of type func(a int) string
+	// it's uninitialized so is nil (zero-value for function variables)
+	fn func(a int) string
+)
+
+func f() {
+	// shorthand using local type inference
+	// type of `i` is int and is inferred from the value
+	// note: this is not allowed at top-level
+	i := 4
+
+	// grouping inside a function
+	var (
+		i2 int
+		s  string
+	)
+
+	// _ is like a variable whose value is discarded. It's called blank identifier.
+	// Useful when we don't care about one of the values returned by a function
+	_, err := io.Copy(dst, src) // don't care how many bytes were written
+	// ...
+
+	fmt.Printf("i: %d, i2: %d, s: %s, err: %v\n", i, i2, s, err)
+}
+
+// :show end
+
+var (
+	dst io.Writer = &bytes.Buffer{}
+	src io.Reader = &bytes.Buffer{}
+)
+
+func main() {
+	f()
+}
+
+---
+@url: https://repl.it/@kjk1/book-constants-2
+main.go:+319
+// no output
+package main
+
+// :show start
+// Greeting is an exported (public) string constant
+const Greeting string = "Hello World"
+
+// we can group const declarations
+const (
+	// years is an unexported (package private) int constant
+	years int  = 10
+	truth bool = true
+)
+
+// :show end
+
+func main() {
+	// do  nothing
+}
+
+---
+@url: https://repl.it/@kjk1/book-constants-3
+main.go:+536
+package main
+
+import (
+	"fmt"
+	"math"
+)
+
+const s string = "constant"
+
+func main() {
+	fmt.Println(s) // constant
+
+	// A `const` statement can appear anywhere a `var` statement can.
+	const n = 10
+	fmt.Println(n)                           // 10
+	fmt.Printf("n=%d is of type %T\n", n, n) // n=10 is of type int
+
+	const m float64 = 4.3
+	fmt.Println(m) // 4.3
+
+	// An untyped constant takes the type needed by its context.
+	// For example, here `math.Sin` expects a `float64`.
+	const x = 10
+	fmt.Println(math.Sin(x)) // -0.5440211108893699
+}
+
+---
+@url: https://repl.it/@kjk1/book-basic-variable
+main.go:+702
+// no output
+package main
+
+type Person struct {
+	FirstName string
+	LastName  string
+}
+
+func main() {
+	// :show start
+	// Basic variable declaration. Declares a variable of type specified on the right.
+	// The variable is initialized to the zero value of the respective type.
+	var x int
+	var s string
+	var p Person // Assuming type Person struct {}
+
+	// Assignment of a value to a variable
+	x = 3
+
+	// Short declaration using := infers the type
+	y := 4
+
+	u := int64(100)    // declare variable of type int64 and init with 100
+	var u2 int64 = 100 // declare variable of type int64 and init with 100
+	// :show end
+
+	// silence compiler error about unused variables
+	_, _, _, _, _, _ = x, s, p, y, u, u2
+}
+
+---
+@url: https://repl.it/@kjk1/book-multiple-variables
+main.go:+476
+// no output
+package main
+
+func main() {
+	// :show start
+	// You can declare multiple variables of the same type in one line
+	var a, b, c string
+
+	var d, e string = "Hello", "world!"
+
+	// You can also use short declaration to assign multiple variables
+	x, y, z := 1, 2, 3
+
+	foo, bar := 4, "stack" // `foo` is type `int`, `bar` is type `string`
+	// :show end
+
+	// silence compiler error about unused variables
+	_, _, _, _, _, _, _, _, _, _ = a, b, c, d, e, x, y, z, foo, bar
+}
+
+---
+@url: https://repl.it/@kjk1/book-multiple-variable
+main.go:+331
+package main
+
+import "fmt"
+
+// :show start
+func multipleReturn() (int, int) {
+	return 1, 2
+}
+
+func multipleReturn2() (a int, b int) {
+	a = 3
+	b = 4
+	return
+}
+
+func main() {
+	x, y := multipleReturn()  // x = 1, y = 2
+	w, z := multipleReturn2() // w = 3, z = 4
+	fmt.Printf("x: %d, y: %d\nw: %d, z: %d\n", x, y, w, z)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-blank-identifier
+main.go:+256
+package main
+
+import "fmt"
+
+// :show start
+func SumProduct(a, b int) (int, int) {
+	return a + b, a * b
+}
+
+func main() {
+	// only need the sum
+	sum, _ := SumProduct(1, 2) // the product gets discarded
+	fmt.Println(sum)           // prints 3
+}
+
+// :show end
+
+---
+@url: https://repl.it/@kjk1/book-blank-identifier-2
+main.go:+263
+package main
+
+import "fmt"
+
+// :show start
+func main() {
+	pets := []string{"dog", "cat", "fish"}
+
+	// range returns both the current index and value
+	// but sometimes we only need one or the other
+	for _, pet := range pets {
+		fmt.Println(pet)
+	}
+}
+
+// :show end
+
+---
+@url: https://repl.it/@kjk1/book-typed-vs-untyped
+main.go:+687
+// allow error
+package main
+
+func main() {
+	// :show start
+	const untypedNumber = 345
+
+	// if this was a variable declaration, untypedNumber would have its type
+	// inferred as int.
+	// since it's a const, it remains untyped until it's e.g. assigned to a variable
+	var i int = untypedNumber      // no need to cast to int
+	var u16 uint16 = untypedNumber // no need to cast to uint16
+	var f float64 = untypedNumber  // no need to cast to float64
+
+	// incompatible assignments are detected by the compiler
+	// 345 is too big to fit in int8 and compiler detects that
+	var b int8 = untypedNumber
+
+	// :show end
+
+	// silence compiler error about unused variables
+	_, _, _, _ = i, u16, f, b
+}
+
+---
+@url: https://repl.it/@kjk1/book-iota
+main.go:+182
+
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	const (
+		Low = iota
+		Medium
+		High
+	)
+	fmt.Printf("Low: %d\nMedium: %d\nHigh: %d\n", Low, Medium, High)
+
+	// :show end
+}
+---
+@url: https://repl.it/@kjk1/book-iota-2
+main.go:+414
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	const (
+		Secure = 1 << iota // 0b001
+		Authn              // 0b010
+		Ready              // 0b100
+	)
+
+	ConnState := Secure | Authn // 0b011: Connection is secure and authenticated, but not yet Ready
+
+	fmt.Printf("Secure: 0x%x (0b%03b)\nAuthn: 0x%x (0b%03b)\nConnState: 0x%x (0b%03b)\n", Secure, Secure, Authn, Authn, ConnState, ConnState)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-iota-3
+main.go:+310
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	const ( // iota is reset to 0
+		a = 1 << iota // a == 1
+		b = 1 << iota // b == 2
+		c = 3         // c == 3  (iota is not used but still incremented)
+		d = 1 << iota // d == 8
+	)
+	fmt.Printf("a: %d, b: %d, c: %d, d: %d\n", a, b, c, d)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-iota-4
+main.go:+196
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	const (
+		a = iota // a = 0
+		_        // iota is incremented
+		b        // b = 2
+	)
+	fmt.Printf("a: %d, b: %d\n", a, b)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-iota-5
+main.go:+440
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	const (
+		bit0, mask0 = 1 << iota, 1<<iota - 1 // bit0 == 1, mask0 == 0
+		bit1, mask1                          // bit1 == 2, mask1 == 1
+		_, _                                 // skips iota == 2
+		bit3, mask3                          // bit3 == 8, mask3 == 7
+	)
+	fmt.Printf("bit0: %d, mask0: 0x%x\n", bit0, mask0)
+	fmt.Printf("bit3: %d, mask3: 0x%x\n", bit3, mask3)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-iota-6
+main.go:+263
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	type ByteSize int
+
+	const (
+		_           = iota // ignore first value by assigning to blank identifier
+		KB ByteSize = 1 << (10 * iota)
+		MB
+		GB
+		TB
+		PB
+	)
+	fmt.Printf("KB: %d\n", KB)
+	// :show end
+}
+
+---

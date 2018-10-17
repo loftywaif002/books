@@ -10,10 +10,10 @@
       "f4a03ee4-1a88-4d02-b927-1d299391ce33",
       "f3a1120a-4c77-4325-abde-520235fe96ea",
       "928e7301-5fd9-4ae0-bcaa-e845aab1d5fe",
-      "ecf059cc-0e21-4f19-9c65-4776b7711e7c",
+      "86e72908-0bd6-4e5d-85e6-647b9cec8cc2",
       "574e84cb-697d-4d81-abe7-2fe782e56a6e",
       "40de31f6-d19c-4c3e-bb7e-a567cff4be6c",
-      "fff112ea-d46f-4f47-a5d4-ef37854a701e"
+      "8dca192d-548f-4b49-880c-c822afd7c826"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155921174,
@@ -24,7 +24,7 @@
     "id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1539685082855,
+    "last_edited_time": 1539686212063,
     "parent_id": "ba663c57-7a4a-472e-8c95-fef8b4d8a8c6",
     "parent_table": "block",
     "properties": {
@@ -35,7 +35,7 @@
       ]
     },
     "type": "page",
-    "version": 115,
+    "version": 131,
     "content_resolved": [
       {
         "alive": true,
@@ -223,41 +223,13 @@
         "created_time": 1532216898854,
         "id": "928e7301-5fd9-4ae0-bcaa-e845aab1d5fe",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532216904020,
+        "last_edited_time": 1539686157871,
         "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "This is useful for ad-hoc execution."
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 28,
-        "inline_content": [
-          {
-            "Text": "This is useful for ad-hoc execution."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532155921174,
-        "id": "ecf059cc-0e21-4f19-9c65-4776b7711e7c",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532216912323,
-        "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "More traditionally you create an executable with "
-            ],
-            [
-              "go build hello_world.go -o hello_world",
+              "go run",
               [
                 [
                   "c"
@@ -265,22 +237,61 @@
               ]
             ],
             [
-              " and then execute it like any other program."
+              " is useful for ad-hoc execution of single-file program."
             ]
           ]
         },
         "type": "text",
-        "version": 87,
+        "version": 405,
         "inline_content": [
           {
-            "Text": "More traditionally you create an executable with "
-          },
-          {
-            "Text": "go build hello_world.go -o hello_world",
+            "Text": "go run",
             "AttrFlags": 2
           },
           {
-            "Text": " and then execute it like any other program."
+            "Text": " is useful for ad-hoc execution of single-file program."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539686138247,
+        "id": "86e72908-0bd6-4e5d-85e6-647b9cec8cc2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539686184826,
+        "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "You can also create an executable with "
+            ],
+            [
+              "go build hello_world.go",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 81,
+        "inline_content": [
+          {
+            "Text": "You can also create an executable with "
+          },
+          {
+            "Text": "go build hello_world.go",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
           }
         ]
       },
@@ -334,7 +345,7 @@
         "id": "40de31f6-d19c-4c3e-bb7e-a567cff4be6c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1533018606638,
+        "last_edited_time": 1539686211295,
         "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
         "parent_table": "block",
         "properties": {
@@ -356,7 +367,7 @@
           ]
         },
         "type": "text",
-        "version": 16,
+        "version": 18,
         "inline_content": [
           {
             "Text": "On every other OS this will create "
@@ -373,14 +384,14 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532216474041,
-        "id": "fff112ea-d46f-4f47-a5d4-ef37854a701e",
+        "created_time": 1539686212063,
+        "id": "8dca192d-548f-4b49-880c-c822afd7c826",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532216474041,
+        "last_edited_time": 1539686212080,
         "parent_id": "a62bd201-2aba-4b6e-9ead-abe1b91e06cc",
         "parent_table": "block",
         "type": "text",
-        "version": 4
+        "version": 6
       }
     ],
     "title": "Hello, World!",

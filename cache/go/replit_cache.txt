@@ -31,3 +31,452 @@ func main() {
 }
 
 ---
+@url: https://repl.it/@kjk1/book-booleans
+main.go:+229
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	var b bool = true
+	fmt.Printf("b is: '%v'\n", b)
+	b = false
+	fmt.Printf("b is: '%v'\n", b)
+	var b2 bool
+	fmt.Printf("zero value of bool is: '%v'\n", b2)
+	// :show end
+}
+
+
+---
+@url: https://repl.it/@kjk1/book-booleans2
+main.go:+155
+package main
+
+import (
+	"fmt"
+	"unsafe"
+)
+
+func main() {
+	// :show start
+	b := true
+	fmt.Printf("size of bool is: %d\n", unsafe.Sizeof(b))
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-int-to-str-itoa
+main.go:+218
+package main
+
+import (
+	"fmt"
+	"strconv"
+)
+
+func main() {
+	// :show start
+	var i1 int = -38
+	fmt.Printf("i1: %s\n", strconv.Itoa(i1))
+
+	var i2 int32 = 148
+	fmt.Printf("i2: %s\n", strconv.Itoa(int(i2)))
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-int-to-str-sprintf
+main.go:+231
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	// :show start
+	var i1 int = -38
+	s1 := fmt.Sprintf("%d", i1)
+	fmt.Printf("i1: %s\n", s1)
+
+	var i2 int32 = 148
+	s2 := fmt.Sprintf("%d", i2)
+	fmt.Printf("i2: %s\n", s2)
+	// :show end
+}
+---
+@url: https://repl.it/@kjk1/book-int-from-string-atoi
+main.go:+238
+package main
+
+import (
+	"fmt"
+	"log"
+	"strconv"
+)
+
+func main() {
+	// :show start
+	s := "-48"
+	i1, err := strconv.Atoi(s)
+	if err != nil {
+		log.Fatalf("strconv.Atoi() failed with %s\n", err)
+	}
+	fmt.Printf("i1: %d\n", i1)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-int-to-str-sscanf
+main.go:+242
+package main
+
+import (
+	"fmt"
+	"log"
+)
+
+func main() {
+	// :show start
+	s := "348"
+	var i int
+	_, err := fmt.Sscanf(s, "%d", &i)
+	if err != nil {
+		log.Fatalf("fmt.Sscanf failed with '%s'\n", err)
+	}
+	fmt.Printf("i1: %d\n", i)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-floating-point
+main.go:+336
+package main
+
+import (
+	"fmt"
+	"strconv"
+)
+
+func main() {
+	// :show start
+	var f32 float32 = 1.3
+	bitSize := 32
+	s1 := strconv.FormatFloat(float64(f32), 'E', -1, bitSize)
+	fmt.Printf("f32: %s\n", s1)
+
+	var f64 float64 = 8.1234
+	bitSize = 64
+	s2 := strconv.FormatFloat(f64, 'e', -1, bitSize)
+	fmt.Printf("f64: %s\n", s2)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-floating-point-2
+main.go:+158
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	var f64 float64 = 1.54
+	s := fmt.Sprintf("%f", f64)
+	fmt.Printf("f is: '%s'\n", s)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-floating-point-3
+main.go:+262
+package main
+
+import (
+	"fmt"
+	"log"
+	"strconv"
+)
+
+func main() {
+	// :show start
+	s := "1.2341"
+	f64, err := strconv.ParseFloat(s, 64)
+	if err != nil {
+		log.Fatalf("strconv.ParseFloat() failed with '%s'\n", err)
+	}
+	fmt.Printf("f64: %f\n", f64)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-floating-point-4
+main.go:+248
+package main
+
+import (
+	"fmt"
+	"log"
+)
+
+func main() {
+	// :show start
+	s := "1.2341"
+	var f float64
+	_, err := fmt.Sscanf(s, "%f", &f)
+	if err != nil {
+		log.Fatalf("fmt.Sscanf failed with '%s'\n", err)
+	}
+	fmt.Printf("f: %f\n", f)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-characters
+main.go:+191
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	s := "str"
+	for i := 0; i < len(s); i++ {
+		c := s[i]
+		fmt.Printf("Byte at index %d is '%c' (0x%x)\n", i, c, c)
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-characters-2
+main.go:+188
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	s := "日本語"
+	for i, runeChar := range s {
+		fmt.Printf("Rune at byte position %d is %#U\n", i, runeChar)
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-strings
+main.go:+286
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	var s string // empty string ""
+	s1 := "string\nliteral\nwith\tescape characters\n"
+	s2 := `raw string literal
+which doesnt't recgonize escape characters like \n
+`
+	fmt.Printf("sum of strings\n'%s'\n", s+s1+s2)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-constants
+main.go:+414
+// no output
+package main
+
+// :show start
+const (
+	i  int = 32       // int constant
+	s      = "string" // string constant
+	i2     = 33       // untyped number constant
+)
+
+var (
+	// values that are not read-only (like slices or maps or structs) cannot be
+	// constants
+	// we can declare them as top-level variables
+	b = []byte{3, 4} // this could not be a constant
+)
+
+// :show end
+
+func main() {
+	// do nothing
+}
+
+---
+@url: https://repl.it/@kjk1/book-array-basics
+main.go:+289
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	var a1 = [2]byte{3, 8} // array of 2 bytes
+	// when using [...] size will be deduced from { ... }
+	a2 := [...]int{1, 2, 3} // array of 3 integers
+
+	fmt.Printf("Size of a1: %d.\nSize of a2: %d\n", len(a1), len(a2))
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-map-basics
+main.go:+545
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	m := make(map[string]int)
+	m["number3"] = 3
+
+	checkKey := func(k string) {
+		if n, ok := m[k]; ok {
+			fmt.Printf("value for key '%s' is %d\n", k, n)
+		} else {
+			fmt.Printf("key '%s' doesn't exist in map\n", k)
+		}
+	}
+
+	// get value for a key that exists
+	checkKey("number3")
+
+	// get value for a key that doesn't exist
+	checkKey("number4")
+
+	// remove a key
+	delete(m, "number3")
+	fmt.Printf("deleted key 'number3\n")
+	checkKey("number3") // and now it doesn't exist
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-structs-basics
+main.go:+182
+// no output
+package main
+
+// :show start
+type MyStruct struct {
+	IntVal           int
+	StringVal        string
+	unexportedIntVal int
+}
+
+// :show end
+
+func main() {
+	// do nothing
+}
+
+---
+@url: https://repl.it/@kjk1/book-pointers-basics
+main.go:+180
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	var a int = 4
+	pa := &a
+	fmt.Printf("Address of a variable in memory is %p. Its value is: %d\n", pa, *pa)
+	// :show end
+}
+---
+@url: https://repl.it/@kjk1/book-channels-basics
+main.go:+364
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	// create unbuffered channel of int values with capacity of 1
+	ch := make(chan int)
+	// start a new goroutine that sends value 3 over a channel
+	go func() { ch <- 3 }()
+	// read the value from a channel
+	// it waits until goroutine above sends a value
+	n := <-ch
+	fmt.Printf("n: %d\n", n)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-zero-values
+main.go:+1008
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	var zeroBool bool
+	var zeroInt int
+	var zeroF32 float32
+	var zeroF64 float64
+	var zeroStr string
+	var zeroPtr *int
+	var zeroSlice []uint32
+	var zeroMap map[string]int
+	var zeroInterface interface{}
+	var zeroChan chan bool
+	var zeroArray [5]int
+	type struc struct {
+		a int
+		b string
+	}
+	var zeroStruct struc
+	var zeroFunc func(bool)
+
+  fmt.Println("zero values for basic types:")
+	fmt.Printf("bool:       %v\n", zeroBool)
+	fmt.Printf("int:        %v\n", zeroInt)
+	fmt.Printf("float32:    %v\n", zeroF32)
+	fmt.Printf("float64:    %v\n", zeroF64)
+	fmt.Printf("string:     %#v\n", zeroStr)
+	fmt.Printf("pointer:    %v\n", zeroPtr)
+	fmt.Printf("slice:      %v\n", zeroSlice)
+	fmt.Printf("map:        %#v\n", zeroMap)
+	fmt.Printf("interface:  %v\n", zeroInterface)
+	fmt.Printf("channel:    %v\n", zeroChan)
+	fmt.Printf("array:      %v\n", zeroArray)
+	fmt.Printf("struct:     %#v\n", zeroStruct)
+	fmt.Printf("function:   %v\n", zeroFunc)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/book-type-casting-basics
+main.go:+521
+// no output
+package main
+
+func main() {
+	// :show start
+	// you can cast between numbers i.e. integers of various sizes and floating point numbers
+	var i1 int32 = 3
+	var i2 int = int(i1) // we must explicitly cast from int32 to int
+	var f float64 = float64(i1)
+
+	s := "string"
+	// we can cast between string and []byte and vice-versa
+	// note that unless optimizted by the compiler, this involves allocation
+	var d []byte = []byte(s)
+	// :show end
+
+	_, _, _ = i2, f, d // silence compiler error about unused variables
+}
+
+---

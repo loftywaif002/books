@@ -16,10 +16,6 @@
       "56c9001d-0705-46b1-b10d-89d216586724",
       "f1620504-93ae-4582-a2d7-64a094c330e9",
       "2bf47343-c237-4f8b-b0f6-9bebe81f3e76",
-      "3cf943c2-cc9a-465b-b8bd-ccc9f61aeae0",
-      "5dbdaee4-270c-4b4f-9d03-3c8a03534de8",
-      "8a3e6e7c-35bb-41a3-accc-cf370dbd8271",
-      "5c7408fb-d34a-4155-8f69-1ed7bd8e1d43",
       "263826c3-3be1-4cf9-877d-11ea1512de23"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -31,7 +27,7 @@
     "id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538788459019,
+    "last_edited_time": 1539593949048,
     "parent_id": "c4da0534-9333-4df9-9513-4741ae04f808",
     "parent_table": "block",
     "properties": {
@@ -42,7 +38,7 @@
       ]
     },
     "type": "page",
-    "version": 48,
+    "version": 80,
     "content_resolved": [
       {
         "alive": true,
@@ -234,6 +230,7 @@
         },
         "type": "embed",
         "version": 10,
+        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0260-time-date%2Fstrftime.go",
         "format_embed": {
           "block_full_width": false,
           "block_height": 349,
@@ -467,7 +464,31 @@
                 "e004f507-b9f2-4528-877f-3f9f44ddfe70",
                 "e7b7a200-e497-41e8-941c-74104c262456",
                 "6ccb4fad-edbb-4f1d-a4f5-9d545a9f07b8",
-                "0146de3a-30f0-4f12-b912-b78000138ec2"
+                "0146de3a-30f0-4f12-b912-b78000138ec2",
+                "9c01b9fc-aa5b-4f70-804c-15cd040a3e61",
+                "44bbc572-274d-4738-a479-44744f3956aa",
+                "f40840d4-aec0-4b80-b02e-b2e1e24534f5",
+                "cbc5169d-0dff-42e3-98bf-be99b10393a7",
+                "2c070fa2-145f-42c6-aa0c-0da51c99bfe0",
+                "cfd31cf6-2801-450c-9735-0c1d23e31eab",
+                "14046c01-1d48-4e32-aca1-096441fdbba7",
+                "a66b074d-213f-419c-9f15-14f7ba2ecd66",
+                "2440cdc6-42be-4a4e-ade9-3841de4bc3fb",
+                "e03e37bf-42cb-4016-bfd5-c1731338cdad",
+                "27a7c062-eec3-4ac8-bba1-656db8dbc5b6",
+                "a5afc2d4-933c-4f4d-91fe-3e3bbef86a23",
+                "e8deef6f-b80d-411c-9285-69b824e6c1f8",
+                "6a9682aa-f418-4338-abf7-328279d2f819",
+                "e6503253-12ed-41ea-bbf4-a5fac36242fd",
+                "c3924233-f51b-4370-bfb2-b2b53a2f1720",
+                "754be3c1-4d8c-46d6-b09f-bc07d36638c7",
+                "404b572e-1569-4456-8413-18dd16f03c51",
+                "2503f346-e392-4c90-a3a9-5ffe96fc4684",
+                "0d60d914-7ae1-41df-b61f-0b8676867338",
+                "606cf826-971f-4878-9a5c-7f29d9914d92",
+                "b236bf1e-f495-4049-aff6-ac5460050dbf",
+                "ccf899dc-c165-40ef-a5e5-066249f74690",
+                "2f0b47cf-f17c-4743-9577-f4d020a44f52"
               ],
               "parent_id": "2bf47343-c237-4f8b-b0f6-9bebe81f3e76",
               "parent_table": "block",
@@ -475,7 +496,7 @@
                 "aggregate": null
               },
               "type": "table",
-              "version": 8
+              "version": 404
             },
             "Collection": {
               "alive": true,
@@ -512,7 +533,7 @@
                   "type": "title"
                 }
               },
-              "version": 6
+              "version": 9
             },
             "CollectionRows": [
               {
@@ -579,11 +600,28 @@
                 "created_time": 1538788273927,
                 "id": "6ccb4fad-edbb-4f1d-a4f5-9d545a9f07b8",
                 "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-                "last_edited_time": 1538788273927,
+                "last_edited_time": 1539593397949,
                 "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
                 "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "The abbreviated month name"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "Jan"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%b"
+                    ]
+                  ]
+                },
                 "type": "page",
-                "version": 3
+                "version": 13
               },
               {
                 "alive": true,
@@ -591,663 +629,633 @@
                 "created_time": 1538788327846,
                 "id": "0146de3a-30f0-4f12-b912-b78000138ec2",
                 "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-                "last_edited_time": 1538788327846,
+                "last_edited_time": 1539593428089,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "The full month name"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "January"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%B"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 22
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593428667,
+                "id": "9c01b9fc-aa5b-4f70-804c-15cd040a3e61",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593453782,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Day of the month"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "01..31"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%d"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 18
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593457088,
+                "id": "44bbc572-274d-4738-a479-44744f3956aa",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593477965,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Day of the month without a leading zero"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "1..31"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%e"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 18
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593478248,
+                "id": "f40840d4-aec0-4b80-b02e-b2e1e24534f5",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593502053,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Day of the year"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "001..366"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%j"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 18
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593509512,
+                "id": "cbc5169d-0dff-42e3-98bf-be99b10393a7",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593553612,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Month of the year"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "01..12"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%m"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 16
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593512100,
+                "id": "2c070fa2-145f-42c6-aa0c-0da51c99bfe0",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593577468,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Week number of the current year, starting with the first Sunday as the first day of the first week"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "00..53"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%U"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 18
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593514054,
+                "id": "cfd31cf6-2801-450c-9735-0c1d23e31eab",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593612329,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Week number of the current year, starting with the first Monday as the first day of the first week"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "00..53"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%W"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 16
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593581503,
+                "id": "14046c01-1d48-4e32-aca1-096441fdbba7",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593640135,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Day of the week (Sunday is 0)"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "0..6"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%w"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 16
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593583526,
+                "id": "a66b074d-213f-419c-9f15-14f7ba2ecd66",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593657390,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Preferred representation for the date alone, no time"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%x"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 8
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593586765,
+                "id": "2440cdc6-42be-4a4e-ade9-3841de4bc3fb",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593681079,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Year without a century"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "00..99"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%y"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 16
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593590714,
+                "id": "e03e37bf-42cb-4016-bfd5-c1731338cdad",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593694758,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Year with century"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%Y"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 8
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593709985,
+                "id": "27a7c062-eec3-4ac8-bba1-656db8dbc5b6",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593709985,
                 "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
                 "parent_table": "collection",
                 "type": "page",
                 "version": 4
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593728734,
+                "id": "a5afc2d4-933c-4f4d-91fe-3e3bbef86a23",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593750461,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Hour of the day, 24-hour clock"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "00..23"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%H"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 18
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593750783,
+                "id": "e8deef6f-b80d-411c-9285-69b824e6c1f8",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593769384,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Hour of the day, 12-hour clock"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "01..12"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%I"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 16
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593769762,
+                "id": "6a9682aa-f418-4338-abf7-328279d2f819",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593788609,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Hour of the day, 12-hour clock without a leading zero"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "1..12"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%l"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 16
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593789980,
+                "id": "e6503253-12ed-41ea-bbf4-a5fac36242fd",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593809496,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Minute of the hour"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "00..59"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%M"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 16
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593812140,
+                "id": "c3924233-f51b-4370-bfb2-b2b53a2f1720",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593829489,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Meridian indicator (\"am\" or \"pm\")"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "am"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%P"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 12
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593829717,
+                "id": "754be3c1-4d8c-46d6-b09f-bc07d36638c7",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593846882,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Meridian indicator (\"AM\" or \"PM\")"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "PM"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%p"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 12
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593847181,
+                "id": "404b572e-1569-4456-8413-18dd16f03c51",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593869630,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Second of the minute"
+                    ]
+                  ],
+                  "m}P;": [
+                    [
+                      "00..60"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%S"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 16
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593869969,
+                "id": "2503f346-e392-4c90-a3a9-5ffe96fc4684",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593883062,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Preferred representation for the time alone, no date"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%X"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 8
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593884377,
+                "id": "0d60d914-7ae1-41df-b61f-0b8676867338",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593898431,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Time zone name"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%Z"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 8
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593898738,
+                "id": "606cf826-971f-4878-9a5c-7f29d9914d92",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593898738,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "type": "page",
+                "version": 4
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593906291,
+                "id": "b236bf1e-f495-4049-aff6-ac5460050dbf",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593914359,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "The preferred local date and time representation"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%c"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 8
+              },
+              {
+                "alive": true,
+                "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "created_time": 1539593914944,
+                "id": "ccf899dc-c165-40ef-a5e5-066249f74690",
+                "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+                "last_edited_time": 1539593930261,
+                "parent_id": "f0ea2ca2-af25-4d00-a552-3b37c2ec7189",
+                "parent_table": "collection",
+                "properties": {
+                  "*r=Z": [
+                    [
+                      "Literal \"%\" character"
+                    ]
+                  ],
+                  "title": [
+                    [
+                      "%%"
+                    ]
+                  ]
+                },
+                "type": "page",
+                "version": 8
               }
             ]
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538788418316,
-        "id": "3cf943c2-cc9a-465b-b8bd-ccc9f61aeae0",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538788422995,
-        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "TODO: finish the table"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 48,
-        "inline_content": [
-          {
-            "Text": "TODO: finish the table"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538788423331,
-        "id": "5dbdaee4-270c-4b4f-9d03-3c8a03534de8",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538788457376,
-        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "https://www.programming-books.io/essential/go/169-format-time-like-strftime",
-              [
-                [
-                  "a",
-                  "https://www.programming-books.io/essential/go/169-format-time-like-strftime"
-                ]
-              ]
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 8,
-        "inline_content": [
-          {
-            "Text": "https://www.programming-books.io/essential/go/169-format-time-like-strftime",
-            "Link": "https://www.programming-books.io/essential/go/169-format-time-like-strftime"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538788459019,
-        "id": "8a3e6e7c-35bb-41a3-accc-cf370dbd8271",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538788459062,
-        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
-        "parent_table": "block",
-        "type": "text",
-        "version": 6
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156094210,
-        "id": "5c7408fb-d34a-4155-8f69-1ed7bd8e1d43",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156094210,
-        "parent_id": "2c7392d3-9940-4940-b8f7-881ae23a6889",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Code"
-            ],
-            [
-              "Meaning"
-            ],
-            [
-              "Example"
-            ],
-            [
-              "%a"
-            ],
-            [
-              "Weekday as locale’s abbreviated name."
-            ],
-            [
-              "Mon"
-            ],
-            [
-              "%A"
-            ],
-            [
-              "Weekday as locale’s full name."
-            ],
-            [
-              "Monday"
-            ],
-            [
-              "%w"
-            ],
-            [
-              "Weekday as a decimal number, where 0 is Sunday and 6 is Saturday."
-            ],
-            [
-              "1"
-            ],
-            [
-              "%d"
-            ],
-            [
-              "Day of the month as a zero-padded decimal number."
-            ],
-            [
-              "30"
-            ],
-            [
-              "%-d"
-            ],
-            [
-              "Day of the month as a decimal number. (Platform specific)"
-            ],
-            [
-              "30"
-            ],
-            [
-              "%b"
-            ],
-            [
-              "Month as locale’s abbreviated name."
-            ],
-            [
-              "Sep"
-            ],
-            [
-              "%B"
-            ],
-            [
-              "Month as locale’s full name."
-            ],
-            [
-              "September"
-            ],
-            [
-              "%m"
-            ],
-            [
-              "Month as a zero-padded decimal number."
-            ],
-            [
-              "09"
-            ],
-            [
-              "%-m"
-            ],
-            [
-              "Month as a decimal number. (Platform specific)"
-            ],
-            [
-              "9"
-            ],
-            [
-              "%y"
-            ],
-            [
-              "Year without century as a zero-padded decimal number."
-            ],
-            [
-              "13"
-            ],
-            [
-              "%Y"
-            ],
-            [
-              "Year with century as a decimal number."
-            ],
-            [
-              "2013"
-            ],
-            [
-              "%H"
-            ],
-            [
-              "Hour (24-hour clock) as a zero-padded decimal number."
-            ],
-            [
-              "07"
-            ],
-            [
-              "%-H"
-            ],
-            [
-              "Hour (24-hour clock) as a decimal number. (Platform specific)"
-            ],
-            [
-              "7"
-            ],
-            [
-              "%I"
-            ],
-            [
-              "Hour (12-hour clock) as a zero-padded decimal number."
-            ],
-            [
-              "07"
-            ],
-            [
-              "%-I"
-            ],
-            [
-              "Hour (12-hour clock) as a decimal number. (Platform specific)"
-            ],
-            [
-              "7"
-            ],
-            [
-              "%p"
-            ],
-            [
-              "Locale’s equivalent of either AM or PM."
-            ],
-            [
-              "AM"
-            ],
-            [
-              "%M"
-            ],
-            [
-              "Minute as a zero-padded decimal number."
-            ],
-            [
-              "06"
-            ],
-            [
-              "%-M"
-            ],
-            [
-              "Minute as a decimal number. (Platform specific)"
-            ],
-            [
-              "6"
-            ],
-            [
-              "%S"
-            ],
-            [
-              "Second as a zero-padded decimal number."
-            ],
-            [
-              "05"
-            ],
-            [
-              "%-S"
-            ],
-            [
-              "Second as a decimal number. (Platform specific)"
-            ],
-            [
-              "5"
-            ],
-            [
-              "%f"
-            ],
-            [
-              "Microsecond as a decimal number, zero-padded on the left."
-            ],
-            [
-              "000000"
-            ],
-            [
-              "%z"
-            ],
-            [
-              "UTC offset in the form +HHMM or -HHMM (empty string if the the object is naive)."
-            ],
-            [
-              "%Z"
-            ],
-            [
-              "Time zone name (empty string if the object is naive)."
-            ],
-            [
-              "%j"
-            ],
-            [
-              "Day of the year as a zero-padded decimal number."
-            ],
-            [
-              "273"
-            ],
-            [
-              "%-j"
-            ],
-            [
-              "Day of the year as a decimal number. (Platform specific)"
-            ],
-            [
-              "273"
-            ],
-            [
-              "%U"
-            ],
-            [
-              "Week number of the year (Sunday as the first day of the week) as a zero padded decimal number. All days in a new year preceding the first Sunday are considered to be in week 0."
-            ],
-            [
-              "39"
-            ],
-            [
-              "%W"
-            ],
-            [
-              "Week number of the year (Monday as the first day of the week) as a decimal number. All days in a new year preceding the first Monday are considered to be in week 0."
-            ],
-            [
-              "39"
-            ],
-            [
-              "%c"
-            ],
-            [
-              "Locale’s appropriate date and time representation."
-            ],
-            [
-              "Mon Sep 30 07:06:05 2013"
-            ],
-            [
-              "%x"
-            ],
-            [
-              "Locale’s appropriate date representation."
-            ],
-            [
-              "09/30/13"
-            ],
-            [
-              "%X"
-            ],
-            [
-              "Locale’s appropriate time representation."
-            ],
-            [
-              "07:06:05"
-            ],
-            [
-              "%%"
-            ],
-            [
-              "A literal ‘%’ character."
-            ],
-            [
-              "%"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 1,
-        "inline_content": [
-          {
-            "Text": "Code"
-          },
-          {
-            "Text": "Meaning"
-          },
-          {
-            "Text": "Example"
-          },
-          {
-            "Text": "%a"
-          },
-          {
-            "Text": "Weekday as locale’s abbreviated name."
-          },
-          {
-            "Text": "Mon"
-          },
-          {
-            "Text": "%A"
-          },
-          {
-            "Text": "Weekday as locale’s full name."
-          },
-          {
-            "Text": "Monday"
-          },
-          {
-            "Text": "%w"
-          },
-          {
-            "Text": "Weekday as a decimal number, where 0 is Sunday and 6 is Saturday."
-          },
-          {
-            "Text": "1"
-          },
-          {
-            "Text": "%d"
-          },
-          {
-            "Text": "Day of the month as a zero-padded decimal number."
-          },
-          {
-            "Text": "30"
-          },
-          {
-            "Text": "%-d"
-          },
-          {
-            "Text": "Day of the month as a decimal number. (Platform specific)"
-          },
-          {
-            "Text": "30"
-          },
-          {
-            "Text": "%b"
-          },
-          {
-            "Text": "Month as locale’s abbreviated name."
-          },
-          {
-            "Text": "Sep"
-          },
-          {
-            "Text": "%B"
-          },
-          {
-            "Text": "Month as locale’s full name."
-          },
-          {
-            "Text": "September"
-          },
-          {
-            "Text": "%m"
-          },
-          {
-            "Text": "Month as a zero-padded decimal number."
-          },
-          {
-            "Text": "09"
-          },
-          {
-            "Text": "%-m"
-          },
-          {
-            "Text": "Month as a decimal number. (Platform specific)"
-          },
-          {
-            "Text": "9"
-          },
-          {
-            "Text": "%y"
-          },
-          {
-            "Text": "Year without century as a zero-padded decimal number."
-          },
-          {
-            "Text": "13"
-          },
-          {
-            "Text": "%Y"
-          },
-          {
-            "Text": "Year with century as a decimal number."
-          },
-          {
-            "Text": "2013"
-          },
-          {
-            "Text": "%H"
-          },
-          {
-            "Text": "Hour (24-hour clock) as a zero-padded decimal number."
-          },
-          {
-            "Text": "07"
-          },
-          {
-            "Text": "%-H"
-          },
-          {
-            "Text": "Hour (24-hour clock) as a decimal number. (Platform specific)"
-          },
-          {
-            "Text": "7"
-          },
-          {
-            "Text": "%I"
-          },
-          {
-            "Text": "Hour (12-hour clock) as a zero-padded decimal number."
-          },
-          {
-            "Text": "07"
-          },
-          {
-            "Text": "%-I"
-          },
-          {
-            "Text": "Hour (12-hour clock) as a decimal number. (Platform specific)"
-          },
-          {
-            "Text": "7"
-          },
-          {
-            "Text": "%p"
-          },
-          {
-            "Text": "Locale’s equivalent of either AM or PM."
-          },
-          {
-            "Text": "AM"
-          },
-          {
-            "Text": "%M"
-          },
-          {
-            "Text": "Minute as a zero-padded decimal number."
-          },
-          {
-            "Text": "06"
-          },
-          {
-            "Text": "%-M"
-          },
-          {
-            "Text": "Minute as a decimal number. (Platform specific)"
-          },
-          {
-            "Text": "6"
-          },
-          {
-            "Text": "%S"
-          },
-          {
-            "Text": "Second as a zero-padded decimal number."
-          },
-          {
-            "Text": "05"
-          },
-          {
-            "Text": "%-S"
-          },
-          {
-            "Text": "Second as a decimal number. (Platform specific)"
-          },
-          {
-            "Text": "5"
-          },
-          {
-            "Text": "%f"
-          },
-          {
-            "Text": "Microsecond as a decimal number, zero-padded on the left."
-          },
-          {
-            "Text": "000000"
-          },
-          {
-            "Text": "%z"
-          },
-          {
-            "Text": "UTC offset in the form +HHMM or -HHMM (empty string if the the object is naive)."
-          },
-          {
-            "Text": "%Z"
-          },
-          {
-            "Text": "Time zone name (empty string if the object is naive)."
-          },
-          {
-            "Text": "%j"
-          },
-          {
-            "Text": "Day of the year as a zero-padded decimal number."
-          },
-          {
-            "Text": "273"
-          },
-          {
-            "Text": "%-j"
-          },
-          {
-            "Text": "Day of the year as a decimal number. (Platform specific)"
-          },
-          {
-            "Text": "273"
-          },
-          {
-            "Text": "%U"
-          },
-          {
-            "Text": "Week number of the year (Sunday as the first day of the week) as a zero padded decimal number. All days in a new year preceding the first Sunday are considered to be in week 0."
-          },
-          {
-            "Text": "39"
-          },
-          {
-            "Text": "%W"
-          },
-          {
-            "Text": "Week number of the year (Monday as the first day of the week) as a decimal number. All days in a new year preceding the first Monday are considered to be in week 0."
-          },
-          {
-            "Text": "39"
-          },
-          {
-            "Text": "%c"
-          },
-          {
-            "Text": "Locale’s appropriate date and time representation."
-          },
-          {
-            "Text": "Mon Sep 30 07:06:05 2013"
-          },
-          {
-            "Text": "%x"
-          },
-          {
-            "Text": "Locale’s appropriate date representation."
-          },
-          {
-            "Text": "09/30/13"
-          },
-          {
-            "Text": "%X"
-          },
-          {
-            "Text": "Locale’s appropriate time representation."
-          },
-          {
-            "Text": "07:06:05"
-          },
-          {
-            "Text": "%%"
-          },
-          {
-            "Text": "A literal ‘%’ character."
-          },
-          {
-            "Text": "%"
           }
         ]
       },

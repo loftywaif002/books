@@ -12,7 +12,7 @@
       "eff2960a-5f6b-4c99-973e-b1b9638a592f",
       "09a19405-bb89-40d6-b746-535e946d6f78",
       "9b578a1e-bac7-49e1-879e-b26cdf273719",
-      "118dd2ab-141c-4fe7-8446-15ef4cb183d2"
+      "2c372b82-be7e-41a2-8fe2-7e492f749dcf"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155936150,
@@ -23,7 +23,7 @@
     "id": "67151757-92a2-445d-b26d-03d366c233b8",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1536372825447,
+    "last_edited_time": 1539746132613,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -34,7 +34,7 @@
       ]
     },
     "type": "page",
-    "version": 45,
+    "version": 52,
     "content_resolved": [
       {
         "alive": true,
@@ -278,34 +278,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1536372818364,
+        "created_time": 1539746127298,
         "format": {
-          "block_height": 436.9895935058594,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fmaps.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-map-basics?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "118dd2ab-141c-4fe7-8446-15ef4cb183d2",
+        "id": "2c372b82-be7e-41a2-8fe2-7e492f749dcf",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536372836759,
+        "last_edited_time": 1539746129443,
         "parent_id": "67151757-92a2-445d-b26d-03d366c233b8",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fmaps.go"
+              "https://repl.it/@kjk1/book-map-basics"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-map-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 436.9895935058594,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fmaps.go"
+          "display_source": "https://repl.it/@kjk1/book-map-basics?lite=true"
         }
       }
     ],

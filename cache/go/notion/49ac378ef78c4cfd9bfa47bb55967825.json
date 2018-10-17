@@ -10,7 +10,7 @@
       "1bcd9334-f289-40af-ae41-cf0d31273211",
       "242a4b38-adec-4e0f-8362-8b6384bde059",
       "929d8e45-ba0d-4df1-81e5-09115689596f",
-      "0082eeea-abf7-41d9-a378-d8bd20730beb",
+      "f061054e-eff7-48dc-a576-004310705783",
       "9d39c7f3-92d3-4369-847b-f651fa6e84c5",
       "f6863227-a71d-4485-bcad-db45917bae18",
       "bb2e2850-5568-4bf7-9581-9503c9f187fd"
@@ -24,7 +24,7 @@
     "id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538806386690,
+    "last_edited_time": 1539746396890,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -35,7 +35,7 @@
       ]
     },
     "type": "page",
-    "version": 31,
+    "version": 38,
     "content_resolved": [
       {
         "alive": true,
@@ -192,55 +192,63 @@
         "id": "929d8e45-ba0d-4df1-81e5-09115689596f",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532155942153,
+        "last_edited_time": 1539746390002,
         "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Pointer basics:"
+              "Pointer basics",
+              [
+                [
+                  "b"
+                ]
+              ]
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 12,
         "inline_content": [
           {
-            "Text": "Pointer basics:"
+            "Text": "Pointer basics",
+            "AttrFlags": 1
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538715524813,
+        "created_time": 1539746382686,
         "format": {
-          "block_height": 257,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fpointers.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-pointers-basics?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "0082eeea-abf7-41d9-a378-d8bd20730beb",
+        "id": "f061054e-eff7-48dc-a576-004310705783",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538715532134,
+        "last_edited_time": 1539746385651,
         "parent_id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fpointers.go"
+              "https://repl.it/@kjk1/book-pointers-basics"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-pointers-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 257,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fpointers.go"
+          "display_source": "https://repl.it/@kjk1/book-pointers-basics?lite=true"
         }
       },
       {

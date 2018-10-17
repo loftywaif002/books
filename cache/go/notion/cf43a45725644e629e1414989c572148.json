@@ -19,13 +19,13 @@
       "1fe3abd8-3b02-4524-ba06-5954d3acf19d",
       "261398a2-cf16-49f5-b58a-80dec29d2ced",
       "3529534a-81cd-4f68-b2dd-0ef3534997e9",
-      "fcc7d95d-a06f-482d-8f86-492fb39305a2",
+      "7c1e7e86-d114-49cd-83af-169c77c3429f",
       "e8c01dfd-3fae-4136-9b13-8aff0e552ca7",
-      "3c9732b8-be10-4f3c-bce5-959f1d3abd48",
+      "63197569-cb0a-4967-8453-388c08d5858b",
       "f0fa3acf-561d-4765-9c8d-05cbe63e5d61",
-      "8047f052-cf58-4111-9f8e-61c67be70df8",
+      "0e567015-8fed-4ee2-b203-87132a179e79",
       "bde97b3e-91e0-43d0-9fb3-4f21d8cc4f6c",
-      "e10d9d60-38a5-46b9-b733-94f7809015e3",
+      "f035d352-c71b-4dfe-82e7-6979ba498b02",
       "aec8c5cb-2b56-438f-a4f9-c4e453e04bbe"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -37,7 +37,7 @@
     "id": "cf43a457-2564-4e62-9e14-14989c572148",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538864339591,
+    "last_edited_time": 1539747208190,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -48,7 +48,7 @@
       ]
     },
     "type": "page",
-    "version": 53,
+    "version": 93,
     "content_resolved": [
       {
         "alive": true,
@@ -701,34 +701,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538864236392,
+        "created_time": 1539743647190,
         "format": {
-          "block_height": 331,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fint-to-str-itoa.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-int-to-str-itoa?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "fcc7d95d-a06f-482d-8f86-492fb39305a2",
+        "id": "7c1e7e86-d114-49cd-83af-169c77c3429f",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538864245807,
+        "last_edited_time": 1539743649704,
         "parent_id": "cf43a457-2564-4e62-9e14-14989c572148",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fint-to-str-itoa.go"
+              "https://repl.it/@kjk1/book-int-to-str-itoa"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-int-to-str-itoa",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 331,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fint-to-str-itoa.go"
+          "display_source": "https://repl.it/@kjk1/book-int-to-str-itoa?lite=true"
         }
       },
       {
@@ -737,7 +739,7 @@
         "created_time": 1536369056704,
         "id": "e8c01dfd-3fae-4136-9b13-8aff0e552ca7",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536370147766,
+        "last_edited_time": 1539747206471,
         "parent_id": "cf43a457-2564-4e62-9e14-14989c572148",
         "parent_table": "block",
         "properties": {
@@ -756,7 +758,7 @@
           ]
         },
         "type": "sub_header",
-        "version": 140,
+        "version": 149,
         "inline_content": [
           {
             "Text": "Convert int to string with "
@@ -770,34 +772,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538864265601,
+        "created_time": 1539747208190,
         "format": {
-          "block_height": 359,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fint-to-str-sprintf.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-int-to-str-sprintf?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "3c9732b8-be10-4f3c-bce5-959f1d3abd48",
+        "id": "63197569-cb0a-4967-8453-388c08d5858b",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538864273347,
+        "last_edited_time": 1539747210343,
         "parent_id": "cf43a457-2564-4e62-9e14-14989c572148",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fint-to-str-sprintf.go"
+              "https://repl.it/@kjk1/book-int-to-str-sprintf"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-int-to-str-sprintf",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 359,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fint-to-str-sprintf.go"
+          "display_source": "https://repl.it/@kjk1/book-int-to-str-sprintf?lite=true"
         }
       },
       {
@@ -839,34 +843,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538864296211,
+        "created_time": 1539744002699,
         "format": {
-          "block_height": 385,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fint-from-str-atoi.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-int-from-string-atoi?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "8047f052-cf58-4111-9f8e-61c67be70df8",
+        "id": "0e567015-8fed-4ee2-b203-87132a179e79",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538864307709,
+        "last_edited_time": 1539744004487,
         "parent_id": "cf43a457-2564-4e62-9e14-14989c572148",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fint-from-str-atoi.go"
+              "https://repl.it/@kjk1/book-int-from-string-atoi"
             ]
           ]
         },
         "type": "embed",
-        "version": 14,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-int-from-string-atoi",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 385,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fint-from-str-atoi.go"
+          "display_source": "https://repl.it/@kjk1/book-int-from-string-atoi?lite=true"
         }
       },
       {
@@ -908,34 +914,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538864328734,
+        "created_time": 1539744114304,
         "format": {
-          "block_height": 373,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fint-to-str-sscanf.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-int-to-str-sscanf?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "e10d9d60-38a5-46b9-b733-94f7809015e3",
+        "id": "f035d352-c71b-4dfe-82e7-6979ba498b02",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538864341809,
+        "last_edited_time": 1539744116431,
         "parent_id": "cf43a457-2564-4e62-9e14-14989c572148",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fint-to-str-sscanf.go"
+              "https://repl.it/@kjk1/book-int-to-str-sscanf"
             ]
           ]
         },
         "type": "embed",
-        "version": 14,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-int-to-str-sscanf",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 373,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fint-to-str-sscanf.go"
+          "display_source": "https://repl.it/@kjk1/book-int-to-str-sscanf?lite=true"
         }
       },
       {

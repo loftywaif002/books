@@ -176,7 +176,7 @@ func httpGet(uri string) ([]byte, error) {
 
 	if resp.StatusCode != http.StatusOK {
 		d, _ := ioutil.ReadAll(resp.Body)
-		return nil, fmt.Errorf("Request was '%s' (%d) and not OK (200). Body:\n%s", resp.Status, resp.StatusCode, string(d))
+		return nil, fmt.Errorf("Request was '%s' (%d) and not OK (200). Body:\n%s\nurl: %s", resp.Status, resp.StatusCode, string(d), uri)
 	}
 	d, err := ioutil.ReadAll(resp.Body)
 	if err != nil {

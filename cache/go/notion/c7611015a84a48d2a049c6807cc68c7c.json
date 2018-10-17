@@ -5,14 +5,13 @@
     "content": [
       "fb901f5c-48e1-4d9a-952d-e049c4dcf0f1",
       "b0e601a4-f2df-46ea-87c0-e0074bdfe7fe",
-      "ff78ed61-255b-4975-b549-6244ffdfebf1",
+      "b5bba354-d404-4834-876c-7b8c867eedb3",
       "13b38b54-cb13-4e6a-b4d2-580563ca9003",
       "2d0759d0-f63f-4f05-bc93-ed65afa63a75",
-      "6727d437-d631-4efa-b26c-c6f5dec6e73e",
-      "f09c7c63-72b9-4a9b-a848-906e67097fa2",
+      "29594565-7105-4053-8ae6-20717bc4dbf2",
+      "7b1e36d5-e2fc-49b9-af79-61735a65685c",
       "47db1de1-c99e-4055-a6ff-fa2762245714",
-      "f2ca7ada-ffa8-4d2e-a5b8-61d51b905849",
-      "9de80953-118b-451b-b762-3a69d2f393c3"
+      "31370191-1772-444c-8d67-c8ecde016242"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155927148,
@@ -23,7 +22,7 @@
     "id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1536372347228,
+    "last_edited_time": 1539743562447,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -34,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 62,
+    "version": 81,
     "content_resolved": [
       {
         "alive": true,
@@ -87,14 +86,26 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532160207851,
-        "id": "ff78ed61-255b-4975-b549-6244ffdfebf1",
+        "created_time": 1539568311188,
+        "id": "b5bba354-d404-4834-876c-7b8c867eedb3",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532160207863,
+        "last_edited_time": 1539568363541,
         "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
         "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "f"
+            ]
+          ]
+        },
         "type": "text",
-        "version": 6
+        "version": 6,
+        "inline_content": [
+          {
+            "Text": "f"
+          }
+        ]
       },
       {
         "alive": true,
@@ -252,46 +263,48 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1536372347228,
-        "id": "6727d437-d631-4efa-b26c-c6f5dec6e73e",
+        "created_time": 1539743426868,
+        "id": "29594565-7105-4053-8ae6-20717bc4dbf2",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536372347250,
+        "last_edited_time": 1539743426868,
         "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
         "parent_table": "block",
         "type": "text",
-        "version": 6
+        "version": 4
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1536221166558,
+        "created_time": 1539743428388,
         "format": {
-          "block_height": 279,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fbooleans.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-booleans?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "f09c7c63-72b9-4a9b-a848-906e67097fa2",
+        "id": "7b1e36d5-e2fc-49b9-af79-61735a65685c",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536221173196,
+        "last_edited_time": 1539743431955,
         "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fbooleans.go"
+              "https://repl.it/@kjk1/book-booleans"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-booleans",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 279,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fbooleans.go"
+          "display_source": "https://repl.it/@kjk1/book-booleans?lite=true"
         }
       },
       {
@@ -359,47 +372,37 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1536221182995,
+        "created_time": 1539743550572,
         "format": {
-          "block_height": 299,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fbooleans-2.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-booleans2?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "f2ca7ada-ffa8-4d2e-a5b8-61d51b905849",
+        "id": "31370191-1772-444c-8d67-c8ecde016242",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536221220581,
+        "last_edited_time": 1539743552909,
         "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fbooleans-2.go"
+              "https://repl.it/@kjk1/book-booleans2"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-booleans2",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 299,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fbooleans-2.go"
+          "display_source": "https://repl.it/@kjk1/book-booleans2?lite=true"
         }
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532233191559,
-        "id": "9de80953-118b-451b-b762-3a69d2f393c3",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532233191559,
-        "parent_id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
-        "parent_table": "block",
-        "type": "text",
-        "version": 4
       }
     ],
     "title": "Booleans",

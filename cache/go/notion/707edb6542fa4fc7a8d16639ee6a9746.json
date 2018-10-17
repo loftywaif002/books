@@ -12,7 +12,7 @@
       "3f70f254-afe6-4685-86ca-45a4cbca6b33",
       "3cf65ca8-bb23-462c-ae67-4e4074997f44",
       "646bc127-2f7a-4250-9f4f-190beba106dd",
-      "3e5fe73a-765a-49a6-9e58-4a738969b8c7",
+      "22b3886b-6604-4190-a903-c153f72addfa",
       "8b7e3279-90d9-40c3-a8c3-b24c478e6d66",
       "66730f0c-6b5c-4111-bb87-e19ace307e3c"
     ],
@@ -25,7 +25,7 @@
     "id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538806539704,
+    "last_edited_time": 1539746702273,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -36,7 +36,7 @@
       ]
     },
     "type": "page",
-    "version": 61,
+    "version": 68,
     "content_resolved": [
       {
         "alive": true,
@@ -615,34 +615,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1536372290202,
+        "created_time": 1539746696537,
         "format": {
-          "block_height": 662.99658203125,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fzero_values.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-zero-values?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "3e5fe73a-765a-49a6-9e58-4a738969b8c7",
+        "id": "22b3886b-6604-4190-a903-c153f72addfa",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536372307652,
+        "last_edited_time": 1539746698320,
         "parent_id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fzero_values.go"
+              "https://repl.it/@kjk1/book-zero-values"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-zero-values",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 662.99658203125,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fzero_values.go"
+          "display_source": "https://repl.it/@kjk1/book-zero-values?lite=true"
         }
       },
       {

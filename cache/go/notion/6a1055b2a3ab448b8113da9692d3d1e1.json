@@ -10,7 +10,7 @@
       "a194cea3-b049-4050-9060-42f10438d4e8",
       "01d98060-b4a8-4c14-be7c-91d69f39a3fb",
       "4cf6b828-4203-4d78-8e61-d87260b979b0",
-      "d33e2b20-6025-4eb3-bb23-3476b880989b",
+      "3938d5c2-d85a-4724-b40e-75cabc21229f",
       "cbe3d26b-3d28-4393-8ec2-de473ebdf1ab",
       "48684e4b-6b63-41b1-afa3-bfb4977cee0b"
     ],
@@ -23,7 +23,7 @@
     "id": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1536371292053,
+    "last_edited_time": 1539745070036,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -34,7 +34,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -248,34 +248,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1536371283489,
+        "created_time": 1539745063919,
         "format": {
-          "block_height": 303,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fstrings.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-strings?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "d33e2b20-6025-4eb3-bb23-3476b880989b",
+        "id": "3938d5c2-d85a-4724-b40e-75cabc21229f",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536371289906,
+        "last_edited_time": 1539745065927,
         "parent_id": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fstrings.go"
+              "https://repl.it/@kjk1/book-strings"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-strings",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 303,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fstrings.go"
+          "display_source": "https://repl.it/@kjk1/book-strings?lite=true"
         }
       },
       {

@@ -12,14 +12,14 @@
       "be06bea1-0901-4920-9371-a10f866d5d3d",
       "50735a8c-7579-4093-aeda-8c97a97ebbf9",
       "fac6f92a-7097-4063-9692-4991f7f2c537",
-      "20284139-c069-4245-b012-e3cd3004a429",
+      "bbdeb25f-3d53-4a41-8fdf-2d745db7b421",
       "c96232ae-8557-431c-9273-206a9d1ea6f0",
-      "d28ea560-8992-44af-9b46-120b144aa632",
+      "555a1243-74a6-41b4-86de-ca8440943202",
       "f553949f-7b4f-4215-8176-83d3f7943cd0",
       "8b74c980-cfec-42e5-b4e6-e64bbb383558",
-      "65a1a34e-0db9-4f4f-bf01-a925a2c8cf9c",
+      "3228043a-d57b-473e-b9da-e6a346eebcea",
       "0875b4ed-f243-49d4-9cc1-921bdbfd1422",
-      "eaeccc6f-7139-4d9d-9974-7c7b4f10ded0",
+      "c4fe0405-f40e-4485-9e76-1d6cee80a96e",
       "65a294e7-0724-4d12-8b20-5503b5893ed9"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -31,7 +31,7 @@
     "id": "59209683-81fc-4770-8b5b-502992700043",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1536221455239,
+    "last_edited_time": 1539744506483,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -42,7 +42,7 @@
       ]
     },
     "type": "page",
-    "version": 54,
+    "version": 82,
     "content_resolved": [
       {
         "alive": true,
@@ -377,34 +377,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1536220882846,
+        "created_time": 1539744266972,
         "format": {
-          "block_height": 387.9965515136719,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-floating-point?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "20284139-c069-4245-b012-e3cd3004a429",
+        "id": "bbdeb25f-3d53-4a41-8fdf-2d745db7b421",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536221337189,
+        "last_edited_time": 1539744269303,
         "parent_id": "59209683-81fc-4770-8b5b-502992700043",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point.go"
+              "https://repl.it/@kjk1/book-floating-point"
             ]
           ]
         },
         "type": "embed",
-        "version": 14,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-floating-point",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 387.9965515136719,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point.go"
+          "display_source": "https://repl.it/@kjk1/book-floating-point?lite=true"
         }
       },
       {
@@ -447,34 +449,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1536220926115,
+        "created_time": 1539744362729,
         "format": {
-          "block_height": 267.9930725097656,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-2.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-floating-point-2?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "d28ea560-8992-44af-9b46-120b144aa632",
+        "id": "555a1243-74a6-41b4-86de-ca8440943202",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536221346509,
+        "last_edited_time": 1539744366492,
         "parent_id": "59209683-81fc-4770-8b5b-502992700043",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-2.go"
+              "https://repl.it/@kjk1/book-floating-point-2"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-floating-point-2",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 267.9930725097656,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-2.go"
+          "display_source": "https://repl.it/@kjk1/book-floating-point-2?lite=true"
         }
       },
       {
@@ -578,34 +582,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1536220941521,
+        "created_time": 1539744434265,
         "format": {
-          "block_height": 378.9930725097656,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-3.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-floating-point-3?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "65a1a34e-0db9-4f4f-bf01-a925a2c8cf9c",
+        "id": "3228043a-d57b-473e-b9da-e6a346eebcea",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536221354008,
+        "last_edited_time": 1539744436258,
         "parent_id": "59209683-81fc-4770-8b5b-502992700043",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-3.go"
+              "https://repl.it/@kjk1/book-floating-point-3"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-floating-point-3",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 378.9930725097656,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-3.go"
+          "display_source": "https://repl.it/@kjk1/book-floating-point-3?lite=true"
         }
       },
       {
@@ -648,34 +654,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1536220976321,
+        "created_time": 1539744492714,
         "format": {
-          "block_height": 383.9861145019531,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-4.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-floating-point-4?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "eaeccc6f-7139-4d9d-9974-7c7b4f10ded0",
+        "id": "c4fe0405-f40e-4485-9e76-1d6cee80a96e",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536221361478,
+        "last_edited_time": 1539744495139,
         "parent_id": "59209683-81fc-4770-8b5b-502992700043",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-4.go"
+              "https://repl.it/@kjk1/book-floating-point-4"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-floating-point-4",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 383.9861145019531,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ffloating-point-4.go"
+          "display_source": "https://repl.it/@kjk1/book-floating-point-4?lite=true"
         }
       },
       {

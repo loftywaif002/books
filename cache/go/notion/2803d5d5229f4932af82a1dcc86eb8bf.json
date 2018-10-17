@@ -418,7 +418,7 @@
         "id": "c7611015-a84a-48d2-a049-c6807cc68c7c",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536372347228,
+        "last_edited_time": 1539743562447,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -429,7 +429,7 @@
           ]
         },
         "type": "page",
-        "version": 62,
+        "version": 81,
         "title": "Booleans",
         "format_page": {
           "page_cover": "",
@@ -451,7 +451,7 @@
         "id": "cf43a457-2564-4e62-9e14-14989c572148",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538864339591,
+        "last_edited_time": 1539744121562,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -462,7 +462,7 @@
           ]
         },
         "type": "page",
-        "version": 53,
+        "version": 81,
         "title": "Integers",
         "format_page": {
           "page_cover": "",
@@ -484,7 +484,7 @@
         "id": "59209683-81fc-4770-8b5b-502992700043",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536221455239,
+        "last_edited_time": 1539744506483,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -495,7 +495,7 @@
           ]
         },
         "type": "page",
-        "version": 54,
+        "version": 82,
         "title": "Floating-point numbers",
         "format_page": {
           "page_cover": "",
@@ -517,7 +517,7 @@
         "id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536371021876,
+        "last_edited_time": 1539744950969,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -528,7 +528,7 @@
           ]
         },
         "type": "page",
-        "version": 49,
+        "version": 63,
         "title": "Characters and runes",
         "format_page": {
           "page_cover": "",
@@ -550,7 +550,7 @@
         "id": "6a1055b2-a3ab-448b-8113-da9692d3d1e1",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536371292053,
+        "last_edited_time": 1539745070036,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -561,7 +561,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "Strings",
         "format_page": {
           "page_cover": "",
@@ -583,7 +583,7 @@
         "id": "6015cf9e-3988-4538-93dc-b0032aa4b992",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536371499076,
+        "last_edited_time": 1539745954639,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -594,7 +594,7 @@
           ]
         },
         "type": "page",
-        "version": 28,
+        "version": 35,
         "title": "Constants",
         "format_page": {
           "page_cover": "",
@@ -649,7 +649,7 @@
         "id": "71db2a93-b2b6-48ac-8d51-09fd96fc78ac",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536372240849,
+        "last_edited_time": 1539746044086,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -660,7 +660,7 @@
           ]
         },
         "type": "page",
-        "version": 36,
+        "version": 43,
         "title": "Arrays",
         "format_page": {
           "page_cover": "",
@@ -715,7 +715,7 @@
         "id": "67151757-92a2-445d-b26d-03d366c233b8",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536372825447,
+        "last_edited_time": 1539746132613,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -726,7 +726,7 @@
           ]
         },
         "type": "page",
-        "version": 45,
+        "version": 52,
         "title": "Maps",
         "format_page": {
           "page_cover": "",
@@ -748,7 +748,7 @@
         "id": "1d09d455-930f-440e-910e-ac9866619f67",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538715208707,
+        "last_edited_time": 1539746233051,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -759,7 +759,7 @@
           ]
         },
         "type": "page",
-        "version": 39,
+        "version": 46,
         "title": "Structures",
         "format_page": {
           "page_cover": "",
@@ -847,7 +847,7 @@
         "id": "49ac378e-f78c-4cfd-9bfa-47bb55967825",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538806386690,
+        "last_edited_time": 1539746396890,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -858,7 +858,7 @@
           ]
         },
         "type": "page",
-        "version": 31,
+        "version": 38,
         "title": "Pointers",
         "format_page": {
           "page_cover": "",
@@ -913,7 +913,7 @@
         "id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538806429119,
+        "last_edited_time": 1539746515008,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -924,7 +924,7 @@
           ]
         },
         "type": "page",
-        "version": 33,
+        "version": 40,
         "title": "Channels",
         "format_page": {
           "page_cover": "",
@@ -946,7 +946,7 @@
         "id": "707edb65-42fa-4fc7-a8d1-6639ee6a9746",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538806539704,
+        "last_edited_time": 1539746702273,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -957,7 +957,7 @@
           ]
         },
         "type": "page",
-        "version": 61,
+        "version": 68,
         "title": "Zero values",
         "format_page": {
           "page_cover": "",
@@ -979,7 +979,7 @@
         "id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538716123427,
+        "last_edited_time": 1539746782381,
         "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
         "parent_table": "block",
         "properties": {
@@ -990,7 +990,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "Type casting",
         "format_page": {
           "page_cover": "",

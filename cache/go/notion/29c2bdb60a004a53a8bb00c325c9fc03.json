@@ -12,9 +12,9 @@
       "8ec877c1-ba4b-443d-a4f0-fda9f510950f",
       "15c82002-ce80-4a9b-9368-8d4e86b29ad9",
       "ac7b8db0-ef31-4eb8-a837-1ae03a4b8d54",
-      "7778c01d-b9bd-46cc-a40e-d6612c9a68d3",
+      "8409cd5d-c37c-4fb8-94b1-62bd5f1f9636",
       "b2d45d9d-9fe7-4e10-b7a6-36acfe38f60b",
-      "c1cae71f-7af7-4077-8e77-c0ac48343714",
+      "d1332239-ac51-4374-b86d-ea7d7eb413ef",
       "5aa48358-8882-4eba-8b75-05a130650cb6",
       "8c7abb8d-df76-497b-8ada-0465d42f8c55",
       "2c541b0e-6d16-4e23-a506-164e75f79fc7",
@@ -30,7 +30,7 @@
     "id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1536371021876,
+    "last_edited_time": 1539744950969,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -41,7 +41,7 @@
       ]
     },
     "type": "page",
-    "version": 49,
+    "version": 63,
     "content_resolved": [
       {
         "alive": true,
@@ -364,34 +364,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1536370607309,
+        "created_time": 1539744623468,
         "format": {
-          "block_height": 289,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fcharacters.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-characters?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "7778c01d-b9bd-46cc-a40e-d6612c9a68d3",
+        "id": "8409cd5d-c37c-4fb8-94b1-62bd5f1f9636",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536370616628,
+        "last_edited_time": 1539744626317,
         "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fcharacters.go"
+              "https://repl.it/@kjk1/book-characters"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-characters",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 289,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fcharacters.go"
+          "display_source": "https://repl.it/@kjk1/book-characters?lite=true"
         }
       },
       {
@@ -422,34 +424,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1536370694329,
+        "created_time": 1539744943251,
         "format": {
-          "block_height": 278,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fnotion%2Fbooks%2Fgo%2F0020-basic-types%2Fcharacters-2.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-characters-2?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "c1cae71f-7af7-4077-8e77-c0ac48343714",
+        "id": "d1332239-ac51-4374-b86d-ea7d7eb413ef",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1536370701869,
+        "last_edited_time": 1539744945099,
         "parent_id": "29c2bdb6-0a00-4a53-a8bb-00c325c9fc03",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fnotion%2Fbooks%2Fgo%2F0020-basic-types%2Fcharacters-2.go"
+              "https://repl.it/@kjk1/book-characters-2"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-characters-2",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 278,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fnotion%2Fbooks%2Fgo%2F0020-basic-types%2Fcharacters-2.go"
+          "display_source": "https://repl.it/@kjk1/book-characters-2?lite=true"
         }
       },
       {

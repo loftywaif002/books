@@ -147,14 +147,9 @@
                     "property": "title"
                   },
                   {
-                    "width": 0,
+                    "width": 370,
                     "visible": true,
                     "property": "X}lo"
-                  },
-                  {
-                    "width": 0,
-                    "visible": true,
-                    "property": "Hw_\""
                   }
                 ],
                 "table_wrap": true
@@ -175,7 +170,7 @@
                 "aggregate": null
               },
               "type": "table",
-              "version": 24
+              "version": 25
             },
             "Collection": {
               "alive": true,
@@ -408,6 +403,7 @@
         },
         "type": "embed",
         "version": 12,
+        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Ftype_mapping.go",
         "format_embed": {
           "block_full_width": false,
           "block_height": 793.9931030273438,

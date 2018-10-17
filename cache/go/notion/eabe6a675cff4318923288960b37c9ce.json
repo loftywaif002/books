@@ -8,7 +8,7 @@
       "1bbe4cd8-e5b0-4b2e-8a02-113d76843533",
       "e31fa664-693b-4330-9880-4b96f5e5ab64",
       "66c6a961-7b64-41b2-aba1-5fb3360ef49d",
-      "0eeb5efb-f778-40a6-b4ef-480e4ab92ca6",
+      "424832b2-0f1e-46f9-b2d0-fd27cd4b1618",
       "1137a33c-3621-4074-9918-82724695024c"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -20,7 +20,7 @@
     "id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538716123427,
+    "last_edited_time": 1539746782381,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -31,7 +31,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -146,34 +146,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538716082833,
+        "created_time": 1539746775836,
         "format": {
-          "block_height": 354,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ftype_casting.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-type-casting-basics?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "0eeb5efb-f778-40a6-b4ef-480e4ab92ca6",
+        "id": "424832b2-0f1e-46f9-b2d0-fd27cd4b1618",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538716090497,
+        "last_edited_time": 1539746777960,
         "parent_id": "eabe6a67-5cff-4318-9232-88960b37c9ce",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ftype_casting.go"
+              "https://repl.it/@kjk1/book-type-casting-basics"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-type-casting-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 354,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Ftype_casting.go"
+          "display_source": "https://repl.it/@kjk1/book-type-casting-basics?lite=true"
         }
       },
       {

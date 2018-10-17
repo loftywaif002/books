@@ -207,6 +207,10 @@ cat
 fish
 
 |======|
+15b90a2e0835be914c04895630a8d3c100fa43b3:
+Address of a variable in memory is 0xc0000180a0. Its value is: 4
+
+|======|
 169850825fd409c180fd2da0721cbc5c08a5296d:
 struct S, 5 field(s), size: 40 bytes
   name: 'Inner' type: 'struct Inner', offset: 0, 1 field(s), size: 8 bytes, embedded: true
@@ -436,6 +440,12 @@ Hex: 01ff3acd
 37413d7dc72c256f5c59e5cd0fbe11066bffbe31:
 Data from a field: '5'
 Data from a method: 'data from a method'
+
+|======|
+374e6589516c19fc36493be77d21c71e6e9634fd:
+Byte at index 0 is 's' (0x73)
+Byte at index 1 is 't' (0x74)
+Byte at index 2 is 'r' (0x72)
 
 |======|
 37d9fe5f880349cad833e011cd1e77d20910fa37:
@@ -1381,6 +1391,23 @@ ab5806a62c7c182226aa01eb457aac7d4c067db4:
 custom error type
 
 |======|
+ab960b0928ab99da3dc5e307190090fd17e4229c:
+zero values for basic types:
+bool:       false
+int:        0
+float32:    0
+float64:    0
+string:     ""
+pointer:    <nil>
+slice:      []
+map:        map[string]int(nil)
+interface:  <nil>
+channel:    <nil>
+array:      [0 0 0 0 0]
+struct:     main.struc{a:0, b:""}
+function:   <nil>
+
+|======|
 abe10a0fa3ac5132f94e9bcd07030d8793647029:
 received from channel: foo
 range loop finished because ch was closed
@@ -1792,6 +1819,12 @@ http.Get() failed with: 'Get http://website.not-exists.as/index.html: dial tcp: 
 resp: <nil>
 
 |======|
+e06648897a64eba67c30174101577c07d86928bd:
+b is: 'true'
+b is: 'false'
+zero value of bool is: 'false'
+
+|======|
 e089c2605a40582577073581771e4256581a4666:
 stmt ('if') is either 'if' or 'for'
 
@@ -1941,6 +1974,11 @@ Daniel
 Daniel
 Daniel
 Ines
+
+|======|
+f300dd86519efdb3fb0659bc83a45ad18fd34355:
+i1: -38
+i2: 148
 
 |======|
 f32189062a14eabe5d7a8532f179309e16a46c25:

@@ -9,7 +9,7 @@
       "51c14d9f-7e7a-4913-b829-114fec8ff532",
       "6ecb619e-0ebb-4871-88d1-d2eb69db3be6",
       "5dcd4dd2-30fd-42b7-80da-bdacaf5233ba",
-      "42db4601-95de-4d0f-a8ed-0b846d786435",
+      "ef2a59e6-2f53-4ad4-8a54-88bd7dd7dc7c",
       "ff529d9c-e367-4817-9d40-dd71ee1391ac",
       "60fe6c57-2a75-4c86-b40e-f1c894f83385"
     ],
@@ -22,7 +22,7 @@
     "id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538806429119,
+    "last_edited_time": 1539746515008,
     "parent_id": "2803d5d5-229f-4932-af82-a1dcc86eb8bf",
     "parent_table": "block",
     "properties": {
@@ -33,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 33,
+    "version": 40,
     "content_resolved": [
       {
         "alive": true,
@@ -165,55 +165,63 @@
         "id": "5dcd4dd2-30fd-42b7-80da-bdacaf5233ba",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538715646465,
+        "last_edited_time": 1539746508561,
         "parent_id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Channel basics:"
+              "Channel basics",
+              [
+                [
+                  "b"
+                ]
+              ]
             ]
           ]
         },
         "type": "text",
-        "version": 3,
+        "version": 7,
         "inline_content": [
           {
-            "Text": "Channel basics:"
+            "Text": "Channel basics",
+            "AttrFlags": 1
           }
         ]
       },
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538715635792,
+        "created_time": 1539746504166,
         "format": {
-          "block_height": 332,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fchannels.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/book-channels-basics?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "42db4601-95de-4d0f-a8ed-0b846d786435",
+        "id": "ef2a59e6-2f53-4ad4-8a54-88bd7dd7dc7c",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538715643580,
+        "last_edited_time": 1539746505804,
         "parent_id": "49de5eb7-f448-4e7b-9480-a1c498b46f88",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fchannels.go"
+              "https://repl.it/@kjk1/book-channels-basics"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
+        "version": 8,
+        "source": "https://repl.it/@kjk1/book-channels-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 332,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0020-basic-types%2Fchannels.go"
+          "display_source": "https://repl.it/@kjk1/book-channels-basics?lite=true"
         }
       },
       {

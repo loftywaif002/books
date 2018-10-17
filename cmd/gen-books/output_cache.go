@@ -227,7 +227,10 @@ func getOutputCachedForReplit(b *Book, replit *Replit, sf *SourceFile) error {
 	}
 
 	// save files to temp directory
-	dir := os.TempDir()
+	dir, err := ioutil.TempDir("", "src")
+	if err != nil {
+		return err
+	}
 	defer os.RemoveAll(dir)
 
 	if len(replit.files) == 1 {

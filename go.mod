@@ -10,17 +10,13 @@ require (
 	github.com/dlclark/regexp2 v1.1.6 // indirect
 	github.com/gomarkdown/markdown v0.0.0-20181009100358-f8a5df142090
 	github.com/google/shlex v0.0.0-20150127133951-6f45313302b9
-	github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869
 	github.com/kjk/notionapi v0.0.0-20181014095046-e713d8348edd
 	github.com/kjk/siser v0.0.0-20170927035209-f1af2d1a21bb
 	github.com/kjk/u v0.0.0-20170711051841-93181be023c9
 	github.com/mattn/go-isatty v0.0.4 // indirect
-	github.com/pkg/errors v0.8.0
 	github.com/sergi/go-diff v1.0.0 // indirect
 	github.com/tdewolff/minify v2.3.5+incompatible
 	github.com/tdewolff/parse v2.3.3+incompatible // indirect
 	github.com/tdewolff/test v0.0.0-20171106182207-265427085153 // indirect
-	golang.org/x/crypto v0.0.0-20181012144002-a92615f3c490
 	golang.org/x/sys v0.0.0-20181011152604-fa43e7bc11ba // indirect
-	gopkg.in/yaml.v2 v2.2.1
 )

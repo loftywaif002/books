@@ -8,7 +8,7 @@
       "85b5a99d-9831-4394-84b6-97801dff43aa",
       "0f89c19d-3236-41c3-8744-fa4cad38bcc5",
       "c27e375b-5999-4366-b60a-f914ac1eba54",
-      "3526bbb4-ac0d-4535-b4c1-bf3057262f87",
+      "1107de62-28bd-4101-85b4-fc939663f167",
       "80ca524c-e9c9-42b1-95e1-360e07cd5948",
       "aba77e42-39df-49ee-9cc3-934108161914",
       "22c16dbf-0667-4b6d-b977-dfe8cb099297",
@@ -24,7 +24,7 @@
     "id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538784475015,
+    "last_edited_time": 1539836383486,
     "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
     "parent_table": "block",
     "properties": {
@@ -35,7 +35,7 @@
       ]
     },
     "type": "page",
-    "version": 41,
+    "version": 48,
     "content_resolved": [
       {
         "alive": true,
@@ -185,35 +185,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538784273014,
+        "created_time": 1539836378756,
         "format": {
-          "block_height": 480,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Fnamed_return_values.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-named-returned-values?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "3526bbb4-ac0d-4535-b4c1-bf3057262f87",
+        "id": "1107de62-28bd-4101-85b4-fc939663f167",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538784279997,
+        "last_edited_time": 1539836380254,
         "parent_id": "4dcee4a1-e84c-4c05-8a7f-4e0bdf5cfffe",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Fnamed_return_values.go"
+              "https://repl.it/@kjk1/gobook-named-returned-values"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Fnamed_return_values.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-named-returned-values",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 480,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Fnamed_return_values.go"
+          "display_source": "https://repl.it/@kjk1/gobook-named-returned-values?lite=true"
         }
       },
       {

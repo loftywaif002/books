@@ -7,7 +7,7 @@
       "f3fece92-4bec-4baf-a9ae-c7cff45c1d51",
       "0f543ace-d3e8-4ee5-9105-ea2acc0269f3",
       "ddc842b9-cf0d-489c-9fcf-1d6dac9f602d",
-      "f88db298-43f6-457a-b248-f91fba4dfa77",
+      "a91f9706-ed82-4410-8965-d1621eda6ef0",
       "52ee85f2-f9ac-495b-a151-50ef005d9e68",
       "444adbfd-0f87-401f-bc60-b762943d28f4"
     ],
@@ -20,7 +20,7 @@
     "id": "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538784167382,
+    "last_edited_time": 1539836304155,
     "parent_id": "64647277-99a0-4611-a891-be7ca4877f8c",
     "parent_table": "block",
     "properties": {
@@ -31,7 +31,7 @@
       ]
     },
     "type": "page",
-    "version": 32,
+    "version": 39,
     "content_resolved": [
       {
         "alive": true,
@@ -121,35 +121,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538784167382,
+        "created_time": 1539836298782,
         "format": {
-          "block_height": 483,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Fvariadic.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-function-variadic?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "f88db298-43f6-457a-b248-f91fba4dfa77",
+        "id": "a91f9706-ed82-4410-8965-d1621eda6ef0",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538784175632,
+        "last_edited_time": 1539836300356,
         "parent_id": "b255ad42-4781-4bc6-b1df-1fed7c5027c8",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Fvariadic.go"
+              "https://repl.it/@kjk1/gobook-function-variadic"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Fvariadic.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-function-variadic",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 483,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0160-functions%2Fvariadic.go"
+          "display_source": "https://repl.it/@kjk1/gobook-function-variadic?lite=true"
         }
       },
       {

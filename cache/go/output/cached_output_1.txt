@@ -1,3 +1,9 @@
+00f43c9ab9f344df9daf1a81dcc6bfe1a3ed9d54:
+v: 3
+v: 4
+v: 5
+
+|======|
 0185d03ae0806edfac79293f635228b5ff337c66:
 i1: 348
 
@@ -63,6 +69,12 @@ zero channel:    <nil>
 zero array:      [0 0 0 0 0]
 zero struct:     main.struc{a:0, b:""}
 zero function:   <nil>
+
+|======|
+06f98eaf3bbd2280e078b551dedfc3fea14b80f6:
+idx: 0, element: 3
+idx: 1, element: 15
+idx: 2, element: 8
 
 |======|
 073b9baaf272070a3b24f8df5f3239c52f7d12ec:
@@ -235,6 +247,11 @@ i5: 4
 dog
 cat
 fish
+
+|======|
+14c58a06b81ac3bf54644d673f687f2f3ecb5f18:
+5+8=13, 5*8=40
+6+12=18
 
 |======|
 15b90a2e0835be914c04895630a8d3c100fa43b3:
@@ -482,6 +499,10 @@ case 1
 caes 2
 
 |======|
+328c012a054f4db640168a6b7edc4e8e59668673:
+John Doe
+
+|======|
 333ec896a2bdb094d2fbb410e413a65828d2fd18:
 [2][4][3][2]string{[4][3][2]string{[3][2]string{[2]string{"All zero indexes", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}}, [4][3][2]string{[3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", ""}}, [3][2]string{[2]string{"", ""}, [2]string{"", ""}, [2]string{"", "All indexes to max"}}}}
 
@@ -573,6 +594,13 @@ sqrtWorker started
 sqrtWorker finished
 
 |======|
+3f591ea9cfc7ee1356f79597765c719939c42620:
+i: 0
+i: 2
+i: 4
+i: 6
+
+|======|
 40dc6c3e37d5147d9010754a309b74556d1e043c:
 1
 2
@@ -585,6 +613,10 @@ sqrtWorker finished
 41c50d55c01d3422f4a9ac501717ce7619bb3263:
 XML: <ShowComment><!--comment--></ShowComment>
 
+
+|======|
+43b387373ab6ff447882bdc5cc6d11509d2a109d:
+Hello!
 
 |======|
 444e27f2dde5fcc12103ffb68d8398735da6ad74:
@@ -830,6 +862,20 @@ Got value 3
 Signalled on quit channel. Finishing
 
 |======|
+58aa5d660b2e551a41c4018dbc7e638c8f6f68f0:
+there was an error
+panic: there was an error
+
+goroutine 1 [running]:
+main.panicWithMsg(0x10c5834, 0x12, 0x0, 0x0, 0x0)
+	/private/var/folders/2k/p2_4052s70vd5_cfdm0k0l740000gn/T/src703135489/main.go:29 +0x144
+main.PanicIfErr(0x10d8a80, 0xc00009c030, 0x0, 0x0, 0x0)
+	/private/var/folders/2k/p2_4052s70vd5_cfdm0k0l740000gn/T/src703135489/main.go:45 +0x6c
+main.main()
+	/private/var/folders/2k/p2_4052s70vd5_cfdm0k0l740000gn/T/src703135489/main.go:50 +0x91
+exit status 2
+
+|======|
 5976e24b273c0e05fbd97b6b173e9ff3f8cd187b:
 2018/03/09 00:42:38 second cmd.CombintedOutput() failed with 'exec: Stdout already set'
 exit status 1
@@ -892,6 +938,12 @@ Response status code: 200, text:
 Slice[0]: first
 SliceNested[1][0]: 2
 Map["key"]: 5
+
+|======|
+60e646497be3309bdedd4c62a75de8e7f710bcf8:
+address of p:                         0xc00000a080
+PrintFullNamePointer: p is            0xc00000a080
+PrintFullNameValue:   address of p is 0xc00000a0a0
 
 |======|
 613cac40d440cc84c0010a34fde5cc1b67274f00:
@@ -1008,6 +1060,11 @@ main.main()
 exit status 2
 
 |======|
+6986d930c12510fa41941c973775c8f779293f5d:
+intOp(2, 3) = 5
+intOp(2, 3) = 6
+
+|======|
 699e21d43a7e597fd3c3a597ffdb0e17831b9715:
 u: main.User{FirstName:"", LastName:"", Email:"", Age:0, userID:0}
 
@@ -1088,6 +1145,44 @@ IsDir: false
 Mode: 1094540
 ModTime: 2018-10-05 19:04:58.678830646 -0700 PDT
 OS info: *syscall.Stat_t
+
+|======|
+765e6392392cc8a6389ed2e495aea04d88fe8253:
+idx: 0
+idx: 1
+idx: 2
+
+|======|
+76768341bc0e9e1511a9e49ef5a2d81c9939cbb7:
+i: 0
+i: 2
+i: 4
+
+|======|
+770cca029c0d00e55600e877aa4f2382f83e8052:
+err: Original error
+main.wrappedError
+	/private/var/folders/2k/p2_4052s70vd5_cfdm0k0l740000gn/T/src270137964/main.go:17
+main.main
+	/private/var/folders/2k/p2_4052s70vd5_cfdm0k0l740000gn/T/src270137964/main.go:22
+runtime.main
+	/usr/local/Cellar/go/1.11.1/libexec/src/runtime/proc.go:201
+runtime.goexit
+	/usr/local/Cellar/go/1.11.1/libexec/src/runtime/asm_amd64.s:1333
+
+err: error created with pkg/errors
+main.main
+	/private/var/folders/2k/p2_4052s70vd5_cfdm0k0l740000gn/T/src270137964/main.go:25
+runtime.main
+	/usr/local/Cellar/go/1.11.1/libexec/src/runtime/proc.go:201
+runtime.goexit
+	/usr/local/Cellar/go/1.11.1/libexec/src/runtime/asm_amd64.s:1333
+
+|======|
+78a9003232b9e43bf3d2c86bb2a067d0eb4f2de5:
+i: 0
+i: 2
+i: 4
 
 |======|
 7934f1adf4c4c3690e9e24863c8541243e20413c:
@@ -1744,6 +1839,11 @@ b7e228bf48b0f9b292a37319fec6133aa8cb806e:
 a: []string{"!", "Hello", "world"}
 
 |======|
+b82553b662365393da8b82eae28bcd2f604c2aef:
+i: 2
+i: 3
+
+|======|
 b8ae995dc86d69cf3e306896be5387ae1610b236:
 PostForm() sent 'email=john%40gmail.com&name=John'. Response status code: 200
 
@@ -1778,6 +1878,11 @@ bb0a53a18dace5a9b13578a76d6ac8da730ed8d0:
 |======|
 bc186a4a81d53dfdbed05dc7d186a355d4451d88:
 a: []string{"this", " is", " a", " string"}
+
+|======|
+bd2a2b16fffeab8a9d30eacd903982a92bb47467:
+intOp(2, 3) = 5
+intOp(2, 3) = 6
 
 |======|
 bd6fc1955acf3ce31e07a183a3a738273d879f2f:
@@ -1875,10 +1980,18 @@ c982fc56f0745970abed7565d62fd23d13aaf497:
 case 1, 2, 3: n is 1
 
 |======|
+c98a42bbe65db6ecf448dc19d9163291ce26a382:
+inverse(5)=0.20
+
+|======|
 c9913734fafe830af092d24bd727816c4e338a68:
 i: 0
 i: 2
 i: 4
+
+|======|
+c9e6b6bd39336f1976172e620bda1b803642236c:
+Hello!
 
 |======|
 caefdba615d6e54c39e64147fc516235196c1f06:
@@ -1943,6 +2056,19 @@ i: 2
 i: 4
 
 |======|
+d286602d2591ffed7647c0b27ab0c7334d61222b:
+0: Hello
+1: Goodbye
+
+0: Str1
+1: Str2
+2: Str3
+
+0: a
+1: b
+
+
+|======|
 d34829e9206538637670821f915965ed806c180a:
 value: 30
 value: 29
@@ -1962,6 +2088,11 @@ Path: 000-index.md, is dir: false, size: 210 bytes
 Path: 010-reading-files.md, is dir: false, size: 753 bytes
 Path: 020-writing-files.md, is dir: false, size: 2913 bytes
 Path: 030-file-operations.md, is dir: false, size: 2583 bytes
+
+|======|
+d6fe6e0cb618e61e7ea04be4260871561780129d:
+Hello, John Doe!
+You are 35
 
 |======|
 d7d9c671f9eead4c6664ec3613c091077a077b9f:
@@ -2008,6 +2139,11 @@ Failed to convert "not valid int" to int
 dbc7ef4055610898dda003836d69ae2933836992:
 File 'file_exists.go' exists: true
 File 'non-existent-file.txt' exists: false
+
+|======|
+dc09460d74f30de25cef80488a7283fcfb6de810:
+sqrt of 16.000000 is 4.000000
+sqrt of -16.000000 returned error 'invalid argument '-16.000000', must be >= 0'
 
 |======|
 dc705b3767c6f2f9178f0da3b3a85239c0444e6f:
@@ -2069,6 +2205,12 @@ e089c2605a40582577073581771e4256581a4666:
 stmt ('if') is either 'if' or 'for'
 
 |======|
+e155a706f0bf576986b55892c8cccc684e98892c:
+    1 +     3 =     4, overflowed: false
+
+65550 + 10000 =  9984, overflowed: true
+
+|======|
 e1dff2b1dcb3fd24209e2bd43464615065bb637b:
 Output:
 go version go1.11.1 darwin/amd64
@@ -2112,6 +2254,10 @@ s2: "this,is,a,string"
 e5710a828850894e96c58365695212bdc5b2390e:
 x: 1, y: 2
 w: 3, z: 4
+
+|======|
+e5bc6bdf076bff2c953c21ddcd8de0c96136121c:
+Hello!
 
 |======|
 e5dc34683ed7fcb932dd3b666a82929366e4b628:
@@ -2203,6 +2349,11 @@ efe7294d463cedf2d6104e4ba38c4fe72fca7603:
 [[1 2 3] [4 5 6]]
 [1 2 3]
 2
+
+|======|
+f08091cf455ef208bd0093bdd76374e25042069e:
+key: three
+key: five
 
 |======|
 f10e1cd19e222f5a404c1c961c3e21d41cb856fe:

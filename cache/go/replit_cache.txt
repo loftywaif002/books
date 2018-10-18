@@ -2746,3 +2746,822 @@ end:
 	// :show end
 }
 ---
+@url: https://repl.it/@kjk1/gobook-for
+main.go:+133
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	for i := 0; i < 5; i += 2 {
+		fmt.Printf("i: %d\n", i)
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-for-2
+main.go:+135
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	i := 0
+	for ; i < 5; i += 2 {
+		fmt.Printf("i: %d\n", i)
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-for-3
+main.go:+158
+
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	i := 0
+	for ; ; i += 2 {
+		fmt.Printf("i: %d\n", i)
+		if i >= 5 {
+			break
+		}
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-for-4
+main.go:+134
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	for i := 0; i < 5; {
+		fmt.Printf("i: %d\n", i)
+		i += 2
+	}
+	// :show end
+}
+---
+@url: https://repl.it/@kjk1/gobook-for-5
+main.go:+157
+
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	i := 0
+	for {
+		fmt.Printf("i: %d\n", i)
+		i += 2
+		if i >= 5 {
+			break
+		}
+	}
+
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-for-6
+main.go:+176
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	a := []int{1, 3, 5}
+	for idx, value := range a {
+		fmt.Printf("idx: %d, value: %d\n", idx, value)
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-range-string-basic
+main.go:+171
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	s := "Hey 世界"
+	for idx, rune := range s {
+		fmt.Printf("idx: %d, rune: %d\n", idx, rune)
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-range-slice-basic
+main.go:+173
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	a := []int{3, 15, 8}
+	for idx, el := range a {
+		fmt.Printf("idx: %d, element: %d\n", idx, el)
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-range-map-basics
+main.go:+208
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	m := map[string]int{
+		"three": 3,
+		"five":  5,
+	}
+	for key, value := range m {
+		fmt.Printf("key: %s, value: %d\n", key, value)
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-function-basics
+main.go:+552
+package main
+
+import (
+	"fmt"
+)
+
+// :show start
+// addCheckOverflow adds two int16 numbers and additionally
+// returns true if the result overflowed
+func addCheckOverflow(a, b uint16) (uint16, bool) {
+	res := a + b
+	overflowed := res < a || res < b
+	return res, overflowed
+}
+
+func main() {
+	res, overflowed := addCheckOverflow(1, 3)
+	fmt.Printf("%5d + %5d = %5d, overflowed: %v\n\n", 1, 3, res, overflowed)
+	res, overflowed = addCheckOverflow(65520, 10000)
+	fmt.Printf("%5d + %5d = %5d, overflowed: %v\n", 65550, 10000, res, overflowed)
+}
+
+// :show end
+---
+@url: https://repl.it/@kjk1/gobook-methods-basics
+main.go:+274
+package main
+
+import "fmt"
+
+// :show start
+type Person struct {
+	FirstName string
+	LastName  string
+}
+
+func (p *Person) PrintFullName() {
+	fmt.Printf("%s %s\n", p.FirstName, p.LastName)
+}
+
+func main() {
+	p := &Person{
+		"John",
+		"Doe",
+	}
+	p.PrintFullName()
+}
+
+// :show end
+---
+@url: https://repl.it/@kjk1/gobook-methods-value-vs-pointer
+main.go:+490
+package main
+
+import "fmt"
+
+// :show start
+type Person struct {
+	FirstName string
+	LastName  string
+}
+
+func (p Person) PrintFullNameValue() {
+	fmt.Printf("PrintFullNameValue:   address of p is %p\n", &p)
+}
+
+func (p *Person) PrintFullNamePointer() {
+	fmt.Printf("PrintFullNamePointer: p is            %p\n", p)
+}
+
+func main() {
+	p := Person{
+		"John",
+		"Doe",
+	}
+	fmt.Printf("address of p:                         %p\n", &p)
+	p.PrintFullNamePointer()
+	p.PrintFullNameValue()
+}
+
+// :show end
+---
+@url: https://repl.it/@kjk1/gobook-error-handilng-basics
+main.go:+448
+package main
+
+import (
+	"fmt"
+	"math"
+)
+
+// :show start
+func sqrt(n float64) (float64, error) {
+	if n < 0 {
+		return 0, fmt.Errorf("invalid argument '%f', must be >= 0", n)
+	}
+	return math.Sqrt(n), nil
+}
+
+func printSqrt(n float64) {
+	if res, err := sqrt(n); err == nil {
+		fmt.Printf("sqrt of %f is %f\n", n, res)
+	} else {
+		fmt.Printf("sqrt of %f returned error '%s'\n", n, err)
+	}
+
+}
+
+func main() {
+	printSqrt(16)
+	printSqrt(-16)
+}
+
+// :show end
+---
+@url: https://repl.it/@kjk1/gobook-break
+main.go:+151
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	i := 0
+	for {
+		i++
+		if i > 2 {
+			break
+		}
+		fmt.Printf("i: %d\n", i)
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-continue
+main.go:+159
+
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	for i := 0; i < 4; i++ {
+		if i < 2 {
+			continue
+		}
+		fmt.Printf("i: %d\n", i)
+	}
+	// :show end
+}
+---
+@url: https://repl.it/@kjk1/gobook-range-string
+main.go:+176
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	s := "Hey 世界"
+	for idx := range s {
+		b := s[idx]
+		fmt.Printf("idx: %d, byte: %d\n", idx, b)
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-range-string-2
+main.go:+171
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	s := "Hey 世界"
+	for idx, rune := range s {
+		fmt.Printf("idx: %d, rune: %d\n", idx, rune)
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-range-slice
+main.go:+172
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	a := []int{3, 15, 8}
+	for idx, el := range a {
+		fmt.Printf("idx: %d, element: %d\n", idx, el)
+	}
+	// :show end
+}
+---
+@url: https://repl.it/@kjk1/gobook-range-slice-2
+main.go:+151
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	a := []int{3, 15, 8}
+	for idx := range a {
+		fmt.Printf("idx: %d\n", idx)
+	}
+	// :show end
+}
+---
+@url: https://repl.it/@kjk1/gobook-range-3
+main.go:+157
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	a := []int{3, 15, 8}
+	for _, el := range a {
+		fmt.Printf("element: %d\n", el)
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-range-map
+main.go:+208
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	m := map[string]int{
+		"three": 3,
+		"five":  5,
+	}
+	for key, value := range m {
+		fmt.Printf("key: %s, value: %d\n", key, value)
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-range-map-2
+main.go:+182
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	m := map[string]int{
+		"three": 3,
+		"five":  5,
+	}
+	for key := range m {
+		fmt.Printf("key: %s\n", key)
+	}
+	// :show end
+}
+---
+@url: https://repl.it/@kjk1/gobook-range-map-3
+main.go:+192
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	m := map[string]int{
+		"three": 3,
+		"five":  5,
+	}
+	for _, value := range m {
+		fmt.Printf("value: %d\n", value)
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-range-channel
+main.go:+302
+package main
+
+import "fmt"
+
+// :show start
+func fillAndCloseChannel(ch chan int) {
+	for i := 0; i < 3; i++ {
+		ch <- i + 3
+	}
+	close(ch)
+}
+
+// :show end
+
+func main() {
+	// :show start
+	ch := make(chan int)
+	go fillAndCloseChannel(ch)
+
+	for v := range ch {
+		fmt.Printf("v: %d\n", v)
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-range-channel-2
+main.go:+299
+
+package main
+
+import "fmt"
+
+func fillAndCloseChannel(ch chan int) {
+	for i := 0; i < 3; i++ {
+		ch <- i + 3
+	}
+	close(ch)
+}
+
+func main() {
+	// :show start
+	ch := make(chan int)
+	go fillAndCloseChannel(ch)
+
+	for {
+		v, ok := <-ch
+		if !ok {
+			break
+		}
+		fmt.Printf("v: %d\n", v)
+	}
+	// :show end
+}
+---
+@url: https://repl.it/@kjk1/gobook-function-parameters
+main.go:+255
+package main
+
+import (
+	"fmt"
+)
+
+// :show start
+func SayHelloToMe(firstName, lastName string, age int) {
+	fmt.Printf("Hello, %s %s!\n", firstName, lastName)
+	fmt.Printf("You are %d\n", age)
+}
+
+func main() {
+	SayHelloToMe("John", "Doe", 35)
+}
+
+// :show end
+---
+@url: https://repl.it/@kjk1/gobook-function-returned-values
+main.go:+307
+package main
+
+import "fmt"
+
+// :show start
+func Add(a, b int) int {
+	return a + b
+}
+
+func AddAndMultiply(a, b int) (int, int) {
+	return a + b, a * b
+}
+
+func main() {
+	sum, mult := AddAndMultiply(5, 8)
+	fmt.Printf("5+8=%d, 5*8=%d\n", sum, mult)
+	sum = Add(6, 12)
+	fmt.Printf("6+12=%d\n", sum)
+}
+
+// :show end
+---
+@url: https://repl.it/@kjk1/gobook-named-returned-values
+main.go:+333
+package main
+
+import "fmt"
+
+// :show start
+func inverse(v float32) (reciprocal float32) {
+	if v == 0 {
+		return
+	}
+	reciprocal = 1 / v
+	return
+}
+
+// function can return multiple values
+func split(sum int) (x, y int) {
+	x = sum * 4 / 9
+	y = sum - x
+	return
+}
+
+func main() {
+	fmt.Printf("inverse(5)=%.2f\n", inverse(5))
+}
+
+// :show end
+---
+@url: https://repl.it/@kjk1/gobook-function-variadic
+main.go:+401
+package main
+
+import (
+	"fmt"
+)
+
+// :show start
+func variadic(strs ...string) {
+	// strs is a slice of string
+	for i, str := range strs {
+		fmt.Printf("%d: %s\n", i, str)
+	}
+	fmt.Print("\n")
+}
+
+func main() {
+	variadic("Hello", "Goodbye")
+	variadic("Str1", "Str2", "Str3")
+
+	// you can also give a slice to a variadic function, with `...`:
+	strs := []string{"a", "b"}
+	variadic(strs...)
+}
+
+// :show end
+---
+@url: https://repl.it/@kjk1/gobook-function-literal
+main.go:+111
+package main
+
+import "fmt"
+
+// :show start
+func main() {
+	func() {
+		fmt.Println("Hello!")
+	}()
+}
+
+// :show end
+---
+@url: https://repl.it/@kjk1/gobook-function-literal-2
+main.go:+124
+package main
+
+import "fmt"
+
+// :show start
+func main() {
+	func(str string) {
+		fmt.Println(str)
+	}("Hello!")
+}
+
+// :show end
+---
+@url: https://repl.it/@kjk1/gobook-function-literal-3
+main.go:+123
+package main
+
+import "fmt"
+
+// :show start
+func main() {
+	str := "Hello!"
+	func() {
+		fmt.Println(str)
+	}()
+}
+
+// :show end
+---
+@url: https://repl.it/@kjk1/gobook-function-variable
+main.go:+458
+
+package main
+
+import "fmt"
+
+// :show start
+// intOp is a variable whose type is function that takes
+// 2 integers as arguments and returns an integer
+var intOp func(int, int) int
+
+func intAdd(a, b int) int {
+	return a + b
+}
+
+func main() {
+	intOp = intAdd
+	fmt.Printf("intOp(2, 3) = %d\n", intOp(2, 3))
+
+	// we can assign literal functions as well
+	intOp = func(a, b int) int {
+		return a * b
+	}
+	fmt.Printf("intOp(2, 3) = %d\n", intOp(2, 3))
+}
+
+// :show end
+---
+@url: https://repl.it/@kjk1/gobook-function-variable-2
+main.go:+349
+package main
+
+import "fmt"
+
+// :show start
+func funcAdd(a, b int) int {
+	return a + b
+}
+
+func runFunc(a, b int, intOp func(int, int) int) {
+	fmt.Printf("intOp(%d, %d) = %d\n", a, b, intOp(a, b))
+}
+
+func main() {
+	runFunc(2, 3, funcAdd)
+
+	// we can pass literal functions as well
+	runFunc(2, 3, func(a, b int) int {
+		return a * b
+	})
+}
+
+// :show end
+---
+@url: https://repl.it/@kjk1/gobook-error-handling-custom-errors
+main.go:+322
+package main
+
+import (
+	"fmt"
+)
+
+// :show start
+
+// MyError is a custom error type
+type MyError struct {
+	msg string
+}
+
+func (e *MyError) Error() string {
+	return e.msg
+}
+
+// :show end
+
+func main() {
+	// :show start
+	var err error = &MyError{msg: "This is custom error type"}
+	fmt.Printf("err: %s\n", err)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-error-handling-errors-in-short-programs
+main.go:+1008
+// allow error
+package main
+
+import (
+	"errors"
+	"fmt"
+)
+
+// :show start
+// FmtArgs formats args as a string. First argument should be format string
+// and the rest are arguments to the format
+func FmtArgs(args ...interface{}) string {
+	if len(args) == 0 {
+		return ""
+	}
+	format := args[0].(string)
+	if len(args) == 1 {
+		return format
+	}
+	return fmt.Sprintf(format, args[1:]...)
+}
+
+func panicWithMsg(defaultMsg string, args ...interface{}) {
+	s := FmtArgs(args...)
+	if s == "" {
+		s = defaultMsg
+	}
+	fmt.Printf("%s\n", s)
+	panic(s)
+}
+
+// PanicIf panics if cond is true
+func PanicIf(cond bool, args ...interface{}) {
+	if !cond {
+		return
+	}
+	panicWithMsg("PanicIf: condition failed", args...)
+}
+
+// PanicIfErr panics if err is not nil
+func PanicIfErr(err error, args ...interface{}) {
+	if err == nil {
+		return
+	}
+	panicWithMsg(err.Error(), args...)
+}
+
+func main() {
+	PanicIfErr(nil)                              // nothing happens
+	PanicIfErr(errors.New("there was an error")) // will panic
+}
+
+// :show end
+---
+@url: https://repl.it/@kjk1/gobook-error-handling-add-callstack
+main.go:+531
+
+package main
+
+import (
+	"errors"
+	"fmt"
+
+	pkgerrors "github.com/pkg/errors"
+)
+
+// :show start
+
+func wrappedError() error {
+	err := errors.New("Original error")
+	// create a new error value which wraps original err and
+	// adds calls tack
+	return pkgerrors.WithStack(err)
+}
+
+func main() {
+	// %+v prints original error add callstack
+	fmt.Printf("err: %+v\n\n", wrappedError())
+
+	// errors created with pkg/errors include callstack by default
+	fmt.Printf("err: %+v\n", pkgerrors.New("error created with pkg/errors"))
+}
+
+// :show end
+---

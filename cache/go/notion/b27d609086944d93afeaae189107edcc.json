@@ -9,7 +9,7 @@
       "01b2d035-480f-449d-9b27-0f062e718500",
       "3aa7004a-5fee-4660-9455-3bf3c3b7e677",
       "e4f8bf77-6d33-4a12-9aab-5d83d2f76753",
-      "0f0b6603-182e-447a-a1b9-40ba142b3dfe",
+      "5772c48d-43e6-459a-9df9-820a57f8f811",
       "3bb4da9e-5a26-4a30-96ef-16ca38532be0",
       "1a11cae7-36ed-424e-ab50-0e98bfe57ab9"
     ],
@@ -22,7 +22,7 @@
     "id": "b27d6090-8694-4d93-afea-ae189107edcc",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538785586961,
+    "last_edited_time": 1539837092853,
     "parent_id": "39927eb1-3c11-4194-92e6-7e9fd5328d8b",
     "parent_table": "block",
     "properties": {
@@ -33,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -192,35 +192,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538785582090,
+        "created_time": 1539837087557,
         "format": {
-          "block_height": 523,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Fadd_callstack.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-error-handling-add-callstack?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "0f0b6603-182e-447a-a1b9-40ba142b3dfe",
+        "id": "5772c48d-43e6-459a-9df9-820a57f8f811",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785590771,
+        "last_edited_time": 1539837089005,
         "parent_id": "b27d6090-8694-4d93-afea-ae189107edcc",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Fadd_callstack.go"
+              "https://repl.it/@kjk1/gobook-error-handling-add-callstack"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Fadd_callstack.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-error-handling-add-callstack",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 523,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0180-error-handling%2Fadd_callstack.go"
+          "display_source": "https://repl.it/@kjk1/gobook-error-handling-add-callstack?lite=true"
         }
       },
       {

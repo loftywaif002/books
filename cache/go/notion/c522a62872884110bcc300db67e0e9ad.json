@@ -6,11 +6,11 @@
       "a4e76204-1b3a-449c-856b-d5cd5eaff9a0",
       "64b1422b-6dc5-4e70-8e80-08e4056183c9",
       "852d1556-0f34-4e65-9337-d9a32c7543ee",
-      "05627ee6-7bcf-48c3-bd60-f57b2e00dab5",
+      "ed01514b-77f1-47cd-a133-15e7935e55a9",
       "f18288bd-1efb-4ed4-8466-9be09926cbbc",
-      "2ec40fa4-cd19-4a04-bb64-2b65a6e023d7",
+      "85a0b8aa-b4fd-46ce-955b-b7ac47b8050f",
       "f27ac30b-c226-4715-ac17-a16cee585430",
-      "ca7af3df-4f3f-442c-bd4f-b9b636d6b1d3",
+      "f62b6565-35dc-4840-bce3-6792052656d3",
       "e6ed92fa-45ad-45c9-8839-6312911f379c",
       "112e5138-777d-4efe-9f58-fcf378517f2f",
       "dd6237f8-8a3e-458f-bf05-c8d2b3298223",
@@ -26,7 +26,7 @@
     "id": "c522a628-7288-4110-bcc3-00db67e0e9ad",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538783325209,
+    "last_edited_time": 1539833421995,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -37,7 +37,7 @@
       ]
     },
     "type": "page",
-    "version": 50,
+    "version": 71,
     "content_resolved": [
       {
         "alive": true,
@@ -115,35 +115,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538783153320,
+        "created_time": 1539833203229,
         "format": {
-          "block_height": 275,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_string.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-range-string-basic?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "05627ee6-7bcf-48c3-bd60-f57b2e00dab5",
+        "id": "ed01514b-77f1-47cd-a133-15e7935e55a9",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538783158420,
+        "last_edited_time": 1539833205117,
         "parent_id": "c522a628-7288-4110-bcc3-00db67e0e9ad",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_string.go"
+              "https://repl.it/@kjk1/gobook-range-string-basic"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_string.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-range-string-basic",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 275,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_string.go"
+          "display_source": "https://repl.it/@kjk1/gobook-range-string-basic?lite=true"
         }
       },
       {
@@ -174,35 +175,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538783226718,
+        "created_time": 1539833328010,
         "format": {
-          "block_height": 277,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_slice.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-range-slice-basic?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "2ec40fa4-cd19-4a04-bb64-2b65a6e023d7",
+        "id": "85a0b8aa-b4fd-46ce-955b-b7ac47b8050f",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538783233941,
+        "last_edited_time": 1539833329839,
         "parent_id": "c522a628-7288-4110-bcc3-00db67e0e9ad",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_slice.go"
+              "https://repl.it/@kjk1/gobook-range-slice-basic"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_slice.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-range-slice-basic",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 277,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_slice.go"
+          "display_source": "https://repl.it/@kjk1/gobook-range-slice-basic?lite=true"
         }
       },
       {
@@ -233,35 +235,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538783272445,
+        "created_time": 1539833403376,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_map.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-range-map-basics?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "ca7af3df-4f3f-442c-bd4f-b9b636d6b1d3",
+        "id": "f62b6565-35dc-4840-bce3-6792052656d3",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538783274412,
+        "last_edited_time": 1539833405733,
         "parent_id": "c522a628-7288-4110-bcc3-00db67e0e9ad",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_map.go"
+              "https://repl.it/@kjk1/gobook-range-map-basics"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_map.go",
+        "source": "https://repl.it/@kjk1/gobook-range-map-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0150-range%2Frange_map.go"
+          "display_source": "https://repl.it/@kjk1/gobook-range-map-basics?lite=true"
         }
       },
       {
@@ -287,7 +290,7 @@
         "id": "112e5138-777d-4efe-9f58-fcf378517f2f",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538783709667,
+        "last_edited_time": 1539833075872,
         "parent_id": "c522a628-7288-4110-bcc3-00db67e0e9ad",
         "parent_table": "block",
         "properties": {
@@ -298,7 +301,7 @@
           ]
         },
         "type": "page",
-        "version": 49,
+        "version": 63,
         "title": "range over a string",
         "format_page": {
           "page_cover": "",
@@ -320,7 +323,7 @@
         "id": "dd6237f8-8a3e-458f-bf05-c8d2b3298223",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538783798631,
+        "last_edited_time": 1539832940381,
         "parent_id": "c522a628-7288-4110-bcc3-00db67e0e9ad",
         "parent_table": "block",
         "properties": {
@@ -331,7 +334,7 @@
           ]
         },
         "type": "page",
-        "version": 42,
+        "version": 63,
         "title": "range over a slice",
         "format_page": {
           "page_cover": "",
@@ -353,7 +356,7 @@
         "id": "b1154249-7a53-4a1c-a54b-4355d45dc152",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538783880233,
+        "last_edited_time": 1539832765488,
         "parent_id": "c522a628-7288-4110-bcc3-00db67e0e9ad",
         "parent_table": "block",
         "properties": {
@@ -364,7 +367,7 @@
           ]
         },
         "type": "page",
-        "version": 42,
+        "version": 63,
         "title": "range over a map",
         "format_page": {
           "page_cover": "",
@@ -386,7 +389,7 @@
         "id": "917c46e6-f505-49b0-8f58-a16b8213c6ed",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538783926624,
+        "last_edited_time": 1539832524493,
         "parent_id": "c522a628-7288-4110-bcc3-00db67e0e9ad",
         "parent_table": "block",
         "properties": {
@@ -397,7 +400,7 @@
           ]
         },
         "type": "page",
-        "version": 35,
+        "version": 49,
         "title": "range over a channel",
         "format_page": {
           "page_cover": "",

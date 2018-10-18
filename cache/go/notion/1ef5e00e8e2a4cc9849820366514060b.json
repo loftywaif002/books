@@ -7,7 +7,7 @@
       "04c270fe-d082-46d2-b0d8-6b9fd6d60048",
       "933d13e0-2c8d-48df-bcfb-c3455e780110",
       "8605259f-05a6-4ad2-b342-b1f3d708d240",
-      "d02d0d49-c94c-4818-83f2-280436f725d2",
+      "b23329ec-f31a-4998-87d7-e40dacfc37c4",
       "e9a29b1c-c7b1-4991-85dc-6e5923dff54e"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -19,7 +19,7 @@
     "id": "1ef5e00e-8e2a-4cc9-8498-20366514060b",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538797210665,
+    "last_edited_time": 1539848760512,
     "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
     "parent_table": "block",
     "properties": {
@@ -30,7 +30,7 @@
       ]
     },
     "type": "page",
-    "version": 32,
+    "version": 44,
     "content_resolved": [
       {
         "alive": true,
@@ -98,7 +98,7 @@
         "created_time": 1532208663124,
         "id": "8605259f-05a6-4ad2-b342-b1f3d708d240",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538797210665,
+        "last_edited_time": 1539848753237,
         "parent_id": "1ef5e00e-8e2a-4cc9-8498-20366514060b",
         "parent_table": "block",
         "properties": {
@@ -120,7 +120,7 @@
           ]
         },
         "type": "text",
-        "version": 14,
+        "version": 23,
         "inline_content": [
           {
             "Text": "Since Go 1.7 you can timeout individual HTTP request using "
@@ -137,35 +137,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538797199376,
+        "created_time": 1539848754702,
         "format": {
-          "block_height": 535.9931030273438,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_timeout.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-http-client-timeout?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "d02d0d49-c94c-4818-83f2-280436f725d2",
+        "id": "b23329ec-f31a-4998-87d7-e40dacfc37c4",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538797216947,
+        "last_edited_time": 1539848756282,
         "parent_id": "1ef5e00e-8e2a-4cc9-8498-20366514060b",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_timeout.go"
+              "https://repl.it/@kjk1/gobook-http-client-timeout"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_timeout.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-http-client-timeout",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 535.9931030273438,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_timeout.go"
+          "display_source": "https://repl.it/@kjk1/gobook-http-client-timeout?lite=true"
         }
       },
       {

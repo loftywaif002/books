@@ -12,7 +12,8 @@
       "de7164e8-b524-4f67-962e-a9f81b72930c",
       "879faa31-c357-440a-ba2e-5e0b2dbc9d1a",
       "009474d9-407d-4be5-bb43-b55429c8887d",
-      "7e2ed7ca-7715-4a38-94f3-adc1ba7318d9"
+      "7e2ed7ca-7715-4a38-94f3-adc1ba7318d9",
+      "3fe7678a-36b1-45da-ac79-abc74efeab8f"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156076172,
@@ -23,7 +24,7 @@
     "id": "1c780581-00ed-4b45-aab9-461f69c05ecd",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532236669003,
+    "last_edited_time": 1539839823673,
     "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
     "parent_table": "block",
     "properties": {
@@ -34,7 +35,7 @@
       ]
     },
     "type": "page",
-    "version": 23,
+    "version": 25,
     "content_resolved": [
       {
         "alive": true,
@@ -293,7 +294,7 @@
         "id": "009474d9-407d-4be5-bb43-b55429c8887d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156076171,
+        "last_edited_time": 1539839811644,
         "parent_id": "1c780581-00ed-4b45-aab9-461f69c05ecd",
         "parent_table": "block",
         "properties": {
@@ -310,23 +311,12 @@
               ]
             ],
             [
-              " the same thread multiple times, as long as it calls "
-            ],
-            [
-              "Unlock",
-              [
-                [
-                  "c"
-                ]
-              ]
-            ],
-            [
-              " the same number of times."
+              " the same mutex multiple times."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 16,
         "inline_content": [
           {
             "Text": "In some languages mutexes are recursive i.e. the same thread can "
@@ -336,14 +326,7 @@
             "AttrFlags": 2
           },
           {
-            "Text": " the same thread multiple times, as long as it calls "
-          },
-          {
-            "Text": "Unlock",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " the same number of times."
+            "Text": " the same mutex multiple times."
           }
         ]
       },
@@ -407,6 +390,18 @@
             "Text": " twice on the same mutex, the program will deadlock."
           }
         ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539839823673,
+        "id": "3fe7678a-36b1-45da-ac79-abc74efeab8f",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539839823673,
+        "parent_id": "1c780581-00ed-4b45-aab9-461f69c05ecd",
+        "parent_table": "block",
+        "type": "text",
+        "version": 4
       }
     ],
     "title": "Mutex gotchas",

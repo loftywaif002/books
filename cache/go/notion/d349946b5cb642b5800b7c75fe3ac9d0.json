@@ -7,10 +7,8 @@
       "957ead7a-b176-4c29-a94c-f6ec4342b0e9",
       "d560be09-b358-49f3-ad4f-47a8f288740e",
       "dc903045-52a6-4960-8d61-bd4c3a99a9be",
-      "fb017f5d-9b0d-402a-97d4-2e813b7ea3e8",
-      "3e9f0a28-b9db-40a2-a869-c4862e23f8f5",
       "262584b6-042c-44df-936c-0357f2d79088",
-      "bae2ef98-7621-4b5d-be96-59fce40b9bec",
+      "19e014a0-6c4a-492f-90f1-e3522a6fee35",
       "7061c5b6-9a3f-4cd4-ad38-721f081b6358"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -22,7 +20,7 @@
     "id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538795223119,
+    "last_edited_time": 1539843994740,
     "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
     "parent_table": "block",
     "properties": {
@@ -33,7 +31,7 @@
       ]
     },
     "type": "page",
-    "version": 35,
+    "version": 46,
     "content_resolved": [
       {
         "alive": true,
@@ -102,7 +100,7 @@
         "id": "dc903045-52a6-4960-8d61-bd4c3a99a9be",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156112222,
+        "last_edited_time": 1539843988145,
         "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
         "parent_table": "block",
         "properties": {
@@ -124,7 +122,7 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 3,
         "inline_content": [
           {
             "Text": "We can decode JSON data from a file on disk or, more broadly, any "
@@ -137,83 +135,6 @@
             "Text": ", like a network connection."
           }
         ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156112222,
-        "id": "fb017f5d-9b0d-402a-97d4-2e813b7ea3e8",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538795200761,
-        "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Let’s assume we have a file called "
-            ],
-            [
-              "data.json",
-              [
-                [
-                  "c"
-                ]
-              ]
-            ],
-            [
-              " with the following content:"
-            ]
-          ]
-        },
-        "type": "text",
-        "version": 3,
-        "inline_content": [
-          {
-            "Text": "Let’s assume we have a file called "
-          },
-          {
-            "Text": "data.json",
-            "AttrFlags": 2
-          },
-          {
-            "Text": " with the following content:"
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538795196799,
-        "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fdata.json",
-          "block_full_width": false,
-          "block_page_width": true,
-          "block_preserve_scale": false
-        },
-        "id": "3e9f0a28-b9db-40a2-a869-c4862e23f8f5",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538795198967,
-        "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
-        "parent_table": "block",
-        "properties": {
-          "source": [
-            [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fdata.json"
-            ]
-          ]
-        },
-        "type": "embed",
-        "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fdata.json",
-        "format_embed": {
-          "block_full_width": false,
-          "block_height": 320,
-          "block_page_width": true,
-          "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fdata.json"
-        }
       },
       {
         "alive": true,
@@ -243,35 +164,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538795219034,
+        "created_time": 1539843974905,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fdecode_from_file.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-json-file?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "bae2ef98-7621-4b5d-be96-59fce40b9bec",
+        "id": "19e014a0-6c4a-492f-90f1-e3522a6fee35",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538795220754,
+        "last_edited_time": 1539843976433,
         "parent_id": "d349946b-5cb6-42b5-800b-7c75fe3ac9d0",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fdecode_from_file.go"
+              "https://repl.it/@kjk1/gobook-json-file"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fdecode_from_file.go",
+        "source": "https://repl.it/@kjk1/gobook-json-file",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fdecode_from_file.go"
+          "display_source": "https://repl.it/@kjk1/gobook-json-file?lite=true"
         }
       },
       {

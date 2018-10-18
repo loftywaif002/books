@@ -8,20 +8,19 @@
       "8544c0b2-b07a-4147-b715-2ce5ee540828",
       "1ea540bb-21f3-47ce-91ac-c1988a39fee8",
       "e7307a9d-5230-44a5-a9c8-ba4ecf2426d2",
-      "7c2ca2d1-e917-4001-80c0-1923a901726c",
       "533b1ba8-4a93-41fb-9e56-8c796a2d1631",
       "c87f945d-5904-455a-b61d-8be45eae98bb",
-      "9b897c02-1b7f-4f55-9444-d374c94e40af",
+      "349b3be4-fe79-43a1-96f2-30cc75a3a7c4",
       "00838bc6-46bc-4f9c-bb4f-fb534d4575d0",
       "eea57e50-6c8e-46c1-bd98-ef74715e653e",
-      "c8f78d5c-a08b-402e-bf70-3b8e9b802a0e",
+      "9fe595cb-e614-491e-bd4d-aa02e1a3120a",
       "cf939c79-1ac7-40df-b405-2d5f1411f93f",
       "63ea9e2c-1ec0-44e4-8cd9-fc5e70e8fe47",
       "a880b7d3-b143-4e51-a29d-a5514e98fedb",
       "7a050fff-add0-4778-8b45-315756c4a195",
       "a66d10df-e3b7-46f1-8d99-c2d15f38b0fc",
       "f717d873-ee7d-4691-a5ed-b4ef8e77f2dc",
-      "82a35244-f0a2-44db-98a3-2eaa93283220",
+      "1c221390-acfb-45b5-b8d4-c30e7f32f08c",
       "1b73cd61-c50c-4917-8e41-d49c8fe52954",
       "7d44be2b-ba84-4a5a-8bb4-486d86abb639"
     ],
@@ -34,7 +33,7 @@
     "id": "ec31d4b2-6006-412f-a728-7d6b34731589",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538897065623,
+    "last_edited_time": 1539837842736,
     "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
     "parent_table": "block",
     "properties": {
@@ -45,7 +44,7 @@
       ]
     },
     "type": "page",
-    "version": 48,
+    "version": 71,
     "content_resolved": [
       {
         "alive": true,
@@ -138,7 +137,7 @@
         "id": "e7307a9d-5230-44a5-a9c8-ba4ecf2426d2",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156055183,
+        "last_edited_time": 1539837857814,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
@@ -155,12 +154,23 @@
               ]
             ],
             [
-              " keep the following in mind."
+              " keep the following in mind: "
+            ],
+            [
+              "deferred functions are called at the end of a function",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "."
             ]
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 51,
         "inline_content": [
           {
             "Text": "When using "
@@ -170,32 +180,14 @@
             "AttrFlags": 2
           },
           {
-            "Text": " keep the following in mind."
-          }
-        ]
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156055183,
-        "id": "7c2ca2d1-e917-4001-80c0-1923a901726c",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156055183,
-        "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
-        "parent_table": "block",
-        "properties": {
-          "title": [
-            [
-              "Deferred functions are called at function end"
-            ]
-          ]
-        },
-        "type": "sub_header",
-        "version": 1,
-        "inline_content": [
+            "Text": " keep the following in mind: "
+          },
           {
-            "Text": "Deferred functions are called at function end"
+            "Text": "deferred functions are called at the end of a function",
+            "AttrFlags": 1
+          },
+          {
+            "Text": "."
           }
         ]
       },
@@ -288,35 +280,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538785819271,
+        "created_time": 1539837705137,
         "format": {
-          "block_height": 377,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-defer-gotcha?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "9b897c02-1b7f-4f55-9444-d374c94e40af",
+        "id": "349b3be4-fe79-43a1-96f2-30cc75a3a7c4",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538896229925,
+        "last_edited_time": 1539837706646,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha.go"
+              "https://repl.it/@kjk1/gobook-defer-gotcha"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-defer-gotcha",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 377,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha.go"
+          "display_source": "https://repl.it/@kjk1/gobook-defer-gotcha?lite=true"
         }
       },
       {
@@ -390,35 +383,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538785838459,
+        "created_time": 1539837763438,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha2.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-defer-gotcha-2?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "c8f78d5c-a08b-402e-bf70-3b8e9b802a0e",
+        "id": "9fe595cb-e614-491e-bd4d-aa02e1a3120a",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785840277,
+        "last_edited_time": 1539837765194,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha2.go"
+              "https://repl.it/@kjk1/gobook-defer-gotcha-2"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha2.go",
+        "source": "https://repl.it/@kjk1/gobook-defer-gotcha-2",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha2.go"
+          "display_source": "https://repl.it/@kjk1/gobook-defer-gotcha-2?lite=true"
         }
       },
       {
@@ -737,35 +731,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538785860387,
+        "created_time": 1539837814874,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha3.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-defer-gotcha-3?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "82a35244-f0a2-44db-98a3-2eaa93283220",
+        "id": "1c221390-acfb-45b5-b8d4-c30e7f32f08c",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785861784,
+        "last_edited_time": 1539837816624,
         "parent_id": "ec31d4b2-6006-412f-a728-7d6b34731589",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha3.go"
+              "https://repl.it/@kjk1/gobook-defer-gotcha-3"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha3.go",
+        "source": "https://repl.it/@kjk1/gobook-defer-gotcha-3",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_gotcha3.go"
+          "display_source": "https://repl.it/@kjk1/gobook-defer-gotcha-3?lite=true"
         }
       },
       {

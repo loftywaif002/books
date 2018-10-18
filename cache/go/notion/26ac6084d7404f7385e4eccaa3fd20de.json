@@ -13,7 +13,7 @@
       "0b245560-93ab-4228-a024-e29e546978ba",
       "b4492807-5e67-4b9a-a4cc-67de9bd74dcb",
       "62811c2f-68d6-4168-928f-788faa2bb776",
-      "beb93884-7a5c-4d99-b7a3-82dd90f994a7",
+      "175afe58-a133-4c92-9e9d-86c508e1114c",
       "c1744bde-b607-4c8f-8532-404ed0ac01ba",
       "70f3e3e8-f0e5-47d0-b712-3bcc343baafc",
       "9dbbed64-5fb2-4c53-b79a-fa9c971be642"
@@ -27,7 +27,7 @@
     "id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538786330592,
+    "last_edited_time": 1539838585141,
     "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
     "parent_table": "block",
     "properties": {
@@ -38,7 +38,7 @@
       ]
     },
     "type": "page",
-    "version": 36,
+    "version": 43,
     "content_resolved": [
       {
         "alive": true,
@@ -277,35 +277,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538786304434,
+        "created_time": 1539838580467,
         "format": {
-          "block_height": 726.9931030273438,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Flimit_with_semaphore.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-concurrency-limit-with-semaphore?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "beb93884-7a5c-4d99-b7a3-82dd90f994a7",
+        "id": "175afe58-a133-4c92-9e9d-86c508e1114c",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786316253,
+        "last_edited_time": 1539838581746,
         "parent_id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Flimit_with_semaphore.go"
+              "https://repl.it/@kjk1/gobook-concurrency-limit-with-semaphore"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Flimit_with_semaphore.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-concurrency-limit-with-semaphore",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 726.9931030273438,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Flimit_with_semaphore.go"
+          "display_source": "https://repl.it/@kjk1/gobook-concurrency-limit-with-semaphore?lite=true"
         }
       },
       {

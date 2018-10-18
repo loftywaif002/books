@@ -10,7 +10,7 @@
       "ceac57ad-89e5-4efd-b603-55e66d2266e2",
       "5f255401-e1f5-468b-855b-0aaccc08359d",
       "17b6bc66-1b33-4d4a-8796-d6b836cd1928",
-      "4dc80eeb-97e3-40ec-9a28-3f709ea3bf85",
+      "8ea378ab-9dc5-48d2-b52c-b49c342cc14d",
       "6f8f1f8b-9039-4a89-8f17-2d45f54e87f6",
       "240a56b9-bded-4203-8273-2fed90b04b2e",
       "a9ef6ba0-7f96-4700-ba30-c676fd4468b0",
@@ -47,7 +47,7 @@
     "id": "4fac57c0-9168-477a-a120-69484979f419",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538786419784,
+    "last_edited_time": 1539839544625,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -58,7 +58,7 @@
       ]
     },
     "type": "page",
-    "version": 37,
+    "version": 44,
     "content_resolved": [
       {
         "alive": true,
@@ -258,35 +258,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538786412093,
+        "created_time": 1539839536058,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Findex.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-channels-basics?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "4dc80eeb-97e3-40ec-9a28-3f709ea3bf85",
+        "id": "8ea378ab-9dc5-48d2-b52c-b49c342cc14d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786413976,
+        "last_edited_time": 1539839537761,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Findex.go"
+              "https://repl.it/@kjk1/gobook-channels-basics"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Findex.go",
+        "source": "https://repl.it/@kjk1/gobook-channels-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Findex.go"
+          "display_source": "https://repl.it/@kjk1/gobook-channels-basics?lite=true"
         }
       },
       {
@@ -1086,7 +1087,7 @@
         "id": "35da4ddc-825b-498d-9067-c969effc299b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786461112,
+        "last_edited_time": 1539839500833,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
@@ -1097,7 +1098,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "Using range to read from a channel",
         "format_page": {
           "page_cover": "",
@@ -1119,7 +1120,7 @@
         "id": "0739fee2-c89f-4867-9858-e43b098d0a9d",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786484886,
+        "last_edited_time": 1539839450703,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
@@ -1130,7 +1131,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "Timeout reading from channel with select",
         "format_page": {
           "page_cover": "",
@@ -1152,7 +1153,7 @@
         "id": "3be419da-2b0b-4ab5-ba91-93605de1bad3",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786605112,
+        "last_edited_time": 1539839387703,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
@@ -1163,7 +1164,7 @@
           ]
         },
         "type": "page",
-        "version": 58,
+        "version": 93,
         "title": "Closing channels",
         "format_page": {
           "page_cover": "",
@@ -1185,7 +1186,7 @@
         "id": "7ba79d8c-3191-4d09-95e7-a93a6ebf4dd2",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786662394,
+        "last_edited_time": 1539839023488,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
@@ -1196,7 +1197,7 @@
           ]
         },
         "type": "page",
-        "version": 35,
+        "version": 42,
         "title": "Buffered vs. unbuffered channels",
         "format_page": {
           "page_cover": "",
@@ -1218,7 +1219,7 @@
         "id": "34ce9d67-983f-4a20-8ada-20bd5dca1f33",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786698969,
+        "last_edited_time": 1539838932703,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
@@ -1229,7 +1230,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "Non-blocking receive with select",
         "format_page": {
           "page_cover": "",
@@ -1251,7 +1252,7 @@
         "id": "f5daa999-f513-4b9b-a9f2-d69916df292a",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786718849,
+        "last_edited_time": 1539838877058,
         "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
         "parent_table": "block",
         "properties": {
@@ -1262,7 +1263,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "Signaling channel with chan struct{}",
         "format_page": {
           "page_cover": "",

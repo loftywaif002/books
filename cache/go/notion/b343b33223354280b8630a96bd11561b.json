@@ -7,7 +7,7 @@
       "3a0502a9-d909-438e-bf48-f50d61ac48b3",
       "7b6ca1bd-ab05-4de4-8262-83e267b43d40",
       "c2ad95a7-3beb-4761-a7f0-5d69459015db",
-      "58c3b703-0f5d-42b2-bcf2-ea1effa20e3b",
+      "c2aeeb23-f41c-4b4d-a27d-a9cbc512dc9d",
       "ea679a6b-7f16-4d3f-977c-d8e1e97b2d02"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -19,7 +19,7 @@
     "id": "b343b332-2335-4280-b863-0a96bd11561b",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538795828684,
+    "last_edited_time": 1539845193223,
     "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
     "parent_table": "block",
     "properties": {
@@ -30,7 +30,7 @@
       ]
     },
     "type": "page",
-    "version": 93,
+    "version": 100,
     "content_resolved": [
       {
         "alive": true,
@@ -134,35 +134,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538795823442,
+        "created_time": 1539845188560,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Fhybrid_parse.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-xml-hybrid-parsing?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "58c3b703-0f5d-42b2-bcf2-ea1effa20e3b",
+        "id": "c2aeeb23-f41c-4b4d-a27d-a9cbc512dc9d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538795825206,
+        "last_edited_time": 1539845190422,
         "parent_id": "b343b332-2335-4280-b863-0a96bd11561b",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Fhybrid_parse.go"
+              "https://repl.it/@kjk1/gobook-xml-hybrid-parsing"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Fhybrid_parse.go",
+        "source": "https://repl.it/@kjk1/gobook-xml-hybrid-parsing",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0320-xml%2Fhybrid_parse.go"
+          "display_source": "https://repl.it/@kjk1/gobook-xml-hybrid-parsing?lite=true"
         }
       },
       {

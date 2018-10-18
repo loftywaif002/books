@@ -7,7 +7,7 @@
       "daf8c0af-2cb7-46a3-8e46-aaeafc1ee1ed",
       "0400c27b-d06e-4981-b995-5a8ed37d8f9a",
       "6e05f993-a81c-46cb-a7a0-859432244a0a",
-      "bb9ca8ae-e849-4543-8ea0-bd4ec02a228a",
+      "fde4b1fd-ed17-436a-8ab1-79841f048270",
       "672a6d39-969d-4bcb-bfd4-1d7abe39f7f1",
       "343cabdd-01c6-4dc5-846f-dabe576ac175",
       "0947dfdd-8c76-4ccd-9d53-302e4c241e49",
@@ -22,7 +22,7 @@
     "id": "cf850520-3a65-4dce-af24-371d978fbed5",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538786227349,
+    "last_edited_time": 1539838731230,
     "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
     "parent_table": "block",
     "properties": {
@@ -33,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 32,
+    "version": 39,
     "content_resolved": [
       {
         "alive": true,
@@ -122,35 +122,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538786223203,
+        "created_time": 1539838726662,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Fhello_world.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-concurrency-hello-world?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "bb9ca8ae-e849-4543-8ea0-bd4ec02a228a",
+        "id": "fde4b1fd-ed17-436a-8ab1-79841f048270",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786225004,
+        "last_edited_time": 1539838728158,
         "parent_id": "cf850520-3a65-4dce-af24-371d978fbed5",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Fhello_world.go"
+              "https://repl.it/@kjk1/gobook-concurrency-hello-world"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Fhello_world.go",
+        "source": "https://repl.it/@kjk1/gobook-concurrency-hello-world",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Fhello_world.go"
+          "display_source": "https://repl.it/@kjk1/gobook-concurrency-hello-world?lite=true"
         }
       },
       {

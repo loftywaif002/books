@@ -21,7 +21,7 @@
       "205cf4cf-f601-4b33-ac3c-e64633150fe0",
       "eed0712f-590c-4e88-a96d-7cfb0a3f9515",
       "73a37dd5-b336-4c68-a079-238c073f37f6",
-      "e2267e80-f0de-4be8-8f00-b48d955c4365",
+      "f07d2c83-375d-429d-9870-08936d9ba6a8",
       "efee8e82-c675-4b68-8e0d-24cecc306064",
       "d71c0aad-d448-4df9-9e7b-3a1e5c83d5bb",
       "62c2445b-cc02-47b9-b742-9ff7495a7d26",
@@ -38,7 +38,7 @@
     "id": "b58d1314-5f92-4c11-afcf-00aa10d71364",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538798417122,
+    "last_edited_time": 1539852217498,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -49,7 +49,7 @@
       ]
     },
     "type": "page",
-    "version": 37,
+    "version": 44,
     "content_resolved": [
       {
         "alive": true,
@@ -749,35 +749,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538798412424,
+        "created_time": 1539852212471,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_timeout.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-http-client-timeout?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "e2267e80-f0de-4be8-8f00-b48d955c4365",
+        "id": "f07d2c83-375d-429d-9870-08936d9ba6a8",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538798413933,
+        "last_edited_time": 1539852213793,
         "parent_id": "b58d1314-5f92-4c11-afcf-00aa10d71364",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_timeout.go"
+              "https://repl.it/@kjk1/gobook-http-client-timeout"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_timeout.go",
+        "source": "https://repl.it/@kjk1/gobook-http-client-timeout",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_timeout.go"
+          "display_source": "https://repl.it/@kjk1/gobook-http-client-timeout?lite=true"
         }
       },
       {
@@ -828,7 +829,7 @@
         "id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538798482255,
+        "last_edited_time": 1539852167813,
         "parent_id": "b58d1314-5f92-4c11-afcf-00aa10d71364",
         "parent_table": "block",
         "properties": {
@@ -839,7 +840,7 @@
           ]
         },
         "type": "page",
-        "version": 35,
+        "version": 42,
         "title": "Context with value",
         "format_page": {
           "page_cover": "",
@@ -861,7 +862,7 @@
         "id": "8cc69d74-2351-4479-80b3-a547a37741c0",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538798501894,
+        "last_edited_time": 1539852113762,
         "parent_id": "b58d1314-5f92-4c11-afcf-00aa10d71364",
         "parent_table": "block",
         "properties": {
@@ -872,7 +873,7 @@
           ]
         },
         "type": "page",
-        "version": 28,
+        "version": 35,
         "title": "Writing cancellable functions",
         "format_page": {
           "page_cover": "",

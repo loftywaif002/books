@@ -7,7 +7,7 @@
       "419932a5-a810-4a11-a6f1-158c4cb5d06e",
       "d1ee9d2e-d062-403f-b4ad-c8f4a36dbb33",
       "859a3e70-66c1-40f3-a924-0715937ebd42",
-      "d9023069-ab10-432e-966e-594ddad3519b",
+      "c4a4d7bc-e6a5-4f50-8e07-e76ddbaa8f56",
       "f55798cf-32cf-409e-8ea2-3621766399d5",
       "a3de800a-4c7a-46cb-809c-aeebe2a6bce9",
       "7969461d-971d-43f0-b320-bc03c627ff7d"
@@ -21,7 +21,7 @@
     "id": "4e6e23c6-9bc6-437f-8806-e708567f5140",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538788187332,
+    "last_edited_time": 1539842189332,
     "parent_id": "c4da0534-9333-4df9-9513-4741ae04f808",
     "parent_table": "block",
     "properties": {
@@ -32,7 +32,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -141,35 +141,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538788184188,
+        "created_time": 1539842184022,
         "format": {
-          "block_height": 378,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0260-time-date%2Fparse.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-time-parse?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "d9023069-ab10-432e-966e-594ddad3519b",
+        "id": "c4a4d7bc-e6a5-4f50-8e07-e76ddbaa8f56",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538788192832,
+        "last_edited_time": 1539842185811,
         "parent_id": "4e6e23c6-9bc6-437f-8806-e708567f5140",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0260-time-date%2Fparse.go"
+              "https://repl.it/@kjk1/gobook-time-parse"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0260-time-date%2Fparse.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-time-parse",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 378,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0260-time-date%2Fparse.go"
+          "display_source": "https://repl.it/@kjk1/gobook-time-parse?lite=true"
         }
       },
       {

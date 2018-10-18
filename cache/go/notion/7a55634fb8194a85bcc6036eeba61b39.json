@@ -8,7 +8,7 @@
       "6b796187-dbbd-43d5-aa73-13793ed2b3fc",
       "613ca276-0f27-4b1c-8689-92f9324bd466",
       "6f0c0062-d1a3-4497-8185-3ab56dc1741f",
-      "8a23dc5c-9ffd-47e5-823c-e1876ea317ab",
+      "b946b67d-6832-42eb-94b6-a05679e32780",
       "cf43ecf4-b56d-426c-82f2-1c317bba6260",
       "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
       "5390af0b-aa7a-492e-8c17-fc37a2a87706",
@@ -26,7 +26,7 @@
     "id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538787326269,
+    "last_edited_time": 1539840900164,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -37,7 +37,7 @@
       ]
     },
     "type": "page",
-    "version": 97,
+    "version": 104,
     "content_resolved": [
       {
         "alive": true,
@@ -151,35 +151,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538787301943,
+        "created_time": 1539840895556,
         "format": {
-          "block_height": 566,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Findex.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-file-basics?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "8a23dc5c-9ffd-47e5-823c-e1876ea317ab",
+        "id": "b946b67d-6832-42eb-94b6-a05679e32780",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538787309635,
+        "last_edited_time": 1539840897226,
         "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Findex.go"
+              "https://repl.it/@kjk1/gobook-file-basics"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Findex.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-file-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 566,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0250-file-io%2Findex.go"
+          "display_source": "https://repl.it/@kjk1/gobook-file-basics?lite=true"
         }
       },
       {
@@ -205,7 +206,7 @@
         "id": "2a9fdaa5-4d98-484d-ae42-6ccd2011b988",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538787385350,
+        "last_edited_time": 1539840841846,
         "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
         "parent_table": "block",
         "properties": {
@@ -216,7 +217,7 @@
           ]
         },
         "type": "page",
-        "version": 33,
+        "version": 40,
         "title": "Reading files",
         "format_page": {
           "page_cover": "",
@@ -271,7 +272,7 @@
         "id": "2db8f87e-b508-4bfb-a59f-46deb2f51159",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538799550415,
+        "last_edited_time": 1539840764076,
         "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
         "parent_table": "block",
         "properties": {
@@ -282,7 +283,7 @@
           ]
         },
         "type": "page",
-        "version": 61,
+        "version": 89,
         "title": "File operations",
         "format_page": {
           "page_cover": "",
@@ -304,7 +305,7 @@
         "id": "ef49276e-dcaf-4a41-8bb0-22de73c87638",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538787713736,
+        "last_edited_time": 1539840285683,
         "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
         "parent_table": "block",
         "properties": {
@@ -315,7 +316,7 @@
           ]
         },
         "type": "page",
-        "version": 43,
+        "version": 57,
         "title": "Directory operations",
         "format_page": {
           "page_cover": "",
@@ -337,19 +338,19 @@
         "id": "88d65c3f-c0c1-4a4e-90bf-a98ba3feb231",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532206656374,
+        "last_edited_time": 1539840098150,
         "parent_id": "7a55634f-b819-4a85-bcc6-036eeba61b39",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Portable file path operations"
+              " File path operations"
             ]
           ]
         },
         "type": "page",
-        "version": 23,
-        "title": "Portable file path operations",
+        "version": 29,
+        "title": " File path operations",
         "format_page": {
           "page_cover": "",
           "page_cover_position": 0,

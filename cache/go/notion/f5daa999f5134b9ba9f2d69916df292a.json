@@ -9,7 +9,7 @@
       "44502060-be92-4241-90eb-22f8a780baf3",
       "b0e7cdfc-5835-45fa-9308-0b1509acbd43",
       "256bc9d7-bb02-46a2-92d9-4d50bbe1e569",
-      "5058baff-90f6-446d-802d-25fb9393fe4c"
+      "3842ab0a-4ec8-4f6b-b4d6-6c88b996d4b2"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156072108,
@@ -20,7 +20,7 @@
     "id": "f5daa999-f513-4b9b-a9f2-d69916df292a",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538786718849,
+    "last_edited_time": 1539838877058,
     "parent_id": "4fac57c0-9168-477a-a120-69484979f419",
     "parent_table": "block",
     "properties": {
@@ -31,7 +31,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -188,35 +188,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538786715630,
+        "created_time": 1539838872088,
         "format": {
-          "block_height": 573,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fsignaling.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-channels-signal?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "5058baff-90f6-446d-802d-25fb9393fe4c",
+        "id": "3842ab0a-4ec8-4f6b-b4d6-6c88b996d4b2",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786724504,
+        "last_edited_time": 1539838873603,
         "parent_id": "f5daa999-f513-4b9b-a9f2-d69916df292a",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fsignaling.go"
+              "https://repl.it/@kjk1/gobook-channels-signal"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fsignaling.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-channels-signal",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 573,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0220-channels-select%2Fsignaling.go"
+          "display_source": "https://repl.it/@kjk1/gobook-channels-signal?lite=true"
         }
       }
     ],

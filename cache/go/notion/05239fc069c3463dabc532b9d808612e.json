@@ -8,7 +8,7 @@
       "64ac9a29-3f59-42ec-8aa4-789d072e04bf",
       "fec62f76-1d96-4e0c-bc0a-756b45b4f02f",
       "f8b12d82-b786-41a8-88f2-5d690e650ee0",
-      "c157f6fd-853b-4909-ba4e-bf3f7ae5a866",
+      "9e74087c-8797-4893-b256-31a3b9cdd26b",
       "b157e52e-85f9-417e-b5aa-8cfc5e187ab5",
       "7f8bcf04-6954-46c1-ae4d-22db9b847d6f",
       "b25f07ac-7152-47bf-b86f-2d6152105355",
@@ -54,7 +54,7 @@
     "id": "05239fc0-69c3-463d-abc5-32b9d808612e",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538788589687,
+    "last_edited_time": 1539842432985,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -65,7 +65,7 @@
       ]
     },
     "type": "page",
-    "version": 32,
+    "version": 39,
     "content_resolved": [
       {
         "alive": true,
@@ -202,35 +202,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538788585217,
+        "created_time": 1539842428537,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0270-parsing-command-line-arguments%2Findex.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-cmdline-args-basics?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "c157f6fd-853b-4909-ba4e-bf3f7ae5a866",
+        "id": "9e74087c-8797-4893-b256-31a3b9cdd26b",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538788587539,
+        "last_edited_time": 1539842429914,
         "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0270-parsing-command-line-arguments%2Findex.go"
+              "https://repl.it/@kjk1/gobook-cmdline-args-basics"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0270-parsing-command-line-arguments%2Findex.go",
+        "source": "https://repl.it/@kjk1/gobook-cmdline-args-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0270-parsing-command-line-arguments%2Findex.go"
+          "display_source": "https://repl.it/@kjk1/gobook-cmdline-args-basics?lite=true"
         }
       },
       {
@@ -1600,7 +1601,7 @@
         "id": "38aac629-ecf1-47c1-b056-3b754b1cbd69",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538788629949,
+        "last_edited_time": 1539842378338,
         "parent_id": "05239fc0-69c3-463d-abc5-32b9d808612e",
         "parent_table": "block",
         "properties": {
@@ -1611,7 +1612,7 @@
           ]
         },
         "type": "page",
-        "version": 28,
+        "version": 35,
         "title": "Raw access to command line arguments",
         "format_page": {
           "page_cover": "",

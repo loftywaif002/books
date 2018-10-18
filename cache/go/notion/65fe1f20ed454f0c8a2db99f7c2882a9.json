@@ -7,7 +7,7 @@
       "8a485eaf-695e-416a-aa0f-bc6619ec53e6",
       "073af4ec-b787-489d-8304-785dc1cf8f9b",
       "4b1ac156-45dd-420e-a7ac-6a4aacc2cfec",
-      "e1d986f1-f1ea-4209-a892-1a5f064a8ad7",
+      "73923605-9c0c-4057-9d1b-5382428f6548",
       "f63abe96-7330-4b31-ac3d-1fef7ae1bfc5"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -19,7 +19,7 @@
     "id": "65fe1f20-ed45-4f0c-8a2d-b99f7c2882a9",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538797176862,
+    "last_edited_time": 1539848839201,
     "parent_id": "710edf91-b0f1-4662-9abb-fcd96aba4d80",
     "parent_table": "block",
     "properties": {
@@ -30,7 +30,7 @@
       ]
     },
     "type": "page",
-    "version": 37,
+    "version": 51,
     "content_resolved": [
       {
         "alive": true,
@@ -167,35 +167,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538797173841,
+        "created_time": 1539848825335,
         "format": {
-          "block_height": 930,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_put.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-http-client-put-json?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "e1d986f1-f1ea-4209-a892-1a5f064a8ad7",
+        "id": "73923605-9c0c-4057-9d1b-5382428f6548",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538797182584,
+        "last_edited_time": 1539848826939,
         "parent_id": "65fe1f20-ed45-4f0c-8a2d-b99f7c2882a9",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_put.go"
+              "https://repl.it/@kjk1/gobook-http-client-put-json"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_put.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-http-client-put-json",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 930,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0360-http-client%2Fhttp_put.go"
+          "display_source": "https://repl.it/@kjk1/gobook-http-client-put-json?lite=true"
         }
       },
       {

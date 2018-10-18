@@ -7,7 +7,7 @@
       "fd3e4692-ef4d-4efd-b7a6-83aebee4f6a4",
       "cdd48169-4022-4d87-9953-dd542b9d33d8",
       "e09115e5-ba45-4892-ac58-735b01a1c961",
-      "41c72377-bb72-4949-a7a6-f648561b3c1b",
+      "f55a98a8-563f-4273-beee-ac20a809635f",
       "c77d776d-1072-4339-8e17-44569eaa069c"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -19,7 +19,7 @@
     "id": "4ef2f951-df5f-4c2f-a229-ddb74e372823",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538795158913,
+    "last_edited_time": 1539844054595,
     "parent_id": "1479bc5a-08b6-4dbb-8aa0-e2f5ed17782f",
     "parent_table": "block",
     "properties": {
@@ -30,7 +30,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -120,35 +120,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538795155863,
+        "created_time": 1539844047397,
         "format": {
-          "block_height": 930,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fanon_structs.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-json-anon-structs?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "41c72377-bb72-4949-a7a6-f648561b3c1b",
+        "id": "f55a98a8-563f-4273-beee-ac20a809635f",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538795173485,
+        "last_edited_time": 1539844049568,
         "parent_id": "4ef2f951-df5f-4c2f-a229-ddb74e372823",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fanon_structs.go"
+              "https://repl.it/@kjk1/gobook-json-anon-structs"
             ]
           ]
         },
         "type": "embed",
-        "version": 16,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fanon_structs.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-json-anon-structs",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 930,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0310-json%2Fanon_structs.go"
+          "display_source": "https://repl.it/@kjk1/gobook-json-anon-structs?lite=true"
         }
       },
       {

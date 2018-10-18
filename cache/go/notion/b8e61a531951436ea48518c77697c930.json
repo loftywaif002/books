@@ -11,14 +11,14 @@
       "09ec83df-58d2-4feb-ba58-7c80cc90b221",
       "0df33b65-d1fa-4609-943e-d51cbabbd4bd",
       "68c5712b-94d2-42cc-bc72-4a504e76b573",
-      "1b2b42f0-3152-4641-8a5f-212c155708f3",
+      "6b30d439-4b0b-43bc-901a-b4e1a389cd79",
       "d039ad6a-92c3-4d8f-91b6-8fad9138d8fa",
-      "10d5c99a-9cf5-4570-9748-ca3e15103b22",
+      "3ac31f71-317f-447f-a98c-e904663ee44f",
       "c7e88d22-6236-486b-a6dc-82d67d7942a4",
       "213f4702-bbcd-477c-84d4-51ee3595c261",
-      "aa82b394-6484-49ad-bf76-f3ec99a5be46",
+      "c72bd0a8-2453-4218-a5df-a25b8003c2cd",
       "28a784bc-229e-4627-ac94-1eb5456bf304",
-      "02409bef-4a4f-4569-b83a-4415f63dce78"
+      "df41dcd7-f7c3-4ab3-9cea-389bd72860db"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156054135,
@@ -29,7 +29,7 @@
     "id": "b8e61a53-1951-436e-a485-18c77697c930",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538897584168,
+    "last_edited_time": 1539838131332,
     "parent_id": "20bfd8fa-4545-4479-954a-6814eeeef716",
     "parent_table": "block",
     "properties": {
@@ -40,7 +40,7 @@
       ]
     },
     "type": "page",
-    "version": 104,
+    "version": 132,
     "content_resolved": [
       {
         "alive": true,
@@ -279,35 +279,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538785738823,
+        "created_time": 1539837964436,
         "format": {
-          "block_height": 340,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-defer-basics?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "1b2b42f0-3152-4641-8a5f-212c155708f3",
+        "id": "6b30d439-4b0b-43bc-901a-b4e1a389cd79",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785743325,
+        "last_edited_time": 1539837967624,
         "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics.go"
+              "https://repl.it/@kjk1/gobook-defer-basics"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-defer-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 340,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics.go"
+          "display_source": "https://repl.it/@kjk1/gobook-defer-basics?lite=true"
         }
       },
       {
@@ -374,35 +375,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538785758670,
+        "created_time": 1539838032878,
         "format": {
-          "block_height": 473,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics2.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-defer-basics-2?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "10d5c99a-9cf5-4570-9748-ca3e15103b22",
+        "id": "3ac31f71-317f-447f-a98c-e904663ee44f",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538896096299,
+        "last_edited_time": 1539838034880,
         "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics2.go"
+              "https://repl.it/@kjk1/gobook-defer-basics-2"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics2.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-defer-basics-2",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 473,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics2.go"
+          "display_source": "https://repl.it/@kjk1/gobook-defer-basics-2?lite=true"
         }
       },
       {
@@ -464,35 +466,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538785775916,
+        "created_time": 1539838083533,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics3.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-defer-basics-3?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "aa82b394-6484-49ad-bf76-f3ec99a5be46",
+        "id": "c72bd0a8-2453-4218-a5df-a25b8003c2cd",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785777097,
+        "last_edited_time": 1539838085198,
         "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics3.go"
+              "https://repl.it/@kjk1/gobook-defer-basics-3"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics3.go",
+        "source": "https://repl.it/@kjk1/gobook-defer-basics-3",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics3.go"
+          "display_source": "https://repl.it/@kjk1/gobook-defer-basics-3?lite=true"
         }
       },
       {
@@ -523,35 +526,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538785793501,
+        "created_time": 1539838126341,
         "format": {
-          "block_height": 405.9895935058594,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics4.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-defer-basics-4?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "02409bef-4a4f-4569-b83a-4415f63dce78",
+        "id": "df41dcd7-f7c3-4ab3-9cea-389bd72860db",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785804317,
+        "last_edited_time": 1539838127718,
         "parent_id": "b8e61a53-1951-436e-a485-18c77697c930",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics4.go"
+              "https://repl.it/@kjk1/gobook-defer-basics-4"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics4.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-defer-basics-4",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 405.9895935058594,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0190-defer%2Fdefer_basics4.go"
+          "display_source": "https://repl.it/@kjk1/gobook-defer-basics-4?lite=true"
         }
       }
     ],

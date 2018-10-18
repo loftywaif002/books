@@ -7,7 +7,7 @@
       "e581a4a2-c7b6-4eb4-897b-630599daf5fb",
       "c83e645a-f96b-4b68-8081-eba972860dd0",
       "e4f508f5-5f1e-4041-a857-67f9d32524bd",
-      "d1bfd723-0377-4a32-b1e2-013bc13ee948",
+      "f156ad12-de38-432e-8a02-803f8d48f5ef",
       "fc362528-004a-4c7e-9f31-0e40de6c9a41",
       "edb922b7-234b-4c80-863e-0171d6dad3a9",
       "26bf7630-cf50-4a7e-8aa6-8fcf1e6037ff",
@@ -25,7 +25,7 @@
     "id": "0614a462-2a97-440e-b89b-c829d59e8d37",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538788936385,
+    "last_edited_time": 1539842909279,
     "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
     "parent_table": "block",
     "properties": {
@@ -36,7 +36,7 @@
       ]
     },
     "type": "page",
-    "version": 28,
+    "version": 35,
     "content_resolved": [
       {
         "alive": true,
@@ -126,35 +126,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538788933960,
+        "created_time": 1539842904352,
         "format": {
-          "block_height": 593,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Ftime_out.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-exec-timeout?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "d1bfd723-0377-4a32-b1e2-013bc13ee948",
+        "id": "f156ad12-de38-432e-8a02-803f8d48f5ef",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538788942206,
+        "last_edited_time": 1539842905891,
         "parent_id": "0614a462-2a97-440e-b89b-c829d59e8d37",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Ftime_out.go"
+              "https://repl.it/@kjk1/gobook-exec-timeout"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Ftime_out.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-exec-timeout",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 593,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Ftime_out.go"
+          "display_source": "https://repl.it/@kjk1/gobook-exec-timeout?lite=true"
         }
       },
       {

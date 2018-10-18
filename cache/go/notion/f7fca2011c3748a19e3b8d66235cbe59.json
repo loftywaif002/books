@@ -14,7 +14,7 @@
       "ebd0820e-c548-4549-be92-bee342878184",
       "9e6e2085-5b82-45bc-b08f-8440eff4eb55",
       "597d8273-d57f-48e1-a61e-6b731dc31218",
-      "bf159dc4-4b08-457f-bedf-5ade2e756e23",
+      "62566768-6e53-4cb7-bfb3-dd11e1cd61ce",
       "170e9895-c92a-400a-ac69-3a15212a0f5a",
       "ca9f7c47-4425-4ca2-956b-8a312243164e",
       "7c2f26ed-f0d8-4416-9d97-ca191b9433f5",
@@ -22,10 +22,10 @@
       "5c751bad-6bec-4f91-a196-eb7f00d19574",
       "2bb81945-43ae-45da-96c9-82a08b9ea09d",
       "a75373f8-a97c-4fb4-9a12-b8a4ded82338",
-      "76281374-e1cf-482d-8037-7032e0b220b4",
+      "b7c3d5e8-d0ad-4593-b4fd-be1be36ee98d",
       "e7773e3f-acd6-4a16-85b1-a06d59d85837",
       "21fa5a44-bd9b-4e4b-be51-acf5dbed3dc5",
-      "f09c9c18-0f20-4345-a3d9-f37c0c575821",
+      "b3a1077f-1e90-409d-9304-8fd760694db5",
       "db2ca2cd-e72d-45ea-8e19-857be970b52d",
       "ead00700-6742-4993-bb40-c754426bbb58"
     ],
@@ -38,7 +38,7 @@
     "id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538788795893,
+    "last_edited_time": 1539842735365,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -49,7 +49,7 @@
       ]
     },
     "type": "page",
-    "version": 43,
+    "version": 64,
     "content_resolved": [
       {
         "alive": true,
@@ -388,35 +388,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538788749976,
+        "created_time": 1539842551868,
         "format": {
-          "block_height": 259,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-logging-log?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "bf159dc4-4b08-457f-bedf-5ade2e756e23",
+        "id": "62566768-6e53-4cb7-bfb3-dd11e1cd61ce",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538788757507,
+        "last_edited_time": 1539842553981,
         "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog.go"
+              "https://repl.it/@kjk1/gobook-logging-log"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-logging-log",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 259,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog.go"
+          "display_source": "https://repl.it/@kjk1/gobook-logging-log?lite=true"
         }
       },
       {
@@ -689,35 +690,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538788771642,
+        "created_time": 1539842651951,
         "format": {
-          "block_height": 425,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog_file.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-logging-log-file?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "76281374-e1cf-482d-8037-7032e0b220b4",
+        "id": "b7c3d5e8-d0ad-4593-b4fd-be1be36ee98d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538788781038,
+        "last_edited_time": 1539842654048,
         "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog_file.go"
+              "https://repl.it/@kjk1/gobook-logging-log-file"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog_file.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-logging-log-file",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 425,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog_file.go"
+          "display_source": "https://repl.it/@kjk1/gobook-logging-log-file?lite=true"
         }
       },
       {
@@ -773,35 +775,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538788792785,
+        "created_time": 1539842728271,
         "format": {
-          "block_height": 373,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog_syslog.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-log-syslog?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "f09c9c18-0f20-4345-a3d9-f37c0c575821",
+        "id": "b3a1077f-1e90-409d-9304-8fd760694db5",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538788800222,
+        "last_edited_time": 1539842730622,
         "parent_id": "f7fca201-1c37-48a1-9e3b-8d66235cbe59",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog_syslog.go"
+              "https://repl.it/@kjk1/gobook-log-syslog"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog_syslog.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-log-syslog",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 373,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0280-logging%2Flog_syslog.go"
+          "display_source": "https://repl.it/@kjk1/gobook-log-syslog?lite=true"
         }
       },
       {

@@ -10,7 +10,7 @@
       "20deabf9-8fbc-4b4c-b1be-bb6dcb509307",
       "5697a8e6-7f6d-4084-adba-0e479aa2903b",
       "a8e81228-2acf-4649-8ab2-a7e4d5b9382c",
-      "cd4fb1bc-4350-4475-99b0-46946d9fa79b",
+      "4945603b-be70-4a97-becf-8782479ac074",
       "5d07ffdd-3413-4674-b73e-a07b39285fd4",
       "4699e70a-c8e6-4903-a0c2-cac069f0f795",
       "65b6a74e-2c46-4fe6-822f-ea3a97784717",
@@ -32,7 +32,7 @@
     "id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538798482255,
+    "last_edited_time": 1539852167813,
     "parent_id": "b58d1314-5f92-4c11-afcf-00aa10d71364",
     "parent_table": "block",
     "properties": {
@@ -43,7 +43,7 @@
       ]
     },
     "type": "page",
-    "version": 35,
+    "version": 42,
     "content_resolved": [
       {
         "alive": true,
@@ -208,35 +208,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538798476802,
+        "created_time": 1539852162327,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0400-context%2Fcontext_with_value.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-context-with-value?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "cd4fb1bc-4350-4475-99b0-46946d9fa79b",
+        "id": "4945603b-be70-4a97-becf-8782479ac074",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538798478734,
+        "last_edited_time": 1539852164724,
         "parent_id": "62c2445b-cc02-47b9-b742-9ff7495a7d26",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0400-context%2Fcontext_with_value.go"
+              "https://repl.it/@kjk1/gobook-context-with-value"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0400-context%2Fcontext_with_value.go",
+        "source": "https://repl.it/@kjk1/gobook-context-with-value",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0400-context%2Fcontext_with_value.go"
+          "display_source": "https://repl.it/@kjk1/gobook-context-with-value?lite=true"
         }
       },
       {

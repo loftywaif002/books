@@ -6,7 +6,7 @@
       "038d4afd-221c-45d9-8741-7241055ee227",
       "36ed2d7f-3324-4ee3-a6ef-ad5c88c828e3",
       "46a38232-d2b4-40fd-9d24-b091cc015f18",
-      "e8a01e7f-4914-476b-9bac-8c0a4949a233",
+      "1f93cd50-61b9-45e7-be9a-bc5b4365388b",
       "577ab51a-51fc-4f67-a915-22defa5e2210"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -18,7 +18,7 @@
     "id": "49ade771-9cac-4acb-8692-826c2f72f155",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538797429469,
+    "last_edited_time": 1539851306456,
     "parent_id": "cabbd741-52a7-4e29-8be4-afcd41ed10b2",
     "parent_table": "block",
     "properties": {
@@ -29,7 +29,7 @@
       ]
     },
     "type": "page",
-    "version": 28,
+    "version": 35,
     "content_resolved": [
       {
         "alive": true,
@@ -149,35 +149,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538797425809,
+        "created_time": 1539851301772,
         "format": {
-          "block_height": 590,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fmethods_as_data.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-template-methods-as-data?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "e8a01e7f-4914-476b-9bac-8c0a4949a233",
+        "id": "1f93cd50-61b9-45e7-be9a-bc5b4365388b",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538797432565,
+        "last_edited_time": 1539851303520,
         "parent_id": "49ade771-9cac-4acb-8692-826c2f72f155",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fmethods_as_data.go"
+              "https://repl.it/@kjk1/gobook-template-methods-as-data"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fmethods_as_data.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-template-methods-as-data",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 590,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0380-text-html-templates%2Fmethods_as_data.go"
+          "display_source": "https://repl.it/@kjk1/gobook-template-methods-as-data?lite=true"
         }
       },
       {

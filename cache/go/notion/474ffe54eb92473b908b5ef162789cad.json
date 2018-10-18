@@ -14,9 +14,7 @@
       "104583a5-5bcf-493b-bb44-4256c616c670",
       "562b8349-d5bc-4e36-ae4f-e7267adbe871",
       "2e2ce789-1336-42d3-8dc0-4dde39ba1f19",
-      "d98f87e8-7f93-4c89-9d25-cb670161eefa",
-      "61aa7286-f485-4961-95c4-bdfcc9ef3faa",
-      "24d9de50-a3a3-445d-adb8-6667fcc2f534",
+      "00d6c79a-fe95-4553-9240-89526b05945e",
       "579dd2bc-ba5e-48cc-8d70-179de9866309",
       "ab7f9d8c-28e9-4e91-998b-692c33f233c8",
       "f8e314b4-bf75-4965-9c6d-587df18e0926",
@@ -35,7 +33,7 @@
     "id": "474ffe54-eb92-473b-908b-5ef162789cad",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1539246336959,
+    "last_edited_time": 1539852608067,
     "parent_id": "301bb328-156d-4206-94eb-f5489d2cb744",
     "parent_table": "block",
     "properties": {
@@ -46,7 +44,7 @@
       ]
     },
     "type": "page",
-    "version": 164,
+    "version": 171,
     "content_resolved": [
       {
         "alive": true,
@@ -282,7 +280,7 @@
         "created_time": 1539240506537,
         "id": "2e2ce789-1336-42d3-8dc0-4dde39ba1f19",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1539245418763,
+        "last_edited_time": 1539852608067,
         "parent_id": "474ffe54-eb92-473b-908b-5ef162789cad",
         "parent_table": "block",
         "properties": {
@@ -293,7 +291,7 @@
           ]
         },
         "type": "text",
-        "version": 854,
+        "version": 856,
         "inline_content": [
           {
             "Text": "To support humans we need to derive AES key from a human password. This is harder than it looks so you should use one of the methods that are well researched and considered cryptographically secure. One of those methods is scrypt key derivation function."
@@ -303,60 +301,37 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1539245419120,
-        "id": "d98f87e8-7f93-4c89-9d25-cb670161eefa",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1539245419139,
-        "parent_id": "474ffe54-eb92-473b-908b-5ef162789cad",
-        "parent_table": "block",
-        "type": "text",
-        "version": 6
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1539245291684,
+        "created_time": 1539852597345,
         "format": {
-          "block_height": 320,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0590-cryptography%2Fencrypt_decrypt.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-cryptography-encrypt-decrypt?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "61aa7286-f485-4961-95c4-bdfcc9ef3faa",
+        "id": "00d6c79a-fe95-4553-9240-89526b05945e",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1539245294243,
+        "last_edited_time": 1539852599362,
         "parent_id": "474ffe54-eb92-473b-908b-5ef162789cad",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0590-cryptography%2Fencrypt_decrypt.go"
+              "https://repl.it/@kjk1/gobook-cryptography-encrypt-decrypt"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0590-cryptography%2Fencrypt_decrypt.go",
+        "source": "https://repl.it/@kjk1/gobook-cryptography-encrypt-decrypt",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0590-cryptography%2Fencrypt_decrypt.go"
+          "display_source": "https://repl.it/@kjk1/gobook-cryptography-encrypt-decrypt?lite=true"
         }
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1539245343755,
-        "id": "24d9de50-a3a3-445d-adb8-6667fcc2f534",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1539245343755,
-        "parent_id": "474ffe54-eb92-473b-908b-5ef162789cad",
-        "parent_table": "block",
-        "type": "text",
-        "version": 4
       },
       {
         "alive": true,

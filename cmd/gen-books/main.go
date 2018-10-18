@@ -29,6 +29,7 @@ var (
 	flgUpdateOutput   bool
 	flgRedownloadReplit bool
 	flgRedownloadOne string
+	flgRedownloadOneReplit string
 
 	soUserIDToNameMap map[int]string
 	googleAnalytics   template.HTML
@@ -56,6 +57,8 @@ func parseFlags() {
 	flag.BoolVar(&flgNoCache, "no-cache", false, "if true, disables cache for notion")
 	flag.StringVar(&flgRedownloadOne, "redownload-one", "", "notion id of a page to re-download")
 	flag.BoolVar(&flgRedownloadReplit, "redownload-replit", false, "if true, redownloads replits")
+	flag.StringVar(&flgRedownloadOneReplit, "redownload-one-replit", "", "replit url and book to download")
+
 	flag.Parse()
 
 	if flgAnalytics != "" {
@@ -240,8 +243,59 @@ func findBookFromCachedPageID(id string) *Book {
 	return nil
 }
 
+func isReplitURL(uri string) bool {
+	return strings.Contains(uri, "repl.it/")
+}
+
+func findBookByName(bookName string) *Book {
+	for _, book := range books {
+		if bookName == book.Dir {
+			return book
+		}
+	}
+	return nil
+}
+
+func redownloadOneReplit() {
+	if len(flag.Args()) != 1 {
+		fmt.Printf("-redownload-one-replit expects 2 arguments: book and replit url\n")
+		os.Exit(1)
+	}
+	uri := flgRedownloadOneReplit
+	bookName := flag.Args()[0]
+	if !isReplitURL(uri) {
+		panicIf(!isReplitURL(bookName), "neither '%s' nor '%s' look like repl.it url", uri, bookName)
+		uri, bookName = bookName, uri
+	}
+	book := findBookByName(bookName)
+	panicIf(book == nil, "'%s' is not a valid book name", bookName)
+	initBook(book)
+	_, isNew, err := downloadAndCacheReplit(book.replitCache, uri)
+	panicIfErr(err)
+	fmt.Printf("genReplitEmbed: downloaded %s,  isNew: %v\n", uri+".zip", isNew)
+}
+
+func initBook(book *Book) {
+	var err error
+	book.titleSafe = common.MakeURLSafe(book.Title)
+
+	createDirMust(book.OutputCacheDir())
+	createDirMust(book.NotionCacheDir())
+
+	reloadCachedOutputFilesMust(book)
+	path := filepath.Join(book.OutputCacheDir(), "sha1_to_go_playground_id.txt")
+	book.sha1ToGoPlaygroundCache = readSha1ToGoPlaygroundCache(path)
+	book.replitCache, err = LoadReplitCache(book.ReplitCachePath())
+	panicIfErr(err)
+}
+
 func main() {
 	parseFlags()
+
+	if flgRedownloadOneReplit != "" {
+		redownloadOneReplit()
+		os.Exit(0)
+	}
 
 	if false {
 		// only needs to be run when we add new covers
@@ -280,19 +334,8 @@ func main() {
 		}
 	}
 
-	var err error
 	for _, book := range books {
-		book.titleSafe = common.MakeURLSafe(book.Title)
-
-		createDirMust(book.OutputCacheDir())
-		createDirMust(book.NotionCacheDir())
-
-		reloadCachedOutputFilesMust(book)
-		path := filepath.Join(book.OutputCacheDir(), "sha1_to_go_playground_id.txt")
-		book.sha1ToGoPlaygroundCache = readSha1ToGoPlaygroundCache(path)
-		book.replitCache, err = LoadReplitCache(book.ReplitCachePath())
-		panicIfErr(err)
-
+		initBook(book)
 		downloadBook(client, book)
 		loadSoContributorsMust(book)
 	}

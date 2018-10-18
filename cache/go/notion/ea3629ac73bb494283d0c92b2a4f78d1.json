@@ -8,7 +8,7 @@
       "1ce2a023-5e9c-4023-becd-082ec524972c",
       "ba2a1595-f1d7-4790-abbd-186a42f63a50",
       "0e9f10fb-0aae-47c4-8ed6-ced9c40ea868",
-      "be8bf081-a304-4131-b616-b53b76d5c957",
+      "40fa3399-4642-4ab7-9707-0a6ebe8e5d6f",
       "91617071-e664-403d-a2a7-e762b0d3a464",
       "a6c73005-440c-4dee-9bf2-1b8414dea84e",
       "7d2c90f0-c334-4ff4-9f75-fb4a5a1b9657",
@@ -27,7 +27,7 @@
     "id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538786275548,
+    "last_edited_time": 1539838632347,
     "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
     "parent_table": "block",
     "properties": {
@@ -38,7 +38,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -215,35 +215,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538786270251,
+        "created_time": 1539838626249,
         "format": {
-          "block_height": 486,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Fwaiting_for_goroutines.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-concurrency-wait-goroutine-finish?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "be8bf081-a304-4131-b616-b53b76d5c957",
+        "id": "40fa3399-4642-4ab7-9707-0a6ebe8e5d6f",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786279246,
+        "last_edited_time": 1539838627930,
         "parent_id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Fwaiting_for_goroutines.go"
+              "https://repl.it/@kjk1/gobook-concurrency-wait-goroutine-finish"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Fwaiting_for_goroutines.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-concurrency-wait-goroutine-finish",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 486,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Fwaiting_for_goroutines.go"
+          "display_source": "https://repl.it/@kjk1/gobook-concurrency-wait-goroutine-finish?lite=true"
         }
       },
       {

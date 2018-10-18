@@ -10,8 +10,7 @@
       "71941809-7ab3-4209-97b6-b6eec6d7b1a5",
       "455e232b-6b01-40d0-9f65-5269cf695638",
       "765f586e-aea2-41a0-bb8f-f3ea4b8ceca1",
-      "924e7f5d-264c-4aee-8f79-33ae199fc159",
-      "d849e832-e49f-453f-84d4-cd2550cd7604",
+      "874fba0a-e9ed-4d3e-bc1c-838130edc63e",
       "e482d6b6-2773-44f5-8d7c-c13f6ad5b3bc",
       "3532030f-4001-46a8-ab2e-3bddff3b612a",
       "43910ec0-fdd2-453c-88ce-0143bbd98b07",
@@ -22,7 +21,7 @@
       "aca42c58-f30e-47dc-ade8-5456b7d4472e",
       "98f9a2ab-91b4-486c-b28e-f315fd515dd8",
       "27caa52a-cb5f-479e-b975-3d59cbf50e84",
-      "49e4fddf-ba17-40d7-ba0f-986b74b4ed17",
+      "367ae321-45a5-4c29-a2a3-4cab6011e72f",
       "82e5dda9-853f-4f67-8cec-d8fa9396f434",
       "df2af867-fe45-4cd5-ae95-9f48fc222d3b",
       "2b7d689e-8660-475d-b415-eb1fc39e98b3",
@@ -43,7 +42,7 @@
     "id": "abb984fe-c0d0-4d74-b2d4-94ed3206d1bc",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538796663213,
+    "last_edited_time": 1539848231834,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -54,7 +53,7 @@
       ]
     },
     "type": "page",
-    "version": 38,
+    "version": 57,
     "content_resolved": [
       {
         "alive": true,
@@ -243,48 +242,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532156124242,
-        "id": "924e7f5d-264c-4aee-8f79-33ae199fc159",
-        "ignore_block_count": true,
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538796636494,
-        "parent_id": "abb984fe-c0d0-4d74-b2d4-94ed3206d1bc",
-        "parent_table": "block",
-        "type": "text",
-        "version": 3
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538796624013,
+        "created_time": 1539848185461,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0330-cvs%2Fread_csv.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-csv-read?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "d849e832-e49f-453f-84d4-cd2550cd7604",
+        "id": "874fba0a-e9ed-4d3e-bc1c-838130edc63e",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538796627290,
+        "last_edited_time": 1539848186913,
         "parent_id": "abb984fe-c0d0-4d74-b2d4-94ed3206d1bc",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0330-cvs%2Fread_csv.go"
+              "https://repl.it/@kjk1/gobook-csv-read"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0330-cvs%2Fread_csv.go",
+        "source": "https://repl.it/@kjk1/gobook-csv-read",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0330-cvs%2Fread_csv.go"
+          "display_source": "https://repl.it/@kjk1/gobook-csv-read?lite=true"
         }
       },
       {
@@ -662,35 +649,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538796658894,
+        "created_time": 1539848226578,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0330-cvs%2Fwrite_csv.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-csv-write?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "49e4fddf-ba17-40d7-ba0f-986b74b4ed17",
+        "id": "367ae321-45a5-4c29-a2a3-4cab6011e72f",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538796661216,
+        "last_edited_time": 1539848227996,
         "parent_id": "abb984fe-c0d0-4d74-b2d4-94ed3206d1bc",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0330-cvs%2Fwrite_csv.go"
+              "https://repl.it/@kjk1/gobook-csv-write"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0330-cvs%2Fwrite_csv.go",
+        "source": "https://repl.it/@kjk1/gobook-csv-write",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0330-cvs%2Fwrite_csv.go"
+          "display_source": "https://repl.it/@kjk1/gobook-csv-write?lite=true"
         }
       },
       {

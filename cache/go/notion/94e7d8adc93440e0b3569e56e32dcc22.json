@@ -8,7 +8,7 @@
       "c2bac9ed-feb8-4660-aeda-dc2309418718",
       "c29c75ba-8f93-4d40-bfbc-4d862fef28ed",
       "185be217-ffd4-49b9-91a8-1dbd5404a4ae",
-      "191ed323-f334-4164-b2e3-43b0c33fd7bc",
+      "f720498e-7494-4dc7-889f-9b51a15781b1",
       "1c5168c6-7e45-46d8-b101-a232105b9895"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -20,7 +20,7 @@
     "id": "94e7d8ad-c934-40e0-b356-9e56e32dcc22",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538798142814,
+    "last_edited_time": 1539851805835,
     "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
     "parent_table": "block",
     "properties": {
@@ -31,7 +31,7 @@
       ]
     },
     "type": "page",
-    "version": 28,
+    "version": 35,
     "content_resolved": [
       {
         "alive": true,
@@ -182,35 +182,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538798139724,
+        "created_time": 1539851801098,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fpointers.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-reflection-pointers?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "191ed323-f334-4164-b2e3-43b0c33fd7bc",
+        "id": "f720498e-7494-4dc7-889f-9b51a15781b1",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538798141222,
+        "last_edited_time": 1539851803108,
         "parent_id": "94e7d8ad-c934-40e0-b356-9e56e32dcc22",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fpointers.go"
+              "https://repl.it/@kjk1/gobook-reflection-pointers"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fpointers.go",
+        "source": "https://repl.it/@kjk1/gobook-reflection-pointers",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fpointers.go"
+          "display_source": "https://repl.it/@kjk1/gobook-reflection-pointers?lite=true"
         }
       },
       {

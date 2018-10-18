@@ -11,7 +11,7 @@
       "2517df36-968d-4cba-b8b4-68a68bcd84b1",
       "9790f4a0-6fd1-48f5-86f7-ebbc54f1426a",
       "14a4f1b7-29ad-47ba-bb05-d10c6213be85",
-      "a6dde1c8-0838-4b25-a071-1dd3912dfd05"
+      "e7e9eaf8-4b77-4aec-a366-8fcb9cdf469d"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156075140,
@@ -22,7 +22,7 @@
     "id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538786904948,
+    "last_edited_time": 1539839942609,
     "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
     "parent_table": "block",
     "properties": {
@@ -33,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 33,
+    "version": 40,
     "content_resolved": [
       {
         "alive": true,
@@ -276,35 +276,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538786901117,
+        "created_time": 1539839937184,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Frwlock.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-rwmutex?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "a6dde1c8-0838-4b25-a071-1dd3912dfd05",
+        "id": "e7e9eaf8-4b77-4aec-a366-8fcb9cdf469d",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786903286,
+        "last_edited_time": 1539839939186,
         "parent_id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Frwlock.go"
+              "https://repl.it/@kjk1/gobook-rwmutex"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Frwlock.go",
+        "source": "https://repl.it/@kjk1/gobook-rwmutex",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Frwlock.go"
+          "display_source": "https://repl.it/@kjk1/gobook-rwmutex?lite=true"
         }
       }
     ],

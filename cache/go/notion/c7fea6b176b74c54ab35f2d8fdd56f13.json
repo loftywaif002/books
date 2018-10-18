@@ -16,7 +16,7 @@
       "9dc2ef82-ffed-4d61-9792-66f6c9dc763a",
       "7ef0c358-705b-4eb6-abc8-396b57813b93",
       "b2648f58-c981-436d-b489-52f07de7610f",
-      "a3da4684-cca0-400c-85d8-45707befa8bb",
+      "e9346131-89e6-491f-9d8b-7f8ed735e4f2",
       "c218267d-2238-4008-9702-8ebbe14652bf",
       "634d211a-fd6a-45eb-b67a-c9a935f69e21",
       "2738416a-0c80-4049-96cf-7196aaea4d79",
@@ -39,7 +39,7 @@
     "id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538798060433,
+    "last_edited_time": 1539852014321,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -50,7 +50,7 @@
       ]
     },
     "type": "page",
-    "version": 43,
+    "version": 50,
     "content_resolved": [
       {
         "alive": true,
@@ -498,35 +498,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538798057935,
+        "created_time": 1539852006931,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fbasic_reflect.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-reflection-basics?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "a3da4684-cca0-400c-85d8-45707befa8bb",
+        "id": "e9346131-89e6-491f-9d8b-7f8ed735e4f2",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538798059300,
+        "last_edited_time": 1539852008786,
         "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fbasic_reflect.go"
+              "https://repl.it/@kjk1/gobook-reflection-basics"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fbasic_reflect.go",
+        "source": "https://repl.it/@kjk1/gobook-reflection-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0390-reflection%2Fbasic_reflect.go"
+          "display_source": "https://repl.it/@kjk1/gobook-reflection-basics?lite=true"
         }
       },
       {
@@ -786,7 +787,7 @@
         "id": "fb02383e-7719-45cf-a227-c82fa10d799b",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538798122157,
+        "last_edited_time": 1539851964493,
         "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
         "parent_table": "block",
         "properties": {
@@ -797,7 +798,7 @@
           ]
         },
         "type": "page",
-        "version": 42,
+        "version": 63,
         "title": "Primitive types",
         "format_page": {
           "page_cover": "",
@@ -819,7 +820,7 @@
         "id": "94e7d8ad-c934-40e0-b356-9e56e32dcc22",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538798142814,
+        "last_edited_time": 1539851805835,
         "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
         "parent_table": "block",
         "properties": {
@@ -830,7 +831,7 @@
           ]
         },
         "type": "page",
-        "version": 28,
+        "version": 35,
         "title": "Pointers",
         "format_page": {
           "page_cover": "",
@@ -852,7 +853,7 @@
         "id": "7a0afb44-b154-4a41-9f35-1a0d3c0ba719",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538798182180,
+        "last_edited_time": 1539851710119,
         "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
         "parent_table": "block",
         "properties": {
@@ -863,7 +864,7 @@
           ]
         },
         "type": "page",
-        "version": 33,
+        "version": 47,
         "title": "Structs",
         "format_page": {
           "page_cover": "",
@@ -885,7 +886,7 @@
         "id": "212a6742-4138-4507-84f5-5939f26353ee",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538798247984,
+        "last_edited_time": 1539851592031,
         "parent_id": "c7fea6b1-76b7-4c54-ab35-f2d8fdd56f13",
         "parent_table": "block",
         "properties": {
@@ -896,7 +897,7 @@
           ]
         },
         "type": "page",
-        "version": 33,
+        "version": 47,
         "title": "Slice",
         "format_page": {
           "page_cover": "",

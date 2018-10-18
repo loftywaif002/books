@@ -183,13 +183,13 @@
         "id": "dd1b9fce-7b51-4286-a6cd-33d5b9e2a6d1",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156172224,
+        "last_edited_time": 1539852232209,
         "parent_id": "b38ce08d-e885-4df4-b059-01a41c6c2d2d",
         "parent_table": "block",
         "properties": {
           "language": [
             [
-              "Plain Text"
+              "Go"
             ]
           ],
           "title": [
@@ -199,9 +199,9 @@
           ]
         },
         "type": "code",
-        "version": 1,
+        "version": 3,
         "code": "ctx := context.WithValue(\n    context.WithDeadline(\n        context.WithValue(context.Background(), sidKey, sid),\n        time.Now().Add(30 * time.Minute),\n    ),\n    ridKey, rid,\n)\ntrCtx := trace.NewContext(ctx, tr)\nlogCtx := myRequestLogging.NewContext(ctx, myRequestLogging.NewLogger())",
-        "code_language": "Plain Text"
+        "code_language": "Go"
       },
       {
         "alive": true,

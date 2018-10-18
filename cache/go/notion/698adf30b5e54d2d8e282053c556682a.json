@@ -11,10 +11,8 @@
       "30ba593a-b1d1-4ac1-958f-bcc51e705371",
       "ff29d8e6-da42-4aad-899b-7339cde54122",
       "10d68653-d22b-450e-a3bd-9e8c379064a8",
-      "a09caee7-930a-4676-b6ae-2d5264ac9167",
-      "578d4ea1-503c-4264-95e6-6d5645212945",
-      "706606a9-79c4-4db4-9662-206c4c9da4e8",
-      "6746e2e0-7396-41ab-b63a-eb8d68e0c00d"
+      "63df712f-4ac1-4703-b35f-69094b084f1c",
+      "a09caee7-930a-4676-b6ae-2d5264ac9167"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532156234149,
@@ -25,7 +23,7 @@
     "id": "698adf30-b5e5-4d2d-8e28-2053c556682a",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1539497567364,
+    "last_edited_time": 1539852453618,
     "parent_id": "7ccfe169-7c31-49c3-83b6-8894ede37d84",
     "parent_table": "block",
     "properties": {
@@ -36,7 +34,7 @@
       ]
     },
     "type": "page",
-    "version": 74,
+    "version": 92,
     "content_resolved": [
       {
         "alive": true,
@@ -221,6 +219,41 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1539852426966,
+        "format": {
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-oo-interface-polymorhism?lite=true",
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_preserve_scale": false
+        },
+        "id": "63df712f-4ac1-4703-b35f-69094b084f1c",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1539852428534,
+        "parent_id": "698adf30-b5e5-4d2d-8e28-2053c556682a",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://repl.it/@kjk1/gobook-oo-interface-polymorhism"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-oo-interface-polymorhism",
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 600,
+          "block_page_width": false,
+          "block_preserve_scale": false,
+          "display_source": "https://repl.it/@kjk1/gobook-oo-interface-polymorhism?lite=true"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
         "created_time": 1539454679676,
         "id": "a09caee7-930a-4676-b6ae-2d5264ac9167",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -229,64 +262,6 @@
         "parent_table": "block",
         "type": "text",
         "version": 6
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1539468624398,
-        "format": {
-          "block_height": 320,
-          "display_source": "http://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0520-object-oriented-programming%2Finterface_polymorphism.go",
-          "block_full_width": false,
-          "block_page_width": true,
-          "block_preserve_scale": false
-        },
-        "id": "578d4ea1-503c-4264-95e6-6d5645212945",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1539468624398,
-        "parent_id": "698adf30-b5e5-4d2d-8e28-2053c556682a",
-        "parent_table": "block",
-        "properties": {
-          "source": [
-            [
-              "http://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0520-object-oriented-programming%2Finterface_polymorphism.go"
-            ]
-          ]
-        },
-        "type": "embed",
-        "version": 14,
-        "source": "http://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0520-object-oriented-programming%2Finterface_polymorphism.go",
-        "format_embed": {
-          "block_full_width": false,
-          "block_height": 320,
-          "block_page_width": true,
-          "block_preserve_scale": false,
-          "display_source": "http://onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0520-object-oriented-programming%2Finterface_polymorphism.go"
-        }
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1539454676574,
-        "id": "706606a9-79c4-4db4-9662-206c4c9da4e8",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1539454676574,
-        "parent_id": "698adf30-b5e5-4d2d-8e28-2053c556682a",
-        "parent_table": "block",
-        "type": "text",
-        "version": 4
-      },
-      {
-        "alive": true,
-        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1539468553679,
-        "id": "6746e2e0-7396-41ab-b63a-eb8d68e0c00d",
-        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1539468553679,
-        "parent_id": "698adf30-b5e5-4d2d-8e28-2053c556682a",
-        "parent_table": "block",
-        "type": "text",
-        "version": 4
       }
     ],
     "title": "Interface \u0026 polymorphism",

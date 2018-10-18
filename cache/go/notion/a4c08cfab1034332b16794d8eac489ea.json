@@ -12,7 +12,7 @@
       "dc3e4797-a6cd-459e-9952-9f28871ce3bb",
       "ed2f365b-6d01-43c2-bb36-f1df61c47355",
       "44613cb0-dbdc-47e9-90d2-50730662546a",
-      "32bc806e-2ca2-489f-b6d5-3d32391bab6e",
+      "afb5da88-72d7-45cd-8094-618062938dbe",
       "2e7bb967-7a04-4be2-83ec-3fac1acac7ac",
       "faa2516d-80c3-4f7d-9c7f-a90b3fd09827",
       "0dbf234b-e2b3-4a82-9fb1-fa807c57ff67",
@@ -28,7 +28,7 @@
     "id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538786932059,
+    "last_edited_time": 1539839786597,
     "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
     "parent_table": "block",
     "properties": {
@@ -39,7 +39,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -343,35 +343,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538786928610,
+        "created_time": 1539839772612,
         "format": {
-          "block_height": 618.9861450195312,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Fdata_race.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-mutex-data-race?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "32bc806e-2ca2-489f-b6d5-3d32391bab6e",
+        "id": "afb5da88-72d7-45cd-8094-618062938dbe",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786943427,
+        "last_edited_time": 1539839774271,
         "parent_id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Fdata_race.go"
+              "https://repl.it/@kjk1/gobook-mutex-data-race"
             ]
           ]
         },
         "type": "embed",
-        "version": 12,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Fdata_race.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-mutex-data-race",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 618.9861450195312,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Fdata_race.go"
+          "display_source": "https://repl.it/@kjk1/gobook-mutex-data-race?lite=true"
         }
       },
       {

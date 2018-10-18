@@ -274,10 +274,22 @@ func (g *HTMLGenerator) genReplitEmbed(block *notionapi.Block) {
 	g.genSourceFile(f)
 }
 
+func pickReplitFile(files []*ReplitFile) *ReplitFile {
+	if len(files) == 1 {
+		return files[0]
+	}
+	// TODO: ad-hoc heuristics
+	for _, rf := range files {
+		if strings.HasSuffix(rf.name, ".go") {
+			return rf
+		}
+	}
+	return files[0]
+}
+
 func getSourceFileFromReplit(b *Book, replit *Replit) (*SourceFile, error) {
 	f := &SourceFile{}
-	panicIf(len(replit.files) != 1, "for now only supports 1 file, have: %d", len(replit.files))
-	rf := replit.files[0]
+	rf := pickReplitFile(replit.files)
 	f.Lang = getLangFromFileExt(rf.name)
 	err := setSourceFileData(f, []byte(rf.data))
 	err = getOutputCachedForReplit(b, replit, f)

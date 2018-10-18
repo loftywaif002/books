@@ -12,7 +12,7 @@
       "4095ec13-624f-4a0d-a24a-24a1ca0fb017",
       "67b8cb86-256a-4ec5-a4c9-7ada254ce2c9",
       "555a469f-b333-440a-a4b8-d208bbaf3a3b",
-      "7a75e233-d973-4f53-a4ad-16bff54a71b9",
+      "072f1466-5987-4470-8693-f9689f9068e1",
       "e84620a4-8e5d-4676-9437-63f578bd0914",
       "650fd275-6c63-4276-a174-1e548c31a318",
       "2ca1efbf-f19d-4953-9d09-2f513fca0027",
@@ -32,7 +32,7 @@
     "id": "41f795bf-701d-4784-b319-7349cdb8f2de",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538786878956,
+    "last_edited_time": 1539840017175,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -43,7 +43,7 @@
       ]
     },
     "type": "page",
-    "version": 48,
+    "version": 55,
     "content_resolved": [
       {
         "alive": true,
@@ -288,35 +288,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538786875557,
+        "created_time": 1539840012742,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Findex.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-mutex-basics?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "7a75e233-d973-4f53-a4ad-16bff54a71b9",
+        "id": "072f1466-5987-4470-8693-f9689f9068e1",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786877372,
+        "last_edited_time": 1539840014185,
         "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Findex.go"
+              "https://repl.it/@kjk1/gobook-mutex-basics"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Findex.go",
+        "source": "https://repl.it/@kjk1/gobook-mutex-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0230-mutex%2Findex.go"
+          "display_source": "https://repl.it/@kjk1/gobook-mutex-basics?lite=true"
         }
       },
       {
@@ -326,13 +327,13 @@
         "id": "e84620a4-8e5d-4676-9437-63f578bd0914",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532156074117,
+        "last_edited_time": 1539839666064,
         "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Zero-value of "
+              "Zero value of "
             ],
             [
               "sync.Mutex",
@@ -348,10 +349,10 @@
           ]
         },
         "type": "text",
-        "version": 1,
+        "version": 5,
         "inline_content": [
           {
-            "Text": "Zero-value of "
+            "Text": "Zero value of "
           },
           {
             "Text": "sync.Mutex",
@@ -557,7 +558,7 @@
         "id": "8ed13400-9e37-49bf-b907-582446cb6ca2",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786904948,
+        "last_edited_time": 1539839942609,
         "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
         "parent_table": "block",
         "properties": {
@@ -568,7 +569,7 @@
           ]
         },
         "type": "page",
-        "version": 33,
+        "version": 40,
         "title": "Read-Write mutes (RWMutex)",
         "format_page": {
           "page_cover": "",
@@ -590,7 +591,7 @@
         "id": "1c780581-00ed-4b45-aab9-461f69c05ecd",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1532236669003,
+        "last_edited_time": 1539839823673,
         "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
         "parent_table": "block",
         "properties": {
@@ -601,7 +602,7 @@
           ]
         },
         "type": "page",
-        "version": 23,
+        "version": 25,
         "title": "Mutex gotchas",
         "format_page": {
           "page_cover": "",
@@ -623,7 +624,7 @@
         "id": "a4c08cfa-b103-4332-b167-94d8eac489ea",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786932059,
+        "last_edited_time": 1539839786597,
         "parent_id": "41f795bf-701d-4784-b319-7349cdb8f2de",
         "parent_table": "block",
         "properties": {
@@ -634,7 +635,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "Detecting races",
         "format_page": {
           "page_cover": "",

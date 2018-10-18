@@ -11,7 +11,7 @@
       "1d623619-a48f-4061-9b49-de3c70899a15",
       "b8e4e074-cfe4-48cc-9032-80f44eca96f1",
       "3f2ee4c4-6a5a-4c12-adf0-99d287576740",
-      "500c02c6-a81a-4455-8303-210abb88b7b0",
+      "2dc3d0da-5d55-4eb8-be88-0737c1fe4903",
       "038aabcf-01b6-476a-bb7e-f908dfab5a26",
       "826f45e7-b574-492d-8b67-9ef5612b2bc9",
       "f83208a0-c766-4da8-8787-d9c75d249ae6",
@@ -49,7 +49,7 @@
     "id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538786190129,
+    "last_edited_time": 1539852772968,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -60,7 +60,7 @@
       ]
     },
     "type": "page",
-    "version": 37,
+    "version": 44,
     "content_resolved": [
       {
         "alive": true,
@@ -250,35 +250,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538786185343,
+        "created_time": 1539852768242,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Findex.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-concurrency-basics?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "500c02c6-a81a-4455-8303-210abb88b7b0",
+        "id": "2dc3d0da-5d55-4eb8-be88-0737c1fe4903",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786187337,
+        "last_edited_time": 1539852769567,
         "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Findex.go"
+              "https://repl.it/@kjk1/gobook-concurrency-basics"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Findex.go",
+        "source": "https://repl.it/@kjk1/gobook-concurrency-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0210-concurrency%2Findex.go"
+          "display_source": "https://repl.it/@kjk1/gobook-concurrency-basics?lite=true"
         }
       },
       {
@@ -1245,7 +1246,7 @@
         "id": "cf850520-3a65-4dce-af24-371d978fbed5",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786227349,
+        "last_edited_time": 1539838731230,
         "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
         "parent_table": "block",
         "properties": {
@@ -1256,7 +1257,7 @@
           ]
         },
         "type": "page",
-        "version": 32,
+        "version": 39,
         "title": "Hello World goroutine",
         "format_page": {
           "page_cover": "",
@@ -1278,7 +1279,7 @@
         "id": "1bd528bb-f5dc-4155-9460-b2f9a11d6164",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786248092,
+        "last_edited_time": 1539838686410,
         "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
         "parent_table": "block",
         "properties": {
@@ -1289,7 +1290,7 @@
           ]
         },
         "type": "page",
-        "version": 32,
+        "version": 39,
         "title": "Create goroutines",
         "format_page": {
           "page_cover": "",
@@ -1311,7 +1312,7 @@
         "id": "ea3629ac-73bb-4942-83d0-c92b2a4f78d1",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786275548,
+        "last_edited_time": 1539838632347,
         "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
         "parent_table": "block",
         "properties": {
@@ -1322,7 +1323,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "Wait for goroutines to finish",
         "format_page": {
           "page_cover": "",
@@ -1344,7 +1345,7 @@
         "id": "26ac6084-d740-4f73-85e4-eccaa3fd20de",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538786330592,
+        "last_edited_time": 1539838585141,
         "parent_id": "16e8d8c3-d77e-44fa-af68-57a1df368ce8",
         "parent_table": "block",
         "properties": {
@@ -1355,7 +1356,7 @@
           ]
         },
         "type": "page",
-        "version": 36,
+        "version": 43,
         "title": "Limiting concurrency with a semaphore",
         "format_page": {
           "page_cover": "",

@@ -10,7 +10,7 @@
       "4ff4fbf1-2076-444b-beeb-45fa64d56937",
       "cc793962-af47-430c-b887-ef293545626a",
       "ac9bf756-88cb-4271-9ae8-28d25dfea616",
-      "f8b4ea68-2a0a-4ceb-bb71-0b5ee76b2ff3",
+      "893ce016-7aa1-4ea4-9c67-8caf4dba4541",
       "d1a6ed66-dd4b-431e-8404-a84db27e03ed"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
@@ -22,7 +22,7 @@
     "id": "1ad4235b-3181-412e-8169-3d968f399897",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538785963249,
+    "last_edited_time": 1539838447768,
     "parent_id": "dda02e36-8b30-48a5-a69b-81c56bfa6dbb",
     "parent_table": "block",
     "properties": {
@@ -33,7 +33,7 @@
       ]
     },
     "type": "page",
-    "version": 30,
+    "version": 37,
     "content_resolved": [
       {
         "alive": true,
@@ -251,35 +251,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538785958702,
+        "created_time": 1539838442076,
         "format": {
-          "block_height": 338,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0200-panic-and-recover%2Fpanic.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-panic?lite=true",
           "block_full_width": false,
           "block_page_width": true,
           "block_preserve_scale": false
         },
-        "id": "f8b4ea68-2a0a-4ceb-bb71-0b5ee76b2ff3",
+        "id": "893ce016-7aa1-4ea4-9c67-8caf4dba4541",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538785967021,
+        "last_edited_time": 1539838444385,
         "parent_id": "1ad4235b-3181-412e-8169-3d968f399897",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0200-panic-and-recover%2Fpanic.go"
+              "https://repl.it/@kjk1/gobook-panic"
             ]
           ]
         },
         "type": "embed",
-        "version": 10,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0200-panic-and-recover%2Fpanic.go",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-panic",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 338,
+          "block_height": 600,
           "block_page_width": true,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0200-panic-and-recover%2Fpanic.go"
+          "display_source": "https://repl.it/@kjk1/gobook-panic?lite=true"
         }
       },
       {

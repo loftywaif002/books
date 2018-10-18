@@ -10,9 +10,9 @@
       "e0d44f9f-a3b6-48c1-aca5-c9b04ced394c",
       "8db94f0b-2297-49e8-bb86-20792975d53e",
       "9cbe51c0-a63f-4780-9e52-c2c149515c06",
-      "b3707e7e-e49c-44e9-a66b-a5b1a527fd38",
+      "6a72fe7c-b1bc-4254-b977-db0260088e33",
       "583d3e57-7342-49f0-a396-20d8c1d120b1",
-      "4240d5bb-6938-4ae1-a86b-9bb93f249297",
+      "1acce7c8-a317-449d-a61e-df970f98cbac",
       "f0aaab46-1f7b-4339-afd4-263195db4375",
       "94a5e610-6480-4a1a-883d-8d4d204c747a",
       "28c5b67c-ab8e-4e73-afd7-48a7395b49ac",
@@ -30,7 +30,7 @@
     "id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1538788915713,
+    "last_edited_time": 1539843021585,
     "parent_id": "2cab1ed2-b7a4-4584-b56b-0d3ca9b80185",
     "parent_table": "block",
     "properties": {
@@ -41,7 +41,7 @@
       ]
     },
     "type": "page",
-    "version": 41,
+    "version": 55,
     "content_resolved": [
       {
         "alive": true,
@@ -288,35 +288,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538788893825,
+        "created_time": 1539842961646,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Findex.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-exec-basics?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "b3707e7e-e49c-44e9-a66b-a5b1a527fd38",
+        "id": "6a72fe7c-b1bc-4254-b977-db0260088e33",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538788895133,
+        "last_edited_time": 1539842963202,
         "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Findex.go"
+              "https://repl.it/@kjk1/gobook-exec-basics"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Findex.go",
+        "source": "https://repl.it/@kjk1/gobook-exec-basics",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Findex.go"
+          "display_source": "https://repl.it/@kjk1/gobook-exec-basics?lite=true"
         }
       },
       {
@@ -347,35 +348,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538788912764,
+        "created_time": 1539843017136,
         "format": {
-          "block_height": 320,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Findex2.go",
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-exec-basics-2?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "4240d5bb-6938-4ae1-a86b-9bb93f249297",
+        "id": "1acce7c8-a317-449d-a61e-df970f98cbac",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538788914366,
+        "last_edited_time": 1539843018577,
         "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Findex2.go"
+              "https://repl.it/@kjk1/gobook-exec-basics-2"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Findex2.go",
+        "source": "https://repl.it/@kjk1/gobook-exec-basics-2",
         "format_embed": {
           "block_full_width": false,
-          "block_height": 320,
-          "block_page_width": true,
+          "block_height": 600,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://www.onlinetool.io/gitoembed/widget?url=https%3A%2F%2Fgithub.com%2Fessentialbooks%2Fbooks%2Fblob%2Fmaster%2Fbooks%2Fgo%2F0290-executing-commands%2Findex2.go"
+          "display_source": "https://repl.it/@kjk1/gobook-exec-basics-2?lite=true"
         }
       },
       {
@@ -604,7 +606,7 @@
         "id": "0614a462-2a97-440e-b89b-c829d59e8d37",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538788936385,
+        "last_edited_time": 1539842909279,
         "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
         "parent_table": "block",
         "properties": {
@@ -615,7 +617,7 @@
           ]
         },
         "type": "page",
-        "version": 28,
+        "version": 35,
         "title": "Timing out process execution",
         "format_page": {
           "page_cover": "",
@@ -637,7 +639,7 @@
         "id": "4c8b9880-2312-4d78-8137-a8519861ce3e",
         "ignore_block_count": true,
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538788962970,
+        "last_edited_time": 1539842859437,
         "parent_id": "c290f056-6c80-467a-9005-ab3a4024ec1d",
         "parent_table": "block",
         "properties": {
@@ -648,7 +650,7 @@
           ]
         },
         "type": "page",
-        "version": 30,
+        "version": 37,
         "title": "os.Exec gotchas",
         "format_page": {
           "page_cover": "",

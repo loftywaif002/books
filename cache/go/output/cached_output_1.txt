@@ -31,6 +31,15 @@ f64: 8.1234e+00
 'hey' is in greetings
 
 |======|
+03fcce32bdd1fae72d4aa493f061d383259e7f5e:
+Appends needed to re-allocate slice: 1
+Appends needed to re-allocate slice: 1
+Appends needed to re-allocate slice: 1
+Appends needed to re-allocate slice: 2
+Appends needed to re-allocate slice: 4
+Appends needed to re-allocate slice: 8
+
+|======|
 04637ae2dbc73dcffb7a221171289a1569307c6b:
 User kjk has 124 tweets.
 Recent tweets:

@@ -6,6 +6,13 @@
       "0b94b345-c66f-42eb-8717-fa583935210e",
       "0839263b-70e7-4b2c-80fe-2f04a909e058",
       "270ba9f4-fed5-456e-9935-ee1f96682959",
+      "a2ca9f45-4635-49dc-8c5f-0fc28f88ea67",
+      "aecf023c-082f-41d3-8878-6539b34d489d",
+      "4d7fa7cf-7e1b-41ef-95de-24df67b4a2cf",
+      "c2fa66cb-c5af-4878-8432-0fe463f86fe6",
+      "4b25448a-257a-468a-9670-5eea0cb39651",
+      "195c555a-4294-4a14-99fc-c50efc5aa2a0",
+      "3cd895f6-74ee-4371-ad32-0d71a7ca4ab2",
       "5c9d7cb6-8420-4f4b-9861-ed9aa045d99a",
       "91987051-4766-4602-8017-a36700c9d961",
       "c482e95f-73dc-4579-8f6a-e1a1c302c2ac",
@@ -27,7 +34,7 @@
     "id": "8b225356-aaa9-4069-90d2-79868a1cd548",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1532208101368,
+    "last_edited_time": 1540197466983,
     "parent_id": "6744c6d0-d620-448d-be66-e224f64b6f8b",
     "parent_table": "block",
     "properties": {
@@ -38,7 +45,7 @@
       ]
     },
     "type": "page",
-    "version": 19,
+    "version": 38,
     "content_resolved": [
       {
         "alive": true,
@@ -98,6 +105,200 @@
         "inline_content": [
           {
             "Text": "Writing struct definitions that match XML file is tedious."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1540197212811,
+        "id": "a2ca9f45-4635-49dc-8c5f-0fc28f88ea67",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1540197272582,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "There are tools that can generate that definition based on sample XML file."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 256,
+        "inline_content": [
+          {
+            "Text": "There are tools that can generate that definition based on sample XML file."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1540197273558,
+        "id": "aecf023c-082f-41d3-8878-6539b34d489d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1540197350059,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A downside of such approach is that if sample XML doesn't have all the fields, they won't be generated."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 224,
+        "inline_content": [
+          {
+            "Text": "A downside of such approach is that if sample XML doesn't have all the fields, they won't be generated."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1540197350331,
+        "id": "4d7fa7cf-7e1b-41ef-95de-24df67b4a2cf",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1540197359525,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "XML To Go online tool"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 55,
+        "inline_content": [
+          {
+            "Text": "XML To Go online tool"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1540197360411,
+        "id": "c2fa66cb-c5af-4878-8432-0fe463f86fe6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1540197438888,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "XML To Go",
+              [
+                [
+                  "a",
+                  "https://www.onlinetool.io/xmltogo/"
+                ]
+              ]
+            ],
+            [
+              " online tool allows to do it in a web browser. Paste XML sample on the left, get Go struct definition on the right."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 340,
+        "inline_content": [
+          {
+            "Text": "XML To Go",
+            "Link": "https://www.onlinetool.io/xmltogo/"
+          },
+          {
+            "Text": " online tool allows to do it in a web browser. Paste XML sample on the left, get Go struct definition on the right."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1540197462008,
+        "id": "4b25448a-257a-468a-9670-5eea0cb39651",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1540197466703,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zek"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 31,
+        "inline_content": [
+          {
+            "Text": "Zek"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1540197466983,
+        "id": "195c555a-4294-4a14-99fc-c50efc5aa2a0",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1540197523797,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Zek",
+              [
+                [
+                  "a",
+                  "https://github.com/miku/zek"
+                ]
+              ]
+            ],
+            [
+              " is a Go program that reads XML from a file or stdin and prints Go struct definition to stdout."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 252,
+        "inline_content": [
+          {
+            "Text": "Zek",
+            "Link": "https://github.com/miku/zek"
+          },
+          {
+            "Text": " is a Go program that reads XML from a file or stdin and prints Go struct definition to stdout."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1540197439144,
+        "id": "3cd895f6-74ee-4371-ad32-0d71a7ca4ab2",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1540197445465,
+        "parent_id": "8b225356-aaa9-4069-90d2-79868a1cd548",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Chidley"
+            ]
+          ]
+        },
+        "type": "header",
+        "version": 32,
+        "inline_content": [
+          {
+            "Text": "Chidley"
           }
         ]
       },

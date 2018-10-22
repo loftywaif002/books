@@ -321,6 +321,15 @@ cat
 fish
 
 |======|
+14a3b344c2ae52ed412ea296fbc0e04107f47ea1:
+It took 1 appends to re-allocate slice
+It took 1 appends to re-allocate slice
+It took 1 appends to re-allocate slice
+It took 2 appends to re-allocate slice
+It took 4 appends to re-allocate slice
+It took 8 appends to re-allocate slice
+
+|======|
 14c58a06b81ac3bf54644d673f687f2f3ecb5f18:
 5+8=13, 5*8=40
 6+12=18
@@ -1052,6 +1061,10 @@ Score Link
 0 https://stackoverflow.com/q/52675812
 1 https://stackoverflow.com/q/52675727
 1 https://stackoverflow.com/a/52675872
+
+|======|
+4ed15f14f67d77fdb53b5e75b4fc1f48417ac863:
+a: []string{"hello", "world", "now"}
 
 |======|
 4f80881dd406cc5bb680246e1d54624b1f2fbc39:
@@ -1972,6 +1985,10 @@ main.getIntValue(0x10a0360, 0x10d32b0)
 main.main()
 	/books/go/0400-reflection/get_value.go:22 +0x7b
 exit status 2
+
+|======|
+950a1f08068768fb7611df1b51fcbb2f0363a037:
+a: []string{"hello", "world"}
 
 |======|
 950eb09f9979573a476236bbe179c2aaef2858d0:

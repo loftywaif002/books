@@ -5,15 +5,23 @@
     "content": [
       "42f86b54-774e-4e1b-97e6-9c63dfb5d330",
       "e03024ce-9cdd-4a06-93c2-db11c5fda82b",
-      "45c2e566-a6f4-4128-9a28-c00bef3f40f6",
-      "79d1fd80-943d-4b02-b660-616e5c9a6ce5",
+      "5cbb7f1a-1d80-4737-aab9-00e0488de51a",
+      "36d61cb4-8670-4b7b-9bdd-ee7f44acb943",
       "177fc7e3-625d-456f-b9b1-7bfb9fdfd135",
-      "3ca9d214-8375-46bf-a8c8-00002e50e03c",
+      "a32359ac-20b6-49bb-9985-7a7beac9d87a",
       "835f9c62-83e4-4158-af11-e9720a146f08",
-      "44ae1622-7c26-4ec4-8e7f-e0ac7ef0b47e",
+      "a4cb6f29-1e51-475f-8685-758e030ed652",
       "b968fe12-4935-48b5-b7a9-23b4272d3c67",
-      "f68b4801-f417-48ab-96f4-4ef23eb53320",
-      "3ea93b01-8bfe-4418-9b6d-8519ecfd605c"
+      "0c462bcf-423a-4fd1-bcb4-9025b099ebc1",
+      "3ea93b01-8bfe-4418-9b6d-8519ecfd605c",
+      "f9c5666b-3b08-4f15-8887-cd841f7657ce",
+      "e1980e1e-ed96-4a22-9221-4a8274c3a681",
+      "a1ae7169-4857-40b9-b433-7bec4b6513cf",
+      "275cbc1e-ca1b-4765-8db1-d81369f9757d",
+      "af7667cc-7e8c-48ce-b815-639196cb4568",
+      "aba5ed42-344a-4cab-a40a-1f789ded6a64",
+      "ab7777e6-a3a8-43a2-aa7e-4fbed97d5617",
+      "adb6b022-a171-46a6-8241-c5a2db4a99d6"
     ],
     "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
     "created_time": 1532155984103,
@@ -24,7 +32,7 @@
     "id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
     "ignore_block_count": true,
     "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-    "last_edited_time": 1539763343092,
+    "last_edited_time": 1540196956987,
     "parent_id": "f4005538-90d3-4185-ba79-5870807c2615",
     "parent_table": "block",
     "properties": {
@@ -35,7 +43,7 @@
       ]
     },
     "type": "page",
-    "version": 61,
+    "version": 117,
     "content_resolved": [
       {
         "alive": true,
@@ -88,10 +96,10 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538807223212,
-        "id": "45c2e566-a6f4-4128-9a28-c00bef3f40f6",
+        "created_time": 1540196330009,
+        "id": "5cbb7f1a-1d80-4737-aab9-00e0488de51a",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538807223212,
+        "last_edited_time": 1540196330009,
         "parent_id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
         "parent_table": "block",
         "type": "text",
@@ -100,24 +108,42 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532196171978,
-        "id": "79d1fd80-943d-4b02-b660-616e5c9a6ce5",
+        "created_time": 1540196327777,
+        "id": "36d61cb4-8670-4b7b-9bdd-ee7f44acb943",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538807242022,
+        "last_edited_time": 1540196415579,
         "parent_id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
         "parent_table": "block",
         "properties": {
           "title": [
             [
-              "Ways to append values to a slice."
+              "Built-in function "
+            ],
+            [
+              "append(slice, elements...)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " adds element to a slice and returns a new slice."
             ]
           ]
         },
         "type": "text",
-        "version": 122,
+        "version": 552,
         "inline_content": [
           {
-            "Text": "Ways to append values to a slice."
+            "Text": "Built-in function "
+          },
+          {
+            "Text": "append(slice, elements...)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " adds element to a slice and returns a new slice."
           }
         ]
       },
@@ -148,28 +174,37 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1532196169310,
-        "id": "3ca9d214-8375-46bf-a8c8-00002e50e03c",
+        "created_time": 1540195745792,
+        "format": {
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-slice-append-one?lite=true",
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_preserve_scale": false
+        },
+        "id": "a32359ac-20b6-49bb-9985-7a7beac9d87a",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538807307166,
+        "last_edited_time": 1540195748410,
         "parent_id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
         "parent_table": "block",
         "properties": {
-          "language": [
+          "source": [
             [
-              "Go"
-            ]
-          ],
-          "title": [
-            [
-              "a = append(a, “hello”)"
+              "https://repl.it/@kjk1/gobook-slice-append-one"
             ]
           ]
         },
-        "type": "code",
-        "version": 34,
-        "code": "a = append(a, “hello”)",
-        "code_language": "Go"
+        "type": "embed",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-slice-append-one",
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 600,
+          "block_page_width": false,
+          "block_preserve_scale": false,
+          "display_source": "https://repl.it/@kjk1/gobook-slice-append-one?lite=true"
+        }
       },
       {
         "alive": true,
@@ -198,28 +233,37 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1538807283427,
-        "id": "44ae1622-7c26-4ec4-8e7f-e0ac7ef0b47e",
+        "created_time": 1540195812467,
+        "format": {
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-slice-append-two?lite=true",
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_preserve_scale": false
+        },
+        "id": "a4cb6f29-1e51-475f-8685-758e030ed652",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538807309613,
+        "last_edited_time": 1540195814331,
         "parent_id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
         "parent_table": "block",
         "properties": {
-          "language": [
+          "source": [
             [
-              "Go"
-            ]
-          ],
-          "title": [
-            [
-              "a = append(a, “hello”, “world”)"
+              "https://repl.it/@kjk1/gobook-slice-append-two"
             ]
           ]
         },
-        "type": "code",
-        "version": 14,
-        "code": "a = append(a, “hello”, “world”)",
-        "code_language": "Go"
+        "type": "embed",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-slice-append-two",
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 600,
+          "block_page_width": false,
+          "block_preserve_scale": false,
+          "display_source": "https://repl.it/@kjk1/gobook-slice-append-two?lite=true"
+        }
       },
       {
         "alive": true,
@@ -248,36 +292,36 @@
       {
         "alive": true,
         "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "created_time": 1539763335912,
+        "created_time": 1540195565288,
         "format": {
           "block_width": 800,
           "block_height": 600,
-          "display_source": "https://repl.it/@kjk1/book-slice-add?lite=true",
+          "display_source": "https://repl.it/@kjk1/gobook-slice-add?lite=true",
           "block_full_width": false,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false
         },
-        "id": "f68b4801-f417-48ab-96f4-4ef23eb53320",
+        "id": "0c462bcf-423a-4fd1-bcb4-9025b099ebc1",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1539763337875,
+        "last_edited_time": 1540195567441,
         "parent_id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
         "parent_table": "block",
         "properties": {
           "source": [
             [
-              "https://repl.it/@kjk1/book-slice-add"
+              "https://repl.it/@kjk1/gobook-slice-add"
             ]
           ]
         },
         "type": "embed",
         "version": 8,
-        "source": "https://repl.it/@kjk1/book-slice-add",
+        "source": "https://repl.it/@kjk1/gobook-slice-add",
         "format_embed": {
           "block_full_width": false,
           "block_height": 600,
-          "block_page_width": true,
+          "block_page_width": false,
           "block_preserve_scale": false,
-          "display_source": "https://repl.it/@kjk1/book-slice-add?lite=true"
+          "display_source": "https://repl.it/@kjk1/gobook-slice-add?lite=true"
         }
       },
       {
@@ -286,7 +330,264 @@
         "created_time": 1538807381670,
         "id": "3ea93b01-8bfe-4418-9b6d-8519ecfd605c",
         "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
-        "last_edited_time": 1538807381670,
+        "last_edited_time": 1540197658006,
+        "parent_id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Append might create a new slice"
+            ]
+          ]
+        },
+        "type": "sub_header",
+        "version": 133,
+        "inline_content": [
+          {
+            "Text": "Append might create a new slice"
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1540195834755,
+        "id": "f9c5666b-3b08-4f15-8887-cd841f7657ce",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1540195863396,
+        "parent_id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Maybe you noticed the patter "
+            ],
+            [
+              "a = append(a, ....)",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              "."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 152,
+        "inline_content": [
+          {
+            "Text": "Maybe you noticed the patter "
+          },
+          {
+            "Text": "a = append(a, ....)",
+            "AttrFlags": 2
+          },
+          {
+            "Text": "."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1540195863844,
+        "id": "e1980e1e-ed96-4a22-9221-4a8274c3a681",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1540196581316,
+        "parent_id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "A slice uses an array of fixed size for storage. When number of slice elements exceeds size of array, "
+            ],
+            [
+              "append",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              " needs to re-allocate the array and create a new slice. For efficiency the newly allocated array has some spare elements, so that we don't have to re-allocate backing array every time we append an element to a slice."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 934,
+        "inline_content": [
+          {
+            "Text": "A slice uses an array of fixed size for storage. When number of slice elements exceeds size of array, "
+          },
+          {
+            "Text": "append",
+            "AttrFlags": 2
+          },
+          {
+            "Text": " needs to re-allocate the array and create a new slice. For efficiency the newly allocated array has some spare elements, so that we don't have to re-allocate backing array every time we append an element to a slice."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1540196581540,
+        "id": "a1ae7169-4857-40b9-b433-7bec4b6513cf",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1540196655871,
+        "parent_id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This program shows how many elements does it take to re-allocate new array."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 184,
+        "inline_content": [
+          {
+            "Text": "This program shows how many elements does it take to re-allocate new array."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1540196659153,
+        "format": {
+          "block_width": 800,
+          "block_height": 600,
+          "display_source": "https://repl.it/@kjk1/gobook-slice-append-show-reallocation?lite=true",
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_preserve_scale": false
+        },
+        "id": "275cbc1e-ca1b-4765-8db1-d81369f9757d",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1540196660979,
+        "parent_id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
+        "parent_table": "block",
+        "properties": {
+          "source": [
+            [
+              "https://repl.it/@kjk1/gobook-slice-append-show-reallocation"
+            ]
+          ]
+        },
+        "type": "embed",
+        "version": 8,
+        "source": "https://repl.it/@kjk1/gobook-slice-append-show-reallocation",
+        "format_embed": {
+          "block_full_width": false,
+          "block_height": 600,
+          "block_page_width": false,
+          "block_preserve_scale": false,
+          "display_source": "https://repl.it/@kjk1/gobook-slice-append-show-reallocation?lite=true"
+        }
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1540196429027,
+        "id": "af7667cc-7e8c-48ce-b815-639196cb4568",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1540196956251,
+        "parent_id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "As you can see, the number appends needed to re-create the array increases with the size of the slice."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 232,
+        "inline_content": [
+          {
+            "Text": "As you can see, the number appends needed to re-create the array increases with the size of the slice."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1540196751266,
+        "id": "aba5ed42-344a-4cab-a40a-1f789ded6a64",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1540197168404,
+        "parent_id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "Go doesn't allow comparing slices so we use the fact that in current implementation we can take address of the slice ("
+            ],
+            [
+              "%p",
+              [
+                [
+                  "c"
+                ]
+              ]
+            ],
+            [
+              ") and that address can be used as identity of slice."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 888,
+        "inline_content": [
+          {
+            "Text": "Go doesn't allow comparing slices so we use the fact that in current implementation we can take address of the slice ("
+          },
+          {
+            "Text": "%p",
+            "AttrFlags": 2
+          },
+          {
+            "Text": ") and that address can be used as identity of slice."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1540196956987,
+        "id": "ab7777e6-a3a8-43a2-aa7e-4fbed97d5617",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1540196998639,
+        "parent_id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
+        "parent_table": "block",
+        "properties": {
+          "title": [
+            [
+              "This is an internal implementation detail that might change in the future."
+            ]
+          ]
+        },
+        "type": "text",
+        "version": 298,
+        "inline_content": [
+          {
+            "Text": "This is an internal implementation detail that might change in the future."
+          }
+        ]
+      },
+      {
+        "alive": true,
+        "created_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "created_time": 1540196935109,
+        "id": "adb6b022-a171-46a6-8241-c5a2db4a99d6",
+        "last_edited_by": "bb760e2d-d679-4b64-b2a9-03005b21870a",
+        "last_edited_time": 1540196935109,
         "parent_id": "a078a754-82bb-4e74-8a78-31acf0dd8f42",
         "parent_table": "block",
         "type": "text",

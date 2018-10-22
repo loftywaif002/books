@@ -8450,3 +8450,108 @@ func main() {
 	// :show end
 }
 ---
+@url: https://repl.it/@kjk1/gobook-slice-append-one
+main.go:+149
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	a := []string{"hello"}
+	a = append(a, "world")
+	fmt.Printf("a: %#v\n", a)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-slice-append-two
+main.go:+156
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	a := []string{"hello"}
+	a = append(a, "world", "now")
+	fmt.Printf("a: %#v\n", a)
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-slice-add
+main.go:+176
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	a := []string{"!"}
+	a2 := []string{"Hello", "world"}
+	a = append(a, a2...)
+	fmt.Printf("a: %#v\n", a)
+	// :show end
+}
+---
+@url: https://repl.it/@kjk1/gobook-slice-append-show-reallocation
+main.go:+389
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	var a []int
+	ptr := fmt.Sprintf("%p", a)
+	n := 0
+  nAppends := 0
+	for {
+		a = append(a, 1)
+    nAppends++
+		currPtr := fmt.Sprintf("%p", a)
+		if currPtr != ptr {
+			fmt.Printf("It took %d appends to re-allocate slice\n", nAppends)
+      nAppends = 0
+      ptr = currPtr
+			n++
+			if n == 6 {
+				break
+			}
+		}
+	}
+	// :show end
+}
+
+---
+@url: https://repl.it/@kjk1/gobook-slice-append-show-reallocation
+main.go:+389
+package main
+
+import "fmt"
+
+func main() {
+	// :show start
+	var a []int
+	ptr := fmt.Sprintf("%p", a)
+	n := 0
+  nAppends := 0
+	for {
+		a = append(a, 1)
+    nAppends++
+		currPtr := fmt.Sprintf("%p", a)
+		if currPtr != ptr {
+			fmt.Printf("Appends needed to re-allocate slice: %d\n", nAppends)
+      nAppends = 0
+      ptr = currPtr
+			n++
+			if n == 6 {
+				break
+			}
+		}
+	}
+	// :show end
+}
+
+---

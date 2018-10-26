@@ -26,7 +26,7 @@ func soContributorURL(userID int, userName string) string {
 }
 
 func loadSoContributorsMust(book *Book) {
-	path := filepath.Join("books", book.Dir, "so_contributors.txt")
+	path := filepath.Join("books", book.Dir+"_so_contributors.txt")
 	fmt.Printf("loadSoContributorsMust: book.Dir: %s, path: %s\n", book.Dir, path)
 	lines, err := common.ReadFileAsLines(path)
 	panicIfErr(err)

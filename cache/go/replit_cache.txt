@@ -8585,3 +8585,42 @@ func main() {
 }
 
 ---
+@url: https://repl.it/@kjk1/gobook-http-client-timeout
+main.go:+911
+// allow error, no playground
+package main
+
+import (
+	"context"
+	"log"
+	"net/http"
+	"time"
+)
+
+func main() {
+	// :show start
+
+	// httpbin.org is a service for testing HTTP client
+	// this URL waits 3 seconds before returning a response
+	uri := "https://httpbin.org/delay/3"
+	req, err := http.NewRequest("GET", uri, nil)
+	if err != nil {
+		log.Fatalf("http.NewRequest() failed with '%s'\n", err)
+	}
+
+	// create a context indicating 100 ms timeout
+	ctx, _ := context.WithTimeout(context.Background(), time.Millisecond*100)
+	// get a new request based on original request but with the context
+	req = req.WithContext(ctx)
+
+	resp, err := http.DefaultClient.Do(req)
+	if err != nil {
+		// the request should timeout because we want to wait max 100 ms
+		// but the server doesn't return response for 3 seconds
+		log.Fatalf("http.DefaultClient.Do() failed with:\n'%s'\n", err)
+	}
+	defer resp.Body.Close()
+	// :show end
+}
+
+---

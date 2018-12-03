@@ -1384,6 +1384,12 @@ a: []string{"this", "is", "a", "string"}
 s2: "this,is,a,string"
 
 |======|
+655d90af8a33656c0e646c4e9cedaaff13c55ebe:
+2018/12/03 04:02:58 http.DefaultClient.Do() failed with:
+'Get https://httpbin.org/delay/3: context deadline exceeded'
+exit status 1
+
+|======|
 65b721a57a0c1c0d0116bea11925e08a8a846786:
 Output:
 go version go1.10 darwin/amd64
